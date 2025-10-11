@@ -1,0 +1,11 @@
+Background
+Tramadol is an opioid analgesic licensed for use in moderate to severe pain. It is considered as a low risk for abuse, so control regulations are not as stringent as for 'strong' opioids such as morphine. It has a potential role as a step 2 option of the World Health Organization (WHO) analgesic ladder. 
+Objectives
+To assess the benefits and adverse effects of tramadol with or without paracetamol (acetaminophen) for cancer‐related pain. 
+Search methods
+We searched the following databases using a wide range of search terms: the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, and LILACS. We also searched three clinical trials registry databases. The date of the last search was 2 November 2016. 
+Selection criteria
+We selected studies that were randomised, with placebo or active controls, or both, and included a minimum of 10 participants per treatment arm. We were interested particularly in blinded studies, but also included open studies. 
+We excluded non‐randomised studies, studies of experimental pain, case reports, and clinical observations. 
+Data collection and analysis
+Two review authors independently extracted data using a standard form and checked for agreement before entry into Review Manager 5. We included information about the number of participants treated and demographic details, type of cancer, drug and dosing regimen, study design (placebo or active control) and methods, study duration and follow‐up, analgesic outcome measures and results, withdrawals, and adverse events. We collated multiple reports of the same study, so that each study, rather than each report, was the unit of interest in the review. We assessed the evidence using GRADE and created a 'Summary of findings' table. 

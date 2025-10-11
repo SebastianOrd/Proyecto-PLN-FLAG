@@ -1,0 +1,13 @@
+Background
+Diarrhoea accounts for 1.8 million deaths in children in low‐ and middle‐income countries (LMICs). One of the identified strategies to prevent diarrhoea is hand washing. 
+Objectives
+To assess the effects of hand‐washing promotion interventions on diarrhoeal episodes in children and adults. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, nine other databases, the World Health Organization (WHO) International Clinical Trial Registry Platform (ICTRP), and metaRegister of Controlled Trials (mRCT) on 8 January 2020, together with reference checking, citation searching and contact with study authors to identify additional studies. 
+Selection criteria
+Individually‐randomized controlled trials (RCTs) and cluster‐RCTs that compared the effects of hand‐washing interventions on diarrhoea episodes in children and adults with no intervention. 
+Data collection and analysis
+Three review authors independently assessed trial eligibility, extracted data, and assessed risks of bias. We stratified the analyses for child day‐care centres or schools, community, and hospital‐based settings. Where appropriate, we pooled incidence rate ratios (IRRs) using the generic inverse variance method and a random‐effects model with a 95% confidence interval (CI). We used the GRADE approach to assess the certainty of the evidence. 
+Main results
+We included 29 RCTs: 13 trials from child day‐care centres or schools in mainly high‐income countries (54,471 participants), 15 community‐based trials in LMICs (29,347 participants), and one hospital‐based trial among people with AIDS in a high‐income country (148 participants). All the trials and follow‐up assessments were of short‐term duration. 
+Hand‐washing promotion (education activities, sometimes with provision of soap) at child day‐care facilities or schools prevent around one‐third of diarrhoea episodes in high‐income countries (incidence rate ratio (IRR) 0.70, 95% CI 0.58 to 0.85; 9 trials, 4664 participants, high‐certainty evidence) and may prevent a similar proportion in LMICs, but only two trials from urban Egypt and Kenya have evaluated this (IRR 0.66, 95% CI 0.43 to 0.99; 2 trials, 45,380 participants; low‐certainty evidence). Only four trials reported measures of behaviour change, and the methods of data collection were susceptible to bias. In one trial from the USA hand‐washing behaviour was reported to improve; and in the trial from Kenya that provided free soap, hand washing did not increase, but soap use did (data not pooled; 3 trials, 1845 participants; low‐certainty evidence). 

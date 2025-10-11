@@ -1,0 +1,12 @@
+Background
+Crohn’s disease (CD) is a chronic inflammatory disease of the gastrointestinal tract, and immune response modulation is the main treatment strategy to induce remission in active CD. Certolizumab pegol (CZP) is a tumor necrosis factor‐alfa (TNF‐α) inhibitor which regulates impaired immune response. 
+Objectives
+The primary objectives were to evaluate the efficacy and safety of CZP for the induction of remission in CD. 
+Search methods
+We searched MEDLINE, Embase, CENTRAL, the Cochrane IBD group specialized register, trials registers and other sources from inception to 28 January 2019. Moreover, we contacted the pharmaceutical company that manufactures CZP. 
+Selection criteria
+We included randomized controlled trials comparing CZP with placebo or no treatment in active CD patients. 
+Data collection and analysis
+We used standard Cochrane methodological procedures. The main outcomes selected for GRADE analysis were clinical remission at week 8 (Crohn’s Disease Activity Index [CDAI] ≤150), clinical response at week 8 (CDAI reduction ≥ 100 or clinical remission), and serious adverse events. The Mantel‐Haenszel random‐effects method was applied for the statistical analyses. For dichotomous outcomes, we calculated the risk ratio (RR) and corresponding 95% confidence interval (95% CI). 
+Main results
+Four studies involving 1485 participants with moderate to severe CD met the inclusion criteria and were used in the meta‐analyses. All studies included active CD patients with CDAI ranging from 220 to 450. Most patients were adults over 18 years of age. One study was identified as high risk of bias due to a non‐identical placebo while the other studies were judged to be at low risk of bias. 

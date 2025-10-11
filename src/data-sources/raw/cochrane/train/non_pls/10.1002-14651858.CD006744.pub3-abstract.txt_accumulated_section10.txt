@@ -1,0 +1,10 @@
+Background
+Acute urinary retention is a urological emergency in men and requires urgent catheterisation. Any intervention which aims at improving urinary symptoms following an acute urinary retention episode could be potentially beneficial. Alpha blockers relax prostatic smooth muscle cells thereby decreasing the resistance to urinary flow and by doing so could improve urinary symptoms. 
+Objectives
+To assess the effectiveness of alpha blockers on successful resumption of micturition following removal of a urethral urinary catheter after an episode of acute urinary retention in men. In the absence of internationally agreed outcome measures for the success of a trial without catheter, success was defined as the return to satisfactory voiding without need for re‐catheterisation within 24 hours. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Trials Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, MEDLINE in process, and handsearching of journals and conference proceedings (searched 9 October 2013), CENTRAL (2013, Issue 5) (searched 5 June 2013), MEDLINE 1946 to May Week 4 2013, MEDLINE in Process (covering to 3 June 2013), EMBASE Classic and EMBASE 1947 to 2013 Week 22 (all searched 4 June 2013) and the reference lists of relevant articles. No language or other restrictions were imposed on the searches. 
+Selection criteria
+Only randomised and quasi‐randomised clinical trials of alpha blockers for trial without a urethral catheter following an episode of acute urinary retention in men were included. 
+Data collection and analysis
+Two review authors independently examined all the citations and abstracts derived from the search strategy. Any disagreement about trial selection and inclusion was resolved by discussion. A third independent judgement was sought where disagreement persisted. Two review authors extracted independently, cross‐checked and processed the data as described in the Cochrane Handbook for Systematic Reviews of Intervention. Quality of evidence of the critical outcomes was assessed by adopting the GRADE approach. 

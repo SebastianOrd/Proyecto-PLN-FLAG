@@ -1,0 +1,13 @@
+Background
+Vitamin K is necessary for the synthesis of coagulation factors. Term infants, especially those who are exclusively breast fed, are deficient in vitamin K and consequently may have vitamin K deficiency bleeding (VKDB). Preterm infants are potentially at greater risk for VKDB because of delayed feeding and subsequent delay in the colonization of their gastrointestinal system with vitamin K producing microflora, as well as immature hepatic and hemostatic function.  
+Objectives
+To determine the effect of vitamin K prophylaxis in the prevention of vitamin K deficiency bleeding (VKDB) in preterm infants. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 11), MEDLINE via PubMed (1966 to 5 December 2016), Embase (1980 to 5 December 2016), and CINAHL (1982 to 5 December 2016). We also searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles. 
+Selection criteria
+Randomized controlled trials (RCTs) or quasi‐RCTs of any preparation of vitamin K given to preterm infants. 
+Data collection and analysis
+We evaluated potential studies and extracted data in accordance with the recommendations of Cochrane Neonatal. 
+Main results
+We did not identify any eligible studies that compared vitamin K to no treatment.
+One study compared intravenous (IV) to intramuscular (IM) administration of vitamin K and compared various dosages of vitamin K. Three different prophylactic regimes of vitamin K (0.5 mg IM, 0.2 mg vitamin K1, or 0.2 mg IV) were given to infants less than 32 weeks' gestation. Given that only one small study met the inclusion criteria, we assessed the quality of the evidence for the outcomes evaluated as low. 

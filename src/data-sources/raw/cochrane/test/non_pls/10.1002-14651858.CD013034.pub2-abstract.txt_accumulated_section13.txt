@@ -1,0 +1,13 @@
+Background
+Patellar tendinopathy is an overuse condition that commonly affects athletes. Surgery is usually offered if medical and physical therapies fail to treat it effectively. There is variation in the type of surgery performed for the condition. 
+Objectives
+To assess the benefits and harms of surgery for patellar tendinopathy in adults.
+Search methods
+We searched the following databases, to 17 July 2018: the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Library, OVID MEDLINE, OVID Embase, clinical trial registries (www.ClinicalTrials.gov) and the WHO trials portal (www.who.int/ictrp/en/). 
+Selection criteria
+We included all randomised controlled trials (RCTs) that compared surgical techniques (open or arthroscopic) with non‐operative treatment (including placebo surgery, exercise or other non‐surgical modalities) in adults with patellar tendinopathy. 
+Major outcomes assessed were knee pain, function, quality of life, participant global assessment of success, withdrawal rate, proportion with adverse events and proportion with tendon rupture. 
+Data collection and analysis
+Two review authors selected studies for inclusion, extracted trial characteristics and outcome data, assessed the risk of bias and assessed the quality of the evidence using GRADE. 
+Main results
+Two trials (92 participants) met our inclusion criteria. Participants in both trials were followed for 12 months. Neither trial compared surgery to placebo surgery. One trial (40 randomised participants) compared open surgical excision with eccentric exercises, and the other compared arthroscopic surgery with sclerosing injections (52 randomised participants). Due to the nature of the interventions, neither the participants or the investigators were blinded to the group allocation, resulting in the potential for performance and detection bias. Some outcomes were selectively not recorded, leading to reporting bias. Overall, the certainty of the evidence from these studies was low for all outcomes due to the potential for bias, and imprecision due to small sample sizes. 

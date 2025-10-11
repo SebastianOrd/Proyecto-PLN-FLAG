@@ -1,0 +1,14 @@
+Background
+Bronchiectasis is predominantly an acquired disease process that represents the end stage of a variety of unrelated pulmonary insults. It is defined as persistent irreversible dilatation and distortion of medium‐sized bronchi. It has been suggested that with widespread use of high‐resolution computed tomography, more bronchiectasis diagnoses are being made. Patients diagnosed with bronchiectasis frequently have difficulty expectorating sputum. Sputum therefore is retained in the lungs and may become infected, leading to further lung damage. Mucolytic agents target hypersecretion or changed physiochemical properties of sputum to make it easier to clear. One drug, recombinant human DNase, breaks down the DNA that is released at the site of infection by neutrophils. 
+Mucus clearance along with antimicrobial therapy remains an integral part of bronchiectasis management. Chest physiotherapy along with mucolytic agents is commonly used in practice without clear supportive evidence. 
+Objectives
+To determine whether ingested or inhaled mucolytics are effective in the treatment of patients with bronchiectasis. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register and reference lists of relevant articles. We contacted experts in the field and drug companies. Searches were current as of June 2013. 
+Selection criteria
+Randomised trials of mucolytic treatment in people with bronchiectasis but not cystic fibrosis. 
+Data collection and analysis
+Data extraction was performed independently by two review authors. Study authors were contacted for confirmation. 
+Main results
+Four trials (with a combined total of 528 adult participants) were included, but almost none of the data from these studies could be aggregated in a meta‐analysis. 
+One trial (with 88 participants) compared bromhexine versus placebo. Compared with placebo, high doses of bromhexine with antibiotics eased difficulty in expectoration (mean difference (MD) ‐0.53, 95% confidence interval (CI) ‐0.81 to ‐0.25 at 16 days); the quality of the evidence was rated as low. A reduction in sputum production was noted with bromhexine (MD ‐21.5%, 95% CI ‐38.9 to ‐4.1 at day 16); again the quality of the evidence was rated as low. No significant differences between bromhexine and placebo were observed with respect to reported adverse events (odds ratio (OR) 2.93; 95% CI 0.12 to 73.97), and again the quality of the evidence was rated as low. 

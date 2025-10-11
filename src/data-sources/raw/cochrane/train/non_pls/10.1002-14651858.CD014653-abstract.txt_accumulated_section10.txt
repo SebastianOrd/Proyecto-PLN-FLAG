@@ -1,0 +1,10 @@
+Background
+Dialysis treatments weigh heavily on patients' physical and psychosocial health. Multiple studies have assessed the potential for exercise training to improve outcomes in adults undergoing dialysis. However, uncertainties exist in its relevance and sustainable benefits for patient‐important outcomes. This is an update of a review first published in 2011. 
+Objectives
+To assess the benefits and safety of regular structured exercise training in adults undergoing dialysis on patient‐important outcomes including death, cardiovascular events, fatigue, functional capacity, pain, and depression. We also aimed to define the optimal prescription of exercise in adults undergoing dialysis. 
+Search methods
+In this update, we conducted a systematic search of the Cochrane Kidney and Transplant Register of Studies up to 23 December 2020. The Register includes studies identified from CENTRAL, MEDLINE, EMBASE, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov as well as kidney‐related journals and the proceedings of major kidney conferences. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs of any structured exercise programs of eight weeks or more in adults undergoing maintenance dialysis compared to no exercise or sham exercise. 
+Data collection and analysis
+Two authors independently assessed the search results for eligibility, extracted the data and assessed the risk of bias using the Cochrane risk of bias tool. Whenever appropriate, we performed random‐effects meta‐analyses of the mean difference in outcomes. The primary outcomes were death (any cause), cardiovascular events and fatigue. Secondary outcomes were health‐related quality of life (HRQoL), depression, pain, functional capacity, blood pressure, adherence to the exercise program, and intervention‐related adverse events. 

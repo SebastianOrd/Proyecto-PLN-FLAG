@@ -1,0 +1,10 @@
+Background
+Sutures (stitches), staples and adhesive tapes have been used for many years as methods of wound closure, but tissue adhesives have entered clinical practice more recently. Closure of wounds with sutures enables the closure to be meticulous, but the sutures may show tissue reactivity and can require removal. Tissue adhesives offer the advantages of an absence of risk of needlestick injury and no requirement to remove sutures later. Initially, tissue adhesives were used primarily in emergency room settings, but this review looks at the use of tissue adhesives in the operating room/theatre where surgeons are using them increasingly for the closure of surgical skin incisions. 
+Objectives
+To determine the effects of various tissue adhesives compared with conventional skin closure techniques for the closure of surgical wounds. 
+Search methods
+In March 2014 for this second update we searched the Cochrane Wounds Group Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE and EBSCO CINAHL. We did not restrict the search and study selection with respect to language, date of publication or study setting. 
+Selection criteria
+Only randomised controlled trials were eligible for inclusion.
+Data collection and analysis
+We conducted screening of eligible studies, data extraction and risk of bias assessment independently and in duplicate. We expressed results as random‐effects models using mean difference for continuous outcomes and risk ratios (RR) with 95% confidence intervals (CI) for dichotomous outcomes. We investigated heterogeneity, including both clinical and methodological factors. 

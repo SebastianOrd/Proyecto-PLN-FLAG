@@ -1,0 +1,10 @@
+Background
+Prevention of relapse is a major issue in the management of quiescent Crohn's disease (CD). Current therapies (e.g. methotrexate, biologics, 6‐mercaptopurine and azathioprine) may be effective for maintaining remission in CD, but these drugs may cause significant adverse events. Interventions that are effective and safe for maintenance of remission in CD are desirable. 
+Objectives
+The primary objectives were to evaluate the efficacy and safety of enteral nutrition for the maintenance of remission in CD and to assess the impact of formula composition on effectiveness. 
+Search methods
+We searched MEDLINE, Embase, CENTRAL, the Cochrane IBD Group Specialized Register and clinicaltrials.gov from inception to 27 July 2018. We also searched references of retrieved studies and reviews. 
+Selection criteria
+Randomised controlled trials (RCTs) including participants of any age with quiescent CD were considered for inclusion. Studies that compared enteral nutrition with no intervention, placebo or any other intervention were selected for review. 
+Data collection and analysis
+Two authors independently screened studies for inclusion, extracted data and assessed methodological quality using the Cochrane risk of bias tool. The primary outcome was clinical or endoscopic relapse as defined by the primary studies. Secondary outcomes included anthropometric measures (i.e. height and weight), quality of life (QoL), adverse events, serious adverse events and withdrawal due to adverse events. We calculated the risk ratio and 95% confidence interval (CI) for dichotomous outcomes. For continuous outcomes, we calculated the mean difference and 95% CI. A random‐effects model was used for the statistical analysis. We used the GRADE criteria to assess the overall certainty of the evidence supporting the primary outcome and selected secondary outcomes. 

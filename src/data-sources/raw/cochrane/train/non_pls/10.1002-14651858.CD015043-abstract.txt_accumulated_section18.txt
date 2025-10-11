@@ -1,0 +1,18 @@
+Background
+The role of vitamin D supplementation as a treatment for COVID‐19 has been a subject of considerable discussion. A thorough understanding of the current evidence regarding the effectiveness and safety of vitamin D supplementation for COVID‐19 based on randomised controlled trials is required. 
+Objectives
+To assess whether vitamin D supplementation is effective and safe for the treatment of COVID‐19 in comparison to an active comparator, placebo, or standard of care alone, and to maintain the currency of the evidence, using a living systematic review approach. 
+Search methods
+We searched the Cochrane COVID‐19 Study Register, Web of Science and the WHO COVID‐19 Global literature on coronavirus disease to identify completed and ongoing studies without language restrictions to 11 March 2021. 
+Selection criteria
+We followed standard Cochrane methodology. We included randomised controlled trials (RCTs) evaluating vitamin D supplementation for people with COVID‐19, irrespective of disease severity, age, gender or ethnicity. 
+We excluded studies investigating preventive effects, or studies including populations with other coronavirus diseases (severe acute respiratory syndrome (SARS) or Middle East respiratory syndrome (MERS)). 
+Data collection and analysis
+We followed standard Cochrane methodology.
+To assess bias in included studies, we used the Cochrane risk of bias tool (ROB 2) for RCTs. We rated the certainty of evidence using the GRADE approach for the following prioritised outcome categories: individuals with moderate or severe COVID‐19: all‐cause mortality, clinical status, quality of life, adverse events, serious adverse events, and for individuals with asymptomatic or mild disease: all‐cause mortality, development of severe clinical COVID‐19 symptoms, quality of life, adverse events, serious adverse events. 
+Main results
+We identified three RCTs with 356 participants, of whom 183 received vitamin D. In accordance with the World Health Organization (WHO) clinical progression scale, two studies investigated participants with moderate or severe disease, and one study individuals with mild or asymptomatic disease. The control groups consisted of placebo treatment or standard of care alone. 
+Effectiveness of vitamin D supplementation for people with COVID‐19 and moderate to severe disease 
+We included two studies with 313 participants. Due to substantial clinical and methodological diversity of both studies, we were not able to pool data. Vitamin D status was unknown in one study, whereas the other study reported data for vitamin D deficient participants. One study administered multiple doses of oral calcifediol at days 1, 3 and 7,  whereas the other study gave a single high dose of oral cholecalciferol at baseline. We assessed one study with low risk of bias for effectiveness outcomes, and the other with some concerns about randomisation and selective reporting. 
+All‐cause mortality at hospital discharge (313 participants) 
+We found two studies reporting data for this outcome. One study reported no deaths when treated with vitamin D out of 50 participants, compared to two deaths out of 26 participants in the control group (Risk ratio (RR) 0.11, 95% confidence interval (CI) 0.01 to 2.13). The other study reported nine deaths out of 119 individuals in the vitamin D group, whereas six participants out of 118 died in the placebo group (RR 1.49, 95% CI 0.55 to 4.04]. We are very uncertain whether vitamin D has an effect on all‐cause mortality at hospital discharge (very low‐certainty evidence). 

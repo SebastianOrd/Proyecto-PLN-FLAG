@@ -1,0 +1,8 @@
+Background
+Foot ulcers are a disabling complication of diabetes that affect 15% to 25% of people with diabetes at some time in their lives. Phototherapy is a relatively new, non‐invasive, and pain‐free treatment method, which promotes the ulcer repair process through multiple mechanisms such as increased cell growth and vascular activity. Phototherapy may be used as an alternative approach for the treatment of foot ulcers in people with diabetes, but the evidence for its effect compared with placebo or other treatments has not yet been established. 
+Objectives
+To assess the effects of phototherapy for the treatment of foot ulcers in people with diabetes. 
+Search methods
+We searched the Cochrane Wounds Specialised Register (11 October 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library, 2016, Issue 10), Ovid MEDLINE (11 October 2016), Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations) (11 October 2016), Ovid Embase (11 October 2016), EBSCO CINAHL Plus (11 October 2016), and China National Knowledge Infrastructure (24 June 2017). We also searched clinical trials registries for ongoing and unpublished studies on 24 June 2017, and screened reference lists to identify additional studies. We used no restrictions with respect to language, date of publication, or study setting. 
+Selection criteria
+Randomised controlled trials or cluster randomised controlled trials that 1) compared phototherapy with sham phototherapy, no phototherapy, or other physical therapy modalities, 2) compared different forms of phototherapy, or 3) compared phototherapy of different output power, wavelength, power density, or dose range, in adults with diabetes and an open foot ulcer of any severity, in any setting. 

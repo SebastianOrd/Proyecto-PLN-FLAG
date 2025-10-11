@@ -1,0 +1,10 @@
+Background
+This is an updated version of the Cochrane review published in 2005 on selective serotonin re‐uptake inhibitors (SSRIs) for preventing migraine and tension‐type headache. The original review has been split in two parts and this review now only regards tension‐type headache prevention. Another updated review covers migraine. Tension‐type headache is the second most common disorder worldwide and has high social and economic relevance. As serotonin and other neurotransmitters may have a role in pain mechanisms, SSRIs and serotonin‐norepinephrine reuptake inhibitors (SNRIs) have been evaluated for the prevention of tension‐type headache. 
+Objectives
+To determine the efficacy and tolerability of SSRIs and SNRIs compared to placebo and other active interventions in the prevention of episodic and chronic tension‐type headache in adults. 
+Search methods
+For the original review, we searched the Cochrane Central Register of Controlled Trials (CENTRAL 2003, Issue 4), MEDLINE (1966 to January 2004), EMBASE (1994 to May 2003), and Headache Quarterly (1990 to 2003). For this update, we revised the original search strategy to reflect the broader type of intervention (SSRIs and SNRIs). We searched CENTRAL (2014, Issue 10) on the Cochrane Library, MEDLINE (1946 to November 2014), EMBASE (1980 to November 2014), and PsycINFO (1987 to November 2014). We also checked the reference lists of retrieved articles and searched trial registries for ongoing trials. 
+Selection criteria
+We included randomised controlled trials comparing SSRIs or SNRIs with any type of control intervention in participants 18 years and older, of either sex, with tension‐type headache. 
+Data collection and analysis
+Two authors independently extracted data (headache frequency, index, intensity, and duration; use of symptomatic/analgesic medication; quality of life; and withdrawals) and assessed the risk of bias of trials. The primary outcome is tension‐type headache frequency, measured by the number of headache attacks or the number of days with headache per evaluation period. 

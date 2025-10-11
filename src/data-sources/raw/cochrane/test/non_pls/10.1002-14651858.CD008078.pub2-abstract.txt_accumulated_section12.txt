@@ -1,0 +1,12 @@
+Background
+Chronic lymphocytic leukaemia (CLL) accounts for 25% of all leukaemias and is the most common lymphoid malignancy in Western countries. Standard treatment  includes mono‐ or poly‐chemotherapies. Nowadays, monoclonal antibodies are added, especially alemtuzumab and rituximab. However, the impact of these agents remains unclear, as there are hints of an increased risk of severe infections. 
+Objectives
+To assess alemtuzumab compared with no further therapy, or with other anti‐leukaemic therapy in patients with CLL. 
+Search methods
+We searched CENTRAL and MEDLINE (from January 1985 to November 2011), and EMBASE (from 1990 to 2009) as well as conference proceedings for randomised controlled trials (RCTs). Two review authors (KB, NS) independently screened search results. 
+Selection criteria
+We included RCTs comparing alemtuzumab with no further therapy or comparing alemtuzumab with anti‐leukaemic therapy such as chemotherapy or monoclonal antibodies in patients with histologically‐confirmed B‐cell CLL. Both pretreated and chemotherapy‐naive patients were included. 
+Data collection and analysis
+We used hazard ratios (HR) as an effect measure for overall survival (OS) and progression‐free survival (PFS) and risk ratios (RRs) for response rates, treatment‐related mortality (TRM) and adverse events. Two review authors independently extracted data and assessed the quality of trials. 
+Main results
+Our search strategies led to 1542 potentially relevant references. Of these, we included five RCTs involving 845 patients. Overall, we judged the quality of the five trials as moderate. All trials were reported as randomised and open‐label studies. However, two trials were published as abstracts only, therefore, we were unable to assess the potential risk of bias for these trials in detail. Because of the small number of studies in each analysis (two), the quantification of heterogeneity was not reliable. 

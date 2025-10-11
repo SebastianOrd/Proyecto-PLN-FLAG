@@ -1,0 +1,12 @@
+Background
+Pityriasis rosea is a scaly, itchy rash that mainly affects young adults and lasts for 2 to 12 weeks. The effects of many available treatments are uncertain. This is an update of a Cochrane Review first published in 2007. 
+Objectives
+To assess the effects of interventions for the management of pityriasis rosea in any individual diagnosed by a medical practitioner. 
+Search methods
+We updated our searches of the following databases to October 2018: the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, Embase, and LILACS. We searched five trials registers. We also checked the reference lists of included and excluded studies, contacted trial authors, scanned the abstracts from major dermatology conference proceedings, and searched the CAB Abstracts database. We searched PubMed for adverse effects to November 2018. 
+Selection criteria
+Randomised controlled trials of interventions in pityriasis rosea. Treatment could be given in a single therapy or in combination. Eligible comparators were no treatment, placebo, vehicle only, another active compound, or placebo radiation treatment. 
+Data collection and analysis
+We used standard methodological procedures expected by the Cochrane. Our key outcomes were good or excellent rash improvement within two weeks, rated separately by the participant and medical practitioner; serious adverse events; resolution of itch within two weeks (participant‐rated); reduction in itch score within two weeks (participant‐rated); and minor participant‐reported adverse events not requiring withdrawal of the treatment. 
+Main results
+We included 14 trials (761 participants). In general, risk of selection bias was unclear or low, but risk of performance bias and reporting bias was high for 21% of the studies. 

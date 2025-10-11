@@ -1,0 +1,12 @@
+Background
+The genital infection caused by Chlamydia trachomatis (CT) is a common sexually transmitted infection (STI) globally. The infection is mainly asymptomatic in women, thus it can produce infertility and chronic pelvic pain. In men infection is mainly symptomatic, but can evolve to prostatitis. Clinical practice guidelines for CT urogenital infections do not give any specific recommendation about which antibiotic use as first option 
+Objectives
+To assess the efficacy and safety of antibiotic treatment for CT genital infection in men and non‐pregnant women. 
+Search methods
+The Cochrane Sexually Transmitted Infections' (STI) Information Specialist developed the electronic searches in electronic databases (CENTRAL, MEDLINE, Embase and LILACS), and trials registers. We searched studies published from inception to June 2018. 
+Selection criteria
+We included parallel, randomised controlled trials (RCTs) of men, and sexually‐active, non‐pregnant women with CT infection (urethritis or uterine cervicitis or asymptomatic), diagnosed by cell culture for CT, nucleic acid amplification tests (NAAT) or antigen‐based detection methods, who had been treated with any of the antibiotic regimens recommended by any of the updated to 2013 CT Guidelines. 
+Data collection and analysis
+Four review authors screened evidence according to selection criteria and independently extracted data and assessed risk of bias. Two authors developed the 'Summary of findings' tables. We used a fixed‐effect meta‐analysis model for combining data where it was reasonable to assume that studies were estimating the same underlying treatment effect. We estimated the pooled risk ratio in order to establish the effects of the comparisons. Our primary outcomes were microbiological failure and adverse events, and our secondary outcomes were clinical failure, antimicrobial resistance and reinfection. 
+Main results
+We selected 14 studies ( 2715 participants: 2147 (79.08%) men and 568 (20.92%) women). The studies were conducted mainly at STD clinics. Sample sizes ranged from 71 to 606 participants; follow‐up was 29.7 days on average. 

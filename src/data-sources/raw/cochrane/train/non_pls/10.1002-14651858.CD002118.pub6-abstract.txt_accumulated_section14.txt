@@ -1,0 +1,14 @@
+Background
+Advances in embryo culture media have led to a shift in in vitro fertilisation (IVF) practice from cleavage‐stage embryo transfer to blastocyst‐stage embryo transfer. The rationale for blastocyst‐stage transfer is to improve both uterine and embryonic synchronicity and enable self selection of viable embryos, thus resulting in better live birth rates. 
+Objectives
+To determine whether blastocyst‐stage (day 5 to 6) embryo transfer improves the live birth rate (LBR) per fresh transfer, and other associated outcomes, compared with cleavage‐stage (day 2 to 3) embryo transfer. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group Specialised Register of controlled trials, CENTRAL, MEDLINE, Embase, PsycINFO, and CINAHL, from inception to October 2021. We also searched registers of ongoing trials and the reference lists of studies retrieved. 
+Selection criteria
+We included randomised controlled trials (RCTs) which compared the effectiveness of IVF with blastocyst‐stage embryo transfer versus IVF with cleavage‐stage embryo transfer. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. Our primary outcomes were LBR per fresh transfer and cumulative clinical pregnancy rates (cCPR). Secondary outcomes were clinical pregnancy rate (CPR), multiple pregnancy, high‐order multiple pregnancy, miscarriage (all following first embryo transfer), failure to transfer embryos, and whether supernumerary embryos were frozen for transfer at a later date (frozen‐thawed embryo transfer). We assessed the overall quality of the evidence for the main comparisons using GRADE methods. 
+Main results
+We included 32 RCTs (5821 couples or women).
+The live birth rate following fresh transfer was higher in the blastocyst‐stage transfer group (odds ratio (OR) 1.27, 95% confidence interval (CI) 1.06 to 1.51; I2 = 53%; 15 studies, 2219 women; low‐quality evidence). This suggests that if 31% of women achieve live birth after fresh cleavage‐stage transfer, between 32% and 41% would do so after fresh blastocyst‐stage transfer. 
+We are uncertain whether blastocyst‐stage transfer improves the cCPR. A post hoc analysis showed that vitrification could increase the cCPR. This is an interesting finding that warrants further investigation when more studies using vitrification are published. 

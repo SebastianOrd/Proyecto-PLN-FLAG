@@ -1,0 +1,10 @@
+Background
+Tubal sterilization by hysteroscopy involves inserting a foreign body in both fallopian tubes. Over a three‐month period, the tubal lumen is occluded by tissue growth stimulated by the insert. Tubal sterilization by hysteroscopy has advantages over laparoscopy or mini‐laparotomy, including the avoidance of abdominal incisions and the convenience of performing the procedure in an office‐based setting. Pain, an important determinant of procedure acceptability, can be a concern when tubal sterilization is performed in the office. 
+Objectives
+To review all randomized controlled trials that evaluated interventions to decrease pain during tubal sterilization by hysteroscopy. 
+Search methods
+From January to March 2011, we searched the computerized databases of MEDLINE, POPLINE, CENTRAL, EMBASE, LILACS, and CINAHL for relevant trials. We searched for current trials via Clinicaltrials.gov. We also examined the reference lists of pertinent articles and wrote to known investigators for information about other published or unpublished trials. 
+Selection criteria
+We included all randomized controlled trials that evaluated pain management at the time of sterilization by hysteroscopy. The intervention could be compared to another intervention or placebo. 
+Data collection and analysis
+Initial data were extracted by one review author. A second review author verified all extracted data. Whenever possible, the analysis was conducted with all women randomized and in the original assigned groups. Data were analyzed using RevMan software. Pain was measured using either a 10‐cm or 100‐point visual analog scale (VAS). When pain was measured at multiple points during the procedure, the overall pain score was considered the primary treatment effect. If this was not measured, a summation of all pain scores for the procedure was considered to be the primary treatment effect. For continuous variables, the mean difference with 95% confidence interval was computed. 

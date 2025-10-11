@@ -1,0 +1,19 @@
+Background
+Transurethral radiofrequency collagen denaturation is a relatively novel, minimally invasive device‐based intervention used to treat individuals with urinary incontinence (UI). No systematic review of the evidence supporting its use has been published to date. 
+Objectives
+To evaluate the efficacy of transurethral radiofrequency collagen denaturation, compared with other interventions, in the treatment of women with UI. 
+Review authors sought to compare the following.
+• Transurethral radiofrequency collagen denaturation versus no treatment/sham treatment.
+• Transurethral radiofrequency collagen denaturation versus conservative physical treatment. 
+• Transurethral radiofrequency collagen denaturation versus mechanical devices (pessaries for UI). 
+• Transurethral radiofrequency collagen denaturation versus drug treatment.
+• Transurethral radiofrequency collagen denaturation versus injectable treatment for UI. 
+• Transurethral radiofrequency collagen denaturation versus other surgery for UI.
+Search methods
+We conducted a systematic search of the Cochrane Incontinence Group Specialised Register (searched 19 December 2014), EMBASE and EMBASE Classic (January 1947 to 2014 Week 50), Google Scholar and three trials registries in December 2014, along with reference checking. We sought to identify unpublished studies by handsearching abstracts of major gynaecology and urology meetings, and by contacting experts in the field and the device manufacturer. 
+Selection criteria
+Randomised and quasi‐randomised trials of transurethral radiofrequency collagen denaturation versus no treatment/sham treatment, conservative physical treatment, mechanical devices, drug treatment, injectable treatment for UI or other surgery for UI in women were eligible. 
+Data collection and analysis
+We screened search results and selected eligible studies for inclusion. We assessed risk of bias and analysed dichotomous variables as risk ratios (RRs) with 95% confidence intervals (CIs) and continuous variables as mean differences (MDs) with 95% CIs. We rated the quality of evidence using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach. 
+Main results
+We included in the analysis one small sham‐controlled randomised trial of 173 women performed in the United States. Participants enrolled in this study had been diagnosed with stress UI and were randomly assigned to transurethral radiofrequency collagen denaturation (treatment) or a sham surgery using a non‐functioning catheter (no treatment). Mean age of participants in the 12‐month multi‐centre trial was 50 years (range 22 to 76 years). 

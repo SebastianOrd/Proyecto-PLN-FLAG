@@ -1,0 +1,11 @@
+Background
+Psoriasis is an immune‐mediated disease with either skin or joints manifestations, or both, and it has a major impact on quality of life. Although there is currently no cure for psoriasis, various treatment strategies allow sustained control of disease signs and symptoms. The relative benefit of these treatments remains unclear due to the limited number of trials comparing them directly head‐to‐head, which is why we chose to conduct a network meta‐analysis. 
+Objectives
+To compare the efficacy and safety of non‐biological systemic agents, small molecules, and biologics for people with moderate‐to‐severe psoriasis using a network meta‐analysis, and to provide a ranking of these treatments according to their efficacy and safety. 
+Search methods
+For this update of the living systematic review, we updated our searches of the following databases monthly to October 2021: the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and Embase. 
+Selection criteria
+Randomised controlled trials (RCTs) of systemic treatments in adults over 18 years with moderate‐to‐severe plaque psoriasis, at any stage of treatment, compared to placebo or another active agent. The primary outcomes were: proportion of participants who achieved clear or almost clear skin, that is, at least Psoriasis Area and Severity Index (PASI) 90; proportion of participants with serious adverse events (SAEs) at induction phase (8 to 24 weeks after randomisation). 
+Data collection and analysis
+We conducted duplicate study selection, data extraction, risk of bias assessment and analyses. We synthesised data using pairwise and network meta‐analysis (NMA) to compare treatments and rank them according to effectiveness (PASI 90 score) and acceptability (inverse of SAEs). 
+We assessed the certainty of NMA evidence for the two primary outcomes and all comparisons using CINeMA, as very low, low, moderate, or high. We contacted study authors when data were unclear or missing. 

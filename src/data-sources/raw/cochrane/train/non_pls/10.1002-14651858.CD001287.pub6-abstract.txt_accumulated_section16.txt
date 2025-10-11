@@ -1,0 +1,16 @@
+Background
+Individuals with chronic bronchitis or chronic obstructive pulmonary disease (COPD) may suffer recurrent exacerbations with an increase in volume or purulence of sputum, or both. Personal and healthcare costs associated with exacerbations indicate that therapies that reduce the occurrence of exacerbations are likely to be useful. Mucolytics are oral medicines that are believed to increase expectoration of sputum by reducing its viscosity, thus making it easier to cough it up. Improved expectoration of sputum may lead to a reduction in exacerbations of COPD. 
+Objectives
+Primary objective 
+• To determine whether treatment with mucolytics reduces exacerbations and/or days of disability in patients with chronic bronchitis or COPD 
+Secondary objectives 
+• To assess whether mucolytics lead to improvement in lung function or quality of life 
+• To determine frequency of adverse effects associated with use of mucolytics
+Search methods
+We searched the Cochrane Airways Group Specialised Register and reference lists of articles on 12 separate occasions, most recently on 23 April 2019. 
+Selection criteria
+We included randomised studies that compared oral mucolytic therapy versus placebo for at least two months in adults with chronic bronchitis or COPD. We excluded studies of people with asthma and cystic fibrosis. 
+Data collection and analysis
+This review analysed summary data only, most derived from published studies. For earlier versions, one review author extracted data, which were rechecked in subsequent updates. In later versions, review authors double‐checked extracted data and then entered data into RevMan 5.3 for analysis. 
+Main results
+We added four studies for the 2019 update. The review now includes 38 trials, recruiting a total of 10,377 participants. Studies lasted between two months and three years and investigated a range of mucolytics, including N‐acetylcysteine, carbocysteine, erdosteine, and ambroxol, given at least once daily. Many studies did not clearly describe allocation concealment, and we had concerns about blinding and high levels of attrition in some studies. The primary outcomes were exacerbations and number of days of disability. 

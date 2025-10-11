@@ -1,0 +1,12 @@
+Background
+Patent ductus arteriosus (PDA) is associated with significant morbidity and mortality in preterm infants. Nonsteroidal anti‐inflammatory drugs (NSAIDs) are used to prevent or treat a PDA. There are concerns regarding adverse effects of NSAIDs in preterm infants. Controversy exists on whether early targeted treatment of a hemodynamically significant (hs) PDA improves clinical outcomes. 
+Objectives
+To assess the effectiveness and safety of early treatment strategies versus expectant management for an hs‐PDA in reducing mortality and morbidity in preterm infants. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2019, Issue 6) in the Cochrane Library; MEDLINE via PubMed (1966 to 31 May 2019), Embase (1980 to 31 May 2019), and CINAHL (1982 to 31 May 2019). An updated search was run on 2 October 2020 in the following databases: CENTRAL via CRS Web and MEDLINE via Ovid. We searched clinical trial databases, conference proceedings, and the reference lists of retrieved articles for randomized controlled trials (RCT) and quasi‐randomized trials. 
+Selection criteria
+We included RCTs in which early pharmacological treatment, defined as treatment initiated within the first seven days after birth, was compared to no intervention, placebo or other non‐pharmacological expectant management strategies for treatment of an hs‐PDA in preterm (< 37 weeks’ postmenstrual age) or low birth weight (< 2500 grams) infants. 
+Data collection and analysis
+We performed data collection and analyses in accordance with the methods of Cochrane Neonatal. Our primary outcome was all‐cause mortality during hospital stay. We used the GRADE approach to assess the certainty of evidence for selected clinical outcomes. 
+Main results
+We included 14 RCTs that enrolled 910 infants. Seven RCTs compared early treatment (defined as treatment initiated by seven days of age) versus expectant management and seven RCTs compared very early treatment (defined as treatment initiated by 72 hours of age) versus expectant management. 

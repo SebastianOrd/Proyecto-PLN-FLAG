@@ -1,0 +1,13 @@
+Background
+This is an updated version of the original Cochrane Review published in Issue 12, 2016. This review is one in a series of Cochrane Reviews investigating pair‐wise monotherapy comparisons. 
+Epilepsy is a common neurological condition in which abnormal electrical discharges from the brain cause recurrent unprovoked seizures. It is believed that with effective drug treatment, up to 70% of individuals with active epilepsy have the potential to become seizure‐free and go into long‐term remission shortly after starting drug therapy, the majority of which may be able to achieve remission with a single antiepileptic drug (AED). 
+The correct choice of first‐line AED for individuals with newly diagnosed seizures is of great importance and should be based on the highest‐quality evidence available regarding the potential benefits and harms of various treatments for an individual. 
+Topiramate and carbamazepine are commonly used AEDs. Performing a synthesis of the evidence from existing trials will increase the precision of results of outcomes relating to efficacy and tolerability, and may help inform a choice between the two drugs. 
+Objectives
+To review the time to treatment failure, remission and first seizure with topiramate compared with carbamazepine when used as monotherapy in people with focal onset seizures (simple or complex focal and secondarily generalised), or generalised onset tonic‐clonic seizures (with or without other generalised seizure types). 
+Search methods
+For the latest update we searched the Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE (Ovid); ClinicalTrials.gov; and the WHO International Clinical Trials Registry Platform (ICTRP) to 22 May 2018. We imposed no language restrictions. We also contacted pharmaceutical companies and trial investigators. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing monotherapy with either topiramate or carbamazepine in children or adults with focal onset seizures or generalised onset tonic‐clonic seizures (with or without other generalised seizure types). 
+Data collection and analysis
+This was an individual participant data (IPD), review. Our primary outcome was time to treatment failure. Our secondary outcomes were time to first seizure post‐randomisation, time to six‐month remission, time to 12‐month remission, and incidence of adverse events. We used Cox proportional hazards regression models to obtain trial‐specific estimates of hazard ratios (HRs), with 95% confidence intervals (CIs), using the generic inverse variance method to obtain the overall pooled HR and 95% CI. 

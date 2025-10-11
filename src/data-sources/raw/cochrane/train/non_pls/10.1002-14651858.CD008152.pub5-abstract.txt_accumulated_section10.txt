@@ -1,0 +1,10 @@
+Background
+The 8‐aminoquinoline (8AQ) drugs act on Plasmodium falciparum gametocytes, which transmit malaria from infected people to mosquitoes. In 2012, the World Health Organization (WHO) recommended a single dose of 0.25 mg/kg primaquine (PQ) be added to malaria treatment schedules in low‐transmission areas or those with artemisinin resistance. This replaced the previous recommendation of 0.75 mg/kg, aiming to reduce haemolysis risk in people with glucose‐6‐phosphate dehydrogenase deficiency, common in people living in malarious areas. Whether this approach, and at this dose, is effective in reducing transmission is not clear. 
+Objectives
+To assess the effects of single dose or short‐course PQ (or an alternative 8AQ) alongside treatment for people with P. falciparum malaria. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL), published in the Cochrane Library; and the WHO International Clinical Trials Registry Platform (ICRTP) portal using ‘malaria*', ‘falciparum', ‘primaquine', ‘8‐aminoquinoline', and eight 8AQ drug names as search terms. We checked reference lists of included trials, and contacted researchers and organizations. Date of last search: 21 July 2017. 
+Selection criteria
+Randomized controlled trials (RCTs) or quasi‐RCTs in children or adults, adding PQ (or alternative 8AQ) as a single dose or short course alongside treatment for P. falciparum malaria. 
+Data collection and analysis
+Two authors screened abstracts, applied inclusion criteria, and extracted data. We sought evidence on transmission (community incidence), infectiousness (people infectious and mosquitoes infected), and potential infectiousness (gametocyte measures assessed by microscopy or polymerase chain reaction [PCR]). We grouped trials into artemisinin and non‐artemisinin treatments, and stratified by PQ dose (low, 0.2 to 0.25 mg/kg; moderate, 0.4 to 0.5 mg/kg; high, 0.75 mg/kg). We used GRADE, and absolute effects of infectiousness using trial control groups. 

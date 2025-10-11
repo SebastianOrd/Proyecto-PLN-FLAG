@@ -1,0 +1,10 @@
+Background
+Seizures are common following perinatal asphyxia and may exacerbate secondary neuronal injury. Barbiturate therapy has been used for infants with perinatal asphyxia in order to prevent seizures. However, barbiturate therapy may adversely affect neurodevelopment leading to concern regarding aggressive use in neonates. 
+Objectives
+To determine the effect of administering prophylactic barbiturate therapy on death or neurodevelopmental disability in term and late preterm infants following perinatal asphyxia. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review group to search the Cochrane Central Register of Controlled Trials (CENTRAL, 2015, Issue 11), MEDLINE via PubMed (1966 to 30 November 2015), EMBASE (1980 to 30 November 2015), and CINAHL (1982 to 30 November 2015). We also searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomized controlled trials (RCT) and quasi‐RCTs. 
+Selection criteria
+We included all RCTs or quasi‐RCTs of prophylactic barbiturate therapy in term and late preterm infants without clinical or electroencephalographic evidence of seizures compared to controls following perinatal asphyxia. 
+Data collection and analysis
+Three review authors independently selected, assessed the quality of, and extracted data from the included studies. We assessed methodologic quality and validity of studies without consideration of the results. The review authors independently extracted data and performed meta‐analyses using risk ratios (RR) and risk differences (RD) for dichotomous data and mean difference for continuous data with 95% confidence intervals (CI). For significant results, we calculated the number needed to treat for an additional beneficial outcome (NNTB) or for an additional harmful outcome (NNTH). 

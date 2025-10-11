@@ -1,0 +1,10 @@
+Background
+Surgical resection is currently the only treatment with the potential for long‐term survival and cure of pancreatic cancer. Surgical resection is provided as distal pancreatectomy for cancers of the body and tail of the pancreas. It can be performed by laparoscopic or open surgery. In operations on other organs, laparoscopic surgery has been shown to reduce complications and length of hospital stay as compared with open surgery. However, concerns remain about the safety of laparoscopic distal pancreatectomy compared with open distal pancreatectomy in terms of postoperative complications and oncological clearance. 
+Objectives
+To assess the benefits and harms of laparoscopic distal pancreatectomy versus open distal pancreatectomy for people undergoing distal pancreatectomy for pancreatic ductal adenocarcinoma of the body or tail of the pancreas, or both. 
+Search methods
+We used search strategies to search the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, Science Citation Index Expanded and trials registers until June 2015 to identify randomised controlled trials (RCTs) and non‐randomised studies. We also searched the reference lists of included trials to identify additional studies. 
+Selection criteria
+We considered for inclusion in the review RCTs and non‐randomised studies comparing laparoscopic versus open distal pancreatectomy in patients with resectable pancreatic cancer, irrespective of language, blinding or publication status.. 
+Data collection and analysis
+Two review authors independently identified trials and independently extracted data. We calculated odds ratios (ORs), mean differences (MDs) or hazard ratios (HRs) along with 95% confidence intervals (CIs) using both fixed‐effect and random‐effects models with RevMan 5 on the basis of intention‐to‐treat analysis when possible. 

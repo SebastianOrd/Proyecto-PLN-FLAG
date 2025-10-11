@@ -1,0 +1,15 @@
+Background
+Infantile‐onset Pompe disease is a rare and progressive autosomal‐recessive disorder caused by a deficiency of the lysosomal enzyme acid alpha‐glucosidase (GAA). Current treatment involves enzyme replacement therapy (with recombinant human alglucosidase alfa) and symptomatic therapies (e.g. to control secretions). Children who are cross‐reactive immunological material (CRIM)‐negative require immunomodulation prior to commencing enzyme replacement therapy. 
+Enzyme replacement therapy was developed as the most promising therapeutic approach for Pompe disease; however, the evidence is lacking, especially regarding the optimal dose and dose frequency. 
+Objectives
+To assess the effectiveness, safety and appropriate dose regimen of enzyme replacement therapy for treating infantile‐onset Pompe disease. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group's Inborn Errors of Metabolism Trials Register, which is compiled from electronic database searches and handsearching of journals and conference abstract books. We also searched the Cochrane Central Register of Controlled Trials (CENTRAL), Embase (Ovid), PubMed and LILACS, and CBM, CNKI, VIP, and WANFANG for literature published in Chinese. In addition, we searched three online registers: WHO International Clinical Trials Registry Platform ClinicalTrials.gov, and www.genzymeclinicalresearch.com. We also searched the reference lists of relevant articles and reviews. 
+Date of last search of the Group's Inborn Errors of Metabolism Trials Register: 24 November 2016. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials of enzyme replacement therapy in children with infantile‐onset Pompe disease. 
+Data collection and analysis
+Two authors independently selected relevant trials, assessed the risk of bias and extracted data. We contacted investigators to obtain important missing information. 
+Main results
+We found no trials comparing the effectiveness and safety of enzyme replacement therapy to another intervention, no intervention or placebo. 
+We found one trial (18 participants) that fulfilled the selection criteria, comparing different doses of alglucosidase alfa. The trial provided low‐quality evidence (this was a small trial, there were no numerical results available by dose group, random sequence generation and allocation concealment were unclear, and there was a lack of blinding). The duration of alglucosidase alfa treatment ranged from 52 weeks (the length of the original study) to up to three years (including the extended phase of the trial), with a median duration of treatment being 2.3 years. 

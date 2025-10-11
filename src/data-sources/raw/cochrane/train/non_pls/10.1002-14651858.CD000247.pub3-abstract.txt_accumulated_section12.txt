@@ -1,0 +1,12 @@
+Background
+It has long been believed that antibiotics have no role in the treatment of common colds yet they are often prescribed in the belief that they may prevent secondary bacterial infections. 
+Objectives
+To determine the efficacy of antibiotics compared with placebo for reducing general and specific nasopharyngeal symptoms of acute upper respiratory tract infections (URTIs) (common colds). To determine if antibiotics have any influence on the outcomes for acute purulent rhinitis and acute clear rhinitis lasting less than 10 days before the intervention. To determine whether there are significant adverse outcomes associated with antibiotic therapy for participants with a clinical diagnosis of acute URTI or acute purulent rhinitis. 
+Search methods
+For this 2013 update we searched CENTRAL 2013, Issue 1, MEDLINE (March 2005 to February week 2, 2013), EMBASE (January 2010 to February 2013), CINAHL (2005 to February 2013), LILACS (2005 to February 2013) and Biosis Previews (2005 to February 2013). 
+Selection criteria
+Randomised controlled trials (RCTs) comparing any antibiotic therapy against placebo in people with symptoms of acute upper respiratory tract infection for less than seven days, or acute purulent rhinitis less than 10 days in duration. 
+Data collection and analysis
+Both review authors independently assessed trial quality and extracted data.
+Main results
+This updated review included 11 studies. Six studies contributed to one or more analyses related to the common cold, with up to 1047 participants. Five studies contributed to one or more analyses relating to purulent rhinitis, with up to 791 participants. One study contributed only to data on adverse events and one met the inclusion criteria but reported only summary statistics without providing any numerical data that could be included in the meta‐analyses. Interpretation of the combined data is limited because some studies included only children, or only adults, or only males; a wide range of antibiotics were used and outcomes were measured in different ways. There was a moderate risk of bias because of unreported methods details or because an unknown number of participants were likely to have chest or sinus infections. 

@@ -1,0 +1,12 @@
+Background
+The use of short‐acting insulin analogues (insulin lispro, insulin aspart, insulin glulisine) for adult, non‐pregnant people with type 2 diabetes is still controversial, as reflected in many scientific debates. 
+Objectives
+To assess the effects of short‐acting insulin analogues compared to regular human insulin in adult, non‐pregnant people with type 2 diabetes mellitus. 
+Search methods
+For this update we searched CENTRAL, MEDLINE, Embase, the WHO ICTRP Search Portal, and ClinicalTrials.gov to 31 October 2018. We placed no restrictions on the language of publication. 
+Selection criteria
+We included all randomised controlled trials with an intervention duration of at least 24 weeks that compared short‐acting insulin analogues to regular human insulin in the treatment of people with type 2 diabetes, who were not pregnant. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the risk of bias. We assessed dichotomous outcomes by risk ratios (RR), and Peto odds ratios (POR), with 95% confidence intervals (CI). We assessed continuous outcomes by mean differences (MD) with 95% CI. We assessed trials for certainty of the evidence using the GRADE approach. 
+Main results
+We identified 10 trials that fulfilled the inclusion criteria, randomising 2751 participants; 1388 participants were randomised to receive insulin analogues and 1363 participants to receive regular human insulin. The duration of the intervention ranged from 24 to 104 weeks, with a mean of about 41 weeks. The trial populations showed diversity in disease duration, and inclusion and exclusion criteria. None of the trials were blinded, so the risk of performance bias and detection bias, especially for subjective outcomes, such as hypoglycaemia, was high in nine of 10 trials from which we extracted data. Several trials showed inconsistencies in the reporting of methods and results. 

@@ -1,0 +1,12 @@
+Background
+Adenoidectomy, surgical removal of the adenoids, is a common ENT operation worldwide in children with otitis media. A systematic review on the effectiveness of adenoidectomy in this specific group has not previously been performed. 
+Objectives
+To assess the effectiveness of adenoidectomy versus non‐surgical management or tympanostomy tubes in children with otitis media. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; mRCT and additional sources for published and unpublished trials. The date of the most recent search was 30 March 2009. 
+Selection criteria
+Randomised controlled trials comparing adenoidectomy, with or without tympanostomy tubes, versus non‐surgical management or tympanostomy tubes only in children with otitis media. The primary outcome studied was the proportion of time with otitis media with effusion (OME). Secondary outcomes were mean number of episodes, mean number of days per episode and per year, and proportion of children with either acute otitis media (AOM) or otitis media with effusion (OME), as well as mean hearing level. Tertiary outcome measures included atrophy of the tympanic membrane, tympanosclerosis, retraction of the pars tensa and pars flaccid and cholesteatoma. 
+Data collection and analysis
+Two authors assessed trial quality and extracted data independently.
+Main results
+Fourteen randomised controlled trials (2712 children) studying the effectiveness of adenoidectomy in children with otitis media were evaluated. Most of these trials were too heterogeneous to pool in a meta‐analysis. Loss to follow up varied from 0% to 63% after two years. 

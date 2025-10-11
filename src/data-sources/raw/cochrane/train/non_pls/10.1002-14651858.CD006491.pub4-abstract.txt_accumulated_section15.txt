@@ -1,0 +1,15 @@
+Background
+Mefloquine is one of four antimalarial agents commonly recommended for preventing malaria in travellers to malaria‐endemic areas. Despite its high efficacy, there is controversy about its psychological side effects. 
+Objectives
+To summarize the efficacy and safety of mefloquine used as prophylaxis for malaria in travellers. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL), published on the Cochrane Library; MEDLINE; Embase (OVID); TOXLINE (https://toxnet.nlm.nih.gov/newtoxnet/toxline.htm); and LILACS. We also searched the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP; http://www.who.int/ictrp/en/) and ClinicalTrials.gov (https://clinicaltrials.gov/ct2/home) for trials in progress, using 'mefloquine', 'Lariam', and 'malaria' as search terms. The search date was 22 June 2017. 
+Selection criteria
+We included randomized controlled trials (for efficacy and safety) and non‐randomized cohort studies (for safety). We compared prophylactic mefloquine with placebo, no treatment, or an alternative recommended antimalarial agent. Our study populations included all adults and children, including pregnant women. 
+Data collection and analysis
+Two review authors independently assessed the eligibility and risk of bias of trials, extracted and analysed data. We compared dichotomous outcomes using risk ratios (RR) with 95% confidence intervals (CI). Prespecified adverse outcomes are included in 'Summary of findings' tables, with the best available estimate of the absolute frequency of each outcome in short‐term international travellers. We assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We included 20 RCTs (11,470 participants); 35 cohort studies (198,493 participants); and four large retrospective analyses of health records (800,652 participants). Nine RCTs explicitly excluded participants with a psychiatric history, and 25 cohort studies stated that the choice of antimalarial agent was based on medical history and personal preference. Most RCTs and cohort studies collected data on self‐reported or clinician‐assessed symptoms, rather than formal medical diagnoses. 
+Mefloquine efficacy 
+Of 12 trials comparing mefloquine and placebo, none were performed in short‐term international travellers, and most populations had a degree of immunity to malaria. The percentage of people developing a malaria episode in the control arm varied from 1% to 82% (median 22%) and 0% to 13% in the mefloquine group (median 1%). 
+In four RCTs that directly compared mefloquine, atovaquone‐proguanil and doxycycline in non‐immune, short‐term international travellers, only one clinical case of malaria occurred (4 trials, 1822 participants). 

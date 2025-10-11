@@ -1,0 +1,14 @@
+Background
+The treatment of choice for moderate to severe obstructive sleep apnoea (OSA) is continuous positive airways pressure (CPAP) applied via a mask during sleep. However, this is not tolerated by all individuals and its role in mild OSA is not proven. Drug therapy has been proposed as an alternative to CPAP in some patients with mild to moderate sleep apnoea and could be of value in patients intolerant of CPAP. A number of mechanisms have been proposed by which drugs could reduce the severity of OSA. These include an increase in tone in the upper airway dilator muscles, an increase in ventilatory drive, a reduction in the proportion of rapid eye movement (REM) sleep, an increase in cholinergic tone during sleep, an increase in arousal threshold, a reduction in airway resistance and a reduction in surface tension in the upper airway. 
+Objectives
+To determine the efficacy of drug therapies in the specific treatment of sleep apnoea.
+Search methods
+We searched the Cochrane Airways Group Specialised Register of trials. Searches were current as of July 2012. 
+Selection criteria
+Randomised, placebo controlled trials involving adult patients with confirmed OSA. We excluded trials if continuous positive airways pressure, mandibular devices or oxygen therapy were used. We excluded studies investigating treatment of associated conditions such as excessive sleepiness, hypertension, gastro‐oesophageal reflux disease and obesity. 
+Data collection and analysis
+We used standard methodological procedures recommended by The Cochrane Collaboration.
+Main results
+Thirty trials of 25 drugs, involving 516 participants, contributed data to the review. Drugs had several different proposed modes of action and the results were grouped accordingly in the review. Each of the studies stated that the participants had OSA but diagnostic criteria were not always explicit and it was possible that some patients with central apnoeas may have been recruited. 
+Acetazolamide, eszopiclone, naltrexone, nasal lubricant (phosphocholinamine) and physiostigmine were administered for one to two nights only. Donepezil in patients with and without Alzheimer's disease, fluticasone in patients with allergic rhinitis, combinations of ondansetrone and fluoxetine and paroxetine were trials of one to three months duration, however most of the studies were small and had methodological limitations. The overall quality of the available evidence was low. 
+The primary outcomes for the systematic review were the apnoea hypopnoea index (AHI) and the level of sleepiness associated with OSA, estimated by the Epworth Sleepiness Scale (ESS). AHI was reported in 25 studies and of these 10 showed statistically significant reductions in AHI. 

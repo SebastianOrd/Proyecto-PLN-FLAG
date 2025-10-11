@@ -1,0 +1,20 @@
+Background
+Even low levels of substance misuse by people with a severe mental illness can have detrimental effects. 
+Objectives
+To assess the effects of psychosocial interventions for reduction in substance use in people with a serious mental illness compared with standard care. 
+Search methods
+The Information Specialist of the Cochrane Schizophrenia Group (CSG) searched the CSG Trials Register (2 May 2018), which is based on regular searches of major medical and scientific databases. 
+Selection criteria
+We included all randomised controlled trials (RCTs) comparing psychosocial interventions for substance misuse with standard care in people with serious mental illness. 
+Data collection and analysis
+Review authors independently selected studies, extracted data and appraised study quality. For binary outcomes, we calculated standard estimates of risk ratio (RR) and their 95% confidence intervals (CIs) on an intention‐to‐treat basis. For continuous outcomes, we calculated the mean difference (MD) between groups. Where meta‐analyses were possible, we pooled data using a random‐effects model. Using the GRADE approach, we identified seven patient‐centred outcomes and assessed the quality of evidence for these within each comparison. 
+Main results
+Our review now includes 41 trials with a total of 4024 participants. We have identified nine comparisons within the included trials and present a summary of our main findings for seven of these below. We were unable to summarise many findings due to skewed data or because trials did not measure the outcome of interest. In general, evidence was rated as low‐ or very‐low quality due to high or unclear risks of bias because of poor trial methods, or inadequately reported methods, and imprecision due to small sample sizes, low event rates and wide confidence intervals. 
+1. Integrated models of care versus standard care (36 months)
+No clear differences were found between treatment groups for loss to treatment (RR 1.09, 95% CI 0.82 to 1.45; participants = 603; studies = 3; low‐quality evidence), death (RR 1.18, 95% CI 0.39 to 3.57; participants = 421; studies = 2; low‐quality evidence), alcohol use (RR 1.15, 95% CI 0.84 to 1.56; participants = 143; studies = 1; low‐quality evidence), substance use (drug) (RR 0.89, 95% CI 0.63 to 1.25; participants = 85; studies = 1; low‐quality evidence), global assessment of functioning (GAF) scores (MD 0.40, 95% CI ‐2.47 to 3.27; participants = 170; studies = 1; low‐quality evidence), or general life satisfaction (QOLI) scores (MD 0.10, 95% CI ‐0.18 to 0.38; participants = 373; studies = 2; moderate‐quality evidence). 
+2. Non‐integrated models of care versus standard care
+There was no clear difference between treatment groups for numbers lost to treatment at 12 months (RR 1.21, 95% CI 0.73 to 1.99; participants = 134; studies = 3; very low‐quality evidence). 
+3. Cognitive behavioural therapy (CBT) versus standard care
+There was no clear difference between treatment groups for numbers lost to treatment at three months (RR 1.12, 95% CI 0.44 to 2.86; participants = 152; studies = 2; low‐quality evidence), cannabis use at six months (RR 1.30, 95% CI 0.79 to 2.15; participants = 47; studies = 1; very low‐quality evidence) or mental state insight (IS) scores by three months (MD 0.52, 95% CI ‐0.78 to 1.82; participants = 105; studies = 1; low‐quality evidence). 
+4. Contingency management versus standard care
+We found no clear differences between treatment groups for numbers lost to treatment at three months (RR 1.55, 95% CI 1.13 to 2.11; participants = 255; studies = 2; moderate‐quality evidence), number of stimulant positive urine tests at six months (RR 0.83, 95% CI 0.65 to 1.06; participants = 176; studies = 1) or hospitalisations (RR 0.21, 95% CI 0.05 to 0.93; participants = 176; studies = 1); both low‐quality evidence. 

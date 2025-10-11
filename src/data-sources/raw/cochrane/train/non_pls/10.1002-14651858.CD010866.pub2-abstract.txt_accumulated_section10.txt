@@ -1,0 +1,10 @@
+Background
+Genital infections caused by Chlamydia trachomatis are the most prevalent bacterial sexually transmitted infection worldwide. Screening of sexually active young adults to detect and treat asymptomatic infections might reduce chlamydia transmission and prevent reproductive tract morbidity, particularly pelvic inflammatory disease (PID) in women, which can cause tubal infertility and ectopic pregnancy. 
+Objectives
+To assess the effects and safety of chlamydia screening versus standard care on chlamydia transmission and infection complications in pregnant and non‐pregnant women and in men. 
+Search methods
+We searched the Cochrane Sexually Transmitted Infections Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, LILACS, CINAHL, DARE, PsycINFO and Web of Science electronic databases up to 14 February 2016, together with World Health Organization International Clinical Trials Registry (ICTRP) and ClinicalTrials.gov. We also handsearched conference proceedings, contacted trial authors and reviewed the reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) in adult women (non‐pregnant and pregnant) and men comparing a chlamydia screening intervention with usual care and reporting on a primary outcome (C. trachomatis prevalence, PID in women, epididymitis in men or incidence of preterm delivery). We included non‐randomised controlled clinical trials if there were no RCTs for a primary outcome. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion, extracted data and assessed the risk of bias. We resolved disagreements by consensus or adjudication by a third reviewer. We described results in forest plots and conducted meta‐analysis where appropriate using a fixed‐effect model to estimate risk ratios (RR with 95% confidence intervals, CI) in intervention vs control groups. We conducted a pre‐specified sensitivity analysis of the primary outcome, PID incidence, according to the risks of selection and detection bias. 

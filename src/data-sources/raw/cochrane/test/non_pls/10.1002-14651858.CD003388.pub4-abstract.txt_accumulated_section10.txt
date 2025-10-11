@@ -1,0 +1,10 @@
+Background
+Post‐traumatic stress disorder (PTSD) is a distressing condition, which is often treated with psychological therapies. Earlier versions of this review, and other meta‐analyses, have found these to be effective, with trauma‐focused treatments being more effective than non‐trauma‐focused treatments. This is an update of a Cochrane review first published in 2005 and updated in 2007. 
+Objectives
+To assess the effects of psychological therapies for the treatment of adults with chronic post‐traumatic stress disorder (PTSD). 
+Search methods
+For this update, we searched the Cochrane Depression, Anxiety and Neurosis Group's Specialised Register (CCDANCTR‐Studies and CCDANCTR‐References) all years to 12th April 2013. This register contains relevant randomised controlled trials from: The Cochrane Library (all years), MEDLINE (1950 to date), EMBASE (1974 to date), and PsycINFO (1967 to date). In addition, we handsearched the Journal of Traumatic Stress, contacted experts in the field, searched bibliographies of included studies, and performed citation searches of identified articles. 
+Selection criteria
+Randomised controlled trials of individual trauma‐focused cognitive behavioural therapy (TFCBT), eye movement desensitisation and reprocessing (EMDR), non‐trauma‐focused CBT (non‐TFCBT), other therapies (supportive therapy, non‐directive counselling, psychodynamic therapy and present‐centred therapy), group TFCBT, or group non‐TFCBT, compared to one another or to a waitlist or usual care group for the treatment of chronic PTSD. The primary outcome measure was the severity of clinician‐rated traumatic‐stress symptoms. 
+Data collection and analysis
+We extracted data and entered them into Review Manager 5 software. We contacted authors to obtain missing data. Two review authors independently performed 'Risk of bias' assessments. We pooled the data where appropriate, and analysed for summary effects. 

@@ -1,0 +1,10 @@
+Background
+Use of a central venous catheter (CVC) in neonates is associated with an increase in nosocomial infection. Numerous strategies exist to prevent catheter‐related bloodstream infection (CRBSI); however, CRBSI continues to be a major problem. Antibiotic locking catheters is a new and promising treatment that potentially prevents this severe condition. 
+Objectives
+To assess the effectiveness of antibiotic lock versus no antibiotic lock or alternative antibiotic lock in the prevention of catheter‐related infections in newborn infants of any gestational age during their initial stay in the neonatal unit and to study any relevant adverse effects from antibiotic lock therapy. 
+Search methods
+Methods followed those of the Cochrane Neonatal Review Group (CNRG). We searched the Cochrane Central Register of Controlled Trials (The Cochrane Library 2014, Issue 5); MEDLINE (via PubMed); EMBASE (hosted by EBCHOST); CINAHL; abstracts from Pediatric Academic Societies, European Society for Paediatric Research and trials registries; and references cited in our short listed articles using keywords and MeSH headings, up to April 2015. 
+Selection criteria
+We considered all trials utilising random or quasi‐random participant allocation. Participants included all newborn infants of any postmenstrual age who required any type of CVC. We compared an antibiotic lock technique with no antibiotic lock or placebo, such as heparinised saline, for any duration of time. 
+Data collection and analysis
+We extracted data using the standard methods of the CNRG. Two review authors independently assessed the relevance and risk of bias of the retrieved records. We expressed our dichotomous results using risk ratio (RR) with their 95% confidence intervals (CIs). We assessed for heterogeneity using the I2 statistic. 

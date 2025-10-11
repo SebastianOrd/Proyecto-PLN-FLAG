@@ -1,0 +1,12 @@
+Background
+Tramadol is often prescribed to treat pain and associated physical disability in osteoarthritis (OA). Due to the pharmacologic mechanism of tramadol, it may lead to fewer associated adverse effects (i.e. gastrointestinal bleeding or renal problems) compared to non‐steroidal anti‐inflammatory drugs (NSAIDs). This is an update of a Cochrane Review originally published in 2006. 
+Objectives
+To determine the benefits and harms of oral tramadol or tramadol combined with acetaminophen or NSAIDs in people with osteoarthritis. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and Embase databases, as well as the US National Institutes of Health and World Health Organization trial registries up to February 2018. We searched the LILACS database up to August 2015. 
+Selection criteria
+We included randomized controlled trials (RCTs) that evaluated the effect of tramadol, or tramadol in combination with acetaminophen (paracetamol) or NSAIDs versus placebo or any comparator in people with osteoarthritis. 
+Data collection and analysis
+We used standard methodologic procedures expected by Cochrane.
+Main results
+We included 22 RCTs (11 more than the previous review) of which 21 RCTs were included in meta‐analyses for 3871 participants randomized to tramadol alone or tramadol in combination with another analgesic and 2625 participants randomized to placebo or active control. Seventeen studies evaluated tramadol alone and five evaluated tramadol plus acetaminophen. Thirteen studies used placebo controls and eleven studies used active controls (two trials had both placebo and active arms). The dose of tramadol ranged from 37.5 mg to 400 mg daily; all doses were pooled. Most trials were multicenter with a mean duration of two months. Participants were predominantly women with hip or knee osteoarthritis, with a mean age of 63 years and moderate to severe pain. There was a high risk of selection bias as only four trials reported both adequate sequence generation and allocation concealment. There was a low risk for performance bias as most studies blinded participants. There was a high risk of attrition bias as 10/22 trials showed incomplete outcome data. Most of the trials were funded by the pharmaceutical industry. 

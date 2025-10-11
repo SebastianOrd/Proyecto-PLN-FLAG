@@ -1,0 +1,10 @@
+Background
+This is an updated review originally published in 2004 and first updated in 2007. This version includes substantial changes to bring it in line with current methodological requirements. Methadone is a synthetic opioid that presents some challenges in dose titration and is recognised to cause potentially fatal arrhythmias in some patients. It does have a place in therapy for people who cannot tolerate other opioids but should be initiated only by experienced practitioners. This review is one of a suite of reviews on opioids for cancer pain. 
+Objectives
+To determine the effectiveness and tolerability of methadone as an analgesic in adults and children with cancer pain. 
+Search methods
+For this update we searched CENTRAL, MEDLINE, Embase, CINAHL, and clinicaltrials.gov, to May 2016, without language restriction. We also checked reference lists in relevant articles. 
+Selection criteria
+We sought randomised controlled trials comparing methadone (any formulation and by any route) with active or placebo comparators in people with cancer pain. 
+Data collection and analysis
+All authors agreed on studies for inclusion. We retrieved full texts whenever there was any uncertainty about eligibility. One review author extracted data, which were checked by another review author. There were insufficient comparable data for meta‐analysis. We extracted information on the effect of methadone on pain intensity or pain relief, the number or proportion of participants with 'no worse than mild pain'. We looked for data on withdrawal and adverse events. We looked specifically for information about adverse events relating to appetite, thirst, and somnolence. We assessed the evidence using GRADE and created a 'Summary of findings' table. 

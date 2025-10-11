@@ -1,0 +1,11 @@
+Background
+This review is one of six looking at the primary medical management options for patients with chronic rhinosinusitis. 
+Chronic rhinosinusitis is common and is characterised by inflammation of the lining of the nose and paranasal sinuses leading to nasal blockage, nasal discharge, facial pressure/pain and loss of sense of smell. The condition can occur with or without nasal polyps. Systemic and topical antibiotics are used with the aim of eliminating infection in the short term (and some to reduce inflammation in the long term), in order to normalise nasal mucus and improve symptoms. 
+Objectives
+To assess the effects of systemic and topical antibiotics in people with chronic rhinosinusitis.
+Search methods
+The Cochrane ENT Information Specialist searched the Cochrane ENT Trials Register; CENTRAL (2015, Issue 8); MEDLINE; EMBASE; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 29 September 2015. 
+Selection criteria
+Randomised controlled trials (RCTs) with a follow‐up period of at least three months comparing systemic or topical antibiotic treatment to (a) placebo or (b) no treatment or (c) other pharmacological interventions. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. Our primary outcomes were disease‐specific health‐related quality of life (HRQL), patient‐reported disease severity and the commonest adverse event ‐ gastrointestinal disturbance. Secondary outcomes included general HRQL, endoscopic nasal polyp score, computerised tomography (CT) scan score and the adverse events of suspected allergic reaction (rash or skin irritation) and anaphylaxis or other very serious reactions. We used GRADE to assess the quality of the evidence for each outcome; this is indicated in italics. 

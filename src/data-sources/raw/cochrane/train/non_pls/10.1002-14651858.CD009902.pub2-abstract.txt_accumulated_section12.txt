@@ -1,0 +1,12 @@
+Background
+Rice fortification with vitamins and minerals has the potential to increase the nutrition in rice‐consuming countries where micronutrient deficiencies exist. Globally, 490 million metric tonnes of rice are consumed annually. It is the dominant staple food crop of around three billion people. 
+Objectives
+To determine the benefits and harms of rice fortification with vitamins and minerals (iron, vitamin A, zinc or folic acid) on micronutrient status and health‐related outcomes in the general population. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL, and 16 other databases all up to 10 December 2018. We searched ClinicalTrials.gov, and World Health Organization International Clinical Trials Registry Platform (ICTRP) on 10 December 2018. 
+Selection criteria
+We included randomised and quasi‐randomised trials (with either individual or cluster randomisation) and controlled before‐and‐after studies. Participants were populations older than two years of age (including pregnant women) from any country. The intervention was rice fortified with at least one micronutrient or a combination of several micronutrients (iron, folic acid, zinc, vitamin A or other vitamins and minerals) compared with unfortified rice or no intervention. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Two review authors independently screened studies and extracted data. 
+Main results
+We included 17 studies (10,483 participants) and identified two ongoing studies. Twelve included studies were randomised‐controlled trials (RCTs), with 2238 participants after adjusting for clustering in two cluster‐RCTs, and five were non‐randomised studies (NRS) with four controlled before‐and‐after studies and one cross‐sectional study with a control (8245 participants). Four studies were conducted in India, three in Thailand, two in the Philippines, two in Brazil, one each in Bangladesh, Burundi, Cambodia, Indonesia, Mexico and the USA. Two studies involved non‐pregnant, non‐lactating women and 10 involved pre‐school or school‐age children. 

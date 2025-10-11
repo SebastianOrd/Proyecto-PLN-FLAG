@@ -1,0 +1,10 @@
+Background
+Injuries to the recurrent inferior laryngeal nerve (RILN) remain one of the major post‐operative complications after thyroid and parathyroid surgery. Damage to this nerve can result in a temporary or permanent palsy, which is associated with vocal cord paresis or paralysis. Visual identification of the RILN is a common procedure to prevent nerve injury during thyroid and parathyroid surgery. Recently, intraoperative neuromonitoring (IONM) has been introduced in order to facilitate the localisation of the nerves and to prevent their injury during surgery. IONM permits nerve identification using an electrode, where, in order to measure the nerve response, the electric field is converted to an acoustic signal. 
+Objectives
+To assess the effects of IONM versus visual nerve identification for the prevention of RILN injury in adults undergoing thyroid surgery. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, ICTRP Search Portal and ClinicalTrials.gov. The date of the last search of all databases was 21 August 2018. We did not apply any language restrictions. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing IONM nerve identification plus visual nerve identification versus visual nerve identification alone for prevention of RILN injury in adults undergoing thyroid surgery 
+Data collection and analysis
+Two review authors independently screened titles and abstracts for relevance. One review author carried out screening for inclusion, data extraction and 'Risk of bias' assessment and a second review author checked them. For dichotomous outcomes, we calculated risk ratios (RRs) with 95% confidence intervals (CIs). For continuous outcomes, we calculated mean differences (MDs) with 95% CIs. We assessed trials for certainty of the evidence using the GRADE instrument. 

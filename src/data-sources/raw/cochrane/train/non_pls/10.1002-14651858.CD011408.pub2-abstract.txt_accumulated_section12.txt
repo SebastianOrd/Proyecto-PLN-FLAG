@@ -1,0 +1,12 @@
+Background
+Schizophrenia is a disabling serious mental illness that can be chronic. Haloperidol, one of the first generation of antipsychotic drugs, is effective in the treatment of schizophrenia but can have adverse side effects. The effects of stopping haloperidol in people with schizophrenia who are stable on their prescription are not well researched in the context of systematic reviews. 
+Objectives
+To review the effects of haloperidol discontinuation in people with schizophrenia who are stable on haloperidol. 
+Search methods
+On 20 February 2015, 24 May 2017, and 12 January 2019, we searched the Cochrane Schizophrenia Group’s Study‐Based Register of Trials including trial registers. 
+Selection criteria
+We included clinical trials randomising adults with schizophrenia or related disorders who were receiving haloperidol, and were stable. We included trials that randomised such participants to either continue their current treatment with haloperidol or discontinue their haloperidol treatment. We included trials that met our selection criteria and reported usable data. 
+Data collection and analysis
+We independently checked all records retrieved from the search and obtained full reports of relevant records for closer inspection. We extracted data from included studies independently. All usable data were dichotomous, and we calculated relative risks (RR) and their 95% confidence intervals (95% CI) using a fixed‐effect model. We assessed risk of bias within the included studies and used GRADE to create a 'Summary of findings' table. 
+Main results
+We included five randomised controlled trials (RCTs) with 232 participants comparing haloperidol discontinuation with haloperidol continuation. Discontinuation was achieved in all five studies by replacing haloperidol with placebo. The trials' size ranged between 23 and 87 participants. The methods of randomisation, allocation concealment and blinding were poorly reported. 

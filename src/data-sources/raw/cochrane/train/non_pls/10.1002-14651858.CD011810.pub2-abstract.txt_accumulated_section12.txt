@@ -1,0 +1,12 @@
+Background
+Schizophrenia is a chronic, disabling and severe mental disorder, characterised by disturbance in perception, thought, language, affect and motor behaviour. Chlorpromazine and clotiapine are among antipsychotic drugs used for the treatment of people with schizophrenia. 
+Objectives
+To determine the clinical effects, safety and cost‐effectiveness of chlorpromazine compared with clotiapine for adults with schizophrenia. 
+Search methods
+We searched Cochrane Schizophrenia's Trials Register (last update search 16/01/2016), which is based on regular searches of CINAHL, BIOSIS, AMED, Embase, PubMed, MEDLINE, PsycINFO and clinical trials registries. There are no language, date, document type, or publication status limitations for inclusion of records in the Register. 
+Selection criteria
+All randomised clinical trials focusing on chlorpromazine versus clotiapine for schizophrenia. We included trials meeting our selection criteria and reporting useable data. 
+Data collection and analysis
+We extracted data independently. For binary outcomes, we calculated risk ratio (RR) and its 95% confidence interval (CI), on an intention‐to‐treat basis. For continuous data, we estimated the mean difference (MD) between groups and its 95% CI. We employed a random‐effects model for analyses. We assessed risk of bias for included studies and created a 'Summary of findings' table using GRADE. 
+Main results
+We have included four studies, published between 1974 and 2003, randomising 276 people with schizophrenia to receive either chlorpromazine or clotiapine. The studies were poor at concealing allocation of treatment and blinding of outcome assessment. Our main outcomes of interest were clinically important change in global and mental state, specific change in negative symptoms, incidence of movement disorder (dyskinesia), leaving the study early for any reason, and costs. All reported data were short‐term (under six months' follow‐up). 

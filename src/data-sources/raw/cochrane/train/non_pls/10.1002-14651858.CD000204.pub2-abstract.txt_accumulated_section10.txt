@@ -1,0 +1,10 @@
+Background
+Antipsychotic (neuroleptic) medication is used extensively to treat people with serious mental illnesses. However, it is associated with a wide range of adverse effects, including movement disorders. Because of this, many people treated with antipsychotic medication also receive anticholinergic drugs in order to reduce some of the associated movement side‐effects. However, there is also a suggestion from animal experiments that the chronic administration of anticholinergics could cause tardive dyskinesia. 
+Objectives
+To determine whether the use or the withdrawal of anticholinergic drugs (benzhexol, benztropine, biperiden, orphenadrine, procyclidine, scopolamine, or trihexylphenidyl) are clinically effective for the treatment of people with both antipsychotic‐induced tardive dyskinesia and schizophrenia or other chronic mental illnesses. 
+Search methods
+We retrieved 712 references from searching the Cochrane Schizophrenia Group's Study‐Based Register of Trials including the registries of clinical trials (16 July 2015 and 26 April 2017). We also inspected references of all identified studies for further trials and contacted authors of trials for additional information. 
+Selection criteria
+We included reports identified in the search if they were controlled trials dealing with people with antipsychotic‐induced tardive dyskinesia and schizophrenia or other chronic mental illness who had been randomly allocated to (a) anticholinergic medication versus placebo (or no intervention), (b) anticholinergic medication versus any other intervention for the treatment of tardive dyskinesia, or (c) withdrawal of anticholinergic medication versus continuation of anticholinergic medication. 
+Data collection and analysis
+We independently extracted data from included trials and we estimated risk ratios (RR) with 95% confidence intervals (CIs). We assumed that people who left early had no improvement. We assessed risk of bias and created a 'Summary of findings' table using GRADE. 

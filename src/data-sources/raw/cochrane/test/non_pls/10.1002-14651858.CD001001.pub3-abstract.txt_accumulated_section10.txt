@@ -1,0 +1,10 @@
+Background
+Lung volume reduction surgery (LVRS) performed to treat patients with severe diffuse emphysema was reintroduced in the nineties. Lung volume reduction surgery aims to resect damaged emphysematous lung tissue, thereby increasing elastic properties of the lung. This treatment is hypothesised to improve long‐term daily functioning and quality of life, although it may be costly and may be associated with risks of morbidity and mortality. Ten years have passed since the last version of this review was prepared, prompting us to perform an update. 
+Objectives
+The objective of this review was to gather all available evidence from randomised controlled trials comparing the effectiveness of lung volume reduction surgery (LVRS) versus non‐surgical standard therapy in improving health outcomes for patients with severe diffuse emphysema. Secondary objectives included determining which subgroup of patients benefit from LVRS and for which patients LVRS is contraindicated, to establish the postoperative complications of LVRS and its morbidity and mortality, to determine which surgical approaches for LVRS are most effective and to calculate the cost‐effectiveness of LVRS. 
+Search methods
+We identified RCTs by using the Cochrane Airways Group Chronic Obstructive Pulmonary Disease (COPD) register, in addition to the online clinical trials registers. Searches are current to April 2016. 
+Selection criteria
+We included RCTs that studied the safety and efficacy of LVRS in participants with diffuse emphysema. We excluded studies that investigated giant or bullous emphysema. 
+Data collection and analysis
+Two independent review authors assessed trials for inclusion and extracted data. When possible, we combined data from more than one study in a meta‐analysis using RevMan 5 software. 

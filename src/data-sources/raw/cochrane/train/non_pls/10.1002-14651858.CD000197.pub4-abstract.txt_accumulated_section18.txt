@@ -1,0 +1,18 @@
+Background
+Organised inpatient (stroke unit) care is provided by multi‐disciplinary teams that manage stroke patients. This can been provided in a ward dedicated to stroke patients (stroke ward), with a peripatetic stroke team (mobile stroke team), or within a generic disability service (mixed rehabilitation ward). Team members aim to provide co‐ordinated multi‐disciplinary care using standard approaches to manage common post‐stroke problems. 
+Objectives
+• To assess the effects of organised inpatient (stroke unit) care compared with an alternative service. 
+• To use a network meta‐analysis (NMA) approach to assess different types of organised inpatient (stroke unit) care for people admitted to hospital after a stroke (the standard comparator was care in a general ward). 
+Originally, we conducted this systematic review to clarify:
+• The characteristic features of organised inpatient (stroke unit) care?
+• Whether organised inpatient (stroke unit) care provide better patient outcomes than alternative forms of care? 
+• If benefits are apparent across a range of patient groups and across different approaches to delivering organised stroke unit care? 
+Within the current version, we wished to establish whether previous conclusions were altered by the inclusion of new outcome data from recent trials and further analysis via NMA. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (2 April 2019); the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 4), in the Cochrane Library (searched 2 April 2019); MEDLINE Ovid (1946 to 1 April 2019); Embase Ovid (1974 to 1 April 2019); and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 2 April 2019). In an effort to identify further published, unpublished, and ongoing trials, we searched seven trial registries (2 April 2019). We also performed citation tracking of included studies, checked reference lists of relevant articles, and contacted trialists. 
+Selection criteria
+Randomised controlled clinical trials comparing organised inpatient stroke unit care with an alternative service (typically contemporary conventional care), including comparing different types of organised inpatient (stroke unit) care for people with stroke who are admitted to hospital. 
+Data collection and analysis
+Two review authors assessed eligibility and trial quality. We checked descriptive details and trial data with co‐ordinators of the original trials, assessed risk of bias, and applied GRADE. The primary outcome was poor outcome (death or dependency (Rankin score 3 to 5) or requiring institutional care) at the end of scheduled follow‐up. Secondary outcomes included death, institutional care, dependency, subjective health status, satisfaction, and length of stay. We used direct (pairwise) comparisons to compare organised inpatient (stroke unit) care with an alternative service. We used an NMA to confirm the relative effects of different approaches. 
+Main results
+We included 29 trials (5902 participants) that compared organised inpatient (stroke unit) care with an alternative service: 20 trials (4127 participants) compared organised (stroke unit) care with a general ward, six trials (982 participants) compared different forms of organised (stroke unit) care, and three trials (793 participants) incorporated more than one comparison. 

@@ -1,0 +1,10 @@
+Background
+Adhesive capsulitis (also termed frozen shoulder) is commonly treated by manual therapy and exercise, usually delivered together as components of a physical therapy intervention. This review is one of a series of reviews that form an update of the Cochrane review, 'Physiotherapy interventions for shoulder pain.' 
+Objectives
+To synthesise available evidence regarding the benefits and harms of manual therapy and exercise, alone or in combination, for the treatment of patients with adhesive capsulitis. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, CINAHL Plus, ClinicalTrials.gov and the WHO ICTRP clinical trials registries up to May 2013, unrestricted by language, and reviewed the reference lists of review articles and retrieved trials, to identify potentially relevant trials. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐randomised trials, including adults with adhesive capsulitis, and comparing any manual therapy or exercise intervention versus placebo, no intervention, a different type of manual therapy or exercise or any other intervention. Interventions included mobilisation, manipulation and supervised or home exercise, delivered alone or in combination. Trials investigating the primary or adjunct effect of a combination of manual therapy and exercise were the main comparisons of interest. Main outcomes of interest were participant‐reported pain relief of 30% or greater, overall pain (mean or mean change), function, global assessment of treatment success, active shoulder abduction, quality of life and the number of participants experiencing adverse events. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, extracted the data, performed a risk of bias assessment and assessed the quality of the body of evidence for the main outcomes using the GRADE approach. 

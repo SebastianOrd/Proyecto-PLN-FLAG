@@ -1,0 +1,10 @@
+Background
+The introduction of point‐of‐care devices for the management of patients on oral anticoagulation allows self‐testing by the patient at home. Patients who self‐test can either adjust their medication according to a pre‐determined dose‐INR (international normalized ratio) schedule (self‐management), or they can call a clinic to be told the appropriate dose adjustment (self‐monitoring). Increasing evidence suggests self‐testing of oral anticoagulant therapy is equal to or better than standard monitoring. This is an updated version of the original review published in 2010. 
+Objectives
+To evaluate the effects on thrombotic events, major haemorrhages, and all‐cause mortality of self‐monitoring or self‐management of oral anticoagulant therapy compared to standard monitoring. 
+Search methods
+For this review update, we re‐ran the searches of the Cochrane Central Register of Controlled Trials (CENTRAL), 2015, Issue 6, the Cochrane Library, MEDLINE (Ovid, 1946 to June week 4 2015), Embase (Ovid, 1980 to 2015 week 27) on 1 July 2015. We checked bibliographies and contacted manufacturers and authors of relevant studies. We did not apply any language restrictions . 
+Selection criteria
+Outcomes analysed were thromboembolic events, mortality, major haemorrhage, minor haemorrhage, tests in therapeutic range, frequency of testing, and feasibility of self‐monitoring and self‐management. 
+Data collection and analysis
+Review authors independently extracted data and we used a fixed‐effect model with the Mantzel‐Haenzel method to calculate the pooled risk ratio (RR) and Peto’s method to verify the results for uncommon outcomes. We examined heterogeneity amongst studies with the Chi2 and I2 statistics and used GRADE methodology to assess the quality of evidence. 

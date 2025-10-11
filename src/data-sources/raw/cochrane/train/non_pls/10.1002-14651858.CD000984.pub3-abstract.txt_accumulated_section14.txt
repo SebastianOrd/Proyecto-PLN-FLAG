@@ -1,0 +1,14 @@
+Background
+The prevalence of overweight and obesity is increasing globally, an increase which has major implications for both population health and costs to health services. This is an update of a Cochrane Review. 
+Objectives
+To assess the effects of strategies to change the behaviour of health professionals or the organisation of care compared to standard care, to promote weight reduction in children and adults with overweight or obesity. 
+Search methods
+We searched the following databases for primary studies up to September 2016: CENTRAL, MEDLINE, Embase, CINAHL, DARE and PsycINFO. We searched the reference lists of included studies and two trial registries. 
+Selection criteria
+We considered randomised trials that compared routine provision of care with interventions aimed either at changing the behaviour of healthcare professionals or the organisation of care to promote weight reduction in children and adults with overweight or obesity. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane when conducting this review. We report the results for the professional interventions and the organisational interventions in seven 'Summary of findings' tables. 
+Main results
+We identified 12 studies for inclusion in this review, seven of which evaluated interventions targeting healthcare professional and five targeting the organisation of care. Eight studies recruited adults with overweight or obesity and four recruited children with obesity. Eight studies had an overall high risk of bias, and four had a low risk of bias. In total, 139 practices provided care to 89,754 people, with a median follow‐up of 12 months. 
+Professional interventions  
+Educational interventions aimed at general practitioners (GPs), may slightly reduce the weight of participants (mean difference (MD) ‐1.24 kg, 95% confidence interval (CI) ‐2.84 to 0.37; 3 studies, N = 1017 adults; low‐certainty evidence). 

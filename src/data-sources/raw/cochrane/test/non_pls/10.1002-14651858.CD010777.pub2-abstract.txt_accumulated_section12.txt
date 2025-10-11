@@ -1,0 +1,12 @@
+Background
+Ischaemia reperfusion injury can lead to kidney dysfunction or failure. Ischaemic preconditioning is a short period of deprivation of blood supply to particular organs or tissue, followed by a period of reperfusion. It has the potential to protect kidneys from ischaemia reperfusion injury. 
+Objectives
+This review aimed to look at the benefits and harms of local and remote ischaemic preconditioning to reduce ischaemia and reperfusion injury among people with renal ischaemia reperfusion injury. 
+Search methods
+We searched Cochrane Kidney and Transplant's Specialised Register to 5 August 2016 through contact with the Information Specialist using search terms relevant to this review. 
+Selection criteria
+We included all randomised controlled trials measuring kidney function and the role of ischaemic preconditioning in patients undergoing a surgical intervention that induces kidney injury. Kidney transplantation studies were excluded. 
+Data collection and analysis
+Studies were assessed for eligibility and quality; data were extracted by two independent authors. We collected basic study characteristics: type of surgery, remote ischaemic preconditioning protocol, type of anaesthesia. We collected primary outcome measurements: serum creatinine and adverse effects to remote ischaemic preconditioning and secondary outcome measurements: acute kidney injury, need for dialysis, neutrophil gelatinase‐associated lipocalin, hospital stay and mortality. Summary estimates of effect were obtained using a random‐effects model, and results were expressed as risk ratios (RR) and their 95% confidence intervals (CI) for dichotomous outcomes, and mean difference (MD) and 95% CI for continuous outcomes. 
+Main results
+We included 28 studies which randomised a total of 6851 patients. Risk of bias assessment indicated unclear to low risk of bias for most studies. For consistency regarding the direction of effects, continuous outcomes with negative values, and dichotomous outcomes with values less than one favour remote ischaemic preconditioning. Based on high quality evidence, remote ischaemic preconditioning made little or no difference to the reduction of serum creatinine levels at postoperative days one (14 studies, 1022 participants: MD ‐0.02 mg/dL, 95% CI ‐0.05 to 0.02; I2 = 21%), two (9 studies, 770 participants: MD ‐0.04 mg/dL, 95% CI ‐0.09 to 0.02; I2 = 31%), and three (6 studies, 417 participants: MD ‐0.05 mg/dL, 95% CI ‐0.19 to 0.10; I2 = 68%) compared to control. 

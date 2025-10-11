@@ -1,0 +1,12 @@
+Background
+Schizophrenia is a severe mental disorder with a prevalence of about 1% among the general population. It is listed among the top 10 causes of disability‐adjusted life years (DALYs) worldwide. Antipsychotics are the mainstay treatment. Piperacetazine has been reported to be as clinically effective as chlorpromazine, a well established 'benchmark' antipsychotic, for people with schizophrenia. However, the side effect profiles of these antipsychotics differ and it is important that an evidence base is available comparing the benefits, and potential harms of these two antipsychotics. 
+Objectives
+To assess the clinical and side effects of chlorpromazine for people with schizophrenia and schizophrenia‐like psychoses in comparison with piperacetazine. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Trials Register (6 June 2015 and 8 October 2018) which is based on regular searches of CINAHL, CENTRAL, BIOSIS, AMED, Embase, PubMed, MEDLINE, PsycINFO and registries of clinical trials. There are no language, date, document type, or publication status limitations for inclusion of records in the register. 
+Selection criteria
+We included randomised controlled trials (RCTs) focusing on chlorpromazine versus piperacetazine for people with schizophrenia, reporting useable data. 
+Data collection and analysis
+We extracted data independently. For binary outcomes, we calculated risk ratio (RR) and its 95% confidence interval (CI), on an intention‐to‐treat basis. For continuous data, we estimated the mean difference (MD) between groups and its 95% CI. We employed a fixed‐effect model for analyses. We assessed risk of bias for included studies and created 'Summary of findings' tables using GRADE. 
+Main results
+We found 12 records referring to six trials. We included five trials, all from the 1970s, randomising 343 participants. We excluded one trial. The overall methodology and data reporting by the trials was poor. Only short‐term data were available. 

@@ -1,0 +1,13 @@
+Background
+This is an update of a review first published in 2011, and last updated in 2017.
+Most people with epilepsy have a good prognosis, but up to 30% of people continue to have seizures despite several regimens of antiepileptic drugs. In this review, we summarized the current evidence regarding eslicarbazepine acetate (ESL) when used as an add‐on treatment for drug‐resistant focal epilepsy. 
+Objectives
+To evaluate the efficacy and tolerability of ESL when used as an add‐on treatment for people with drug‐resistant focal epilepsy. 
+Search methods
+For this update, we searched the following databases on 10 September 2020: Cochrane Register of Studies (CRS Web) and MEDLINE (Ovid). CRS Web includes randomized or quasi‐randomized, controlled trials from Specialized Registers of Cochrane Review Groups including Epilepsy, CENTRAL, PubMed, Embase, ClinicalTrials.gov and the WHO ICTRP. There were no language restrictions. We reviewed the reference lists of retrieved studies and contacted the manufacturers of ESL and experts in the field for information about any unpublished or ongoing studies. 
+Selection criteria
+Randomized placebo‐controlled double‐blind add‐on trials of ESL in people with drug‐resistant focal epilepsy. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion and extracted data. Outcomes investigated included 50% or greater reduction in seizure frequency, seizure freedom, treatment withdrawal, adverse effects and drug interactions. Primary analyses were by intention to treat (ITT). The dose‐response relationship was evaluated in regression models. 
+Main results
+We included seven trials (2185 participants, aged 2 to 77 years), which were at low or unclear risk of bias apart from a high risk of attrition bias; all studies were funded by the pharmaceutical company, BIAL. 

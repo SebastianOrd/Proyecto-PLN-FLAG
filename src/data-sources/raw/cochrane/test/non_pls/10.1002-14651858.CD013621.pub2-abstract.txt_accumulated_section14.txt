@@ -1,0 +1,14 @@
+Background
+Pressure ulcers (also known as pressure injuries) are localised injuries to the skin or underlying soft tissue, or both, caused by unrelieved pressure, shear or friction. Foam surfaces (beds, mattresses or overlays) are widely used with the aim of preventing pressure ulcers. 
+Objectives
+To assess the effects of foam beds, mattresses or overlays compared with any support surface on the incidence of pressure ulcers in any population in any setting. 
+Search methods
+In November 2019, we searched the Cochrane Wounds Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE (including In‐Process & Other Non‐Indexed Citations); Ovid Embase and EBSCO CINAHL Plus. We also searched clinical trials registries for ongoing and unpublished studies, and scanned reference lists of relevant included studies as well as reviews, meta‐analyses and health technology reports to identify additional studies. There were no restrictions with respect to language, date of publication or study setting. 
+Selection criteria
+We included randomised controlled trials that allocated participants of any age to foam beds, mattresses or overlays. Comparators were any beds, mattresses or overlays. 
+Data collection and analysis
+At least two review authors independently assessed studies using predetermined inclusion criteria. We carried out data extraction, 'Risk of bias' assessment using the Cochrane 'Risk of bias' tool, and the certainty of the evidence assessment according to Grading of Recommendations, Assessment, Development and Evaluations methodology. If a foam surface was compared with surfaces that were not clearly specified, then the included study was recorded and described but not considered further in any data analyses. 
+Main results
+We included 29 studies (9566 participants) in the review. Most studies were small (median study sample size: 101 participants). The average age of participants ranged from 47.0 to 85.3 years (median: 76.0 years). Participants were mainly from acute care settings. We analysed data for seven comparisons in the review: foam surfaces compared with: (1) alternating pressure air surfaces, (2) reactive air surfaces, (3) reactive fibre surfaces, (4) reactive gel surfaces, (5) reactive foam and gel surfaces, (6) reactive water surfaces, and (7) another type of foam surface. Of the 29 included studies, 17 (58.6%) presented findings which were considered at high overall risk of bias. 
+Primary outcome: pressure ulcer incidence 
+Low‐certainty evidence suggests that foam surfaces may increase the risk of developing new pressure ulcers compared with (1) alternating pressure (active) air surfaces (risk ratio (RR) 1.59, 95% confidence interval (CI) 0.86 to 2.95; I2 = 63%; 4 studies, 2247 participants), and (2) reactive air surfaces (RR 2.40, 95% CI 1.04 to 5.54; I2 = 25%; 4 studies, 229 participants). 

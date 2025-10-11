@@ -1,0 +1,12 @@
+Background
+Lifestyle changes and cardiovascular prevention measures are a primary treatment for intermittent claudication (IC). Symptomatic treatment with vasoactive agents (Anatomic Therapeutic Chemical Classification (ATC) for medicines from the World Health Organisation class CO4A) is controversial. 
+Objectives
+To evaluate evidence on the efficacy and safety of oral naftidrofuryl (ATC CO4 21) versus placebo on the pain‐free walking distance (PFWD) of people with IC by using a meta‐analysis based on individual patient data (IPD). 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (last searched October 2012) and CENTRAL (2012, Issue 9). 
+For the original review the authors handsearched the European Journal of Vascular and Endovascular Surgery (1984 to 1994) and checked relevant bibliographies. They contacted the registration holder of naftidrofuryl and the authors of identified trials for any unpublished data. 
+Selection criteria
+We included only randomized controlled trials (RCTs) with low or moderate risk of bias for which the IPD were available. 
+Data collection and analysis
+We collected data from the electronic data file or from the case report form and checked the data by a statistical quality control procedure. All randomized patients were analyzed following the intention‐to‐treat (ITT) principle. The geometric mean of the relative improvement in PFWD was calculated for both treatment groups in all identified studies. 
+The effect of the drug was assessed compared with placebo on final walking distance (WDf) using multilevel and random‐effect models and adjusting for baseline walking distance (WD0). For the responder analysis, therapeutic success was defined as an improvement of walking distance of at least 50%. 

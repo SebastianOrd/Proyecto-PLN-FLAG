@@ -1,0 +1,10 @@
+Background
+The impact of lymphadenectomy extent on the survival of patients with primary resectable gastric carcinoma is debated. 
+Objectives
+We aimed to systematically review and meta‐analyze the evidence on the impact of the three main types of progressively more extended lymph node dissection (that is, D1, D2 and D3 lymphadenectomy) on the clinical outcome of patients with primary resectable carcinoma of the stomach. The primary objective was to assess the impact of lymphadenectomy extent on survival (overall survival [OS], disease specific survival [DSS] and disease free survival [DFS]). The secondary aim was to assess the impact of lymphadenectomy on post‐operative mortality. 
+Search methods
+We searched CENTRAL, MEDLINE and EMBASE until 2001, including references from relevant articles and conference proceedings. We also contacted known researchers in the field. For the updated review, CENTRAL, MEDLINE and EMBASE were searched from 2001 to February 2015. 
+Selection criteria
+We considered randomized controlled trials (RCTs) comparing the three main types of lymph node dissection (i.e., D1, D2 and D3 lymphadenectomy) in patients with primary non‐metastatic resectable carcinoma of the stomach. 
+Data collection and analysis
+Two authors independently extracted data from the included studies. Hazard ratios (HR) and relative risks (RR) along with their 95% confidence intervals (CI) were used to measure differences in survival and mortality rates between trial arms, respectively. Potential sources of between‐study heterogeneity were investigated by means of subgroup and sensitivity analyses. The same two authors independently assessed the risk of bias of eligible studies according to the standards of the Cochrane Collaboration and the quality of the overall evidence based on the GRADE (Grades of Recommendation, Assessment, Development and Evaluation) criteria. 

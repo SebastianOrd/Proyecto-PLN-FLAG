@@ -1,0 +1,10 @@
+Background
+Ulcerative colitis is largely a disease of nonsmokers. Intermittent smokers often experience improvement in their symptoms while smoking. Nonsmokers with ulcerative colitis who begin smoking may go into remission. Randomized controlled trials were developed to test the efficacy of transdermal nicotine for the induction of remission in ulcerative colitis. 
+Objectives
+(1) To determine the efficacy of transdermal nicotine for induction of remission in ulcerative colitis. (2) To assess adverse events associated with transdermal nicotine therapy for ulcerative colitis 
+Search methods
+The MEDLINE (via PubMed) and EMBASE databases were searched using the search criteria "ulcerative colitis" and "transdermal nicotine" or "nicotine" to identify relevant papers published between 1970 and June 2008. Manual searches of reference lists from potentially relevant papers were performed to identify additional studies. Abstracts from major gastroenterological meetings were searched to identify research submitted in abstract form only. The Cochrane Central Register of Controlled Trials and the Cochrane Inflammatory Bowel Disease Group Specialized Trials Register were also searched. 
+Selection criteria
+We included only randomized controlled trials in which patients with active mild to moderate ulcerative colitis were randomly allocated to receive transdermal nicotine (15 to 25 mg/day) or a placebo or another treatment (corticosteroids or mesalamine). 
+Data collection and analysis
+Data extraction and assessment of the methodological quality of each trial were independently performed by each author. Any disagreement among reviewers was resolved by consensus. The primary outcome measure was the number of patients achieving clinical or sigmoidoscopic remission as defined by the primary studies (e.g. no symptoms of ulcerative colitis), and expressed as a percentage of the patients randomized (intention to treat analysis). Secondary outcomes included clinical response, adverse events and withdrawal because of adverse events. 

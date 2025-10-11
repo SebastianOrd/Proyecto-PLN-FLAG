@@ -1,0 +1,16 @@
+Background
+Conversion and dissociative disorders are conditions where people experience unusual neurological symptoms or changes in awareness or identity. However, symptoms and clinical signs cannot be explained by a neurological disease or other medical condition. Instead, a psychological stressor or trauma is often present. The symptoms are real and can cause significant distress or problems with functioning in everyday life for the people experiencing them. 
+Objectives
+To assess the beneficial and harmful effects of psychosocial interventions of conversion and dissociative disorders in adults. 
+Search methods
+We conducted database searches between 16 July and 16 August 2019. We searched Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, and eight other databases, together with reference checking, citation searching and contact with study authors to identify additional studies.  
+Selection criteria
+We included all randomised controlled trials that compared psychosocial interventions for conversion and dissociative disorders with standard care, wait list or other interventions (pharmaceutical, somatic or psychosocial).  
+Data collection and analysis
+We selected, quality assessed and extracted data from the identified studies. Two review authors independently performed all tasks. We used standard Cochrane methodology. For continuous data, we calculated mean differences (MD) and standardised mean differences (SMD) with 95% confidence interval (CI). For dichotomous outcomes, we calculated risk ratio (RR) with 95% CI. We assessed and downgraded the evidence according to the GRADE system for risk of bias, imprecision, indirectness, inconsistency and publication bias. 
+Main results
+We included 17 studies (16 with parallel‐group designs and one with a cross‐over design), with 894 participants aged 18 to 80 years (female:male ratio 3:1).  
+The data were separated into 12 comparisons based on the different interventions and comparators. Studies were pooled into the same comparison when identical interventions and comparisons were evaluated. The certainty of the evidence was downgraded as a consequence of potential risk of bias, as many of the studies had unclear or inadequate allocation concealment. Further downgrading was performed due to imprecision, few participants and inconsistency. 
+There were 12 comparisons for the primary outcome of reduction in physical signs.
+Inpatient paradoxical intention therapy compared with outpatient diazepam: inpatient paradoxical intention therapy did not reduce conversive symptoms compared with outpatient diazepam at the end of treatment (RR 1.44, 95% CI 0.91 to 2.28; 1 study, 30 participants; P = 0.12; very low‐quality evidence). 
+Inpatient treatment programme plus hypnosis compared with inpatient treatment programme: inpatient treatment programme plus hypnosis did not reduce severity of impairment compared with inpatient treatment programme at the end of treatment (MD –0.49 (negative value better), 95% CI –1.28 to 0.30; 1 study, 45 participants; P = 0.23; very low‐quality evidence). 

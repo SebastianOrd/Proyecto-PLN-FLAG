@@ -1,0 +1,10 @@
+Background
+Upper gastrointestinal bleeding is typically a mild, self‐limiting condition that can affect both preterm and term neonates, although it can be severe particularly when associated with co‐morbidities. Pharmacological interventions with a proton pump inhibitor (PPI), H2 receptor antagonist (H2RA), antacid, bismuth and sucralfate may have effects on both the prevention and treatment of upper gastrointestinal bleeding in infants. 
+Objectives
+To assess how different pharmacological interventions (PPIs, H2RAs, antacids, sucralfate or bismuth salts) administered to preterm and term neonates for the prevention or treatment of upper gastrointestinal bleeding to reduce morbidity and mortality compare with placebo or no treatment, supportive care, or each other. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2018, Issue 6), MEDLINE via PubMed (1966 to 12 July 2018), Embase (1980 to 12 July 2018), and CINAHL (1982 to 12 July 2018). We also searched clinical trial databases, conference proceedings, the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials, and online for Chinese literature articles. 
+Selection criteria
+We selected randomised, quasi‐randomised and cluster‐randomised trials involving preterm and term neonates. Trials were included if they used a proton pump inhibitor, H2 receptor antagonist, antacid, sucralfate or bismuth either for the prevention or treatment of upper gastrointestinal bleeding. 
+Data collection and analysis
+Two review authors independently assessed the eligibility of studies for inclusion, extracted data and assessed methodological quality. We conducted meta‐analysis using a fixed‐effect model. We used the GRADE approach to assess quality of evidence. 

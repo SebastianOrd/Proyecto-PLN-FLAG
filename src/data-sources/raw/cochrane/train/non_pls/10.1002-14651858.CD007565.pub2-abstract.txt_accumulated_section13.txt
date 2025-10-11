@@ -1,0 +1,13 @@
+Background
+Ovarian cancer is the sixth most common cancer among women. In addition to diagnosis and staging, primary surgery is performed to achieve optimal cytoreduction (surgical efforts aimed at removing the bulk of the tumour) as the amount of residual tumour is one of the most important prognostic factors for survival of women with epithelial ovarian cancer. An optimal outcome of cytoreductive surgery remains a subject of controversy to many practising gynae‐oncologists. The Gynaecologic Oncology group (GOG) currently defines 'optimal' as having residual tumour nodules each measuring 1 cm or less in maximum diameter, with complete cytoreduction (microscopic disease) being the ideal surgical outcome. Although the size of residual tumour masses after surgery has been shown to be an important prognostic factor for advanced ovarian cancer, it is unclear whether it is the surgical procedure that is directly responsible for the superior outcome that is associated with less residual disease. 
+Objectives
+To evaluate the effectiveness and safety of optimal primary cytoreductive surgery for women with surgically staged advanced epithelial ovarian cancer (stages III and IV). 
+To assess the impact of various residual tumour sizes, over a range between zero and 2 cm, on overall survival. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2010, Issue 3) and the Cochrane Gynaecological Cancer Review Group Trials Register, MEDLINE and EMBASE (up to August 2010). We also searched registers of clinical trials, abstracts of scientific meetings, reference lists of included studies and contacted experts in the field. 
+Selection criteria
+Retrospective data on residual disease from randomised controlled trials (RCTs) or prospective and retrospective observational studies which included a multivariate analysis of 100 or more adult women with surgically staged advanced epithelial ovarian cancer and who underwent primary cytoreductive surgery followed by adjuvant platinum‐based chemotherapy. We only included studies that defined optimal cytoreduction as surgery leading to residual tumours with a maximum diameter of any threshold up to 2 cm. 
+Data collection and analysis
+Two review authors independently abstracted data and assessed risk of bias. Where possible, the data were synthesised in a meta‐analysis. 
+Main results
+There were no RCTs or prospective non‐RCTs identified that were designed to evaluate the effectiveness of surgery when performed as a primary procedure in advanced stage ovarian cancer. 

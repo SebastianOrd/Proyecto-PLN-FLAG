@@ -1,0 +1,14 @@
+Background
+Substance use disorders (SUDs) are highly prevalent and associated with a substantial public health burden. Although evidence‐based interventions exist for treating SUDs, many individuals remain symptomatic despite treatment, and relapse is common.Mindfulness‐based interventions (MBIs) have been examined for the treatment of SUDs, but available evidence is mixed. 
+Objectives
+To determine the effects of MBIs for SUDs in terms of substance use outcomes, craving and adverse events compared to standard care, further psychotherapeutic, psychosocial or pharmacological interventions, or instructions, waiting list and no treatment. 
+Search methods
+We searched the following databases up to April 2021: Cochrane Drugs and Alcohol Specialised Register, CENTRAL, PubMed, Embase, Web of Science, CINAHL and PsycINFO. We searched two trial registries and checked the reference lists of included studies for relevant randomized controlled trials (RCTs). 
+Selection criteria
+RCTs testing a MBI versus no treatment or another treatment in individuals with SUDs. SUDs included alcohol and/or drug use disorders but excluded tobacco use disorders. MBIs were defined as interventions including training in mindfulness meditation with repeated meditation practice. Studies in which SUDs were formally diagnosed as well as those merely demonstrating elevated SUD risk were eligible. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+Forty RCTs met our inclusion criteria, with 35 RCTs involving 2825 participants eligible for meta‐analysis. All studies were at high risk of performance bias and most were at high risk of detection bias. 
+Mindfulness‐based interventions (MBIs) versus no treatment 
+Twenty‐four RCTs included a comparison between MBI and no treatment. The evidence was uncertain about the effects of MBIs relative to no treatment on all primary outcomes: continuous abstinence rate (post: risk ratio (RR) = 0.96, 95% CI 0.44 to 2.14, 1 RCT, 112 participants; follow‐up: RR = 1.04, 95% CI 0.54 to 2.01, 1 RCT, 112 participants); percentage of days with substance use (post‐treatment: standardized mean difference (SMD) = 0.05, 95% CI ‐0.37 to 0.47, 4 RCTs, 248 participants; follow‐up: SMD = 0.21, 95% CI ‐0.12 to 0.54, 3 RCTs, 167 participants); and consumed amount (post‐treatment: SMD = 0.10, 95% CI ‐0.31 to 0.52, 3 RCTs, 221 participants; follow‐up: SMD = 0.33, 95% CI 0.00 to 0.66, 2 RCTs, 142 participants). Evidence was uncertain for craving intensity and serious adverse events. Analysis of treatment acceptability indicated MBIs result in little to no increase in study attrition relative to no treatment (RR = 1.04, 95% CI 0.77 to 1.40, 21 RCTs, 1087 participants). Certainty of evidence for all other outcomes was very low due to imprecision, risk of bias, and/or inconsistency. Data were unavailable to evaluate adverse events. 

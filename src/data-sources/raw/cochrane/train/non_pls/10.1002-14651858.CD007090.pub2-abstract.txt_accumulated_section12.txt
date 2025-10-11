@@ -1,0 +1,12 @@
+Background
+Human milk alone may provide inadequate amounts of protein to meet the growth requirements of preterm infants because of restrictions in the amount of fluid they can tolerate. It has become common practice to feed preterm infants with breast milk fortified with protein and other nutrients but there is debate about the optimal concentration of protein in commercially available fortifiers. 
+Objectives
+To compare the effects of different protein concentrations in human milk fortifier, fed to preterm infants, on growth and neurodevelopment. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search CENTRAL (2019, Issue 8), Ovid MEDLINE and CINAHL on 15 August 2019. We also searched clinical trials databases and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+We included all published and unpublished randomised, quasi‐randomised and cluster‐randomised trials comparing two different concentrations of protein in human milk fortifier. 
+We included preterm infants (less than 37 weeks' gestational age). Participants may have been exclusively fed human milk or have been supplemented with formula. 
+The concentration of protein was classified as low (< 1g protein/100 mL expressed breast milk (EBM)), moderate (≥ 1g to < 1.4g protein/100 mL EBM) or high (≥ 1.4g protein/100 mL EBM). We excluded trials that compared two protein concentrations that fell within the same category. 
+Data collection and analysis
+We undertook data collection and analyses using the standard methods of Cochrane Neonatal. Two review authors independently evaluated trials. Primary outcomes included growth, neurodevelopmental outcome and mortality. Data were synthesised using risk ratios (RR), risk differences and mean differences (MD), with 95% confidence intervals (CI). We used the GRADE approach to assess the certainty of the evidence. 

@@ -1,0 +1,13 @@
+Background
+There may be an association between periodontitis and cardiovascular disease (CVD); however, the evidence so far has been uncertain about whether periodontal therapy can help prevent CVD in people diagnosed with chronic periodontitis. This is the second update of a review originally published in 2014, and first updated in 2017. Although there is a new multidimensional staging and grading system for periodontitis, we have retained the label 'chronic periodontitis' in this version of the review since available studies are based on the previous classification system. 
+Objectives
+To investigate the effects of periodontal therapy for primary or secondary prevention of CVD in people with chronic periodontitis. 
+Search methods
+Cochrane Oral Health's Information Specialist searched the Cochrane Oral Health's Trials Register, CENTRAL, MEDLINE, Embase, and CINAHL, two trials registries, and the grey literature to September 2019. We placed no restrictions on the language or date of publication. 
+We also searched the Chinese BioMedical Literature Database, the China National Knowledge Infrastructure, the VIP database, and Sciencepaper Online to August 2019. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared active periodontal therapy to no periodontal treatment or a different periodontal treatment. We included studies of participants with a diagnosis of chronic periodontitis, either with CVD (secondary prevention studies) or without CVD (primary prevention studies). 
+Data collection and analysis
+Two review authors carried out the study identification, data extraction, and 'Risk of bias' assessment independently and in duplicate. They resolved any discrepancies by discussion, or with a third review author. We adopted a formal pilot‐tested data extraction form, and used the Cochrane tool to assess the risk of bias in the studies. We used GRADE criteria to assess the certainty of the evidence. 
+Main results
+We included two RCTs in the review. One study focused on the primary prevention of CVD, and the other addressed secondary prevention. We evaluated both as being at high risk of bias. Our primary outcomes of interest were death (all‐cause and CVD‐related) and all cardiovascular events, measured at one‐year follow‐up or longer. 

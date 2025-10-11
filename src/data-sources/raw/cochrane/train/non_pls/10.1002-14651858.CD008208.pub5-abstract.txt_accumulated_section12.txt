@@ -1,0 +1,12 @@
+Background
+This is an updated version of the original Cochrane Review published in 2010, Issue 9, and last updated in 2014, Issue 4. Non‐invasive brain stimulation techniques aim to induce an electrical stimulation of the brain in an attempt to reduce chronic pain by directly altering brain activity. They include repetitive transcranial magnetic stimulation (rTMS), cranial electrotherapy stimulation (CES), transcranial direct current stimulation (tDCS), transcranial random noise stimulation (tRNS) and reduced impedance non‐invasive cortical electrostimulation (RINCE). 
+Objectives
+To evaluate the efficacy of non‐invasive cortical stimulation techniques in the treatment of chronic pain. 
+Search methods
+For this update we searched CENTRAL, MEDLINE, Embase, CINAHL, PsycINFO, LILACS and clinical trials registers from July 2013 to October 2017. 
+Selection criteria
+Randomised and quasi‐randomised studies of rTMS, CES, tDCS, RINCE and tRNS if they employed a sham stimulation control group, recruited patients over the age of 18 years with pain of three months' duration or more, and measured pain as an outcome. Outcomes of interest were pain intensity measured using visual analogue scales or numerical rating scales, disability, quality of life and adverse events. 
+Data collection and analysis
+Two review authors independently extracted and verified data. Where possible we entered data into meta‐analyses, excluding studies judged as high risk of bias. We used the GRADE system to assess the quality of evidence for core comparisons, and created three 'Summary of findings' tables. 
+Main results
+We included an additional 38 trials (involving 1225 randomised participants) in this update, making a total of 94 trials in the review (involving 2983 randomised participants). This update included a total of 42 rTMS studies, 11 CES, 36 tDCS, two RINCE and two tRNS. One study evaluated both rTMS and tDCS. We judged only four studies as low risk of bias across all key criteria. Using the GRADE criteria we judged the quality of evidence for each outcome, and for all comparisons as low or very low; in large part this was due to issues of blinding and of precision. 

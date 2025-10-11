@@ -1,0 +1,10 @@
+Background
+Intra‐aortic balloon pump counterpulsation (IABP) is currently the most commonly used mechanical assist device for patients with cardiogenic shock due to acute myocardial infarction. Although there has been only limited evidence from randomised controlled trials, the previous guidelines of the American Heart Association/American College of Cardiology (AHA/ACC) and the European Society of Cardiology (ESC) strongly recommended the use of the IABP in patients with infarction‐related cardiogenic shock on the basis of pathophysiological considerations, non‐randomised trials and registry data. The recent guidelines downgraded the recommendation based on a meta‐analysis which could only include non‐randomised trials showing conflicting results. Up to now, there have been no guideline recommendations and no actual meta‐analysis including the results of the large randomised multicentre IABP‐SHOCK II Trial which showed no survival benefit with IABP support. This systematic review is an update of the review published in 2011. 
+Objectives
+To evaluate, in terms of efficacy and safety, the effect of IABP versus non‐IABP or other assist devices guideline compliant standard therapy on mortality and morbidity in patients with acute myocardial infarction complicated by cardiogenic shock. 
+Search methods
+Searches of CENTRAL, MEDLINE (Ovid) and EMBASE (Ovid), LILACS, IndMed and KoreaMed, registers of ongoing trials and proceedings of conferences were updated in October 2013. Reference lists were scanned and experts in the field contacted to obtain further information. No language restrictions were applied. 
+Selection criteria
+Randomised controlled trials on patients with acute myocardial infarction complicated by cardiogenic shock. 
+Data collection and analysis
+Data collection and analysis were performed according to the published protocol. Individual patient data were provided for six trials and merged with aggregate data. Summary statistics for the primary endpoints were hazard ratios (HRs) and odds ratios (ORs) with 95% confidence intervals (CIs). 

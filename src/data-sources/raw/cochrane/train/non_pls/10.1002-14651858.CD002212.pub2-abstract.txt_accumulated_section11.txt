@@ -1,0 +1,11 @@
+Background
+Nurses and midwives form the bulk of the clinical health workforce and play a central role in all health service delivery. There is potential to improve health care quality if nurses routinely use the best available evidence in their clinical practice. Since many of the factors perceived by nurses as barriers to the implementation of evidence‐based practice (EBP) lie at the organisational level, it is of interest to devise and assess the effectiveness of organisational infrastructures designed to promote EBP among nurses. 
+Objectives
+To assess the effectiveness of organisational infrastructures in promoting evidence‐based nursing. 
+Search methods
+We searched the Cochrane Effective Practice and Organisation of Care (EPOC) Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, LILACS, BIREME, IBECS, NHS Economic Evaluations Database, Social Science Citation Index, Science Citation Index and Conference Proceedings Citation Indexes up to 9 March 2011. 
+We developed a new search strategy for this update as the strategy published in 2003 omitted key terms. Additional search methods included: screening reference lists of relevant studies, contacting authors of relevant papers regarding any further published or unpublished work, and searching websites of selected research groups and organisations.  
+Selection criteria
+We considered randomised controlled trials, controlled clinical trials, interrupted times series (ITSs) and controlled before and after studies of an entire or identified component of an organisational infrastructure intervention aimed at promoting EBP in nursing. The participants were all healthcare organisations comprising nurses, midwives and health visitors. 
+Data collection and analysis
+Two authors independently extracted data and assessed risk of bias. For the ITS analysis, we reported the change in the slopes of the regression lines, and the change in the level effect of the outcome at 3, 6, 12 and 24 months follow‐up. 

@@ -1,0 +1,13 @@
+Background
+Clavicle (collarbone) fractures account for around 4% of all fractures. Most (76%) clavicle fractures involve the middle‐third section of the clavicle. Treatment of these fractures is usually non‐surgical (conservative). Commonly used treatments are arm slings, strapping and figure‐of‐eight bandages. 
+This is an update of a Cochrane review first published in 2009 and updated in 2014.
+Objectives
+To evaluate the effects (benefits and harms) of different methods for conservative (non‐operative) treatment for acute (treated soon after injury) middle third clavicle fractures in adolescents and adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register, the Cochrane Central Register of Controlled Trials, MEDLINE (from 1966), Embase (from 1980), LILACS (from 1982), trial registers, orthopaedic proceedings and reference lists of articles. We applied no language or publication restrictions. The date of the last search was 5 January 2016. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials testing conservative interventions for treating adolescents and adults with acute middle third clavicle fractures. The primary outcomes were shoulder function or disability, pain and treatment failure. 
+Data collection and analysis
+For this update, two review authors selected eligible trials, independently assessed risk of bias and cross‐checked data extraction. We calculated risk ratios and 95% confidence intervals for dichotomous variables, and mean differences and 95% confidence intervals for continuous variables. There was very limited pooling of data. 
+Main results
+We included four trials in this review with 416 participants, who were aged 14 years or above. One new trial was included in this update. 

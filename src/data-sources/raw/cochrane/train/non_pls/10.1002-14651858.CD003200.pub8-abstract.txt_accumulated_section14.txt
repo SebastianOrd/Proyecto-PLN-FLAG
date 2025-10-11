@@ -1,0 +1,14 @@
+Background
+Chronic fatigue syndrome (CFS) or myalgic encephalomyelitis (ME) is a serious disorder characterised by persistent postexertional fatigue and substantial symptoms related to cognitive, immune and autonomous dysfunction. There is no specific diagnostic test, therefore diagnostic criteria are used to diagnose CFS. The prevalence of CFS varies by type of diagnostic criteria used. Existing treatment strategies primarily aim to relieve symptoms and improve function. One treatment option is exercise therapy. 
+Objectives
+The objective of this review was to determine the effects of exercise therapy for adults with CFS compared with any other intervention or control on fatigue, adverse outcomes, pain, physical functioning, quality of life, mood disorders, sleep, self‐perceived changes in overall health, health service resources use and dropout. 
+Search methods
+We searched the Cochrane Common Mental Disorders Group controlled trials register, CENTRAL, and SPORTDiscus up to May 2014, using a comprehensive list of free‐text terms for CFS and exercise. We located unpublished and ongoing studies through the World Health Organization International Clinical Trials Registry Platform up to May 2014. We screened reference lists of retrieved articles and contacted experts in the field for additional studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) about adults with a primary diagnosis of CFS, from all diagnostic criteria, who were able to participate in exercise therapy. 
+Data collection and analysis
+Two review authors independently performed study selection, 'Risk of bias' assessments and data extraction. We combined continuous measures of outcomes using mean differences (MDs) or standardised mean differences (SMDs). To facilitate interpretation of SMDs, we re‐expressed SMD estimates as MDs on more common measurement scales. We combined dichotomous outcomes using risk ratios (RRs). We assessed the certainty of evidence using GRADE. 
+Main results
+We included eight RCTs with data from 1518 participants.
+Exercise therapy lasted from 12 weeks to 26 weeks. The studies measured effect at the end of the treatment and at long‐term follow‐up, after 50 weeks or 72 weeks. 
+Seven studies used aerobic exercise therapies such as walking, swimming, cycling or dancing, provided at mixed levels in terms of intensity of the aerobic exercise from very low to quite rigorous, and one study used anaerobic exercise. Control groups consisted of passive control, including treatment as usual, relaxation or flexibility (eight studies); cognitive behavioural therapy (CBT) (two studies); cognitive therapy (one study); supportive listening (one study); pacing (one study); pharmacological treatment (one study) and combination treatment (one study). 

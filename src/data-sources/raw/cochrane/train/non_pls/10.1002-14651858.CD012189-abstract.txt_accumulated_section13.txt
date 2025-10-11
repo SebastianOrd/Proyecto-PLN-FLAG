@@ -1,0 +1,13 @@
+Background
+Self‐harm (SH; intentional self‐poisoning or self‐injury) is common, often repeated, and associated with suicide. This is an update of a broader Cochrane review first published in 1998, previously updated in 1999, and now split into three separate reviews. This review focuses on psychosocial interventions in adults who engage in self‐harm. 
+Objectives
+To assess the effects of specific psychosocial treatments versus treatment as usual, enhanced usual care or other forms of psychological therapy, in adults following SH. 
+Search methods
+The Cochrane Depression, Anxiety and Neurosis Group (CCDAN) trials coordinator searched the CCDAN Clinical Trials Register (to 29 April 2015). This register includes relevant randomised controlled trials (RCTs) from: the Cochrane Library (all years), MEDLINE (1950 to date), EMBASE (1974 to date), and PsycINFO (1967 to date). 
+Selection criteria
+We included RCTs comparing psychosocial treatments with treatment as usual (TAU), enhanced usual care (EUC) or alternative treatments in adults with a recent (within six months) episode of SH resulting in presentation to clinical services. 
+Data collection and analysis
+We used Cochrane's standard methodological procedures.
+Main results
+We included 55 trials, with a total of 17,699 participants. Eighteen trials investigated cognitive‐behavioural‐based psychotherapy (CBT‐based psychotherapy; comprising cognitive‐behavioural, problem‐solving therapy or both). Nine investigated interventions for multiple repetition of SH/probable personality disorder, comprising emotion‐regulation group‐based psychotherapy, mentalisation, and dialectical behaviour therapy (DBT). Four investigated case management, and 11 examined remote contact interventions (postcards, emergency cards, telephone contact). Most other interventions were evaluated in only single small trials of moderate to very low quality. 
+There was a significant treatment effect for CBT‐based psychotherapy compared to TAU at final follow‐up in terms of fewer participants repeating SH (odds ratio (OR) 0.70, 95% confidence interval (CI) 0.55 to 0.88; number of studies k = 17; N = 2665; GRADE: low quality evidence), but with no reduction in frequency of SH (mean difference (MD) ‐0.21, 95% CI ‐0.68 to 0.26; k = 6; N = 594; GRADE: low quality). 

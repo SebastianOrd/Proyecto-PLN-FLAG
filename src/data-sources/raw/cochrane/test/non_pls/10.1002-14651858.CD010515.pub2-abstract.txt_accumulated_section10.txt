@@ -1,0 +1,10 @@
+Background
+People with dementia living in the community, that is in their own homes, are often not engaged in meaningful activities. Activities tailored to their individual interests and preferences might be one approach to improve quality of life and reduce challenging behaviour. 
+Objectives
+To assess the effects of personally tailored activities on psychosocial outcomes for people with dementia living in the community and their caregivers. 
+To describe the components of the interventions.
+To describe conditions which enhance the effectiveness of personally tailored activities in this setting. 
+Search methods
+We searched ALOIS: the Cochrane Dementia and Cognitive Improvement Group’s Specialized Register on 11 September 2019 using the terms: activity OR activities OR occupation* OR “psychosocial intervention" OR "non‐pharmacological intervention" OR "personally‐tailored" OR "individually‐tailored" OR individual OR meaning OR involvement OR engagement OR occupational OR personhood OR "person‐centred" OR identity OR Montessori OR community OR ambulatory OR "home care" OR "geriatric day hospital" OR "day care" OR "behavioural and psychological symptoms of dementia" OR "BPSD" OR "neuropsychiatric symptoms" OR "challenging behaviour" OR "quality of life" OR depression. ALOIS contains records of clinical trials identified from monthly searches of a number of major healthcare databases, numerous trial registries and grey literature sources. 
+Selection criteria
+We included randomised controlled trials and quasi‐experimental trials including a control group offering personally tailored activities. All interventions comprised an assessment of the participant’s present or past interests in, or preferences for, particular activities for all participants as a basis for an individual activity plan. We did not include interventions offering a single activity (e.g. music or reminiscence) or activities that were not tailored to the individual's interests or preferences. Control groups received usual care or an active control intervention. 

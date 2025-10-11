@@ -1,0 +1,22 @@
+Are laboratory‐made COVID‐19‐specific monoclonal antibodies effective to prevent COVID‐19 in adults? 
+Key messages 
+Pre‐exposure prophylaxis of COVID‐19: 
+– tixagevimab/cilgavimab probably reduces number of people infected with COVID‐19 and development of COVID‐19 symptoms, and may reduce number of people admitted to hospital; 
+– casirivimab/imdevimab may reduce number of people infected with COVID‐19 and development of COVID‐19 symptoms, and may increase number of unwanted effects (any severity) slightly. 
+Postexposure prophylaxis of COVID‐19:
+– bamlanivimab probably reduces number of people infected with COVID‐19;
+– casirivimab/imdevimab reduces number of people infected with COVID‐19 and development of COVID‐19 symptoms, and reduces number of unwanted effects (any severity). 
+What are 'monoclonal' antibodies? 
+The body makes antibodies to defend against disease. However, they may be produced in a laboratory from cells taken from people who have recovered from a disease. 
+Antibodies that target only one specific protein – in this case, a protein on the SARS‐CoV‐2 virus (that causes COVID‐19) – are 'monoclonal'. They attach to the virus and stop it from entering and replicating in human cells to prevent and fight infection. They are relevant for people who do not respond or respond poorly to vaccinations.  
+What did we want to find out? 
+We wanted to know if COVID‐19‐specific monoclonal antibodies are effective at preventing COVID‐19 in people exposed to the virus or are at high risk of being exposed to the virus. We looked at:  
+– confirmed COVID‐19 infections; 
+– development of COVID‐19 symptoms; 
+– death from any cause; 
+– hospital admission;
+– quality of life; 
+– unwanted effects, such as infections and cardiac disorders;
+– serious unwanted effects, such as life‐threatening, hospitalisation, disability, or death. 
+What did we do? 
+We searched for studies comparing monoclonal antibodies (e.g. bamlanivimab, tixagevimab/cilgavimab, and casirivimab/imdevimab) with placebo (sham treatment), another treatment, or no treatment to prevent COVID‐19 in people of any age, gender, or ethnicity. 

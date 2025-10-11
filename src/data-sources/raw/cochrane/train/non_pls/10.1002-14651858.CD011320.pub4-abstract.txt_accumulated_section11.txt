@@ -1,0 +1,11 @@
+Background
+Embryo incubation and assessment is a vital step in assisted reproductive technology (ART). Traditionally, embryo assessment has been achieved by removing embryos from a conventional incubator daily for quality assessment by an embryologist, under a microscope. In recent years time‐lapse systems (TLS) have been developed which can take digital images of embryos at frequent time intervals. This allows embryologists, with or without the assistance of embryo selection software, to assess the quality of the embryos without physically removing them from the incubator. 
+The potential advantages of a TLS include the ability to maintain a stable culture environment, therefore limiting the exposure of embryos to changes in gas composition, temperature, and movement. A TLS has the potential advantage of improving embryo selection for ART treatment by utilising additional information gained through continuously monitoring embryo development. Use of a TLS often adds significant extra cost to ART treatment. 
+Objectives
+To determine the effect of a TLS compared to conventional embryo incubation and assessment on clinical outcomes in couples undergoing ART. 
+Search methods
+We used standard methodology recommended by Cochrane. We searched the Cochrane Gynaecology and Fertility (CGF) Group Trials Register, CENTRAL, MEDLINE, Embase, CINAHL, and two trials registers on 7 January 2019 and checked references of appropriate papers. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing TLS, with or without embryo selection software, versus conventional incubation with morphological assessment; and TLS with embryo selection software versus TLS without embryo selection software among couples undergoing ART. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. The primary review outcomes were live birth or ongoing pregnancy, miscarriage and stillbirth, and cumulative live birth or ongoing pregnancy rate. The secondary outcomes were clinical pregnancy and cumulative clinical pregnancy. We assessed the quality of the evidence using GRADE methodology. We made the following comparisons. 

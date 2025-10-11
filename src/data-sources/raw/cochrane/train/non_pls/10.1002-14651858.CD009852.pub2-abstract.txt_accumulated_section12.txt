@@ -1,0 +1,12 @@
+Background
+Low‐back pain (LBP) is responsible for considerable personal suffering due to pain and reduced function, as well as the societal burden due to costs of health care and lost work productivity. For the vast majority of people with LBP, no specific anatomical cause can be reliably identified. For these people with non‐specific LBP there are numerous treatment options, few of which have been shown to be effective in reducing pain and disability. The muscle energy technique (MET) is a treatment technique used predominantly by osteopaths, physiotherapists and chiropractors which involves alternating periods of resisted muscle contractions and assisted stretching. To date it is unclear whether MET is effective in reducing pain and improving function in people with LBP. 
+Objectives
+To examine the effectiveness of MET in the treatment of people with non‐specific LBP compared with control interventions, with particular emphasis on subjective pain and disability outcomes. 
+Search methods
+CENTRAL, MEDLINE, EMBASE, five other databases and two trials registers were searched from inception to May and June 2014 together with reference checking and citation searching of relevant systematic reviews. 
+Selection criteria
+Randomised controlled trials assessing the effect of MET on pain or disability in patients with non‐specific LBP were included. 
+Data collection and analysis
+Two authors independently assessed the risk of bias and extracted the data. Meta‐analysis was performed where clinical homogeneity was sufficient. The quality of the evidence for each comparison was assessed with the GRADE approach. 
+Main results
+There were 12 randomised controlled trials with 14 comparisons included in the review, with a total sample of 500 participants across all comparisons. Included studies were typically very small (n = 20 to 72), all except one were assessed as being at high risk of bias, and all reported short‐term outcomes. For the purposes of pooling, studies were divided into seven clinically homogenous comparisons according to the patient population (acute or chronic LBP) and the nature of the control intervention. Most of the comparisons (five out of seven) included only one study, one comparison had two studies, and one comparison included seven studies. 

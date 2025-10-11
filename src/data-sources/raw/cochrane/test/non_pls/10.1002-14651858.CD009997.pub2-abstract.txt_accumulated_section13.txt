@@ -1,0 +1,13 @@
+Background
+Anaemia is a frequent condition during pregnancy, particularly among women in low‐ and middle‐income countries. Traditionally, gestational anaemia has been prevented with daily iron supplements throughout pregnancy, but adherence to this regimen due to side effects, interrupted supply of the supplements, and concerns about safety among women with an adequate iron intake, have limited the use of this intervention. Intermittent (i.e. two or three times a week on non‐consecutive days) supplementation has been proposed as an alternative to daily supplementation. 
+Objectives
+To assess the benefits and harms of intermittent supplementation with iron alone or in combination with folic acid or other vitamins and minerals to pregnant women on neonatal and pregnancy outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 July 2015), the WHO International Clinical Trials Registry Platform (ICTRP) (31 July 2015) and contacted relevant organisations for the identification of ongoing and unpublished studies (31 July 2015). 
+Selection criteria
+Randomised or quasi‐randomised trials.
+Data collection and analysis
+We assessed the methodological quality of trials using standard Cochrane criteria. Two review authors independently assessed trial eligibility, extracted data and conducted checks for accuracy. 
+Main results
+This review includes 27 trials from 15 countries, but only 21 trials (with 5490 women) contributed data to the review. All studies compared daily versus intermittent iron supplementation. The methodological quality of included studies was mixed and most had high levels of attrition.The overall assessment of the quality of the evidence for primary infant outcomes was low and for maternal outcomes very low. 
+Of the 21 trials contributing data, three studies provided intermittent iron alone, 14 intermittent iron + folic acid and four intermittent iron plus multiple vitamins and minerals in comparison with the same composition of supplements provided in a daily regimen. 

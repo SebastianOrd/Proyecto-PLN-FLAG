@@ -1,0 +1,12 @@
+Background
+Occupational irritant hand dermatitis (OIHD) causes significant functional impairment, disruption of work, and discomfort in the working population. Different preventive measures such as protective gloves, barrier creams and moisturisers can be used, but it is not clear how effective these are. This is an update of a Cochrane review which was previously published in 2010. 
+Objectives
+To assess the effects of primary preventive interventions and strategies (physical and behavioural) for preventing OIHD in healthy people (who have no hand dermatitis) who work in occupations where the skin is at risk of damage due to contact with water, detergents, chemicals or other irritants, or from wearing gloves. 
+Search methods
+We updated our searches of the following databases to January 2018: the Cochrane Skin Specialised Register, CENTRAL, MEDLlNE, and Embase. We also searched five trials registers and checked the bibliographies of included studies for further references to relevant trials. We handsearched two sets of conference proceedings. 
+Selection criteria
+We included parallel and cross‐over randomised controlled trials (RCTs) which examined the effectiveness of barrier creams, moisturisers, gloves, or educational interventions compared to no intervention for the primary prevention of OIHD under field conditions. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. The primary outcomes were signs and symptoms of OIHD developed during the trials, and the frequency of treatment discontinuation due to adverse effects. 
+Main results
+We included nine RCTs involving 2888 participants without occupational irritant hand dermatitis (OIHD) at baseline. Six studies, including 1533 participants, investigated the effects of barrier creams, moisturisers, or both. Three studies, including 1355 participants, assessed the effectiveness of skin protection education on the prevention of OIHD. No studies were eligible that investigated the effects of protective gloves. Among each type of intervention, there was heterogeneity concerning the criteria for assessing signs and symptoms of OIHD, the products, and the occupations. Selection bias, performance bias, and reporting bias were generally unclear across all studies. The risk of detection bias was low in five studies and high in one study. The risk of other biases was low in four studies and high in two studies. 

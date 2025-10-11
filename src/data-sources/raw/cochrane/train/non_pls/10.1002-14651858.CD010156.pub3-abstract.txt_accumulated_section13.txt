@@ -1,0 +1,13 @@
+Background
+Dietary supplements are frequently used for the treatment of several medical conditions, both prescribed by physicians or self administered. However, evidence of benefit and safety of these supplements is usually limited or absent. 
+Objectives
+To assess the efficacy and safety of dietary supplementation for people with chronic gout. 
+Search methods
+We updated the original search by searching CENTRAL, MEDLINE, Embase, CINAHL, and four trials registers (August 2020). We applied no date or language restrictions. We also handsearched the abstracts from the 2010 to 2019 American College of Rheumatology and European League against Rheumatism conferences, and checked the references of all included studies. 
+Selection criteria
+We considered all published randomised controlled trials (RCTs) or quasi‐RCTs that compared dietary supplements with no supplements, placebo, another supplement, or pharmacological agents for adults with chronic gout for inclusion. Dietary supplements included, but were not limited to, amino acids, antioxidants, essential minerals, polyunsaturated fatty acids, prebiotic agents, probiotic agents, and vitamins. The major outcomes were acute gout flares, study withdrawal due to adverse events (AEs), serum uric acid (sUA) reduction, joint pain reduction, participant global assessment, total number of AEs, and tophus regression. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+Two previously included RCTs (160 participants) met our inclusion criteria; we did not identify any new trials for this update. As these two trials evaluated different diet supplements (enriched skim milk powder (SMP) and vitamin C) with different outcomes (gout flare prevention for enriched SMP, and sUA reduction for vitamin C), we reported the results separately. 
+One trial (120 participants), at unclear risk of selection and detection bias, compared SMP enriched with glycomacropeptides (GMP) with un‐enriched SMP, and with lactose, over three months. Participants were predominantly men, aged in their 50s, who had severe gout. The results for all major outcomes were imprecise, except for pain. None of the results were clinically significant. 

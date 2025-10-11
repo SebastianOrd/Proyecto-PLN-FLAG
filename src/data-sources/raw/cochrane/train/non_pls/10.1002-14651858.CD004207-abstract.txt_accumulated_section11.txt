@@ -1,0 +1,11 @@
+Background
+Metalloporphyrins are heme analogues that inhibit heme oxygenase, the rate‐limiting enzyme in the catabolism of heme to bilirubin. By preventing the formation of bilirubin, they have the potential to reduce the level of unconjugated bilirubin in neonates and thereby reduce the risk of neonatal encephalopathy and long term neurodevelopmental impairment from bilirubin toxicity to the nervous system. 
+Objectives
+1. To determine the efficacy of metalloporphyrins in reducing bilirubin levels, reducing the need for phototherapy or exchange transfusion and reducing the incidence of bilirubin encephalopathy in neonates with unconjugated hyperbilirubinemia when compared to placebo, phototherapy or exchange transfusion. 
+2. To determine the nature and frequency of side effects of metalloporphyrins when used to treat unconjugated hyperbilirubinemia in neonates. 
+Search methods
+We searched Medline (1966 ‐ January 2003) and the Cochrane Controlled Trials Register (CCTR) from the Cochrane Library (2003, issue 1). We hand‐searched the articles cited in each publication obtained. We hand searched the abstracts of the Society for Pediatric Research (USA) (published in Pediatric Research) for the years 1985 ‐ 2002. 
+Selection criteria
+We included only randomized controlled studies, in which preterm or term neonates (age 28 days of life or less) with unconjugated hyperbilirubinemia due to any cause were randomly allocated to receive a metalloporphyrin in the treatment arm(s), and to receive a placebo or a conventional treatment (phototherapy or exchange transfusion) or no treatment for hyperbilirubinemia in the comparison arm(s). Any preparation of metalloporphyrin could be used, in any form, by any route, at any dose. 
+Data collection and analysis
+Two authors extracted data independently. Data were entered into Revman by one author and checked by a second author. Prespecified subgroup analyses were planned in term versus preterm infants, hemolytic versus non‐hemolytic causes of jaundice and according to the type of metalloporphyrin used. 

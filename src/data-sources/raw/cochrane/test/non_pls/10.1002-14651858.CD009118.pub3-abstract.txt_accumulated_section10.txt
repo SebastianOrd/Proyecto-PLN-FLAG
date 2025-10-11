@@ -1,0 +1,10 @@
+Background
+Constipation within childhood is an extremely common problem. Despite the widespread use of osmotic and stimulant laxatives by health professionals to manage constipation in children, there has been a long standing paucity of high quality evidence to support this practice. 
+Objectives
+We set out to evaluate the efficacy and safety of osmotic and stimulant laxatives used to treat functional childhood constipation. 
+Search methods
+We searched MEDLINE, EMBASE, the Cochrane Central Register of Controlled Trials, and the Cochrane IBD Group Specialized Trials Register from inception to 10 March 2016. There were no language restrictions. We also searched the references of all included studies, personal contacts and drug companies to identify studies. 
+Selection criteria
+Randomised controlled trials (RCTs) which compared osmotic or stimulant laxatives to placebo or another intervention, with participants aged 0 to 18 years old were considered for inclusion. The primary outcome was frequency of defecation. Secondary endpoints included faecal incontinence, disimpaction, need for additional therapies and adverse events. 
+Data collection and analysis
+Relevant papers were identified and two authors independently assessed the eligibility of trials, extracted data and assessed methodological quality using the Cochrane risk of bias tool. The primary outcome was frequency of defecation. Secondary endpoints included faecal incontinence, disimpaction, need for additional therapies and adverse events. For continuous outcomes we calculated the mean difference (MD) and 95% confidence interval (CI) using a fixed‐effect model. For dichotomous outcomes we calculated the risk ratio (RR) and 95% CI using a fixed‐effect model. The Chi2 and I2 statistics were used to assess statistical heterogeneity. A random‐effects model was used in situations of unexplained heterogeneity. We assessed the overall quality of the evidence supporting the primary and secondary outcomes using the GRADE criteria. 

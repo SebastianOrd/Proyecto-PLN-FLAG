@@ -1,0 +1,12 @@
+Background
+Ganoderma lucidum (also known as lingzhi or reishi) is a mushroom that has been consumed for its broad medicinal properties in Asia for over 2000 years. G lucidum is becoming increasingly popular in western countries as a complementary medicine for cardiovascular health. 
+Objectives
+To evaluate the effectiveness of G lucidum for the treatment of pharmacologically modifiable risk factors of cardiovascular disease in adults. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL Issue 6 of 12, 2014) on The Cochrane Library, MEDLINE (OVID, 1946 to June week 3 2014), EMBASE (OVID, 1980 to 2014 week 26), Science Direct (1823 to 2013), Current Controlled Trials (1990 to 2013), Australian New Zealand Clinical Trials Registry (2005 to 2013), Chinese Biomedical Literature Database (2007 to 2013), Chinese Medical Current Contents (2007 to 2013) and other databases. We checked reference lists of included studies, contacted content experts and handsearched The International Journal of Medicinal Mushrooms. We applied no language or publication restrictions. 
+Selection criteria
+Randomised controlled trials and controlled clinical trials of G lucidum for the treatment of cardiovascular risk factors. Primary outcomes were blood glucose level, blood pressure and lipid profile. 
+Data collection and analysis
+Two authors independently selected trials, assessed risk of bias and cross checked data extraction and analysis. A third author arbitrated in the event of disagreement. 
+Main results
+Five trials with a total of 398 participants were eligible for inclusion. Of these, one study was published in Chinese and translated to English; one study was published but study authors provided the additional data used in this review; one study was unpublished and the study authors provided data; and two studies did not provide comparison group data suitable for statistical analyses. The three studies from which data were used for statistical analyses compared G lucidum (1.4 g to 3 g per day) to placebo over 12 to 16 weeks of intervention. Although inclusion criteria varied, all participants of these three studies had type 2 diabetes mellitus. Of the five included studies, risk of bias was low for one study and unclear for the remaining four. 

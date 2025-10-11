@@ -1,0 +1,12 @@
+Background
+Coronary artery disease is a major public health problem affecting both developed and developing countries. Acute coronary syndromes include unstable angina and myocardial infarction with or without ST‐segment elevation (electrocardiogram sector is higher than baseline). Ventricular arrhythmia after myocardial infarction is associated with high risk of mortality. The evidence is out of date, and considerable uncertainty remains about the effects of prophylactic use of lidocaine on all‐cause mortality, in particular, in patients with suspected myocardial infarction. 
+Objectives
+To determine the clinical effectiveness and safety of prophylactic lidocaine in preventing death among people with myocardial infarction. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2015, Issue 3), MEDLINE Ovid (1946 to 13 April 2015), EMBASE (1947 to 13 April 2015) and Latin American Caribbean Health Sciences Literature (LILACS) (1986 to 13 April 2015). We also searched Web of Science (1970 to 13 April 2013) and handsearched the reference lists of included papers. We applied no language restriction in the search. 
+Selection criteria
+We included randomised controlled trials assessing the effects of prophylactic lidocaine for myocardial infarction. We considered all‐cause mortality, cardiac mortality and overall survival at 30 days after myocardial infarction as primary outcomes. 
+Data collection and analysis
+We performed study selection, risk of bias assessment and data extraction in duplicate. We estimated risk ratios (RRs) for dichotomous outcomes and measured statistical heterogeneity using I2. We used a random‐effects model and conducted trial sequential analysis. 
+Main results
+We identified 37 randomised controlled trials involving 11,948 participants. These trials compared lidocaine versus placebo or no intervention, disopyramide, mexiletine, tocainide, propafenone, amiodarone, dimethylammonium chloride, aprindine and pirmenol. Overall, trials were underpowered and had high risk of bias. Ninety‐seven per cent of trials (36/37) were conducted without an a priori sample size estimation. Ten trials were sponsored by the pharmaceutical industry. Trials were conducted in 17 countries, and intravenous intervention was the most frequent route of administration. 

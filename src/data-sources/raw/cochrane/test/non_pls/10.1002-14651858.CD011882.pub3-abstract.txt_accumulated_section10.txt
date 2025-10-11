@@ -1,0 +1,10 @@
+Background
+Dementia is a common and serious neuropsychiatric syndrome, characterised by progressive cognitive and functional decline. The majority of people with dementia develop behavioural disturbances, also known as behavioural and psychological symptoms of dementia (BPSD). Several non‐pharmacological interventions have been evaluated to treat BPSD in people with dementia. Simulated presence therapy (SPT), an intervention that uses video or audiotape recordings of family members played to the person with dementia, is a possible approach to treat BPSD. 
+Objectives
+To assess the effects of SPT on behavioural and psychological symptoms and quality of life in people with dementia. 
+Search methods
+We searched ALOIS (the Specialised Register of the Cochrane Dementia and Cognitive Improvement Group), CENTRAL (The Cochrane Library) (9 April 2020), MEDLINE Ovid SP (1946 to 9 April 2020), Embase Ovid SP (1972 to 9 April 2020), PsycINFO Ovid SP (1806 to 9 April 2020), CINAHL via EBSCOhost (1980 to 9 April 2020), LILACS via BIREME (all dates to 9 April 2020), ClinicalTrials.gov (ClinicalTrials.gov) (all dates to 9 April 2020), and the World Health Organization (WHO) Portal (apps.who.int/trialsearch) (all dates to 9 April 2020). We also checked the reference lists of relevant articles to identify any additional studies. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials, including cross‐over studies, that evaluated the efficacy of SPT, consisting of personalised audio or videotape recordings of family members, in people with any form of dementia. 
+Data collection and analysis
+Two authors independently selected studies, assessed risk of bias and extracted data. No meta‐analyses were conducted because of substantial heterogeneity among the included studies. 

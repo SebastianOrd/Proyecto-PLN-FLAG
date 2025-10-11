@@ -1,0 +1,10 @@
+Background
+Trials on the effect of systemic chemotherapy on survival and recurrence in adults with high‐grade glioma have had inconclusive results. We undertook a systematic review and meta‐analysis to assess the effects of such treatment on survival and recurrence. 
+Objectives
+To compare radiotherapy plus chemotherapy with radiotherapy alone in completely resected adults with high‐grade glioma. To investigate whether or not pre‐defined patient subgroups benefit more or less from chemotherapy. 
+Search methods
+MEDLINE and CancerLit searches were supplemented with information from trial registers and by hand searching relevant meeting proceedings and by discussion with relevant trialists and organisations. These searches were carried out in June 1997, June 1999, December 2000 and August 2003. 
+Selection criteria
+Trials comparing radiotherapy versus radiotherapy + chemotherapy were eligible for inclusion provided that they randomized adult patients using a method which precluded prior knowledge of treatment assignment. 
+Data collection and analysis
+A quantitative meta‐analysis using updated information from individual patients from all available randomized trials was carried out. Data from all patients randomized in all eligible trials were sought directly from those responsible. Updated information on survival and date of follow‐up were obtained, as were details of treatment allocation, date of randomization, age, sex, histological cell type, stage and performance status. To avoid potential bias, information was requested for all randomized patients including those who had been excluded from the investigators' original analyses. All analyses were done on an intention to treat basis on the endpoint of survival. For trials using cisplatin‐based regimens, subgroup analyses by age, sex, histological cell type, tumour stage and performance status were also done. 

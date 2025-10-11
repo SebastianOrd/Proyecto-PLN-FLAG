@@ -1,0 +1,10 @@
+Background
+Increasing evidence indicates that individuals who develop severe mental illness (SMI) are also vulnerable to developing post‐traumatic stress disorder (PTSD), due to increased risk of exposure to traumatic events and social adversity. The effectiveness of trauma‐focused psychological interventions (TFPIs) for PTSD in the general population is well‐established. TFPIs involve identifying and changing unhelpful beliefs about traumatic experiences, processing of traumatic memories, and developing new ways of responding to cues associated with trauma. Little is known about the potential feasibility, acceptability and effectiveness of TFPIs for individuals who have a SMI and PTSD. 
+Objectives
+To evaluate the effectiveness of psychological interventions for PTSD symptoms or other symptoms of psychological distress arising from trauma in people with SMI. 
+Search methods
+We searched the Cochrane Schizophrenia Group’s Trials Study‐Based Register (up until March 10, 2016), screened reference lists of relevant reports and reviews, and contacted trial authors for unpublished and/or specific outcome data. 
+Selection criteria
+We included all relevant randomised controlled trials (RCTs) which investigated TFPIs for people with SMI and PTSD, and reported useable data. 
+Data collection and analysis
+Three review authors (DS, MF, IN) independently screened the titles and abstracts of all references identified, and read short‐listed full text papers. We assessed risk of bias in each case. We calculated the risk ratio (RR) and 95% confidence interval (CI) for binary outcomes, and the mean difference (MD) and 95% CI for continuous data, on an intention‐to‐treat basis. We assessed quality of evidence using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) and created 'Summary of findings' tables. 

@@ -1,0 +1,12 @@
+Background
+The burden of poor sexual and reproductive health (SRH) worldwide is substantial, disproportionately affecting those living in low‐ and middle‐income countries. Targeted client communication (TCC) delivered via mobile devices (MD) (TCCMD) may improve the health behaviours and service use important for sexual and reproductive health. 
+Objectives
+To assess the effects of TCC via MD on adolescents' knowledge, and on adolescents’ and adults' sexual and reproductive health behaviour, health service use, and health and well‐being. 
+Search methods
+In July/August 2017, we searched five databases including The Cochrane Central Register of Controlled Trials, MEDLINE and Embase. We also searched two trial registries. A search update was carried out in July 2019 and potentially relevant studies are awaiting classification. 
+Selection criteria
+We included randomised controlled trials of TCC via MD to improve sexual and reproductive health behaviour, health service use, and health and well‐being. Eligible comparators were standard care or no intervention, non‐digital TCC, and digital non‐targeted communication. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane, although data extraction and risk of bias assessments were carried out by one person only and cross‐checked by a second. We have presented results separately for adult and adolescent populations, and for each comparison. 
+Main results
+We included 40 trials (27 among adult populations and 13 among adolescent populations) with a total of 26,854 participants. All but one of the trials among adolescent populations were conducted in high‐income countries. Trials among adult populations were conducted in a range of high‐ to low‐income countries. Among adolescents, nine interventions were delivered solely through text messages; four interventions tested text messages in combination with another communication channel, such as emails, multimedia messaging, or voice calls; and one intervention used voice calls alone. Among adults, 20 interventions were delivered through text messages; two through a combination of text messages and voice calls; and the rest were delivered through other channels such as voice calls, multimedia messaging, interactive voice response, and instant messaging services. 

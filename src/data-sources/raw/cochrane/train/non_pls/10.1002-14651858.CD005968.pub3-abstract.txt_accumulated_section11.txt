@@ -1,0 +1,11 @@
+Background
+'Immediate' implants are placed in dental sockets just after tooth extraction. 'Immediate‐delayed' implants are those implants inserted after weeks up to about a couple of months to allow for soft tissue healing. 'Delayed' implants are those placed thereafter in partially or completely healed bone. The potential advantages of immediate implants are that treatment time can be shortened and that bone volumes might be partially maintained thus possibly providing good aesthetic results. The potential disadvantages are an increased risk of infection and failures. After implant placement in postextractive sites, gaps can be present between the implant and the bony walls. It is possible to fill these gaps and to augment bone simultaneously to implant placement. There are many techniques to achieve this but it is unclear when augmentation is needed and which could be the best augmentation technique. 
+Objectives
+To evaluate success, complications, aesthetics and patient satisfaction between 'immediate', 'immediate‐delayed' and 'delayed' implants. 
+To evaluate whether and when augmentation procedures are necessary and which is the most effective technique. 
+Search methods
+The Cochrane Oral Health Group's Trials Register (to 2 June 2010), CENTRAL (The Cochrane Library 2010, Issue 2), MEDLINE via OVID (1950 ‐ 2 June 2010) and EMBASE via OVID (1980 ‐ 2 June 2010) were searched. Several dental journals were handsearched. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing immediate, immediate‐delayed, and delayed implants, or comparing various bone augmentation procedures around the inserted implants, reporting the outcome of the interventions to at least 1 year after functional loading. 
+Data collection and analysis
+Screening of eligible studies, assessment of the methodological quality of the trials and data extraction were conducted independently and in duplicate. Trial authors were contacted for any missing information. Results were expressed as random‐effects models using mean differences for continuous outcomes and risk ratios (RR) for dichotomous outcomes with 95% confidence intervals (CIs). The statistical unit of the analysis was the patient. 

@@ -1,0 +1,10 @@
+Background
+Adjustment disorders are a frequent cause of sick leave and various interventions have been developed to expedite the return to work (RTW) of individuals on sick leave due to adjustment disorders. 
+Objectives
+To assess the effects of interventions facilitating RTW for workers with acute or chronic adjustment disorders. 
+Search methods
+We searched the Cochrane Depression, Anxiety and Neurosis Review Group's Specialised Register (CCDANCTR) to October 2011; the Cochrane Central Register of Controlled Trials (CENTRAL) to Issue 4, 2011; MEDLINE, EMBASE, PsycINFO and ISI Web of Science, all years to February 2011; the WHO trials portal (ICTRP) and ClinicalTrials.gov in March 2011. We also screened reference lists of included studies and relevant reviews. 
+Selection criteria
+We selected randomised controlled trials (RCTs) evaluating the effectiveness of interventions to facilitate RTW of workers with adjustment disorders compared to no or other treatment. Eligible interventions were pharmacological interventions, psychological interventions (such as cognitive behavioural therapy (CBT) and problem solving therapy), relaxation techniques, exercise programmes, employee assistance programmes or combinations of these interventions. The primary outcomes were time to partial and time to full RTW, and secondary outcomes were severity of symptoms of adjustment disorder, work functioning, generic functional status (i.e. the overall functional capabilities of an individual, such as physical functioning, social function, general mental health) and quality of life. 
+Data collection and analysis
+Two authors independently selected studies, assessed risk of bias and extracted data. We pooled studies that we deemed sufficiently clinically homogeneous in different comparison groups, and assessed the overall quality of the evidence using the GRADE approach. 

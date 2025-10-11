@@ -1,0 +1,13 @@
+Background
+Gender dysphoria is described as a mismatch between an individual's experienced or expressed gender and their assigned gender, based on primary or secondary sexual characteristics. Gender dysphoria can be associated with clinically significant psychological distress and may result in a desire to change sexual characteristics. The process of adapting a person's sexual characteristics to their desired sex is called ‘transition.' 
+Current guidelines suggest hormonal and, if needed, surgical intervention to aid transition in transgender women, i.e. persons who aim to transition from male to female. In adults, hormone therapy aims to reverse the body's male attributes and to support the development of female attributes. It usually includes estradiol, antiandrogens, or a combination of both. Many individuals first receive hormone therapy alone, without surgical interventions. However, this is not always sufficient to change such attributes as facial bone structure, breasts, and genitalia, as desired. For these transgender women, surgery may then be used to support transition. 
+Objectives
+We aimed to assess the efficacy and safety of hormone therapy with antiandrogens, estradiol, or both, compared to each other or placebo, in transgender women in transition. 
+Search methods
+We searched MEDLINE, the Cochrane Central Register of Controlled Trials (CENTRAL), Embase, Biosis Preview, PsycINFO, and PSYNDEX. We carried out our final searches on 19 December 2019. 
+Selection criteria
+We aimed to include randomised controlled trials (RCTs), quasi‐RCTs, and cohort studies that enrolled transgender women, age 16 years and over, in transition from male to female. Eligible studies investigated antiandrogen and estradiol hormone therapies alone or in combination, in comparison to another form of the active intervention, or placebo control. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane to establish study eligibility. 
+Main results
+Our database searches identified 1057 references, and after removing duplicates we screened 787 of these. We checked 13 studies for eligibility at the full text screening stage. We excluded 12 studies and identified one as an ongoing study. We did not identify any completed studies that met our inclusion criteria. The single ongoing study is an RCT conducted in Thailand, comparing estradiol valerate plus cyproterone treatment with estradiol valerate plus spironolactone treatment. The primary outcome will be testosterone level at three month follow‐up. 

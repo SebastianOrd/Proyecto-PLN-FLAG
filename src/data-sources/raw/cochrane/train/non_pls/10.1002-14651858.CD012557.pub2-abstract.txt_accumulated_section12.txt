@@ -1,0 +1,12 @@
+Background
+Alcohol use disorder (AUD) and alcohol‐related impairments belong to the most widespread psychiatric disorders leading to specific psychophysical, affective and cognitive symptoms and consequences for psychosocial well‐being and health. Alcohol consumption is increasingly becoming a problem in many developing regions and AUD prevalence is estimated at 4.1% worldwide, with highest prevalence in European countries (7.5%), and the North America (6.0%). Therapeutic approaches, including pharmacotherapy, play an important role in treating patients with AUD. 
+Objectives
+To assess the efficacy and safety of baclofen for treating people with AUD, who are currently drinking, with the aim of achieving and maintaining abstinence or reducing alcohol consumption. 
+Search methods
+We searched the Cochrane Drugs and Alcohol Specialised Register, CENTRAL, MEDLINE, Embase, two further databases and two clinical trials registries, conference proceedings, and the reference lists of retrieved articles. The date of the most recent search was 30 January 2018. 
+Selection criteria
+Randomised controlled trials (RCTs) of at least four weeks' treatment duration and 12 weeks' overall study duration comparing baclofen for relapse prevention of AUD with placebo, no treatment or other treatments. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 12 RCTs (1128 participants). All studies but three recruited fewer than 100 participants. Participants had a diagnosis of alcohol dependence according the Diagnostic and Statistical Manual of Mental Disorders (DSM) IV or the International Classification of Diseases (ICD)‐10 criteria who were currently drinking. The mean age of participants was 48 years, and there were more men (69%), than women. All studies compared baclofen to placebo, except for one study that evaluated baclofen versus acamprosate. The included studies considered baclofen at different doses (range 10 mg a day to 150 mg a day). In all but one of the studies, participants in both the baclofen and placebo groups received psychosocial treatment or counselling of various intensity. 

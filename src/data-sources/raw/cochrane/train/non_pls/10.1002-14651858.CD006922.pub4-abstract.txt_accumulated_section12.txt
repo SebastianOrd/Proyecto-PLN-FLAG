@@ -1,0 +1,12 @@
+Background
+Epidemiological evidence has suggested a link between use of beta₂‐agonists and increased asthma mortality. Much debate has surrounded possible causal links for this association, and whether regular (daily) long‐acting beta₂‐agonists (LABAs) are safe, particularly when used in combination with inhaled corticosteroids (ICSs). This is an update of a Cochrane Review that now includes data from two large trials including 11,679 adults and 6208 children; both were mandated by the US Food and Drug Administration (FDA).  
+Objectives
+To assess risks of mortality and non‐fatal serious adverse events (SAEs) in trials that randomised participants with chronic asthma to regular salmeterol and ICS versus the same dose of ICS. 
+Search methods
+We identified randomised trials using the Cochrane Airways Group Specialised Register of trials. We checked websites of clinical trials registers for unpublished trial data. We also checked FDA submissions in relation to salmeterol. The date of the most recent search was 10 October 2018. 
+Selection criteria
+We included parallel‐design randomised trials involving adults, children, or both with asthma of any severity who were randomised to treatment with regular salmeterol and ICS (in separate or combined inhalers) versus the same dose of ICS of at least 12 weeks in duration. 
+Data collection and analysis
+We conducted the review according to standard procedures expected by Cochrane. We obtained unpublished data on mortality and SAEs from the sponsors, from ClinicalTrials.gov, and from FDA submissions. We assessed our confidence in the evidence according to current GRADE recommendations. 
+Main results
+We have included in this review 41 studies (27,951 participants) in adults and adolescents, along with eight studies (8453 participants) in children. We judged that the overall risk of bias was low for all‐cause events, and we obtained data on SAEs from all study authors. All except 542 adults (and none of the children) were given salmeterol and fluticasone in the same (combination) inhaler. 

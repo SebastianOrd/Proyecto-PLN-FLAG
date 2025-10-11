@@ -1,0 +1,10 @@
+Background
+Hyperkalaemia is a potentially life‐threatening electrolyte disturbance which may lead to cardiac arrhythmias and death. Renal replacement therapy is known to be effective in treating hyperkalaemia, but safe and effective pharmacological interventions are needed to prevent dialysis or avoid the complications of hyperkalaemia until dialysis is performed. 
+Objectives
+This review looked at the benefits and harms of pharmacological treatments used in the acute management of hyperkalaemia in adults. This review evaluated the therapies that reduce serum potassium as well as those that prevent complications of hyperkalaemia. 
+Search methods
+We searched Cochrane Kidney and Transplant's Specialised Register to 18 August 2015 through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+All randomised controlled trials (RCTs) and quasi‐RCTs looking at any pharmacological intervention for the acute management of hyperkalaemia in adults were included in this review. Non‐standard study designs such as cross‐over studies were also included. Eligible studies enrolled adults (aged 18 years and over) with hyperkalaemia, defined as serum potassium concentration ≥ 4.9 mmol/L, to receive pharmacological therapy to reduce serum potassium or to prevent arrhythmias. Patients with artificially induced hyperkalaemia were excluded from this review. 
+Data collection and analysis
+All three authors screened titles and abstracts, and data extraction and risk of bias assessment was performed independently by at least two authors. Studies reported in non‐English language journals were translated before assessment. Authors were contacted when information about results or study methodology was missing from the original publication. Although we planned to group all studies of a particular pharmacological therapy regardless of administration route or dose for analysis, we were unable to conduct meta‐analyses because of the small numbers of studies evaluating any given treatment. For continuous data we reported mean difference (MD) and 95% confidence intervals (CI). 

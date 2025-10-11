@@ -1,0 +1,10 @@
+Background
+Contractures, a common complication following immobility, lead to restricted joint range of motion. Passive movements (PMs) are widely used for the treatment and prevention of contractures; however, it is not clear whether they are effective. 
+Objectives
+The aim of this review was to determine the effects of PMs on persons with contractures or at risk of developing contractures. Specifically, the aim was to determine whether PMs increase joint mobility. 
+Search methods
+We searched the Cochrane Injuries Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid SP), EMBASE (Ovid SP), ISI Web of Science (SCI‐EXPANDED; SSCI; CPCI‐S; CPCI‐SSH), PEDro and PsycINFO (Ovid SP). The search was run on 21 November 2013. 
+Selection criteria
+Randomised controlled trials of PMs administered for the treatment or prevention of contractures were included. Studies were included if they compared the effectiveness of PMs versus no intervention, sham intervention or placebo in people with or at risk of contracture. Studies that involved other co‐interventions were included, provided the co‐interventions were administered in the same way to all groups. Interventions administered through mechanical devices and interventions that involved sustained stretch were excluded. 
+Data collection and analysis
+Three independent review authors screened studies for inclusion. Two review authors then extracted data and assessed risk of bias. Primary outcomes were joint mobility and occurrence of adverse events such as joint subluxations or dislocations, heterotopic ossification, autonomic dysreflexia and fractures or muscle tears. Secondary outcomes were quality of life, pain, spasticity, activity limitations and participation restrictions. We used standard methodological procedures as advocated by the Cochrane Handbook for Systematic Reviews of Interventions. 

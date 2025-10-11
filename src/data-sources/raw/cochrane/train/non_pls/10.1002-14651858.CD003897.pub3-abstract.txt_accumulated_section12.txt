@@ -1,0 +1,12 @@
+Background
+Interleukin 2 receptor antagonists (IL2Ra) are used as induction therapy for prophylaxis against acute rejection in kidney transplant recipients. Use of IL2Ra has increased steadily since their introduction, but the proportion of new transplant recipients receiving IL2Ra differs around the globe, with 27% of new kidney transplant recipients in the United States, and 70% in Australasia receiving IL2Ra in 2007. 
+Objectives
+To systematically identify and summarise the effects of using an IL2Ra, as an addition to standard therapy, or as an alternative to another immunosuppressive induction strategy. 
+Search methods
+We searched the Cochrane Renal Group’s specialised register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and EMBASE to identify new records, and authors of included reports were contacted for clarification where necessary. 
+Selection criteria
+Randomised controlled trials (RCTs) in all languages comparing IL2Ra to placebo, no treatment, other IL2Ra or other antibody therapy. 
+Data collection and analysis
+Data was extracted and assessed independently by two authors, with differences resolved by discussion. Dichotomous outcomes are reported as relative risk (RR) and continuous outcomes as mean difference (MD) with 95% confidence intervals (CI). 
+Main results
+We included 71 studies (306 reports, 10,520 participants). Where IL2Ra were compared with placebo (32 studies; 5,854 patients) graft loss including death with a functioning graft was reduced by 25% at six months (16 studies: RR 0.75, 95% CI 0.58 to 0.98) and one year (24 studies: RR 0.75, 95% CI 0.62 to 0.90), but not beyond this. At one year biopsy‐proven acute rejection was reduced by 28% (14 studies: RR 0.72, 95% CI 0.64 to 0.81), and there was a 19% reduction in CMV disease (13 studies: RR 0.81, 95% CI 0.68 to 0.97). There was a 64% reduction in early malignancy within six months (8 studies: RR 0.36, 95% CI 0.15 to 0.86), and creatinine was lower (7 studies: MD ‐8.18 µmol/L 95% CI ‐14.28 to ‐2.09) but these differences were not sustained. 

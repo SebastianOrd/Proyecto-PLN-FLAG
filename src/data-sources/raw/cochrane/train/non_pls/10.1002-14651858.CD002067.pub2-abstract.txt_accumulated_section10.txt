@@ -1,0 +1,10 @@
+Background
+This review is an update of a previously published review in the Cochrane Database of Systematic Reviews on 'Single dose oral aspirin for acute pain'. Aspirin has been known for many years to be an effective analgesic for many different pain conditions. Although its use as an analgesic is now limited in developed countries, it is widely available, inexpensive, and remains commonly used throughout the world. 
+Objectives
+To assess the analgesic efficacy and associated adverse events of single dose oral aspirin in acute postoperative pain. 
+Search methods
+For the earlier review, we identified randomised trials by searching CENTRAL (The Cochrane Library) (1998, Issue 1), MEDLINE (1966 to March 1998), EMBASE (1980 to January 1998), and the Oxford Pain Relief Database (1950 to 1994). We updated searches of CENTRAL, MEDLINE, and EMBASE to January 2012. 
+Selection criteria
+Single oral dose, randomised, double‐blind, placebo‐controlled trials of aspirin for relief of established moderate to severe postoperative pain in adults. 
+Data collection and analysis
+We assessed studies for methodological quality and two review authors extracted the data independently. We used summed total pain relief (TOTPAR) over four to six hours to calculate the number of participants achieving at least 50% pain relief. We used these derived results to calculate, with 95% confidence intervals, the relative benefit compared to placebo, and the number needed to treat (NNT) for one participant to experience at least 50% pain relief over four to six hours. We sought numbers of participants using rescue medication over specified time periods, and time to use of rescue medication, as additional measures of efficacy. We collected information on adverse events and withdrawals. 

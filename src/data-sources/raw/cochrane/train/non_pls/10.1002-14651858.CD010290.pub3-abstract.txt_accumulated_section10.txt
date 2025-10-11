@@ -1,0 +1,10 @@
+Background
+Ovulation induction with follicle stimulating hormone (FSH) is a second‐line treatment in women with polycystic ovary syndrome (PCOS) who do not ovulate or conceive on clomiphene citrate. 
+Objectives
+To compare the effectiveness and safety of gonadotrophins as a second‐line treatment for ovulation induction in women with clomiphene citrate‐resistant polycystic ovary syndrome (PCOS), and women who do not ovulate or conceive after clomiphene citrate. 
+Search methods
+In January 2018, we searched the Cochrane Gynaecology and Fertility Group Specialised Register of Controlled Trials, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, the World Health Organisation clinical trials register, Clinicaltrials.gov, LILACs, and PubMed databases, and Google Scholar. We checked references of in all obtained studies. We had no language restrictions. 
+Selection criteria
+All randomised controlled trials reporting data on clinical outcomes in women with PCOS who did not ovulate or conceive on clomiphene citrate, and undergoing ovulation induction with urinary‐derived gonadotrophins, including urofollitropin (uFSH) in purified FSH (FSH‐P) or highly purified FSH (FSH‐HP) form, human menopausal gonadotropin (HMG) and highly purified human menopausal gonadotrophin (HP‐HMG), or recombinant FSH (rFSH), or continuing clomiphene citrate. We included trials reporting on ovulation induction followed by intercourse or intrauterine insemination. We excluded studies that described co‐treatment with clomiphene citrate, metformin, luteinizing hormone, or letrozole. 
+Data collection and analysis
+Three review authors (NW, EK, and MvW) independently selected studies for inclusion, assessed risk of bias, and extracted study data. Primary outcomes were live birth rate per woman and multiple pregnancy per woman. Secondary outcomes were clinical pregnancy, miscarriage, incidence of ovarian hyperstimulation syndrome (OHSS) per woman, total gonadotrophin dose, and total duration of stimulation per woman. We combined data using a fixed‐effect model to calculate the risk ratio (RR). We summarised the overall quality of evidence for the main outcomes using GRADE criteria. 

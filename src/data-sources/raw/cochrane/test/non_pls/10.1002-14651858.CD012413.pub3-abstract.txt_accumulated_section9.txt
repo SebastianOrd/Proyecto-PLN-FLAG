@@ -1,0 +1,9 @@
+Background
+Human milk is the best enteral nutrition for preterm infants. However, human milk, given at standard recommended volumes, is not adequate to meet the protein, energy, and other nutrient requirements of preterm or low birth weight infants. One strategy that may be used to address the potential nutrient deficits is to give a higher volume of enteral feeds. High volume feeds may improve nutrient accretion and growth, and in turn may improve neurodevelopmental outcomes. However, there are concerns that high volume feeds may cause feed intolerance, necrotising enterocolitis, or complications related to fluid overload such as patent ductus arteriosus and chronic lung disease. 
+This is an update of a review published in 2017.
+Objectives
+To assess the effect on growth and safety of high versus standard volume enteral feeds in preterm or low birth weight infants. In infants who were fed fortified human milk or preterm formula, high and standard volume feeds were defined as > 180 mL/kg/day and ≤ 180 mL/kg/day, respectively. In infants who were fed unfortified human milk or term formula, high and standard volume feeds were defined as > 200 mL/kg/day and ≤ 200 mL/kg/day, respectively. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search Cochrane Central Register of Controlled Trials (CENTRAL; 2020 Issue 6) in the Cochrane Library; Ovid MEDLINE (1946 to June 2020); Embase (1974 to June 2020); and CINAHL (inception to June 2020); Maternity & Infant Care Database (MIDIRS) (1971 to April 2020); as well as previous reviews, and trial registries. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared high versus standard volume enteral feeds for preterm or low birth weight infants. 

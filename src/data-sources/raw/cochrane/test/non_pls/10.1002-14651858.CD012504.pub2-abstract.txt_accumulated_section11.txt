@@ -1,0 +1,11 @@
+Background
+Identification of the causes of stillbirth is critical to the primary prevention of stillbirth and to the provision of optimal care in subsequent pregnancies. A wide variety of investigations are available, but there is currently no consensus on the optimal approach. Given their cost and potential to add further emotional burden to parents, there is a need to systematically assess the effect of these interventions on outcomes for parents, including psychosocial outcomes, economic costs, and on rates of diagnosis of the causes of stillbirth. 
+Objectives
+To assess the effect of different tests, protocols or guidelines for investigating and identifying the causes of stillbirth on outcomes for parents, including psychosocial outcomes, economic costs, and rates of diagnosis of the causes of stillbirth. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth's Trials Register (31 August 2017), ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) (15 May 2017). 
+Selection criteria
+We planned to include randomised controlled trials (RCTs), quasi‐RCTs, and cluster‐RCTs. We planned to include studies published as abstract only, provided there was sufficient information to allow us to assess study eligibility. We planned to exclude cross‐over trials. 
+Participants included parents (including mothers, fathers, and partners) who had experienced a stillbirth of 20 weeks' gestation or greater. 
+This review focused on interventions for investigating and identifying the causes of stillbirth. Such interventions are likely to be diverse, but could include: 
+* review of maternal and family history, and current pregnancy and birth history; * clinical history of present illness; * maternal investigations (such as ultrasound, amniocentesis, antibody screening, etc.); * examination of the stillborn baby (including full autopsy, partial autopsy or noninvasive components, such as magnetic resonance imaging (MRI), computerised tomography (CT) scanning, and radiography); * umbilical cord examination; * placental examination including histopathology (microscopic examination of placental tissue); and * verbal autopsy (interviews with care providers and support people to ascertain causes, without examination of the baby). 

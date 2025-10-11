@@ -1,0 +1,10 @@
+Background
+People with coronary heart disease (CHD) often require prolonged absences from work to convalesce after acute disease events like myocardial infarctions (MI) or revascularisation procedures such as coronary artery bypass grafting (CABG) or percutaneous coronary intervention (PCI). Reduced functional capacity and anxiety due to CHD may further delay or prevent return to work. 
+Objectives
+To assess the effects of person‐ and work‐directed interventions aimed at enhancing return to work in patients with coronary heart disease compared to usual care or no intervention. 
+Search methods
+We searched the databases CENTRAL, MEDLINE, Embase, PsycINFO, NIOSHTIC, NIOSHTIC‐2, HSELINE, CISDOC, and LILACS through 11 October 2018. We also searched the US National Library of Medicine registry, clinicaltrials.gov, to identify ongoing studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) examining return to work among people with CHD who were provided either an intervention or usual care. Selected studies included only people treated for MI or who had undergone either a CABG or PCI. At least 80% of the study population should have been working prior to the CHD and not at the time of the trial, or study authors had to have considered a return‐to‐work subgroup. We included studies in all languages. Two review authors independently selected the studies and consulted a third review author to resolve disagreements. 
+Data collection and analysis
+Two review authors extracted data and independently assessed the risk of bias. We conducted meta‐analyses of rates of return to work and time until return to work. We considered the secondary outcomes, health‐related quality of life and adverse events among studies where at least 80% of study participants were eligible to return to work. 

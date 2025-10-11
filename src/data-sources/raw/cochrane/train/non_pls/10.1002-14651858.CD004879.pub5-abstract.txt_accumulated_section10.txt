@@ -1,0 +1,10 @@
+Background
+The consequences of influenza in children and adults are mainly absenteeism from school and work. However, the risk of complications is greatest in children and people over 65 years of age. This is an update of a review published in 2011. Future updates of this review will be made only when new trials or vaccines become available. Observational data included in previous versions of the review have been retained for historical reasons but have not been updated because of their lack of influence on the review conclusions. 
+Objectives
+To assess the effects (efficacy, effectiveness, and harm) of vaccines against influenza in healthy children. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library 2016, Issue 12), which includes the Cochrane Acute Respiratory Infections Group Specialised Register, MEDLINE (1966 to 31 December 2016), Embase (1974 to 31 December 2016), WHO International Clinical Trials Registry Platform (ICTRP; 1 July 2017), and ClinicalTrials.gov (1 July 2017). 
+Selection criteria
+Randomised controlled trials comparing influenza vaccines with placebo or no intervention in naturally occurring influenza in healthy children under 16 years. Previous versions of this review included 19 cohort and 11 case‐control studies. We are no longer updating the searches for these study designs but have retained the observational studies for historical purposes. 
+Data collection and analysis
+Review authors independently assessed risk of bias and extracted data. We used GRADE to rate the certainty of evidence for the key outcomes of influenza, influenza‐like illness (ILI), complications (hospitalisation, ear infection), and adverse events. Due to variation in control group risks for influenza and ILI, absolute effects are reported as the median control group risk, and numbers needed to vaccinate (NNVs) are reported accordingly. For other outcomes aggregate control group risks are used. 

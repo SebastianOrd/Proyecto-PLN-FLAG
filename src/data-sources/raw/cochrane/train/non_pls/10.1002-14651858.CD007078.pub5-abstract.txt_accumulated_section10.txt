@@ -1,0 +1,10 @@
+Background
+Tobacco use is estimated to kill 7 million people a year. Nicotine is highly addictive, but surveys indicate that almost 70% of US and UK smokers would like to stop smoking. Although many smokers attempt to give up on their own, advice from a health professional increases the chances of quitting. As of 2016 there were 3.5 billion Internet users worldwide, making the Internet a potential platform to help people quit smoking. 
+Objectives
+To determine the effectiveness of Internet‐based interventions for smoking cessation, whether intervention effectiveness is altered by tailoring or interactive features, and if there is a difference in effectiveness between adolescents, young adults, and adults. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group Specialised Register, which included searches of MEDLINE, Embase and PsycINFO (through OVID). There were no restrictions placed on language, publication status or publication date. The most recent search was conducted in August 2016. 
+Selection criteria
+We included randomised controlled trials (RCTs). Participants were people who smoked, with no exclusions based on age, gender, ethnicity, language or health status. Any type of Internet intervention was eligible. The comparison condition could be a no‐intervention control, a different Internet intervention, or a non‐Internet intervention. To be included, studies must have measured smoking cessation at four weeks or longer. 
+Data collection and analysis
+Two review authors independently assessed and extracted data. We extracted and, where appropriate, pooled smoking cessation outcomes of six‐month follow‐up or more, reporting short‐term outcomes narratively where longer‐term outcomes were not available. We reported study effects as a risk ratio (RR) with a 95% confidence interval (CI). 

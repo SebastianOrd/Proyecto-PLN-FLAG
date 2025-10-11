@@ -1,0 +1,12 @@
+Background
+The prevalence of nonalcohol‐related fatty liver disease (NAFLD) varies between 19% and 33% in different populations. NAFLD decreases life expectancy and increases the risks of liver cirrhosis, hepatocellular carcinoma, and requirement for liver transplantation. There is uncertainty surrounding the relative benefits and harms of various lifestyle interventions for people with NAFLD. 
+Objectives
+To assess the comparative benefits and harms of different lifestyle interventions in the treatment of NAFLD through a network meta‐analysis, and to generate rankings of the different lifestyle interventions according to their safety and efficacy. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, Science Citation Index Expanded, Conference Proceedings Citation Index ‐ Science, World Health Organization International Clinical Trials Registry Platform, and trials registers until February 2021 to identify randomised clinical trials in people with NAFLD. 
+Selection criteria
+We included only randomised clinical trials (irrespective of language, blinding, or status) in people with NAFLD, whatever the method of diagnosis, age, and diabetic status of participants, or presence of non‐alcoholic steatohepatitis (NASH). We excluded randomised clinical trials in which participants had previously undergone liver transplantation. 
+Data collection and analysis
+We planned to perform a network meta‐analysis with OpenBUGS using Bayesian methods and to calculate the differences in treatments using hazard ratios (HRs), odds ratios (ORs), and rate ratios (RaRs) with 95% credible intervals (CrIs) based on an available‐participant analysis, according to National Institute of Health and Care Excellence Decision Support Unit guidance. However, the data were too sparse for the clinical outcomes. We therefore performed only direct comparisons (head‐to‐head comparisons) with OpenBUGS using Bayesian methods. 
+Main results
+We included a total of 59 randomised clinical trials (3631 participants) in the review. All but two trials were at high risk of bias. A total of 33 different interventions, ranging from advice to supervised exercise and special diets, or a combination of these and no additional intervention were compared in these trials. The reference treatment was no active intervention. Twenty‐eight trials (1942 participants) were included in one or more comparisons. The follow‐up ranged from 1 month to 24 months. The remaining trials did not report any of the outcomes of interest for this review. 

@@ -1,0 +1,13 @@
+Background
+Retinopathy of prematurity (ROP) is a vision‐threatening disease of preterm neonates. The use of beta‐adrenergic blocking agents (beta‐blockers), which modulate the vasoproliferative retinal process, may reduce the progression of ROP or even reverse established ROP. 
+Objectives
+To determine the effect of beta‐blockers on short‐term structural outcomes, long‐term functional outcomes, and the need for additional treatment, when used either as prophylaxis in preterm infants without ROP, stage 1 ROP (zone I), or stage 2 ROP (zone II) without plus disease or as treatment in preterm infants with at least prethreshold ROP. 
+Search methods
+We searched the Cochrane Neonatal Review Group Specialized Register; CENTRAL (in the Cochrane Library Issue 7, 2017); Embase (January 1974 to 7 August 2017); PubMed (January 1966 to 7 August 2017); and CINAHL (January 1982 to 7 August 2017). We checked references and cross‐references and handsearched abstracts from the proceedings of the Pediatric Academic Societies Meetings. 
+Selection criteria
+We considered for inclusion randomised or quasi‐randomised clinical trials that used beta‐blockers for prevention or treatment of ROP in preterm neonates of less than 37 weeks' gestational age. 
+Data collection and analysis
+We used the standard methods of Cochrane and the Cochrane Neonatal Review Group. We used the GRADE approach to assess the quality of evidence. 
+Main results
+We included three randomised trials (N = 366) in this review. Two of these studies were at high risk of bias. All studies reported on prevention of ROP and compared oral propranolol with placebo or no treatment. We found no trials assessing beta‐blockers in infants with established stage 2 or higher ROP with plus disease. 
+In one trial, study medication was started after one week of life, i.e. prior to the first ROP screening. The other two trials included preterm infants if they had stage 2 or lower ROP without plus disease. Based on the GRADE assessment, we considered evidence to be of low quality for the following outcomes: rescue treatment with anti‐VEGF or laser therapy; and arterial hypotension or bradycardia requiring inotropic support. Evidence was of moderate quality for the following outcomes: progression to stage 2 with plus disease; progression to stage 3 ROP; and progression to stage 4 or 5 ROP. 

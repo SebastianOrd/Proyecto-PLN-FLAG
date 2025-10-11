@@ -1,0 +1,8 @@
+Background
+Surgeons who perform laparotomy have a number of decisions to make regarding abdominal closure. Material and size of potential suture types varies widely. In addition, surgeons can choose to close the incision in anatomic layers or mass ('en masse'), as well as using either a continuous or interrupted suturing technique, of which there are different styles of each. There is ongoing debate as to which suturing techniques and suture materials are best for achieving definitive wound closure while minimising the risk of short‐ and long‐term complications. 
+Objectives
+The objectives of this review were to identify the best available suture techniques and suture materials for closure of the fascia following laparotomy incisions, by assessing the following comparisons: absorbable versus non‐absorbable sutures; mass versus layered closure; continuous versus interrupted closure techniques; monofilament versus multifilament sutures; and slow absorbable versus fast absorbable sutures. Our objective was not to determine the single best combination of suture material and techniques, but to compare the individual components of abdominal closure. 
+Search methods
+On 8 February 2017 we searched CENTRAL, MEDLINE, Embase, two trials registries, and Science Citation Index. There were no limitations based on language or date of publication. We searched the reference lists of all included studies to identify trials that our searches may have missed. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared suture materials or closure techniques, or both, for fascial closure of laparotomy incisions. We excluded trials that compared only types of skin closures, peritoneal closures or use of retention sutures. 

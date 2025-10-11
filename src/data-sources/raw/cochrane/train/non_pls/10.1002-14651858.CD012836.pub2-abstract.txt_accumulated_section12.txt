@@ -1,0 +1,12 @@
+Background
+Linezolid was recently re‐classified as a Group A drug by the World Health Organization (WHO) for treatment of multi‐drug resistant tuberculosis (MDR‐TB) and extensively drug‐resistant tuberculosis (XDR‐TB), suggesting that it should be included in the regimen for all patients unless contraindicated. Linezolid use carries a considerable risk of toxicity, with the optimal dose and duration remaining unclear. Current guidelines are mainly based on evidence from observational non‐comparative studies. 
+Objectives
+To assess the efficacy of linezolid when used as part of a second‐line regimen for treating people with MDR and XDR pulmonary tuberculosis, and to assess the prevalence and severity of adverse events associated with linezolid use in this patient group. 
+Search methods
+We searched the following databases: the Cochrane Infectious Diseases Specialized Register; CENTRAL; MEDLINE; Embase; and LILACS up to 13 July 2018. We also checked article reference lists and contacted researchers in the field. 
+Selection criteria
+We included studies in which some participants received linezolid, and others did not. We included randomized controlled trials (RCTs) of linezolid for MDR and XDR pulmonary tuberculosis to evaluate efficacy outcomes. We added non‐randomized cohort studies to evaluate adverse events. 
+Primary outcomes were all‐cause and tuberculosis‐associated death, treatment failure, and cure. Secondary outcomes were treatment interrupted, treatment completed, and time to sputum culture conversion. We recorded frequency of all and serious adverse events, adverse events leading to drug discontinuation or dose reduction, and adverse events attributed to linezolid, particularly neuropathy, anaemia, and thrombocytopenia. 
+Data collection and analysis
+Two review authors (BS and DC) independently assessed the search results for eligibility and extracted data from included studies. All review authors assessed risk of bias using the Cochrane ‘Risk of bias' tool for RCTs and the ROBINS‐I tool for non‐randomized studies. We contacted study authors for clarification and additional data when necessary. 
+We were unable to perform a meta‐analysis as one of the RCTs adopted a study design where participants in the study group received linezolid immediately and participants in the control group received linezolid after two months, and therefore there were no comparable data from this trial. We deemed meta‐analysis of non‐randomized study data inappropriate. 

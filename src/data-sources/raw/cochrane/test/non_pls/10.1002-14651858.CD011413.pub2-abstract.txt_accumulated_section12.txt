@@ -1,0 +1,12 @@
+Background
+Direct laryngoscopy is the method currently used for tracheal intubation in children. It occasionally offers unexpectedly poor laryngeal views. Indirect laryngoscopy involves visualizing the vocal cords by means other than obtaining a direct sight, with the potential to improve outcomes. We reviewed the current available literature and performed a meta‐analysis to compare direct versus indirect laryngoscopy, or videolaryngoscopy, with regards to efficacy and adverse effects. 
+Objectives
+To assess the efficacy of indirect laryngoscopy, or videolaryngoscopy, versus direct laryngoscopy for intubation of children with regards to intubation time, number of attempts at intubation, and adverse haemodynamic responses to endotracheal intubation. We also assessed other adverse responses to intubation, such as trauma to oral, pharyngeal, and laryngeal structures, and we assessed vocal cord view scores. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), and trial registers (www.clinicaltrials.gov and www.controlledtrials) in November 2015. We reran the search in January 2017. We added new studies of potential interest to a list of ‘Studies awaiting classification' and will incorporate them into formal review findings during the review update. We performed reference checking and citation searching and contacted the authors of unpublished data to ask for more information. We applied no language restrictions. 
+Selection criteria
+We included only randomized controlled trials. Participants were children aged 28 days to 18 years. Investigators performed intubations using any type of indirect laryngoscopes, or videolaryngoscopes, versus direct laryngoscopes. 
+Data collection and analysis
+We used Cochrane standard methodological procedures. Two review authors independently reviewed titles, extracted data, and assessed risk of bias. 
+Main results
+We included 12 studies (803 children) in this review and meta‐analysis. We identified three studies that are awaiting classification and two ongoing studies. 

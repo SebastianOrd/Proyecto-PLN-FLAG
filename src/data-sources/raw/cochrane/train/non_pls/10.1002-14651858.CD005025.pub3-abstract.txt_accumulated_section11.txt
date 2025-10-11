@@ -1,0 +1,11 @@
+Background
+Current methods of improving medication adherence for health problems are mostly complex, labour‐intensive, and not reliably effective. Medication 'reminder packaging', which incorporates a date or time for a medication to be taken in the packaging, can act as a reminder to improve adherence. This review of reminder packaging is an update of our 2006 Cochrane review. 
+Objectives
+The objective of this review was to determine the effects of reminder packaging aids for self‐administered medication/s taken for at least one month, on adherence and other outcomes. 
+Search methods
+We updated searches of the Cochrane Central Register of Controlled Trials (CENTRAL) and the Database of Abstracts of Reviews of Effects (DARE) (The Cochrane Library Issue 9, 2010), MEDLINE, EMBASE, CINAHL and PsycINFO from the database start dates to September 2010. We searched Current Controlled Trials to identify trials in progress. We performed a cited reference search on the Science Citation Index to identify papers that had cited the original systematic review. 
+We also searched the Internet, contacted packaging manufacturers, and checked abstracts from the Pharm‐line database and reference lists from relevant articles. We did not apply any language restrictions. 
+Selection criteria
+We selected randomised controlled trials with at least 80% follow up. We intended to do a sensitivity analysis of those studies that analysed their data on an intention‐to‐treat basis. Included studies compared a reminder packaging device with no device, for participants taking self‐administered medications for at least one month. 
+Data collection and analysis
+Three review authors independently assessed studies for inclusion, assessed quality, and extracted data from included studies. Where considered appropriate, data were combined for meta‐analysis, or were reported and discussed in a narrative. 

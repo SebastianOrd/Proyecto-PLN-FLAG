@@ -1,0 +1,13 @@
+Background
+This is an updated version of a Cochrane Review published in 2017.
+Paediatric neurodiagnostic investigations, including brain neuroimaging and electroencephalography (EEG), play an important role in the assessment of neurodevelopmental disorders. The use of an appropriate sedative agent is important to ensure the successful completion of the neurodiagnostic procedures, particularly in children, who are usually unable to remain still throughout the procedure. 
+Objectives
+To assess the effectiveness and adverse effects of chloral hydrate as a sedative agent for non‐invasive neurodiagnostic procedures in children. 
+Search methods
+We searched the following databases on 14 May 2020, with no language restrictions: the Cochrane Register of Studies (CRS Web) and MEDLINE (Ovid, 1946 to 12 May 2020). CRS Web includes randomised or quasi‐randomised controlled trials from PubMed, Embase, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform, the Cochrane Central Register of Controlled Trials (CENTRAL), and the specialised registers of Cochrane Review Groups including Cochrane Epilepsy. 
+Selection criteria
+Randomised controlled trials that assessed chloral hydrate agent against other sedative agent(s), non‐drug agent(s), or placebo. 
+Data collection and analysis
+Two review authors independently evaluated studies identified by the search for their eligibility, extracted data, and assessed risk of bias. Results were expressed in terms of risk ratio (RR) for dichotomous data and mean difference (MD) for continuous data, with 95% confidence intervals (CIs). 
+Main results
+We included 16 studies with a total of 2922 children. The methodological quality of the included studies was mixed. Blinding of the participants and personnel was not achieved in most of the included studies, and three of the 16 studies were at high risk of bias for selective reporting. Evaluation of the efficacy of the sedative agents was also underpowered, with all the comparisons performed in small studies. 

@@ -1,0 +1,10 @@
+Background
+Healthy sleep is an important component of childhood development. Changes in sleep architecture, including sleep stage composition, quantity, and quality from infancy to adolescence are a reflection of neurologic maturation. Hospital admission for acute illness introduces modifiable risk factors for sleep disruption that may negatively affect active brain development during a period of illness and recovery. Thus, it is important to examine non‐pharmacologic interventions for sleep promotion in the pediatric inpatient setting. 
+Objectives
+To evaluate the effect of non‐pharmacological sleep promotion interventions in hospitalized children and adolescents on sleep quality and sleep duration, child or parent satisfaction, cost‐effectiveness, delirium incidence, length of mechanical ventilation, length of stay, and mortality. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL, three other databases, and three trials registers to December 2021. We searched Google Scholar, and two websites, handsearched conference abstracts, and checked reference lists of included studies. 
+Selection criteria
+Randomized controlled trials (RCTs) or quasi‐RCTs, including cross‐over trials, investigating the effects of any non‐pharmacological sleep promotion intervention on the sleep quality or sleep duration (or both) of children aged 1 month to 18 years in the pediatric inpatient setting (intensive care unit [ICU] or general ward setting). 
+Data collection and analysis
+Two review authors independently assessed trial eligibility, evaluated risk of bias, extracted and synthesized data, and used the GRADE approach to assess certainty of evidence. The primary outcomes were changes in both objective and subjective validated measures of sleep in children; secondary outcomes were child and parent satisfaction, cost‐effectiveness ratios, delirium incidence or delirium‐free days at time of hospital discharge, duration of mechanical ventilation, length of hospital stay, and mortality. 

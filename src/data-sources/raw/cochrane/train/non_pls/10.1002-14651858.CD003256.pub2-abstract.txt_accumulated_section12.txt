@@ -1,0 +1,12 @@
+Background
+Kaposi's sarcoma remains the most common cancer in Sub‐Saharan Africa and the second most common cancer in HIV‐infected patients worldwide. Since the introduction of highly active antiretroviral therapy (HAART), there has been a decline in its incidence. However, Kaposi's sarcoma continues to be diagnosed in HIV‐infected patients. 
+Objectives
+To assess the added advantage of chemotherapy plus HAART compared to HAART alone; and the advantages of different chemotherapy regimens in HAART and HAART naive HIV infected adults with severe or progressive Kaposi's sarcoma. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and , GATEWAY, the WHO Clinical Trials Registry Platform and the US National Institutes of Health's ClinicalTrials.gov for ongoing trials and the Aegis archive of HIV/AIDS for conference abstracts. An updated search was conducted in July 2014. 
+Selection criteria
+Randomised trials and observational studies evaluating the effects of any chemotherapeutic regimen in combination with HAART compared to HAART alone, chemotherapy versus HAART, and comparisons between different chemotherapy regimens. 
+Data collection and analysis
+Two review authors assessed the studies independently and extracted outcome data. We used the risk ratio (RR) with a 95% confidence interval (CI) as the measure of effect. We did not conduct meta‐analysis as none of the included trials assessed identical chemotherapy regimens. 
+Main results
+We included six randomised trials and three observational studies involving 792 HIV‐infected adults with severe Kaposi's sarcoma. Seven studies included patients with a mix of mild to moderate (T0) and severe (T1) Kaposi's sarcoma. However, this review was restricted to the subset of participants with severe Kaposi's sarcoma disease. 

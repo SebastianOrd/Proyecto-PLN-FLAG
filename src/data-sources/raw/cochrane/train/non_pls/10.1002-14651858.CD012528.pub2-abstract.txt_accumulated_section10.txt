@@ -1,0 +1,10 @@
+Background
+Bronchiectasis is a long term respiratory condition with an increasing rate of diagnosis. It is associated with persistent symptoms, repeated infective exacerbations, and reduced quality of life, imposing a burden on individuals and healthcare systems. The main aims of therapeutic management are to reduce exacerbations and improve quality of life. Self‐management interventions are potentially important for empowering people with bronchiectasis to manage their condition more effectively and to seek care in a timely manner. Self‐management interventions are beneficial in the management of other airways diseases such as asthma and COPD (chronic obstructive pulmonary disease) and have been identified as a research priority for bronchiectasis. 
+Objectives
+To assess the efficacy, cost‐effectiveness and adverse effects of self‐management interventions for adults and children with non‐cystic fibrosis bronchiectasis. 
+Search methods
+We searched the Cochrane Airways Specialised Register of trials, clinical trials registers, reference lists of included studies and review articles, and relevant manufacturers’ websites up to 13 December 2017. 
+Selection criteria
+We included all randomised controlled trials of any duration that included adults or children with a diagnosis of non‐cystic fibrosis bronchiectasis assessing self‐management interventions delivered in any form. Self‐management interventions included at least two of the following elements: patient education, airway clearance techniques, adherence to medication, exercise (including pulmonary rehabilitation) and action plans. 
+Data collection and analysis
+Two review authors independently screened searches, extracted study characteristics and outcome data and assessed risk of bias for each included study. Primary outcomes were, health‐related quality of life, exacerbation frequency and serious adverse events. Secondary outcomes were the number of participants admitted to hospital on at least one occasion, lung function, symptoms, self‐efficacy and economic costs. We used a random effects model for analyses and standard Cochrane methods throughout. 

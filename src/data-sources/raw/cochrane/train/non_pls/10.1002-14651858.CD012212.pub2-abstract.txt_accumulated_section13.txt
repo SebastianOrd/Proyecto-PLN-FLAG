@@ -1,0 +1,13 @@
+Background
+Postoperative nausea and vomiting (PONV) is a common complication following general anaesthesia. It may be associated with patient dissatisfaction, increased costs of treatment, and unintended admission to hospital. 
+Supplemental intravenous crystalloid administration in the perioperative period may be a simple intervention to prevent PONV. 
+Objectives
+To assess whether supplemental intravenous crystalloid administration prevents PONV in patients undergoing surgical procedures under general anaesthesia. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 7), MEDLINE (1946 to August 2018), Embase (1947 to August 2018), and the Cumulative Index of Nursing and Allied Health Literature (CINAHL; 1971 to August 2018). We searched clinical trials registers for ongoing or unpublished completed studies (August 2018), handsearched conference proceedings of anaesthesiology societies, as published in three major journals (British Journal of Anaesthesia, European Journal of Anaesthesiology, and Anesthesiology; August 2018), and conducted backward and forward citation searching of relevant articles. 
+Selection criteria
+We included randomized controlled trials of participants older than six months undergoing surgical procedures under general anaesthesia and given supplemental perioperative intravenous crystalloids, defined as a volume larger than that received by a comparator group, to prevent PONV. 
+Data collection and analysis
+We used the standard methodological procedures described by Cochrane.
+Main results
+We included 41 studies (4224 participants). Participants underwent ambulatory or short length of stay surgical procedures, and were predominantly American Society of Anesthesiology (ASA) class I or II. There is one study awaiting classification and three ongoing studies. All studies took place in surgical centres, and were conducted in geographically diverse settings. Risk of bias was generally unclear across all domains. 

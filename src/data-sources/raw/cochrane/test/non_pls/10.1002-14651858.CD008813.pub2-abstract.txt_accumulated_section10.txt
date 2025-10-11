@@ -1,0 +1,10 @@
+Background
+Age‐related cataract is a major cause of blindness and visual morbidity worldwide. It is therefore important to establish the optimal technique of lens removal in cataract surgery. 
+Objectives
+To compare manual small incision cataract surgery (MSICS) and phacoemulsification techniques. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2013, Issue 6), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to July 2013), EMBASE (January 1980 to July 2013), Latin American and Caribbean Literature on Health Sciences (LILACS) (January 1982 to July 2013), Web of Science Conference Proceedings Citation Index ‐ Science (CPCI‐S) (January 1970 to July 2013), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 23 July 2013. 
+Selection criteria
+We included randomised controlled trials (RCTs) for age‐related cataract that compared MSICS and phacoemulsification. 
+Data collection and analysis
+Two authors independently assessed all studies. We defined two primary outcomes: 'good functional vision' (presenting visual acuity of 6/12 or better) and 'poor visual outcome' (best corrected visual acuity of less than 6/60). We collected data on these outcomes at three and 12 months after surgery. Complications such as posterior capsule rupture rates and other intra‐ and postoperative complications were also assessed. In addition, we examined cost effectiveness of the two techniques. Where appropriate, we pooled data using a random‐effects model. 

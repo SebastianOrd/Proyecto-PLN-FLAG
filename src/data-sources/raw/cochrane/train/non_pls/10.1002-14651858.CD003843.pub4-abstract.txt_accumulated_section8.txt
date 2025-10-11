@@ -1,0 +1,8 @@
+Background
+The use of clinical signs, or end‐tidal anaesthetic gas (ETAG), may not be reliable in measuring the hypnotic component of anaesthesia and may lead to either overdosage or underdosage resulting in adverse effects because of too deep or too light anaesthesia. Intraoperative awareness, whilst uncommon, may lead to serious psychological disturbance, and alternative methods to monitor the depth of anaesthesia may reduce the incidence of serious events. Bispectral index (BIS) is a numerical scale based on electrical activity in the brain. Using a BIS monitor to guide the dose of anaesthetic may have advantages over clinical signs or ETAG. This is an update of a review last published in 2014. 
+Objectives
+To assess the effectiveness of BIS to reduce the risk of intraoperative awareness and early recovery times from general anaesthesia in adults undergoing surgery. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, and Web of Science on 26 March 2019. We searched clinical trial registers and grey literature, and handsearched reference lists of included studies and related reviews. 
+Selection criteria
+We included randomized controlled trials (RCTs) and quasi‐RCTs in which BIS was used to guide anaesthesia compared with standard practice which was either clinical signs or end‐tidal anaesthetic gas (ETAG) to guide the anaesthetic dose. We included adult participants undergoing any type of surgery under general anaesthesia regardless of whether included participants had a high risk of intraoperative awareness. We included only studies in which investigators aimed to evaluate the effectiveness of BIS for its role in monitoring intraoperative depth of anaesthesia or potential improvements in early recovery times from anaesthesia. 

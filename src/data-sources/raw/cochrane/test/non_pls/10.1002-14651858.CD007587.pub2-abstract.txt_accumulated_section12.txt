@@ -1,0 +1,12 @@
+Background
+Acupuncture is often used for prevention of tension‐type headache but its effectiveness is still controversial. This is an update of our Cochrane review originally published in Issue 1, 2009 of The Cochrane Library. 
+Objectives
+To investigate whether acupuncture is a) more effective than no prophylactic treatment/routine care only; b) more effective than 'sham' (placebo) acupuncture; and c) as effective as other interventions in reducing headache frequency in adults with episodic or chronic tension‐type headache. 
+Search methods
+We searched CENTRAL, MEDLINE, EMBASE and AMED to 19 January 2016. We searched the World Health Organization (WHO) International Clinical Trials Registry Platform to 10 February 2016 for ongoing and unpublished trials. 
+Selection criteria
+We included randomised trials with a post‐randomisation observation period of at least eight weeks, which compared the clinical effects of an acupuncture intervention with a control (treatment of acute headaches only or routine care), a sham acupuncture intervention or another prophylactic intervention in adults with episodic or chronic tension‐type headache. 
+Data collection and analysis
+Two review authors checked eligibility; extracted information on participants, interventions, methods and results; and assessed study risk of bias and the quality of the acupuncture intervention. The main efficacy outcome measure was response (at least 50% reduction of headache frequency) after completion of treatment (three to four months after randomisation). To assess safety/acceptability we extracted the number of participants dropping out due to adverse effects and the number of participants reporting adverse effects. We assessed the quality of the evidence using GRADE (Grading of Recommendations Assessment, Development and Evaluation). 
+Main results
+Twelve trials (11 included in the previous version and one newly identified) with 2349 participants (median 56, range 10 to 1265) met the inclusion criteria. 

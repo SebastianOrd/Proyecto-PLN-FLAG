@@ -1,0 +1,10 @@
+Background
+Available evidence on the effects of vitamin D on mortality has been inconclusive. In a recent systematic review, we found evidence that vitamin D3 may decrease mortality in mostly elderly women. The present systematic review updates and reassesses the benefits and harms of vitamin D supplementation used in primary and secondary prophylaxis of mortality. 
+Objectives
+To assess the beneficial and harmful effects of vitamin D supplementation for prevention of mortality in healthy adults and adults in a stable phase of disease. 
+Search methods
+We searched The Cochrane Library, MEDLINE, EMBASE, LILACS, the Science Citation Index–Expanded and Conference Proceedings Citation Index–Science (all up to February 2012). We checked references of included trials and pharmaceutical companies for unidentified relevant trials. 
+Selection criteria
+Randomised trials that compared any type of vitamin D in any dose with any duration and route of administration versus placebo or no intervention in adult participants. Participants could have been recruited from the general population or from patients diagnosed with a disease in a stable phase. Vitamin D could have been administered as supplemental vitamin D (vitamin D3 (cholecalciferol) or vitamin D2 (ergocalciferol)) or as an active form of vitamin D (1α‐hydroxyvitamin D (alfacalcidol) or 1,25‐dihydroxyvitamin D (calcitriol)). 
+Data collection and analysis
+Six review authors extracted data independently. Random‐effects and fixed‐effect meta‐analyses were conducted. For dichotomous outcomes, we calculated the risk ratios (RRs). To account for trials with zero events, we performed meta‐analyses of dichotomous data using risk differences (RDs) and empirical continuity corrections. We used published data and data obtained by contacting trial authors. 

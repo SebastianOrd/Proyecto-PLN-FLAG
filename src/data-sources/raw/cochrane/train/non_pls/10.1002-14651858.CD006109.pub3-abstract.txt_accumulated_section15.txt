@@ -1,0 +1,15 @@
+Background
+Among subfertile women undergoing assisted reproductive technology (ART), hormone pills given before ovarian stimulation may improve outcomes. 
+Objectives
+To determine whether pretreatment with the combined oral contraceptive pill (COCP) or with a progestogen or oestrogen alone in ovarian stimulation protocols affects outcomes in subfertile couples undergoing ART. 
+Search methods
+We searched the following databases from inception to January 2017: Cochrane Gynaecology and Fertility Group Specialised Register, The Cochrane Central Register Studies Online, MEDLINE, Embase, CINAHL and PsycINFO. We also searched the reference lists of relevant articles and registers of ongoing trials. 
+Selection criteria
+Randomised controlled trials (RCTs) of hormonal pretreatment in women undergoing ART.
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. The primary review outcomes were live birth or ongoing pregnancy and pregnancy loss. 
+Main results
+We included 29 RCTs (4701 women) of pretreatment with COCPs, progestogens or oestrogens versus no pretreatment or alternative pretreatments, in gonadotrophin‐releasing hormone (GnRH) agonist or antagonist cycles. Overall, evidence quality ranged from very low to moderate. The main limitations were risk of bias and imprecision. Most studies did not describe their methods in adequate detail. 
+Combined oral contraceptive pill versus no pretreatment 
+With antagonist cycles in both groups the rate of live birth or ongoing pregnancy was lower in the pretreatment group (OR 0.74, 95% CI 0.58 to 0.95; 6 RCTs; 1335 women; I2 = 0%; moderate quality evidence). There was insufficient evidence to determine whether the groups differed in rates of pregnancy loss (OR 1.36, 95% CI 0.82 to 2.26; 5 RCTs; 868 women; I2 = 0%; moderate quality evidence), multiple pregnancy (OR 2.21, 95% CI 0.53 to 9.26; 2 RCTs; 125 women; I2 = 0%; low quality evidence), ovarian hyperstimulation syndrome (OHSS; OR 0.98, 95% CI 0.28 to 3.40; 2 RCTs; 642 women; I2 = 0%, low quality evidence), or ovarian cyst formation (OR 0.47, 95% CI 0.08 to 2.75; 1 RCT; 64 women; very low quality evidence). 
+In COCP plus antagonist cycles versus no pretreatment in agonist cycles, there was insufficient evidence to determine whether the groups differed in rates of live birth or ongoing pregnancy (OR 0.89, 95% CI 0.64 to 1.25; 4 RCTs; 724 women; I2 = 0%; moderate quality evidence), multiple pregnancy (OR 1.36, 95% CI 0.85 to 2.19; 4 RCTs; 546 women; I2 = 0%; moderate quality evidence), or OHSS (OR 0.63, 95% CI 0.20 to 1.96; 2 RCTs; 290 women, I2 = 0%), but there were fewer pregnancy losses in the pretreatment group (OR 0.40, 95% CI 0.22 to 0.72; 5 RCTs; 780 women; I2 = 0%; moderate quality evidence). There were no data suitable for analysis on ovarian cyst formation. 

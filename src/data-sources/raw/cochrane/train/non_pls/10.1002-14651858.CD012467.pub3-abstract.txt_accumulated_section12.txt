@@ -1,0 +1,12 @@
+Background
+Acute kidney injury (AKI) is a major comorbidity in hospitalised patients. Patients with severe AKI require continuous renal replacement therapy (CRRT) when they are haemodynamically unstable. CRRT is prescribed assuming it is delivered over 24 hours. However, it is interrupted when the extracorporeal circuits clot and the replacement is required. The interruption may impair the solute clearance as it causes under dosing of CRRT. To prevent the circuit clotting, anticoagulation drugs are frequently used. 
+Objectives
+To assess the benefits and harms of pharmacological interventions for preventing clotting in the extracorporeal circuits during CRRT. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 12 September 2019 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+We selected randomised controlled trials (RCTs or cluster RCTs) and quasi‐RCTs of pharmacological interventions to prevent clotting of extracorporeal circuits during CRRT. 
+Data collection and analysis
+Data were abstracted and assessed independently by two authors. Dichotomous outcomes were calculated as risk ratio (RR) with 95% confidence intervals (CI). The primary review outcomes were major bleeding, successful prevention of clotting (no need of circuit change in the first 24 hours for any reason), and death. Evidence certainty was determined using the Grading of Recommendation Assessment, Development, and Evaluation (GRADE) approach. 
+Main results
+A total of 34 completed studies (1960 participants) were included in this review. We identified seven ongoing studies which we plan to assess in a future update of this review. No included studies were free from risk of bias. We rated 30 studies for performance bias and detection bias as high risk of bias. We rated 18 studies for random sequence generation,Ã‚Â Ã‚Â six studies for the allocation concealment, three studies for performance bias, three studies for detection bias,Ã‚Â  nine studies for attrition bias,Ã‚Â 14 studies for selective reporting and nine studies for the other potential source of bias, as having low risk of bias. 

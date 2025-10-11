@@ -1,0 +1,10 @@
+Background
+Henoch‐Schönlein purpura (HSP) is the most common vasculitis of childhood but may occur in adults. This small vessel vasculitis is characterised by palpable purpura, abdominal pain, arthritis or arthralgia and kidney involvement. This is an update of a review first published in 2009. 
+Objectives
+To evaluate the benefits and harms of different agents (used singularly or in combination) compared with placebo, no treatment or any other agent for: (1) the prevention of severe kidney disease in patients with HSP without kidney disease at presentation; (2) the prevention of severe kidney disease in patients with HSP and minor kidney disease (microscopic haematuria, mild proteinuria) at presentation; (3) the treatment of established severe kidney disease (macroscopic haematuria, proteinuria, nephritic syndrome, nephrotic syndrome with or without acute kidney failure) in HSP; and (4) the prevention of recurrent episodes of HSP‐associated kidney disease. 
+Search methods
+We searched the Cochrane Kidney and Transplant's Specialised Register to 13 July 2015 through contact with the Trials Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing interventions used to prevent or treat kidney disease in HSP compared with placebo, no treatment or other agents were included. 
+Data collection and analysis
+Two authors independently determined study eligibility, assessed risk of bias and extracted data from each study. Statistical analyses were performed using the random effects model and the results were expressed as risk ratio (RR) or risk difference (RD) for dichotomous outcomes and mean difference (MD) for continuous outcomes with 95% confidence intervals (CI). 

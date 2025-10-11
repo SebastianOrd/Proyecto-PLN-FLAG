@@ -1,0 +1,14 @@
+Background
+When compared to the general population, persons with an intellectual disability have lower life expectancy, higher morbidity, and more difficulty finding and obtaining healthcare. Organisational interventions are used to reconfigure the structure or delivery of healthcare services. This is the first update of the original review. 
+Objectives
+To assess the effects of organisational interventions of healthcare services for the mental and physical health problems of persons with an intellectual disability. 
+Search methods
+For this update we searched CENTRAL, MEDLINE, EMBASE, CINAHL and other databases, from April 2006 to 4 September 2015. We checked reference lists of included studies and consulted experts in the field. 
+Selection criteria
+Randomised controlled trials of organisational interventions of healthcare services aimed at improving care of mental and physical health problems of adult persons with an intellectual disability. 
+Data collection and analysis
+We employed standard methodological procedures as outlined in the Cochrane Handbook of Systematic Reviews of Interventions, in addition to specific guidance from the Cochrane Effective Practice and Organisation of Care (EPOC) Group. 
+Main results
+We identified one new trial from the updated searches.
+Seven trials (347 participants) met the selection criteria. The interventions varied but had common components: interventions that increased the intensity and frequency of service delivery (4 trials, 200 participants), community‐based specialist behaviour therapy (1 trial, 63 participants), and outreach treatment (1 trial, 50 participants). Another trial compared two active arms (traditional counselling and integrated intervention for bereavement, 34 participants). 
+The included studies investigated interventions dealing with the mental health problems of persons with an intellectual disability; none focused on physical health problems. Four studies assessed the effect of organisational interventions on behavioural problems for persons with an intellectual disability, three assessed care giver burden, and three assessed the costs associated with the interventions. None of the included studies reported data on the effect of organisational interventions on adverse events. Most studies were assessed as having low risk of bias. 

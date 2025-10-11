@@ -1,0 +1,10 @@
+Background
+Infection with hepatitis B virus (HBV) can be symptomatic or asymptomatic. Apart from chronic HBV infection, the complications related to acute HBV infection are severe acute viral hepatitis and fulminant hepatitis characterised by liver failure. The optimal pharmacological treatment of acute HBV infection remains controversial. 
+Objectives
+To assess the benefits and harms of pharmacological interventions in the treatment of acute HBV infection through a network meta‐analysis and to generate rankings of the available treatments according to their safety and efficacy. As it was not possible to assess whether the potential effect modifiers were similar across different comparisons, we did not perform the network meta‐analysis and instead assessed the benefits and harms of different interventions using standard Cochrane methodological procedures. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, Science Citation Index Expanded, WHO International Clinical Trials Registry Platform, and randomised clinical trials (RCTs) registers to August 2016 to identify RCTs on pharmacological interventions for acute HBV infection. 
+Selection criteria
+RCTs, irrespective of language, blinding, or publication status in participants with acute HBV infection. We excluded trials if participants had previously undergone liver transplantation and had other coexisting viral diseases such as hepatitis C virus and HIV. We considered any of the various pharmacological interventions compared with each other or with placebo, or no intervention. 
+Data collection and analysis
+We calculated the odds ratio (OR) and rate ratio with 95% confidence intervals (CI) using both fixed‐effect and random‐effects models based on available‐participant analysis with Review Manager 5. We assessed risk of bias, controlled risk of random errors with Trial Sequential Analysis, and assessed the quality of the evidence using GRADE. 

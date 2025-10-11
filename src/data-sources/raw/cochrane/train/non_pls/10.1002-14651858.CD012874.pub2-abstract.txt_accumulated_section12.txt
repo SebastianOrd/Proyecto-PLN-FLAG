@@ -1,0 +1,12 @@
+Background
+Many surgeons prefer to perform total knee replacement surgery with the aid of a tourniquet. A tourniquet is an occlusive device that restricts distal blood flow to help create a bloodless field during the procedure. A tourniquet may be associated with increased risk of pain and complications. 
+Objectives
+To determine the benefits and harms of tourniquet use in knee replacement surgery.
+Search methods
+We searched MEDLINE, Embase, and Cochrane Central Register of Controlled Trials (CENTRAL) up to 26 March 2020. We searched clinicaltrials.gov, the World Health Organization trials portal, and several international registries and joint registries up to March 2020. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing knee replacement with use of a tourniquet versus without use of a tourniquet and non‐randomised studies with more than 1000 participants. Major outcomes included pain, function, global assessment of success, health‐related quality of life, serious adverse events (including venous thromboembolism, infection, re‐operation, and mortality), cognitive function, and survival of the implant. Minor outcomes included blood loss, economic outcomes, implant stability, and adverse events. 
+Data collection and analysis
+Two review authors screened abstracts and full texts, extracted data, performed risk of bias assessments, and assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We included 41 RCTs with 2819 participants. Trials included from 20 to 199 participants. Mean age ranged between 58 and 84 years. More than half of the RCTs had unclear risk of selection bias and unclear risk of performance and detection bias due to absence of blinding of participants and surgeons. 

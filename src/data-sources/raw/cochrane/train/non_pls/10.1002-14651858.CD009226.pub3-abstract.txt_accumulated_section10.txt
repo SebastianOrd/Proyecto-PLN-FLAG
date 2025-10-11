@@ -1,0 +1,10 @@
+Background
+Thyroid‐associated ophthalmopathy (TAO) is the most frequent extrathyroidal manifestation of Graves' disease, affecting up to 50% of patients. It has a great impact on quality of life. Rituximab (RTX) is a human/murine chimeric monoclonal antibody that targets the CD20 receptor on B‐lymphocytes. Preliminary work has shown that blocking this CD20 receptor with RTX may affect the clinical course of TAO by reducing inflammation and the degree of proptosis.  
+Objectives
+This review update, originally published in 2013, assesses the efficacy and safety of using RTX for the treatment of TAO. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2022, Issue 2), which contains the Cochrane Eyes and Vision Trials Register, Ovid MEDLINE, Ovid Embase, Latin American and Caribbean Health Science Information database (LILACS), the ISRCTN registry, clinicaltrials.gov and the WHO International Clinical Trials Registry Platform (WHO ICTRP). There were no language restrictions in the electronic search for trials. We last searched the electronic databases on 22 February 2022.  
+Selection criteria
+We included randomised controlled trials (RCTs) of RTX administered by intravenous infusion using any dosage regimen for the treatment of active TAO in adults, compared to placebo or glucocorticoids treatment.  
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Two review authors independently scanned titles and abstracts, and screened full‐text reports of potentially relevant studies. The outcomes of interest in this review were: clinical activity score (CAS), NOSPECS severity scale, proptosis (mm), palpebral aperture (mm), extraocular motility (degrees or diplopia rating scale), quality of life and adverse effects. 

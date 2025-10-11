@@ -1,0 +1,15 @@
+Background
+Chronic loss of appetite in cystic fibrosis concerns both individuals and families. Appetite stimulants have been used to help cystic fibrosis patients with chronic anorexia attain optimal body mass index and nutritional status. However, these may have adverse effects on clinical status. 
+Objectives
+The aim of this review is to systematically search for and evaluate evidence on the beneficial effects of appetite stimulants in the management of CF‐related anorexia and synthesize reports of any side‐effects. 
+Search methods
+Trials were identified by searching the Cochrane Cystic Fibrosis and Genetic Disorders Group's Cystic Fibrosis Trials Register, MEDLINE, Embase, CINAHL, handsearching reference lists and contacting local and international experts. 
+Last search of online databases: 01 April 2014.
+Last search of the Cystic Fibrosis Trials Register: 08 April 2014.
+Selection criteria
+Randomised and quasi‐randomised controlled trials of appetite stimulants, compared to placebo or no treatment for at least one month in adults and children with cystic fibrosis. 
+Data collection and analysis
+Authors independently extracted data and assessed the risk of bias within eligible trials. Meta‐analyses were performed. 
+Main results
+Three trials (total of 47 recruited patients) comparing appetite stimulants (cyproheptadine hydrochloride and megesterol acetate) to placebo were included; the numbers of adults or children within each trial were not always reported. The risk of bias of the included trials was graded as moderate. 
+A meta‐analysis of all three trials showed appetite stimulants produced a larger increase in weight z score at three months compared to placebo, mean difference 0.61 (95% confidence interval 0.29 to 0.93) (P < 0.001) (n = 40) with no evidence of a difference in effect between two different appetite stimulants. One of these trials also reported a significant weight increase with megesterol acetate compared to placebo at six months (n = 17). The three trials reported no significant differences in forced expiratory volume at one second (per cent predicted) between the appetite stimulant groups and placebo at follow up, with durations ranging from two to nine months. A meta‐analysis of two trials showed a significantly higher proportion of patients reporting increased appetite, odds ratio 45.25 (95% confidence interval 3.57 to 573.33) (P = 0.003) (n = 23), but the frequency of reported side effects was undetermined. 

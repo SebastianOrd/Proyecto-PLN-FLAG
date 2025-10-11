@@ -1,0 +1,13 @@
+Background
+Alcohol dependence is a major public health problem characterized by recidivism, and medical and psychosocial complications. The co‐occurrence of major depression in people entering treatment for alcohol dependence is common, and represents a risk factor for morbidity and mortality, which negatively influences treatment outcomes. 
+Objectives
+To assess the benefits and risks of antidepressants for the treatment of people with co‐occurring depression and alcohol dependence. 
+Search methods
+We searched the Cochrane Drugs and Alcohol Group Specialised Register (via CRSLive), Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and Embase from inception to July 2017. We also searched for ongoing and unpublished studies via ClinicalTrials.gov (www.clinicaltrials.gov) and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (apps.who.int/trialsearch/). 
+All searches included non‐English language literature. We handsearched references of topic‐related systematic reviews and the included studies. 
+Selection criteria
+Randomized controlled trials and controlled clinical trials comparing antidepressants alone or in association with other drugs or psychosocial interventions (or both) versus placebo, no treatment, and other pharmacological or psychosocial interventions. 
+Data collection and analysis
+We used standard methodological procedures as expected by Cochrane.
+Main results
+We included 33 studies in the review (2242 participants). Antidepressants were compared to placebo (22 studies), psychotherapy (two studies), other medications (four studies), or other antidepressants (five studies). The mean duration of the trials was 9.9 weeks (range 3 to 26 weeks). Eighteen studies took place in the USA, 12 in Europe, two in Turkey, and one in Australia. The antidepressant included in most of the trials was sertraline; other medications were amitriptyline, citalopram, desipramine, doxepin, escitalopram, fluoxetine, fluvoxamine, imipramine, mianserin, mirtazepine, nefazodone, paroxetine, tianeptine, venlafaxine, and viloxazine. Eighteen studies were conducted in an outpatient setting, nine in an inpatient setting, and six in both settings. Psychosocial treatment was provided in 18 studies. There was high heterogeneity in the selection of outcomes and the rating systems used for diagnosis and outcome assessment. 

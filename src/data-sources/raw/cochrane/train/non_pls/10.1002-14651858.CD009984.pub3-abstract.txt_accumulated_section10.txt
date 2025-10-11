@@ -1,0 +1,10 @@
+Background
+This is an update of a Cochrane review previously published in 2014. Acute postoperative pain is one of the most disturbing complaints in open heart surgery, and is associated with a risk of negative consequences. Several trials investigated the effects of psychological interventions to reduce acute postoperative pain and improve the course of physical and psychological recovery of participants undergoing open heart surgery. 
+Objectives
+To compare the efficacy of psychological interventions as an adjunct to standard care versus standard care alone or standard care plus attention control in adults undergoing open heart surgery for pain, pain medication, psychological distress, mobility, and time to extubation. 
+Search methods
+For this update, we searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, Web of Science, and PsycINFO for eligible studies up to February 2017. We used the 'related articles' and 'cited by' options of eligible studies to identify additional relevant studies. We checked lists of references of relevant articles and previous reviews. We searched the ProQuest Dissertations and Theses Full Text Database, ClinicalTrials and the WHO International Clinical Trials Registry Platform to identify any unpublished material or ongoing trials. We also contacted the authors of primary studies to identify any unpublished material. In addition, we wrote to all leading heart centres in Germany, Switzerland, and Austria to check whether they were aware of any ongoing trials. 
+Selection criteria
+Randomised controlled trials comparing psychological interventions as an adjunct to standard care versus standard care alone or standard care plus attention in adults undergoing open heart surgery. 
+Data collection and analysis
+Two review authors (SZ and SK) independently assessed trials for eligibility, estimated the risk of bias and extracted all data. We calculated effect sizes for each comparison (Hedges’ g) and meta‐analysed data using a random‐effects model. We assessed the evidence using GRADE and created 'Summary of findings' tables. 

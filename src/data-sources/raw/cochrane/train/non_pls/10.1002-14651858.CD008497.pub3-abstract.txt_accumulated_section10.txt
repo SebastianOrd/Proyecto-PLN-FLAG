@@ -1,0 +1,10 @@
+Background
+Despite optimal medical treatment, including epilepsy surgery, many epilepsy patients have uncontrolled seizures. Since the 1970s interest has grown in invasive intracranial neurostimulation as a treatment for these patients. Intracranial stimulation includes both deep brain stimulation (DBS) (stimulation through depth electrodes) and cortical stimulation (subdural electrodes). This is an updated version of a previous Cochrane review published in 2014. 
+Objectives
+To assess the efficacy, safety and tolerability of DBS and cortical stimulation for refractory epilepsy based on randomized controlled trials (RCTs). 
+Search methods
+We searched the Cochrane Epilepsy Group Specialized Register on 29 September 2015, but it was not necessary to update this search, because records in the Specialized Register are included in CENTRAL. We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library 2016, Issue 11, 5 November 2016), PubMed (5 November 2016), ClinicalTrials.gov (5 November 2016), the WHO International Clinical Trials Registry Platform ICTRP (5 November 2016) and reference lists of retrieved articles. We also contacted device manufacturers and other researchers in the field. No language restrictions were imposed. 
+Selection criteria
+RCTs comparing deep brain or cortical stimulation versus sham stimulation, resective surgery, further treatment with antiepileptic drugs or other neurostimulation treatments (including vagus nerve stimulation). 
+Data collection and analysis
+Four review authors independently selected trials for inclusion. Two review authors independently extracted the relevant data and assessed trial quality and overall quality of evidence. The outcomes investigated were seizure freedom, responder rate, percentage seizure frequency reduction, adverse events, neuropsychological outcome and quality of life. If additional data were needed, the study investigators were contacted. Results were analysed and reported separately for different intracranial targets for reasons of clinical heterogeneity. 

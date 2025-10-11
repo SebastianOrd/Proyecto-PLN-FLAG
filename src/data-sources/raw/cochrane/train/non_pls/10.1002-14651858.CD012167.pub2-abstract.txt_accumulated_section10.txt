@@ -1,0 +1,10 @@
+Background
+The symptoms of eczema can lead to sleeplessness and fatigue and may have a substantial impact on quality of life. Use of oral H1 antihistamines (H1 AH) as adjuvant therapy alongside topical agents is based on the idea that combining the anti‐inflammatory effects of topical treatments with the blocking action of histamine on its receptors in the skin by H1 AH (to reduce the principal symptom of itch) might magnify or intensify the effect of treatment. Also, it would be unethical to compare oral H1 AH alone versus no treatment, as topical treatment is the standard management for this condition. 
+Objectives
+To assess the effects of oral H1 antihistamines as 'add‐on' therapy to topical treatment in adults and children with eczema. 
+Search methods
+We searched the following databases up to May 2018: the Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase, and the GREAT database (Global Resource of EczemA Trials; from inception). We searched five trials registers and checked the reference lists of included and excluded studies for further references to relevant randomised controlled trials (RCTs). We also searched the abstracts of four conference proceedings held between 2000 and 2018. 
+Selection criteria
+We sought RCTs assessing oral H1 AH as 'add‐on' therapy to topical treatment for people with eczema compared with topical treatment plus placebo or no additional treatment as add‐on therapy. 
+Data collection and analysis
+We used standard Cochrane methodological procedures. Primary outcome measures were 'Mean change in patient‐assessed symptoms of eczema' and 'Proportion of participants reporting adverse effects and serious adverse events'. Secondary outcomes were 'Mean change in physician‐assessed clinical signs', 'Mean change in quality of life', and 'Number of eczema flares'. 

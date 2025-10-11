@@ -1,0 +1,12 @@
+Background
+Approximately half of people with heart failure have chronic kidney disease (CKD). Pharmacological interventions for heart failure in people with CKD have the potential to reduce death (any cause) or hospitalisations for decompensated heart failure. However, these interventions are of uncertain benefit and may increase the risk of harm, such as hypotension and electrolyte abnormalities, in those with CKD. 
+Objectives
+This review aims to look at the benefits and harms of pharmacological interventions for HF (i.e., antihypertensive agents, inotropes, and agents that may improve the heart performance indirectly) in people with HF and CKD. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies through 12 September 2019 in consultation with an Information Specialist and using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+We included randomised controlled trials of any pharmacological intervention for acute or chronic heart failure, among people of any age with chronic kidney disease of at least three months duration. 
+Data collection and analysis
+Two authors independently screened the records to identify eligible studies and extracted data on the following dichotomous outcomes: death, hospitalisations, worsening heart failure, worsening kidney function, hyperkalaemia, and hypotension. We used random effects meta‐analysis to estimate treatment effects, which we expressed as a risk ratio (RR) with 95% confidence intervals (CI). We assessed the risk of bias using the Cochrane tool. We applied the GRADE methodology to rate the certainty of evidence. 
+Main results
+One hundred and twelve studies met our selection criteria: 15 were studies of adults with CKD; 16 studies were conducted in the general population but provided subgroup data for people with CKD; and 81 studies included individuals with CKD, however, data for this subgroup were not provided. The risk of bias in all 112 studies was frequently high or unclear. Of the 31 studies (23,762 participants) with data on CKD patients, follow‐up ranged from three months to five years, and study size ranged from 16 to 2916 participants. In total, 26 studies (19,612 participants) reported disaggregated and extractable data on at least one outcome of interest for our review and were included in our meta‐analyses. 

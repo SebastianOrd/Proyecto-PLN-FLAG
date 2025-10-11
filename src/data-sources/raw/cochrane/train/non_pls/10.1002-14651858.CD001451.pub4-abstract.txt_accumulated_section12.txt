@@ -1,0 +1,12 @@
+Background
+Diagnostic ultrasound is used selectively in late pregnancy where there are specific clinical indications. However, the value of routine late pregnancy ultrasound screening in unselected populations is controversial. The rationale for such screening would be the detection of clinical conditions which place the fetus or mother at high risk, which would not necessarily have been detected by other means such as clinical examination, and for which subsequent management would improve perinatal outcome. 
+Objectives
+To assess the effects on obstetric practice and pregnancy outcome of routine late pregnancy ultrasound, defined as greater than 24 weeks' gestation, in women with either unselected or low‐risk pregnancies. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 May 2015) and reference lists of retrieved studies. 
+Selection criteria
+All acceptably controlled trials of routine ultrasound in late pregnancy (defined as after 24 weeks). 
+Data collection and analysis
+Three review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. 
+Main results
+Thirteen trials recruiting 34,980 women were included in the systematic review. Risk of bias was low for allocation concealment and selective reporting, unclear for random sequence generation and incomplete outcome data and high for blinding of both outcome assessment and participants and personnel. There was no difference in antenatal, obstetric and neonatal outcome or morbidity in screened versus control groups. Routine late pregnancy ultrasound was not associated with improvements in overall perinatal mortality. There is little information on long‐term substantive outcomes such as neurodevelopment. There is a lack of data on maternal psychological effects. 

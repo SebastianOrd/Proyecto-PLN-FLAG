@@ -1,0 +1,10 @@
+Background
+Approximately 1 in 10 pregnancies is affected by meconium passage at delivery, which can result in meconium aspiration syndrome (MAS). MAS can cause respiratory complications and, very rarely, death. Antibiotics have been prescribed for neonates exposed to meconium in amniotic fluid, with the intention of preventing infection due to potential bacterial contaminants. 
+Objectives
+We conducted this review to assess the efficacy and safety of antibiotics for:
+1. prevention of infection, morbidity, and mortality among infants born through meconium‐stained amniotic fluid (MSAF) who are asymptomatic at birth; and 
+2. prevention of infection, morbidity, and mortality among infants born through MSAF who have signs and symptoms compatible with meconium aspiration syndrome (MAS). 
+Search methods
+We performed a literature search using the following databases: MEDLINE (1966 to July 2016); Embase (1980 to July 2016); the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to July 2016); and the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 7) in the Cochrane Library. We also searched clinical trials databases, conference proceedings, and reference lists of retrieved articles. 
+Selection criteria
+We included randomised and quasi‐randomised controlled trials that compared antibiotics administered via any route versus placebo or no treatment for prevention of infection among neonates exposed to MSAF, or who developed MAS. We excluded cohort, case control, and any other non‐randomised studies and applied no language restrictions. We included studies of term and preterm infants, and we included studies examining use of any antibacterial antibiotics. We included studies that reported on any outcomes of interest. 

@@ -1,0 +1,14 @@
+Background
+This is the second updated version of the original Cochrane review published in the Cochrane Library 2009, Issue 3.Most women with early cervical cancer (stages I to IIA) are cured with surgery or radiotherapy, or both. We performed this review originally because it was unclear whether cisplatin‐based chemotherapy after surgery, radiotherapy or both, in women with early stage disease with risk factors for recurrence, was associated with additional survival benefits or risks. 
+Objectives
+To evaluate the effectiveness and safety of adjuvant platinum‐based chemotherapy after radical hysterectomy, radiotherapy, or both in the treatment of early stage cervical cancer. 
+Search methods
+For the original 2009 review, we searched the Cochrane Gynaecological Cancer Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library 2009, Issue 1), MEDLINE, Embase, LILACS, BIOLOGICAL ABSTRACTS and CancerLit, the National Research Register and Clinical Trials register, with no language restriction. We handsearched abstracts of scientific meetings and other relevant publications. We extended the database searches to November 2011 for the first update and to September 2016 for the second update. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing adjuvant cisplatin‐based chemotherapy (after radical surgery, radiotherapy or both) with no adjuvant chemotherapy, in women with early stage cervical cancer (stage IA2‐IIA) with at least one risk factor for recurrence. 
+Data collection and analysis
+Two review authors extracted data independently. Meta‐analysis was performed using a random‐effects model, with death and disease progression as outcomes. 
+Main results
+For this second updated version we identified only one small trial reporting grade 4 toxicity results, without disease‐free or overall survival data with a median follow‐up of 16 months. 
+From the first updated version, we identified three trials that were ongoing, and remain so in 2016. 
+Four trials including 401 women with evaluable results with early cervical cancer were included in the meta‐analyses. The median follow‐up period in these trials ranged from 29 to 42 months. All women had undergone surgery first. Three trials compared chemotherapy combined with radiotherapy versus radiotherapy alone; and one trial compared chemotherapy followed by radiotherapy versus radiotherapy alone. It was not possible to perform subgroup analyses by stage or tumour size. 

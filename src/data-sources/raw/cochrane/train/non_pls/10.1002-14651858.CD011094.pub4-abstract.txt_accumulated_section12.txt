@@ -1,0 +1,12 @@
+Background
+Omega‐6 fats are polyunsaturated fats vital for many physiological functions, but their effect on cardiovascular disease (CVD) risk is debated. 
+Objectives
+To assess effects of increasing omega‐6 fats (linoleic acid (LA), gamma‐linolenic acid (GLA), dihomo‐gamma‐linolenic acid (DGLA) and arachidonic acid (AA)) on CVD and all‐cause mortality. 
+Search methods
+We searched CENTRAL, MEDLINE and Embase to May 2017 and clinicaltrials.gov and the World Health Organization International Clinical Trials Registry Platform to September 2016, without language restrictions. We checked trials included in relevant systematic reviews. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing higher versus lower omega‐6 fat intake in adults with or without CVD, assessing effects over at least 12 months. We included full texts, abstracts, trials registry entries and unpublished studies. Outcomes were all‐cause mortality, CVD mortality, CVD events, risk factors (blood lipids, adiposity, blood pressure), and potential adverse events. We excluded trials where we could not separate omega‐6 fat effects from those of other dietary, lifestyle or medication interventions. 
+Data collection and analysis
+Two authors independently screened titles/abstracts, assessed trials for inclusion, extracted data, and assessed risk of bias of included trials. We wrote to authors of included studies. Meta‐analyses used random‐effects analysis, while sensitivity analyses used fixed‐effects and limited analyses to trials at low summary risk of bias. We assessed GRADE quality of evidence for 'Summary of findings' tables. 
+Main results
+We included 19 RCTs in 6461 participants who were followed for one to eight years. Seven trials assessed the effects of supplemental GLA and 12 of LA, none DGLA or AA; the omega‐6 fats usually displaced dietary saturated or monounsaturated fats. We assessed three RCTs as being at low summary risk of bias. 

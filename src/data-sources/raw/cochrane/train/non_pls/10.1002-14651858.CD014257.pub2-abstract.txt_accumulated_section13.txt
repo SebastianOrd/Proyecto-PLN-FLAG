@@ -1,0 +1,13 @@
+Background
+Functional constipation is defined as chronic constipation with no identifiable underlying cause. It is a significant cause of morbidity in children, accounting for up to 25% of visits to paediatric gastroenterologists. Probiotic preparations may sufficiently alter the gut microbiome and promote normal gut physiology in a way that helps relieve functional constipation. Several studies have sought to address this hypothesis, as well as the role of probiotics in other functional gut disorders. Therefore, it is important to have a focused review to assess the evidence to date. 
+Objectives
+To evaluate the efficacy and safety of probiotics for the management of chronic constipation without a physical explanation in children. 
+Search methods
+On 28 June 2021, we searched CENTRAL, MEDLINE, Embase, CINAHL, AMED, WHO ICTR, and ClinicalTrials.gov, with no language, date, publication status, or document type limitations. 
+Selection criteria
+We included randomised controlled trials (RCTs) that assessed probiotic preparations (including synbiotics) compared to placebo, no treatment or any other interventional preparation in people aged between 0 and 18 years old with a diagnosis of functional constipation according to consensus criteria (such as Rome IV). 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 14 studies (1127 randomised participants): 12 studies assessed probiotics in the treatment of functional constipation, whilst two studies investigated synbiotic preparations. 
+Three studies compared probiotics to placebo in relation to the frequency of defecation at study end, but we did not pool them as there was very significant unexplained heterogeneity. Four studies compared probiotics to placebo in relation to treatment success. There may be no difference in global improvement/treatment success (RR 1.29, 95% CI 0.73 to 2.26; 313 participants; low‐certainty evidence). Five studies compared probiotics to placebo in relation to withdrawals due to adverse events, with the pooled effect suggesting there may be no difference (RR 0.64, 95% CI 0.21 to 1.95; 357 participants; low‐certainty evidence). 

@@ -1,0 +1,14 @@
+Background
+Diabetic macular oedema (DMO) is a common complication of diabetic retinopathy. Antiangiogenic therapy with anti‐vascular endothelial growth factor (anti‐VEGF) can reduce oedema, improve vision and prevent further visual loss. These drugs have replaced laser photocoagulation as the standard of care for people with DMO. 
+Objectives
+The 2014 update of this review found high‐quality evidence of benefit with anti‐VEGF modalities, compared to laser photocoagulation, for the treatment of DMO. The objective of this updated review is to compare the effectiveness and safety of the different anti‐VEGF drugs using network meta‐analysis methods. 
+Search methods
+We searched various electronic databases on 26 April 2017.
+Selection criteria
+We included randomised controlled trials (RCTs) that compared any anti‐angiogenic drug with an anti‐VEGF mechanism of action versus another anti‐VEGF drug, another treatment, sham or no treatment in people with DMO. 
+Data collection and analysis
+We used standard Cochrane methods for pair‐wise meta‐analysis and we augmented this evidence using network meta‐analysis methods. We focused on the relative efficacy and safety of the three most commonly used drugs as interventions of direct interest for practice: aflibercept and ranibizumab, used on‐label; and off‐label bevacizumab. 
+We collected data on three efficacy outcomes (gain of 15 or more Early Treatment Diabetic Retinopathy Study (ETDRS) letters; mean change in best‐corrected visual acuity (BCVA); mean change in central retinal thickness (CRT)), three safety outcomes (all severe systemic adverse events (SSAEs); all‐cause death; arterial thromboembolic events) and quality of life. 
+We used Stata 'network' meta‐analysis package for all analyses. We investigated the risk of bias of mixed comparisons based on the variance contribution of each study, having assigned an overall risk of bias to each study. 
+Main results
+Twenty‐four studies included 6007 participants with DMO and moderate vision loss, of which two studies randomised 265 eyes of 230 participants and one was a cross‐over study on 56 participants (62 eyes) that was treated as a parallel‐arm trial. Data were collected on drugs of direct interest from three studies on aflibercept (975 eyes), eight studies on bevacizumab (515 eyes), and 14 studies on ranibizumab (1518 eyes). As treatments of indirect interest or legacy treatment we included three studies on pegaptanib (541 eyes), five studies on ranibizumab plus prompt laser (557 eyes), one study on ranibizumab plus deferred laser (188 eyes), 13 studies on laser photocoagulation (936 eyes) and six studies on sham treatment (793 eyes). 

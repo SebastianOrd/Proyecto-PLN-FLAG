@@ -1,0 +1,15 @@
+Background
+Research suggests that the number of intellectually disabled people with children is increasing. Intellectual disabilities do not inevitably cause parenting difficulties, but it may impact on an individual's capacity to parent a child effectively. Children of parents with intellectual disabilities may be at increased risk of neglectful care, which could lead to health, developmental and behavioural problems, or increased risk of intellectual disability. Compared with other parents, those with intellectual disabilities are more likely to be involved in care proceedings. 
+Objectives
+To assess the effectiveness of parent training interventions for parents with intellectual disabilities designed to support parenting, parent‐child relations, safe parenting or family environments, or to develop parenting skills. 
+Search methods
+In July 2017, we searched CENTRAL, Ovid MEDLINE, Embase, CINAHL and six other databases as well as two trials registers. We also searched reference lists of included studies and contacted experts in the field to identify additional ongoing and unpublished studies. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs comparing parent training interventions for parents with intellectual disabilities with treatment as usual or a control group. 
+Data collection and analysis
+We used standardised Cochrane methods.
+Main results
+As of July 2017, we identified four trials with 192 participants that met the review inclusion criteria. Participating parents were mostly mothers (seven fathers were included in two studies), and children's ages ranged from one month to six years and five months. 
+One study was conducted in Australia, one in Canada, one in the Netherlands, and one in the USA. Each studied a different intervention and considered different outcomes. Three interventions were delivered at home, and one in a community venue (e.g. a church). Interventions varied in duration from seven weeks to 12 months. They included a range of practical childcare skills, home safety and developing parents' ability to respond sensitively to their children. Parents in the comparison groups included in the review received treatment as usual and most of these received the index intervention after the study was complete. 
+One study was funded by the Ontario Mental Health Foundation and the Ontario Ministry of Community and Social Services Research Grants Program; one by the Alabama Development Disabilities Council; one by the Best Practice Parenting Education Initiative of the Commonwealth Department of Family and Community Services and the New South Wales Aging and Disability Department; and one by ZonMw, The Netherlands Organisation for Health Research and Development. 
+It was not possible for us to conduct a meta‐analysis. The GRADE quality assessment varied from very low to moderate across the studies. 

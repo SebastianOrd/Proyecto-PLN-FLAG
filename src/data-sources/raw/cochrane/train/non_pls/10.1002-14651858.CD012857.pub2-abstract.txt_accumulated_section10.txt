@@ -1,0 +1,10 @@
+Background
+Attention deficit hyperactivity disorder (ADHD) is a psychiatric diagnosis increasingly used in adults. The recommended first‐line pharmacological treatment is central nervous system (CNS) stimulants, such as methylphenidate, but uncertainty remains about its benefits and harms. 
+Objectives
+To assess the beneficial and harmful effects of extended‐release formulations of methylphenidate in adults diagnosed with ADHD. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, nine other databases and four clinical trial registries up to February 2021. We searched 12 drug regulatory databases for clinical trial data up to 13 May 2020. In addition, we cross‐referenced all available trial identifiers, handsearched reference lists, searched pharmaceutical company databases, and contacted trial authors. 
+Selection criteria
+Randomised, double‐blind, parallel‐group trials comparing extended‐release methylphenidate formulations at any dose versus placebo and other ADHD medications in adults diagnosed with ADHD. 
+Data collection and analysis
+Two review authors independently extracted data. We assessed dichotomous outcomes as risk ratios (RRs), and rating scales and continuous outcomes as mean differences (MDs) or standardised mean differences (SMDs). We used the Cochrane risk of bias tool to assess risks of bias, and GRADE to assess the certainty of the evidence. We meta‐analysed the data using a random‐effects model. We assessed three design characteristics that may impair the trial results' 'generalisability'; exclusion of participants with psychiatric comorbidity; responder selection based on previous experience with CNS stimulants; and risk of withdrawal effects. Our prespecified primary outcomes were functional outcomes, self‐rated ADHD symptoms, and serious adverse events. Our secondary outcomes included quality of life, ADHD symptoms rated by investigators and by peers such as family members, cardiovascular variables, severe psychiatric adverse events, and other adverse events. 

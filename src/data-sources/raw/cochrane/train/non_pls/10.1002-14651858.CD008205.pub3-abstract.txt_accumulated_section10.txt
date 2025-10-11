@@ -1,0 +1,10 @@
+Background
+Survival rates have greatly improved as a result of more effective treatments for childhood cancer. Unfortunately, the improved prognosis has been accompanied by the occurrence of late, treatment‐related complications. Liver complications are common during and soon after treatment for childhood cancer. However, among long‐term childhood cancer survivors, the risk of hepatic late adverse effects is largely unknown. To make informed decisions about future cancer treatment and follow‐up policies, it is important to know the risk of, and associated risk factors for, hepatic late adverse effects. This review is an update of a previously published Cochrane review. 
+Objectives
+To evaluate all the existing evidence on the association between antineoplastic treatment (that is, chemotherapy, radiotherapy involving the liver, surgery involving the liver and BMT) for childhood cancer and hepatic late adverse effects. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2018, Issue 1), MEDLINE (1966 to January 2018) and Embase (1980 to January 2018). In addition, we searched reference lists of relevant articles and scanned the conference proceedings of the International Society of Paediatric Oncology (SIOP) (from 2005 to 2017) and American Society of Pediatric Hematology/Oncology (ASPHO) (from 2013 to 2018) electronically. 
+Selection criteria
+All studies, except case reports, case series, and studies including fewer than 10 patients that examined the association between antineoplastic treatment for childhood cancer (aged 18 years or less at diagnosis) and hepatic late adverse effects (one year or more after the end of treatment). 
+Data collection and analysis
+Two review authors independently performed the study selection and 'risk of bias' assessment. The 'risk of bias' assessment was based on earlier checklists for observational studies. For the original version of the review, two review authors independently performed data extraction. For the update of the review, the data extraction was performed by one reviewer and checked by another reviewer. 

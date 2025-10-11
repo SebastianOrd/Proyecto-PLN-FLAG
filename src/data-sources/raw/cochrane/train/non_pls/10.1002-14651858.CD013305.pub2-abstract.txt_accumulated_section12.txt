@@ -1,0 +1,12 @@
+Background
+Behavioural activation is a brief psychotherapeutic approach that seeks to change the way a person interacts with their environment. Behavioural activation is increasingly receiving attention as a potentially cost‐effective intervention for depression, which may require less resources and may be easier to deliver and implement than other types of psychotherapy. 
+Objectives
+To examine the effects of behavioural activation compared with other psychological therapies for depression in adults. 
+To examine the effects of behavioural activation compared with medication for depression in adults. 
+To examine the effects of behavioural activation compared with treatment as usual/waiting list/placebo no treatment for depression in adults. 
+Search methods
+We searched CCMD‐CTR (all available years), CENTRAL (current issue), Ovid MEDLINE (1946 onwards), Ovid EMBASE (1980 onwards), and Ovid PsycINFO (1806 onwards) on the 17 January 2020 to identify randomised controlled trials (RCTs) of 'behavioural activation', or the main elements of behavioural activation for depression in participants with clinically diagnosed depression or subthreshold depression. We did not apply any restrictions on date, language or publication status to the searches. We searched international trials registries via the World Health Organization's trials portal (ICTRP) and ClinicalTrials.gov to identify unpublished or ongoing trials. 
+Selection criteria
+We included randomised controlled trials (RCTs) of behavioural activation for the treatment of depression or symptoms of depression in adults aged 18 or over. We excluded RCTs conducted in inpatient settings and with trial participants selected because of a physical comorbidity. Studies were included regardless of reported outcomes. 
+Data collection and analysis
+Two review authors independently screened all titles/abstracts and full‐text manuscripts for inclusion. Data extraction and 'Risk of bias' assessments were also performed by two review authors in duplicate. Where necessary, we contacted study authors for more information. 

@@ -1,0 +1,14 @@
+Background
+The use of systemic immunotherapy targets is emerging as an important treatment option for metastatic urothelial carcinoma, particularly for patients who cannot tolerate or who fail cisplatin‐based chemotherapy. One such target is the inhibition of the checkpoint protein programmed cell death‐1 (PD‐1) receptor and its ligand (PD‐L1) by monoclonal antibodies. 
+Objectives
+To assess the effects of pembrolizumab monotherapy versus chemotherapy for treatment of advanced urothelial carcinoma with disease progression during or following platinum‐containing chemotherapy. 
+Search methods
+We performed a Cochrane Rapid Review, limiting our search to published studies in the English language. We searched databases of the medical literature, including the Cochrane Central Register of Controlled Trials and MEDLINE, as well as trial registries including ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP). Our search extended from January 2000 to June 2018. 
+Selection criteria
+We included randomised controlled trials except cross‐over trials and cluster randomised trials. We excluded all other study designs. Participants included had locally advanced or metastatic urothelial carcinoma of the bladder, with disease progression during or following platinum‐containing chemotherapy (synonymous with second‐/third‐/fourth‐line therapy). This review focused on pembrolizumab (synonyms: MK‐3475, lambrolizumab, Keytruda). 
+Data collection and analysis
+Two review authors independently classified and abstracted data from the included study. The certainty of evidence was rated according to the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. 
+Main results
+We identified one randomised controlled trial that included 542 participants, which compared the use of pembrolizumab monotherapy versus chemotherapy for the treatment of advanced urothelial carcinoma with disease progression during or following platinum‐containing chemotherapy. Results were reported after a median follow‐up of 14.1 months (range 9.9 to 22.1 months). 
+Primary outcomes 
+Pembrolizumab probably reduces the risk of death from any cause (hazard ratio (HR) 0.73, 95% confidence interval (CI) 0.59 to 0.90; moderate certainty evidence). This corresponds to 115 fewer deaths (191 fewer to 38 fewer) per 1000 participants with pembrolizumab at 12 months. We downgraded the certainty of evidence one level for imprecision. 

@@ -1,0 +1,10 @@
+Background
+The optimal duration of thromboprophylaxis after total hip or knee replacement, or hip fracture repair remains controversial. It is common practice to administer prophylaxis using low‐molecular‐weight heparin (LMWH) or unfractionated heparin (UFH) until discharge from hospital, usually seven to 14 days after surgery. International guidelines recommend extending thromboprophylaxis for up to 35 days following major orthopaedic surgery but the recommendation is weak due to moderate quality evidence. In addition, recent oral anticoagulants that exert effect by direct inhibition of thrombin or activated factor X lack the need for monitoring and have few known drug interactions. Interest in this topic remains high. 
+Objectives
+To assess the effects of extended‐duration anticoagulant thromboprophylaxis for the prevention of venous thromboembolism (VTE) in people undergoing elective hip or knee replacement surgery, or hip fracture repair. 
+Search methods
+The Cochrane Vascular Information Specialist searched the Specialised Register (last searched May 2015) and CENTRAL (2015, Issue 4). Clinical trials databases were searched for ongoing or unpublished studies. 
+Selection criteria
+Randomised controlled trials assessing extended‐duration thromboprophylaxis (five to seven weeks) using accepted prophylactic doses of LMWH, UFH, vitamin K antagonists (VKA) or direct oral anticoagulants (DOAC) compared with short‐duration thromboprophylaxis (seven to 14 days) followed by placebo, no treatment or similar extended‐duration thromboprophylaxis with LMWH, UFH, VKA or DOACs in participants undergoing hip or knee replacement or hip fracture repair. 
+Data collection and analysis
+We independently selected trials and extracted data. Disagreements were resolved by discussion. We performed fixed‐effect model meta‐analyses with odds ratios (ORs) and 95% confidence intervals (CIs). We used a random‐effects model when there was heterogeneity. 

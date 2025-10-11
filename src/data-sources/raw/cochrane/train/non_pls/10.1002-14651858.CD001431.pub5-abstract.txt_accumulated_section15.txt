@@ -1,0 +1,15 @@
+Background
+Decision aids are interventions that support patients by making their decisions explicit, providing information about options and associated benefits/harms, and helping clarify congruence between decisions and personal values. 
+Objectives
+To assess the effects of decision aids in people facing treatment or screening decisions.
+Search methods
+Updated search (2012 to April 2015) in CENTRAL; MEDLINE; Embase; PsycINFO; and grey literature; includes CINAHL to September 2008. 
+Selection criteria
+We included published randomized controlled trials comparing decision aids to usual care and/or alternative interventions. For this update, we excluded studies comparing detailed versus simple decision aids. 
+Data collection and analysis
+Two reviewers independently screened citations for inclusion, extracted data, and assessed risk of bias. Primary outcomes, based on the International Patient Decision Aid Standards (IPDAS), were attributes related to the choice made and the decision‐making process. 
+Secondary outcomes were behavioural, health, and health system effects.
+We pooled results using mean differences (MDs) and risk ratios (RRs), applying a random‐effects model. We conducted a subgroup analysis of studies that used the patient decision aid to prepare for the consultation and of those that used it in the consultation. We used GRADE to assess the strength of the evidence. 
+Main results
+We included 105 studies involving 31,043 participants. This update added 18 studies and removed 28 previously included studies comparing detailed versus simple decision aids. During the 'Risk of bias' assessment, we rated two items (selective reporting and blinding of participants/personnel) as mostly unclear due to inadequate reporting. Twelve of 105 studies were at high risk of bias. 
+With regard to the attributes of the choice made, decision aids increased participants' knowledge (MD 13.27/100; 95% confidence interval (CI) 11.32 to 15.23; 52 studies; N = 13,316; high‐quality evidence), accuracy of risk perceptions (RR 2.10; 95% CI 1.66 to 2.66; 17 studies; N = 5096; moderate‐quality evidence), and congruency between informed values and care choices (RR 2.06; 95% CI 1.46 to 2.91; 10 studies; N = 4626; low‐quality evidence) compared to usual care. 

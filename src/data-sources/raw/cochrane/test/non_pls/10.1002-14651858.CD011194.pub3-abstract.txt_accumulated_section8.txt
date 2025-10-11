@@ -1,0 +1,8 @@
+Background
+Functional dyspepsia (FD or non‐ulcer dyspepsia) is defined as continuous or frequently recurring epigastric pain or discomfort for which no organic cause can be found. Acid suppressive therapy, including proton pump inhibitors (PPIs), has been proposed as a therapeutic option in FD, but its efficacy remains controversial. While PPIs are generally considered safe and well tolerated, they have been associated with adverse events, especially in the long term. For this reason, decisions on whether to initiate or continue PPI therapy should be made based on an appropriate clinical indication. Therefore, we conducted a systematic review to evaluate whether PPI therapy provides symptomatic relief in FD. 
+Objectives
+To determine the efficacy of proton pump inhibitors in the improvement of global symptoms of dyspepsia and quality of life compared to placebo, H2 receptor antagonists or prokinetics, in people with functional dyspepsia. 
+Search methods
+We searched in the following electronic databases: the Cochrane Library (to May 2017), MEDLINE (OvidSP; to May 2017), Embase (OvidSP; to May 2017), and SIGLE grey literature (up to May 2017) and clinical trial registries; we handsearched abstracts from conferences up to May 2017. We screened non‐systematic reviews, systematic reviews and guidelines to identify any additional trials. We contacted trialists to obtain missing information. 
+Selection criteria
+All randomized controlled trials (RCTs) comparing any PPI with placebo, H2 receptor antagonists (H2RAs) or prokinetics for the treatment of FD of at least two weeks' duration. Participants were adults (aged 16 years or greater) with an adequate diagnosis of FD (any validated criteria such as Rome I, II, III or Lancet Working Group). 

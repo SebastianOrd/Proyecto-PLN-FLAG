@@ -1,0 +1,10 @@
+Background
+The use of mechanical thrombectomy to restore intracranial blood flow after proximal large artery occlusion by a thrombus has increased over time and led to better outcomes than intravenous thrombolytic therapy alone. Currently, the type of anaesthetic technique during mechanical thrombectomy is under debate as having a relevant impact on neurological outcomes. 
+Objectives
+To assess the effects of different types of anaesthesia for endovascular interventions in people with acute ischaemic stroke. 
+Search methods
+We searched the Cochrane Stroke Group Specialised Register of Trials on 5 July 2022, and CENTRAL, MEDLINE, and seven other databases on 21 March 2022. We performed searches of reference lists of included trials, grey literature sources, and other systematic reviews.  
+Selection criteria
+We included all randomised controlled trials with a parallel design that compared general anaesthesia versus local anaesthesia, conscious sedation anaesthesia, or monitored care anaesthesia for mechanical thrombectomy in acute ischaemic stroke. We also included studies reported as full‐text, those published as abstract only, and unpublished data. We excluded quasi‐randomised trials, studies without a comparator group, and studies with a retrospective design. 
+Data collection and analysis
+Two review authors independently applied the inclusion criteria, extracted data, and assessed the risk of bias and the certainty of the evidence using the GRADE approach. The outcomes were assessed at different time periods, ranging from the onset of the stroke symptoms to 90 days after the start of the intervention. The main outcomes were functional outcome, neurological impairment, stroke‐related mortality, all intracranial haemorrhage, target artery revascularisation status, time to revascularisation, adverse events, and quality of life. All included studies reported data for early (up to 30 days) and long‐term (above 30 days) time points. 

@@ -1,0 +1,9 @@
+Background
+Stroke is caused by the interruption of blood flow to the brain (ischemic stroke) or the rupture of blood vessels within the brain (hemorrhagic stroke) and may lead to changes in perception, cognition, mood, speech, health‐related quality of life, and function, such as difficulty walking and using the arm. Activity limitations (decreased function) of the upper extremity are a common finding for individuals living with stroke. Mental practice (MP) is a training method that uses cognitive rehearsal of activities to improve performance of those activities. 
+Objectives
+To determine whether MP improves outcomes of upper extremity rehabilitation for individuals living with the effects of stroke. 
+In particular, we sought to (1) determine the effects of MP on upper extremity activity, upper extremity impairment, activities of daily living, health‐related quality of life, economic costs, and adverse effects; and (2) explore whether effects differed according to (a) the time post stroke at which MP was delivered, (b) the dose of MP provided, or (c) the type of comparison performed. 
+Search methods
+We last searched the Cochrane Stroke Group Trials Register on September 17, 2019. On September 3, 2019, we searched the Cochrane Central Register of Controlled Trials (the Cochrane Library), MEDLINE, Embase, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), PsycINFO, Scopus, Web of Science, the Physiotherapy Evidence Database (PEDro), and REHABDATA. On October 2, 2019, we searched ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform. We reviewed the reference lists of included studies. 
+Selection criteria
+We included randomized controlled trials (RCTs) of adult participants with stroke who had deficits in upper extremity function (called upper extremity activity). 

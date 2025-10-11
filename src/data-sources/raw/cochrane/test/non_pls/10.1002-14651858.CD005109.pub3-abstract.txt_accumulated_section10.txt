@@ -1,0 +1,10 @@
+Background
+The etiology of Crohn’s disease remains unknown, nevertheless, it is apparent that inflammation is associated with an imbalance between proinflammatory and anti‐inflammatory cytokines produced within the intestinal mucosa. Crohn’s disease represents a state of dysregulated inflammation and drugs that can augment the anti‐inflammatory response have the potential to downregulate inflammation and thereby improve the disease. The efficacy of recombinant IL‐10 in Crohn's disease was first demonstrated in a pilot study. Since then other trials have evaluated its efficacy but the available evidence has not been systematically reviewed. 
+Objectives
+To determine the efficacy and tolerability of recombinant human interleukin 10 (IL‐10) for induction of remission in Crohn's disease. 
+Search methods
+A computer assisted search of the Cochrane Central Register of Controlled Trials and the Cochrane IBD/FBD Review Group Specialized Trials Register and the on‐line databases MEDLINE and EMBASE was performed to identify relevant publications up to September 2010. Reference lists were searched and the pharmaceutical industry and experts were contacted to identify additional studies. 
+Selection criteria
+Randomized controlled trials comparing recombinant human interleukin 10 to a placebo or control therapy for the treatment of patients with active Crohn's disease were included. 
+Data collection and analysis
+All publications identified by the search strategy were assessed independently by two authors, and relevant studies selected according to the inclusion criteria. The risk of bias of each included study was assessed independently by two authors. Data were analyzed using Review Manager (RevMan 5). A random effects model was used for pooling of data. All data were analyzed on an intention‐to‐treat basis. Heterogeneity among studies was assessed using the chi‐square test and the I2 statistic. 

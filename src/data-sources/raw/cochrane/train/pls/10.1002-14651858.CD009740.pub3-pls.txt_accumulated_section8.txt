@@ -1,0 +1,8 @@
+Devices with safety features for preventing percutaneous exposure injuries in healthcare staff 
+What is the aim of this review? 
+Healthcare workers use needles, syringes and other devices for collecting patients' bood and to inject drugs that are in liquid form. Sometimes healthcare workers come into contact with the sharp end of these devices by accident. Such instances are called needlestick injuries (NSI) and they may expose healthcare workers to the risk of serious infections such as hepatitis or human immunodeficiency virus (HIV). Safety features such as shields or retractable needles can help prevent these injuries. We searched in multiple databases for randomised (RCTs) and non‐randomised studies (NRS) that had evaluated these features. 
+Key messages 
+The evidence on safety devices preventing NSI is of low quality and inconsistent. The lack of a strong and consistent helpful effect could be due to bias. This does not mean that these devices are not effective. The risk of blood contamination may be greater. 
+More high‐quality experimental studies with groups of healthcare workers are needed to compare the effects and cost‐effectiveness of various types of safety devices on NSIs, especially in countries where both NSIs and blood‐borne infections are common. 
+What was studied in the review? 
+We included eight RCTs and 16 NRS. These studies evaluated the safety of blood collection systems, intravenous (IV) systems, injection systems, multiple devices, sharps containers and legislation. We estimated that one to five NSIs occur per 1000 workers every year without intervention. The risk of bias was high in 20 out of 24 studies. 

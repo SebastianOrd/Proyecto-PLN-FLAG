@@ -1,0 +1,10 @@
+Background
+Unconditional cash transfers (UCTs; provided without obligation) for reducing poverty and vulnerabilities (e.g. orphanhood, old age, or HIV infection) are a social protection intervention addressing a key social determinant of health (income) in low‐ and middle‐income countries (LMICs). The relative effectiveness of UCTs compared with conditional cash transfers (CCTs; provided only if recipients follow prescribed behaviours, e.g. use a health service or attend school) is unknown. 
+Objectives
+To assess the effects of UCTs on health services use and health outcomes in children and adults in LMICs. Secondary objectives are to assess the effects of UCTs on social determinants of health and healthcare expenditure, and to compare the effects of UCTs versus CCTs. 
+Search methods
+For this update, we searched 15 electronic academic databases, including CENTRAL, MEDLINE and EconLit, in September 2021. We also searched four electronic grey literature databases, websites of key organisations and reference lists of previous systematic reviews, key journals and included study records. 
+Selection criteria
+We included both parallel‐group and cluster‐randomised controlled trials (C‐RCTs), quasi‐RCTs, cohort studies, controlled before‐and‐after studies (CBAs), and interrupted time series studies of UCT interventions in children (0 to 17 years) and adults (≥ 18 years) in LMICs. Comparison groups received either no UCT, a smaller UCT or a CCT. Our primary outcomes were any health services use or health outcome. 
+Data collection and analysis
+Two review authors independently screened potentially relevant records for inclusion, extracted data and assessed the risk of bias. We obtained missing data from study authors if feasible. For C‐RCTs, we generally calculated risk ratios for dichotomous outcomes from crude frequency measures in approximately correct analyses. Meta‐analyses applied the inverse variance or Mantel‐Haenszel method using a random‐effects model. Where meta‐analysis was impossible, we synthesised results using vote counting based on effect direction. We assessed the certainty of the evidence using GRADE. 

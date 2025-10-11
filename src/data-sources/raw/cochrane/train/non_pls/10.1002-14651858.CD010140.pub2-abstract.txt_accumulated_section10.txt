@@ -1,0 +1,10 @@
+Background
+The central venous catheter (CVC) is a device used for many functions, including monitoring haemodynamic indicators and administering intravenous medications, fluids, blood products and parenteral nutrition. However, as a foreign object, it is susceptible to colonisation by micro‐organisms, which may lead to catheter‐related blood stream infection (BSI) and in turn, increased mortality, morbidities and health care costs. 
+Objectives
+To assess the effects of skin antisepsis as part of CVC care for reducing catheter‐related BSIs, catheter colonisation, and patient mortality and morbidities. 
+Search methods
+In May 2016 we searched: The Cochrane Wounds Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE (including In‐Process & Other Non‐Indexed Citations and Epub Ahead of Print); Ovid EMBASE and EBSCO CINAHL Plus. We also searched clinical trial registries for ongoing and unpublished studies. There were no restrictions with respect to language, date of publication or study setting. 
+Selection criteria
+We included randomised controlled trials (RCTs) that assessed any type of skin antiseptic agent used either alone or in combination, compared with one or more other skin antiseptic agent(s), placebo or no skin antisepsis in patients with a CVC in place. 
+Data collection and analysis
+Two authors independently assessed the studies for their eligibility, extracted data and assessed risk of bias. We expressed our results in terms of risk ratio (RR), absolute risk reduction (ARR) and number need to treat for an additional beneficial outcome (NNTB) for dichotomous data, and mean difference (MD) for continuous data, with 95% confidence intervals (CIs). 

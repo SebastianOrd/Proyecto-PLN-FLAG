@@ -1,0 +1,12 @@
+Background
+Antipsychotic (neuroleptic) medication is used extensively to treat people with chronic mental illnesses. Its use, however, is associated with adverse effects, including movement disorders such as tardive dyskinesia (TD) ‐ a problem often seen as repetitive involuntary movements around the mouth and face. This review, one in a series examining the treatment of TD, covers miscellaneous treatments not covered elsewhere. 
+Objectives
+To determine whether drugs, hormone‐, dietary‐, or herb‐supplements not covered in other Cochrane reviews on TD treatments, surgical interventions, electroconvulsive therapy, and mind‐body therapies were effective and safe for people with antipsychotic‐induced TD. 
+Search methods
+We searched the Cochrane Schizophrenia Group’s Study‐Based Register of Trials including trial registers (16 July 2015 and 26 April 2017), inspected references of all identified studies for further trials and contacted authors of trials for additional information. 
+Selection criteria
+We included reports if they were randomised controlled trials (RCTs) dealing with people with antipsychotic‐induced TD and schizophrenia or other chronic mental illnesses who remained on their antipsychotic medication and had been randomly allocated to the interventions listed above versus placebo, no intervention, or any other intervention. 
+Data collection and analysis
+We independently extracted data from these trials and we estimated risk ratios (RR) or mean differences (MD), with 95% confidence intervals (CIs). We assumed that people who left early had no improvement. We assessed risk of bias and created 'Summary of findings' tables using GRADE. 
+Main results
+We included 31 RCTs of 24 interventions with 1278 participants; 22 of these trials were newly included in this 2017 update. Five trials are awaiting classification and seven trials are ongoing. All participants were adults with chronic psychiatric disorders, mostly schizophrenia, and antipsychotic‐induced TD. Studies were primarily of short (three to six6 weeks) duration with small samples size (10 to 157 participants), and most (61%) were published more than 20 years ago. The overall risk of bias in these studies was unclear, mainly due to poor reporting of allocation concealment, generation of the sequence, and blinding. 

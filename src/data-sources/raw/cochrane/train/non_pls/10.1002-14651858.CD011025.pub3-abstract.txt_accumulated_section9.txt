@@ -1,0 +1,9 @@
+Background
+Epilepsy is a highly prevalent neurological condition characterised by repeated unprovoked seizures with various aetiologies. Although antiepileptic medications produce clinical improvement in many individuals, nearly a third of individuals have drug‐resistant epilepsy that carries significant morbidity and mortality, and even individuals who have clinical improvement from antiepileptic medications often report iatrogenic symptoms. There remains a need for non‐invasive and more effective therapies for this population. Transcranial magnetic stimulation (TMS) uses electromagnetic coils to excite or inhibit neurons, with repetitive pulses at low‐frequency producing an inhibitory effect that could conceivably reduce cortical excitability associated with epilepsy. 
+This is an updated version of the original Cochrane Review published in 2016.
+Objectives
+To assess the evidence for the use of TMS in individuals with drug‐resistant epilepsy compared with other available treatments in reducing seizure frequency, improving quality of life, reducing epileptiform discharges, antiepileptic medication use, and side effects. 
+Search methods
+For the latest update, we searched the Cochrane Register of Studies (CRS Web) and MEDLINE (Ovid 1946 to 2 June 2020). CRS Web includes randomised or quasi‐randomised controlled trials from PubMed, Embase, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP), the Cochrane Central Register of Controlled Trials (CENTRAL), and the specialised registers of Cochrane Review Groups including Epilepsy. 
+Selection criteria
+We included randomised controlled trials that were double‐blinded, single‐blinded, or unblinded, and placebo controlled, no treatment, or active controlled, which used repetitive transcranial magnetic stimulation (rTMS) without restriction of frequency, coil, duration or intensity on participants with drug‐resistant epilepsy. 

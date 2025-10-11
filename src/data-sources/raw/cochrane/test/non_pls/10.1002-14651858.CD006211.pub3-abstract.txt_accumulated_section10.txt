@@ -1,0 +1,10 @@
+Background
+Comprehensive geriatric assessment (CGA) is a multi‐dimensional, multi‐disciplinary diagnostic and therapeutic process conducted to determine the medical, mental, and functional problems of older people with frailty so that a co‐ordinated and integrated plan for treatment and follow‐up can be developed. This is an update of a previously published Cochrane review. 
+Objectives
+We sought to critically appraise and summarise current evidence on the effectiveness and resource use of CGA for older adults admitted to hospital, and to use these data to estimate its cost‐effectiveness. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, three other databases, and two trials registers on 5 October 2016; we also checked reference lists and contacted study authors. 
+Selection criteria
+We included randomised trials that compared inpatient CGA (delivered on geriatric wards or by mobile teams) versus usual care on a general medical ward or on a ward for older people, usually admitted to hospital for acute care or for inpatient rehabilitation after an acute admission. 
+Data collection and analysis
+We followed standard methodological procedures expected by Cochrane and Effective Practice and Organisation of Care (EPOC). We used the GRADE approach to assess the certainty of evidence for the most important outcomes. For this update, we requested individual patient data (IPD) from trialists, and we conducted a survey of trialists to obtain details of delivery of CGA. We calculated risk ratios (RRs), mean differences (MDs), or standardised mean differences (SMDs), and combined data using fixed‐effect meta‐analysis. We estimated cost‐effectiveness by comparing inpatient CGA versus hospital admission without CGA in terms of cost per quality‐adjusted life year (QALY) gained, cost per life year (LY) gained, and cost per life year living at home (LYLAH) gained. 

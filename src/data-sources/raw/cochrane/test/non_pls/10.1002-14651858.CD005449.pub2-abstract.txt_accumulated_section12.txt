@@ -1,0 +1,12 @@
+Background
+Cardiovascular disease (CVD) is the most prevalent complication of type 2 diabetes with an estimated 65% of people with type 2 diabetes dying from a cause related to atherosclerosis. Adenosine‐diphosphate (ADP) receptor antagonists like clopidogrel, ticlopidine, prasugrel and ticagrelor impair platelet aggregation and fibrinogen‐mediated platelet cross‐linking and may be effective in preventing CVD. 
+Objectives
+To assess the effects of adenosine‐diphosphate (ADP) receptor antagonists for the prevention of cardiovascular disease in type 2 diabetes mellitus. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (issue 2, 2011), MEDLINE (until April 2011) and EMBASE (until May 2011). We also performed a manual search, checking references of original articles and pertinent reviews to identify additional studies. 
+Selection criteria
+Randomised controlled trials comparing an ADP receptor antagonist with another antiplatelet agent or placebo for a minimum of 12 months in patients with diabetes. In particular, we looked for trials assessing clinical cardiovascular outcomes. 
+Data collection and analysis
+Two review authors extracted data for studies which fulfilled the inclusion criteria, using standard data extraction templates. We sought additional unpublished information and data from the principal investigators of all included studies. 
+Main results
+Eight studies with a total of 21,379 patients with diabetes were included. Three included studies investigated ticlopidine compared to aspirin or placebo. Five included studies investigated clopidogrel compared to aspirin or a combination of aspirin and dipyridamole, or compared clopidogrel in combination with aspirin to aspirin alone. All trials included patients with previous CVD except the CHARISMA trial which included patients with multiple risk factors for coronary artery disease. Overall the risk of bias of the trials was low. The mean duration of follow‐up ranged from 365 days to 913 days. 

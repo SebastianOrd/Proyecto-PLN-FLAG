@@ -1,0 +1,10 @@
+Background
+Total hip replacement (THR) is an effective treatment for reducing pain and improving function and quality of life in patients with hip disorders. While this operation is very successful, deep vein thrombosis (DVT) and pulmonary embolism (PE) are significant complications after THR. Different types of intermittent pneumatic compression (IPC) devices have been used for thrombosis prophylaxis in patients following THR. Available devices differ in compression garments, location of air bladders, patterns of pump pressure cycles, compression profiles, cycle length, duration of inflation time and deflation time, or cycling mode such as automatic or constant cycling devices. Despite the widely accepted use of IPC for the treatment of arterial and venous diseases, the relative effectiveness of different types of IPC systems as prophylaxis against thrombosis after THR is still unclear. 
+Objectives
+To assess the comparative effectiveness and safety of different IPC devices with respect to the prevention of venous thromboembolism in patients after THR. 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Coordinator searched the Specialised Register (November 2014), CENTRAL (2014, Issue 10). Clinical trial databases were searched for details of ongoing and unpublished studies. Reference lists of relevant articles were also screened. There were no limits imposed on language or publication status. 
+Selection criteria
+Randomized and quasi‐randomized controlled studies were eligible for inclusion.
+Data collection and analysis
+Two review authors independently selected trials, assessed trials for eligibility and methodological quality, and extracted data. Disagreement was resolved by discussion or, if necessary, referred to a third review author. 

@@ -1,0 +1,16 @@
+Background
+Rosacea is a common chronic skin condition affecting the face, characterised by flushing, redness, pimples, pustules and dilated blood vessels. The eyes are often involved and thickening of the skin with enlargement (phymas), especially of the nose, can occur in some people. A range of treatment options are available but it is unclear which are most effective. 
+Objectives
+To assess the efficacy and safety of treatments for rosacea.
+Search methods
+We updated our searches, to July 2014, of: the Cochrane Skin Group Specialised Register, CENTRAL in The Cochrane Library (2014, Issue 6), MEDLINE (from 1946), EMBASE (from 1974) and Science Citation Index (from 1988). We searched five trials registers and checked reference lists for further relevant studies. 
+Selection criteria
+Randomised controlled trials in people with moderate to severe rosacea.
+Data collection and analysis
+Study selection, data extraction, risk of bias assessment and analyses were carried out independently by two authors. 
+Main results
+We included 106 studies, comprising 13,631 participants. Sample sizes of 30‐100 and study duration of two to three months were most common. More women than men were included, mean age of 48.6 years, and the majority had papulopustular rosacea, followed by erythematotelangiectatic rosacea. 
+A wide range of comparisons (67) were evaluated. Topical interventions: metronidazole, azelaic acid, ivermectin, brimonidine or other topical treatments. Systemic interventions: oral antibiotics, combinations with topical treatments or other systemic treatments, i.e. isotretinoin. Several studies evaluated laser or light‐based treatment. 
+The majority of studies (57/106) were assessed as 'unclear risk of bias', 37 'high risk ' and 12 'low risk'. Twenty‐two studies provided no usable or retrievable data i.e. none of our outcomes were addressed, no separate data reported for rosacea or limited data in abstracts. 
+Eleven studies assessed our primary outcome 'change in quality of life', 52 studies participant‐assessed changes in rosacea severity and almost all studies addressed adverse events, although often only limited data were provided. In most comparisons there were no statistically significant differences in number of adverse events, most were mild and transient. Physician assessments including investigators' global assessments, lesion counts and erythema were evaluated in three‐quarters of the studies, but time needed for improvement and duration of remission were incompletely or not reported. 
+The quality of the body of evidence was rated moderate to high for most outcomes, but for some outcomes low to very low. 

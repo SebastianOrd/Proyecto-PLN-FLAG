@@ -1,0 +1,16 @@
+Background
+Induction of labour is carried out for a variety of indications and using a range of methods. For women at low risk of pregnancy complications, some methods of induction of labour or cervical ripening may be suitable for use in outpatient settings. 
+Objectives
+To examine pharmacological and mechanical interventions to induce labour or ripen the cervix in outpatient settings in terms of effectiveness, maternal satisfaction, healthcare costs and, where information is available, safety. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group’s Trials Register (30 November 2016) and reference lists of retrieved studies. 
+Selection criteria
+We included randomised controlled trials examining outpatient cervical ripening or induction of labour with pharmacological agents or mechanical methods. Cluster trials were eligible for inclusion. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. We assessed evidence using the GRADE approach. 
+Main results
+This updated review included 34 studies of 11 different methods for labour induction with 5003 randomised women, where women received treatment at home or were sent home after initial treatment and monitoring in hospital. 
+Studies examined vaginal and intracervical prostaglandin E₂ (PGE₂), vaginal and oral misoprostol, isosorbide mononitrate, mifepristone, oestrogens, amniotomy and acupuncture, compared with placebo, no treatment, or routine care. Trials generally recruited healthy women with a term pregnancy. The risk of bias was mostly low or unclear, however, in 16 trials blinding was unclear or not attempted. In general, limited data were available on the review's main and additional outcomes. Evidence was graded low to moderate quality. 
+1. Vaginal PGE₂ versus expectant management or placebo (5 studies) 
+Fewer women in the vaginal PGE₂ group needed additional induction agents to induce labour, however, confidence intervals were wide (risk ratio (RR) 0.52, 95% confidence interval (CI) 0.27 to 0.99; 150 women; 2 trials). There were no clear differences between groups in uterine hyperstimulation (with or without fetal heart rate (FHR) changes) (RR 3.76, 95% CI 0.64 to 22.24; 244 women; 4 studies; low‐quality evidence), caesarean section (RR 0.80, 95% CI 0.49 to 1.31; 288 women; 4 studies; low‐quality evidence), or admission to a neonatal intensive care unit (NICU) (RR 0.32, 95% CI 0.10 to 1.03; 230 infants; 3 studies; low‐quality evidence). 
+There was no information on vaginal birth within 24, 48 or 72 hours, length of hospital stay, use of emergency services or maternal or caregiver satisfaction. Serious maternal and neonatal morbidity or deaths were not reported. 

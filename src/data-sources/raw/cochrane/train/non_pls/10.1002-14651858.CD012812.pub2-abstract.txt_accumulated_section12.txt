@@ -1,0 +1,12 @@
+Background
+People with advanced ovarian or gastrointestinal cancer may develop malignant bowel obstruction (MBO). They are able to tolerate limited, if any, oral or enteral (via a tube directly into the gut) nutrition. Parenteral nutrition (PN) is the provision of macronutrients, micronutrients, electrolytes and fluid infused as an intravenous solution and provides a method for these people to receive nutrients. There are clinical and ethical arguments for and against the administration of PN to people receiving palliative care. 
+Objectives
+To assess the effectiveness of home parenteral nutrition (HPN) in improving survival and quality of life in people with inoperable MBO. 
+Search methods
+We searched the following electronic databases: Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 1), MEDLINE (Ovid), Embase (Ovid), BNI, CINAHL, Web of Science and NHS Economic Evaluation and Health Technology Assessment up to January 2018, ClinicalTrials.gov (http://clinicaltrials.gov/) and in the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) search portal (http://apps.who.int/trialsearch/). In addition, we handsearched included studies and used the ‘Similar articles’ feature on PubMed for included articles. 
+Selection criteria
+We included any studies with more than five participants investigating HPN in people over 16 years of age with inoperable MBO. 
+Data collection and analysis
+We extracted the data and assessed risk of bias for each study. We entered data into Review Manager 5 and used GRADEpro to assess the quality of the evidence. 
+Main results
+We included 13 studies with a total of 721 participants in the review. The studies were observational, 12 studies had only one relevant treatment arm and no control and for the one study with a control arm, very few details were given. The risk of bias was high and the certainty of evidence was graded as very low for all outcomes. Due to heterogeneity of data, meta‐analysis was not performed and therefore the data were synthesised via a narrative summary. 

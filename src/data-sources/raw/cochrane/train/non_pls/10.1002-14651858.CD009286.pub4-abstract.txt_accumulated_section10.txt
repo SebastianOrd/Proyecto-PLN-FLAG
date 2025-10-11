@@ -1,0 +1,10 @@
+Background
+Selective serotonin reuptake inhibitors (SSRIs) might theoretically reduce post‐stroke disability by direct effects on the brain. This Cochrane Review was first published in 2012 and last updated in 2019. 
+Objectives
+To determine if SSRIs are more effective than placebo or usual care at improving outcomes in people less than 12 months post‐stroke, and to determine whether treatment with SSRIs is associated with adverse effects. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched 7 January 2021), Cochrane Controlled Trials Register (CENTRAL, Issue 7 of 12, 7 January 2021), MEDLINE (1946 to 7 January 2021), Embase (1974 to 7 January 2021), CINAHL (1982 to 7 January 2021), PsycINFO (1985 to 7 January 2021), and AMED (1985 to 7 January 2021). PsycBITE had previously been searched (16 July 2018). We searched clinical trials registers. 
+Selection criteria
+We included randomised controlled trials (RCTs) recruiting stroke survivors within the first year. The intervention was any SSRI, at any dose, for any period, and for any indication. The comparator was usual care or placebo. Studies reporting at least one of our primary (disability score or independence) or secondary outcomes (impairments, depression, anxiety, quality of life, fatigue, cognition, healthcare cost, death, adverse events and leaving the study early) were included in the meta‐analysis. The primary analysis included studies at low risk of bias. 
+Data collection and analysis
+We extracted data on demographics, stroke type and, our pre‐specified outcomes, and bias sources. Two review authors independently extracted data. We used mean difference (MD) or standardised mean differences (SMDs) for continuous variables, and risk ratios (RRs) for dichotomous variables, with 95% confidence intervals (CIs). We assessed bias risks and applied GRADE criteria. 

@@ -1,0 +1,10 @@
+Background
+The projected rise in the incidence of type 2 diabetes mellitus (T2DM) could develop into a substantial health problem worldwide. Whether dipeptidyl‐peptidase (DPP)‐4 inhibitors or glucagon‐like peptide (GLP)‐1 analogues are able to prevent or delay T2DM and its associated complications in people at risk for the development of T2DM is unknown. 
+Objectives
+To assess the effects of DPP‐4 inhibitors and GLP‐1 analogues on the prevention or delay of T2DM and its associated complications in people with impaired glucose tolerance, impaired fasting blood glucose, moderately elevated glycosylated haemoglobin A1c (HbA1c) or any combination of these. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials; MEDLINE; PubMed; Embase; ClinicalTrials.gov; the World Health Organization (WHO) International Clinical Trials Registry Platform; and the reference lists of systematic reviews, articles and health technology assessment reports. We asked investigators of the included trials for information about additional trials. The date of the last search of all databases was January 2017. 
+Selection criteria
+We included randomised controlled trials (RCTs) with a duration of 12 weeks or more comparing DPP‐4 inhibitors and GLP‐1 analogues with any pharmacological glucose‐lowering intervention, behaviour‐changing intervention, placebo or no intervention in people with impaired fasting glucose, impaired glucose tolerance, moderately elevated HbA1c or combinations of these. 
+Data collection and analysis
+Two review authors read all abstracts and full‐text articles and records, assessed quality and extracted outcome data independently. One review author extracted data which were checked by a second review author. We resolved discrepancies by consensus or the involvement of a third review author. For meta‐analyses, we planned to use a random‐effects model with investigation of risk ratios (RRs) for dichotomous outcomes and mean differences (MDs) for continuous outcomes, using 95% confidence intervals (CIs) for effect estimates. We assessed the overall quality of the evidence using the GRADE instrument. 

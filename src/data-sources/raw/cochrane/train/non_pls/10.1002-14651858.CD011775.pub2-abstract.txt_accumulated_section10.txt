@@ -1,0 +1,10 @@
+Background
+Many nations require child‐serving professionals to report known or suspected cases of significant child abuse and neglect to statutory child protection or safeguarding authorities. Considered globally, there are millions of professionals who fulfil these roles, and many more who will do so in future. Ensuring they are trained in reporting child abuse and neglect is a key priority for nations and organisations if efforts to address violence against children are to succeed. 
+Objectives
+To assess the effectiveness of training aimed at improving reporting of child abuse and neglect by professionals and to investigate possible components of effective training interventions. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, 18 other databases, and one trials register up to 4 June 2021. We also handsearched reference lists, selected journals, and websites, and circulated a request for studies to researchers via an email discussion list. 
+Selection criteria
+All randomised controlled trials (RCTs), quasi‐RCTs, and controlled before‐and‐after studies examining the effects of training interventions for qualified professionals (e.g. teachers, childcare professionals, doctors, nurses, and mental health professionals) to improve reporting of child abuse and neglect, compared with no training, waitlist control, or alternative training (not related to child abuse and neglect).  
+Data collection and analysis
+We used methodological procedures described in the Cochrane Handbook for Systematic Reviews of Interventions. We synthesised training effects in meta‐analysis where possible and summarised findings for primary outcomes (number of reported cases of child abuse and neglect, quality of reported cases, adverse events) and secondary outcomes (knowledge, skills, and attitudes towards the reporting duty). We used the GRADE approach to rate the certainty of the evidence.  

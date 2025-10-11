@@ -1,0 +1,10 @@
+Background
+Fluid therapy is one of the main interventions provided for critically ill patients, although there is no general consensus regarding the type of solution. Among crystalloid solutions, 0.9% saline is the most commonly administered. Buffered solutions may offer some theoretical advantages (less metabolic acidosis, less electrolyte disturbance), but the clinical relevance of these remains unknown. 
+Objectives
+To assess the effects of buffered solutions versus 0.9% saline for resuscitation in critically ill adults and children. 
+Search methods
+We searched the following databases to July 2018: CENTRAL, MEDLINE, Embase, CINAHL, and four trials registers. We checked references, conducted backward and forward citation searching of relevant articles, and contacted study authors to identify additional studies. We imposed no language restrictions. 
+Selection criteria
+We included randomized controlled trials (RCTs) with parallel or cross‐over design examining buffered solutions versus intravenous 0.9% saline in a critical care setting (resuscitation or maintenance). We included studies on participants with critical illness (including trauma and burns) or undergoing emergency surgery during critical illness who required intravenous fluid therapy. We included studies of adults and children. We included studies with more than two arms if they fulfilled all of our inclusion criteria. We excluded studies performed in persons undergoing elective surgery and studies with multiple interventions in the same arm. 
+Data collection and analysis
+We used Cochrane's standard methodological procedures. We assessed our intervention effects using random‐effects models, but when one or two trials contributed to 75% of randomized participants, we used fixed‐effect models. We reported outcomes with 95% confidence intervals (CIs). 

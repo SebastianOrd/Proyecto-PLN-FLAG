@@ -1,0 +1,10 @@
+Background
+Treatment of cancer is increasingly more effective but is associated with short and long term side effects. Oral side effects remain a major source of illness despite the use of a variety of agents to prevent and treat them. One of these side effects is oral candidiasis. 
+Objectives
+To assess the effectiveness of interventions (which may include placebo or no treatment) for the prevention of oral candidiasis for patients with cancer receiving chemotherapy or radiotherapy or both. 
+Search methods
+Computerised searches of Cochrane Oral Health Group and PaPaS Trials Registers, CENTRAL, MEDLINE, EMBASE, CINAHL, CANCERLIT, SIGLE and LILACS were undertaken. Reference lists from relevant articles were searched and the authors of eligible trials were contacted to identify trials and obtain additional information. Date of the most recent searches: 3 August 2009: CENTRAL (The Cochrane Library 2009, Issue 3). 
+Selection criteria
+Trials were selected if they met the following criteria: design ‐ random allocation of participants; participants ‐ anyone receiving chemotherapy or radiotherapy treatment for cancer; interventions ‐ agents prescribed to prevent oral candidiasis; primary outcome ‐ prevention of oral candidiasis. 
+Data collection and analysis
+Data were recorded on the following secondary outcomes if present: relief of pain, amount of analgesia, relief of dysphagia, incidence of systemic infection, duration of stay in hospital (days), cost of oral care, patient quality of life, death, use of empirical antifungal treatment, toxicity and compliance. Information regarding methods, participants, interventions, outcome measures and results were independently extracted, in duplicate, by two review authors. The Cochrane Collaboration statistical guidelines were followed and risk ratios (RR) calculated using random‐effects models. Potential sources of heterogeneity were examined in random‐effects metaregression analyses. 

@@ -1,0 +1,12 @@
+Background
+Because of the high number of people with schizophrenia not responding adequately to monotherapy with antipsychotic agents, the evidence regarding the efficacy and safety of additional medication was examined in a number of clinical trials. One approach to this research question was the use of benzodiazepines, as monotherapy as well as in combination with antipsychotics. 
+Objectives
+To determine the efficacy, acceptability, and tolerability of benzodiazepines in people with schizophrenia and schizophrenia‐like psychoses. 
+Search methods
+In February 2011, we updated the literature search of the previous version of this systematic review (last search March 2005). We searched the trial register of the Cochrane Schizophrenia Group (containing methodical searches of BIOSIS, CINAHL, Dissertation abstracts, EMBASE, LILACS, MEDLINE, PSYNDEX, PsycINFO, RUSSMED, Sociofile, supplemented with hand searching of relevant journals and numerous conference proceedings). Additionally, we inspected references of all identified studies for further relevant studies and contacted authors of relevant publications in order to obtain missing data from existing trials. We applied no language restrictions. 
+Selection criteria
+We included all randomised controlled trials comparing benzodiazepines (as monotherapy or as adjunctive agent) with antipsychotic drugs or placebo for the pharmacological management of schizophrenia and/or schizophrenia‐like psychoses. 
+Data collection and analysis
+Review authors (MD and CL) analysed independently the new references of the update‐search referring to the inclusion criteria. MD and CL extracted all data from the included trials.   For dichotomous outcomes we calculated risk ratios (RR) and their 95% confidence intervals (CI). We analysed continuous data by using mean differences (MD) and their 95% CI. We assessed each pre‐selected outcome from the included trials with the risk of bias tool. 
+Main results
+The 2011 update search yielded three further randomised controlled trials. The review currently includes 34 studies with 2657 participants. Most studies were characterised by a small sample size, short duration, and incomplete outcome data reporting. 

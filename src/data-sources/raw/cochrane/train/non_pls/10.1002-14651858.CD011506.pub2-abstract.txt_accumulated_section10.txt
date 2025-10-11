@@ -1,0 +1,10 @@
+Background
+Cerebral injury and long‐term neurodevelopmental impairment is common in extremely preterm infants. Cerebral near‐infrared spectroscopy (NIRS) enables continuous estimation of cerebral oxygenation. This diagnostic method coupled with appropriate interventions if NIRS is out of normal range (that is cerebral oxygenation within the 55% to 85% range) may offer benefits without causing more harms. Therefore, NIRS coupled with appropriate responses to abnormal findings on NIRS needs assessment in a systematic review of randomised clinical trials and quasi‐randomised studies. 
+Objectives
+To evaluate the benefits and harms of interventions that attempt to alter cerebral oxygenation guided by cerebral NIRS monitoring in order to prevent cerebral injury, improve neurological outcome, and increase survival in preterm infants born more than 8 weeks preterm. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 8), MEDLINE via PubMed (1966 to 10 September 2016), Embase (1980 to 10 September 2016), and CINAHL (1982 to 10 September 2016). We also searched clinical trial databases, conference proceedings, and the reference lists of retrieved articles for randomised clinical trials and quasi‐randomised studies. 
+Selection criteria
+Randomised clinical trials and quasi‐randomised clinical studies comparing continuous cerebral NIRS monitoring for at least 24 hours versus blinded NIRS or versus no NIRS monitoring. 
+Data collection and analysis
+Two review authors independently selected, assessed the quality of, and extracted data from the included trials and studies. If necessary, we contacted authors for further information. We conducted assessments of risks of bias; risks of design errors; and controlled the risks of random errors with Trial Sequential Analysis. We assessed the quality of the evidence with GRADE. 

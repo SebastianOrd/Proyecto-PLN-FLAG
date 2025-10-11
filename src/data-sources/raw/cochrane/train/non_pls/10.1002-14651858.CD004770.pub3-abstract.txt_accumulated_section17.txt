@@ -1,0 +1,17 @@
+Background
+Delirium is a syndrome characterised by an acute disturbance of attention and awareness which develops over a short time period and fluctuates in severity over the course of the day. It is commonly experienced during inpatient admission in the terminal phase of illness. It can cause symptoms such as agitation and hallucinations and is distressing for terminally ill people, their families and staff. Delirium may arise from any number of causes and treatment should aim to address these causes. When this is not possible, or treatment is unsuccessful, drug therapy to manage the symptoms may become necessary. 
+This is the second update of the review first published in 2004.
+Objectives
+To evaluate the effectiveness and safety of drug therapies to manage delirium symptoms in terminally ill adults. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL and PsycINFO from inception to July 2019, reference lists of retrieved papers, and online trial registries. 
+Selection criteria
+We included randomised controlled trials of drug therapies in any dose by any route, compared to another drug therapy, a non‐pharmacological approach, placebo, standard care or wait‐list control, for the management of delirium symptoms in terminally ill adults (18 years or older). 
+Data collection and analysis
+We independently screened citations, extracted data and assessed risk of bias. Primary outcomes were delirium symptoms; agitation score; adverse events. Secondary outcomes were: use of rescue medication; cognitive status; survival. We applied the GRADE approach to assess the overall quality of the evidence for each outcome and we include eight 'Summary of findings' tables. 
+Main results
+We included four studies (three new to this update), with 399 participants. Most participants had advanced cancer or advanced AIDS, and mild‐ to moderate‐severity delirium. Meta‐analysis was not possible because no two studies examined the same comparison. Each study was at high risk of bias for at least one criterion. Most evidence was low to very low quality, downgraded due to very serious study limitations, imprecision or because there were so few data. Most studies reported delirium symptoms; two reported agitation scores; three reported adverse events with data on extrapyramidal effects; and none reported serious adverse events. 
+1. Haloperidol versus placebo 
+There may be little to no difference between placebo and haloperidol in delirium symptoms within 24 hours (mean difference (MD) 0.34, 95% confidence interval (CI) −0.07 to 0.75; 133 participants). Haloperidol may slightly worsen delirium symptoms compared with placebo at 48 hours (MD 0.49, 95% CI 0.10 to 0.88; 123 participants with mild‐ to moderate‐severity delirium). 
+Haloperidol may reduce agitation slightly compared with placebo between 24 and 48 hours (MD −0.14, 95% −0.28 to −0.00; 123 participants with mild‐ to moderate‐severity delirium). 
+Haloperidol probably increases extrapyramidal adverse effects compared with placebo (MD 0.79, 95% CI 0.17 to 1.41; 123 participants with mild‐ to moderate‐severity delirium). 

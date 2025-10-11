@@ -1,0 +1,12 @@
+Background
+Venous thromboembolism (VTE) often complicates the clinical course of cancer. The risk is further increased by chemotherapy, but the trade‐off between safety and efficacy of primary thromboprophylaxis in cancer patients treated with chemotherapy is uncertain. This is the third update of a review first published in February 2012. 
+Objectives
+To assess the efficacy and safety of primary thromboprophylaxis for VTE in ambulatory cancer patients receiving chemotherapy compared with placebo or no thromboprophylaxis, or an active control intervention. 
+Search methods
+For this update, the Cochrane Vascular Information Specialist searched the Cochrane Vascular, CENTRAL, MEDLINE, Embase and CINAHL databases and World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers to 3 August 2020. We also searched the reference lists of identified studies and contacted content experts and trialists for relevant references. 
+Selection criteria
+Randomised controlled trials comparing any oral or parenteral anticoagulant or mechanical intervention to no thromboprophylaxis or placebo, or comparing two different anticoagulants. 
+Data collection and analysis
+We extracted data on risk of bias, participant characteristics, interventions, and outcomes including symptomatic VTE and major bleeding as the primary effectiveness and safety outcomes, respectively. We applied GRADE to assess the certainty of evidence. 
+Main results
+We identified six additional randomised controlled trials (3326 participants) for this update, bringing the included study total to 32 (15,678 participants), all evaluating pharmacological interventions and performed mainly in people with locally advanced or metastatic cancer. The certainty of the evidence ranged from high to very low across the different outcomes and comparisons. The main limiting factors were imprecision and risk of bias. 

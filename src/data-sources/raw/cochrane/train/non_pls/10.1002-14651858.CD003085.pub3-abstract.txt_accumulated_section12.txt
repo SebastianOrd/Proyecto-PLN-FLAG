@@ -1,0 +1,12 @@
+Background
+Around 30% of people who are admitted to hospital with aneurysmal subarachnoid haemorrhage (SAH) will rebleed in the initial month after the haemorrhage if the aneurysm is not treated. The two most commonly used methods to occlude the aneurysm for prevention of rebleeding are microsurgical clipping of the neck of the aneurysm and occlusion of the lumen of the aneurysm by means of endovascular coiling. This is an update of a systematic review that was previously published in 2005. 
+Objectives
+To compare the effects of endovascular coiling versus neurosurgical clipping in people with aneurysmal SAH on poor outcome, rebleeding, neurological deficit, and treatment complications. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (March 2018). In addition, we searched CENTRAL (2018, Issue 2), MEDLINE (1966 to March 2018), Embase (1980 to March 2018), US National Institutes of Health Ongoing Trials Register (March 2018), and World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (last searched March 2018). We also contacted trialists. 
+Selection criteria
+We included randomised trials comparing endovascular coiling with neurosurgical clipping in people with SAH from a ruptured aneurysm. 
+Data collection and analysis
+Two review authors independently extracted data, and assessed trial quality and risk of bias using the GRADE approach. We contacted trialists to obtain missing information. We defined poor outcome as death or dependence in daily activities (modified Rankin scale 3 to 6 or Glasgow Outcome Scale (GOS) 1 to 3). In the special worst‐case scenario analysis, we assumed all participants in the group with better outcome with missing follow‐up information had a poor outcome and those in the other group with missing data a good outcome. 
+Main results
+We included four randomised trials involving 2458 participants (range per trial: 20 to 2143 participants). Evidence is mostly based on the largest trial. Most participants were in good clinical condition and had an aneurysm on the anterior circulation. None of the included trials was at low risk of bias in all domains. One trial was at unclear risk in one domain, two trials at unclear risk in three domains, and one trial at high risk in one domain. 

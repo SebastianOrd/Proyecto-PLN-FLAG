@@ -1,0 +1,12 @@
+Background
+Women who carry a pathogenic mutation in either a BRCA1 DNA repair associated or BRCA2 DNA repair associated (BRCA1 or BRCA2) gene have a high lifetime risk of developing breast and tubo‐ovarian cancer. To manage this risk women may choose to undergo risk‐reducing surgery to remove breast tissue, ovaries, and fallopian tubes. Surgery should increase survival, but can impact women's lives adversely at the psychological and psychosexual levels. Interventions to facilitate psychological adjustment and improve quality of life post risk‐reducing surgery are needed. 
+Objectives
+To examine psychosocial interventions in female BRCA carriers who have undergone risk‐reducing surgery and to evaluate the effectiveness of such interventions on psychological adjustment and quality of life. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library, MEDLINE and Embase via Ovid, CINAHL, PsycINFO, Web of Science up to April 2019 and Scopus up to January 2018. We also handsearched abstracts of scientific meetings and other relevant publications. 
+Selection criteria
+We included randomised controlled trials (RCT), non‐randomised studies (NRS), prospective and retrospective cohort studies and interventional studies using baseline and postintervention analyses in female BRCA carriers who have undergone risk‐reducing surgery. 
+Data collection and analysis
+Two review authors independently assessed eligibility studies for inclusion in the review. We used standard methodological procedures expected by Cochrane. 
+Main results
+We screened 4956 records from the searches, selecting 34 unique studies for full‐text scrutiny, of which two met the inclusion criteria: one RCT and one NRS. The included studies assessed 113 female BRCA carriers who had risk‐reducing surgery, but there was attrition, and outcome data were not available for all participants at final study assessments. We assessed the RCT as at a high risk of bias whilst the NRS did not have a control group. Our GRADE assessment of the studies was very low‐certainty due to the paucity of data and methodological shortcomings of the studies. The primary outcome of quality of life was only measured in the RCT and that was specific to the menopause. Both studies reported on psychological distress and sexual function. Neither study measured body image, perhaps because this is most often associated with risk‐reducing mastectomy rather than oophorectomy. 

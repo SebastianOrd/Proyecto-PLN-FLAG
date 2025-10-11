@@ -1,0 +1,10 @@
+Background
+People with severe mental illness are twice as likely to develop type 2 diabetes as those without severe mental illness. Treatment guidelines for type 2 diabetes recommend that structured education should be integrated into routine care and should be offered to all. However, for people with severe mental illness, physical health may be a low priority, and motivation to change may be limited. These additional challenges mean that the findings reported in previous systematic reviews of diabetes self management interventions may not be generalised to those with severe mental illness, and that tailored approaches to effective diabetes education may be required for this population. 
+Objectives
+To assess the effects of diabetes self management interventions specifically tailored for people with type 2 diabetes and severe mental illness. 
+Search methods
+We searched the Cochrane Library, MEDLINE, EMBASE, PsycINFO, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), the International Clinical Trials Registry Platform (ICTRP) Search Portal, ClinicalTrials.gov and grey literature. The date of the last search of all databases was 07 March 2016. 
+Selection criteria
+Randomised controlled trials of diabetes self management interventions for people with type 2 diabetes and severe mental illness. 
+Data collection and analysis
+Two review authors independently screened abstracts and full‐text articles, extracted data and conducted the risk of bias assessment. We used a taxonomy of behaviour change techniques and the framework for behaviour change theory to describe the theoretical basis of the interventions and active ingredients. We used the GRADE method (Grades of Recommendation, Assessment, Development and Evaluation Working Group) to assess trials for overall quality of evidence. 

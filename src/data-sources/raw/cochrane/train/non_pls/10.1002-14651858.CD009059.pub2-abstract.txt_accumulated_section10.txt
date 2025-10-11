@@ -1,0 +1,10 @@
+Background
+Fatty liver disease is potentially a reversible condition that may lead to end‐stage liver disease. Since herbal medicines such as Crataegus pinnatifida and Salvia miltiorrhiza have increasingly been used in the management of fatty liver disease, a systematic review on herbal medicine for fatty liver disease is needed. 
+Objectives
+To assess the beneficial and harmful effects of herbal medicines for people with alcoholic or non‐alcoholic fatty liver disease. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 3, 2012), MEDLINE, EMBASE, and Science Citation Index Expanded to 1 March 2012. We also searched the Chinese BioMedical Database, Traditional Chinese Medical Literature Analysis and Retrieval System, China National Knowledge Infrastructure, Chinese VIP Information, Chinese Academic Conference Papers Database and Chinese Dissertation Database, and the Allied and Complementary Medicine Database to 2 March 2012. 
+Selection criteria
+We included randomised clinical trials comparing herbal medicines with placebo, no treatment, a pharmacological intervention, or a non‐pharmacological intervention such as diet or lifestyle, or Western interventions in participants with fatty liver disease. 
+Data collection and analysis
+Two review authors extracted data independently. We used the 'risk of bias' tool to assess the risk of bias of the included trials. We assessed the following domains: random sequence generation, allocation concealment, blinding, incomplete outcome data, selective outcome reporting, and other sources of bias. We presented the effects estimates as risk ratios (RR) with 95% confidence intervals (CI) or as mean differences (MD) with 95% CI, depending on the variables of the outcome measures. 

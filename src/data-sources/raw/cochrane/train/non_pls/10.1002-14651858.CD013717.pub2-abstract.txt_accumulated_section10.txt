@@ -1,0 +1,10 @@
+Background
+In late 2019, the first cases of coronavirus disease 2019 (COVID‐19) were reported in Wuhan, China, followed by a worldwide spread. Numerous countries have implemented control measures related to international travel, including border closures, travel restrictions, screening at borders, and quarantine of travellers. 
+Objectives
+To assess the effectiveness of international travel‐related control measures during the COVID‐19 pandemic on infectious disease transmission and screening‐related outcomes. 
+Search methods
+We searched MEDLINE, Embase and COVID‐19‐specific databases, including the Cochrane COVID‐19 Study Register and the WHO Global Database on COVID‐19 Research to 13 November 2020. 
+Selection criteria
+We considered experimental, quasi‐experimental, observational and modelling studies assessing the effects of travel‐related control measures affecting human travel across international borders during the COVID‐19 pandemic. In the original review, we also considered evidence on severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). In this version we decided to focus on COVID‐19 evidence only. Primary outcome categories were (i) cases avoided, (ii) cases detected, and (iii) a shift in epidemic development. Secondary outcomes were other infectious disease transmission outcomes, healthcare utilisation, resource requirements and adverse effects if identified in studies assessing at least one primary outcome. 
+Data collection and analysis
+Two review authors independently screened titles and abstracts and subsequently full texts. For studies included in the analysis, one review author extracted data and appraised the study. At least one additional review author checked for correctness of data. To assess the risk of bias and quality of included studies, we used the Quality Assessment of Diagnostic Accuracy Studies (QUADAS‐2) tool for observational studies concerned with screening, and a bespoke tool for modelling studies. We synthesised findings narratively. One review author assessed the certainty of evidence with GRADE, and several review authors discussed these GRADE judgements. 

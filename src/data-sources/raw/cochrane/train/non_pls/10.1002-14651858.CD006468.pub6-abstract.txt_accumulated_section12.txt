@@ -1,0 +1,12 @@
+Background
+Central venous catheter (CVC) placement increases the risk of thrombosis in people with cancer. Thrombosis often necessitates the removal of the CVC, resulting in treatment delays and thrombosis‐related morbidity and mortality. This is an update of the Cochrane Review published in 2014. 
+Objectives
+To evaluate the efficacy and safety of anticoagulation for thromboprophylaxis in people with cancer with a CVC. 
+Search methods
+We conducted a comprehensive literature search in May 2018 that included a major electronic search of Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid), and Embase (Ovid); handsearching of conference proceedings; checking of references of included studies; searching for ongoing studies; and using the 'related citation' feature in PubMed. This update of the systematic review was based on the findings of a literature search conducted on 14 May 2018. 
+Selection criteria
+Randomized controlled trials (RCTs) assessing the benefits and harms of unfractionated heparin (UFH), low‐molecular‐weight heparin (LMWH), vitamin K antagonists (VKA), or fondaparinux or comparing the effects of two of these anticoagulants in people with cancer and a CVC. 
+Data collection and analysis
+Using a standardized form, we extracted data and assessed risk of bias. Outcomes included all‐cause mortality, symptomatic catheter‐related venous thromboembolism (VTE), pulmonary embolism (PE), major bleeding, minor bleeding, catheter‐related infection, thrombocytopenia, and health‐related quality of life (HRQoL). We assessed the certainty of evidence for each outcome using the GRADE approach (Balshem 2011). 
+Main results
+Thirteen RCTs (23 papers) fulfilled the inclusion criteria. These trials enrolled 3420 participants. Seven RCTs compared LMWH to no LMWH (six in adults and one in children), six RCTs compared VKA to no VKA (five in adults and one in children), and three RCTs compared LMWH to VKA in adults. 

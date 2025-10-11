@@ -1,0 +1,10 @@
+Background
+Feeding preterm infants in response to their hunger and satiation cues (responsive, cue‐based, or infant‐led feeding) rather than at scheduled intervals might enhance infants' and parents' experience and satisfaction, help in the establishment of independent oral feeding, increase nutrient intake and growth rates, and allow earlier hospital discharge. 
+Objectives
+To assess the effect of a policy of feeding preterm infants on a responsive basis versus feeding prescribed volumes at scheduled intervals on growth rates, levels of parent satisfaction, and time to hospital discharge. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review group to search the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 1), MEDLINE via PubMed (1966 to 17 February 2016), Embase (1980 to 17 February 2016), and CINAHL (1982 to 17 February 2016). We also searched clinical trials' databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs that compared a policy of feeding preterm infants on a responsive basis versus feeding at scheduled intervals. 
+Data collection and analysis
+Two review authors assessed trial eligibility and risk of bias and undertook data extraction independently. We analysed the treatment effects in the individual trials and reported the risk ratio and risk difference for dichotomous data and mean difference (MD) for continuous data, with respective 95% confidence intervals (CIs). We used a fixed‐effect model in meta‐analyses and explored the potential causes of heterogeneity in sensitivity analyses. We assessed the quality of evidence at the outcome level using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. 

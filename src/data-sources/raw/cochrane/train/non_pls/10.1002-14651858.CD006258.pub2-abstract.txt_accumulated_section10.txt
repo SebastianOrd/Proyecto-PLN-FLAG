@@ -1,0 +1,10 @@
+Background
+Convective dialysis modalities (haemofiltration (HF), haemodiafiltration (HDF), and acetate‐free biofiltration (AFB)) removed excess body fluid across the dialysis membrane with positive pressure and accumulated middle‐ and larger‐size accumulated solutes more efficiently than haemodialysis (HD). This increased larger solute removal combined with use of ultra‐pure dialysis fluid in convective dialysis is hypothesised to reduce the frequency and severity of symptoms during dialysis as well as improve clinical outcomes. Convective dialysis therapies (HDF and HF) are associated with lower mortality compared to diffusive therapy (HD) in observational studies. This is an update of a review first published in 2006. 
+Objectives
+To compare convective (HF, HDF, or AFB) with diffusive (HD) dialysis modalities on clinical outcomes (mortality, major cardiovascular events, hospitalisation and treatment‐related adverse events) in men and women with end‐stage kidney disease (ESKD). 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register (to 18 February 2015) through contact with a Trials' Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+We included randomised controlled trials comparing convective therapy (HF, HDF, AFB) with another convective therapy or diffusive therapy (HD) for treatment of ESKD. 
+Data collection and analysis
+Two independent authors identified studies, extracted data and assessed study risk of bias. We summarised treatment effects using the random effects model. We reported results as a risk ratio (RR) for dichotomous outcomes and mean difference (MD) for continuous data together with 95% confidence intervals (CI). We assessed for heterogeneity using the Chi2 test and explored the amount of variation in treatment estimates beyond that expected by chance using the I2 statistic. 

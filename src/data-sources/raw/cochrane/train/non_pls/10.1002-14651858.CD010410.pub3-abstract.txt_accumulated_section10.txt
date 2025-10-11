@@ -1,0 +1,10 @@
+Background
+Crohn’s disease is a transmural, relapsing inflammatory condition afflicting the digestive tract. Opioid signalling, long known to affect secretion and motility in the gut, has been implicated in the inflammatory cascade of Crohn’s disease. Low dose naltrexone, an opioid antagonist, has garnered interest as a potential therapy. 
+Objectives
+The primary objective was to evaluate the efficacy and safety of low dose naltrexone for induction of remission in Crohn’s disease. 
+Search methods
+A systematic search of MEDLINE, Embase, PubMed, CENTRAL, and the Cochrane IBD Group Specialized Register was performed from inception to 15 January 2018 to identify relevant studies. Abstracts from major gastroenterology conferences including Digestive Disease Week and United European Gastroenterology Week and reference lists from retrieved articles were also screened. 
+Selection criteria
+Randomized controlled trials of low dose naltrexone (LDN) for treatment of active Crohn’s disease were included. 
+Data collection and analysis
+Data were analyzed on an intention‐to‐treat basis using Review Manager (RevMan 5.3.5). The primary outcome was induction of clinical remission defined by a Crohn’s disease activity index (CDAI) of < 150 or a pediatric Crohn's disease activity index (PCDAI) of < 10. Secondary outcomes included clinical response (70‐ or 100‐point decrease in CDAI from baseline), endoscopic remission or response, quality of life, and adverse events as defined by the included studies. Risk ratios (RR) and 95% confidence intervals (CI) were calculated for dichotomous outcomes. The methodological quality of included studies was evaluated using the Cochrane risk of bias tool. The overall quality of the evidence supporting the primary outcome and selected secondary outcomes was assessed using the GRADE criteria. 

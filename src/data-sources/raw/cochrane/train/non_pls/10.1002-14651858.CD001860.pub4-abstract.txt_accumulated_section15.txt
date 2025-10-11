@@ -1,0 +1,15 @@
+Background
+Trachoma is the world's leading infectious cause of blindness. In 1996, WHO launched the Alliance for the Global Elimination of Trachoma by the year 2020, based on the 'SAFE' strategy (surgery, antibiotics, facial cleanliness, and environmental improvement). 
+Objectives
+To assess the evidence supporting the antibiotic arm of the SAFE strategy by assessing the effects of antibiotics on both active trachoma (primary objective), Chlamydia trachomatis infection of the conjunctiva, antibiotic resistance, and adverse effects (secondary objectives). 
+Search methods
+We searched relevant electronic databases and trials registers. The date of the last search was 4 January 2019. 
+Selection criteria
+We included randomised controlled trials (RCTs) that satisfied either of two criteria: (a) trials in which topical or oral administration of an antibiotic was compared to placebo or no treatment in people or communities with trachoma, (b) trials in which a topical antibiotic was compared with an oral antibiotic in people or communities with trachoma. We also included studies addressing different dosing strategies in the population.  
+Data collection and analysis
+We used standard methods expected by Cochrane. We assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We identified 14 studies where individuals with trachoma were randomised and 12 cluster‐randomised studies.  
+Any antibiotic versus control (individuals) 
+Nine studies (1961 participants) randomised individuals with trachoma to antibiotic or control (no treatment or placebo). All of these studies enrolled children and young people with active trachoma. The antibiotics used in these studies included topical (oxy)tetracycline (5 studies), doxycycline (2 studies), and sulfonamides (4 studies). Four studies had more than two study arms. In general these studies were poorly reported, and it was difficult to judge risk of bias. 
+These studies provided low‐certainty evidence that people with active trachoma treated with antibiotics experienced a reduction in active trachoma at three months (risk ratio (RR) 0.78, 95% confidence interval (CI) 0.69 to 0.89; 1961 people; 9 RCTs; I2 = 73%) and 12 months (RR 0.74, 95% CI 0.55 to 1.00; 1035 people; 4 RCTs; I2 = 90%). Low‐certainty evidence was available for ocular infection at three months (RR 0.81, 95% CI 0.63 to 1.04; 297 people; 4 RCTs; I2 = 0%) and 12 months (RR 0.25, 95% CI 0.08 to 0.78; 129 people; 1 RCT). None of these studies assessed antimicrobial resistance. In those studies that reported harms, no serious adverse effects were reported (low‐certainty evidence). 

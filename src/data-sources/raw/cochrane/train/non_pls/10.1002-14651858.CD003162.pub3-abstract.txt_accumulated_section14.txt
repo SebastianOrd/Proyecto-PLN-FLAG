@@ -1,0 +1,14 @@
+Background
+This is an update of a Cochrane Review first published in The Cochrane Library in Issue 1, 2002 and previously updated in 2004 and 2007. 
+Benign paroxysmal positional vertigo (BPPV) is a syndrome characterised by short‐lived episodes of vertigo in association with rapid changes in head position. It is a common cause of vertigo presenting to primary care and specialist otolaryngology clinics. Current treatment approaches include rehabilitative exercises and physical manoeuvres, including the Epley manoeuvre. 
+Objectives
+To assess the effectiveness of the Epley manoeuvre for posterior canal BPPV.
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; CENTRAL; PubMed; EMBASE; CINAHL; Web of Science; Cambridge Scientific Abstracts; ICTRP and additional sources for published and unpublished trials. The date of the most recent search was 23 January 2014. 
+Selection criteria
+Randomised controlled trials of the Epley manoeuvre versus placebo, no treatment or other active treatment for adults diagnosed with posterior canal BPPV (including a positive Dix‐Hallpike test). The primary outcome of interest was complete resolution of vertigo symptoms. Secondary outcomes were conversion of a 'positive' Dix‐Hallpike test to a 'negative' Dix‐Hallpike test and adverse effects of treatment. 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+We included 11 trials in the review with a total of 745 patients.
+Five studies compared the efficacy of the Epley manoeuvre against a sham manoeuvre, three against other particle repositioning manoeuvres (Semont, Brandt‐Daroff and Gans) and three against a control (no treatment, medication only, postural restriction). Patients were treated in hospital otolaryngology departments in eight studies and family practices in two studies. All patients were adults aged 18 to 90 years old, with a sex ratio of 1:1.5 male to female. 

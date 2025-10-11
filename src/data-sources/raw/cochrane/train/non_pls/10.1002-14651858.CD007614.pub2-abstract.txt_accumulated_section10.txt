@@ -1,0 +1,10 @@
+Background
+Fresh frozen plasma (FFP) is a blood component containing procoagulant factors, which is sometimes used in cardiovascular surgery with the aim of reducing the risk of bleeding. The purpose of this review is to assess the risk of mortality for patients undergoing cardiovascular surgery who receive FFP. 
+Objectives
+To evaluate the risk to benefit ratio of FFP transfusion in cardiovascular surgery for the treatment of bleeding patients or for prophylaxis against bleeding. 
+Search methods
+We searched 11 bibliographic databases and four ongoing trials databases including the Cochrane Central Register of Controlled Trials (CENTRAL, Issue 3, 2015), MEDLINE (OvidSP, 1946 to 21 April 2015), EMBASE (OvidSP, 1974 to 21 April 2015), PubMed (e‐publications only: searched 21 April 2015), ClinicalTrials.gov, World Health Organization (WHO) ICTRP and the ISRCTN Register (searched 21 April 2015). We also searched the references of all identified trials and relevant review articles. We did not limit the searches by language or publication status. 
+Selection criteria
+We included randomised controlled trials in patients undergoing major cardiac or vascular surgery who were allocated to a FFP group or a comparator (no plasma or an active comparator, either clinical plasma (any type) or a plasma‐derived blood product). We included participants of any age (neonates, children and adults). We excluded studies of plasmapheresis and plasma exchange. 
+Data collection and analysis
+Two authors screened all electronically derived citations and abstracts of papers identified by the review search strategy. Two authors assessed risk of bias in the included studies and extracted data independently. We took care to note whether FFP was used therapeutically or prophylactically within each trial. 

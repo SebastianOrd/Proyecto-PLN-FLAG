@@ -1,0 +1,12 @@
+Background
+The prevalence of non‐alcohol‐related fatty liver disease (NAFLD) varies between 19% and 33% in different populations. NAFLD decreases life expectancy and increases risks of liver cirrhosis, hepatocellular carcinoma, and the requirement for liver transplantation. Uncertainty surrounds relative benefits and harms of various nutritional supplements in NAFLD. Currently no nutritional supplement is recommended for people with NAFLD. 
+Objectives
+• To assess the benefits and harms of different nutritional supplements for treatment of NAFLD through a network meta‐analysis• To generate rankings of different nutritional supplements according to their safety and efficacy 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials, MEDLINE, Embase, Science Citation Index Expanded, Conference Proceedings Citation Index‐Science, the World Health Organization International Clinical Trials Registry Platform, and trials registers until February 2021 to identify randomised clinical trials in people with NAFLD. 
+Selection criteria
+We included only randomised clinical trials (irrespective of language, blinding, or status) for people with NAFLD, irrespective of method of diagnosis, age and diabetic status of participants, or presence of non‐alcoholic steatohepatitis (NASH). We excluded randomised clinical trials in which participants had previously undergone liver transplantation. 
+Data collection and analysis
+We performed a network meta‐analysis with OpenBUGS using Bayesian methods whenever possible and calculated differences in treatments using hazard ratios (HRs), odds ratios (ORs), and rate ratios with 95% credible intervals (CrIs) based on an available‐case analysis, according to National Institute of Health and Care Excellence Decision Support Unit guidance. 
+Main results
+We included in the review a total of 202 randomised clinical trials (14,200 participants). Nineteen trials were at low risk of bias. A total of 32 different interventions were compared in these trials. A total of 115 trials (7732 participants) were included in one or more comparisons. The remaining trials did not report any of the outcomes of interest for this review. 

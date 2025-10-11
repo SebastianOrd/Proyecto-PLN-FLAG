@@ -1,0 +1,12 @@
+Background
+Topical cyclosporine A (also known as ciclosporin A) (CsA) is an anti‐inflammatory that has been widely used to treat inflammatory ocular surface diseases. Two CsA eyedrops have been approved by US Food and Drug Administration for managing dry eye: Restasis (CsA 0.05%, Allergan Inc, Irvine, CA, USA), approved in 2002, and Cequa (CsA 0.09%, Sun Pharma, Cranbury, NJ, USA), approved in 2018. Numerous clinical trials have been performed to assess the effectiveness and safety of CsA for dry eye; however, there is no universal consensus with regard to its effect. 
+Objectives
+To assess the effectiveness and safety of topical CsA in the treatment of dry eye.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2018, Issue 2); Ovid MEDLINE; Embase.com; PubMed; Latin American and Caribbean Health Sciences Literature Database (LILACS); ClinicalTrials.gov; and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We did not use any date or language restrictions in the electronic search for trials. We last searched the electronic databases on 16 February 2018. 
+Selection criteria
+We included randomized controlled trials (RCTs) of people with dry eye regardless of age, sex, severity, etiology, or classification of dry eye. We included RCTs in which different concentrations of topical CsA were compared with one another or with artificial tears, placebo, or vehicle. We also included RCTs in which CsA in combination with artificial tears was compared to artificial tears alone. 
+Data collection and analysis
+We followed the standard Cochrane methodology and assessed the certainty of the evidence using GRADE. 
+Main results
+We included 30 RCTs (4009 participants) with follow‐up periods ranging from 6 weeks to 12 months. We studied dry eye of various severity and underlying causes. The interventions investigated also varied across RCTs: CsA versus artificial tears; CsA with artificial tears versus artificial tears alone; and in some studies, more than one concentration of CsA. Artificial tears were used as adjunctive to study medication in all but five trials. Almost all trials had deficiencies in the reporting of results (e.g. reporting P values or direction only), precluding the calculation of between‐group estimates of effect or meta‐analysis. 

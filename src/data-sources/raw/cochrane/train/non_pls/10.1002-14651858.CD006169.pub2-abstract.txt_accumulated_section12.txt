@@ -1,0 +1,12 @@
+Background
+Preterm birth represents the single largest cause of mortality and morbidity for newborns and a major cause of morbidity for pregnant women. Tocolytic agents include a wide range of drugs that can inhibit labour to prolong pregnancy. This may gain time to allow the fetus to mature further before being born, permit antenatal corticosteroid administration for lung maturation, and allow time for intra‐uterine transfer to a hospital with neonatal intensive care facilities. However, some tocolytic drugs are associated with severe side effects. Combinations of tocolytic drugs may be more effective over single tocolytic agents or no intervention, without adversely affecting the mother or neonate. 
+Objectives
+To assess the effects on maternal, fetal and neonatal outcomes of any combination of tocolytic drugs for the treatment of preterm labour when compared with any other treatment, no treatment or placebo. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 January 2014) and reference lists of retrieved studies. 
+Selection criteria
+We included randomised controlled trials comparing a combination of tocolytic agents, administered by any route or any dose, for inhibiting preterm labour versus any other treatment (including other combinations of tocolytics or single tocolytics), no intervention or placebo. 
+Data collection and analysis
+Two review authors independently assessed study reports for eligibility, carried out data extraction and assessed risk of bias. 
+Main results
+Eleven studies met our inclusion criteria. Two studies did not report any outcome data relevant to the review, so the results of the review are based on nine trials that contributed data. Primary outcomes were perinatal mortality, serious maternal or infant outcomes, adverse drug reactions, birth before 48 hours of trial entry, birth before 34 weeks' gestation and preterm neonates delivered without a full course of antenatal steroids completed 24 hours before birth. The quality of evidence in included trials was mixed; only three of the trials were placebo controlled. 

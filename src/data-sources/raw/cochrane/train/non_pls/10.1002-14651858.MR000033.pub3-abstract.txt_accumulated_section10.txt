@@ -1,0 +1,10 @@
+Background
+Clinical research affecting how doctors practice medicine is increasingly sponsored by companies that make drugs and medical devices. Previous systematic reviews have found that pharmaceutical‐industry sponsored studies are more often favorable to the sponsor’s product compared with studies with other sources of sponsorship. A similar association between sponsorship and outcomes have been found for device studies, but the body of evidence is not as strong as for sponsorship of drug studies. This review is an update of a previous Cochrane review and includes empirical studies on the association between sponsorship and research outcome. 
+Objectives
+To investigate whether industry sponsored drug and device studies have more favorable outcomes and differ in risk of bias, compared with studies having other sources of sponsorship. 
+Search methods
+In this update we searched MEDLINE (2010 to February 2015), Embase (2010 to February 2015), the Cochrane Methodology Register (2015, Issue 2) and Web of Science (June 2015). In addition, we searched reference lists of included papers, previous systematic reviews and author files. 
+Selection criteria
+Cross‐sectional studies, cohort studies, systematic reviews and meta‐analyses that quantitatively compared primary research studies of drugs or medical devices sponsored by industry with studies with other sources of sponsorship. We had no language restrictions. 
+Data collection and analysis
+Two assessors screened abstracts and identified and included relevant papers. Two assessors extracted data, and we contacted authors of included papers for additional unpublished data. Outcomes included favorable results, favorable conclusions, effect size, risk of bias and whether the conclusions agreed with the study results. Two assessors assessed risk of bias of included papers. We calculated pooled risk ratios (RR) for dichotomous data (with 95% confidence intervals (CIs)). 

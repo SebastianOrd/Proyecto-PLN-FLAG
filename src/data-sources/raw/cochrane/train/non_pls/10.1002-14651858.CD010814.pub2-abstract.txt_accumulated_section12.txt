@@ -1,0 +1,12 @@
+Background
+Chronic pain following mesh‐based inguinal hernia repair is frequently reported, and has a significant impact on quality of life. Whether mesh fixation with glue can reduce chronic pain without increasing the recurrence rate is still controversial. 
+Objectives
+To determine whether tissue adhesives can reduce postoperative complications, especially chronic pain, with no increase in recurrence rate, compared with sutures for mesh fixation in Lichtenstein hernia repair. 
+Search methods
+We searched the following electronic databases with no language restrictions: the Cochrane Central Register of Controlled Trials (CENTRAL; issue 4, 2016) in the Cochrane Library (searched 11 May 2016), MEDLINE Ovid (1986 to 11 May 2016), Embase Ovid (1986 to 11 May 2016), Science Citation Index (Web of Science) (1986 to 11 May 2016), CBM (Chinese Biomedical Database), CNKI (China National Knowledge Infrastructure), VIP (a full‐text database in China), Wanfang databases. We also checked reference lists of identified papers (included studies and relevant reviews). 
+Selection criteria
+We included all randomised and quasi‐randomised controlled trials comparing glue versus sutures for mesh fixation in Lichtenstein hernia repair. Cluster‐RCTs were also eligible. 
+Data collection and analysis
+Two review authors extracted data and assessed the risk of bias independently. Dichotomous outcomes were expressed as odds ratio (OR) with 95% confidence intervals (CI). Continuous outcomes were expressed as mean differences (MD) with 95% CIs. 
+Main results
+Twelve trials with a total of 1932 participants were included in this review. The overall postoperative chronic pain in the glue group was reduced by 37% (OR 0.63, 95% CI 0.44 to 0.91; 10 studies, 1418 participants, low‐quality evidence) compared with the suture group. However, the results changed when we conducted subgroup analysis with regard to the type of mesh. Subgroup analysis of included studies using lightweight mesh showed the reduction of chronic pain was less profound and insignificant (OR 0.77, 95% CI 0.50 to 1.17). Subgroup analysis of included studies using heavyweight mesh resulted in a significant benefit from the fixation with glue (OR 0.38, 95% CI 0.17 to 0.82). 

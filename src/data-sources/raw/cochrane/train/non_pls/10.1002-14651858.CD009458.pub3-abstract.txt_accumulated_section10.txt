@@ -1,0 +1,10 @@
+Background
+Endometrial carcinoma is the most common gynaecologic malignancy in the world and develops through preliminary stages of endometrial hyperplasia. Atypical endometrial hyperplasia suggests a significant pre‐malignant state with frank progression to endometrial carcinoma, and tends to occur at a young age. Oral progestins have been used as conservative treatment in young women with atypical endometrial hyperplasia, but they are associated with poor tolerability and side effects that may limit their overall efficacy. So it has become increasingly important and necessary to find a safe and effective fertility‐sparing treatment with better tolerability and fewer side effects than the options currently available. The levonorgestrel‐releasing intrauterine system (LNG‐IUS) has been used to provide endometrial protection in women with breast cancer who are on adjuvant tamoxifen. The antiproliferative function of levonorgestrel is thought to reduce the risk of endometrial hyperplasia. 
+Objectives
+To determine the efficacy and safety of oral and intrauterine progestogens in treating atypical endometrial hyperplasia.
+Search methods
+In July 2018 we searched CENTRAL; MEDLINE; Embase; CINAHL, PsycINFO and the China National Knowledge Infrastructure for relevant trials. Cochrane Gynaecology and Fertility (CGF) Specialised Register and Embase were searched in November 2018. We attempted to identify trials from references in published studies. We also searched for ongoing trials in five major clinical trials registries. 
+Selection criteria
+Randomised controlled trials (RCTs) of oral and intrauterine progestogens (LNG‐IUS) versus each other or placebo in women with a confirmed histological diagnosis of simple or complex endometrial hyperplasia with atypia. 
+Data collection and analysis
+Two review authors assessed trial eligibility and risk of bias and extracted the data. The primary outcomes of the review were rate of regression and adverse effects. Secondary outcomes included rate of recurrence and proportion of women undergoing hysterectomy. We have used GRADE methodology to judge the quality of the evidence. 

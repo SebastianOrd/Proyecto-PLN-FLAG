@@ -1,0 +1,13 @@
+Background
+The loss of cholinergic, dopaminergic and noradrenergic innervations seen in Parkinson's Disease Dementia (PDD) suggest a potential role for cholinesterase inhibitors. Concerns have been expressed about a theoretical worsening of Parkinson's disease related symptoms, particularly movement symptoms. 
+Objectives
+To assess the efficacy, safety, tolerability and health economic data relating to the use of cholinesterase inhibitors in PDD. 
+Search methods
+The trials were identified from the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group on 19 April 2005 using the search term parkinson*. This register contains records from major health care databases and many ongoing trial databases and is updated regularly. 
+Comprehensive searches of abstracts from major scientific meetings were performed. Pharmaceutical companies were approached for information regarding additional and ongoing studies. 
+Selection criteria
+Randomized, double‐blind, placebo‐controlled studies assessing the effectiveness of cholinesterase inhibitors in PDD. Inclusion and exclusion criteria were stated to limit bias. 
+Data collection and analysis
+Two reviewers (IM, CF) independently reviewed the quality of the studies utilizing criteria from the Cochrane Collaboration Handbook. Medications were examined separately and as a group. The outcome measures assessed were in the following domains: neuropsychiatric features, cognition, global impression, daily living activities, quality of life, burden on caregiver, Parkinsonian related symptoms, treatment acceptability as determined by withdrawal from trials, safety as determined by the frequency of adverse events, institutionalisation, death and health economic factors. 
+Main results
+A detailed and systematic search of relevant databases identified one published randomized, double‐blind, placebo‐controlled study (Emre 2004) involving 541 patients that compared rivastigmine with placebo. Rivastigmine produced statistically significant improvements in several outcome measures. On the primary cognitive measure, the ADAS‐Cog, rivastigmine was associated with a 2.80 point ADAS‐Cog improvement [WMD ‐2.80, 95% Cl ‐4.26 to ‐1.34, P = 0.0002] and a 2.50 point ADCS‐ADL improvement [95% Cl 0.43 to 4.57, P = 0.02] relative to placebo. Clinically meaningful (moderate or marked) improvement occurred in 5.3% more patients on rivastigmine, and meaningful worsening occurred in 10.1% more patients on placebo. 

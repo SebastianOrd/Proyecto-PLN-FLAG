@@ -1,0 +1,12 @@
+Background
+The number of people with type 2 diabetes mellitus (T2DM) is increasing worldwide. The combination of metformin and sulphonylurea (M+S) is a widely used treatment. Whether M+S shows better or worse effects in comparison with other antidiabetic medications for people with T2DM is still controversial. 
+Objectives
+To assess the effects of metformin and sulphonylurea (second‐ or third‐generation) combination therapy for adults with type 2 diabetes mellitus. 
+Search methods
+We updated the search of a recent systematic review from the Agency for Healthcare Research and Quality (AHRQ). The updated search included CENTRAL, MEDLINE, Embase, ClinicalTrials.gov and WHO ICTRP. The date of the last search was March 2018. We searched manufacturers' websites and reference lists of included trials, systematic reviews, meta‐analyses and health technology assessment reports. We asked investigators of the included trials for information about additional trials. 
+Selection criteria
+We included randomised controlled trials (RCTs) randomising participants 18 years old or more with T2DM to M+S compared with metformin plus another glucose‐lowering intervention or metformin monotherapy with a treatment duration of 52 weeks or more. 
+Data collection and analysis
+Two review authors read all abstracts and full‐text articles and records, assessed risk of bias and extracted outcome data independently. We used a random‐effects model to perform meta‐analysis, and calculated risk ratios (RRs) for dichotomous outcomes and mean differences (MDs) for continuous outcomes, using 95% confidence intervals (CIs) for effect estimates. We assessed the certainty of the evidence using the GRADE instrument. 
+Main results
+We included 32 RCTs randomising 28,746 people. Treatment duration ranged between one to four years. We judged none of these trials as low risk of bias for all 'Risk of bias' domains. Most important events per person were all‐cause and cardiovascular mortality, serious adverse events (SAE), non‐fatal stroke (NFS), non‐fatal myocardial infarction (MI) and microvascular complications. Most important comparisons were as follows: 

@@ -1,0 +1,13 @@
+Background
+Congenital diaphragmatic hernia (CDH), is an uncommon but severe condition in which there is a developmental defect in the fetal diaphragm, resulting in liver and bowel migrating to the chest cavity and impairing lung development and function for the neonate. This condition can be diagnosed during pregnancy and as such, is potentially amenable to in‐utero prenatal intervention. Neonatal surgical repair is possible, but even with early surgical repair and improving neonatal management, neonatal morbidity and mortality is high. Prenatal interventions described to date have included maternal antenatal corticosteroid administration and fetal tracheal occlusion, with both methods aiming to improve lung growth and maturity. However surgical procedures have potential maternal complications, as the uterus and amniotic sac are breached in order to gain access to the fetus. 
+Objectives
+To compare the effects of prenatal versus postnatal interventions for CDH on perinatal mortality and morbidity, longer‐term infant outcomes and maternal morbidity, and to compare the effects of different prenatal interventions with each other. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 August 2015) and reference lists of retrieved studies. 
+Selection criteria
+All published (including those published in abstract form), unpublished, and ongoing randomised controlled trials comparing prenatal and postnatal interventions for fetuses with CDH. Quasi‐RCTs were eligible for inclusion but none were identified. Trials using a cross‐over design are not eligible for inclusion. 
+Data collection and analysis
+Two review authors evaluated trials for inclusion and methodological quality without consideration of their results according to the stated eligibility criteria and extracted data independently. Data were checked for accuracy. 
+Main results
+We identified 11 studies for potential inclusion. Of those, we included three studies involving 97 women. Two additional studies are ongoing. 
+Two trials examined in‐utero fetal tracheal occlusion with standard (postnatal) care in fetuses with severe diaphragmatic hernia. Whilst the trials utilised fetal interventions that were similar, there were important differences in how access was gained to the fetus and in the timing and mode of delivery. Therefore, we did not combine these trials in meta‐analysis and the results are examined in separate comparisons. One trial examined the effect of antenatal corticosteroids versus placebo. Overall, the methodological quality of the trials was variable and no data were available for a number of this review's secondary outcomes. 

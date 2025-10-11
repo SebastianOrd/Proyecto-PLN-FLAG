@@ -1,0 +1,12 @@
+Background
+This review is one of a series on drugs used to treat fibromyalgia. Fibromyalgia is a clinically well‐defined chronic condition of unknown aetiology characterised by chronic widespread pain that often co‐exists with sleep problems and fatigue affecting approximately 2% of the general population. People often report high disability levels and poor health‐related quality of life (HRQoL). Drug therapy focuses on reducing key symptoms and disability, and improving HRQoL. Cannabis has been used for millennia to reduce pain and other somatic and psychological symptoms. 
+Objectives
+To assess the efficacy, tolerability and safety of cannabinoids for fibromyalgia symptoms in adults. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and EMBASE to April 2016, together with reference lists of retrieved papers and reviews, three clinical trial registries, and contact with trial authors. 
+Selection criteria
+We selected randomised controlled trials of at least four weeks' duration of any formulation of cannabis products used for the treatment of adults with fibromyalgia. 
+Data collection and analysis
+Two review authors independently extracted the data of all included studies and assessed risk of bias. We resolved discrepancies by discussion. We performed analysis using three tiers of evidence. First tier evidence was derived from data meeting current best standards and subject to minimal risk of bias (outcome equivalent to substantial pain intensity reduction, intention‐to‐treat analysis without imputation for drop‐outs; at least 200 participants in the comparison, eight to 12 weeks' duration, parallel design), second tier evidence from data that did not meet one or more of these criteria and were considered at some risk of bias but with adequate numbers (i.e. data from at least 200 participants) in the comparison, and third tier evidence from data involving small numbers of participants that were considered very likely to be biased or used outcomes of limited clinical utility, or both. We assessed the evidence using GRADE (Grading of Recommendations Assessment, Development and Evaluation). 
+Main results
+We included two studies with 72 participants. Overall, the two studies were at moderate risk of bias. The evidence was derived from group mean data and completer analysis (very low quality evidence overall). We rated the quality of all outcomes according to GRADE as very low due to indirectness, imprecision and potential reporting bias. 

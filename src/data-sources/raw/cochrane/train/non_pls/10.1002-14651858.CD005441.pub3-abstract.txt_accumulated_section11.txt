@@ -1,0 +1,11 @@
+Background
+Pegylated interferon (peginterferon) plus ribavirin is the recommended treatment for patients with chronic hepatitis C, but systematic assessment of the effect of this treatment compared with interferon plus ribavirin is needed. 
+Objectives
+To systematically evaluate the benefits and harms of peginterferon plus ribavirin versus interferon plus ribavirin for patients with chronic hepatitis C. 
+Search methods
+We searched the Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, Science Citation Index‐Expanded, and LILACS. We also searched conference abstracts, journals, and grey literature. The last searches were conducted in September 2013. 
+Selection criteria
+We included randomised clinical trials comparing peginterferon plus ribavirin versus interferon plus ribavirin with or without co‐intervention(s) (e.g., other antiviral drugs) for chronic hepatitis C. Quasi‐randomised and observational studies retrieved through the searches for randomised clinical trials were also considered for reports of harms. Our primary outcomes were liver‐related morbidity, all‐cause mortality, serious adverse events, adverse events leading to treatment discontinuation, other adverse events, and quality of life. Our secondary outcome was sustained virological response in serum, that is, undetectable hepatitis C virus RNA in serum by sensitive tests six months after the end of treatment. 
+Data collection and analysis
+Two review authors independently used a standardised data collection form. We meta‐analysed data with both fixed‐effect and random‐effects models. For each outcome, we calculated the odds ratio (OR) (for liver‐related morbidity or all‐cause mortality) or the risk ratio (RR) along with 95% confidence interval (CI) based on intention‐to‐treat analysis. We used domains of the trials to assess the risk of systematic errors (bias) and trial sequential analyses to assess the risk of random errors (play of chance). 
+For each outcome, we calculated the RR with 95% CI based on intention‐to‐treat analysis. Effects of interventions on outcomes were assessed according to GRADE. 

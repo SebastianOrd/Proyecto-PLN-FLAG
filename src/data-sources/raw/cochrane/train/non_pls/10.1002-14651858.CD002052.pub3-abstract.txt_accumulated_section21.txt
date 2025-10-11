@@ -1,0 +1,21 @@
+Background
+Proper sedation for neonates undergoing uncomfortable procedures may reduce stress and avoid complications. Midazolam is a short‐acting benzodiazepine that is used increasingly in neonatal intensive care units (NICUs). However, its effectiveness as a sedative in neonates has not been systematically evaluated. 
+Objectives
+Primary objecive 
+To assess the effectiveness of intravenous midazolam infusion for sedation, as evaluated by behavioural and/or physiological measurements of sedation levels, in critically ill neonates in the NICU. 
+Secondary objectives 
+To assess effects of intravenous midazolam infusion for sedation on complications including the following. 
+1. Incidence of intraventricular haemorrhage (IVH)/periventricular leukomalacia (PVL).
+2. Mortality.
+3. Occurrence of adverse effects associated with the use of midazolam (hypotension, neurological abnormalities). 
+4. Days of ventilation.
+5. Days of supplemental oxygen.
+6. Incidence of pneumothorax.
+7. Length of NICU stay (days).
+8. Long‐term neurodevelopmental outcomes.
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 5), MEDLINE via PubMed (1966 to 16 June 2016), Embase (1980 to 16 June 2016) and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 16 June 2016). We searched clinical trials databases, conference proceedings and reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+We selected for review randomised and quasi‐randomised controlled trials of intravenous midazolam infusion for sedation in infants aged 28 days or younger. 
+Data collection and analysis
+We abstracted data regarding the primary outcome of level of sedation. We assessed secondary outcomes such as intraventricular haemorrhage, periventricular leukomalacia, death, length of NICU stay and adverse effects associated with midazolam. When appropriate, we performed meta‐analyses using risk ratios (RRs) and risk differences (RDs), and if the RD was statistically significant, we calculated the number needed to treat for an additional beneficial outcome (NNTB) or an additional harmful outcome (NNTH), along with their 95% confidence intervals (95% CIs) for categorical variables, and weighted mean differences (WMDs) for continuous variables. We assessed heterogeneity by performing the I‐squared (I2) test. 

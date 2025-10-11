@@ -1,0 +1,10 @@
+Background
+Chronic suppurative otitis media (CSOM) is a chronic inflammation and often polymicrobial infection of the middle ear and mastoid cavity, characterised by ear discharge (otorrhoea) through a perforated tympanic membrane. The predominant symptoms of CSOM are ear discharge and hearing loss. Topical antibiotics act to kill or inhibit the growth of micro‐organisms that may be responsible for the infection. Antibiotics can be used alone or in addition to other treatments for CSOM, such as steroids, antiseptics or ear cleaning (aural toileting). Antibiotics are commonly prescribed in combined preparations with steroids. 
+Objectives
+To assess the effects of adding a topical steroid to topical antibiotics in the treatment of people with chronic suppurative otitis media (CSOM). 
+Search methods
+The Cochrane ENT Information Specialist searched the Cochrane ENT Register; Central Register of Controlled Trials (CENTRAL via the Cochrane Register of Studies); Ovid MEDLINE; Ovid Embase; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 16 March 2020. 
+Selection criteria
+We included randomised controlled trials (RCTs) with at least a one‐week follow‐up involving participants (adults and children) who had chronic ear discharge of unknown cause or CSOM, where the ear discharge had continued for more than two weeks. 
+The interventions were any combination of a topical antibiotic agent(s) of any class and a topical corticosteroid (steroid) of any class, applied directly into the ear canal as ear drops, powders or irrigations, or as part of an aural toileting procedure. 
+The two main comparisons were topical antibiotic and steroid compared to a) placebo or no intervention and b) another topical antibiotic. 

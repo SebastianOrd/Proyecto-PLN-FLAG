@@ -1,0 +1,13 @@
+Background
+Fluphenazine is a typical antipsychotic drug from the phenothiazine group of antipsychotics. It has been commonly used in the treatment of schizophrenia, however, with the advent of atypical antipsychotic medications, use has declined over the years. 
+Objectives
+To measure the outcomes (both beneficial and harmful) of the clinical effectiveness, safety and cost‐effectiveness of oral fluphenazine versus atypical antipsychotics for schizophrenia. 
+Search methods
+We searched the Cochrane Central Register of Studies (25 April 2013). For the economic search, we searched the Cochrane Schizophrenia Group Health Economic Database (CSzGHED) on 31 January 2014 
+Selection criteria
+All randomised controlled trials (RCTs) comparing fluphenazine (oral) with any other oral atypical antipsychotics. 
+Data collection and analysis
+Review authors worked independently to inspect citations and assess the quality of the studies and to extract data. For homogeneous dichotomous data we calculated the risk ratio (RR) and 95% confidence interval (CI), and calculated the mean differences (MDs) for continuous data. We assessed risk of bias for included studies and used GRADE (Grading of Recommendations Assessment, Development and Evaluation) to rate the quality of the evidence. 
+Main results
+Four studies randomising a total of 202 people with schizophrenia are included. Oral fluphenazine was compared with oral amisulpride, risperidone, quetiapine and olanzapine. 
+Comparing oral fluphenazine with amisulpride, there was no difference between groups for mental state using the Brief Psychiatric Rating Scale (BPRS) (1 RCT, n = 57, MD 5.10 95% CI ‐2.35 to 12.55, very low‐quality evidence), nor was there any difference in numbers leaving the study early for any reason (2 RCTs, n = 98, RR 1.19 95% CI 0.63 to 2.28, very low‐quality evidence). More people required concomitant anticholinergic medication in the fluphenazine group compared to amisulpride (1 RCT, n = 36, RR 7.82 95% CI 1.07 to 57.26, very low‐quality evidence). No data were reported for important outcomes including relapse, changes in life skills, quality of life or cost‐effectiveness. 

@@ -1,0 +1,14 @@
+Background
+Bisphosphonates are considered to be the treatment of choice for people with Paget's disease of bone. However, the effects of bisphosphonates on patient‐centred outcomes have not been extensively studied. There are insufficient data to determine whether reducing and maintaining biochemical markers of bone turnover to within the normal range improves quality of life and reduces the risk of complications. 
+Objectives
+To assess the benefits and harms of bisphosphonates for adult patients with Paget's disease of bone. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, ISI Web of Knowledge and trials registers up to March 2017. We searched regulatory agency published information for rare adverse events. 
+Selection criteria
+Randomised controlled trials (RCTs) of bisphosphonates as treatment for Paget's disease in adults. 
+Data collection and analysis
+Two review authors independently screened search results, extracted data and assessed studies for risk of bias. We used standard methodological procedures expected by The Cochrane Collaboration. 
+Main results
+We included 20 trials (25 reports, 3168 participants). Of these, 10 trials (801 participants) compared bisphosphonates (etidronate, tiludronate, ibandronate, pamidronate, olpadronate, alendronate, risedronate, zoledronate) versus placebo, seven compared two bisphosphonates (992 participants), one trial compared a bisphosphonates with a bisphosphonate plus calcitonin (44 participants), and two studies, the largest trial (1331 participants) and its interventional extension study (502 participants), compared symptomatic treatment and intensive treatment where the goal was to normalise alkaline phosphatase. 
+Most studies were assessed at low or unclear risk of bias. Six of 10 studies comparing bisphosphonates versus placebo were assessed at high risk of bias, mainly around incomplete outcome data and selective outcome reporting. 
+Participant populations were reasonably homogeneous in terms of age (mean age 66 to 74 years) and sex (51% to 74% male). Most studies included participants who had elevated alkaline phosphatase levels whether or not bone pain was present. Mean follow‐up was six months. 

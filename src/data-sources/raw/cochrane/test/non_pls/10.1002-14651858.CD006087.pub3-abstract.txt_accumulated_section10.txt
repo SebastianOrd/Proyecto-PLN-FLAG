@@ -1,0 +1,10 @@
+Background
+Fractures of the mandible (lower jaw) are a common occurrence and usually related to interpersonal violence or road traffic accidents. Mandibular fractures may be treated using open (surgical) and closed (non‐surgical) techniques. Fracture sites are immobilized with intermaxillary fixation (IMF) or other external or internal devices (i.e. plates and screws) to allow bone healing. Various techniques have been used, however uncertainty exists with respect to the specific indications for each approach. 
+Objectives
+The objective of this review is to provide reliable evidence of the effects of any interventions either open (surgical) or closed (non‐surgical) that can be used in the management of mandibular fractures, excluding the condyles, in adult patients. 
+Search methods
+We searched the following electronic databases: the Cochrane Oral Health Group's Trials Register (to 28 February 2013), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2013, Issue 1), MEDLINE via OVID (1950 to 28 February 2013), EMBASE via OVID (1980 to 28 February 2013), metaRegister of Controlled Trials (to 7 April 2013), ClinicalTrials.gov (to 7 April 2013) and the WHO International Clinical Trials Registry Platform (to 7 April 2013). The reference lists of all trials identified were checked for further studies. There were no restrictions regarding language or date of publication. 
+Selection criteria
+Randomised controlled trials evaluating the management of mandibular fractures without condylar involvement. Any studies that compared different treatment approaches were included. 
+Data collection and analysis
+At least two review authors independently assessed trial quality and extracted data. Results were to be expressed as random‐effects models using mean differences for continuous outcomes and risk ratios for dichotomous outcomes with 95% confidence intervals. Heterogeneity was to be investigated to include both clinical and methodological factors. 

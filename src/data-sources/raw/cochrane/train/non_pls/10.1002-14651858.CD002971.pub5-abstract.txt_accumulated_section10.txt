@@ -1,0 +1,10 @@
+Background
+When sufficient maternal breast milk is not available, alternative forms of enteral nutrition for preterm or low birth weight (LBW) infants are donor breast milk or artificial formula. Donor breast milk may retain some of the non‐nutritive benefits of maternal breast milk for preterm or LBW infants. However, feeding with artificial formula may ensure more consistent delivery of greater amounts of nutrients. Uncertainty exists about the balance of risks and benefits of feeding formula versus donor breast milk for preterm or LBW infants. 
+Objectives
+To determine the effect of feeding with formula compared with donor breast milk on growth and development in preterm or low birth weight (LBW) infants. 
+Search methods
+We used the Cochrane Neonatal search strategy, including electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 5), Ovid MEDLINE, Embase, and the Cumulative Index to Nursing and Allied Health Literature (3 May 2019), as well as conference proceedings, previous reviews, and clinical trials. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials (RCTs) comparing feeding with formula versus donor breast milk in preterm or LBW infants. 
+Data collection and analysis
+Two review authors assessed trial eligibility and risk of bias and extracted data independently. We analysed treatment effects as described in the individual trials and reported risk ratios (RRs) and risk differences (RDs) for dichotomous data, and mean differences (MDs) for continuous data, with respective 95% confidence intervals (CIs). We used a fixed‐effect model in meta‐analyses and explored potential causes of heterogeneity in subgroup analyses. We assessed the certainty of evidence for the main comparison at the outcome level using GRADE methods. 

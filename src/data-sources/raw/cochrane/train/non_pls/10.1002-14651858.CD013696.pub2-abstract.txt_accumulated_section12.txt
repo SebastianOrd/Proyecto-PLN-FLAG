@@ -1,0 +1,12 @@
+Background
+Mindfulness‐based smoking cessation interventions may aid smoking cessation by teaching individuals to pay attention to, and work mindfully with, negative affective states, cravings, and other symptoms of nicotine withdrawal. Types of mindfulness‐based interventions include mindfulness training, which involves training in meditation; acceptance and commitment therapy (ACT); distress tolerance training; and yoga. 
+Objectives
+To assess the efficacy of mindfulness‐based interventions for smoking cessation among people who smoke, and whether these interventions have an effect on mental health outcomes. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group's specialised register, CENTRAL, MEDLINE, Embase, PsycINFO, and trial registries to 15 April 2021. We also employed an automated search strategy, developed as part of the Human Behaviour Change Project, using Microsoft Academic. 
+Selection criteria
+We included randomised controlled trials (RCTs) and cluster‐RCTs that compared a mindfulness‐based intervention for smoking cessation with another smoking cessation programme or no treatment, and assessed smoking cessation at six months or longer. We excluded studies that solely recruited pregnant women. 
+Data collection and analysis
+We followed standard Cochrane methods. We measured smoking cessation at the longest time point, using the most rigorous definition available, on an intention‐to‐treat basis. We calculated risk ratios (RRs) and 95% confidence intervals (CIs) for smoking cessation for each study, where possible. We grouped eligible studies according to the type of intervention and type of comparator. We carried out meta‐analyses where appropriate, using Mantel‐Haenszel random‐effects models. We summarised mental health outcomes narratively. 
+Main results
+We included 21 studies, with 8186 participants. Most recruited adults from the community, and the majority (15 studies) were conducted in the USA. We judged four of the studies to be at low risk of bias, nine at unclear risk, and eight at high risk. Mindfulness‐based interventions varied considerably in design and content, as did comparators, therefore, we pooled small groups of relatively comparable studies. 

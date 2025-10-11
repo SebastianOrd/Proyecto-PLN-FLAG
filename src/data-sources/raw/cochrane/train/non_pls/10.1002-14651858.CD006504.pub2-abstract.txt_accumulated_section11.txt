@@ -1,0 +1,11 @@
+Background
+Previous Cochrane reviews have considered the use of cholinesterase inhibitors in both Parkinson's disease with dementia (PDD) and dementia with Lewy bodies (DLB). The clinical features of DLB and PDD have much in common and are distinguished primarily on the basis of whether or not parkinsonism precedes dementia by more than a year. Patients with both conditions have particularly severe deficits in cortical levels of the neurotransmitter acetylcholine. Therefore, blocking its breakdown using cholinesterase inhibitors may lead to clinical improvement. 
+Objectives
+To assess the efficacy, safety and tolerability of cholinesterase inhibitors in patients with dementia with Lewy bodies (DLB), Parkinson’s disease with dementia (PDD), and cognitive impairment in Parkinson’s disease falling short of dementia (CIND‐PD) (considered as separate phenomena and also grouped together as Lewy body disease). 
+Search methods
+The trials were identified from a search of ALOIS, the Specialised Register of the Cochrane Dementia and Cognitive Improvement Group (on 30 August 2011) using the search terms Lewy, Parkinson, PDD, DLB, LBD. This register consists of records from major healthcare databases (MEDLINE, EMBASE, PsycINFO, CINAHL) and many ongoing trial databases and is updated regularly. 
+Reference lists of relevant studies were searched for additional trials.
+Selection criteria
+Randomised, double‐blind, placebo‐controlled trials assessing the efficacy of treatment with cholinesterase inhibitors in DLB, PDD and CIND‐PD. 
+Data collection and analysis
+Data were extracted from published reports by one review author (MR). The data for each 'condition' (that is DLB, PDD or CIND‐PD) were considered separately and, where possible, also pooled. Statistical analysis was conducted using Review Manager 5.0. 

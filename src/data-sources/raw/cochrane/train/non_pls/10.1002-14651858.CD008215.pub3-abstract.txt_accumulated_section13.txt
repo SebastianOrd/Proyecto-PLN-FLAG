@@ -1,0 +1,13 @@
+Background
+This is an updated version of the original Cochrane Review published in the Cochrane Library in 2013 (Issue 8) on the risk of ovarian cancer in women using infertility drugs when compared to the general population or to infertile women not treated. The link between fertility drugs and ovarian cancer remains controversial. 
+Objectives
+To evaluate the risk of invasive ovarian cancer and borderline ovarian tumours in women treated with ovarian stimulating drugs for subfertility. 
+Search methods
+The original review included published and unpublished observational studies from 1990 to February 2013. For this update, we extended the searches from February 2013 to November 2018; we evaluated the quality of the included studies and judged the certainty of evidence by using the GRADE approach. We have reported the results in a Summary of findings table to present effect sizes across all outcome types. 
+Selection criteria
+In the original review and in this update, we searched for randomised controlled trials (RCTs) and non‐randomised studies and case series including more than 30 participants. 
+Data collection and analysis
+At least two review authors independently conducted eligibility and 'Risk of bias' assessments and extracted data. We grouped studies based on the fertility drug used for two outcomes: borderline ovarian tumours and invasive ovarian cancer. We conducted no meta‐analyses due to expected methodological and clinical heterogeneity. 
+Main results
+We included 13 case‐control and 24 cohort studies (an additional nine new cohort and two case‐control studies), which included a total of 4,684,724 women. 
+Two cohort studies reported an increased incidence of invasive ovarian cancer in exposed subfertile women compared with unexposed women. One reported a standardised incidence ratio (SIR) of 1.19 (95% confidence interval (CI) 0.54 to 2.25) based on 17 cancer cases. The other cohort study reported a hazard ratio (HR) of 1.93 (95% CI 1.18 to 3.18), and this risk was increased in women remaining nulligravid after using clomiphene citrate (HR 2.49, 95% CI 1.30 to 4.78) versus multiparous women (HR 1.52, 95% CI 0.67 to 3.42) (very low‐certainty evidence). The slight increase in ovarian cancer risk among women having between one and three cycles of in vitro fertilisation (IVF) was reported, but this was not clinically significant (P = 0.18). There was no increase in risk of invasive ovarian cancer after use of infertility drugs in women with the BRCA mutation according to one cohort and one case‐control study. The certainty of evidence as assessed using GRADE was very low. 

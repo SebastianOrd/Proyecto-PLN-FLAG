@@ -1,0 +1,16 @@
+Background
+Among subfertile couples undergoing assisted reproductive technology (ART), pregnancy rates following frozen‐thawed embryo transfer (FET) treatment cycles have historically been found to be lower than following embryo transfer undertaken two to five days following oocyte retrieval. Nevertheless, FET increases the cumulative pregnancy rate, reduces cost, is relatively simple to undertake and can be accomplished in a shorter time period than repeated in vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI) cycles with fresh embryo transfer. FET is performed using different cycle regimens: spontaneous ovulatory (natural) cycles; cycles in which the endometrium is artificially prepared by oestrogen and progesterone hormones, commonly known as hormone therapy (HT) FET cycles; and cycles in which ovulation is induced by drugs (ovulation induction FET cycles). HT can be used with or without a gonadotrophin releasing hormone agonist (GnRHa). This is an update of a Cochrane review; the first version was published in 2008. 
+Objectives
+To compare the effectiveness and safety of natural cycle FET, HT cycle FET and ovulation induction cycle FET, and compare subtypes of these regimens. 
+Search methods
+On 13 December 2016 we searched databases including Cochrane Gynaecology and Fertility's Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO and CINAHL. Other search sources were trials registers and reference lists of included studies. 
+Selection criteria
+We included randomized controlled trials (RCTs) comparing the various cycle regimens and different methods used to prepare the endometrium during FET. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. Our primary outcomes were live birth rates and miscarriage. 
+Main results
+We included 18 RCTs comparing different cycle regimens for FET in 3815 women. The quality of the evidence was low or very low. The main limitations were failure to report important clinical outcomes, poor reporting of study methods and imprecision due to low event rates. We found no data specific to non‐ovulatory women. 
+1. Natural cycle FET comparisons 
+Natural cycle FET versus HT FET 
+No study reported live birth rates, miscarriage or ongoing pregnancy.
+There was no evidence of a difference in multiple pregnancy rates between women in natural cycles and those in HT FET cycle (odds ratio (OR) 2.48, 95% confidence interval (CI) 0.09 to 68.14, 1 RCT, n = 21, very low‐quality evidence). 

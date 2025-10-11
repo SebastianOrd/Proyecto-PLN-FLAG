@@ -1,0 +1,12 @@
+Background
+Acute low back pain (LBP) is a common health problem. Non‐steroidal anti‐inflammatory drugs (NSAIDs) are often used in the treatment of LBP, particularly in people with acute LBP. In 2008, a Cochrane Review was published about the efficacy of NSAIDs for LBP (acute, chronic, and sciatica), identifying a small but significant effect in favour of NSAIDs compared to placebo for short‐term pain reduction and global improvement in participants with acute LBP. This is an update of the previous review, focusing on acute LBP. 
+Objectives
+To assess the effects of NSAIDs compared to placebo and other comparison treatments for acute LBP. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, PubMed, and two trials registers for randomised controlled trials (RCT) to 7 January 2020. We also screened the reference lists from relevant reviews and included studies. 
+Selection criteria
+We included RCTs that assessed the use of one or more types of NSAIDs compared to placebo (the main comparison) or alternative treatments for acute LBP in adults (≥ 18 years); conducted in both primary and secondary care settings. We assessed the effects of treatment on pain reduction, disability, global improvement, adverse events, and return to work. 
+Data collection and analysis
+Two review authors independently selected trials to be included in this review, evaluated the risk of bias, and extracted the data. If appropriate, we performed a meta‐analysis, using a random‐effects model throughout, due to expected variability between studies. We assessed the quality of the evidence using the GRADE approach. We used standard methodological procedures recommended by Cochrane. 
+Main results
+We included 32 trials, with a total of 5356 participants (age range 16 to 78 years). Follow‐up ranged from one day to six months. Studies were conducted across the globe, the majority taking place in Europe and North‐America. Africa and the Eastern Mediterranean region were not represented. We considered seven studies at low risk of bias. Performance and attrition were the most common biases. There was often a lack of information on randomisation procedures and allocation concealment (selection bias); studies were prone to selective reporting bias, since most studies did not register their trials. Almost half of the studies were industry‐funded. 

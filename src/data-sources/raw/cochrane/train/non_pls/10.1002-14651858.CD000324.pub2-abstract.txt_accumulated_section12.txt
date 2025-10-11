@@ -1,0 +1,12 @@
+Background
+Treatment options for tubal ectopic pregnancy are; (1) surgery, e.g. salpingectomy or salpingo(s)tomy, either performed laparoscopically or by open surgery; (2) medical treatment, with a variety of drugs, that can be administered systemically and/or locally by various routes and (3) expectant management. 
+Objectives
+To evaluate the effectiveness and safety of surgery, medical treatment and expectant management of tubal ectopic pregnancy in view of primary treatment success, tubal preservation and future fertility. 
+Search methods
+We searched the Cochrane Menstrual Disorders and Subfertility Group's Specialised Register, Cochrane Controlled Trials Register (up to February 2006), Current Controlled Trials Register (up to October 2006), and MEDLINE (up to October 2006). 
+Selection criteria
+Randomized controlled trials (RCTs) comparing treatments in women with tubal ectopic pregnancy. 
+Data collection and analysis
+Two review authors independently extracted data and assessed quality. Differences were resolved by discussion with all review authors. 
+Main results
+Thirty five studies have been analyzed on the treatment of tubal ectopic pregnancy, describing 25 different comparisons.   Surgery  Laparoscopic salpingostomy is significantly less successful than the open surgical approach in the elimination of tubal ectopic pregnancy (2 RCTs, n = 165, OR 0.28, 95% confidence interval (CI) 0.09 to 0.86) due to a significant higher persistent trophoblast rate in laparoscopic surgery (OR 3.5, 95% CI 1.1 to 11). However, the laparoscopic approach is significantly less costly than open surgery (P = 0.03). Long term follow up (n = 127) shows no evidence of a difference in intra uterine pregnancy rate (OR 1.2, 95% CI 0.59 to 2.5) but there is a non significant tendency to a lower repeat ectopic pregnancy rate (OR 0.47, 95% 0.15 to 1.5). 

@@ -1,0 +1,10 @@
+Background
+According to current recommendations a multimodal approach is believed to be the gold standard for postoperative pain treatment in children. However, several surveys in the last few years demonstrated that postoperative pain in children is still a serious problem, mainly because opioids are avoided. One of the reasons for this is the fear of severe adverse events following opioid administration. Tramadol is a weak mu‐opioid agonist and inhibits reuptake of noradrenaline and serotonin (5HT). Because of a relatively wide therapeutic window and a ceiling effect with a lower risk for severe adverse events (for example respiratory depression) tramadol is a widely used opioid in children. However, the exact efficacy and occurrence of adverse events following tramadol (in comparison with placebo or other opioids) for postoperative pain treatment in children and adolescents are currently not clear. 
+Objectives
+To assess the effectiveness and side effect profile of tramadol for postoperative pain relief in children and adolescents undergoing different surgical procedures. 
+Search methods
+We searched the following electronic databases: the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 6), MEDLINE via PubMed (January 1966 to July 2014) and EMBASE via Ovid (January 1947 to July 2014). There were no restrictions regarding language or date of publication. The reference lists of all included trials were checked for additional studies. 
+Selection criteria
+All randomised controlled clinical trials investigating the perioperative administration of tramadol compared to placebo or other opioids for postoperative pain treatment in children and adolescents were included. 
+Data collection and analysis
+Three review authors independently assessed the study eligibility, performed the data extraction and assessed the risk of bias of included trials. 

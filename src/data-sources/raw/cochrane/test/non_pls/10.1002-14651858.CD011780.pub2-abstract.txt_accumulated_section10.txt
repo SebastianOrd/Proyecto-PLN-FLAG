@@ -1,0 +1,10 @@
+Background
+Poliomyelitis is a debilitating and deadly infection. Despite exponential growth in medical science, there is still no cure for the disease, which is caused by three types of wild polioviruses: types 1, 2, and 3. According to the Global Polio Eradication Initiative (GPEI), wild poliovirus is still in circulation in three countries, and fresh cases have been reported even in the year 2018. 
+Due to the administration of live vaccines, the risk for vaccine‐derived poliovirus (VDPV) is high in areas that are free from wild polioviruses. This is evident based on the fact that VDPV caused 20 outbreaks between 2000 and 2011. 
+Recent recommendations from the World Health Organization favoured the inclusion of inactivated poliovirus vaccine (IPV) in the global immunisation schedule. IPV can be delivered in two ways: intramuscularly and intradermally. IPV was previously administered intramuscularly, but shortages in vaccine supplies, coupled with the higher costs of the vaccines, led to the innovation of delivering a fractional dose (one‐fifth) of IPV intradermally. However, there is uncertainty regarding the efficacy, immunogenicity, and safety of an intradermal, fractional dose of IPV compared to an intramuscular, full dose of IPV. 
+Objectives
+To compare the immunogenicity and efficacy of an inactivated poliovirus vaccine (IPV) in equivalent immunisation schedules using fractional‐dose IPV given via the intradermal route versus full‐dose IPV given via the intramuscular route. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, 10 other databases, and two trial registers up to February 2019. We also searched the GPEI website and scanned the bibliographies of key studies and reviews in order to identify any additional published and unpublished trials in this area not captured by our electronic searches. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs of healthy individuals of any age who are eligible for immunisation with IPV, comparing intradermal fractional‐dose (one‐fifth) IPV to intramuscular full‐dose IPV. 

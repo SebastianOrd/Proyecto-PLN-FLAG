@@ -1,0 +1,9 @@
+How accurate are routine laboratory tests for diagnosis of COVID‐19?
+What are routine laboratory tests? 
+Routine laboratory tests are blood tests that assess the health status of a patient. Tests include counts of different types of white blood cells (these help the body fight infection), and detection of markers (proteins) that indicate organ damage, and general inflammation. These tests are widely available and in some places they may be the only tests available for diagnosis of COVID‐19. 
+What did we want to find out? 
+People with suspected COVID‐19 need to know quickly whether they are infected so that they can self‐isolate, receive treatment, and inform close contacts. 
+Currently, the standard test for COVID‐19 is usually the RT‐PCR test. In the RT‐PCR, samples from the nose and throat are sent away for testing, usually to a large, central laboratory with specialist equipment. Other tests include imaging tests, like X‐rays, which also require specialist equipment. 
+We wanted to know whether routine laboratory tests were sufficiently accurate to diagnose COVID‐19 in people with suspected COVID‐19. We also wanted to know whether they were accurate enough to prioritize patients for different levels of treatment. 
+What did we do? 
+We searched for studies that assessed the accuracy of routine laboratory tests to diagnose COVID‐19 compared with RT‐PCR or other tests. Studies could be of any design and be set anywhere in the world. Studies could include participants of any age or sex, with suspected COVID‐19, or use samples from people known to have – or not to have ‐ COVID‐19. 

@@ -1,0 +1,13 @@
+Background
+Urinary incontinence imposes a significant health and economic burden to society. Periurethral or transurethral injection of bulking agents is a minimally invasive surgical procedure used as one the surgical treatments of stress urinary incontinence (SUI) in adult women. 
+Objectives
+To assess the effects of periurethral or transurethral injection therapy on the cure or improvement of urinary incontinence in women. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Trials Register (searched 8 November 2010) and the reference lists of relevant articles. 
+Selection criteria
+All randomised or quasi‐randomised controlled trials of treatment for urinary incontinence in which at least one management arm involved periurethral or transurethral injection therapy. 
+Data collection and analysis
+Two review authors independently assessed methodological quality of each study using explicit criteria. Data extraction was undertaken independently and clarification concerning possible unreported data sought directly from the investigators. 
+Main results
+Excluding duplicate reports, we identified 14 trials (excluding one that was subsequently withdrawn from publication and not included in this analysis) including 2004 women that met the inclusion criteria. The limited data available were not suitable for meta‐analysis because they all came from separate trials. Trials were small and generally of moderate quality. 
+One trial of 45 women that compared injection therapy with conservative treatment showed early benefit for the injectable therapy with respect to continence grade (risk ratio (RR) 0.70, 95% confidence interval (CI) 0.52 to 0.94) and quality of life (mean difference (MD) 0.54, 95% CI 0.16 to 0.92). Another trial, comparing Injection of autologous fat with placebo, terminated early because of safety concerns. Two trials that compared injection with surgical management found significantly better objective cure in the surgical group (RR 4.77, 95% CI 1.96 to 11.64; and RR 1.69, 95% CI 1.02 to 2.79), although the latter trial data did not reach statistical significance if an intention‐to‐treat analysis was used. 

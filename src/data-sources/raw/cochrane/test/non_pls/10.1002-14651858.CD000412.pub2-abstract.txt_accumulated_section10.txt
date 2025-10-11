@@ -1,0 +1,10 @@
+Background
+In normal menstrual cycles, gonadotrophin releasing hormone (GnRH) secretion is pulsatile, with intervals of 60‐120 minutes in the follicular phase. Treatment with pulsatile GnRH infusion by the intravenous or subcutaneous route using a portable pump has been used successfully in patients with hypogonadotrophic hypogonadism. Assuming that the results would be similar in women with polycystic ovary syndrome (PCOS), pulsatile GnRH has been used to induce ovulation in these women. Although ovulation and pregnancy have been achieved, the effectiveness of pulsatile GnRH in women with PCOS has not been clearly demonstrated. 
+Objectives
+To assess the effectiveness of pulsatile GnRH administration in women with polycystic ovary syndrome (PCOS), in terms of ongoing pregnancy, ovulation, clinical pregnancy, ovarian hyperstimulation syndrome (OHSS), multiple pregnancy, miscarriage, and multifollicular growth. 
+Search methods
+We searched the Cochrane Menstrual Disorders & Subfertility Group trials register (searched 13 August 2003), the Cochrane Central Register of Controlled Trials (CENTRAL) (Cochrane Library Issue 2, August 2001), MEDLINE (January 1966 to August 2003), EMBASE (January 1985 to August 2003) and reference lists of articles. We also contacted manufacturers and researchers in the field. 
+Selection criteria
+All relevant published randomised clinical trials were selected for inclusion if treatment consisted of pulsatile GnRH administration versus another treatment for ovulation induction in subfertile women with PCOS. 
+Data collection and analysis
+Relevant data were extracted independently by two reviewers (NB, MW). Validity was assessed in terms of method of randomisation, completeness of follow‐up, presence or absence of crossover and co‐intervention. All trials were screened and analysed for predetermined quality criteria. Data synthesis: 2X2 tables were generated for all the relevant outcomes. Odds ratios were generated using the Peto method. 

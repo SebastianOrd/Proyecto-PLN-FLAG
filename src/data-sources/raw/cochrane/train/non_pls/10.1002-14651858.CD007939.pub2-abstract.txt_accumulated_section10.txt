@@ -1,0 +1,10 @@
+Background
+Diabetic retinopathy is one of the major causes of blindness and the number of cases has risen in recent years. Herbal medicine has been used to treat diabetes and its complications including diabetic retinopathy for thousands of years around the world. However, common practice is not always evidence‐based. Evidence is needed to help people with diabetic retinopathy or doctors to make judicious judgements about using herbal medicine as treatment. 
+Objectives
+To evaluate the effectiveness and harm of single herbal medicine for diabetic retinopathy.
+Search methods
+We searched CENTRAL, which contains the Cochrane Eyes and Vision Trials Register, MEDLINE, Embase, OpenGrey, the ISRCTN registry, ClinicalTrials.gov and the ICTRP. The date of the search was 12 June 2018. We also searched the following Chinese databases in June 2013: Chinese BioMedical Literature Database (CBM), Traditional Chinese Medical Literature Analysis and Retrieval System (TCMLARS), Wanfang China Dissertation Database (CDDB), Wanfang China Conference Paper Database (CCPD) and the Index to Chinese Periodical Literature. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs that investigated the effects of any single herb (or extracts from a single herb) as a treatment for people with diabetic retinopathy. We considered the following comparators: placebo, no treatment, non‐herbal (conventional) medicine or surgical treatment. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the risk of bias in the studies. Our prespecified outcomes were: progression of diabetic retinopathy, visual acuity, microaneurysms and haemorrhages in the retina, blood glycated haemoglobin A1c (HbA1c) (%) and adverse effects. We performed meta‐analyses using risk ratios (RR) for dichotomous outcomes and mean differences (MD) for continuous outcomes, with 95% confidence intervals (CI). We assessed the certainty of the evidence using GRADE. 

@@ -1,0 +1,15 @@
+Background
+Surgical removal of the tonsils, with or without adenoidectomy (adeno‐/tonsillectomy), is a common ENT operation, but the indications for surgery are controversial. This is an update of a Cochrane review first published in The Cochrane Library in Issue 3, 1999 and previously updated in 2009. 
+Objectives
+To assess the effectiveness of tonsillectomy (with and without adenoidectomy) in children and adults with chronic/recurrent acute tonsillitis in reducing the number and severity of episodes of tonsillitis or sore throat. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; Cambridge Scientific Abstracts; ISRCTN and additional sources for published and unpublished trials. The date of the most recent search was 30 June 2014. 
+Selection criteria
+Randomised controlled trials comparing tonsillectomy (with or without adenoidectomy) with non‐surgical treatment in adults and children with chronic/recurrent acute tonsillitis. 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+This review includes seven trials with low to moderate risk of bias: five undertaken in children (987 participants) and two in adults (156 participants). An eighth trial in adults (40 participants) was at high risk of bias and did not provide any data for analysis. Good information about the effectiveness of adeno‐/tonsillectomy is only available for the first year following surgery in children and for a shorter period (five to six months) in adults. 
+We combined data from five trials in children; these trials included children who were 'severely affected' (based on the specific 'Paradise' criteria) and less severely affected. Children who had an adeno‐/tonsillectomy had an average of three episodes of sore throats (of any severity) in the first postoperative year, compared to 3.6 episodes in the control group; a difference of 0.6 episodes (95% confidence interval (CI) ‐1 to ‐0.1; moderate quality evidence). One of the three episodes in the surgical group was the 'predictable' one that occurred in the immediate postoperative period. 
+When we analysed only episodes of moderate/severe sore throat, children who had been more severely affected and had adeno‐/tonsillectomy had on average 1.1 episodes of sore throat in the first postoperative year, compared with 1.2 episodes in the control group (low quality evidence). This is not a significant difference but one episode in the surgical group was that occurring immediately after surgery. 
+Less severely affected children had more episodes of moderate/severe sore throat after surgery (1.2 episodes) than in the control group (0.4 episodes: difference 0.8, 95% CI 0.7 to 0.9), but again one episode was the predictable postoperative episode (moderate quality evidence). 

@@ -1,0 +1,10 @@
+Background
+This is an update of a Cochrane Review that was originally published in 2014, Issue 2.  The presence of residual disease after primary debulking surgery is a highly significant prognostic factor in women with advanced ovarian cancer. In up to 60% of women, residual tumour of > 1 cm is left behind after primary debulking surgery (defined as suboptimal debulking). These women might have benefited from neoadjuvant chemotherapy (NACT) prior to interval debulking surgery instead of primary debulking surgery followed by chemotherapy. It is therefore important to select accurately those women who would best be treated with primary debulking surgery followed by chemotherapy from those who would benefit from NACT prior to surgery. 
+Objectives
+To determine if performing a laparoscopy, in addition to conventional diagnostic work‐up, in women suspected of advanced ovarian cancer is accurate in predicting the resectability of disease. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 6) in the Cochrane Library; MEDLINE via Ovid, Embase via Ovid, MEDION and Science Citation Index and Conference Proceedings Citation Index (ISI Web of Science) to July 2018. We also checked references of identified primary studies and review articles. 
+Selection criteria
+We included studies that evaluated the diagnostic accuracy of laparoscopy to determine the resectability of disease in women who are suspected of advanced ovarian cancer and planned to receive primary debulking surgery. 
+Data collection and analysis
+Pairs of review authors independently assessed the quality of included studies using QUADAS‐2 and extracted data on study and participant characteristics, index test, target condition and reference standard. We extracted data for two‐by‐two tables and summarised these graphically. We calculated sensitivity and specificity and negative predictive values. 

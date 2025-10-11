@@ -1,0 +1,12 @@
+Background
+Open‐angle glaucoma (OAG) is an important cause of blindness worldwide. Laser trabeculoplasty, a treatment modality, still does not have a clear position in the treatment sequence. 
+Objectives
+To assess the effects of laser trabeculoplasty for treating OAG and ocular hypertension (OHT) when compared to medication, glaucoma surgery or no intervention. We also wished to compare the effectiveness of different laser trabeculoplasty technologies for treating OAG and OHT. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2021, Issue 10); Ovid MEDLINE; Ovid Embase; the ISRCTN registry; LILACS, ClinicalTrials.gov and the WHO ICTRP. The date of the search was 28 October 2021. We also contacted researchers in the field. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing laser trabeculoplasty with no intervention, with medical treatment, or with surgery in people with OAG or OHT. We also included trials comparing different types of laser trabeculoplasty technologies. 
+Data collection and analysis
+We used standard methods expected by Cochrane. Two authors screened search results and extracted data independently. We considered the following outcomes at 24 months: failure to control intraocular pressure (IOP), failure to stabilise visual field progression, failure to stabilise optic neuropathy progression, adverse effects, quality of life, and costs. We graded the 'certainty' of the evidence using GRADE. 
+Main results
+We included 40 studies (5613 eyes of 4028 people) in this review. The majority of the studies were conducted in Europe and in the USA. Most of the studies were at risk of performance and/or detection bias as they were unmasked. None of the studies were judged as having low risk of bias for all domains. We did not identify any studies of laser trabeculoplasty alone versus no intervention. 

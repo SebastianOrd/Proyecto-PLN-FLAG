@@ -1,0 +1,10 @@
+Background
+Infective endocarditis is a severe infection arising in the lining of the chambers of the heart. It can be caused by fungi, but most often is caused by bacteria. Many dental procedures cause bacteraemia, which could lead to bacterial endocarditis in a small proportion of people. The incidence of bacterial endocarditis is low, but it has a high mortality rate.  
+Guidelines in many countries have recommended that antibiotics be administered to people at high risk of endocarditis prior to invasive dental procedures. However, guidance by the National Institute for Health and Care Excellence (NICE) in England and Wales states that antibiotic prophylaxis against infective endocarditis is not recommended routinely for people undergoing dental procedures. This is an update of a review that we first conducted in 2004 and last updated in 2013. 
+Objectives
+Primary objective
+To determine whether prophylactic antibiotic administration, compared to no antibiotic administration or placebo, before invasive dental procedures in people at risk or at high risk of bacterial endocarditis, influences mortality, serious illness or the incidence of endocarditis. 
+Secondary objectives
+To determine whether the effect of dental antibiotic prophylaxis differs in people with different cardiac conditions predisposing them to increased risk of endocarditis, and in people undergoing different high risk dental procedures. 
+Harms
+Had we foundno evidence from randomised controlled trials or cohort studies on whether prophylactic antibiotics affected mortality or serious illness, and we had found evidence from these or case‐control studies suggesting that prophylaxis with antibiotics reduced the incidence of endocarditis, then we would also have assessed whether the harms of prophylaxis with single antibiotic doses, such as with penicillin (amoxicillin 2 g or 3 g) before invasive dental procedures, compared with no antibiotic or placebo, equalled the benefits in prevention of endocarditis in people at high risk of this disease. 

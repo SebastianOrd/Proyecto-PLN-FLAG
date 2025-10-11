@@ -1,0 +1,10 @@
+Background
+Trust is a fundamental component of the patient‐doctor relationship and is associated with increased satisfaction, adherence to treatment, and continuity of care. Our 2006 review found little evidence that interventions improve patients' trust in their doctor; therefore an updated search was required to find out if there is further evidence of the effects of interventions that may improve trust in doctors or groups of doctors. 
+Objectives
+To update our earlier review assessing the effects of interventions intended to improve patients' trust in doctors or a group of doctors. 
+Search methods
+In 2003 we searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), MEDLINE, EMBASE, Health Star, PsycINFO, CINAHL, LILACS, African Trials Register, African Health Anthology, Dissertation Abstracts International and the bibliographies of studies selected for inclusion. We also contacted researchers active in the field. We updated and re‐ran the searches on available original databases (Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library issue 2, 2013), MEDLINE (OvidSP), EMBASE (OvidSP), PsycINFO (OvidSP), CINAHL (Ebsco)) as well as Proquest Dissertations and Current Contents for the period 2003 to 18 March 2013. 
+Selection criteria
+Randomised controlled trials (RCTs), quasi‐randomised controlled trials, controlled before and after studies, and interrupted time series of interventions (informative, educational, behavioural, organisational) directed at doctors or patients (or carers) where trust was assessed as a primary or secondary outcome. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the risk of bias of included studies. Where mentioned, we extracted data on adverse effects. We synthesised data narratively. 

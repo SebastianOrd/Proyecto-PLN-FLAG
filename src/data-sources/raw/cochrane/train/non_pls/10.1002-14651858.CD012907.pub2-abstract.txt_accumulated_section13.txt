@@ -1,0 +1,13 @@
+Background
+Health systems need timely and reliable access to essential medicines and health commodities, but problems with access are common in many settings. Mobile technologies offer potential low‐cost solutions to the challenge of drug distribution and commodity availability in primary healthcare settings. However, the evidence on the use of mobile devices to address commodity shortages is sparse, and offers no clear way forward. 
+Objectives
+Primary objective 
+To assess the effects of strategies for notifying stock levels and digital tracking of healthcare‐related commodities and inventory via mobile devices across the primary healthcare system 
+Secondary objectives 
+To describe what mobile device strategies are currently being used to improve reporting and digital tracking of health commodities 
+To identify factors influencing the implementation of mobile device interventions targeted at reducing stockouts of health commodities 
+Search methods
+We searched CENTRAL, MEDLINE Ovid, Embase Ovid, Global Index Medicus WHO, POPLINE K4Health, and two trials registries in August 2019. We also searched Epistemonikos for related systematic reviews and potentially eligible primary studies. We conducted a grey literature search using mHealthevidence.org, and issued a call for papers through popular digital health communities of practice. Finally, we conducted citation searches of included studies. We searched for studies published after 2000, in any language. 
+Selection criteria
+For the primary objective, we included individual and cluster‐randomised trials, controlled before‐after studies, and interrupted time series studies. For the secondary objectives, we included any study design, which could be quantitative, qualitative, or descriptive, that aimed to describe current strategies for commodity tracking or stock notification via mobile devices; or aimed to explore factors that influenced the implementation of these strategies, including studies of acceptability or feasibility. 
+We included studies of all cadres of healthcare providers, including lay health workers, and others involved in the distribution of health commodities (administrative staff, managerial and supervisory staff, dispensary staff); and all other individuals involved in stock notification, who may be based in a facility or a community setting, and involved with the delivery of primary healthcare services. 

@@ -1,0 +1,8 @@
+Background
+The consequences of influenza in the elderly (those age 65 years or older) are complications, hospitalisations, and death. The primary goal of influenza vaccination in the elderly is to reduce the risk of death among people who are most vulnerable. This is an update of a review published in 2010. Future updates of this review will be made only when new trials or vaccines become available. Observational data included in previous versions of the review have been retained for historical reasons but have not been updated because of their lack of influence on the review conclusions. 
+Objectives
+To assess the effects (efficacy, effectiveness, and harm) of vaccines against influenza in the elderly. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library 2016, Issue 11), which includes the Cochrane Acute Respiratory Infections Group's Specialised Register; MEDLINE (1966 to 31 December 2016); Embase (1974 to 31 December 2016); Web of Science (1974 to 31 December 2016); CINAHL (1981 to 31 December 2016); LILACS (1982 to 31 December 2016); WHO International Clinical Trials Registry Platform (ICTRP; 1 July 2017); and ClinicalTrials.gov (1 July 2017). 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs assessing efficacy against influenza (laboratory‐confirmed cases) or effectiveness against influenza‐like illness (ILI) or safety. We considered any influenza vaccine given independently, in any dose, preparation, or time schedule, compared with placebo or with no intervention. Previous versions of this review included 67 cohort and case‐control studies. The searches for these trial designs are no longer updated. 

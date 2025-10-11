@@ -1,0 +1,13 @@
+Background
+Cystic fibrosis (CF) a life‐limiting inherited disease affecting a number of organs, but classically associated with chronic lung infection and progressive loss of lung function. Chronic infection by Burkholderia cepacia complex (BCC) is associated with increased morbidity and mortality and therefore represents a significant challenge to clinicians treating people with CF. This review examines the current evidence for long‐term antibiotic therapy in people with CF and chronic BCC infection. 
+Objectives
+The objective of this review is to assess the effects of long‐term oral and inhaled antibiotic therapy targeted against chronic BCC lung infections in people with CF. The primary objective is to assess the efficacy of treatments in terms of improvements in lung function and reductions in exacerbation rate. Secondary objectives include quantifying adverse events, mortality and changes in quality of life associated with treatment. 
+Search methods
+We searched the Cochrane Cystic Fibrosis Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. We also searched online trial registries and the reference lists of relevant articles and reviews. 
+Date of last search: 12 April 2021.
+Selection criteria
+Randomised controlled trials (RCTs) of long‐term antibiotic therapy in people with CF and chronic BCC infection. 
+Data collection and analysis
+Two authors independently extracted data, assessed risk of bias and assessed the quality of the evidence using GRADE. 
+Main results
+We included one RCT (100 participants) which lasted 52 weeks comparing continuous inhaled aztreonam lysine (AZLI) and placebo in a double‐blind RCT for 24 weeks, followed by a 24‐week open‐label extension and a four‐week follow‐up period. The average participant age was 26.3 years, 61% were male and average lung function was 56.5% predicted. 

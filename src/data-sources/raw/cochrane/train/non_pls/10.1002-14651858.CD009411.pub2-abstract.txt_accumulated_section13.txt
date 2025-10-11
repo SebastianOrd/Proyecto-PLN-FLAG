@@ -1,0 +1,13 @@
+Background
+Hodgkin lymphoma (HL) is one of the most common malignancies in young adults and has become curable for the majority of patients, even in advanced stage. After first‐line therapy, 15% to 20% do not respond to treatment and relapse. For those patients, high‐dose chemotherapy (HDCT) followed by autologous stem cell transplantation (ASCT) is a frequently used therapy option. 
+Objectives
+To find the best available treatment with HDCT followed by ASCT for patients with relapsed or refractory HL after first‐line treatment. 
+Search methods
+We searched the Central Register of Controlled Trials (CENTRAL), MEDLINE, and relevant conference proceedings up to January 2013 for randomised controlled trials (RCTs). We also contacted experts for unpublished data. 
+Selection criteria
+We included RCTs comparing HDCT followed by ASCT versus conventional chemotherapy without ASCT, or versus additional sequential HDCT (SHDCT) followed by ASCT. We also included RCTs with different HDCT regimens before ASCT in patients with relapsed or primary refractory HL after any first‐line therapy. 
+Data collection and analysis
+Two review authors (MR, NS) independently selected relevant studies, extracted data and assessed trial quality. We used hazard ratios (HR) for overall survival (OS) and progression‐free survival (PFS), and we calculated risk ratios (RR) for the other outcomes. We presented all measures with 95% confidence intervals (CI). 
+We assessed the quality of evidence using GRADE methods.
+Main results
+Our search resulted in 1663 potentially relevant references, of which we included three trials with 14 publications, assessing 398 patients. Overall, we judged the quality of the trials as moderate. The trials were all reported as randomised controlled and open‐label. We included two RCTs assessing the effect of HDCT followed by ASCT compared with conventional chemotherapy in a meta‐analysis. The number of studies was very low, therefore, the quantification of heterogeneity was not reliable. We included one further RCT (one assessing additional SHDCT followed by ASCT versus HDCT followed by ASCT), which was not compatible with our meta‐analysis. For this trial, we performed further analyses. 

@@ -1,0 +1,14 @@
+Background
+Drugs are widely used in borderline personality disorder (BPD) treatment, chosen because of properties known from other psychiatric disorders ("off‐label use"), mostly targeting affective or impulsive symptom clusters. 
+Objectives
+To assess the effects of drug treatment in BPD patients.
+Search methods
+We searched bibliographic databases according to the Cochrane Developmental, Psychosocial and Learning Problems Group strategy up to September 2009, reference lists of articles, and contacted researchers in the field. 
+Selection criteria
+Randomised studies comparing drug versus placebo, or drug versus drug(s) in BPD patients. Outcomes included total BPD severity, distinct BPD symptom facets according to DSM‐IV criteria, associated psychopathology not specific to BPD, attrition and adverse effects. 
+Data collection and analysis
+Two authors selected trials, assessed quality and extracted data, independently.
+Main results
+Twenty‐eight trials involving a total of 1742 trial participants were included. First‐generation antipsychotics (flupenthixol decanoate, haloperidol, thiothixene); second‐generation antipsychotics (aripirazole, olanzapine, ziprasidone), mood stabilisers (carbamazepine, valproate semisodium, lamotrigine, topiramate), antidepressants (amitriptyline, fluoxetine, fluvoxamine, phenelzine sulfate, mianserin), and dietary supplementation (omega‐3 fatty acid) were tested. First‐generation antipsychotics were subject to older trials, whereas recent studies focussed on second‐generation antipsychotics and mood stabilisers. Data were sparse for individual comparisons, indicating marginal effects for first‐generation antipsychotics and antidepressants. 
+The findings were suggestive in supporting the use of second‐generation antipsychotics, mood stabilisers, and omega‐3 fatty acids, but require replication, since most effect estimates were based on single studies. The long‐term use of these drugs has not been assessed. 
+Adverse event data were scarce, except for olanzapine. There was a possible increase in self‐harming behaviour, significant weight gain, sedation and changes in haemogram parameters with olanzapine. A significant decrease in body weight was observed with topiramate treatment. All drugs were well tolerated in terms of attrition. 

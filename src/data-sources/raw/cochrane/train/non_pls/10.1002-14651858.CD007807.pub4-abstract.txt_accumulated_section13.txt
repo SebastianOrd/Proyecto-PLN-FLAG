@@ -1,0 +1,13 @@
+Background
+A couple may be considered to have fertility problems if they have been trying to conceive for over a year with no success. This may affect up to a quarter of all couples planning a child. It is estimated that for 40% to 50% of couples, subfertility may result from factors affecting women. Antioxidants are thought to reduce the oxidative stress brought on by these conditions. Currently, limited evidence suggests that antioxidants improve fertility, and trials have explored this area with varied results. This review assesses the evidence for the effectiveness of different antioxidants in female subfertility. 
+Objectives
+To determine whether supplementary oral antioxidants compared with placebo, no treatment/standard treatment or another antioxidant improve fertility outcomes for subfertile women. 
+Search methods
+We searched the following databases (from their inception to September 2019), with no language or date restriction: Cochrane Gynaecology and Fertility Group (CGFG) specialised register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL and AMED. We checked reference lists of relevant studies and searched the trial registers. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared any type, dose or combination of oral antioxidant supplement with placebo, no treatment or treatment with another antioxidant, among women attending a reproductive clinic. We excluded trials comparing antioxidants with fertility drugs alone and trials that only included fertile women attending a fertility clinic because of male partner infertility. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. The primary review outcome was live birth; secondary outcomes included clinical pregnancy rates and adverse events. 
+Main results
+We included 63 trials involving 7760 women. Investigators compared oral antioxidants, including: combinations of antioxidants, N‐acetylcysteine, melatonin, L‐arginine, myo‐inositol, carnitine, selenium, vitamin E, vitamin B complex, vitamin C, vitamin D+calcium, CoQ10, and omega‐3‐polyunsaturated fatty acids versus placebo, no treatment/standard treatment or another antioxidant. Only 27 of the 63 included trials reported funding sources. 
+Due to the very low‐quality of the evidence we are uncertain whether antioxidants improve live birth rate compared with placebo or no treatment/standard treatment (odds ratio (OR) 1.81, 95% confidence interval (CI) 1.36 to 2.43; P < 0.001, I2 = 29%; 13 RCTs, 1227 women). This suggests that among subfertile women with an expected live birth rate of 19%, the rate among women using antioxidants would be between 24% and 36%. 

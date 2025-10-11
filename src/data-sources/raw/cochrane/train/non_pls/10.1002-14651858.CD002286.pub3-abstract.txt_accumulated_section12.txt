@@ -1,0 +1,12 @@
+Background
+This review is an update of a previously published review in the Cochrane Database of Systematic Reviews on 'Feverfew for preventing migraine' (2004, Issue 1). Feverfew (Tanacetum parthenium L.) extract is a herbal remedy, which has been used for preventing attacks of migraine. 
+Objectives
+To systematically review the evidence from double‐blind randomised controlled trials (RCTs) assessing the clinical efficacy and safety of feverfew monopreparations versus placebo for preventing migraine. 
+Search methods
+For this updated version of the review we searched CENTRAL, MEDLINE, EMBASE and AMED to January 2015. We contacted manufacturers of feverfew and checked the bibliographies of identified articles for further trials. 
+Selection criteria
+We included randomised, placebo‐controlled, double‐blind trials assessing the efficacy of feverfew monopreparations for preventing migraine in patients of any age. We included trials using clinical outcome measures, while we excluded trials focusing exclusively on physiological parameters. There were no restrictions regarding the language of publication. 
+Data collection and analysis
+We systematically extracted data on patients, interventions, methods, outcome measures, results and adverse events. We assessed risk of bias using the Cochrane 'Risk of bias' tool and evaluated methodological quality using the Oxford Quality Scale developed by Jadad and colleagues. Two review authors (BW and MHP for this update, MHP and EE for the original version) independently selected studies, assessed methodological quality and extracted data. We resolved disagreements concerning evaluation of individual trials through discussion. 
+Main results
+We identified one new study for this update, resulting in six trials (561 patients) meeting the inclusion criteria. Five of the six trials reported on the main outcome, migraine frequency. Although five of the trials were generally of good methodological quality, all studies were either of unclear or high risk of bias with regards to sample size. Pooled analysis of the results was not possible due to the lack of common outcome measures and heterogeneity between studies in terms of participants, interventions and designs. 

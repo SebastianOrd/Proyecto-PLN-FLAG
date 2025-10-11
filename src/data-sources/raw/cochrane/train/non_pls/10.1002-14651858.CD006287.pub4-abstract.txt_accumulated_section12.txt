@@ -1,0 +1,12 @@
+Background
+Peritonsillar abscess is a common infection presenting as a collection of pus in the peritonsillar area. The condition is characterised by a severe sore throat, difficulty in swallowing and pain on swallowing, fever and malaise, and trismus. Needle aspiration and incision and drainage are the two main treatment modalities currently used in the treatment of this condition. The effectiveness of one versus the other has not been clearly demonstrated and remains an area of debate. 
+Objectives
+To assess the effectiveness and risks of needle aspiration versus incision and drainage for the treatment of peritonsillar abscess in older children (eight years of age or older), adolescents and adults. 
+Search methods
+The Cochrane ENT Information Specialist searched the ENT Trials Register; Central Register of Controlled Trials (CENTRAL 2016, Issue 7); Ovid MEDLINE; Ovid Embase; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 25 August 2016. 
+Selection criteria
+Randomised controlled trials comparing needle aspiration with incision and drainage.
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. Our primary outcomes were recurrence rate (proportion of patients needing repeat intervention) and adverse effects associated with the intervention. Secondary outcomes were time to resumption of normal diet, complications of the disease process and symptom scores. We used GRADE to assess the quality of evidence for each outcome; this is indicated in italics. 
+Main results
+We included 11 studies (674 participants). The risk of bias was high or unclear in all of the included studies. All studies compared needle aspiration to incision and drainage. 

@@ -1,0 +1,10 @@
+Background
+Allergic rhinitis is the most common of the allergic diseases. Despite improved understanding of the pathophysiology of allergic rhinitis and advances in its pharmacological treatment, its prevalence has increased worldwide. For patients whose symptoms remain uncontrolled despite medical treatment, allergen injection immunotherapy is advised. An allergen‐based treatment may reduce symptoms, the need for medication and modify the natural course of this disease. 
+Objectives
+To evaluate the efficacy and safety of subcutaneous specific allergen immunotherapy, compared with placebo, for reducing symptoms and medication requirements in seasonal allergic rhinitis patients. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, Issue 1 2006), MEDLINE (1950 to 2006), EMBASE (1974 to 2006), Pre‐MEDLINE, KOREAMED, INDMED, LILACS, PAKMEDINET, Scisearch, mRCT and the National Research Register. The date of the last search was February 2006. 
+Selection criteria
+All studies identified by the searches were assessed to identify randomised controlled trials involving participants with symptoms of seasonal allergic rhinitis and proven allergen sensitivity, treated with subcutaneous allergen specific immunotherapy or corresponding placebo. 
+Data collection and analysis
+Two independent authors identified all studies reporting double‐blind, placebo controlled randomised trials of specific immunotherapy in patients with seasonal allergic rhinitis due to tree, grass or weed pollens. Two authors independently performed quality assessment of studies. Data from identified studies were abstracted onto a standard extraction sheet and subsequently entered into RevMan 4.2.8. Analysis was performed using the Standardised Mean Difference (SMD) method and a random‐effects model; P values < 0.05 were considered statistically significant. The primary outcome measures were symptom scores, medication use, quality of life and adverse events. 

@@ -1,0 +1,13 @@
+Background
+Worldwide, there is an increasing incidence of type 2 diabetes mellitus (T2DM). Metformin is still the recommended first‐line glucose‐lowering drug for people with T2DM. Despite this, the effects of metformin on patient‐important outcomes are still not clarified. 
+Objectives
+To assess the effects of metformin monotherapy in adults with T2DM.
+Search methods
+We based our search on a systematic report from the Agency for Healthcare Research and Quality, and topped‐up the search in CENTRAL, MEDLINE, Embase, WHO ICTRP, and ClinicalTrials.gov. Additionally, we searched the reference lists of included trials and systematic reviews, as well as health technology assessment reports and medical agencies. The date of the last search for all databases was 2 December 2019, except Embase (searched up 28 April 2017). 
+Selection criteria
+We included randomised controlled trials (RCTs) with at least one year's duration comparing metformin monotherapy with no intervention, behaviour changing interventions or other glucose‐lowering drugs in adults with T2DM. 
+Data collection and analysis
+Two review authors read all abstracts and full‐text articles/records, assessed risk of bias, and extracted outcome data independently. We resolved discrepancies by involvement of a third review author. For meta‐analyses we used a random‐effects model with investigation of risk ratios (RRs) for dichotomous outcomes and mean differences (MDs) for continuous outcomes, using 95% confidence intervals (CIs) for effect estimates. We assessed the overall certainty of the evidence by using the GRADE instrument. 
+Main results
+We included 18 RCTs with multiple study arms (N = 10,680). The percentage of participants finishing the trials was approximately 58% in all groups. Treatment duration ranged from one to 10.7 years. We judged no trials to be at low risk of bias on all 'Risk of bias' domains. The main outcomes of interest were all‐cause mortality, serious adverse events (SAEs), health‐related quality of life (HRQoL), cardiovascular mortality (CVM), non‐fatal myocardial infarction (NFMI), non‐fatal stroke (NFS), and end‐stage renal disease (ESRD). 
+Two trials compared metformin (N = 370) with insulin (N = 454). Neither trial reported on all‐cause mortality, SAE, CVM, NFMI, NFS or ESRD. One trial provided information on HRQoL but did not show a substantial difference between the interventions. 

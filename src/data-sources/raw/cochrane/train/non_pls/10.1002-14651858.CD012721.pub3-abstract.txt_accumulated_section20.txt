@@ -1,0 +1,20 @@
+Background
+Beta‐blockers and inhibitors of the renin‐angiotensin‐aldosterone system improve survival and reduce morbidity in people with heart failure with reduced left ventricular ejection fraction (LVEF); a review of the evidence is required to determine whether these treatments are beneficial for people with heart failure with preserved ejection fraction (HFpEF). 
+Objectives
+To assess the effects of beta‐blockers, angiotensin‐converting enzyme inhibitors, angiotensin receptor blockers, angiotensin receptor neprilysin inhibitors, and mineralocorticoid receptor antagonists in people with HFpEF. 
+Search methods
+We updated searches of CENTRAL, MEDLINE, Embase, and one clinical trial register on 14 May 2020 to identify eligible studies, with no language or date restrictions. We checked references from trial reports and review articles for additional studies.  
+Selection criteria
+We included randomised controlled trials with a parallel group design, enrolling adults with HFpEF, defined by LVEF greater than 40%. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 41 randomised controlled trials (231 reports), totalling 23,492 participants across all comparisons. The risk of bias was frequently unclear and only five studies had a low risk of bias in all domains. 
+Beta‐blockers (BBs) 
+We included 10 studies (3087 participants) investigating BBs. Five studies used a placebo comparator and in five the comparator was usual care. The mean age of participants ranged from 30 years to 81 years. 
+A possible reduction in cardiovascular mortality was observed (risk ratio (RR) 0.78, 95% confidence interval (CI) 0.62 to 0.99; number needed to treat for an additional benefit (NNTB) 25; 1046 participants; three studies), however, the certainty of evidence was low. There may be little to no effect on all‐cause mortality (RR 0.82, 95% CI 0.67 to 1.00; 1105 participants; four studies; low‐certainty evidence). The effects on heart failure hospitalisation, hyperkalaemia, and quality of life remain uncertain. 
+Mineralocorticoid receptor antagonists (MRAs) 
+We included 13 studies (4459 participants) investigating MRA. Eight studies used a placebo comparator and in five the comparator was usual care. The mean age of participants ranged from 54.5 to 80 years. 
+Pooled analysis indicated that MRA treatment probably reduces heart failure hospitalisation (RR 0.82, 95% CI 0.69 to 0.98; NNTB = 41; 3714 participants; three studies; moderate‐certainty evidence). However, MRA treatment probably has little or no effect on all‐cause mortality (RR 0.91, 95% CI 0.78 to 1.06; 4207 participants; five studies; moderate‐certainty evidence) and cardiovascular mortality (RR 0.90, 95% CI 0.74 to 1.11; 4070 participants; three studies; moderate‐certainty evidence). MRA treatment may have little or no effect on quality of life measures (mean difference (MD) 0.84, 95% CI ‐2.30 to 3.98; 511 participants; three studies; low‐certainty evidence). MRA treatment was associated with a higher risk of hyperkalaemia (RR 2.11, 95% CI 1.77 to 2.51; number needed to treat for an additional harmful outcome (NNTH) = 11; 4291 participants; six studies; high‐certainty evidence). 
+Angiotensin‐converting enzyme inhibitors (ACEIs) 
+We included eight studies (2061 participants) investigating ACEIs. Three studies used a placebo comparator and in five the comparator was usual care. The mean age of participants ranged from 70 to 82 years. 

@@ -1,0 +1,10 @@
+Background
+Chelation therapy is promoted and practiced around the world as a form of alternative medicine in the treatment of atherosclerotic cardiovascular disease. It has been suggested as a safe, relatively inexpensive, non‐surgical method of restoring blood flow in atherosclerotic vessels. However, there is currently limited high‐quality, adequately‐powered research informing evidence‐based medicine on the topic, specifically regarding clinical outcomes. Due to this limited evidence, the benefit of chelation therapy remains controversial at present. This is an update of a review first published in 2002. 
+Objectives
+To assess the effects of ethylene diamine tetra‐acetic acid (EDTA) chelation therapy versus placebo or no treatment on clinical outcomes among people with atherosclerotic cardiovascular disease. 
+Search methods
+For this update, the Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase and Cumulative Index to Nursing and Allied Health Literature (CINAHL) databases, the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials register to 6 August 2019. We searched the bibliographies of the studies retrieved by the literature searches for further trials. 
+Selection criteria
+We included studies if they were randomised controlled trials of EDTA chelation therapy versus placebo or no treatment in participants with atherosclerotic cardiovascular disease. The main outcome measures we considered include all‐cause or cause‐specific mortality, non‐fatal cardiovascular events, direct or indirect measurement of disease severity, and subjective measures of improvement or adverse events. 
+Data collection and analysis
+Two review authors independently extracted data and assessed trial quality using standard Cochrane procedures. A third author considered any unresolved issues, and we discussed any discrepancies until a consensus was reached. We contacted study authors for additional information. 

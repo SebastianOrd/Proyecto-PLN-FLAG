@@ -1,0 +1,16 @@
+Background
+We know that the brain damage resulting from traumatic and other insults is not due solely to the direct consequences of the primary injury. A significant and potentially preventable contribution to the overall morbidity arises from secondary hypoxic‐ischaemic damage. Brain swelling accompanied by raised intracranial pressure (ICP) prevents adequate cerebral perfusion with well‐oxygenated blood. 
+Detection of raised ICP could be useful in alerting clinicians to the need to improve cerebral perfusion, with consequent reductions in brain injury. 
+Objectives
+To determine whether routine ICP monitoring in severe coma of any cause reduces the risk of all‐cause mortality or severe disability at final follow‐up. 
+Search methods
+We searched the Cochrane Injuries Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (OvidSP), EMBASE (OvidSP), CINAHL Plus, ISI Web of Science (SCI‐EXPANDED & CPCI‐S), clinical trials registries and reference lists. We ran the most recent search on 22 May 2015. 
+Selection criteria
+All randomised controlled studies of real‐time ICP monitoring by invasive or semi‐invasive means in acute coma (traumatic or non‐traumatic aetiology) versus clinical care without ICP monitoring (that is, guided only by clinical or radiological inference of the presence of raised ICP). 
+Data collection and analysis
+Two authors (ET and RF) worked independently to identify the one study that met inclusion criteria. JR and RF independently extracted data and assessed risk of bias. We contacted study authors for additional information, including details of methods and outcome data. 
+Main results
+One randomized controlled trial (RCT) meeting the selection criteria has been identified to date. 
+The included study had 324 participants. We judged risk of bias to be low for all categories except blinding of participants and personnel, which is not feasible for this intervention. There were few missing data, and we analysed all on an intention‐to‐treat basis. 
+Participants could be 13 years of age or older (mean age of sample 29; range 22 to 44), and all had severe traumatic brain injury, mostly due to traffic incidents. All were receiving care within intensive care units (ICUs) at one of six hospitals in either Bolivia or Ecuador. Investigators followed up 92% of participants for six months or until death. The trial excluded patients with a Glasgow Coma Score (GCS) equal to three and fixed dilated pupils on admission on the basis that they had sustained brain injury of an unsalvageable severity. 
+The study compared people managed using either an intracranial monitor or non‐invasive monitoring (imaging and clinical examination) to identify potentially harmful raised intracranial pressure. Both study groups used imaging and clinical examination measures. 

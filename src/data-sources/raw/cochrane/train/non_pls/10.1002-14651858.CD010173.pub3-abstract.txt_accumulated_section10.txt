@@ -1,0 +1,10 @@
+Background
+The early detection of oral cavity squamous cell carcinoma (OSCC) and oral potentially malignant disorders (OPMD), followed by appropriate treatment, may improve survival and reduce the risk for malignant transformation respectively. This is an update of a Cochrane Review first published in 2013. 
+Objectives
+To estimate the diagnostic test accuracy of conventional oral examination, vital rinsing, light‐based detection, mouth self‐examination, remote screening, and biomarkers, used singly or in combination, for the early detection of OPMD or OSCC in apparently healthy adults. 
+Search methods
+Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 20 October 2020), MEDLINE Ovid (1946 to 20 October 2020), and Embase Ovid (1980 to 20 October 2020). The US National Institutes of Health Trials Registry (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials. No restrictions were placed on the language or date of publication when searching the electronic databases. We conducted citation searches, and screened reference lists of included studies for additional references. 
+Selection criteria
+We selected studies that reported the test accuracy of any of the aforementioned tests in detecting OPMD or OSCC during a screening procedure. Diagnosis of OPMD or OSCC was provided by specialist clinicians or pathologists, or alternatively through follow‐up. 
+Data collection and analysis
+Two review authors independently screened titles and abstracts for relevance. Eligibility, data extraction, and quality assessment were carried out by at least two authors independently and in duplicate. Studies were assessed for methodological quality using the Quality Assessment of Diagnostic Accuracy Studies 2 (QUADAS‐2). We reported the sensitivity and specificity of the included studies. We provided judgement of the certainty of the evidence using a GRADE assessment. 

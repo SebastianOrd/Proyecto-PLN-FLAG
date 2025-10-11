@@ -1,0 +1,14 @@
+Background
+Gaucher disease, a rare disorder, is caused by inherited deficiency of the enzyme glucocerebrosidase. It is unique among the ultra‐orphan disorders in that four treatments are currently approved by various regulatory authorities for use in routine clinical practice. Hitherto, because of the relatively few people affected worldwide, many of whom started therapy during a prolonged period when there were essentially no alternatives to imiglucerase, these treatments have not been systematically evaluated in studies such as randomized controlled trials now considered necessary to generate the highest level of clinical evidence. 
+Objectives
+To summarize all available randomized controlled study data on the efficacy and safety of enzyme replacement therapies and substrate reduction therapy for treating Gaucher disease. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group's Inborn Errors of Metabolism Trials Register. Additional searches were conducted on ClinicalTrials.gov for any ongoing studies with potential interim results, and through PubMed. We also searched the reference lists of relevant articles and reviews. 
+Date of last search: 07 August 2014.
+Selection criteria
+All randomized and quasi‐randomized controlled studies (including open‐label studies and cross‐over studies) assessing enzyme replacement therapy or substrate reduction therapy, or both, in all types of Gaucher disease were included. 
+Data collection and analysis
+Two authors independently assessed the risk of bias in the included studies, and extracted relevant data. 
+Main results
+Of the 488 studies retrieved by the electronic searches, eight met the inclusion criteria and were analysed (300 participants). Response parameters were restricted to haemoglobin concentration, platelet count, spleen and liver volume and serum biomarkers (chitotriosidase and CCL18). Only one publication reported a 'low risk of bias' score in all parameters assessed, and all studies included were randomized. 
+Four studies reported the responses to enzyme replacement therapy of previously untreated individuals with type 1 Gaucher disease. Two studies investigated maintenance enzyme replacement therapy in people with stable type 1 Gaucher disease previously treated for at least two years. One study compared substrate reduction therapy, enzyme replacement therapy and a combination thereof as maintenance therapy in people with type 1 Gaucher disease previously treated with enzyme replacement therapy. One study examined substrate reduction therapy in people with chronic neuronopathic (type 3) Gaucher disease who continued to receive enzyme replacement therapy. 

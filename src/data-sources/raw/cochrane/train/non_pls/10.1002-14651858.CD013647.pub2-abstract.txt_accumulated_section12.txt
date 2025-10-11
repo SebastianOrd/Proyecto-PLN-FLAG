@@ -1,0 +1,12 @@
+Background
+Multiple sclerosis (MS) is a chronic immune‐mediated disease of the central nervous system, with an unpredictable course. Current MS therapies such as disease‐modifying therapies focus on treating exacerbations, preventing new exacerbations and avoiding the progression of disability. Siponimod (BAF312) is an oral treatment, a selective sphingosine‐1‐phosphate (S1P) receptor modulator, for the treatment of adults with relapsing forms of MS including active, secondary progressive MS with relapses. 
+Objectives
+To assess the benefits and adverse effects of siponimod as monotherapy or combination therapy versus placebo or any active comparator for people diagnosed with MS. 
+Search methods
+We searched the Cochrane Multiple Sclerosis and Rare Diseases of the CNS Trials Register, which contains studies from CENTRAL, MEDLINE and Embase, and the trials registry databases ClinicalTrials.gov and WHO International Clinical Trials Registry Platform (ICTRP) on 10 September 2021. We also handsearched relevant journals and screened the reference lists of published reviews and retrieved articles and searched reports (2004 to September 2021) from the MS societies in Europe and America. 
+Selection criteria
+We included randomised parallel controlled clinical trials (RCTs) that evaluated siponimod, as monotherapy or combination therapy, versus placebo or any active comparator in people with MS. There were no restrictions on dose or administration frequency. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We discussed disagreements and resolved them by consensus among the review authors. Our primary outcomes wereworsening  disability , relapse and adverse events, and secondary outcomes were annualised relapse rate, gadolinium‐enhancing lesions, new lesions or enlarged pre‐existing lesions and mean change of brain volume. We independently evaluated the certainty of evidence using the GRADE approach. We contacted principal investigators of included studies for additional data or confirmation of data. 
+Main results
+Two studies (1948 participants) met our selection criteria, 608 controls and 1334 treated with siponimod. The included studies compared siponimod with placebo. Overall, all studies had a high risk of bias due to selective reporting and attrition bias.  

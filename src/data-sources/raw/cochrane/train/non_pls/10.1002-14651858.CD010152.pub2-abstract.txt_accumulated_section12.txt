@@ -1,0 +1,12 @@
+Background
+Chronic pain (i.e. pain lasting longer than three months) is common. Psychological therapies (e.g. cognitive behavioural therapy) can help people to cope with pain, depression and disability that can occur with such pain. Treatments currently are delivered via hospital out‐patient consultation (face‐to‐face) or more recently through the Internet. This review looks at the evidence for psychological therapies delivered via the Internet for adults with chronic pain. 
+Objectives
+Our objective was to evaluate whether Internet‐delivered psychological therapies improve pain symptoms, reduce disability, and improve depression and anxiety for adults with chronic pain. Secondary outcomes included satisfaction with treatment/treatment acceptability and quality of life. 
+Search methods
+We searched CENTRAL (Cochrane Library), MEDLINE, EMBASE and PsycINFO from inception to November 2013 for randomised controlled trials (RCTs) investigating psychological therapies delivered via the Internet to adults with a chronic pain condition. Potential RCTs were also identified from reference lists of included studies and relevant review articles. In addition, RCTs were also searched for in trial registries. 
+Selection criteria
+Peer‐reviewed RCTs were identified and read in full for inclusion. We included studies if they used the Internet to deliver the primary therapy, contained sufficient psychotherapeutic content, and promoted self‐management of chronic pain. Studies were excluded if the number of participants in any arm of the trial was less than 20 at the point of extraction. 
+Data collection and analysis
+Fifteen studies met the inclusion criteria and data were extracted. Risk of bias assessments were conducted for all included studies. We categorised studies by condition (headache or non‐headache conditions). Four primary outcomes; pain symptoms, disability, depression, and anxiety, and two secondary outcomes; satisfaction/acceptability and quality of life were extracted for each study immediately post‐treatment and at follow‐up (defined as 3 to 12 months post‐treatment). 
+Main results
+Fifteen studies (N= 2012) were included in analyses. We assessed the risk of bias for included studies as low overall. We identified nine high 'risk of bias' assessments, 22 unclear, and 59 low 'risk of bias' assessments. Most judgements of a high risk of bias were due to inadequate reporting. 

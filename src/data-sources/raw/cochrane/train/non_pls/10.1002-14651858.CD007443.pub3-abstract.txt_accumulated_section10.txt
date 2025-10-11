@@ -1,0 +1,10 @@
+Background
+Ulcerative colitis is an inflammatory condition affecting the colon, with an annual incidence of approximately 10 to 20 per 100,000 people. The majority of people with ulcerative colitis can be put into remission, leaving a group who do not respond to first‐ or second‐line therapies. There is a significant proportion of people who experience adverse effects with current therapies. Consequently, new alternatives for the treatment of ulcerative colitis are constantly being sought. Probiotics are live microbial feed supplements that may beneficially affect the host by improving intestinal microbial balance, enhancing gut barrier function and improving local immune response. 
+Objectives
+The primary objective was to determine the efficacy of probiotics compared to placebo, no treatment, or any other intervention for the maintenance of remission in people with ulcerative colitis. The secondary objective was to assess the occurrence of adverse events associated with the use of probiotics. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, and two other databases on 31 October 2019. We contacted authors of relevant studies and manufacturers of probiotics regarding ongoing or unpublished trials that may be relevant to the review, and we searched ClinicalTrials.gov. We also searched references of trials for any additional trials. 
+Selection criteria
+Randomised controlled trials (RCTs) that compared probiotics against placebo or any other intervention, in both adults and children, for the maintenance of remission in ulcerative colitis were eligible for inclusion. Maintenance therapy had to be for a minimum of three months when remission has been established by any clinical, endoscopic,histological or radiological relapse as defined by study authors. 
+Data collection and analysis
+Two review authors independently conducted data extraction and 'Risk of bias' assessment of included studies. We analysed data using Review Manager 5. We expressed dichotomous and continuous outcomes as risk ratios (RRs) and mean differences (MDs) with 95% confidence intervals (CIs). We assessed the certainty of the evidence using the GRADE methodology. 

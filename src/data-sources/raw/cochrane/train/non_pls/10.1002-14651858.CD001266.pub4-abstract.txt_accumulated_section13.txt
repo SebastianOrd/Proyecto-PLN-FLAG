@@ -1,0 +1,13 @@
+Background
+Bronchiolitis is an acute, viral lower respiratory tract infection affecting infants and is sometimes treated with bronchodilators. 
+Objectives
+To assess the effects of bronchodilators on clinical outcomes in infants (0 to 12 months) with acute bronchiolitis. 
+Search methods
+We searched CENTRAL 2013, Issue 12, MEDLINE (1966 to January Week 2, 2014) and EMBASE (1998 to January 2014). 
+Selection criteria
+Randomized controlled trials (RCTs) comparing bronchodilators (other than epinephrine) with placebo for bronchiolitis. 
+Data collection and analysis
+Two authors assessed trial quality and extracted data. We obtained unpublished data from trial authors. 
+Main results
+We included 30 trials (35 data sets) representing 1992 infants with bronchiolitis. In 11 inpatient and 10 outpatient studies, oxygen saturation did not improve with bronchodilators (mean difference (MD) ‐0.43, 95% confidence interval (CI) ‐0.92 to 0.06, n = 1242). Outpatient bronchodilator treatment did not reduce the rate of hospitalization (11.9% in bronchodilator group versus 15.9% in placebo group, odds ratio (OR) 0.75, 95% CI 0.46 to 1.21, n = 710). Inpatient bronchodilator treatment did not reduce the duration of hospitalization (MD 0.06, 95% CI ‐0.27 to 0.39, n = 349). 
+Effect estimates for inpatients (MD ‐0.62, 95% CI ‐1.40 to 0.16) were slightly larger than for outpatients (MD ‐0.25, 95% CI ‐0.61 to 0.11) for oximetry. Oximetry outcomes showed significant heterogeneity (I2 statistic = 81%). Including only studies with low risk of bias had little impact on the overall effect size of oximetry (MD ‐0.38, 95% CI ‐0.75 to 0.00) but results were close to statistical significance. 

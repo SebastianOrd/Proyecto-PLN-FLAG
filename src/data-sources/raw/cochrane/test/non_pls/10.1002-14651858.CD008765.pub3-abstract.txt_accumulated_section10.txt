@@ -1,0 +1,10 @@
+Background
+The standard management of primary ovarian cancer is optimal cytoreductive surgery followed by platinum‐based chemotherapy. Most women with primary ovarian cancer achieve remission on this combination therapy. For women achieving clinical remission after completion of initial treatment, most (60%) with advanced epithelial ovarian cancer will ultimately develop recurrent disease. However, the standard treatment of women with recurrent ovarian cancer remains poorly defined. Surgery for recurrent ovarian cancer has been suggested to be associated with increased overall survival. 
+Objectives
+To evaluate the effectiveness and safety of optimal secondary cytoreductive surgery for women with recurrent epithelial ovarian cancer. To assess the impact of various residual tumour sizes, over a range between 0 cm and 2 cm, on overall survival. 
+Search methods
+We searched the Cochrane Gynaecological Cancer Group Trials Register, MEDLINE, EMBASE and the Cochrane Central Register of Controlled Trials (CENTRAL) up to December 2012. We also searched registers of clinical trials, abstracts of scientific meetings, reference lists of included studies and contacted experts in the field. For databases other than MEDLINE, the search strategy has been adapted accordingly. 
+Selection criteria
+Retrospective data on residual disease, or data from randomised controlled trials (RCTs) or prospective/retrospective observational studies that included a multivariate analysis of 50 or more adult women with recurrent epithelial ovarian cancer, who underwent secondary cytoreductive surgery with adjuvant chemotherapy. We only included studies that defined optimal cytoreduction as surgery leading to residual tumours with a maximum diameter of any threshold up to 2 cm. 
+Data collection and analysis
+Two review authors (KG, TA) independently abstracted data and assessed risk of bias. Where possible the data were synthesised in a meta‐analysis. 

@@ -1,0 +1,10 @@
+Background
+About 10% of women of reproductive age suffer from endometriosis. Endometriosis is a costly chronic disease that causes pelvic pain and subfertility. Laparoscopy, the gold standard diagnostic test for endometriosis, is expensive and carries surgical risks. Currently, no non‐invasive tests that can be used to accurately diagnose endometriosis are available in clinical practice. This is the first review of diagnostic test accuracy of imaging tests for endometriosis that uses Cochrane methods to provide an update on the rapidly expanding literature in this field. 
+Objectives
+• To provide estimates of the diagnostic accuracy of imaging modalities for the diagnosis of pelvic endometriosis, ovarian endometriosis and deeply infiltrating endometriosis (DIE) versus surgical diagnosis as a reference standard. 
+• To describe performance of imaging tests for mapping of deep endometriotic lesions in the pelvis at specific anatomical sites. 
+Imaging tests were evaluated as replacement tests for diagnostic surgery and as triage tests that would assist decision making regarding diagnostic surgery for endometriosis. 
+Search methods
+We searched the following databases to 20 April 2015: MEDLINE, CENTRAL, EMBASE, CINAHL, PsycINFO, Web of Science, LILACS, OAIster, TRIP, ClinicalTrials.gov, MEDION, DARE, and PubMed. Searches were not restricted to a particular study design or language nor to specific publication dates. The search strategy incorporated words in the title, abstracts, text words across the record and medical subject headings (MeSH). 
+Selection criteria
+We considered published peer‐reviewed cross‐sectional studies and randomised controlled trials of any size that included prospectively recruited women of reproductive age suspected of having one or more of the following target conditions: endometrioma, pelvic endometriosis, DIE or endometriotic lesions at specific intrapelvic anatomical locations. We included studies that compared the diagnostic test accuracy of one or more imaging modalities versus findings of surgical visualisation of endometriotic lesions. 

@@ -1,0 +1,12 @@
+Background
+Osteoporosis is a systemic skeletal disease characterized by low bone mass and micro‐architectural deterioration of bone tissue with a consequent increase in bone fragility and susceptibility to fracture. Osteoporosis represents an important cause of morbidity in people with beta‐thalassaemia and its pathogenesis is multifactorial. Factors include bone marrow expansion due to ineffective erythropoiesis, resulting in reduced trabecular bone tissue with cortical thinning; endocrine dysfunction secondary to excessive iron loading, leading to increased bone turnover; and lastly, a predisposition to physical inactivity due to disease complications with a subsequent reduction in optimal bone mineralization. 
+A number of therapeutic strategies have been applied to treat osteoporosis in people with beta‐thalassaemia, which include bisphosphonates, with or without, hormone replacement therapy. There are various forms of bisphosphonates, such as clodronate, pamidronate, alendronate and zoledronic acid. Other treatments include calcitonin, calcium, zinc supplementation, hydroxyurea and hormone replacement therapy for preventing hypogonadism. 
+Objectives
+To review the evidence on the efficacy and safety of treatment for osteoporosis in people with beta‐thalassaemia. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group’s Haemoglobinopathies Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. 
+Date of most recent search: 04 February 2016.
+Selection criteria
+Randomised, placebo‐controlled trials in people with thalassaemia with a bone mineral density z score of less than ‐2 standard deviations for: children less than 15 years old; adult males (15 to 50 years old); and all pre‐menopausal females above 15 years and a bone mineral density t score of less than ‐2.5 standard deviations for post‐menopausal females and males above 50 years old. 
+Data collection and analysis
+Two review authors assessed the eligibility and risk of bias of the included trials, extracted and analysed data and completed the review. We summarised results using risk ratios or rate ratios for dichotomous data and mean differences for continuous data. We combined trial results where appropriate. 

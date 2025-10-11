@@ -1,0 +1,13 @@
+Background
+Three classes of inhaler medications are used to manage chronic obstructive pulmonary disease (COPD): long‐acting beta‐agonists (LABA), long‐acting muscarinic antagonists (LAMA), and inhaled corticosteroids (ICS). When two classes of medications are required, LAMA plus LABA (LAMA+LABA) and LABA plus ICS (LABA+ICS) are often selected because these combinations can be administered via a single medication device. The previous Global Initiative for Chronic Obstructive Lung Disease (GOLD) guidance recommended LABA+ICS as the first‐line treatment for managing stable COPD in high‐risk people of categories C and D. However, the updated GOLD 2017 guidance recommends LAMA+LABA over LABA+ICS. 
+Objectives
+To compare the benefits and harms of LAMA+LABA versus LABA+ICS for treatment of people with stable COPD. 
+Search methods
+We performed an electronic search of the Cochrane Airways Group Specialised Register (2 February 2016), ClinicalTrials.gov (4 June 2016), and the World Health Organization Clinical Trials Search Portal (4 June 2016), followed by a handsearch (5 June 2016). Two review authors screened and scrutinised the selected articles. 
+Selection criteria
+We included individual randomised controlled trials, parallel‐group trials, and cross‐over trials comparing LAMA+LABA and LABA+ICS for stable COPD. The minimum accepted trial duration was one month and trials should have been conducted in an outpatient setting. 
+Data collection and analysis
+Two review authors independently extracted data and evaluated risk of bias. We resolved any discrepancies through discussion. We analysed dichotomous data as odds ratios (OR), and continuous data as mean differences (MD), with 95% confidence interval (CI) using Review Manager 5. Exacerbations were measured by counting the number of people experiencing one or more exacerbation. 
+Main results
+We included 11 studies comprising 9839 participants in our quantitative analysis. Most studies included people with moderate to severe COPD, without recent exacerbations. One pharmaceutical sponsored trial that included only people with recent exacerbations was the largest study and accounted for 37% of participants. All but one study were sponsored by pharmaceutical companies, thus we rated them as having a high risk of 'other bias'. The unsponsored study was at high risk of performance and detection bias, and possible selective reporting. 
+Five studies recruited GOLD Category B participants, one study recruited Category D participants, two studies recruited Category A/B participants, and three studies recruited participants regardless of category. Follow‐up ranged from 6 to 52 weeks. 

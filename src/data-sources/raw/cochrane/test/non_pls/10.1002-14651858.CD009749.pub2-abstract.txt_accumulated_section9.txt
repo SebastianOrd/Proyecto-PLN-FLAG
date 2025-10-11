@@ -1,0 +1,9 @@
+Background
+Infertility is a condition affecting 10% to 15% of couples of reproductive age. It is generally defined as "the failure to achieve a clinical pregnancy after 12 months or more of regular unprotected sexual intercourse". The treatment of infertility may involve manipulation of gametes or of the embryos themselves. These techniques are together known as assisted reproductive technology (ART). Practitioners are constantly seeking alternative or adjunct treatments, or both, in the hope that they may improve the outcome of assisted reproductive techniques. This Cochrane review focusses on the adjunct use of synthetic versions of two naturally‐produced hormones, dehydroepiandrosterone (DHEA) and testosterone (T), in assisted reproduction. 
+DHEA and its derivative testosterone are steroid hormones proposed to increase conception rates by positively affecting follicular response to gonadotrophin stimulation, leading to greater oocyte yields and, in turn, increased chance of pregnancy. 
+Objectives
+To assess the effectiveness and safety of DHEA and testosterone as pre‐ or co‐treatments in subfertile women undergoing assisted reproduction. 
+Search methods
+We searched the following electronic databases, trial registers and websites up to 12 March 2015: the Cochrane Central Register of Controlled Trials (CENTRAL), the Menstrual Disorders and Subfertility Group (MDSG) Specialised Register, MEDLINE, EMBASE, PsycINFO, CINAHL, electronic trial registers for ongoing and registered trials, citation indexes, conference abstracts in the Web of Science, PubMed and OpenSIGLE. We also carried out handsearches. There were no language restrictions. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing DHEA or testosterone as an adjunct treatment to any other active intervention, placebo, or no treatment in women undergoing assisted reproduction. 

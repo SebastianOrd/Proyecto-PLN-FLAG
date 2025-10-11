@@ -1,0 +1,13 @@
+Background
+Indomethacin is used as standard therapy to close a patent ductus arteriosus (PDA) but is associated with reduced blood flow to several organs. Ibuprofen, another cyclo‐oxygenase inhibitor, may be as effective as indomethacin with fewer adverse effects. 
+Objectives
+To determine the effectiveness and safety of ibuprofen compared with indomethacin, other cyclo‐oxygenase inhibitor(s), placebo, or no intervention for closing a patent ductus arteriosus in preterm, low‐birth‐weight, or preterm and low‐birth‐weight infants. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2017, Issue 10), MEDLINE via PubMed (1966 to 30 November 2017), Embase (1980 to 30 November 2017), and CINAHL (1982 to 30 November 2017). We searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials of ibuprofen for the treatment of a PDA in preterm, low birth weight, or both preterm and low‐birth‐weight newborn infants. 
+Data collection and analysis
+Data collection and analysis conformed to the methods of the Cochrane Neonatal Review Group. We used the GRADE approach to assess the quality of evidence. 
+Main results
+We included 39 studies enrolling 2843 infants.
+Ibuprofen (IV) versus placebo: IV Ibuprofen (3 doses) reduced the failure to close a PDA compared with placebo (typical relative risk (RR); 0.62 (95% CI 0.44 to 0.86); typical risk difference (RD); ‐0.18 (95% CI ‐0.30 to ‐0.06); NNTB 6 (95% CI 3 to 17); I2 = 65% for RR and I2 = 0% for RD; 2 studies, 206 infants; moderate‐quality the evidence). One study reported decreased failure to close a PDA after single or three doses of oral ibuprofen compared with placebo (64 infants; RR 0.26, 95% CI 0.11 to 0.62; RD ‐0.44, 95% CI ‐0.65 to ‐0.23; NNTB 2, 95% CI 2 to 4; I2 test not applicable). 

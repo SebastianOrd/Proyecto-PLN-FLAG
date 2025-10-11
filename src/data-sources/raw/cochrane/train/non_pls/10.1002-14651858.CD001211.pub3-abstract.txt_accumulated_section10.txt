@@ -1,0 +1,10 @@
+Background
+Acute bacterial conjunctivitis is an infection of the conjunctiva. Both the palpebral and the bulbar ocular conjunctival surfaces are usually affected and typically become red and inflamed. Antibiotic therapy is widely used for the treatment of acute bacterial conjunctivitis. This Cochrane Review was first published in The Cochrane Library in 1999; updated in 2006 and again in 2012. 
+Objectives
+To assess the benefits and harms of antibiotic therapy in the management of acute bacterial conjunctivitis. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2012, Issue 7), MEDLINE (January 1950 to July 2012), EMBASE (January 1980 to July 2012), OpenGrey (System for Information on Grey Literature in Europe) (www.opengrey.eu/), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 18 July 2012. 
+Selection criteria
+We included double‐masked randomised controlled trials (RCTs) in which any form of antibiotic treatment had been compared with placebo/vehicle in the management of acute bacterial conjunctivitis. This included topical, systemic and combination (for example, antibiotics and steroids) antibiotic treatments. 
+Data collection and analysis
+Two authors (UN and SM) independently checked and reviewed the titles and abstracts of identified studies. We assessed the full text of all potentially relevant studies. We graded the included RCTs for methodological quality using Cochrane methodology. We performed data extraction in a standardised manner. We performed random‐effects meta‐analyses using RevMan. 

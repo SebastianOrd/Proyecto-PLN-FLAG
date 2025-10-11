@@ -1,0 +1,10 @@
+Background
+Parent education and training programmes can improve maternal psychosocial health, child behavioural problems, and parenting practices. This review assesses the effects of parenting interventions for reducing child injury. 
+Objectives
+To assess the effects of parenting interventions for preventing unintentional injury in children 18 years of age and younger and for increasing possession and use of safety equipment and safety practices by parents. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, BIOSIS Preview, PsycINFO, Sociological Abstracts, Social Science Citation Index, CINAHL, ProQuest Dissertations and Theses, ERIC, DARE, ASSIA, Web of Science, SIGLE, and ZETOC. We also handsearched abstracts from the World Conferences on Injury Prevention and Control and from the journal Injury Prevention. The searches were conducted in January 2011. 
+Selection criteria
+We included randomised controlled trials (RCTs), non‐randomised controlled trials (non‐RCTs), and controlled before and after studies (CBAs), which evaluated parenting interventions administered to parents of children 18 years of age and younger and reported outcome data on injuries to children (unintentional or unspecified intent) and possession and use of safety equipment or safety practices (including the Home Observation for Measurement of the Environment (HOME) scale, which contains an assessment of home safety) by parents. Parenting interventions were defined as those with a specified protocol, manual, or curriculum aimed at changing knowledge, attitudes, or skills covering a range of parenting topics. 
+Data collection and analysis
+Studies were selected, data were extracted, and quality was appraised independently by two authors. Pooled relative risks (RRs) were estimated using random‐effects models. 

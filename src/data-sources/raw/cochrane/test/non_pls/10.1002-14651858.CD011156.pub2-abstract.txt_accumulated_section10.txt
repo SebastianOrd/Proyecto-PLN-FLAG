@@ -1,0 +1,10 @@
+Background
+Pay‐for‐Performance (P4P) is a payment model that rewards health care providers for meeting pre‐defined targets for quality indicators or efficacy parameters to increase the quality or efficacy of care. 
+Objectives
+Our objective was to assess the impact of P4P for in‐hospital delivered health care on the quality of care, resource use and equity. Our objective was not only to answer the question whether P4P works in general (simple perspective) but to provide a comprehensive and detailed overview of P4P with a focus on analyzing the intervention components, the context factors and their interrelation (more complex perspective). 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, three other databases and two trial registers on 27 June 2018. In addition, we searched conference proceedings, gray literature and web pages of relevant health care institutions, contacted experts in the field, conducted cited reference searches and performed cross‐checks of included references and systematic reviews on the same topic. 
+Selection criteria
+We included randomized trials, cluster randomized trials, non‐randomized clustered trials, controlled before‐after studies, interrupted time series and repeated measures studies that analyzed hospitals, hospital units or groups of hospitals and that compared any kind of P4P to a basic payment scheme (e.g. capitation) without P4P. Studies had to analyze at least one of the following outcomes to be eligible: patient outcomes; quality of care; utilization, coverage or access; resource use, costs and cost shifting; healthcare provider outcomes; equity; adverse effects or harms. 
+Data collection and analysis
+Two review authors independently screened all citations for inclusion, extracted study data and assessed risk of bias for each included study. Study characteristics were extracted by one reviewer and verified by a second. 

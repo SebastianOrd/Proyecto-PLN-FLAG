@@ -1,0 +1,13 @@
+Background
+Palmoplantar pustulosis is a chronic inflammatory disease in which sterile, relapsing pustules appear on the palms and soles, possibly in conjunction with other symptoms. The previous Cochrane Review on this topic was published in 2006, before biological treatments were extensively used. 
+Objectives
+To assess the effects of interventions for chronic palmoplantar pustulosis to induce and maintain complete remission. 
+Search methods
+We searched the following databases up to March 2019: Cochrane Skin Specialised Register, CENTRAL, MEDLINE, Embase, and LILACS. We also searched five trials registers and checked the reference lists of the included studies for further references to relevant randomised controlled trials (RCTs). 
+Selection criteria
+We considered RCTs including people with palmoplantar pustulosis or chronic palmoplantar pustular psoriasis assessing topical therapy, systemic therapy, combinations of topical or systemic therapies, or non‐pharmacological therapies compared with placebo, no intervention, or each other. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Our outcomes included 'Proportion of participants cleared or almost cleared', 'Proportion of participants with adverse effects serious or severe enough to cause withdrawal', 'Proportion of participants with at least 50% improvement in disease severity', and 'Proportion of participants with adverse effects'. 
+Main results
+We included 37 studies (1663 participants; mean age 50 years (range 34 to 63); 24% males). These studies reported condition severity differently. Around half of the included trials stated the setting (hospitals, community clinics, or both). More than half of the studies were at high risk of bias in at least one domain. 
+Our included studies assessed mainly systemic treatments (retinoids, ciclosporin, biologics, etretinate + PUVA (combination of psoralens and long‐wave ultraviolet radiation) therapy combined, and antibiotics), but also topical treatments (dermocorticoids, vitamin D) and phototherapy (PUVA, ultraviolet A1 (UVA1)). Other interventions were assessed by single studies. The most common comparator was placebo. 

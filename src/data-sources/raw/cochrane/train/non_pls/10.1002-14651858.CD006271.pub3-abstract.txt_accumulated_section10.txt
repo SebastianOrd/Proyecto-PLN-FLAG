@@ -1,0 +1,10 @@
+Background
+Nausea and vomiting are common symptoms in patients with terminal, incurable illnesses. Both nausea and vomiting can be distressing. Haloperidol is commonly prescribed to relieve these symptoms. This is an updated version of the original Cochrane review published in Issue 2, 2009, of Haloperidol for the treatment of nausea and vomiting in palliative care patients. 
+Objectives
+To evaluate the efficacy and adverse events associated with the use of haloperidol for the treatment of nausea and vomiting in palliative care patients. 
+Search methods
+For this updated review, we performed updated searches of CENTRAL, EMBASE and MEDLINE in November 2013 and in November 2014. We searched controlled trials registers in March 2015 to identify any ongoing or unpublished trials. We imposed no language restrictions. For the original review, we performed database searching in August 2007, including CENTRAL, MEDLINE, EMBASE, CINAHL and AMED, using relevant search terms and synonyms. Handsearching complemented the electronic searches (using reference lists of included studies, relevant chapters and review articles) for the original review. 
+Selection criteria
+We considered randomised controlled trials (RCTs) of haloperidol for the treatment of nausea or vomiting, or both, in any setting, for inclusion. The studies had to be conducted with adults receiving palliative care or suffering from an incurable progressive medical condition. We excluded studies where nausea or vomiting, or both, were thought to be secondary to pregnancy or surgery. 
+Data collection and analysis
+We imported records from each of the electronic databases into a bibliographic package and merged them into a core database where we inspected titles, keywords and abstracts for relevance. If it was not possible to accept or reject an abstract with certainty, we obtained the full text of the article for further evaluation. The two review authors independently assessed studies in accordance with the inclusion criteria. There were no differences in opinion between the authors with regard to the assessment of studies. 

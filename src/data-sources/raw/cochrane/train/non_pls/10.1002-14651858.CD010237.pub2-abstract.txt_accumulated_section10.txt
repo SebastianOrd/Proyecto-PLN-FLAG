@@ -1,0 +1,10 @@
+Background
+Percutaneous coronary intervention (PCI) is a standard treatment for coronary heart disease (CHD). Restenosis, defined as a 50% reduction in luminal diameter at six months after PCI, indicates a need for revascularisation. Restenosis has proven to be a major drawback to PCI. Tong‐xin‐luo is one of the prophylactic strategies for cardiovascular events in patients after PCI that is widely used in China, but its efficacy and safety have not been systematically evaluated. 
+Objectives
+To systematically assess the efficacy and safety of Tong‐xin‐luo capsules in preventing cardiovascular events after PCI in patients with CHD. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials in The Cochrane Library, MEDLINE (OVID), EMBASE (OVID), WanFang, Chinese Biomedical Database, Chinese Medical Current Contents, and China National Knowledge Infrastructure from their inception to June 2014. We also searched other resources, including ongoing trials and research registries. We applied no language restrictions. 
+Selection criteria
+Randomised controlled trials of participants with CHD after PCI were included. Participants in the intervention group received Tong‐xin‐luo capsules for at least three months. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the risk of bias. Any disagreements were resolved by discussion with a third review author. The primary outcomes included occurrence of angiographic restenosis and adverse events; the secondary outcomes included myocardial infarction, heart failure, angina, all cause mortality, mortality due to any cardiovascular event, use of revascularisation, patient acceptability, quality of life and cost‐effectiveness. Dichotomous data were measured with risk ratios (RRs) with 95% confidence intervals (CIs). 

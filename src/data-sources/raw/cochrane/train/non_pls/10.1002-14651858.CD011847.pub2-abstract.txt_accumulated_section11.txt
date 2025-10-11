@@ -1,0 +1,11 @@
+Background
+Electroconvulsive therapy (ECT) involves the induction of a seizure by the administration of an electrical stimulus via electrodes usually placed bilaterally on the scalp and was introduced as a treatment for schizophrenia in 1938. However, ECT is a controversial treatment with concerns about long‐term side effects such a memory loss. Therefore, it is important to determine its clinical efficacy and safety for people with schizophrenia who are not responding to their treatment. 
+Objectives
+Our primary objective was to assess the effects (benefits and harms) of ECT for people with treatment‐resistant schizophrenia. 
+Our secondary objectives were to determine whether ECT produces a differential response in people: who are treated with unilateral compared to bilateral ECT; who have had a long (more than 12 sessions) or a short course of ECT; who are given continuation or maintenance ECT; who are diagnosed with well‐defined treatment‐resistant schizophrenia as opposed to less rigorously defined treatment‐resistant schizophrenia (who would be expected to have a greater affective component to their illness). 
+Search methods
+We searched the Cochrane Schizophrenia Group's Study‐Based Register of Trials including clinical trial registries on 9 September 2015 and 4 August 2017. There were no limitations on language, date, document type, or publication status for the inclusion of records in the register. We also inspected references of all the included records to identify further relevant studies. 
+Selection criteria
+Randomised controlled trials investigating the effects of ECT in people with treatment‐resistant schizophrenia. 
+Data collection and analysis
+Two review authors independently extracted data. For binary outcomes, we calculated the risk ratio (RR) and its 95% confidence intervals (CIs), on an intention‐to‐treat basis. For continuous data, we estimated the mean difference (MD) between the groups and its 95% CIs. We employed the fixed‐effect model for all analyses. We assessed risk of bias for the included studies and created 'Summary of findings' tables using the GRADE framework. 

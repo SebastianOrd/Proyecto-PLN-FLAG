@@ -1,0 +1,13 @@
+Background
+Recent progress in understanding the genetic basis of breast cancer and widely publicized reports of celebrities undergoing risk‐reducing mastectomy (RRM) have increased interest in RRM as a method of preventing breast cancer. This is an update of a Cochrane Review first published in 2004 and previously updated in 2006 and 2010. 
+Objectives
+(i) To determine whether risk‐reducing mastectomy reduces death rates from any cause in women who have never had breast cancer and in women who have a history of breast cancer in one breast, and (ii) to examine the effect of risk‐reducing mastectomy on other endpoints, including breast cancer incidence, breast cancer mortality, disease‐free survival, physical morbidity, and psychosocial outcomes. 
+Search methods
+For this Review update, we searched Cochrane Breast Cancer's Specialized Register, MEDLINE, Embase and the WHO International Clinical Trials Registry Platform (ICTRP) on 9 July 2016. We included studies in English. 
+Selection criteria
+Participants included women at risk for breast cancer in at least one breast. Interventions included all types of mastectomy performed for the purpose of preventing breast cancer. 
+Data collection and analysis
+At least two review authors independently abstracted data from each report. We summarized data descriptively; quantitative meta‐analysis was not feasible due to heterogeneity of study designs and insufficient reporting. We analyzed data separately for bilateral risk‐reducing mastectomy (BRRM) and contralateral risk‐reducing mastectomy (CRRM). Four review authors assessed the methodological quality to determine whether or not the methods used sufficiently minimized selection bias, performance bias, detection bias, and attrition bias. 
+Main results
+All 61 included studies were observational studies with some methodological limitations; randomized trials were absent. The studies presented data on 15,077 women with a wide range of risk factors for breast cancer, who underwent RRM. 
+Twenty‐one BRRM studies looking at the incidence of breast cancer or disease‐specific mortality, or both, reported reductions after BRRM, particularly for those women with BRCA1/2 mutations. Twenty‐six CRRM studies consistently reported reductions in incidence of contralateral breast cancer but were inconsistent about improvements in disease‐specific survival. Seven studies attempted to control for multiple differences between intervention groups and showed no overall survival advantage for CRRM. Another study showed significantly improved survival following CRRM, but after adjusting for bilateral risk‐reducing salpingo‐oophorectomy (BRRSO), the CRRM effect on all‐cause mortality was no longer significant. 

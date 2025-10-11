@@ -1,0 +1,12 @@
+Background
+Typhoid fever and paratyphoid fever continue to be important causes of illness and death, particularly among children and adolescents in south‐central and southeast Asia. Two typhoid vaccines are widely available, Ty21a (oral) and Vi polysaccharide (parenteral). Newer typhoid conjugate vaccines are at varying stages of development and use. The World Health Organization has recently recommended a Vi tetanus toxoid (Vi‐TT) conjugate vaccine, Typbar‐TCV, as the preferred vaccine for all ages. 
+Objectives
+To assess the effects of vaccines for preventing typhoid fever.
+Search methods
+In February 2018, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL, MEDLINE, Embase, LILACS, and mRCT. We also searched the reference lists of all included trials. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials (RCTs) comparing typhoid fever vaccines with other typhoid fever vaccines or with an inactive agent (placebo or vaccine for a different disease) in adults and children. Human challenge studies were not eligible. 
+Data collection and analysis
+Two review authors independently applied inclusion criteria and extracted data, and assessed the certainty of the evidence using the GRADE approach. We computed vaccine efficacy per year of follow‐up and cumulative three‐year efficacy, stratifying for vaccine type and dose. The outcome addressed was typhoid fever, defined as isolation of Salmonella enterica serovar Typhi in blood. We calculated risk ratios (RRs) and efficacy (1 − RR as a percentage) with 95% confidence intervals (CIs). 
+Main results
+In total, 18 RCTs contributed to the quantitative analysis in this review: 13 evaluated efficacy (Ty21a: 5 trials; Vi polysaccharide: 6 trials; Vi‐rEPA: 1 trial; Vi‐TT: 1 trial), and 9 reported on adverse events. All trials but one took place in typhoid‐endemic countries. There was no information on vaccination in adults aged over 55 years of age, pregnant women, or travellers. Only one trial included data on children under two years of age. 

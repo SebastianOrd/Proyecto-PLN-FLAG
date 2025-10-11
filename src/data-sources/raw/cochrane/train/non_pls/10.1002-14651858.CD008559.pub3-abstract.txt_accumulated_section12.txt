@@ -1,0 +1,12 @@
+Background
+This is an update of the original Cochrane Review, last published in 2012 (Loy 2012). Children and youths with disruptive behaviour disorders may present to health services, where they may be treated with atypical antipsychotics. There is increasing usage of atypical antipsychotics in the treatment of disruptive behaviour disorders. 
+Objectives
+To evaluate the effect and safety of atypical antipsychotics, compared to placebo, for treating disruptive behaviour disorders in children and youths. The aim was to evaluate each drug separately rather than the class effect, on the grounds that each atypical antipsychotic has different pharmacologic binding profile (Stahl 2013) and that this is clinically more useful. 
+Search methods
+In January 2017, we searched CENTRAL, MEDLINE, Embase, five other databases and two trials registers. 
+Selection criteria
+Randomised controlled trials of atypical antipsychotics versus placebo in children and youths aged up to and including 18 years, with a diagnosis of disruptive behaviour disorders, including comorbid ADHD. The primary outcomes were aggression, conduct problems and adverse events (i.e. weight gain/changes and metabolic parameters). The secondary outcomes were general functioning, noncompliance, other adverse events, social functioning, family functioning, parent satisfaction and school functioning. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Two review authors (JL and KS) independently collected, evaluated and extracted data. We used the GRADE approach to assess the quality of the evidence. We performed meta‐analyses for each of our primary outcomes, except for metabolic parameters, due to inadequate outcome data. 
+Main results
+We included 10 trials (spanning 2000 to 2014), involving a total of 896 children and youths aged five to 18 years. Bar two trials, all came from an outpatient setting. Eight trials assessed risperidone, one assessed quetiapine and one assessed ziprasidone. Nine trials assessed acute efficacy (over four to 10 weeks); one of which combined treatment with stimulant medication and parent training. One trial was a six‐month maintenance trial assessing symptom recurrence. 

@@ -1,0 +1,13 @@
+Background
+Clinicians must balance the risks of bleeding and thrombosis after percutaneous coronary intervention (PCI) in people with an indication for anticoagulation. The potential of non‐vitamin K antagonists (NOACs) to prevent bleeding complications is promising, but evidence remains limited. 
+Objectives
+To review the evidence from randomised controlled trials assessing the efficacy and safety of non‐vitamin K antagonist oral anticoagulants (NOACs) compared to vitamin K antagonists post‐percutaneous coronary intervention (PCI) in people with an indication for anticoagulation. 
+Search methods
+We identified studies by searching CENTRAL, MEDLINE, Embase, the Conference Proceedings Citation Index – Science and two clinical trials registers in February 2019. We checked bibliographies of identified studies and applied no language restrictions. 
+Selection criteria
+We searched for randomised controlled trials (RCT) that compared NOACs and vitamin K antagonists for people with an indication for anticoagulation who underwent PCI. 
+Data collection and analysis
+Two review authors independently checked the results of searches to identify relevant studies, assessed each included study, and extracted study data. We conducted random‐effects, pairwise analyses using Review Manager 5 and network meta‐analyses (NMA) using the R package 'netmeta'. We ranked competing treatments by P scores, which are derived from the P values of all pairwise comparisons, and allow ranking of treatments on a continuous 0 to 1 scale. 
+Main results
+We identified nine RCTs that met the inclusion criteria, but four were ongoing trials, and were not included in this analysis. We included five RCTs, with 8373 participants, in the NMA (two RCTs compared apixaban to a vitamin K antagonist, two RCTs compared rivaroxaban to a vitamin K antagonist, and one RCT compared dabigatran to a vitamin K antagonist). 
+Very low‐ to moderate‐certainty evidence suggests little or no difference between NOACs and vitamin K antagonists in death from cardiovascular causes (not reported in the dabigatran trial), myocardial infarction, stroke, death from any cause, and stent thrombosis. Apixaban (RR 0.85, 95% CI 0.77 to 0.95), high dose rivaroxaban (RR 0.86, 95% CI 0.74 to 1.00), and low dose rivaroxaban (RR 0.80, 95% CI 0.68 to 0.92) probably reduce the risk of recurrent hospitalisation compared with vitamin K antagonists. No studies looked at health‐related quality of life. 

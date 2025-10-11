@@ -1,0 +1,12 @@
+Background
+Fluoxetine is a serotonin reuptake inhibitor indicated for major depression. It is also thought to affect weight control: this seems to happen through appetite changes resulting in decreased food intake and normalisation of unusual eating behaviours. However, the benefit‐risk ratio of this off‐label medication is unclear. 
+Objectives
+To assess the effects of fluoxetine for overweight or obese adults.
+Search methods
+We searched the Cochrane Library, MEDLINE, Embase, LILACS, the ICTRP Search Portal and ClinicalTrials.gov and World Health Organization (WHO) ICTRP Search Portal. The last date of the search was December 2018 for all databases, to which we applied no language restrictions . 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing the administration of fluoxetine versus placebo, other anti‐obesity agents, non‐pharmacological therapy or no treatment in overweight or obese adults without depression, mental illness or abnormal eating patterns. 
+Data collection and analysis
+Two review authors independently screened abstracts and titles for relevance. Screening for inclusion, data extraction and risk of bias assessment was performed by one author and checked by the second. We assessed trials for the overall certainty of the evidence using the GRADE instrument. For additional information we contacted trial authors by email. We performed random‐effects meta‐analyses and calculated the risk ratio (RR) with 95% confidence intervals (95% CI) for dichotomous outcomes and the mean difference (MD) with 95% CI for continuous outcomes. 
+Main results
+We identified 1036 records, scrutinized 52 full‐text articles and included 19 completed RCTs (one trial is awaiting assessment). A total of 2216 participants entered the trials, 1280 participants were randomly assigned to fluoxetine (60 mg/d, 40 mg/d, 20 mg/d and 10 mg/d) and 936 participants were randomly assigned to various comparison groups (placebo; the anti‐obesity agents diethylpropion, fenproporex, mazindol, sibutramine, metformin, fenfluramine, dexfenfluramine, fluvoxamine, 5‐hydroxy‐tryptophan; no treatment; and omega‐3 gel). Within the 19 RCTs there were 56 trial arms. Fifteen trials were parallel RCTs and four were cross‐over RCTs. The participants in the included trials were followed up for periods between three weeks and one year. The certainty of the evidence was low or very low: the majority of trials had a high risk of bias in one or more of the risk of bias domains. 

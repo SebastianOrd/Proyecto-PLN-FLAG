@@ -1,0 +1,10 @@
+Background
+People with central neurological disease or injury have a much higher risk of both faecal incontinence and constipation than the general population. There is often a fine line between the two symptoms, with any management intended to ameliorate one risking precipitating the other. Bowel problems are observed to be the cause of much anxiety and may reduce quality of life in these people. Current bowel management is largely empirical, with a limited research base. This is an update of a Cochrane review first published in 2001 and subsequently updated in 2003 and 2006. The review is relevant to individuals with any disease directly and chronically affecting the central nervous system (post‐traumatic, degenerative, ischaemic or neoplastic), such as multiple sclerosis, spinal cord injury, cerebrovascular disease, Parkinson's disease and Alzheimer's disease. 
+Objectives
+To determine the effects of management strategies for faecal incontinence and constipation in people with a neurological disease or injury affecting the central nervous system. 
+Search methods
+We searched the Cochrane Incontinence Group Trials Register (searched 8 June 2012), which includes searches of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and MEDLINE In‐Process as well as handsearching of journals and conference proceedings; and all reference lists of relevant articles. 
+Selection criteria
+Randomised and quasi‐randomised trials evaluating any type of conservative or surgical intervention for the management of faecal incontinence and constipation in people with central neurological disease or injury were selected. Specific therapies for the treatment of neurological diseases that indirectly affect bowel dysfunction were also considered. 
+Data collection and analysis
+At least two review authors independently assessed the risk of bias of eligible trials and independently extracted data from the included trials using a range of pre‐specified outcome measures. 

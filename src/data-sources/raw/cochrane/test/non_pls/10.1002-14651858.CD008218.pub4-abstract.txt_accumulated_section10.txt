@@ -1,0 +1,10 @@
+Background
+This is an updated version of the original Cochrane Review published in September 2014. The most common primary brain tumours in adults are gliomas. Gliomas span a spectrum from low to high grade and are graded pathologically on a scale of one to four according to the World Health Organization (WHO) classification. High‐grade glioma (HGG) carries a poor prognosis. Grade IV glioma is known as glioblastoma and carries a median survival in treated patients of about 15 months. Glioblastomas are rich in blood vessels (i.e. highly vascular) and also rich in a protein known as vascular endothelial growth factor (VEGF) that promotes new blood vessel formation (the process of angiogenesis). Anti‐angiogenic agents inhibit the process of new blood vessel formation and promote regression of existing vessels. Several anti‐angiogenic agents have been investigated in clinical trials, both in newly diagnosed and recurrent HGG, showing preliminary promising results. This review was undertaken to report on the benefits and harms associated with the use of anti‐angiogenic agents in the treatment of HGGs. 
+Objectives
+To evaluate the efficacy and toxicity of anti‐angiogenic therapy in people with high‐grade glioma (HGG). The intervention can be used in two broad groups: at first diagnosis as part of 'adjuvant' therapy, or in the setting of recurrent disease. 
+Search methods
+We conducted updated searches to identify published and unpublished randomised controlled trials (RCTs), including the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 9), MEDLINE and Embase to October 2018. We handsearched proceedings of relevant oncology conferences up to 2018. We also searched trial registries for ongoing studies. 
+Selection criteria
+RCTs evaluating the use of anti‐angiogenic therapy to treat HGG versus the same therapy without anti‐angiogenic therapy. 
+Data collection and analysis
+Review authors screened the search results and reviewed the abstracts of potentially relevant articles before retrieving the full text of eligible articles. 

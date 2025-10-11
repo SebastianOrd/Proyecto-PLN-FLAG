@@ -1,0 +1,13 @@
+Background
+Ulcerative colitis (UC) is a chronic inflammation of the colon characterised by periods of relapse and remission. It starts in the rectum and can extend throughout the colon. UC and Crohn’s disease (CD) are the most common inflammatory bowel diseases (IBDs). However, UC tends to be more common than CD. It has no known cure but can be managed with medication and surgery. However, studies have shown that abdominal pain persists in up to one‐third of people with UC in remission. Abdominal pain could be a symptom of relapse of the disease due to adverse effects of medication, surgical complications and strictures or adhesions secondary to UC. 
+Objectives
+To assess the efficacy and safety of interventions for managing abdominal pain in people with ulcerative colitis. 
+Search methods
+We searched CENTRAL, MEDLINE and five other databases and clinical trials registries on 28 April 2021. We contacted authors of relevant studies and ongoing or unpublished trials that may be relevant to the review. We also searched references of trials and systematic reviews for any additional trials. 
+Selection criteria
+All published, unpublished and ongoing randomised trials that compared interventions for the management of abdominal pain with other active interventions or standard therapy, placebo or no therapy were included. People with both active and inactive disease were included. We excluded studies that did not report on any abdominal pain outcomes. 
+Data collection and analysis
+Two review authors independently conducted data extraction and 'Risk of bias' assessments. We analysed data using Review Manager 5. We expressed dichotomous and continuous outcomes as risk ratios (RRs) and mean differences (MDs), respectively, with 95% confidence intervals. We assessed the certainty of the evidence using the GRADE methodology. 
+Main results
+We included five studies (360 randomised participants). Studies considered mainly participants in an inactive state of the disease.   
+No conclusions could be drawn about the efficacy of any of the interventions on pain frequency, pain intensity, and treatment success. The certainty of the evidence was very low for all comparisons because of imprecision due to sparse data, and risk of bias. 

@@ -1,0 +1,10 @@
+Background
+Non‐malignant dust‐related respiratory diseases, such as asbestosis and silicosis, are similar to other chronic respiratory diseases and may be characterised by breathlessness, reduced exercise capacity and reduced health‐related quality of life. Some non‐malignant dust‐related respiratory diseases are a global health issue and very few treatment options, including pharmacological, are available. Therefore, examining the role of exercise training is particularly important to determine whether exercise training is an effective treatment option in non‐malignant dust‐related respiratory diseases. 
+Objectives
+To assess the effects of exercise training for people with non‐malignant dust‐related respiratory diseases compared with control, placebo or another non‐exercise intervention on exercise capacity, health‐related quality of life and levels of physical activity. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE/PubMed, EMBASE, CINAHL, PEDro and AMED (all searched from inception until February 2015), national and international clinical trial registries, reference lists of relevant papers and we contacted experts in the field for identification of suitable studies. 
+Selection criteria
+We included only randomised controlled trials (RCTs) that compared exercise training of at least four weeks duration with no exercise training, placebo or another non‐exercise intervention. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Two review authors independently assessed study eligibility and risk of bias, and extracted data. We employed the GRADE approach to assess the overall quality of evidence for each outcome and to interpret findings. We synthesized study results using a random‐effects model based on the assessment of heterogeneity. We conducted subgroup analyses on participants with dust‐related interstitial lung diseases (ILDs) and participants with asbestos related pleural disease (ARPD). 

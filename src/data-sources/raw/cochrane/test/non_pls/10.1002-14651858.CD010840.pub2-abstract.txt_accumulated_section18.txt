@@ -1,0 +1,18 @@
+Background
+Attention deficit hyperactivity disorder (ADHD) is a developmental condition characterised by symptoms of inattention, hyperactivity and impulsivity, along with deficits in executive function, emotional regulation and motivation. The persistence of ADHD in adulthood is a serious clinical problem. 
+ADHD significantly affects social interactions, study and employment performance.
+Previous studies suggest that cognitive‐behavioural therapy (CBT) could be effective in treating adults with ADHD, especially when combined with pharmacological treatment. CBT aims to change the thoughts and behaviours that reinforce harmful effects of the disorder by teaching people techniques to control the core symptoms. CBT also aims to help people cope with emotions, such as anxiety and depression, and to improve self‐esteem. 
+Objectives
+To assess the effects of cognitive‐behavioural‐based therapy for ADHD in adults.
+Search methods
+In June 2017, we searched CENTRAL, MEDLINE, Embase, seven other databases and three trials registries. We also checked reference lists, handsearched congress abstracts, and contacted experts and researchers in the field. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating any form of CBT for adults with ADHD, either as a monotherapy or in conjunction with another treatment, versus one of the following: unspecific control conditions (comprising supportive psychotherapies, no treatment or waiting list) or other specific interventions. 
+Data collection and analysis
+We used the standard methodological procedures suggested by Cochrane.
+Main results
+We included 14 RCTs (700 participants), 13 of which were conducted in the northern hemisphere and 1 in Australia. 
+Primary outcomes: ADHD symptoms 
+CBT versus unspecific control conditions (supportive psychotherapies, waiting list or no treatment) 
+‐ CBT versus supportive psychotherapies: CBT was more effective than supportive therapy for improving clinician‐reported ADHD symptoms (1 study, 81 participants; low‐quality evidence) but not for self‐reported ADHD symptoms (SMD −0.16, 95% CI −0.52 to 0.19; 2 studies, 122 participants; low‐quality evidence; small effect size). 
+‐ CBT versus waiting list: CBT led to a larger benefit in clinician‐reported ADHD symptoms (SMD −1.22, 95% CI −2.03 to −0.41; 2 studies, 126 participants; very low‐quality evidence; large effect size). We also found significant differences in favour of CBT for self‐reported ADHD symptoms (SMD −0.84, 95% CI −1.18 to −0.50; 5 studies, 251 participants; moderate‐quality evidence; large effect size). 

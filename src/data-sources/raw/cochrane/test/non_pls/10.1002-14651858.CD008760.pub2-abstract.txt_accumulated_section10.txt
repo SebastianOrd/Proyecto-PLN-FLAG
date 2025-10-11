@@ -1,0 +1,10 @@
+Background
+Current guidelines recommend performance of oesophago‐gastro‐duodenoscopy at the time of diagnosis of hepatic cirrhosis to screen for oesophageal varices. These guidelines require people to undergo an unpleasant invasive procedure repeatedly with its attendant risks, despite the fact that half of the people do not have identifiable oesophageal varices 10 years after the initial diagnosis of cirrhosis. Video capsule endoscopy is a non‐invasive test proposed as an alternative method for the diagnosis of oesophageal varices. 
+Objectives
+To determine the diagnostic accuracy of capsule endoscopy for the diagnosis of oesophageal varices in children or adults with chronic liver disease or portal vein thrombosis, irrespective of the aetiology. To investigate the accuracy of capsule endoscopy as triage or replacement of oesophago‐gastro‐duodenoscopy. 
+Search methods
+We searched the Cochrane Hepato‐Biliary Group Diagnostic Test Accuracy Studies Register (October 2013), MEDLINE (Ovid SP) (1950 to October 2013), EMBASE (Ovid SP) (1980 to October 2013), ACP Journal Club (Ovid SP) (1991 to October 2013), Database of Abstracts of Reviews of Effects (DARE) (Ovid SP) (third quarter), Health Technology Assessment (HTA) (Ovid SP) (third quarter), NHS Economic Evaluation Database (NHSEED) (Ovid SP) (third quarter), and Science Citation Index Expanded (SCI‐EXPANDED) (ISI Web of Knowledge) (1955 to October 2013). We applied no language or document type restrictions. 
+Selection criteria
+Studies that evaluated the diagnostic accuracy of capsule endoscopy for the diagnosis of oesophageal varices using oesophago‐gastro‐duodenoscopy as the reference standard in children or adults of any age, with chronic liver disease or portal vein thrombosis. 
+Data collection and analysis
+We followed the available guidelines provided in the Cochrane Handbook for Diagnostic Test of Accuracy Reviews. We calculated the pooled estimates of sensitivity and specificity using the bivariate model due to the absence of a negative correlation in the receiver operating characteristic (ROC) space and of a threshold effect. 

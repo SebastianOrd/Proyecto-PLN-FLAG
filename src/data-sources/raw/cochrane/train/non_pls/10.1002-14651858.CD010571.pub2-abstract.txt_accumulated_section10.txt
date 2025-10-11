@@ -1,0 +1,10 @@
+Background
+Difficult cannulation is a risk factor for post‐endoscopic retrograde cholangiopancreatography (ERCP) pancreatitis (PEP). It has been postulated that the pancreatic duct guidewire (PGW) technique may improve biliary cannulation success and reduce the risk of PEP in people with difficult cannulation. 
+Objectives
+To systematically review evidence from randomised controlled trials (RCTs) assessing the effectiveness and safety of the PGW technique compared to persistent conventional cannulation (CC) (contrast‐ or guidewire‐assisted cannulation) or other advanced techniques in people with difficult biliary cannulation for the prevention of PEP. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, and CINAHL databases, major conference proceedings, and for ongoing trials on the ClinicalTrials.gov and World Health Organization International Clinical Trials Registry Platform (WHO ICTRP) up to March 2016, using the Cochrane Upper Gastrointestinal and Pancreatic Diseases model with no language restrictions. 
+Selection criteria
+RCTs comparing the PGW technique versus persistent CC or other advanced techniques in people undergoing ERCP with difficult biliary cannulation. 
+Data collection and analysis
+Two review authors independently conducted study selection, data extraction, and methodological quality assessment. Using intention‐to‐treat analysis with random‐effects models, we combined dichotomous data to obtain risk ratios (RR) with 95% confidence intervals (CI). We assessed heterogeneity using the Chi2 test (P < 0.15) and I2 test (> 25%). To explore sources of heterogeneity, we conducted a priori subgroup analyses according to trial design, use of pancreatic duct (PD) stent, involvement of trainees in cannulation, publication type, and risk of bias. To assess the robustness of our results, we carried out sensitivity analyses using different summary statistics (RR versus odds ratio (OR)) and meta‐analytic models (fixed‐effect versus random‐effects). 

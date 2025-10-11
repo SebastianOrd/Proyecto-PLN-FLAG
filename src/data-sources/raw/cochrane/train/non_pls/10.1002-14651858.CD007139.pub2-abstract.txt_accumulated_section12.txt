@@ -1,0 +1,12 @@
+Background
+The 'off‐label' effect of alprazolam on depression has not been systematically evaluated.
+Objectives
+To determine the antidepressant effect, including tolerability and acceptability, of alprazolam as monotherapy for major depression, when compared to placebo and conventional antidepressants in outpatients and patients in primary care. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials and the Cochrane Depression, Anxiety and Neurosis Group Register, which includes relevant randomised controlled trials from the following bibliographic databases: The Cochrane Library (all years to February 2012); EMBASE (1970 to February 2012); MEDLINE (1950 to February 2012) and PsycINFO (1960 to February 2012). Two review authors identified relevant trials by assessing the abstracts of all possible studies. We applied no language restrictions. 
+Selection criteria
+We selected randomised controlled trials (RCTs) of alprazolam versus placebo or conventional antidepressants for depression in adults, excluding studies with inpatients only. 
+Data collection and analysis
+Two review authors performed the data extraction and 'Risk of bias' assessment independently with disagreements resolved through discussion with a third review author. Primary outcomes included the mean difference (MD) in reduction of depression on a continuous measure of depression symptoms, and the risk ratio (RR) of the clinical response based on a dichotomous measure, with 95% confidence intervals (CI). 
+Main results
+We identified 21 alprazolam studies (22 reports) with a total of 2693 participants. Seven studies used a placebo (n = 771) and 20 used cyclic antidepressants (n = 1765). The typical duration of the studies was four to six weeks. We considered six studies to have a high risk of bias. 

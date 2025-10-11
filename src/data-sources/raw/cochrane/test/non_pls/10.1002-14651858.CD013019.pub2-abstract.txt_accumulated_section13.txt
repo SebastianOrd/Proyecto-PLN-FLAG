@@ -1,0 +1,13 @@
+Background
+Motor imagery (MI) is defined as a mentally rehearsed task in which movement is imagined but is not performed. The approach includes repetitive imagined body movements or rehearsing imagined acts to improve motor performance. 
+Objectives
+To assess the treatment effects of MI for enhancing ability to walk among people following stroke. 
+Search methods
+We searched the Cochrane Stroke Group registry, CENTRAL, MEDLINE, Embase and seven other databases. We also searched trial registries and reference lists. The last searches were conducted on 24 February 2020. 
+Selection criteria
+Randomized controlled trials (RCTs) using MI alone or associated with action observation or physical practice to improve gait in individuals after stroke. The critical outcome was the ability to walk, assessed using either a continuous variable (walking speed) or a dichotomous variable (dependence on personal assistance). Important outcomes included walking endurance, motor function, functional mobility, and adverse events. 
+Data collection and analysis
+Two review authors independently selected the trials according to pre‐defined inclusion criteria, extracted the data, assessed the risk of bias, and applied the GRADE approach to evaluate the certainty of the evidence. The review authors contacted the study authors for clarification and missing data. 
+Main results
+We included 21 studies, involving a total of 762 participants. Participants were in the acute, subacute, or chronic stages of stroke, and had a mean age ranging from 50 to 78 years. All participants presented at least some gait deficit. All studies compared MI training versus other therapies. Most of the included studies used MI associated with physical practice in the experimental groups. The treatment time for the experimental groups ranged from two to eight weeks. There was a high risk of bias for at least one assessed domain in 20 of the 21 included studies. 
+Regarding our critical outcome, there was very low‐certainty evidence that MI was more beneficial for improving gait (walking speed) compared to other therapies at the end of the treatment (pooled standardized mean difference (SMD) 0.44; 95% confidence interval (CI) 0.06 to 0.81; P = 0.02; six studies; 191 participants; I² = 38%). We did not include the outcome of dependence on personal assistance in the meta‐analysis, because only one study provided information regarding the number of participants that became dependent or independent after interventions. 

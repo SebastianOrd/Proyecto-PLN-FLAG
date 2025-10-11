@@ -1,0 +1,12 @@
+Background
+Anaemia is common among cancer patients and they may require red blood cell transfusions. Erythropoiesis‐stimulating agents (ESAs) and iron might help in reducing the need for red blood cell transfusions. However, it remains unclear whether the combination of both drugs is preferable compared to using one drug. 
+Objectives
+To systematically review the effect of intravenous iron, oral iron or no iron in combination with or without ESAs to prevent or alleviate anaemia in cancer patients and to generate treatment rankings using network meta‐analyses (NMAs). 
+Search methods
+We identified studies by searching bibliographic databases (CENTRAL, MEDLINE, Embase; until June 2021). We also searched various registries, conference proceedings and reference lists of identified trials. 
+Selection criteria
+We included randomised controlled trials comparing intravenous, oral or no iron, with or without ESAs for the prevention or alleviation of anaemia resulting from chemotherapy, radiotherapy, combination therapy or the underlying malignancy in cancer patients. 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias. Outcomes were on‐study mortality, number of patients receiving red blood cell transfusions, number of red blood cell units, haematological response, overall mortality and adverse events. We conducted NMAs and generated treatment rankings. We assessed the certainty of the evidence using GRADE. 
+Main results
+Ninety‐six trials (25,157 participants) fulfilled our inclusion criteria; 62 trials (24,603 participants) could be considered in the NMA (12 different treatment options). Here we present the comparisons of ESA with or without iron and iron alone versus no treatment. Further results and subgroup analyses are described in the full text. 

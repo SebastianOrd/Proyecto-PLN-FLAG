@@ -1,0 +1,12 @@
+Background
+Widespread application of pulmonary rehabilitation (also known as respiratory rehabilitation) in chronic obstructive pulmonary disease (COPD) should be preceded by demonstrable improvements in function (health‐related quality of life, functional and maximal exercise capacity) attributable to the programmes. This review updates the review reported in 2006. 
+Objectives
+To compare the effects of pulmonary rehabilitation versus usual care on health‐related quality of life and functional and maximal exercise capacity in persons with COPD. 
+Search methods
+We identified additional randomised controlled trials (RCTs) from the Cochrane Airways Group Specialised Register. Searches were current as of March 2014. 
+Selection criteria
+We selected RCTs of pulmonary rehabilitation in patients with COPD in which health‐related quality of life (HRQoL) and/or functional (FEC) or maximal (MEC) exercise capacity were measured. We defined 'pulmonary rehabilitation' as exercise training for at least four weeks with or without education and/or psychological support. We defined 'usual care' as conventional care in which the control group was not given education or any form of additional intervention. We considered participants in the following situations to be in receipt of usual care: only verbal advice was given without additional education; and medication was altered or optimised to what was considered best practice at the start of the trial for all  participants. 
+Data collection and analysis
+We calculated mean differences (MDs) using a random‐effects model. We requested missing data from the authors of the primary study. We used standard methods as recommended by The Cochrane Collaboration. 
+Main results
+Along with the 31 RCTs included in the previous version (2006), we included 34 additional RCTs in this update, resulting in a total of 65 RCTs involving 3822 participants for inclusion in the meta‐analysis. 

@@ -1,0 +1,13 @@
+Background
+Virtual reality simulation uses computer‐generated imagery to present a simulated training environment for learners. This review seeks to examine whether there is evidence to support the introduction of virtual reality surgical simulation into ear, nose and throat surgical training programmes. 
+Objectives
+1. To assess whether surgeons undertaking virtual reality simulation‐based training achieve surgical ('patient') outcomes that are at least as good as, or better than, those achieved through conventional training methods. 
+2. To assess whether there is evidence from either the operating theatre, or from controlled (simulation centre‐based) environments, that virtual reality‐based surgical training leads to surgical skills that are comparable to, or better than, those achieved through conventional training. 
+Search methods
+The Cochrane Ear, Nose and Throat Disorders Group (CENTDG) Trials Search Co‐ordinator searched the CENTDG Trials Register; Central Register of Controlled Trials (CENTRAL 2015, Issue 6); PubMed; EMBASE; ERIC; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 27 July 2015. 
+Selection criteria
+We included all randomised controlled trials and controlled trials comparing virtual reality training and any other method of training in ear, nose or throat surgery. 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration. We evaluated both technical and non‐technical aspects of skill competency. 
+Main results
+We included nine studies involving 210 participants. Out of these, four studies (involving 61 residents) assessed technical skills in the operating theatre (primary outcomes). Five studies (comprising 149 residents and medical students) assessed technical skills in controlled environments (secondary outcomes). The majority of the trials were at high risk of bias. We assessed the GRADE quality of evidence for most outcomes across studies as 'low'. 

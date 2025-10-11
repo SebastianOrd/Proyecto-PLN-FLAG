@@ -1,0 +1,10 @@
+Background
+Inositol is an essential nutrient required by human cells in culture for growth and survival. Inositol promotes maturation of several components of surfactant and may play a critical role in fetal and early neonatal life. A drop in inositol levels in infants with respiratory distress syndrome (RDS) can be a sign that their illness will be severe. 
+Objectives
+To assess the effectiveness and safety of supplementary inositol in preterm infants with or without respiratory distress syndrome (RDS) in reducing adverse neonatal outcomes including: death (neonatal and infant deaths), bronchopulmonary dysplasia (BPD), retinopathy of prematurity (ROP), intraventricular haemorrhage (IVH), periventricular leukomalacia (PVL), necrotizing enterocolitis (NEC) and sepsis. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2018, Issue 11), MEDLINE via PubMed (1966 to 5 November 2018), Embase (1980 to 5 November 2018), and CINAHL (1982 to 5 November 2018). We searched clinical trial databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials (RCT) and quasi‐randomised trials. 
+Selection criteria
+We included all randomised controlled trials of inositol supplementation of preterm infants compared with a control group that received a placebo or no intervention. Outcomes included neonatal death, infant death, bronchopulmonary dysplasia (BPD), retinopathy of prematurity (ROP), intraventricular haemorrhage (IVH), necrotizing enterocolitis (NEC) and sepsis. 
+Data collection and analysis
+The three review authors independently abstracted data on neonatal outcomes and resolved any disagreements through discussion and consensus. Outcomes were reported as typical risk ratio (RR), risk difference (RD) and number needed to treat for an additional beneficial outcome (NNTB) or number needed to treat for an additional harmful outcome (NNTH). We used the GRADE approach to assess the quality of evidence. 

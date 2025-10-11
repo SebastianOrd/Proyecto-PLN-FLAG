@@ -1,0 +1,17 @@
+Adverse events in people taking macrolide antibiotics
+Review question 
+We wanted to find out if people treated with a macrolide antibiotic experienced more adverse events than those treated with placebo. 
+Background 
+Macrolide antibiotics are a group of antibiotics that are commonly used to treat both acute and chronic infections. The four most frequently used macrolides are: azithromycin, clarithromycin, erythromycin, and roxithromycin. People taking macrolide antibiotics are at risk of experiencing adverse events such as nausea, diarrhoea, or rash. 
+Search date 
+We searched the literature up to May 2018.
+Study characteristics 
+We included 183 studies with a total of 252,886 participants. Most studies were conducted in the hospital setting. Azithromycin and erythromycin were more commonly studied than clarithromycin and roxithromycin. Most studies (89%) reported some adverse events, or at least stated that no adverse events were observed. 
+Study funding sources 
+Drug companies supplied trial medications or funding, or both, in 91 studies. Funding sources were unclear in 59 studies. 
+Key results 
+People treated with a macrolide antibiotic experienced gastrointestinal adverse events such as nausea, vomiting, abdominal pain, and diarrhoea more often than those treated with placebo. 
+Taste disturbances were reported more often by people taking macrolides than those taking a placebo. However, as very few studies reported on these adverse events, these results should be interpreted with caution. 
+Hearing loss was reported more often by people taking macrolide antibiotics, however only four studies reported this outcome. 
+Macrolides caused less cough and fewer respiratory tract infections than placebo.
+We did not find any evidence that macrolides caused more cardiac disorders, liver disorders, blood infections, skin and soft tissue infections, changes in liver enzymes, appetite loss, dizziness, headache, respiratory symptoms, itching, or rashes than placebo. 

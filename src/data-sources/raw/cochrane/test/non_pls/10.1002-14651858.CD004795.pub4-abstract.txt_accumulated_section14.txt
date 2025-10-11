@@ -1,0 +1,14 @@
+Background
+Currently the World Health Organization only recommend fluoroquinolones for people with presumed drug‐sensitive tuberculosis (TB) who cannot take standard first‐line drugs. However, use of fluoroquinolones could shorten the length of treatment and improve other outcomes in these people. This review summarises the effects of fluoroquinolones in first‐line regimens in people with presumed drug‐sensitive TB. 
+Objectives
+To assess fluoroquinolones as substitute or additional components in antituberculous drug regimens for drug‐sensitive TB. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; CENTRAL (The Cochrane Library 2013, Issue 1); MEDLINE; EMBASE; LILACS; Science Citation Index; Databases of Russian Publications; and metaRegister of Controlled Trials up to 6 March 2013. 
+Selection criteria
+Randomized controlled trials (RCTs) of antituberculous regimens based on rifampicin and pyrazinamide and containing fluoroquinolones in people with presumed drug‐sensitive pulmonary TB. 
+Data collection and analysis
+Two authors independently applied inclusion criteria, assessed the risk of bias in the trials, and extracted data. We used the risk ratio (RR) for dichotomous data and the fixed‐effect model when it was appropriate to combine data and no heterogeneity was present. We assessed the quality of evidence using the GRADE approach. 
+Main results
+We identified five RCTs (1330 participants) that met the inclusion criteria. None of the included trials examined regimens of less than six months duration. 
+Fluoroquinolones added to standard regimens 
+A single trial (174 participants) added levofloxacin to the standard first‐line regimen. Relapse and treatment failure were not reported. For death, sputum conversion, and adverse events we are uncertain if there is an effect (one trial, 174 participants, very low quality evidence for all three outcomes). 

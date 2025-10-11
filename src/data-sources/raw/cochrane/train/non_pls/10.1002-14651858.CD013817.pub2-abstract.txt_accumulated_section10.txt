@@ -1,0 +1,10 @@
+Background
+Glaucoma is a group of optic neuropathies characterized by progressive degeneration of the retinal ganglion cells, axonal loss and irreversible visual field defects. Glaucoma is classified as primary or secondary, and worldwide, primary glaucoma is a leading cause of irreversible blindness. Several subtypes of glaucoma exist, and primary open‐angle glaucoma (POAG) is the most common. The etiology of POAG is unknown, but current treatments aim to reduce intraocular pressure (IOP), thus preventing the onset and progression of the disease. Compared with traditional antiglaucomatous treatments, rho kinase inhibitors (ROKi) have a different pharmacodynamic. ROKi is the only current treatment that effectively lowers IOP by modulating the drainage of aqueous humor through the trabecular meshwork and Schlemm's canal. As ROKi are introduced into the market more widely, it is important to assess the efficacy and potential AEs of the treatment. 
+Objectives
+To compare the efficacy and safety of ROKi with placebo or other glaucoma medication in people diagnosed with open‐angle glaucoma (OAG), primary open‐angle glaucoma (POAG) or ocular hypertension (OHT). 
+Search methods
+We used standard Cochrane methods and searched databases on 11 December 2020.
+Selection criteria
+We included randomized clinical trials examining commercially available ROKi‐based monotherapy or combination therapy compared with placebo or other IOP‐lowering medical treatments in people diagnosed with (P)OAG or OHT. We included trials where ROKi were administered according to official glaucoma guidelines. There were no restrictions regarding type, year or status of the publication. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Two review authors independently screened studies, extracted data, and evaluated risk of bias by using Cochrane's RoB 2 tool.  

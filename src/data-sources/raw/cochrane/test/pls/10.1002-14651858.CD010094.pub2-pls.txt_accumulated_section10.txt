@@ -1,0 +1,10 @@
+Radioiodine therapy versus antithyroid medications for Graves' disease
+Review question 
+Is radioiodine treatment better than antithyroid drugs for the therapy of Graves' disease? 
+Background 
+Graves' disease is an autoimmune disorder, which means that the body's immune systems attacks the body itself by means of antibodies. These antibodies stimulate the thyroid gland to produce and secrete excessive amounts of thyroid hormones (hyperthyroidism). Graves' disease is the most common cause of hyperthyroidism. Other typical characteristics of Graves' disease are goitre and eye disease (Graves' ophthalmopathy or orbitopathy). Currently, antithyroid medications such as methimazole or propylthiouracil and radioactive iodine (radioiodine, given either in a capsule or in a tasteless solution in water) are most often used for the treatment of Graves' disease. Radioiodine destroys most cells in the thyroid gland, so that secretion of thyroid hormones is massively reduced. Antithyroid medications block the production of thyroid hormones, also leading to a decrease in the production of these hormones. 
+Study characteristics 
+We identified two randomised controlled trials (RCTs) enrolling 425 adult participants with Graves' disease. Altogether 204 participants were randomised to treatment with radioiodine and 221 to methimazole. Follow‐up in the included studies was from 2 to 21 years depending on which outcome was investigated. 
+Key results 
+Study authors reported health‐related quality of life to be similar in the radioiodine and methimazole treatment groups, however exact data were not published. 
+The development and worsening of Graves' opthalmopathy, which is a serious eye disease that happens in some people with Graves' disease, was observed in 361 of 1000 radioiodine‐treated persons compared with 186 of 1000 methimazole‐treated persons. A high percentage of the study participants were smokers, which is related to the risk of worsening or development of Graves' opthalmopathy. 

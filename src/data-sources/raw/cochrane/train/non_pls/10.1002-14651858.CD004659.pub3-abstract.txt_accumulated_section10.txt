@@ -1,0 +1,10 @@
+Background
+Pre‐eclampsia is associated with deficient intravascular production of prostacyclin, a vasodilator, and excessive production of thromboxane, a vasoconstrictor and stimulant of platelet aggregation. These observations led to the hypotheses that antiplatelet agents, low‐dose aspirin in particular, might prevent or delay development of pre‐eclampsia. 
+Objectives
+To assess the effectiveness and safety of antiplatelet agents, such as aspirin and dipyridamole, when given to women at risk of developing pre‐eclampsia. 
+Search methods
+For this update, we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (30 March 2018), and reference lists of retrieved studies. We updated the search in September 2019 and added the results to the awaiting classification section of the review. 
+Selection criteria
+All randomised trials comparing antiplatelet agents with either placebo or no antiplatelet agent were included. Studies only published in abstract format were eligible for inclusion if sufficient information was available. We would have included cluster‐randomised trials in the analyses along with individually‐randomised trials, if any had been identified in our search strategy. Quasi‐random studies were excluded. Participants were pregnant women at risk of developing pre‐eclampsia. Interventions were administration of an antiplatelet agent (such as low‐dose aspirin or dipyridamole), comparisons were either placebo or no antiplatelet. 
+Data collection and analysis
+Two review authors assessed trials for inclusion and extracted data independently. For binary outcomes, we calculated risk ratio (RR) and its 95% confidence interval (CI), on an intention‐to‐treat basis. For this update we incorporated individual participant data (IPD) from trials with this available, alongside aggregate data (AD) from trials where it was not, in order to enable reliable subgroup analyses and inclusion of two key new outcomes. We assessed risk of bias for included studies and created a 'Summary of findings' table using GRADE. 

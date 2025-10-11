@@ -1,0 +1,13 @@
+Background
+In many countries of the industrialised world second generation ("atypical") antipsychotics have become the first line drug treatment for people with schizophrenia. The question as to whether, and if so how much, the effects of the various second generation antipsychotics differ is a matter of debate. In this review we examined how the efficacy and tolerability of olanzapine differs from that of other second generation antipsychotics. 
+Objectives
+To evaluate the effects of olanzapine compared to other atypical antipsychotics for people with schizophrenia and schizophrenia‐like psychosis. 
+Search methods
+1. Electronic searching  We searched the Cochrane Schizophrenia Group Trials Register (April 2007) which is based on regular searches of BIOSIS, CENTRAL, CINAHL, EMBASE, MEDLINE and PsycINFO. 
+2. Reference searching  We inspected the reference of all identified studies for more trials. 
+3. Personal contact  We contacted the first author of each included study for missing information. 
+4. Drug companies  We contacted the manufacturers of all atypical antipsychotics included for additional data. 
+Selection criteria
+We included all randomised trials that used at least single‐blind (rater‐blind) design, comparing oral olanzapine with oral forms of amisulpride, aripiprazole, clozapine, quetiapine, risperidone, sertindole, ziprasidone or zotepine in people with schizophrenia or schizophrenia‐like psychosis. 
+Data collection and analysis
+We extracted data independently. For dichotomous data we calculated relative risks (RR) and their 95% confidence intervals (CI) on an intention‐to‐treat basis based on a random effects model. We calculated numbers needed to treat/harm (NNT/NNH) where appropriate. For continuous data, we calculated weighted mean differences (WMD) again based on a random effects model. 

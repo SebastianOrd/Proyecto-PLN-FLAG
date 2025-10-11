@@ -1,0 +1,10 @@
+Background
+The sedation needs of critically ill patients have been recognized as a core component of critical care that is vital to assist recovery and ensure humane treatment. Evidence suggests that sedation requirements are not always optimally managed. Suboptimal sedation, both under‐ and over‐sedation, have been linked to short‐term (e.g. length of stay) and long‐term (e.g. psychological recovery) outcomes. Strategies to improve sedation assessment and management have been proposed. This review was originally published in 2015 and updated in 2018. 
+Objectives
+To assess the effects of protocol‐directed sedation management compared to usual care on the duration of mechanical ventilation, intensive care unit (ICU) and hospital mortality and other patient outcomes in mechanically ventilated ICU adults and children. 
+Search methods
+We used the standard search strategy of the Cochrane Anaesthesia, Critical and Emergency Care Group (ACE). We searched the Cochrane Central Register of Controlled trials (CENTRAL) (December 2017), MEDLINE (OvidSP) (2013 to December 2017), Embase (OvidSP) (2013 to December 2017), CINAHL (BIREME host) (2013 to December 2017), LILACS (2013 to December 2017), trial registries and reference lists of articles. (The original search was run in November 2013). 
+Selection criteria
+We included randomized controlled trials (RCTs) and quasi‐randomized controlled trials conducted in ICUs comparing management with and without protocol‐directed sedation in intensive care adults and children. 
+Data collection and analysis
+Two authors screened the titles and abstracts and then full‐text reports identified from our electronic search. We assessed seven domains of potential risk of bias for the included studies. We examined clinical, methodological and statistical heterogeneity and used the random‐effects model for meta‐analysis where we considered it appropriate. We calculated the mean difference (MD) for duration of mechanical ventilation and risk ratio (RR) for mortality across studies, with 95% confidence intervals (CIs). 

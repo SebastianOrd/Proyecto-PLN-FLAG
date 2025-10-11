@@ -1,0 +1,11 @@
+Background
+Intussusception is a common abdominal emergency in children with significant morbidity. Prompt diagnosis and management reduces associated risks and the need for surgical intervention. Despite widespread agreement on the use of contrast enema as opposed to surgery for initial management in most cases, debate persists on the appropriate contrast medium, imaging modality, pharmacological adjuvant, and protocol for delayed repeat enema, and on the best approach for surgical management for intussusception in children. 
+Objectives
+To assess the safety and effectiveness of non‐surgical and surgical approaches in the management of intussusception in children. 
+Search methods
+We searched the following electronic databases: Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 8) in the Cochrane Library; Ovid MEDLINE (1950 to September 2016); Ovid Embase (1974 to September 2016); Science Citation Index Expanded (via Web of Science) (1900 to September 2016); and BIOSIS Previews (1969 to September 2016). 
+We examined the reference lists of all eligible trials to identify additional studies. To locate unpublished studies, we contacted content experts, searched the World Health Organization International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov (September 2016), and explored proceedings from meetings of the British Association of Paedatric Surgeons (BAPS), the American Soceity of Pediatric Surgery, and the World Congress of Pediatric Surgery. 
+Selection criteria
+We included all randomised controlled trials comparing contrast media, imaging modalities, pharmacological adjuvants, protocols for delayed repeat enema, and/or surgical approaches for the management of intussusception in children. We applied no language, publication date, or publication status restrictions. 
+Data collection and analysis
+Two review authors independently conducted study selection and data extraction and assessed risk of bias using a standardised form. We resolved disagreements by consensus with a third review author when necessary. We reported dichotomous outcomes as risk ratios (RRs) with 95% confidence intervals (CIs). We analysed data on an intention‐to‐treat basis and evaluated the overall quality of evidence supporting the outcomes by using GRADE criteria. 

@@ -1,0 +1,13 @@
+Background
+Cartilage defects of the knee are often debilitating and predispose to osteoarthritis. Microfracture, drilling, mosaicplasty, and allograft transplantation are four surgical treatment options that are increasingly performed worldwide. We set out to examine the relative effects of these different methods. 
+Objectives
+To assess the relative effects (benefits and harms) of different surgical interventions (microfracture, drilling, mosaicplasty, and allograft transplantation) for treating isolated cartilage defects of the knee in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register, CENTRAL, EMBASE, MEDLINE, SPORTDiscus, LILACS, trial registers and conference proceedings up to February 2016. 
+Selection criteria
+Any randomised or quasi‐randomised trials that evaluated surgical interventions (microfracture, drilling, mosaicplasty, and allograft transplantation) for treating isolated cartilage defects of the knee in adults. 
+Data collection and analysis
+At least two review authors independently selected studies, assessed risk of bias and extracted data. Intervention effects were assessed using risk ratios (RR) for dichotomous data and mean differences (MD) for continuous data, with 95% confidence intervals (CI). Data were pooled using the fixed‐effect model, where possible. 
+Main results
+We included three randomised controlled trials comparing mosaicplasty versus microfracture for isolated cartilage defects in adults. Two trials were single‐centre trials and one involved three centres. These small trials reported results for a total of 133 participants, of whom 79 (59%) were male. Mean participant age in the three trials ranged from 24.4 years to 32.3 years. All studies included grade 3 or 4 cartilage lesions (International Cartilage Repair Society (ICRS) classification). The defect area ranged from 1.0 cm² to 6.0 cm²; the mean area in all three trials was 2.8 cm². No trials of allograft transplantation or drilling were identified. 
+All trials were judged as being at high or unclear risk of performance and reporting bias. We judged that the quality of evidence was very low for all outcomes. For individual outcomes, we downgraded the quality of evidence by one or two levels for risk of bias, one level for indirectness where there were data from a single‐centre trial only, one or two levels for imprecision where there were wide confidence intervals and an insufficient number of events, and one level for inconsistency reflecting heterogeneity. This means that we are very uncertain about the estimates for all outcomes. 

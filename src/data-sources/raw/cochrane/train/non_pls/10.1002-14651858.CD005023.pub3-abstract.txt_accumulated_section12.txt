@@ -1,0 +1,12 @@
+Background
+Although the benefits of vision screening seem intuitive, the value of such programmes in junior and senior schools has been questioned. In addition there exists a lack of clarity regarding the optimum age for screening and frequency at which to carry out screening. 
+Objectives
+To evaluate the effectiveness of vision screening programmes carried out in schools to reduce the prevalence of correctable visual acuity deficits due to refractive error in school‐age children. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2017, Issue 4); Ovid MEDLINE; Ovid Embase; the ISRCTN registry; ClinicalTrials.gov and the ICTRP. The date of the search was 3 May 2017. 
+Selection criteria
+We included randomised controlled trials (RCTs), including cluster‐randomised trials, that compared vision screening with no vision screening, or compared interventions to improve uptake of spectacles or efficiency of vision screening. 
+Data collection and analysis
+Two review authors independently screened search results and extracted data. Our pre‐specified primary outcome was uncorrected, or suboptimally corrected, visual acuity deficit due to refractive error six months after screening. Pre‐specified secondary outcomes included visual acuity deficit due to refractive error more than six months after screening, visual acuity deficit due to causes other than refractive error, spectacle wearing, quality of life, costs, and adverse effects. We graded the certainty of the evidence using GRADE. 
+Main results
+We identified seven relevant studies. Five of these studies were conducted in China with one study in India and one in Tanzania. A total of 9858 children aged between 10 and 18 years were randomised in these studies, 8240 of whom (84%) were followed up between one and eight months after screening. Overall we judged the studies to be at low risk of bias. None of these studies compared vision screening for correctable visual acuity deficits with not screening. 

@@ -1,0 +1,12 @@
+Background
+Individuals with schizophrenia smoke more heavily than the general population and this contributes to their higher morbidity and mortality from smoking‐related illnesses. It remains unclear what interventions can help them to quit or to reduce smoking. 
+Objectives
+To evaluate the benefits and harms of different treatments for nicotine dependence in schizophrenia. 
+Search methods
+We searched electronic databases including MEDLINE, EMBASE and PsycINFO from inception to October 2012, and the Cochrane Tobacco Addiction Group Specialized Register in November 2012. 
+Selection criteria
+We included randomised trials for smoking cessation or reduction, comparing any pharmacological or non‐pharmacological intervention with placebo or with another therapeutic control in adult smokers with schizophrenia or schizoaffective disorder. 
+Data collection and analysis
+Two reviewers independently assessed the eligibility and quality of trials, as well as extracted data. Outcome measures included smoking abstinence, reduction in the amount smoked and any change in mental state. We extracted abstinence and reduction data at the end of treatment and at least six months after the intervention. We used the most rigorous definition of abstinence or reduction and biochemically validated data where available. We noted any reported adverse events. Where appropriate, we pooled data using a random‐effects model. 
+Main results
+We included 34 trials (16 trials of cessation; nine trials of reduction; one trial of relapse prevention; eight trials that reported smoking outcomes for interventions aimed at other purposes). Seven trials compared bupropion with placebo; meta‐analysis showed that cessation rates after bupropion were significantly higher than placebo at the end of treatment (seven trials, N = 340; risk ratio [RR] 3.03; 95% confidence interval [CI] 1.69 to 5.42) and after six months (five trials, N = 214, RR 2.78; 95% CI 1.02 to 7.58). There were no significant differences in positive, negative and depressive symptoms between bupropion and placebo groups. There were no reports of major adverse events such as seizures with bupropion. 

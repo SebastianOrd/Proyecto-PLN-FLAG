@@ -1,0 +1,8 @@
+Background
+In the treatment of children with mild persistent asthma, low‐dose inhaled corticosteroids (ICS) are recommended as the preferred monotherapy (referred to as step 2 of therapy). In children with inadequate asthma control on low doses of ICS (step 2), asthma management guidelines recommend adding an anti‐leukotriene agent to existing ICS as one of three therapeutic options to intensify therapy (step 3). 
+Objectives
+To compare the efficacy and safety of the combination of anti‐leukotriene agents and ICS to the use of the same, an increased, or a tapering dose of ICS in children and adolescents with persistent asthma who remain symptomatic despite the use of maintenance ICS. In addition, we wished to determine the characteristics of people or treatments, if any, that influenced the magnitude of response attributable to the addition of anti‐leukotrienes. 
+Search methods
+We identified trials from the Cochrane Airways Group Specialised Register of Trials (CAGR), which were derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, PsycINFO, AMED, and CINAHL; and the handsearching of respiratory journals and meeting abstracts, as well as the www.clinicaltrials.gov website. The search was conducted until January 2013. 
+Selection criteria
+We considered for inclusion randomised controlled trials (RCTs) conducted in children and adolescents, aged one to 18 years, with asthma, who remained symptomatic despite the use of a stable maintenance dose of ICS and in whom anti‐leukotrienes were added to the ICS if they were compared to the same, an increased, or a tapering dose of ICS for at least four weeks. 

@@ -1,0 +1,14 @@
+Background
+Pressure ulcers (PUs) are injuries to the skin and underlying tissues that occur most commonly over bony prominences, such as the hips and heels as a result of pressure and shear forces. PUs cause pain, discomfort, longer hospital stays, and decreased quality of life. They are also very costly to treat and consume substantial parts of healthcare budgets. PUs are largely preventable, and education targeted at patients and their carers is considered important. 
+Objectives
+To assess the effects of patient and/or lay carer education on preventing pressure ulceration in at‐risk people, in any care setting. 
+Search methods
+In June 2019 we searched the Cochrane Wounds Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE (including In‐Process & Other Non‐Indexed Citations); Ovid Embase; Ovid PsycINFO and EBSCO CINAHL Plus. We also searched clinical trials registries for ongoing and unpublished studies.  There were no restrictions with respect to language, date of publication or study setting. 
+Selection criteria
+We included randomised controlled trials (RCTs) that recruited people of any age at risk of pressure ulceration, and RCTs that recruited people who informally care for someone at risk of pressure ulceration. 
+Data collection and analysis
+Two review authors independently performed study selection, data extraction, 'Risk of bias' assessment, and GRADE assessment of the certainty of the evidence. 
+Main results
+We included 10 studies with 11 publications (2261 participants analysed). Seven targeted their intervention at people at risk of ulceration and measured outcomes on these at risk people; two targeted those at risk and their family carers and measured outcomes on the at risk people cared for by their families; and one targeted lay carers only and measured outcomes on the at risk people they cared for. There were two main types of interventions: the provision of information on prevention of pressure ulcers, and the use of different types of education programmes. 
+Provision of information on the prevention of pressure ulcers 
+Three studies (237 participants) reported data for this comparison: two provided information directly to those at risk and their carers, and the third provided information to lay carers. As data could not be pooled we present individual study data. The evidence for primary outcomes is of very low certainty (downgraded twice for study limitations and twice for imprecision). 

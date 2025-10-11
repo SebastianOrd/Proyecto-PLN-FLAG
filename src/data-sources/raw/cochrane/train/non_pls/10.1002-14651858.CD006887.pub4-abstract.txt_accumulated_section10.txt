@@ -1,0 +1,10 @@
+Background
+The current paradigm for cardiovascular disease (CVD) emphasises absolute risk assessment to guide treatment decisions in primary prevention. Although the derivation and validation of multivariable risk assessment tools, or CVD risk scores, have attracted considerable attention, their effect on clinical outcomes is uncertain. 
+Objectives
+To assess the effects of evaluating and providing CVD risk scores in adults without prevalent CVD on cardiovascular outcomes, risk factor levels, preventive medication prescribing, and health behaviours. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library (2016, Issue 2), MEDLINE Ovid (1946 to March week 1 2016), Embase (embase.com) (1974 to 15 March 2016), and Conference Proceedings Citation Index‐Science (CPCI‐S) (1990 to 15 March 2016). We imposed no language restrictions. We searched clinical trial registers in March 2016 and handsearched reference lists of primary studies to identify additional reports. 
+Selection criteria
+We included randomised and quasi‐randomised trials comparing the systematic provision of CVD risk scores by a clinician, healthcare professional, or healthcare system compared with usual care (i.e. no systematic provision of CVD risk scores) in adults without CVD. 
+Data collection and analysis
+Three review authors independently selected studies, extracted data, and evaluated study quality. We used the Cochrane 'Risk of bias' tool to assess study limitations. The primary outcomes were: CVD events, change in CVD risk factor levels (total cholesterol, systolic blood pressure, and multivariable CVD risk), and adverse events. Secondary outcomes included: lipid‐lowering and antihypertensive medication prescribing in higher‐risk people. We calculated risk ratios (RR) for dichotomous data and mean differences (MD) or standardised mean differences (SMD) for continuous data using 95% confidence intervals. We used a fixed‐effects model when heterogeneity (I²) was at least 50% and a random‐effects model for substantial heterogeneity (I² > 50%). We evaluated the quality of evidence using the GRADE framework. 

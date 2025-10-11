@@ -1,0 +1,10 @@
+Background
+People with type 1 diabetes mellitus (T1DM) need treatment with insulin for survival. Whether any particular type of (ultra‐)long‐acting insulin provides benefit especially regarding risk of diabetes complications and hypoglycaemia is unknown. 
+Objectives
+To compare the effects of long‐term treatment with (ultra‐)long‐acting insulin analogues to NPH insulin (neutral protamine Hagedorn) or another (ultra‐)long‐acting insulin analogue in people with type 1 diabetes mellitus. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials, MEDLINE, Scopus, ClinicalTrials.gov, the World Health Organization (WHO) International Clinical Trials Registry Platform and the reference lists of systematic reviews, articles and health technology assessment reports. We explored the US Food and Drug Administration (FDA) and European Medical Agency (EMA) web pages. We asked pharmaceutical companies, EMA and investigators for additional data and clinical study reports (CSRs). The date of the last search of all databases was 24 August 2020. 
+Selection criteria
+We included randomised controlled trials (RCTs) with a duration of 24 weeks or more comparing one (ultra‐)long‐acting insulin to NPH insulin or another (ultra‐)long‐acting insulin in people with T1DM. 
+Data collection and analysis
+Two review authors assessed risk of bias using the new Cochrane 'Risk of bias' 2 (RoB 2) tool and extracted data. Our main outcomes were all‐cause mortality, health‐related quality of life (QoL), severe hypoglycaemia, non‐fatal myocardial infarction/stroke (NFMI/NFS), severe nocturnal hypoglycaemia, serious adverse events (SAEs) and glycosylated haemoglobin A1c (HbA1c). We used a random‐effects model to perform meta‐analyses and calculated risk ratios (RRs) and odds ratios (ORs) for dichotomous outcomes and mean differences (MDs) for continuous outcomes, using 95% confidence intervals (CIs) and 95% prediction intervals for effect estimates. We evaluated the certainty of the evidence applying the GRADE instrument. 

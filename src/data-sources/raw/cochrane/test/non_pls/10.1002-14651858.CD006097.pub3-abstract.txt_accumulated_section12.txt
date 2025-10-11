@@ -1,0 +1,12 @@
+Background
+This systematic review update summarizes the current evidence on the use of natalizumab for induction of remission in Crohn's disease (CD). 
+Objectives
+To determine the efficacy and safety of natalizumab for induction of remission in CD. 
+Search methods
+We searched MEDLINE, Embase, CENTRAL, the Cochrane IBD Group Specialized Trials Register, and clinicaltrials.gov from inception to 10 May 2018. 
+Selection criteria
+We included randomized controlled trials (RCTs) comparing natalizumab to a placebo or control therapy for induction of remission in CD. 
+Data collection and analysis
+Two authors independently screened studies, extracted data and assessed methodological quality using the Cochrane risk of bias tool. The primary outcome was failure to enter clinical remission. Secondary outcomes included clinical response, mean change in Crohn's Disease Activity Index (CDAI), adverse events (AEs), withdrawal due to AEs and serious AEs. For dichotomous outcomes, we calculated the risk ratio (RR) and 95% confidence interval (95% CI). For continuous outcomes we calculated the mean difference (MD) and 95% CI. Data were pooled for meta‐analysis when the interventions, patient groups and outcomes were sufficiently similar (determined by consensus). We used GRADE to assess the overall quality of the evidence. 
+Main results
+A total of five RCTs (1771 participants) were included. Four studies (1692 participants) compared one, two or three infusions of natalizumab (300 mg or 3 mg/kg or 6mg/kg) to placebo. One study (79 participants) compared three infusions of natalizumab (300 mg) and infliximab (5 mg/kg) to infliximab and placebo. Four studies were rated as low risk of bias. One study was rated as unclear risk of bias for selective reporting. 

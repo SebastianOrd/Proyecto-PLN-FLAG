@@ -1,0 +1,10 @@
+Background
+Obesity and chronic kidney disease (CKD) are highly prevalent worldwide and result in substantial health care costs. Obesity is a predictor of incident CKD and progression to kidney failure. Whether weight loss interventions are safe and effective to impact on disease progression and clinical outcomes, such as death remains unclear. 
+Objectives
+This review aimed to evaluate the safety and efficacy of intentional weight loss interventions in overweight and obese adults with CKD; including those with end‐stage kidney disease (ESKD) being treated with dialysis, kidney transplantation, or supportive care. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 14 December 2020 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs of more than four weeks duration, reporting on intentional weight loss interventions, in individuals with any stage of CKD, designed to promote weight loss as one of their primary stated goals, in any health care setting. 
+Data collection and analysis
+Two authors independently assessed study eligibility and extracted data. We applied the Cochrane 'Risk of Bias' tool and used the GRADE process to assess the certainty of evidence. We estimated treatment effects using random‐effects meta‐analysis. Results were expressed as risk ratios (RR) for dichotomous outcomes together with 95% confidence intervals (CI) or mean differences (MD) or standardised mean difference (SMD) for continuous outcomes or in descriptive format when meta‐analysis was not possible. 

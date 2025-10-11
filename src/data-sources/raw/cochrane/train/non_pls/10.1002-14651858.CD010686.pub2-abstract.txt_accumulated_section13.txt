@@ -1,0 +1,13 @@
+Background
+Virtual reality (VR) computer technology creates a simulated environment, perceived as comparable to the real world, with which users can actively interact. The effectiveness of VR distraction on acute pain intensity in children is uncertain. 
+Objectives
+To assess the effectiveness and adverse effects of virtual reality (VR) distraction interventions for children (0 to 18 years) with acute pain in any healthcare setting. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL, PsycINFO and four trial registries to October 2019. We also searched reference lists of eligible studies, handsearched relevant journals and contacted study authors. 
+Selection criteria
+Randomised controlled trials (RCTs), including cross‐over and cluster‐RCTs, comparing VR distraction to no distraction, non‐VR distraction or other VR distraction. 
+Data collection and analysis
+We used standard Cochrane methodological processes. Two reviewers assessed risk of bias and extracted data independently. The primary outcome was acute pain intensity (during procedure, and up to one hour post‐procedure). Secondary outcomes were adverse effects, child satisfaction with VR, pain‐related distress, parent anxiety, rescue analgesia and cost. We used GRADE and created 'Summary of findings' tables. 
+Main results
+We included 17 RCTs (1008 participants aged four to 18 years) undergoing various procedures in healthcare settings. We did not pool data because the heterogeneity in population (i.e. diverse ages and developmental stages of children and their different perceptions and reactions to pain) and variations in procedural conditions (e.g. phlebotomy, burn wound dressings, physical therapy sessions), and consequent level of pain experienced, made statistical pooling of data impossible. We narratively describe results. 
+We judged most studies to be at unclear risk of selection bias, high risk of performance and detection bias, and high risk of bias for small sample sizes. Across all comparisons and outcomes, we downgraded the certainty of evidence to low or very low due to serious study limitations and serious or very serious indirectness. We also downgraded some of the evidence for very serious imprecision. 

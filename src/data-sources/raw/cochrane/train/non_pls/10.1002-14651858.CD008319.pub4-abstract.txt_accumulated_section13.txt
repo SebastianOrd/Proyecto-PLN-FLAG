@@ -1,0 +1,13 @@
+Background
+Cystic fibrosis is a genetic disorder in which abnormal mucus in the lungs is associated with susceptibility to persistent infection. Pulmonary exacerbations are when symptoms of infection become more severe. Antibiotics are an essential part of treatment for exacerbations and inhaled antibiotics may be used alone or in conjunction with oral antibiotics for milder exacerbations or with intravenous antibiotics for more severe infections. Inhaled antibiotics do not cause the same adverse effects as intravenous antibiotics and may prove an alternative in people with poor access to their veins. This is an update of a previously published review. 
+Objectives
+To determine if treatment of pulmonary exacerbations with inhaled antibiotics in people with cystic fibrosis improves their quality of life, reduces time off school or work, and improves their long‐term lung function. 
+Search methods
+We searched the Cochrane Cystic Fibrosis Group's Cystic Fibrosis Trials Register. Date of the last search: 7 March 2022. 
+We also searched ClinicalTrials.gov, the Australia and New Zealand Clinical Trials Registry and WHO ICTRP for relevant trials. Date of last search: 3 May 2022. 
+Selection criteria
+Randomised controlled trials in people with cystic fibrosis with a pulmonary exacerbation in whom treatment with inhaled antibiotics was compared to placebo, standard treatment or another inhaled antibiotic for between one and four weeks. 
+Data collection and analysis
+Two review authors independently selected eligible trials, assessed the risk of bias in each trial and extracted data. They assessed the certainty of the evidence using the GRADE criteria. Authors of the included trials were contacted for more information. 
+Main results
+Five trials with 183 participants are included in the review. Two trials (77 participants) compared inhaled antibiotics alone to intravenous antibiotics alone and three trials (106 participants) compared a combination of inhaled and intravenous antibiotics to intravenous antibiotics alone. Trials were heterogenous in design and two were only available in abstract form. Risk of bias was difficult to assess in most trials but, for four out of five trials, we judged there to be a high risk from lack of blinding and an unclear risk with regards to randomisation. Results were not fully reported and only limited data were available for analysis. One trial was a cross‐over design and we only included data from the first intervention arm. 

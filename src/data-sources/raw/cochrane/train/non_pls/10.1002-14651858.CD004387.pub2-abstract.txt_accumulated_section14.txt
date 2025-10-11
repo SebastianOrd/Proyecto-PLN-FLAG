@@ -1,0 +1,14 @@
+Background
+Using a pilot system we have categorised this review as: Historical question ‐ no update intended. (Please see "Published notes" section of the review for more details). 
+In Africa, malaria is often resistant to chloroquine and sulfadoxine‐pyrimethamine. Chlorproguanil‐dapsone is a potential alternative. 
+Objectives
+To compare chlorproguanil‐dapsone with other antimalarial drugs for treating uncomplicated falciparum malaria. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (May 2004), CENTRAL (The Cochrane Library 2004, Issue 2), MEDLINE (1966 to May 2004), EMBASE (1988 to May 2004), LILACS (May 2004), Biosis Previews (1985 to May 2004), conference proceedings, and reference lists, and contacted researchers working in this field. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials comparing chlorproguanil‐dapsone to other antimalarial drugs. 
+Data collection and analysis
+Two reviewers independently applied the inclusion criteria, extracted data, and assessed methodological quality. We calculated the risk ratio (RR) for dichotomous data and mean difference for continuous data, and presented them with 95% confidence intervals (CI). 
+Main results
+Six trials (n = 3352) met the inclusion criteria. Chlorproguanil‐dapsone (with 1.2 mg chlorproguanil) as a single dose had fewer treatment failures than chloroquine (1 trial), but more treatment failures and people with parasitaemia at day 28 than sulfadoxine‐pyrimethamine (3 trials). 
+Two trials compared the three‐dose chlorproguanil‐dapsone (with 2 mg chlorproguanil) regimen with sulfadoxine‐pyrimethamine in new attendees. There were fewer treatment failures with chlorproguanil‐dapsone by day 7 (RR 0.30, 95% CI 0.19 to 0.49; n = 827, 1 trial) and day 14 (RR 0.36, 95% CI 0.24 to 0.53; n = 1709, 1 trial). Neither trial reported total failures by day 28. A further trial was carried out in participants selected because they had previously failed sulfadoxine‐pyrimethamine. 

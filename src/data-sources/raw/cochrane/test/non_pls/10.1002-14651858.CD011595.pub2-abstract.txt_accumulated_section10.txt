@@ -1,0 +1,10 @@
+Background
+Malaria is an important cause of illness and death across endemic regions. Considerable success against malaria has been achieved within the past decade mainly through long‐lasting insecticide‐treated nets (LLINs). However, elimination of the disease is proving difficult as current control methods do not protect against mosquitoes biting outdoors and when people are active. Repellents may provide a personal protection solution during these times. 
+Objectives
+To assess the impact of topical repellents, insecticide‐treated clothing, and spatial repellents on malaria transmission. 
+Search methods
+We searched the following databases up to 26 June 2017: the Cochrane Infectious Diseases Group Specialized Register; the Central Register of Controlled Trials (CENTRAL), published in the Cochrane Library; MEDLINE; Embase; US AFPMB; CAB Abstracts; and LILACS. We also searched trial registration platforms and conference proceedings; and contacted organizations and companies for ongoing and unpublished trials. 
+Selection criteria
+We included randomized controlled trials (RCTs) and cluster‐randomized controlled trials of topical repellents proven to repel mosquitoes; permethrin‐treated clothing; and spatial repellents such as mosquito coils. We included trials that investigated the use of repellents with or without LLINs, referred to as insecticide‐treated nets. 
+Data collection and analysis
+Two review authors independently reviewed trials for inclusion, extracted the data, and assessed the risk of bias. A third review author resolved any discrepancies. We analysed data by conducting meta‐analysis and stratified by whether the trials had included LLINs. We combined results from cRCTs with individually RCTs by adjusting for clustering and presented results using forest plots. We used GRADE to assess the certainty of the evidence. 

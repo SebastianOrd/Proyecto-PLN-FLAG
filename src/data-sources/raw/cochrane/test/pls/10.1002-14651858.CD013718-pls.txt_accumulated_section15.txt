@@ -1,0 +1,15 @@
+How effective is screening for COVID‐19?
+Why does screening matter? 
+Screening aims to identify a condition in people who may not be showing any symptoms. Some people may have the COVID‐19 virus but appear healthy or have only mild symptoms. It is important to identify infected people so they can stay away from others and seek appropriate care. Incorrectly identifying COVID‐19 in healthy people could lead to unnecessary self‐isolation and further tests. Incorrectly identifying no infection in infected people could spread the virus. 
+Screening for COVID‐19 can include temperature checks, or asking about international travel or contact with COVID‐19 cases, or rapid tests. Screening can occur over the telephone, online, or in person, in homes, clinics, workplaces, airports or schools. 
+What did the review study? 
+We wanted to identify:
+· the benefits and negative effects of screening apparently healthy people for COVID‐19 infection; 
+· whether screening can identify those with and without the virus correctly.
+To answer these questions rapidly, we shortened some steps of the normal Cochrane Review process. We are confident these changes do not affect our overall conclusions. 
+What did we do? 
+We looked for studies that screened people who had not sought care for potential COVID‐19 symptoms. 
+This review includes evidence up to May 2020.
+Key results 
+We found 22 studies; 17 assessed people (cohort studies) and five were computer‐generated models (modelling studies). Studies took place in USA, Europe, and Asia. 
+Benefits and negative effects  Two modelling studies reported on the benefits and negative effects of screening. One suggested that asking about symptoms at airports may slightly slow, but not stop, the importation of infected people. 

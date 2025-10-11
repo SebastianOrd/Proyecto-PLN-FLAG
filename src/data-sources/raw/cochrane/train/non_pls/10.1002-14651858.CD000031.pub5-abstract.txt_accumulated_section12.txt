@@ -1,0 +1,12 @@
+Background
+Whilst the pharmacological profiles and mechanisms of antidepressants are varied, there are common reasons why they might help people to stop smoking tobacco. Firstly, nicotine withdrawal may produce depressive symptoms and antidepressants may relieve these. Additionally, some antidepressants may have a specific effect on neural pathways or receptors that underlie nicotine addiction. 
+Objectives
+To assess the evidence for the efficacy, safety and tolerability of medications with antidepressant properties in assisting long‐term tobacco smoking cessation in people who smoke cigarettes. 
+Search methods
+We searched the Cochrane Tobacco Addiction Specialized Register, which includes reports of trials indexed in the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, and PsycINFO, clinicaltrials.gov, the ICTRP, and other reviews and meeting abstracts, in May 2019. 
+Selection criteria
+We included randomized controlled trials (RCTs) that recruited smokers, and compared antidepressant medications with placebo or no treatment, an alternative pharmacotherapy, or the same medication used in a different way. We excluded trials with less than six months follow‐up from efficacy analyses. We included trials with any follow‐up length in safety analyses. 
+Data collection and analysis
+We extracted data and assessed risk of bias using standard Cochrane methods. We also used GRADE to assess the certainty of the evidence. 
+The primary outcome measure was smoking cessation after at least six months follow‐up, expressed as a risk ratio (RR) and 95% confidence intervals (CIs). We used the most rigorous definition of abstinence available in each trial, and biochemically validated rates if available. Where appropriate, we performed meta‐analysis using a fixed‐effect model. 
+Similarly, we presented incidence of safety and tolerance outcomes, including adverse events (AEs), serious adverse events (SAEs), psychiatric AEs, seizures, overdoses, suicide attempts, death by suicide, all‐cause mortality, and trial dropout due to drug, as RRs (95% CIs). 

@@ -1,0 +1,10 @@
+Background
+Myelodysplastic syndromes (MDS) are a heterogeneous group of haematological diseases which are characterised by a uni‐ or multilineage dysplasia of haematological stem cells. Standard treatment is supportive care of the arising symptoms including red blood cell transfusions or the administration of erythropoiesis‐stimulating agents (ESAs) in the case of anaemia or the treatment with granulocyte (G‐CSF) and granulocyte‐macrophage colony stimulating factors (GM‐CSF) in cases of neutropenia. 
+Objectives
+The objective of this review is to assess the evidence for the treatment of patients with MDS with G‐CSF and GM‐CSF in addition to standard therapy in comparison to the same standard therapy or the same standard therapy and placebo. 
+Search methods
+We searched MEDLINE (from 1950 to 3 December 2015) and CENTRAL (Cochrane Central Register of Controlled Trials until 3 December 2015), as well as conference proceedings (American Society of Hematology, American Society of Clinical Oncology, European Hematology Association, European Society of Medical Oncology) for randomised controlled trials (RCTs). Two review authors independently screened search results. 
+Selection criteria
+We included RCTs examining G‐CSF or GM‐CSF in addition to standard therapy in patients with newly diagnosed MDS. 
+Data collection and analysis
+We used hazard ratios (HR) as effect measure for overall survival (OS), progression‐free survival (PFS) and time to progression, and risk ratios for response rates, adverse events, antibiotic use and hospitalisation. Two independent review authors extracted data and assessed risk of bias. Investigators of two trials were contacted for subgroup information, however, no further data were provided. G‐CSF and GM‐CSF were analysed separately. 

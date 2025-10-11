@@ -1,0 +1,9 @@
+Background
+Glaucoma is a chronic optic neuropathy characterized by retinal ganglion cell death resulting in damage to the optic nerve head and the retinal nerve fiber layer. Pigment dispersion syndrome is characterized by a structural disturbance in the iris pigment epithelium (the densely pigmented posterior surface of the iris) that leads to dispersion of the pigment and its deposition on various structures within the eye. Pigmentary glaucoma is a specific form of open‐angle glaucoma found in patients with pigment dispersion syndrome. 
+Topcial medical therapy is usually the first‐line treatment; however, peripheral laser iridotomy has been proposed as an alternate treatment. Peripheral laser iridotomy involves creating an opening in the iris tissue to allow drainage of fluid from the posterior chamber to the anterior chamber and vice versa. Equalizing the pressure within the eye may help to alleviate the friction that leads to pigment dispersion and prevent visual field deterioration. However, the effectiveness of peripheral laser iridotomy in reducing the development or progression of pigmentary glaucoma is unknown. 
+Objectives
+The objective of this review was to assess the effects of peripheral laser iridotomy compared with other interventions, including medication, trabeculoplasty, and trabeculectomy, or no treatment, for pigment dispersion syndrome and pigmentary glaucoma. 
+Search methods
+We searched a number of electronic databases including CENTRAL, MEDLINE and EMBASE and clinical trials websites such as (mRCT) and ClinicalTrials.gov. We last searched the electronic databases on 2 November 2015. 
+Selection criteria
+We included randomized controlled trials (RCTs) that had compared peripheral laser iridotomy versus no treatment or other treatments for pigment dispersion syndrome and pigmentary glaucoma. 

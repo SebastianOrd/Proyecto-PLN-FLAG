@@ -1,0 +1,10 @@
+Background
+Antibiotics provide only modest benefit in treating sore throat, although their effectiveness increases in people with positive throat swabs for group A beta‐haemolytic streptococci (GABHS). It is unclear which antibiotic is the best choice if antibiotics are indicated. This is an update of a review first published in 2010, and updated in 2013, 2016, and 2020. 
+Objectives
+To assess the comparative efficacy of different antibiotics in: (a) alleviating symptoms (pain, fever); (b) shortening the duration of the illness; (c) preventing clinical relapse (i.e. recurrence of symptoms after initial resolution); and (d) preventing complications (suppurative complications, acute rheumatic fever, post‐streptococcal glomerulonephritis). To assess the evidence on the comparative incidence of adverse effects and the risk‐benefit of antibiotic treatment for streptococcal pharyngitis. 
+Search methods
+We searched the following databases up to 3 September 2020: CENTRAL (2020, Issue 8), MEDLINE Ovid (from 1946), Embase Elsevier (from 1974), and Web of Science Thomson Reuters (from 2010). We also searched clinical trial registers on 3 September 2020. 
+Selection criteria
+Randomised, double‐blind trials comparing different antibiotics, and reporting at least one of the following: clinical cure, clinical relapse, or complications and/or adverse events. 
+Data collection and analysis
+Two review authors independently screened trials for inclusion and extracted data using standard methodological procedures as recommended by Cochrane. We assessed the risk of bias of included studies according to the methods outlined in the Cochrane Handbook for Systematic Reviews of Interventions, and used the GRADE approach to assess the overall certainty of the evidence for the outcomes. We have reported the intention‐to‐treat analysis, and also performed an analysis of evaluable participants to explore the robustness of the intention‐to‐treat results. 

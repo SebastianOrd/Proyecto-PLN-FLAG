@@ -1,0 +1,14 @@
+Background
+Croup is an acute viral respiratory infection with upper airway mucosal inflammation that may cause respiratory distress. Most cases are mild. Moderate to severe croup may require treatment with corticosteroids (the benefits of which are often delayed) and nebulised epinephrine (adrenaline) (the benefits of which may be short‐lived and which can cause dose‐related adverse effects including tachycardia, arrhythmias, and hypertension). Rarely, croup results in respiratory failure necessitating emergency intubation and ventilation. 
+A mixture of helium and oxygen (heliox) may prevent morbidity and mortality in ventilated neonates by reducing the viscosity of the inhaled air. It is currently used during emergency transport of children with severe croup. Anecdotal evidence suggests that it relieves respiratory distress. 
+This review updates versions published in 2010, 2013, and 2018.
+Objectives
+To examine the effect of heliox compared to oxygen or other active interventions, placebo, or no treatment on relieving signs and symptoms in children with croup as determined by a croup score and rates of admission and intubation. 
+Search methods
+We searched CENTRAL, which includes the Cochrane Acute Respiratory Infections Group Specialised Register, MEDLINE, Embase, CINAHL, Web of Science, and LILACS, on 15 April 2021. We also searched the World Health Organization International Clinical Trials Registry Platform (apps.who.int/trialsearch/) and ClinicalTrials.gov (clinicaltrials.gov) on 15 April 2021. We contacted the British Oxygen Company, a leading supplier of heliox. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs comparing the effect of heliox in comparison with placebo, no treatment, or any active intervention(s) in children with croup. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Data that could not be pooled for statistical analysis were reported descriptively. 
+Main results
+We included 3 RCTs involving a total of 91 children aged between 6 months and 4 years. Study duration was from 7 to 16 months, and all studies were conducted in emergency departments. Two studies were conducted in the USA and one in Spain. Heliox was administered as a mixture of 70% heliox and 30% oxygen. Risk of bias was low in two studies and high in one study because of its open‐label design. We did not identify any new trials for this 2021 update. 

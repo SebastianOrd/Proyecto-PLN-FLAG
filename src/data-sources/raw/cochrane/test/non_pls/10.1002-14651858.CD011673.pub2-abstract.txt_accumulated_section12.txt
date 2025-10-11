@@ -1,0 +1,12 @@
+Background
+Since the mid‐2000s, the field of metastatic renal cell carcinoma (mRCC) has experienced a paradigm shift from non‐specific therapy with broad‐acting cytokines to specific regimens, which directly target the cancer, the tumour microenvironment, or both. 
+Current guidelines recommend targeted therapies with agents such as sunitinib, pazopanib or temsirolimus (for people with poor prognosis) as the standard of care for first‐line treatment of people with mRCC and mention non‐specific cytokines as an alternative option for selected patients. 
+In November 2015, nivolumab, a checkpoint inhibitor directed against programmed death‐1 (PD‐1), was approved as the first specific immunotherapeutic agent as second‐line therapy in previously treated mRCC patients. 
+Objectives
+To assess the effects of immunotherapies either alone or in combination with standard targeted therapies for the treatment of metastatic renal cell carcinoma and their efficacy to maximize patient benefit. 
+Search methods
+We searched the Cochrane Library, MEDLINE (Ovid), Embase (Ovid), ISI Web of Science and registers of ongoing clinical trials in November 2016 without language restrictions. We scanned reference lists and contacted experts in the field to obtain further information. 
+Selection criteria
+We included randomized controlled trials (RCTs) and quasi‐RCTs with or without blinding involving people with mRCC. 
+Data collection and analysis
+We collected and analyzed studies according to the published protocol. Summary statistics for the primary endpoints were risk ratios (RRs) and mean differences (MD) with their 95% confidence intervals (CIs). We rated the quality of evidence using GRADE methodology and summarized the quality and magnitude of relative and absolute effects for each primary outcome in our 'Summary of findings' tables. 

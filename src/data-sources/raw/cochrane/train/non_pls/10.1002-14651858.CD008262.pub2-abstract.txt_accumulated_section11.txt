@@ -1,0 +1,11 @@
+Background
+Many strategies are in use with the intention of preventing or minimising delayed onset muscle soreness and fatigue after exercise. Cold‐water immersion, in water temperatures of less than 15°C, is currently one of the most popular interventional strategies used after exercise. 
+Objectives
+To determine the effects of cold‐water immersion in the management of muscle soreness after exercise. 
+Search methods
+In February 2010, we searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register, the Cochrane Central Register of Controlled Trials (The Cochrane Library (2010, Issue 1), MEDLINE, EMBASE, Cumulative Index to Nursing and Allied Health (CINAHL), British Nursing Index and archive (BNI), and the Physiotherapy Evidence Database (PEDro). We also searched the reference lists of articles, handsearched journals and conference proceedings and contacted experts. 
+In November 2011, we updated the searches of CENTRAL (2011, Issue 4), MEDLINE (up to November Week 3 2011), EMBASE (to 2011 Week 46) and CINAHL (to 28 November 2011) to check for more recent publications. 
+Selection criteria
+Randomised and quasi‐randomised trials comparing the effect of using cold‐water immersion after exercise with: passive intervention (rest/no intervention), contrast immersion, warm‐water immersion, active recovery, compression, or a different duration/dosage of cold‐water immersion. Primary outcomes were pain (muscle soreness) or tenderness (pain on palpation), and subjective recovery (return to previous activities without signs or symptoms). 
+Data collection and analysis
+Three authors independently evaluated study quality and extracted data. Some of the data were obtained following author correspondence or extracted from graphs in the trial reports. Where possible, data were pooled using the fixed‐effect model. 

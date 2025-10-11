@@ -1,0 +1,13 @@
+Tests for identifying the most suitable antibiotics for a bacterial blood infection: are rapid tests better than standard tests? 
+What is the aim of this Cochrane Review? 
+People with blood infections need urgent treatment with antibiotics. Identifying the bacteria causing the infection helps ensure the right antibiotic is given. Rapid susceptibility tests are a technology to do this quickly, and aim to improve care. We sought to evaluate whether their use reduce deaths or shortens the illness. 
+Key messages 
+Rapid susceptibility tests to identify an appropriate antibiotic quickly for people with blood sepsis may make little to no difference to: 
+· how many people die within 30 days of diagnosis of blood sepsis;
+· how long people stay in hospital; 
+· whether given a suitable antibiotic. 
+Larger studies will help determine if using rapid susceptibility tests improves these outcomes. 
+What was studied in this review? 
+Susceptibility tests are done in a laboratory, and measure whether bacteria can grow when exposed to a variety of antibiotics, to assure that the antibiotics given are active against the organism causing the infection. The standard approach is to culture the blood samples, but this takes up to 36 hours to obtain a result. Rapid tests to identify bacteria causing blood infections, and their susceptibilities to antibiotics, provide results in eight hours or less. These rapid susceptibility tests include: 
+· tests that look at the direct effect of antibiotics on bacteria (called phenotypic tests); and 
+· tests that look for particular genes in the bacteria to see if they are susceptible, or resistant, to an antibiotic (called genotypic tests). 

@@ -1,0 +1,14 @@
+Background
+The prevalence and incidence of pain and skeletal complications of metastatic bone disease such as pathologic fractures, spinal cord compression and hypercalcemia is high and an important contributor to morbidity, poor performance status and decreased quality of life. Moreover, pathologic fractures are associated with increased risk of death in people with disseminated malignancies. Therefore, prevention of pain and fractures are important goals in men with prostate cancer at risk for skeletal complications. 
+Objectives
+To assess the effects of bisphosphonates in men with bone metastases from prostate cancer. 
+Search methods
+We identified studies by electronic search of bibliographic databases including the Cochrane Controlled Trials Register and MEDLINE on 13 July 2017 and trial registries. We handsearched the Proceedings of American Society of Clinical Oncology (to July 2017) and reference lists of all eligible trials identified. This is an update of a review last published in 2006. 
+Selection criteria
+We included randomized controlled studies comparing the effectiveness of bisphosphonates in men with bone metastases from prostate cancer. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the quality of trials. We defined the proportion of participants with pain response as the primary end point; secondary outcomes were skeletal‐related events, mortality, quality of life, adverse events, analgesic consumption and disease progression. We assessed the quality of the evidence for the main outcomes using the GRADE approach. 
+Main results
+We included 18 trials reporting on 4843 participants comparing the effect of bisphosphonate administration to control regimens. 
+Primary outcome: there was no clear difference in the proportion of participants with pain response (RR 1.15, 95% CI 0.93 to 1.43; P = 0.20; I2 = 0%; 3 trials; 876 participants; low quality evidence). In absolute terms, bisphosphonates resulted in a pain response in 40 more participants per 1000 (19 fewer to 114 more). 
+Secondary outcomes: bisphosphonates probably reduced the incidence of skeletal‐related events in participants with prostate cancer metastatic to bone (RR 0.87, 95% CI 0.81 to 0.94; P = 0.27; I2 = 19%; 9 trials; 3153 participants; moderate quality evidence). In absolute terms, bisphosphonates resulted in 58 fewer SREs per 1000 (85 fewer to 27 fewer). 

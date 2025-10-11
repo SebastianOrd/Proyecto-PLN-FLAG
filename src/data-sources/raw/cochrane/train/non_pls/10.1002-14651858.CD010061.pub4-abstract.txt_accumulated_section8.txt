@@ -1,0 +1,8 @@
+Background
+In preterm newborns, the ductus arteriosus frequently fails to close and the infants require medical or surgical closure of the patent ductus arteriosus (PDA). A PDA can be treated surgically; or medically with one of two prostaglandin inhibitors, indomethacin or ibuprofen. Case reports suggest that paracetamol may be an alternative for the closure of a PDA. An association between prenatal or postnatal exposure to paracetamol and later development of autism or autism spectrum disorder has been reported. 
+Objectives
+To determine the effectiveness and safety of intravenous or oral paracetamol compared with placebo or no intervention, intravenous indomethacin, intravenous or oral ibuprofen, or with other cyclo‐oxygenase inhibitors for treatment of an echocardiographically diagnosed PDA in preterm or low birth weight infants. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2017, Issue 10), MEDLINE via PubMed (1966 to 6 November 2017), Embase (1980 to 6 November 2017), and CINAHL (1982 to 6 November 2017). We searched clinical trial databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials (RCT) and quasi‐randomised trials. 
+Selection criteria
+We included RCTs in which paracetamol was compared to no intervention, placebo or other agents used for closure of PDA irrespective of dose, duration and mode of administration in preterm (≤ 34 weeks' postmenstrual age) infants. We both reviewed the search results and made a final selection of potentially eligible articles by discussion. We included studies of both prophylactic and therapeutic use of paracetamol. 

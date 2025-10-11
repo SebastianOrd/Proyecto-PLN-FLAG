@@ -1,0 +1,14 @@
+Vertebroplasty for treating spinal fractures due to osteoporosis
+Background 
+Osteoporosis is characterised by thin, fragile bones and may result in minimal trauma fractures of the spine bones (vertebrae). They can cause severe pain and disability. 
+Vertebroplasty involves injecting medical‐grade cement into a fractured vertebra, under light sedation or general anaesthesia. The cement hardens in the bone space to form an internal cast. 
+Study characteristics 
+This Cochrane review is current to November 2017. Studies compared vertebroplasty versus placebo (no cement injected) (five studies, 541 participants); usual care (eight studies, 1136 participants); kyphoplasty (similar, but before cement is injected a balloon is expanded in the fractured vertebra; seven studies, 968 participants) and facet joint steroid injection (one study, 217 participants). Trials were performed in hospitals in 15 countries, the majority of participants were female, mean age ranged between 63.3 and 80 years, and symptom duration ranged from a week to six months or more. Eight trials received at least some funding from medical device manufacturers and only two reported that they had no role in the trial. 
+Key results 
+Compared with a placebo (fake) procedure, vertebroplasty resulted in little benefit at one month: 
+Pain (lower scores mean less pain) 
+Improved by 7% (3% better to 12% better), or 0.7 points (0.3 better to 1.2 better) on a zero‐0 to 10‐point scale. 
+• People who had vertebroplasty rated their pain as 4.3 points.
+• People who had placebo rated their pain as 5 points.
+Disability (lower scores mean less disability) 
+Improved by 7% (2% better to 11% better), or 1.5 points (0.4 better to 2.6 better) on a zero to 23‐point scale. 

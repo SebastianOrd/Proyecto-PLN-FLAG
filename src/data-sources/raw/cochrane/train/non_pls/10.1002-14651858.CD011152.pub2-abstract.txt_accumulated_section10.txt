@@ -1,0 +1,10 @@
+Background
+The prognosis and survival rate of women with breast cancer have significantly improved worldwide. Effective home‐based multidimensional programmes for breast cancer survivors have gained an ever greater emphasis in survivorship care to maximise women’s quality of life for their successful transition to rehabilitation and normal life. It is important to summarise the best available evidence to evaluate the effects of home‐based multidimensional survivorship programmes on quality of life in women within 10 years of the completion of surgery or adjuvant cancer therapy for breast cancer, or both. 
+Objectives
+To assess the effects of home‐based, multidimensional survivorship (HBMS) programmes on maintaining or improving the quality of life in breast cancer survivors. 
+Search methods
+In April 2016 we searched the Cochrane Breast Cancer Specialised Register, CENTRAL, PubMed, Embase, CINAHL Plus, PsycINFO, Web of Science, and the World Health Organization's International Clinical Trials Registry Platform (WHO ICTRP) and ClinicalTrials.gov. We also screened reference lists of all identified studies and contacted study authors. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs assessing the effects of HBMS programmes in maintaining or improving quality of life in women with stages 0 to 3 breast cancer who completed primary cancer treatment (surgery or adjuvant cancer therapy, or both) up to 10 years earlier. We considered studies where the interventions included more than one of the following listed components: educational (such as information provision and self‐management advice), physical (such as exercise training and resistance training) and psychological (such as counselling and cognitive therapies), to constitute a multidimensional programme. Interventions had to be allowed to be carried out at home. 
+Data collection and analysis
+Two authors independently assessed eligible studies for inclusion, and performed quality assessment and extracted relevant data of the included studies. Quality of life was the primary outcome of the review. 

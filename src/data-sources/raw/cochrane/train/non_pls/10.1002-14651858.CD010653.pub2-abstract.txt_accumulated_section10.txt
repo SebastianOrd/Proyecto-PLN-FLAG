@@ -1,0 +1,10 @@
+Background
+Early and accurate diagnosis and treatment of schizophrenia may have long‐term advantages for the patient; the longer psychosis goes untreated the more severe the repercussions for relapse and recovery. If the correct diagnosis is not schizophrenia, but another psychotic disorder with some symptoms similar to schizophrenia, appropriate treatment might be delayed, with possible severe repercussions for the person involved and their family. There is widespread uncertainty about the diagnostic accuracy of First Rank Symptoms (FRS); we examined whether they are a useful diagnostic tool to differentiate schizophrenia from other psychotic disorders. 
+Objectives
+To determine the diagnostic accuracy of one or multiple FRS for diagnosing schizophrenia, verified by clinical history and examination by a qualified professional (e.g. psychiatrists, nurses, social workers), with or without the use of operational criteria and checklists, in people thought to have non‐organic psychotic symptoms. 
+Search methods
+We conducted searches in MEDLINE, EMBASE, and PsycInfo using OvidSP in April, June, July 2011 and December 2012. We also searched MEDION in December 2013. 
+Selection criteria
+We selected studies that consecutively enrolled or randomly selected adults and adolescents with symptoms of psychosis, and assessed the diagnostic accuracy of FRS for schizophrenia compared to history and clinical examination performed by a qualified professional, which may or may not involve the use of symptom checklists or based on operational criteria such as ICD and DSM. 
+Data collection and analysis
+Two review authors independently screened all references for inclusion. Risk of bias in included studies were assessed using the QUADAS‐2 instrument. We recorded the number of true positives (TP), true negatives (TN), false positives (FP), and false negatives (FN) for constructing a 2 x 2 table for each study or derived 2 x 2 data from reported summary statistics such as sensitivity, specificity, and/or likelihood ratios. 

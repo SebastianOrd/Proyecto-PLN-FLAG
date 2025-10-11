@@ -1,0 +1,13 @@
+Background
+Penfluridol, available since 1970, is an unusual long acting oral antipsychotic agent for the treatment of schizophrenia. It may be considered a depot medication as it is administered once a week. 
+Objectives
+To review the effects of penfluridol for treatment of those with schizophrenia and schizophrenia‐like illnesses in comparison to placebo, other antipsychotic medication or no intervention. 
+Search methods
+We undertook electronic searches of the Cochrane Schizophrenia Group's Register (2005), the Cochrane Central Register of Controlled Trials (2003‐5) and LILACS (1982‐2005). We hand searched references of all identified studies and sought citations of these studies in the Science Citation Index. We contacted the authors of trials and the manufacturer of penfluridol. 
+We updated this search September 2012 and added eight new trials to the awaiting classification section. 
+Selection criteria
+We reliably selected all randomised clinical trials comparing penfluridol to placebo or typical or atypical antipsychotic drugs for schizophrenia or serious mental illness. 
+Data collection and analysis
+We independently extracted and analysed data on an intention‐to‐treat basis. We calculated the relative risk (RR) and 95% confidence intervals (CI) of homogeneous dichotomous data using a random effects model, and where possible calculated the number needed to treat. We calculated weighted mean differences (WMD) for continuous data. 
+Main results
+We included twenty‐five studies with a total of 1024 participants. Most of these studies were undertaken in the 1970s when penfluridol was launched. Ten studies, with 365 patients, compared penfluridol to placebo. In the meta‐analysis of medium‐term lasting studies, penfluridol was superior to placebo in the main efficacy measures: 'improvement in global state' (n=159, 4 RCTs, RR 0.69 CI 0.6 to 0.8, NNT 3 CI 2 to 10) and 'needing additional antipsychotic' (n=138, 5 RCTs, RR 0.43 CI 0.2 to 0.8, NNT 3 CI 1.8 to 20). 

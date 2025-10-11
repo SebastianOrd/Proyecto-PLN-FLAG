@@ -1,0 +1,10 @@
+Background
+Management of rotator cuff disease often includes manual therapy and exercise, usually delivered together as components of a physical therapy intervention. This review is one of a series of reviews that form an update of the Cochrane review, 'Physiotherapy interventions for shoulder pain'. 
+Objectives
+To synthesise available evidence regarding the benefits and harms of manual therapy and exercise, alone or in combination, for the treatment of people with rotator cuff disease. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2015, Issue 3), Ovid MEDLINE (January 1966 to March 2015), Ovid EMBASE (January 1980 to March 2015), CINAHL Plus (EBSCO, January 1937 to March 2015), ClinicalTrials.gov and the WHO ICTRP clinical trials registries up to March 2015, unrestricted by language, and reviewed the reference lists of review articles and retrieved trials, to identify potentially relevant trials. 
+Selection criteria
+We included randomised and quasi‐randomised trials, including adults with rotator cuff disease, and comparing any manual therapy or exercise intervention with placebo, no intervention, a different type of manual therapy or exercise or any other intervention (e.g. glucocorticoid injection). Interventions included mobilisation, manipulation and supervised or home exercises. Trials investigating the primary or add‐on effect of manual therapy and exercise were the main comparisons of interest. Main outcomes of interest were overall pain, function, pain on motion, patient‐reported global assessment of treatment success, quality of life and the number of participants experiencing adverse events. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, extracted the data, performed a risk of bias assessment and assessed the quality of the body of evidence for the main outcomes using the GRADE approach. 

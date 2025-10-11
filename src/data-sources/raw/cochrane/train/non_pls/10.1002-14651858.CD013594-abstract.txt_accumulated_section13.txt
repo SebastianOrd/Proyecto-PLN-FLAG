@@ -1,0 +1,13 @@
+Background
+Progressive disseminated histoplasmosis (PDH) is a serious fungal infection that affects people living with HIV. The best way to treat the condition is unclear. 
+Objectives
+We assessed evidence in three areas of equipoise.
+1. Induction. To compare efficacy and safety of initial therapy with liposomal amphotericin B versus initial therapy with alternative antifungals. 
+2. Maintenance. To compare efficacy and safety of maintenance therapy with 12 months of oral antifungal treatment with shorter durations of maintenance therapy. 
+3. Antiretroviral therapy (ART). To compare the outcomes of early initiation versus delayed initiation of ART. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; Cochrane CENTRAL; MEDLINE (PubMed); Embase (Ovid); Science Citation Index Expanded, Conference Proceedings Citation Index‐Science, and BIOSIS Previews (all three in the Web of Science); the WHO International Clinical Trials Registry Platform, ClinicalTrials.gov, and the ISRCTN registry, all up to 20 March 2020. 
+Selection criteria
+We evaluated studies assessing the use of liposomal amphotericin B and alternative antifungals for induction therapy; studies assessing the duration of antifungals for maintenance therapy; and studies assessing the timing of ART. We included randomized controlled trials (RCT), single‐arm trials, prospective cohort studies, and single‐arm cohort studies. 
+Data collection and analysis
+Two review authors assessed eligibility and risk of bias, extracted data, and assessed certainty of evidence. We used the Cochrane 'Risk of bias' tool to assess risk of bias in randomized studies, and ROBINS‐I tool to assess risk of bias in non‐randomized studies. We summarized dichotomous outcomes using risk ratios (RRs), with 95% confidence intervals (CI). 

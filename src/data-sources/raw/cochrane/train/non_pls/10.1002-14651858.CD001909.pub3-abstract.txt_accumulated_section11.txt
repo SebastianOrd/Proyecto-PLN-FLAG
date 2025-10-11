@@ -1,0 +1,11 @@
+Background
+This is an updated version of the Cochrane Review previously published in 2016.
+Epilepsy is a common neurological disorder, affecting 0.5% to 1% of the population. For nearly 30% of these people, their epilepsy is resistant to currently available drugs. Pharmacological treatment remains the first choice to control epilepsy. Lamotrigine is one of the newer antiepileptic drugs. Lamotrigine, in combination with other antiepileptic drugs (add‐on), can reduce seizures, but with some adverse effects. 
+Objectives
+To determine the effects of lamotrigine on (1) seizures, (2) adverse‐effect profile, and (3) cognition and quality of life, compared to placebo, when used as an add‐on treatment for people with drug‐resistant focal epilepsy. 
+Search methods
+For the latest update of the review, we searched the following databases on 9 March 2020: Cochrane Register of Studies (CRS Web), MEDLINE (Ovid, 1946 to March 06, 2020). CRS Web includes randomized or quasi‐randomized, controlled trials from PubMed, EMBASE, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform (ICTRP), the Cochrane Central Register of Controlled Trials (CENTRAL), and the Specialized Registers of Cochrane Review Groups including Epilepsy. No language restrictions were imposed. 
+Selection criteria
+Randomised placebo‐controlled trials of people with drug‐resistant focal epilepsy of any age, in which an adequate method of concealment of randomisation was used. The studies were double‐, single‐ or unblinded, placebo‐controlled. For cross‐over studies, the first treatment period was treated as a parallel trial. Eligible participants were adults or children with drug‐resistant focal epilepsy. 
+Data collection and analysis
+For this update, two review authors independently assessed the trials for inclusion, and extracted data. Outcomes included 50% or greater reduction in seizure frequency, treatment withdrawal (any reason), adverse effects, effects on cognition and quality of life. Primary analyses were by intention‐to‐treat. Sensitivity best‐ and worse‐case analyses were undertaken to account for missing outcome data. Pooled risk ratios (RRs) with 95% confidence intervals (95% Cls) were estimated for the primary outcomes of seizure frequency and treatment withdrawal. For adverse effects, we calculated pooled RRs and 99% Cls. 

@@ -1,0 +1,13 @@
+Background
+Motor neuron disease (MND), also known as amyotrophic lateral sclerosis (ALS), is a progressive neurodegenerative condition that may cause dysphagia, as well as limb weakness, dysarthria, emotional lability, and respiratory failure. Since normal salivary production is 0.5 L to 1.5 L daily, loss of salivary clearance due to dysphagia leads to salivary pooling and sialorrhea, often resulting in distress and inconvenience to people with MND. This is an update of a review first published in 2011. 
+Objectives
+To assess the effects of treatments for sialorrhea in MND, including medications, radiotherapy and surgery. 
+Search methods
+On 27 August 2021, we searched the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, Embase, AMED, CINAHL, ClinicalTrials.gov and the WHO ICTRP. We checked the bibliographies of the identified randomized trials and contacted trial authors as needed. We contacted known experts in the field to identify further published and unpublished papers. 
+Selection criteria
+We included randomized controlled trials (RCTs) and quasi‐RCTs, including cross‐over trials, on any intervention for sialorrhea and related symptoms, compared with each other, placebo or no intervention, in people with ALS/MND. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We identified four RCTs involving 110 participants with MND who were described as having intractable sialorrhea or bulbar dysfunction. 
+A well‐designed study of botulinum toxin B compared to placebo injected into the parotid and submandibular glands of 20 participants showed that botulinum toxin B may produce participant‐reported improvement in sialorrhea, but the confidence interval (CI) was also consistent with no effect. Six of nine participants in the botulinum group and two of nine participants in the placebo group reported improvement (risk ratio (RR) 3.00, 95% CI 0.81 to 11.08; 1 RCT; 18 participants; low‐certainty evidence). An objective measure indicated that botulinum toxin B probably reduced saliva production (in mL/5 min) at eight weeks compared to placebo (MD −0.50, 95% CI −1.07 to 0.07; 18 participants, moderate‐certainty evidence). Botulinum toxin B may have little to no effect on quality of life, measured on the Schedule for Evaluation of Individual Quality of Life direct weighting scale (SEIQoL‐DW; 0‐100, higher values indicate better quality of life) (MD −2.50, 95% CI −17.34 to 12.34; 1 RCT; 17 participants; low‐certainty evidence). The rate of adverse events may be similar with botulinum toxin B and placebo (20 participants; low‐certainty evidence). Trialists did not consider any serious events to be related to treatment. 

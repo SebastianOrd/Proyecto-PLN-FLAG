@@ -1,0 +1,10 @@
+Background
+The prevalence of disease‐related malnutrition in Western European hospitals is estimated to be about 30%. There is no consensus whether poor nutritional status causes poorer clinical outcome or if it is merely associated with it. The intention with all forms of nutrition support is to increase uptake of essential nutrients and improve clinical outcome. Previous reviews have shown conflicting results with regard to the effects of nutrition support. 
+Objectives
+To assess the benefits and harms of nutrition support versus no intervention, treatment as usual, or placebo in hospitalised adults at nutritional risk. 
+Search methods
+We searched Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library, MEDLINE (Ovid SP), Embase (Ovid SP), LILACS (BIREME), and Science Citation Index Expanded (Web of Science). We also searched the World Health Organization International Clinical Trials Registry Platform (www.who.int/ictrp); ClinicalTrials.gov; Turning Research Into Practice (TRIP); Google Scholar; and BIOSIS, as well as relevant bibliographies of review articles and personal files. All searches are current to February 2016. 
+Selection criteria
+We include randomised clinical trials, irrespective of publication type, publication date, and language, comparing nutrition support versus control in hospitalised adults at nutritional risk. We exclude trials assessing non‐standard nutrition support. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane and the Cochrane Hepato‐Biliary Group. We used trial domains to assess the risks of systematic error (bias). We conducted Trial Sequential Analyses to control for the risks of random errors. We considered a P value of 0.025 or less as statistically significant. We used GRADE methodology. Our primary outcomes were all‐cause mortality, serious adverse events, and health‐related quality of life. 

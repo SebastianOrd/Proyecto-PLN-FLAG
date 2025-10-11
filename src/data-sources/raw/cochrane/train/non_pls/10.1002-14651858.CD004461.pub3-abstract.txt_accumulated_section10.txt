@@ -1,0 +1,10 @@
+Background
+Recurrent idiopathic epistaxis (nosebleeds) in children is repeated nasal bleeding in patients up to the age of 16 for which no specific cause has been identified. Although nosebleeds are very common in children, and most cases are self limiting or settle with simple measures (such as pinching the nose), more severe recurrent cases can require treatment from a healthcare professional. However, there is no consensus on the effectiveness of the different clinical interventions currently used in managing this condition. 
+Objectives
+To assess the effects of different interventions for the management of recurrent idiopathic epistaxis in children. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; ICTRP and additional sources for published and unpublished trials. The date of the most recent search was 5 March 2012. 
+Selection criteria
+We identified all randomised controlled trials (RCTs) (with or without blinding) in which any surgical or medical intervention for the treatment of recurrent idiopathic epistaxis in children was evaluated in comparison with either no treatment, a placebo or another intervention, and in which the frequency and severity of episodes of nasal bleeding following treatment was stated or calculable. The two authors reviewed the full‐text articles of all retrieved trials of possible relevance and applied the inclusion criteria independently. 
+Data collection and analysis
+We graded trials for risk of bias using the Cochrane approach. One author performed data extraction in a standardised manner and this was rechecked by the other author. Where necessary we contacted investigators to obtain missing information. We did not undertake a meta‐analysis because of the heterogeneity of the treatments, procedures and quality of the included trials. A narrative overview of the results is therefore presented. 

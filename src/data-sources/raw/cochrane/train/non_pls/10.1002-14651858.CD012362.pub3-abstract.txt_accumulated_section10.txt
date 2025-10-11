@@ -1,0 +1,10 @@
+Background
+Head position during care may affect cerebral haemodynamics and contribute to the development of germinal matrix‐intraventricular haemorrhage (GM‐IVH) in very preterm infants. Turning the head toward one side may occlude jugular venous drainage while increasing intracranial pressure and cerebral blood volume. It is suggested that cerebral venous pressure is reduced and hydrostatic brain drainage improved if the infant is cared for in the supine ‘head midline’ position. 
+Objectives
+To assess whether head midline position is more effective than other head positions for preventing (or preventing extension) of GM‐IVH in very preterm infants (< 32 weeks’ gestation at birth). 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 9), MEDLINE via PubMed (1966 to 12 September 2019), Embase (1980 to 12 September 2019), and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 12 September 2019). We searched clinical trials databases, conference proceedings, and reference lists of retrieved articles. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing caring for very preterm infants in a supine head midline position versus a prone or lateral decubitus position, or undertaking a strategy of regular position change, or having no prespecified position. We included trials enrolling infants with existing GM‐IVH and planned to assess extension of haemorrhage in a subgroup of infants. We planned to analyse horizontal (flat) versus head elevated positions separately for all body positions. 
+Data collection and analysis
+We used standard methods of Cochrane Neonatal. For each of the included trials, two review authors independently extracted data and assessed risk of bias. The primary outcomes were GM‐IVH, severe IVH, and neonatal death. We evaluated treatment effects using a fixed‐effect model with risk ratio (RR) for categorical data; and mean, standard deviation (SD), and mean difference (MD) for continuous data. We used the GRADE approach to assess the certainty of evidence. 

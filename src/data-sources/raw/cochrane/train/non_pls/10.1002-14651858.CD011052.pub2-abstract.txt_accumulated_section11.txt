@@ -1,0 +1,11 @@
+Background
+Accidental awareness during general anaesthesia (AAGA) is when a patient unintentionally becomes conscious during a procedure performed with general anaesthesia and subsequently has explicit recall of this event. Incidence estimates for AAGA vary, with the most common estimate being one to two cases per 1000 general anaesthetics. Evidence linking nitrous oxide use and an increased risk of AAGA has come from observational studies data but the literature is contradictory, with some studies finding a protective effect of nitrous oxide. 
+Objectives
+To assess the effect of general anaesthesia including nitrous oxide on the risk of AAGA in patients aged five years and over. 
+Search methods
+We searched the following databases: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and trial registers ((www.clinicaltrials.gov), the WHO International Clinical Trials Registry Platform (www.who.int/ictrp/network/en/) and Current Controlled Trials (www.isrctn.com/)) for eligible studies on December 9 2015. In addition, we conducted forward and backward citation searching using key identified papers. 
+Selection criteria
+We considered all randomized controlled trials (RCTs), including quasi‐randomized studies and cluster‐randomized studies, of participants aged five years or older receiving general anaesthesia for any type of surgery. 
+We included trials in which participants receiving general anaesthesia that included nitrous oxide for maintenance at a concentration of at least 30% were compared with participants receiving no nitrous oxide during general anaesthesia. The intervention group must have received nitrous oxide in conjunction with an additional anaesthetic. We excluded studies where the depth of anaesthesia differed between the study arms. For inclusion in the review, studies needed to state in their methods that they planned to assess AAGA. We defined this as when a patient becomes conscious during a procedure performed with general anaesthesia and subsequently has explicit recall of this event. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane to identify studies. We extracted data and conducted 'Risk of bias' assessment using the Covidence database. 

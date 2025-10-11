@@ -1,0 +1,10 @@
+Background
+Breast cancer continues to be the most commonly diagnosed cancer in women globally. Early detection, diagnosis and treatment of breast cancer are key to better outcomes. Since many women will discover a breast cancer symptom themselves, it is important that they are breast cancer aware i.e. have the knowledge, skills and confidence to detect breast changes and present promptly to a healthcare professional. 
+Objectives
+To assess the effectiveness of interventions for raising breast cancer awareness in women. 
+Search methods
+We searched the Cochrane Breast Cancer Group's Specialised Register (searched 25 January 2016), Cochrane Central Register of Controlled Trials (CENTRAL; 2015, Issue 12) in the Cochrane Library (searched 27 January 2016), MEDLINE OvidSP (2008 to 27 January 2016), Embase (Embase.com, 2008 to 27 January 2016), the World Health Organization’s International Clinical Trials Registry Platform (ICTRP) search portal and ClinicalTrials.gov (searched 27 Feburary 2016). We also searched the reference lists of identified articles and reviews and the grey literature for conference proceedings and published abstracts. No language restriction was applied. 
+Selection criteria
+Randomised controlled trials (RCTs) focusing on interventions for raising women’s breast cancer awareness i.e. knowledge of potential breast cancer symptoms/changes and the confidence to look at and feel their breasts, using any means of delivery, i.e. one‐to‐one/group/mass media campaign(s). 
+Data collection and analysis
+Two authors selected studies, independently extracted data and assessed risk of bias. We reported the odds ratio (OR) and 95% confidence intervals (CIs) for dichotomous outcomes and mean difference (MD) and standard deviation (SD) for continuous outcomes. Since it was not possible to combine data from included studies due to their heterogeneity, we present a narrative synthesis. We assessed the quality of evidence using GRADE methods. 

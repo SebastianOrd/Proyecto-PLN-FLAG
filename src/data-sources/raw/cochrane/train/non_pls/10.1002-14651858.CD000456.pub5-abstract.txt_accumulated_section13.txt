@@ -1,0 +1,13 @@
+Background
+During synchronised mechanical ventilation, positive airway pressure and spontaneous inspiration coincide. If synchronous ventilation is provoked, adequate gas exchange should be achieved at lower peak airway pressures, potentially reducing baro/volutrauma, air leak and bronchopulmonary dysplasia. Synchronous ventilation can potentially be achieved by manipulation of rate and inspiratory time during conventional ventilation and employment of patient‐triggered ventilation. 
+Objectives
+To compare the efficacy of:
+(i) synchronised mechanical ventilation, delivered as high‐frequency positive pressure ventilation (HFPPV) or patient‐triggered ventilation (assist control ventilation (ACV) and synchronous intermittent mandatory ventilation (SIMV)), with conventional ventilation or high‐frequency oscillation (HFO); 
+(ii) different types of triggered ventilation (ACV, SIMV, pressure‐regulated volume control ventilation (PRVCV), SIMV with pressure support (PS) and pressure support ventilation (PSV)). 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review group to search the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 5), MEDLINE via PubMed (1966 to June 5 2016), EMBASE (1980 to June 5 2016), and CINAHL (1982 to June 5 2016). We also searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+Randomised or quasi‐randomised clinical trials comparing synchronised ventilation delivered as HFPPV to CMV, or ACV/SIMV to CMV or HFO in neonates. Randomised trials comparing different triggered ventilation modes (ACV, SIMV, SIMV plus PS, PRVCV and PSV) in neonates. 
+Data collection and analysis
+Data were collected regarding clinical outcomes including mortality, air leaks (pneumothorax or pulmonary interstitial emphysema (PIE)), severe intraventricular haemorrhage (grades 3 and 4), bronchopulmonary dysplasia (BPD) (oxygen dependency beyond 28 days), moderate/severe BPD (oxygen/respiratory support dependency beyond 36 weeks' postmenstrual age (PMA) and duration of weaning/ventilation. 
+Eight comparisons were made: (i) HFPPV versus CMV; (ii) ACV/SIMV versus CMV; (iii) SIMV or SIMV + PS versus HFO; iv) ACV versus SIMV; (v) SIMV plus PS versus SIMV; vi) SIMV versus PRVCV; vii) SIMV vs PSV; viii) ACV versus PSV. Data analysis was conducted using relative risk for categorical outcomes, mean difference for outcomes measured on a continuous scale. 

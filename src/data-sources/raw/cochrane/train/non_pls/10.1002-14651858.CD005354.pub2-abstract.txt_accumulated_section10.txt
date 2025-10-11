@@ -1,0 +1,10 @@
+Background
+Several systematic reviews compared recombinant gonadotrophin with urinary gonadotrophins (HMG, purified FSH, highly purified FSH) for ovarian hyperstimulation in IVF and ICSI cycles and these reported conflicting results. Each of these reviews used different inclusion and exclusion criteria for trials. Our aim in producing this review was to bring together all randomised studies in this field under common inclusion criteria with consistent and valid statistical methods. 
+Objectives
+To compare the effectiveness of recombinant gonadotrophin (rFSH) with the three main types of urinary gonadotrophins (i.e. HMG, FSH‐P and FSH‐HP) for ovarian stimulation in women undergoing IVF or ICSI treatment cycles. 
+Search methods
+An extended search was done according to Cochrane guidelines including the Menstrual Disorders & Subfertility Group's Specialised Register of controlled trials (up to May 2010), The Cochrane Central Register of Controlled Trials (up to May 2010), MEDLINE (1966 to May 2010), EMBASE (1980 to May 2010), CINAHL (1982 to May 2010), National Research Register, and Current Controlled Trials (up to May 2010). 
+Selection criteria
+All randomised controlled trials reporting data comparing clinical outcomes for women undergoing IVF/ICSI cycles and using recombinant FSH in comparison with HMG or highly purified HMG, purified urinary FSH (FSH‐P), and highly purified urinary FSH (FSH‐HP) for ovarian hyperstimulation in IVF or ICSI cycles were included. 
+Data collection and analysis
+Data selected by three reviewers (MvW, IK, and AV). Data extraction and risk assessment done by four reviewers (MvW, IK, AB and AV). Primary outcome measure was live birth rate and OHSS per randomised woman. Binary outcomes were analysed using odds ratios and also reported in absolute terms. Grouped analyses were carried out for all outcomes to explore whether relative effects differed due to key features of the trials. 

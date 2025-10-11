@@ -1,0 +1,12 @@
+Background
+The choice of surgical approach for the management of subaxial cervical spine facet dislocations is a controversial subject amongst spine surgeons. Reasons for this include differences in the technical familiarity and experience of surgeons with the different surgical approaches, and variable interpretation of image studies regarding the existence of a traumatic intervertebral disc herniation and of the neurological status of the patient. Moreover, since the approaches are dissimilar, important variations are likely in neurological, radiographical and clinical outcomes. 
+Objectives
+To compare the effects (benefits and harms) of the different surgical approaches used for treating adults with acute cervical spine facet dislocation. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (9 May 2014), The Cochrane Central Register of Controlled Trials (The Cochrane Library, 2014 Issue 4), MEDLINE (1946 to April Week 5 2014), MEDLINE In‐Process & Other Non‐Indexed Citations (8 May 2013), EMBASE (1980 to 2014 Week 18), Latin American and Caribbean Health Sciences (9 May 2014), trial registries, conference proceedings and reference lists of articles to May 2014. 
+Selection criteria
+We included randomised and quasi‐randomised controlled trials that compared surgical approaches for the management of adults with acute cervical spine facet dislocations with and without spinal cord injury. 
+Data collection and analysis
+Two review authors independently selected studies, assessed risk of bias and extracted data. 
+Main results
+We included one randomised and one quasi‐randomised controlled trial involving a total of 94 participants and reporting results for a maximum of 84 participants. One trial included patients with spinal cord injuries and the other included patients without spinal cord injuries. Both trials compared anterior versus posterior surgical approaches. Both trials were at high risk of bias, including selection bias (one trial), performance bias (both trials) and attrition bias (one trial). Data were pooled for one outcome only: non‐union. Reflecting also the imprecision of the results, the evidence was deemed to be of very low quality for all outcomes; which means that our level of uncertainty about the estimates is high. 

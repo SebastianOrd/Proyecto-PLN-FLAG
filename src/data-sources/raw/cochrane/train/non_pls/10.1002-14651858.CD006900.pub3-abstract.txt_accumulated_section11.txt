@@ -1,0 +1,11 @@
+Background
+Anovulation is a common cause of infertility. Drugs used to treat anovulation include selective oestrogen receptor modulators, aromatase inhibitors and gonadotrophins. Ovulation triggers are used with these drugs, as a surrogate for the hormonal surge seen in spontaneous menstrual cycles, to control the timing of ovulation and the timing of sexual intercourse. Ovulation triggers given without reliable evidence of oocyte maturity could be inappropriately timed; they increase costs, and the need to time intercourse precisely after the ovulation trigger is given adds to psychological stress. 
+This is an update of a Cochrane review first published in Issue 3, 2008, of the Cochrane Database of Systematic Reviews. 
+Objectives
+To determine the benefits and harms of administering an ovulation trigger to anovulatory women receiving treatment with ovulation‐inducing agents in comparison with spontaneous ovulation following ovulation induction. 
+Search methods
+We updated searches of the Menstrual Disorders and Subfertility Group (MDSG) Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and PsycINFO to November 2013. We checked conference proceedings, trial registries and reference lists and contacted researchers. 
+Selection criteria
+Parallel‐group, randomised, controlled trials (RCTs) evaluating the administration of an ovulation trigger to anovulatory women receiving treatment with ovulation‐inducing agents. 
+Data collection and analysis
+We independently assessed trial eligibility and trial quality and extracted data. We calculated odds ratios (ORs) with 95% confidence intervals (CIs) for dichotomous data and used the random‐effects model in meta‐analyses when significant heterogeneity was present. We assessed overall quality of the evidence by using the GRADE approach. 

@@ -1,0 +1,9 @@
+Background
+Asthma is a chronic disease that causes reversible narrowing of the airways due to bronchoconstriction, inflammation and mucus production. Asthma continues to be associated with significant avoidable morbidity and mortality. Self management facilitated by a healthcare professional is important to keep symptoms controlled and to prevent exacerbations. 
+Telephone and Internet technologies can now be used by patients to measure lung function and asthma symptoms at home. Patients can then share this information electronically with their healthcare provider, who can provide feedback between clinic visits. Technology can be used in this manner to improve health outcomes and prevent the need for emergency treatment for people with asthma and other long‐term health conditions. 
+Objectives
+To assess the efficacy and safety of home telemonitoring with healthcare professional feedback between clinic visits, compared with usual care. 
+Search methods
+We identified trials from the Cochrane Airways Review Group Specialised Register (CAGR) up to May 2016. We also searched www.clinicaltrials.gov, the World Health Organization (WHO) trials portal and reference lists of other reviews, and we contacted trial authors to ask for additional information. 
+Selection criteria
+We included parallel randomised controlled trials (RCTs) of adults or children with asthma in which any form of technology was used to measure and share asthma monitoring data with a healthcare provider between clinic visits, compared with other monitoring or usual care. We excluded trials in which technologies were used for monitoring with no input from a doctor or nurse. We included studies reported as full‐text articles, those published as abstracts only and unpublished data. 

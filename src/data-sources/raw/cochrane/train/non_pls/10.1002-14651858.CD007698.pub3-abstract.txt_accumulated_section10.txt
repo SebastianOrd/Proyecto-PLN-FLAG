@@ -1,0 +1,10 @@
+Background
+Corticosteroids are first‐line therapy for induction of remission in ulcerative colitis. Although corticosteroids may improve symptoms, they have significant adverse effects. Steroids which act topically, with less systemic side‐effects may be more desirable. Budesonide is a topically acting corticosteroid with extensive first pass hepatic metabolism. There are currently three formulations of budesonide: two standard formulations including a controlled‐ileal release capsule and a pH‐dependent capsule both designed to release the drug in the distal small intestine and right colon; and the newer Budesonide‐MMX® capsule designed to release the drug throughout the entire colon. 
+Objectives
+The primary objective was to evaluate the efficacy and safety of oral budesonide for the induction of remission in ulcerative colitis. 
+Search methods
+We searched MEDLINE, EMBASE, CENTRAL, and the Cochrane IBD Group Specialised Register from inception to April 2015. We also searched reference lists of articles, conference proceedings and ClinicalTrials.gov. 
+Selection criteria
+Randomised controlled trials comparing oral budesonide to placebo or another active therapy for induction of remission in ulcerative colitis were considered eligible. There were no exclusions based on patient age or the type, dose, duration or formulation of budesonide therapy. 
+Data collection and analysis
+Two independent investigators reviewed studies for eligibility, extracted data and assessed study quality. Methodological quality was assessed using the Cochrane risk of bias tool. The overall quality of the evidence supporting the outcomes was evaluated using the GRADE criteria. The primary outcome was induction of remission (as defined by the primary studies) at week eight. Secondary outcomes included clinical, endoscopic and histologic improvement, adverse events and early withdrawal. We calculated the risk ratio (RR) and corresponding 95% confidence interval (CI) for each dichotomous outcome and the mean difference (MD) and corresponding 95% CI for each continuous outcome. Data were analysed on an intention‐to‐treat basis. 

@@ -1,0 +1,12 @@
+Background
+New minimal invasive surgeries have been suggested as alternative options to transurethral resection of the prostate (TURP) for the management of lower urinary tract symptoms (LUTS) in men with benign prostatic hyperplasia (BPH). Convective radiofrequency water vapour thermal therapy is a new technology that uses targeted, controlled water vapour energy (steam) to create necrotic tissue in the prostate. 
+Objectives
+To assess the effects of convective radiofrequency water vapour thermal therapy for the treatment of lower urinary tract symptoms in men with benign prostatic hyperplasia. 
+Search methods
+We performed a comprehensive search of multiple databases (the Cochrane Library, MEDLINE, Embase, Latin American and the Caribbean Health Sciences Literature, Scopus, Web of Science), trials registries, other sources of grey literature, and conference proceedings published up to 18 February 2020, with no restriction on the language or status of publication. 
+Selection criteria
+We included parallel‐group randomised controlled trials (RCTs), cluster‐RCTs, and non‐randomised observational prospective studies with concurrent comparison groups, in which men with BPH underwent convective radiofrequency water vapour thermal therapy, another active therapy, or a sham procedure. 
+Data collection and analysis
+Two review authors independently screened the literature, extracted data, and assessed risk of bias. We had planned to perform statistical analyses using a random‐effects model, and interpret them according to the Cochrane Handbook for Systematic Reviews of Interventions. We rated the certainty of the evidence according to the GRADE approach. 
+Main results
+We included a single, industry‐sponsored RCT, with 197 randomised men, that compared convective radiofrequency water vapour thermal therapy to a sham procedure. The mean age 62.9 years, the International Prostate Symptom Score (IPSS) was 21.97, and the mean prostate volume was 45.4 mL. We only found short‐term data, measured up to three months. 

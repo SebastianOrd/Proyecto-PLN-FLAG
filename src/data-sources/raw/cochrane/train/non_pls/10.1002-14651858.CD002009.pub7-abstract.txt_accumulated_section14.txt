@@ -1,0 +1,14 @@
+Background
+People with cystic fibrosis, who are chronically colonised with the organism Pseudomonas aeruginosa, often require multiple courses of intravenous aminoglycoside antibiotics for the management of pulmonary exacerbations. The properties of aminoglycosides suggest that they could be given in higher doses less often. This is an update of a previously published review. 
+Objectives
+To assess the effectiveness and safety of once‐daily versus multiple‐daily dosing of intravenous aminoglycoside antibiotics for the management of pulmonary exacerbations in cystic fibrosis. 
+Search methods
+We searched the Cystic Fibrosis Specialist Register held at the Cochrane Cystic Fibrosis and Genetic Disorders Group's editorial base, comprising references identified from comprehensive electronic database searches, handsearching relevant journals and handsearching abstract books of conference proceedings. 
+Date of the most recent search: 31 January 2019.
+We also searched online trial registries. Date of latest search: 25 February 2019.
+Selection criteria
+All randomised controlled trials, whether published or unpublished, in which once‐daily dosing of aminoglycosides has been compared with multiple‐daily dosing in terms of efficacy or toxicity or both, in people with cystic fibrosis. 
+Data collection and analysis
+The two authors independently selected the studies to be included in the review and assessed the risk of bias of each study; authors also assessed the quality of the evidence using the GRADE criteria. Data were independently extracted by each author. Authors of the included studies were contacted for further information. As yet unpublished data were obtained for one of the included studies. 
+Main results
+We identified 15 studies for possible inclusion in the review. Five studies reporting results from a total of 354 participants (aged 5 to 50 years) were included in this review. All studies compared once‐daily dosing with thrice‐daily dosing. One cross‐over trial had 26 participants who received the first‐arm treatment but only 15 received the second arm. One study had a low risk of bias for all criteria assessed; the remaining included studies had a high risk of bias from blinding, but for other criteria were judged to have either an unclear or a low risk of bias. 

@@ -1,0 +1,16 @@
+Background
+Hirsutism occurs in 5% to 10% of women of reproductive age when there is excessive terminal hair growth in androgen‐sensitive areas (male pattern). It is a distressing disorder with a major impact on quality of life. The most common cause is polycystic ovary syndrome. There are many treatment options, but it is not clear which are most effective. 
+Objectives
+To assess the effects of interventions (except laser and light‐based therapies alone) for hirsutism. 
+Search methods
+We searched the Cochrane Skin Group Specialised Register, CENTRAL (2014, Issue 6), MEDLINE (from 1946), EMBASE (from 1974), and five trials registers, and checked reference lists of included studies for additional trials. The last search was in June 2014. 
+Selection criteria
+Randomised controlled trials (RCTs) in hirsute women with polycystic ovary syndrome, idiopathic hirsutism, or idiopathic hyperandrogenism. 
+Data collection and analysis
+Two independent authors carried out study selection, data extraction, 'Risk of bias' assessment, and analyses. 
+Main results
+We included 157 studies (sample size 30 to 80) comprising 10,550 women (mean age 25 years). The majority of studies (123/157) were 'high', 30 'unclear', and four 'low' risk of bias. Lack of blinding was the most frequent source of bias. Treatment duration was six to 12 months. Forty‐eight studies provided no usable or retrievable data, i.e. lack of separate data for hirsute women, conference proceedings, and losses to follow‐up above 40%. 
+Primary outcomes, 'participant‐reported improvement of hirsutism' and 'change in health‐related quality of life', were addressed in few studies, and adverse events in only half. In most comparisons there was insufficient evidence to determine if the number of reported adverse events differed. These included known adverse events: gastrointestinal discomfort, breast tenderness, reduced libido, dry skin (flutamide and finasteride); irregular bleeding (spironolactone); nausea, diarrhoea, bloating (metformin); hot flushes, decreased libido, vaginal dryness, headaches (gonadotropin‐releasing hormone (GnRH) analogues)). 
+Clinician's evaluation of hirsutism and change in androgen levels were addressed in most comparisons, change in body mass index (BMI) and improvement of other clinical signs of hyperandrogenism in one‐third of studies. 
+The quality of evidence was moderate to very low for most outcomes.
+There was low quality evidence for the effect of two oral contraceptive pills (OCPs) (ethinyl estradiol + cyproterone acetate versus ethinyl estradiol + desogestrel) on change from baseline of Ferriman‐Gallwey scores. The mean difference (MD) was ‐1.84 (95% confidence interval (CI) ‐3.86 to 0.18). 

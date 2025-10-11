@@ -1,0 +1,11 @@
+Background
+The rising prevalence of autism spectrum disorders (ASD) increases the need for evidence‐based behavioral treatments to lessen the impact of symptoms on children's functioning. At present, there are no curative or psychopharmacological therapies to effectively treat all symptoms of the disorders. Early intensive behavioral intervention (EIBI) is a treatment based on the principles of applied behavior analysis. Delivered for multiple years at an intensity of 20 to 40 hours per week, it is one of the more well‐established treatments for ASD. This is an update of a Cochrane review last published in 2012. 
+Objectives
+To systematically review the evidence for the effectiveness of EIBI in increasing functional behaviors and skills, decreasing autism severity, and improving intelligence and communication skills for young children with ASD. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, 12 additional electronic databases and two trials registers in August 2017. We also checked references and contacted study authors to identify additional studies. 
+Selection criteria
+Randomized control trials (RCTs), quasi‐RCTs, and controlled clinical trials (CCTs) in which EIBI was compared to a no‐treatment or treatment‐as‐usual control condition. Participants must have been less than six years of age at treatment onset and assigned to their study condition prior to commencing treatment. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+We synthesized the results of the five studies using a random‐effects model of meta‐analysis, with a mean difference (MD) effect size for outcomes assessed on identical scales, and a standardized mean difference (SMD) effect size (Hedges' g) with small sample correction for outcomes measured on different scales. We rated the quality of the evidence using the GRADE approach. 

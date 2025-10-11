@@ -1,0 +1,12 @@
+Background
+Treament‐related diarrhoea is one of the most common and troublesome adverse effects related to chemotherapy or radiotherapy in people with cancer. Its reported incidence has been as high as 50% to 80%. Severe treatment‐related diarrhoea can lead to fluid and electrolyte losses and nutritional deficiencies and could adversely affect quality of life (QoL). It is also associated with increased risk of infection in people with neutropenia due to anticancer therapy and often leads to treatment delays, dose reductions, or treatment discontinuation. Probiotics may be effective in preventing or treating chemotherapy‐ or radiotherapy‐induced diarrhoea. 
+Objectives
+To evaluate the clinical effectiveness and side effects of probiotics used alone or combined with other agents for prevention or treatment of chemotherapy‐ or radiotherapy‐related diarrhoea in people with cancer. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 7), MEDLINE (1946 to July week 2, 2017), and Embase (1980 to 2017, week 30). We also searched prospective clinical trial registers and the reference lists of included studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) investigating the effects of probiotics for prevention or treatment of chemotherapy‐ or radiotherapy‐related diarrhoea in people with cancer. 
+Data collection and analysis
+Two review authors independently selected studies, extracted data, and assessed risk of bias. We used random‐effects models for all meta‐analyses. If meta‐analysis was not possible, we summarised the results narratively. 
+Main results
+We included 12 studies involving 1554 participants. Eleven studies were prevention studies, of which seven compared probiotics with placebo (887 participants), one compared two doses of probiotics with each other and with placebo (246 participants), and three compared probiotics with another active agent (216 participants).The remaining study assessed the effectiveness of probiotics compared with placebo for treatment of radiotherapy‐related diarrhoea (205 participants). 

@@ -1,0 +1,12 @@
+Background
+Couple therapy for depression has the twofold aim of modifying negative interaction patterns and increasing mutually supportive aspects of intimate relationships, changing the interpersonal context of depression. Couple therapy is included in several guidelines among the suggested treatments for depression. 
+Objectives
+1. The main objective was to examine the effects of couple therapy compared to individual psychotherapy for depression. 2. Secondary objectives were to examine the effects of couple therapy compared to drug therapy and no/minimal treatment for depression. 
+Search methods
+The Cochrane Common Mental Disorders Group Controlled Trials Register (CCMDCTR), the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid), Embase (Ovid) and PsycINFO (Ovid) were searched to 19 February 2018. Relevant journals and reference lists were checked. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials examining the effects of couple therapy versus individual psychotherapy, drug therapy, or no treatment/minimal treatment for depression were included in the review. 
+Data collection and analysis
+We considered as primary outcomes the depressive symptom level, the depression persistence, and the dropouts; the relationship distress level was a secondary outcome. We extracted data using a standardised spreadsheet. Where data were not included in published papers, we tried to obtain the data from the authors. We synthesised data using Review Manager software version 5.3. We pooled dichotomous data using the relative risk (RR), and continuous data calculating the standardised mean difference (SMD), together with 95% confidence intervals (CIs). We employed the random‐effects model for all comparisons and also calculated a formal test for heterogeneity, the natural approximate Chi2 test. 
+Main results
+We included fourteen studies from Europe, North America, and Israel, with 651 participants. Eighty per cent of participants were Caucasian. Therefore, the findings cannot be considered as applicable to non‐Western countries or to other ethnic groups in Western countries. On average, participants had moderate depression, preventing the extension of results to severely depressed patients. Almost all participants were aged between 36 and 47 years. 

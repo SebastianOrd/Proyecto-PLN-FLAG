@@ -1,0 +1,12 @@
+Background
+Tracheal intubation is a common procedure performed to secure the airway in adults undergoing surgery or those who are critically ill. Intubation is sometimes associated with difficulties and complications that may result in patient harm. While it is traditionally achieved by performing direct laryngoscopy, the past three decades have seen the advent of rigid indirect videolaryngoscopes (VLs). A mounting body of evidence comparing the two approaches to tracheal intubation has been acquired over this period of time. This is an update of a Cochrane Review first published in 2016. 
+Objectives
+To assess whether use of different designs of VLs in adults requiring tracheal intubation reduces the failure rate compared with direct laryngoscopy, and assess the benefits and risks of these devices in selected population groups, users and settings. 
+Search methods
+We searched MEDLINE, Embase, CENTRAL and Web of Science on 27 February 2021. We also searched clinical trials databases, conference proceedings and conducted forward and backward citation searches. 
+Selection criteria
+We included randomized controlled trials (RCTs) and quasi‐RCTs with adults undergoing laryngoscopy performed with either a VL or a Macintosh direct laryngoscope (DL) in any clinical setting. We included parallel and cross‐over study designs. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We collected data for the following outcomes: failed intubation, hypoxaemia, successful first attempt at tracheal intubation, oesophageal intubation, dental trauma, Cormack‐Lehane grade, and time for tracheal intubation. 
+Main results
+We included 222 studies (219 RCTs, three quasi‐RCTs) with 26,149 participants undergoing tracheal intubation. Most studies recruited adults undergoing elective surgery requiring tracheal intubation. Twenty‐one studies recruited participants with a known or predicted difficult airway, and an additional 25 studies simulated a difficult airway. Twenty‐one studies were conducted outside the operating theatre environment; of these, six were in the prehospital setting, seven in the emergency department and eight in the intensive care unit.  

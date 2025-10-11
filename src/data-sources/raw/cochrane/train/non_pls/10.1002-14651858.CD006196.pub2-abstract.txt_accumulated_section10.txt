@@ -1,0 +1,10 @@
+Background
+Antipsychotic medication is considered the mainstay of treatment for schizophrenia and is generally regarded as highly effective, especially in controlling positive symptoms. However, long‐term antipsychotic exposure has been associated with a range of adverse effects, including extra‐pyramidal symptoms (EPS), neuroleptic malignant syndrome (NMS), tardive dyskinesia and death. Intermittent drug techniques refers to the 'use of medication only during periods of incipient relapse or symptom exacerbation rather than continuously'. The aim is to reduce the risk of typical adverse effects of antipsychotics by 'reducing long‐term medication exposure for patients who are receiving maintenance treatment while limiting the risk of relapse', with a further goal of improving social functioning resulting from the reduction of antipsychotic‐induced side effects 
+Objectives
+To review the effects of different intermittent drug techniques compared with maintenance treatment in people with schizophrenia or related disorders. 
+Search methods
+We searched The Cochrane Schizophrenia Group Trials Register (April 2012) and supplemented this by contacting relevant study authors, handsearching relevant intermittent drug treatment articles and manually searching reference lists. 
+Selection criteria
+All randomised controlled trials (RCTs) that compared intermittent drug techniques with standard maintenance therapy for people with schizophrenia. Primary outcomes of interest were relapse and hospitalisation. 
+Data collection and analysis
+At least two review authors selected trials, assessed quality and extracted data. We calculated risk ratios (RR) and 95% confidence intervals (CI) of homogeneous dichotomous data and estimated the 95% confidence interval (CI) around this. For non‐skewed continuous endpoint data extracted from valid scales, we estimated mean difference (MD) between groups with a 95% CI. Where data displayed heterogeneity, these were analysed using a random‐effects model. Skewed data are presented in tables. We assessed overall quality for clinically important outcomes using the GRADE approach. 

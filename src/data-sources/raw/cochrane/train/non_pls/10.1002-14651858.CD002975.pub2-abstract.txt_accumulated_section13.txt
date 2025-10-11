@@ -1,0 +1,13 @@
+Background
+The application of continuous positive airway pressure (CPAP) has been shown to have some benefits in the treatment of preterm infants with respiratory distress. CPAP has the potential to reduce lung damage, particularly if applied early before atelectasis has occurred. Early application may better conserve an infant's own surfactant stores and consequently may be more effective than later application. 
+Objectives
+• To determine if early compared with delayed initiation of CPAP results in lower mortality and reduced need for intermittent positive‐pressure ventilation in preterm infants in respiratory distress 
+○ Subgroup analyses were planned a priori on the basis of weight (with subdivisions at 1000 grams and 1500 grams), gestation (with subdivisions at 28 and 32 weeks), and according to whether surfactant was used 
+▫ Sensitivity analyses based on trial quality were also planned
+○ For this update, we have excluded trials using continuous negative pressure
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2020, Issue 6), in the Cochrane Library; Ovid MEDLINE(R) and Epub Ahead of Print, In‐Process & Other Non‐Indexed Citations Daily and Versions(R); and the Cumulative Index to Nursing and Allied Health Literatue (CINAHL), on 30 June 2020. We also searched clinical trials databases and the reference lists of retrieved articles for randomised controlled trials (RCTs) and quasi‐RCTs. 
+Selection criteria
+We included trials that used random or quasi‐random allocation to either early or delayed CPAP for spontaneously breathing preterm infants in respiratory distress. 
+Data collection and analysis
+We used the standard methods of Cochrane and Cochrane Neonatal, including independent assessment of trial quality and extraction of data by two review authors. We used the GRADE approach to assess the certainty of evidence. 

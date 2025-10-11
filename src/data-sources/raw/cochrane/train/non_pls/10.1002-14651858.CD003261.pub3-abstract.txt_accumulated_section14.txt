@@ -1,0 +1,14 @@
+Background
+Impetigo is a common, superficial bacterial skin infection, which is most frequently encountered in children. There is no generally agreed standard therapy, and guidelines for treatment differ widely. Treatment options include many different oral and topical antibiotics as well as disinfectants. This is an updated version of the original review published in 2003. 
+Objectives
+To assess the effects of treatments for impetigo, including non‐pharmacological interventions and 'waiting for natural resolution'. 
+Search methods
+We updated our searches of the following databases to July 2010: the Cochrane Skin Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (from 2005), EMBASE (from 2007), and LILACS (from 1982). We also searched online trials registries for ongoing trials, and we handsearched the reference lists of new studies found in the updated search. 
+Selection criteria
+Randomised controlled trials of treatments for non‐bullous, bullous, primary, and secondary impetigo. 
+Data collection and analysis
+Two independent authors undertook all steps in data collection. We performed quality assessments and data collection in two separate stages. 
+Main results
+We included 57 trials in the first version of this review. For this update 1 of those trials was excluded and 12 new trials were added. The total number of included trials was, thus, 68, with 5578 participants, reporting on 50 different treatments, including placebo. Most trials were in primary impetigo or did not specify this. 
+For many of the items that were assessed for risk of bias, most studies did not provide enough information. Fifteen studies reported blinding of participants and outcome assessors. 
+Topical antibiotic treatment showed better cure rates than placebo (pooled risk ratio (RR) 2. 24, 95% confidence interval (CI) 1.61 to 3.13) in 6 studies with 575 participants. In 4 studies with 440 participants, there was no clear evidence that either of the most commonly studied topical antibiotics (mupirocin and fusidic acid) was more effective than the other (RR 1.03, 95% CI 0.95 to 1.11). 

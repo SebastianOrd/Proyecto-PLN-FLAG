@@ -1,0 +1,12 @@
+Background
+Cerebral palsy is the most common physical disability in childhood. Mechanically assisted walking training can be provided with or without body weight support to enable children with cerebral palsy to perform repetitive practice of complex gait cycles. It is important to examine the effects of mechanically assisted walking training to identify evidence‐based treatments to improve walking performance. 
+Objectives
+To assess the effects of mechanically assisted walking training compared to control for walking, participation, and quality of life in children with cerebral palsy 3 to 18 years of age. 
+Search methods
+In January 2020, we searched CENTRAL, MEDLINE, Embase, six other databases, and two trials registers. We handsearched conference abstracts and checked reference lists of included studies. 
+Selection criteria
+Randomized controlled trials (RCTs) or quasi‐RCTs, including cross‐over trials, comparing any type of mechanically assisted walking training (with or without body weight support) with no walking training or the same dose of overground walking training in children with cerebral palsy (classified as Gross Motor Function Classification System [GMFCS] Levels I to IV) 3 to 18 years of age. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+This review includes 17 studies with 451 participants (GMFCS Levels I to IV; mean age range 4 to 14 years) from outpatient settings. The duration of the intervention period (4 to 12 weeks) ranged widely, as did intensity of training in terms of both length (15 minutes to 40 minutes) and frequency (two to five times a week) of sessions. Six studies were funded by grants, three had no funding support, and eight did not report information on funding. Due to the nature of the intervention, all studies were at high risk of performance bias. 

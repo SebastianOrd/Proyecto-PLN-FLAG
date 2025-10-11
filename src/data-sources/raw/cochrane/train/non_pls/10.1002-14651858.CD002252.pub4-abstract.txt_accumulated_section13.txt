@@ -1,0 +1,13 @@
+Background
+Antihypertensive drugs are often used in the belief that lowering blood pressure will prevent progression to more severe disease, and thereby improve pregnancy outcome. This Cochrane Review is an updated review, first published in 2001 and subsequently updated in 2007 and 2014. 
+Objectives
+To assess the effects of antihypertensive drug treatments for women with mild to moderate hypertension during pregnancy. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (13 September 2017), and reference lists of retrieved studies. 
+Selection criteria
+All randomised trials evaluating any antihypertensive drug treatment for mild to moderate hypertension during pregnancy, defined as systolic blood pressure 140 to 169 mmHg and/or diastolic blood pressure 90 to 109 mmHg. Comparisons were of one or more antihypertensive drug(s) with placebo, with no antihypertensive drug, or with another antihypertensive drug, and where treatment was planned to continue for at least seven days. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. 
+Main results
+For this update, we included 63 trials (data from 58 trials, 5909 women), with moderate to high risk of bias overall. 
+We carried out GRADE assessments for the main 'antihypertensive drug versus placebo/no antihypertensive drug' comparison only. Evidence was graded from very low to moderate certainty, with downgrading mainly due to design limitations and imprecision.For many outcomes, trials contributing data evaluated different hypertensive drugs; while we did not downgrade for this indirectness, results should be interpreted with caution. 

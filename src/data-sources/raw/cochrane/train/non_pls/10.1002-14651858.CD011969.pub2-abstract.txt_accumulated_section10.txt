@@ -1,0 +1,10 @@
+Background
+Proton pump inhibitors (PPIs) are a class of medications that reduce acid secretion and are used for treating many conditions such as gastroesophageal reflux disease (GERD), dyspepsia, reflux esophagitis, peptic ulcer disease, and hypersecretory conditions (e.g. Zollinger‐Ellison syndrome), and as part of the eradication therapy for Helicobacter pylori bacteria. However, approximately 25% to 70% of people are prescribed a PPI inappropriately. Chronic PPI use without reassessment contributes to polypharmacy and puts people at risk of experiencing drug interactions and adverse events (e.g. Clostridium difficile infection, pneumonia, hypomagnesaemia, and fractures). 
+Objectives
+To determine the effects (benefits and harms) associated with deprescribing long‐term PPI therapy in adults, compared to chronic daily use (28 days or greater). 
+Search methods
+We searched the following databases: Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 10), MEDLINE, Embase, clinicaltrials.gov, and the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP). The last date of search was November 2016. We handsearched the reference lists of relevant studies. We screened 2357 articles (2317 identified through search strategy, 40 through other resources). Of these articles, we assessed 89 for eligibility. 
+Selection criteria
+We included randomized controlled trials (RCTs) and quasi‐randomized trials comparing at least one deprescribing modality (e.g. stopping PPI or reducing PPI) with a control consisting of no change in continuous daily PPI use in adult chronic users. Outcomes of interest were: change in gastrointestinal (GI) symptoms, drug burden/PPI use, cost/resource use, negative and positive drug withdrawal events, and participant satisfaction. 
+Data collection and analysis
+Two review authors independently reviewed and extracted data and completed the risk of bias assessment. A third review author independently confirmed risk of bias assessment. We used Review Manager 5 software for data analysis. We contacted study authors if there was missing information. 

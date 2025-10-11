@@ -1,0 +1,12 @@
+Background
+The World Health Organization (WHO) in 2015 stated atovaquone‐proguanil can be used in travellers, and is an option in malaria‐endemic areas in combination with artesunate, as an alternative treatment where first‐line artemisinin‐based combination therapy (ACT) is not available or effective. This review is an update of a Cochrane Review undertaken in 2005. 
+Objectives
+To assess the efficacy and safety of atovaquone‐proguanil (alone and in combination with artemisinin drugs) versus other antimalarial drugs for treating uncomplicated Plasmodium falciparum malaria in adults and children. 
+Search methods
+The date of the last trial search was 30 January 2020. Search locations for published trials included the Cochrane Infectious Diseases Group Specialized Register, CENTRAL, MEDLINE, Embase, and LILACS. To include recently published and unpublished trials, we also searched ClinicalTrials.gov, the metaRegister of Controlled Trials and the WHO International Clinical Trials Registry Platform Search Portal. 
+Selection criteria
+Randomized controlled trials (RCTs) reporting efficacy and safety data for atovaquone‐proguanil or atovaquone‐proguanil with a partner drug compared with at least one other antimalarial drug for treating uncomplicated Plasmodium falciparum infection. 
+Data collection and analysis
+For this update, two review authors re‐extracted data and assessed certainty of evidence. We meta‐analyzed data to calculate risk ratios (RRs) with 95% confidence intervals (CI) for treatment failures between comparisons, and for safety outcomes between and across comparisons. Outcome measures include unadjusted treatment failures and polymerase chain reaction (PCR)‐adjusted treatment failures. PCR adjustment differentiates new infection from recrudescent infection. 
+Main results
+Seventeen RCTs met our inclusion criteria providing 4763 adults and children from Africa, South‐America, and South‐East Asia. Eight trials reported PCR‐adjusted data to distinguish between new and recrudescent infection during the follow‐up period. In this abstract, we report only the comparisons against the three WHO‐recommended antimalarials which were included within these trials. 

@@ -1,0 +1,12 @@
+Background
+Urinary schistosomiasis is caused by an intravascular infection with parasitic Schistosoma haematobium worms. The adult worms typically migrate to the venous plexus of the human bladder and excrete eggs which the infected person passes in their urine. Chronic infection can cause substantial morbidity and long‐term complications as the eggs become trapped in human tissues causing inflammation and fibrosis. We summarised evidence of drugs active against the infection. This is new edition of a review first published in 1997. 
+Objectives
+To evaluate the efficacy and safety of drugs for treating urinary schistosomiasis.
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register, MEDLINE, CENTRAL, EMBASE and LILACS and reference lists of articles up to 23 May 2014. 
+Selection criteria
+Randomized controlled trials (RCTs) of antischistosomal drugs and drug combinations compared to placebo, no intervention, or each other. 
+Data collection and analysis
+Two researchers independently screened the records, extracted the data and assessed risk of bias. The primary efficacy outcomes were parasitological failure (defined as the continued presence of S. haematobium eggs in the urine at time points greater than one month after treatment), and percent reduction of egg counts from baseline. We presented dichotomous data as risk ratios (RR), and continuous data as mean difference (MD), alongside their 95% confidence intervals (CIs). Where appropriate we combined trials in meta analyses or tables. We assessed the quality of evidence using the GRADE approach. 
+Main results
+We included 30 RCTs enrolling 8165 participants in this review. Twenty‐four trials were conducted in children in sub‐Saharan Africa, and 21 trials were over 20 years old. Many studies were assessed as being at unclear risk of bias due to inadequate descriptions of study methods. 

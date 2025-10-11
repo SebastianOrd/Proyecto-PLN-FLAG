@@ -1,0 +1,12 @@
+Background
+Carpal tunnel syndrome (CTS) is the most common compressive neuropathy of the upper extremity. It is caused by increased pressure on the median nerve between the transverse carpal ligament and the carpal bones. Surgical treatment consists of the release of the nerve by cutting the transverse carpal ligament. This can be done either with an open approach or endoscopically. 
+Objectives
+To assess the effectiveness and safety of the endoscopic techniques of carpal tunnel release compared to any other surgical intervention for the treatment of CTS. More specifically, to evaluate the relative impact of endoscopic techniques in relieving symptoms, producing functional recovery (return to work and return to daily activities) and reducing complication rates. 
+Search methods
+This review fully incorporates the results of searches conducted up to 5 November 2012, when we searched the Cochrane Neuromuscular Disease Group Specialized Register, CENTRAL, MEDLINE and EMBASE. There were no language restrictions. We reviewed the reference lists of relevant articles and contacted trial authors. We also searched trial registers for ongoing trials. We performed a preliminary screen of searches to November 2013 to identify any additional recent publications. 
+Selection criteria
+We included any randomised controlled trials (RCTs) and quasi‐RCTs comparing endoscopic carpal tunnel release (ECTR) with any other surgical intervention for the treatment of CTS. 
+Data collection and analysis
+We used standard methodological procedures expected by the Cochrane Collaboration.
+Main results
+Twenty‐eight studies (2586 hands) were included. Twenty‐three studies compared ECTR to standard open carpal tunnel release (OCTR), five studies compared ECTR with OCTR using a modified incision, and two studies used a three‐arm design to compare ECTR, standard OCTR and modified OCTR. 

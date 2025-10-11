@@ -1,0 +1,10 @@
+Background
+Multiple sclerosis (MS) is a common demyelinating disease of the central nervous system. Although the exact pathogenesis remains unknown, the leading theory is that it results from immune system dysregulation. Approved disease‐modifying therapy appears to modulate the immune system to improve MS‐related outcomes. There is substantial interest in the ability of dietary interventions to influence MS‐related outcomes. This is an update of the Cochrane Review 'Dietary interventions for multiple sclerosis' (Farinotti 2003; Farinotti 2007; Farinotti 2012). 
+Objectives
+To assess the effects of dietary interventions (including dietary plans with recommendations for specific whole foods, macronutrients, and natural health products) compared to placebo or another intervention on health outcomes (including MS‐related outcomes and serious adverse events) in people with MS. 
+Search methods
+On 30 May 2019, we searched CENTRAL, MEDLINE, Embase, and Web of Science. We also searched ClinicalTrials.gov, World Health Organization International Clinical Trials Registry Platform (ICTRP), and Networked Digital Library of Theses and Dissertations (NDLTD). We checked reference lists in identified trials and requested information from trial authors to identify any additional published or unpublished data. 
+Selection criteria
+We included any randomized controlled trial (RCT) or controlled clinical trial (CCT) examining the effect of a dietary intervention versus placebo or another intervention among participants with MS on MS‐related outcomes, including relapses, disability progression, and magnetic resonance imaging (MRI) measures. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Planned primary outcomes were number of participants experiencing relapse and change in disability progression, according to a validated disability scale at the last reported follow‐up. Secondary outcomes included MRI activity, safety, and patient‐reported outcomes. We entered and analysed data in Review Manager 5. 

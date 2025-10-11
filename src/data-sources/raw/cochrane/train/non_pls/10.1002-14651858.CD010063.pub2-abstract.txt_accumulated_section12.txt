@@ -1,0 +1,12 @@
+Background
+Obesity is a global public health threat. Chromium picolinate (CrP) is advocated in the medical literature for the reduction of body weight, and preparations are sold as slimming aids in the USA and Europe, and on the Internet. 
+Objectives
+To assess the effects of CrP supplementation in overweight or obese people.
+Search methods
+We searched The Cochrane Library, MEDLINE, EMBASE, ISI Web of Knowledge, the Chinese Biomedical Literature Database, the China Journal Fulltext Database and the Chinese Scientific Journals Fulltext Database (all databases to December 2012), as well as other sources (including databases of ongoing trials, clinical trials registers and reference lists). 
+Selection criteria
+We included trials if they were randomised controlled trials (RCT) of CrP supplementation in people who were overweight or obese. We excluded studies including children, pregnant women or individuals with serious medical conditions. 
+Data collection and analysis
+Two authors independently screened titles and abstracts for relevance. Screening for inclusion, data extraction and 'Risk of bias' assessment were carried out by one author and checked by a second. We assessed the risk of bias by evaluating the domains selection, performance, attrition, detection and reporting bias. We performed a meta‐analysis of included trials using Review Manager 5. 
+Main results
+We evaluated nine RCTs involving a total of 622 participants. The RCTs were conducted in the community setting, with interventions mainly delivered by health professionals, and had a short‐ to medium‐term follow up (up to 24 weeks). Three RCTs compared CrP plus resistance or weight training with placebo plus resistance or weight training, the other RCTs compared CrP alone versus placebo. We focused this review on investigating which dose of CrP would prove most effective versus placebo and therefore assessed the results according to CrP dose. However, in order to find out if CrP works in general, we also analysed the effect of all pooled CrP doses versus placebo on body weight only. 

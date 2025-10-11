@@ -1,0 +1,12 @@
+Background
+Asthma is a respiratory (airway) condition that affects an estimated 300 million people worldwide and is associated with significant morbidity and mortality. Omalizumab is a monoclonal antibody that binds and inhibits free serum immunoglobulin E (IgE). It is called an 'anti‐IgE' drug. IgE is an immune mediator involved in clinical manifestations of asthma. A recent update of National Institute for Health and Care Excellence (NICE) guidance in 2013 recommends omalizumab for use as add‐on therapy in adults and children over six years of age with inadequately controlled severe persistent allergic IgE‐mediated asthma who require continuous or frequent treatment with oral corticosteroids. 
+Objectives
+To assess the effects of omalizumab versus placebo or conventional therapy for asthma in adults and children. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register of trials for potentially relevant studies. The most recent search was performed in June 2013. We also checked the reference lists of included trials and searched online trial registries and drug company websites. 
+Selection criteria
+Randomised controlled trials examining anti‐IgE administered in any manner for any duration. Trials with co‐interventions were included, as long as they were the same in each arm. 
+Data collection and analysis
+Two review authors independently assessed study quality and extracted and entered data. Three modes of administration were identified from the published literature: inhaled, intravenous and subcutaneous injection. The main focus of the updated review is subcutaneous administration, as this route is currently used in clinical practice. Subgroup analysis was performed by asthma severity. Data were extracted from published and unpublished sources. 
+Main results
+In all, 25 trials were included in the review, including 11 new studies since the last update, for a total of 19 that considered the efficacy of subcutaneous anti‐IgE treatment as an adjunct to treatment with corticosteroids. 

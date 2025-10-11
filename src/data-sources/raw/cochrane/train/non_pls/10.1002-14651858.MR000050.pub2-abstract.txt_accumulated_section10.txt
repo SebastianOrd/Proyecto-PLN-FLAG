@@ -1,0 +1,10 @@
+Background
+Control interventions in randomised trials provide a frame of reference for the experimental interventions and enable estimations of causality. In the case of randomised trials assessing patients with mental health disorders, many different control interventions are used, and the choice of control intervention may have considerable impact on the estimated effects of the treatments being evaluated. 
+Objectives
+To assess the benefits and harms of typical control interventions in randomised trials with patients with mental health disorders. The difference in effects between control interventions translates directly to the impact a control group has on the estimated effect of an experimental intervention. We aimed primarily to assess the difference in effects between (i) wait‐list versus no‐treatment, (ii) usual care versus wait‐list or no‐treatment, and (iii) placebo interventions (all placebo interventions combined or psychological, pharmacological, and physical placebos individually) versus wait‐list or no‐treatment. Wait‐list patients are offered the experimental intervention by the researchers after the trial has been finalised if it offers more benefits than harms, while no‐treatment participants are not offered the experimental intervention by the researchers. 
+Search methods
+In March 2018, we searched MEDLINE, PsycInfo, Embase, CENTRAL, and seven other databases and six trials registers. 
+Selection criteria
+We included randomised trials assessing patients with a mental health disorder that compared wait‐list, usual care, or placebo interventions with wait‐list or no‐treatment . 
+Data collection and analysis
+Titles, abstracts, and full texts were reviewed for eligibility. Review authors independently extracted data and assessed risk of bias using Cochrane’s risk of bias tool. GRADE was used to assess the quality of the evidence. We contacted researchers working in the field to ask for data from additional published and unpublished trials. 

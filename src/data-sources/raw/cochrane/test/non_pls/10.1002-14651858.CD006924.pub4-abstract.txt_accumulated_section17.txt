@@ -1,0 +1,17 @@
+Background
+Epidemiological evidence has suggested a link between beta2‐agonists and increases in asthma mortality. There has been much debate about whether regular (daily) long‐acting beta2‐agonists (LABA) are safe when used in combination with inhaled corticosteroids (ICS). This updated Cochrane Review includes results from two large trials that recruited 23,422 adolescents and adults mandated by the US Food and Drug Administration (FDA). 
+Objectives
+To assess the risk of mortality and non‐fatal serious adverse events (SAEs) in trials that randomly assign participants with chronic asthma to regular formoterol and inhaled corticosteroids versus the same dose of inhaled corticosteroid alone. 
+Search methods
+We identified randomised trials using the Cochrane Airways Group Specialised Register of trials. We checked websites of clinical trial registers for unpublished trial data as well as FDA submissions in relation to formoterol. The date of the most recent search was February 2019. 
+Selection criteria
+We included randomised clinical trials (RCTs) with a parallel design involving adults, children, or both with asthma of any severity who received regular formoterol and ICS (separate or combined) treatment versus the same dose of ICS for at least 12 weeks. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We obtained unpublished data on mortality and SAEs from the sponsors of the studies. We assessed our confidence in the evidence using GRADE recommendations. The primary outcomes were all‐cause mortality and all‐cause non‐fatal serious adverse events. 
+Main results
+We found 42 studies eligible for inclusion and included 39 studies in the analyses: 29 studies included 35,751 adults, and 10 studies included 4035 children and adolescents. Inhaled corticosteroids included beclomethasone (daily metered dosage 200 to 800 µg), budesonide (200 to 1600 µg), fluticasone (200 to 250 µg), and mometasone (200 to 800 µg). Formoterol metered dosage ranged from 12 to 48 µg daily. Fixed combination ICS was used in most of the studies. We judged the risk of selection bias, performance bias, and attrition bias as low, however most studies did not report independent assessment of causation of SAEs. 
+Deaths 
+Seventeen of 18,645 adults taking formoterol and ICS and 13 of 17,106 adults taking regular ICS died of any cause. The pooled Peto odds ratio (OR) was 1.25 (95% confidence interval (CI) 0.61 to 2.56, moderate‐certainty evidence), which equated to one death occurring for every 1000 adults treated with ICS alone for 26 weeks; the corresponding risk amongst adults taking formoterol and ICS was also one death (95% CI 0 to 2 deaths). No deaths were reported in the trials on children and adolescents (4035 participants) (low‐certainty evidence). 
+In terms of asthma‐related deaths, no children and adolescents died from asthma, but three of 12,777 adults in the formoterol and ICS treatment group died of asthma (both low‐certainty evidence). 
+Non‐fatal serious adverse events 
+A total of 401 adults experienced a non‐fatal SAE of any cause on formoterol with ICS, compared to 369 adults who received regular ICS. The pooled Peto OR was 1.00 (95% CI 0.87 to 1.16, high‐certainty evidence, 29 studies, 35,751 adults). For every 1000 adults treated with ICS alone for 26 weeks, 22 adults had an SAE; the corresponding risk for those on formoterol and ICS was also 22 adults (95% CI 19 to 25). 

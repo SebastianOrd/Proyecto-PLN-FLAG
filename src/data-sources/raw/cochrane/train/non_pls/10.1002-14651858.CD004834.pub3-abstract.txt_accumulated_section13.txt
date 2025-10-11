@@ -1,0 +1,13 @@
+Background
+On the American continent, cutaneous and mucocutaneous leishmaniasis (CL and MCL) are diseases associated with infection by several species of Leishmania parasites. Pentavalent antimonials remain the first‐choice treatment. There are alternative interventions, but reviewing their effectiveness and safety is important as availability is limited. This is an update of a Cochrane Review first published in 2009. 
+Objectives
+To assess the effects of interventions for all immuno‐competent people who have American cutaneous and mucocutaneous leishmaniasis (ACML). 
+Search methods
+We updated our database searches of the Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase, LILACS and CINAHL to August 2019. We searched five trials registers. 
+Selection criteria
+Randomised controlled trials (RCTs) assessing either single or combination treatments for ACML in immuno‐competent people, diagnosed by clinical presentation and Leishmania infection confirmed by smear, culture, histology, or polymerase chain reaction on a biopsy specimen. The comparators were either no treatment, placebo only, or another active compound. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Our key outcomes were the percentage of participants 'cured' at least three months after the end of treatment, adverse effects, and recurrence. We used GRADE to assess evidence certainty for each outcome. 
+Main results
+We included 75 studies (37 were new), totalling 6533 randomised participants with ATL. The studies were mainly conducted in Central and South America at regional hospitals, local healthcare clinics, and research centres. More male participants were included (mean age: roughly 28.9 years (SD: 7.0)). The most common confirmed species were L. braziliensis, L. panamensis, and L. mexicana. The most assessed interventions and comparators were non‐antimonial systemics (particularly oral miltefosine) and antimonials (particularly meglumine antimoniate (MA), which was also a common intervention), respectively. 
+Three studies included moderate‐to‐severe cases of mucosal leishmaniasis but none included cases with diffuse cutaneous or disseminated CL, considered the severe cutaneous form. Lesions were mainly ulcerative and located in the extremities and limbs. The follow‐up (FU) period ranged from 28 days to 7 years. All studies had high or unclear risk of bias in at least one domain (especially performance bias). None of the studies reported the degree of functional or aesthetic impairment, scarring, or quality of life. 

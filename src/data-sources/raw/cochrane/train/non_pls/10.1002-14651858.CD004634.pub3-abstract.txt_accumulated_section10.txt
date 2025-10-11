@@ -1,0 +1,10 @@
+Background
+Follicular aspiration under transvaginal ultrasound guidance is routinely performed as part of assisted reproductive technology (ART) to retrieve oocytes for in vitro fertilisation (IVF). However, controversy as to whether follicular flushing following aspiration yields a larger number of oocytes and hence is associated with greater potential for pregnancy than aspiration only is ongoing. 
+Objectives
+To assess the safety and efficacy of follicular flushing as compared with aspiration only performed in women undergoing ART. 
+Search methods
+We searched the following electronic databases up to 18 July 2017: Cochrane Gynaecology and Fertility Group (CGF) Specialised Register of Controlled Trials, the CENTRAL Register of Studies Online (CRSO), MEDLINE, Embase, PsycINFO, and the Cumulative Index to Nursing and Allied Health Literature (CINAHL). We also searched the trial registries ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform to identify ongoing and registered trials up to 4 July 2017. We reviewed the reference lists of reviews and retrieved studies to identify further potentially relevant studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared follicular aspiration and flushing with aspiration alone in women undergoing ART using their own gametes. Primary outcomes were live birth rate and miscarriage rate per woman randomised. 
+Data collection and analysis
+Two independent review authors assessed studies against the inclusion criteria, extracted data, and assessed risk of bias. A third review author was consulted if required. We contacted study authors as required. We analysed dichotomous outcomes using Mantel‐Haenszel odds ratios (ORs), 95% confidence intervals (CIs), and a fixed‐effect model, and we analysed continuous outcomes using mean differences (MDs) between groups presented with 95% CIs. We examined the heterogeneity of studies via the I2 statistic. We assessed the quality of evidence by using GRADE (Grades of Recommendation, Assessment, Development and Evaluation) criteria. 

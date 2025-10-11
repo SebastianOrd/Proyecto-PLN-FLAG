@@ -1,0 +1,12 @@
+Background
+Chronic plaque psoriasis is an immune‐mediated, chronic, inflammatory skin disease, which can impair quality of life and social interaction. Disease severity can be classified by the psoriasis area and severity index (PASI) score ranging from 0 to 72 points. Indoor artificial salt bath with or without artificial ultraviolet B (UVB) light is used to treat psoriasis, simulating sea bathing and sunlight exposure; however, the evidence base needs clear evaluation. 
+Objectives
+To assess the effects of indoor (artificial) salt water baths followed by exposure to artificial UVB for treating chronic plaque psoriasis in adults. 
+Search methods
+We searched the following databases up to June 2019: the Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase, and LILACS. We also searched five trial registers, and checked the reference lists of included studies, recent reviews, and relevant papers for further references to relevant trials. 
+Selection criteria
+Randomised controlled trials (RCTs) of salt bath indoors followed by exposure to artificial UVB in adults who have been diagnosed with chronic plaque type psoriasis. We included studies reporting between‐participant data and within‐participant data. We evaluated two different comparisons: 1) salt bath + UVB versus other treatment without UVB; eligible comparators were exposure to psoralen bath, psoralen bath + artificial ultraviolet A UVA) light, topical treatment, systemic treatment, or placebo, and 2) salt bath + UVB versus other treatment + UVB or UVB only; eligible comparators were exposure to bath containing other compositions or concentrations + UVB or UVB only. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We used GRADE to assess the certainty of the evidence. 
+The primary efficacy outcome was PASI‐75, to detect people with a 75% or more reduction in PASI score from baseline. The primary adverse outcome was treatment‐related adverse events requiring withdrawal. For the dichotomous variables PASI‐75 and treatment‐related adverse events requiring withdrawal, we estimated the proportion of events among the assessed participants. 
+The secondary outcomes were health‐related quality of life using the Dermatology Life Quality Index, (DLQI) pruritus severity measured using a visual analogue scale, time to relapse, and secondary malignancies. 

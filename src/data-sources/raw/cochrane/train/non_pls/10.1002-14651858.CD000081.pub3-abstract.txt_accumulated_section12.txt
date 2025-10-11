@@ -1,0 +1,12 @@
+Background
+Some clinicians believe that routine episiotomy, a surgical cut of the vagina and perineum, will prevent serious tears during childbirth. On the other hand, an episiotomy guarantees perineal trauma and sutures. 
+Objectives
+To assess the effects on mother and baby of a policy of selective episiotomy ('only if needed') compared with a policy of routine episiotomy ('part of routine management') for vaginal births. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth's Trials Register (14 September 2016) and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing selective versus routine use of episiotomy, irrespective of parity, setting or surgical type of episiotomy. We included trials where either unassisted or assisted vaginal births were intended. Quasi‐RCTs, trials using a cross‐over design or those published in abstract form only were not eligible for inclusion in this review. 
+Data collection and analysis
+Two authors independently screened studies, extracted data, and assessed risk of bias. A third author mediated where there was no clear consensus. We observed good practice for data analysis and interpretation where trialists were review authors. We used fixed‐effect models unless heterogeneity precluded this, expressed results as risk ratios (RR) and 95% confidence intervals (CI), and assessed the certainty of the evidence using GRADE. 
+Main results
+This updated review includes 12 studies (6177 women), 11 in women in labour for whom a vaginal birth was intended, and one in women where an assisted birth was anticipated. Two were trials each with more than 1000 women (Argentina and the UK), and the rest were smaller (from Canada, Germany, Spain, Ireland, Malaysia, Pakistan, Columbia and Saudi Arabia). Eight trials included primiparous women only, and four trials were in both primiparous and multiparous women. For risk of bias, allocation was adequately concealed and reported in nine trials; sequence generation random and adequately reported in three trials; blinding of outcomes adequate and reported in one trial, blinding of participants and personnel reported in one trial. 

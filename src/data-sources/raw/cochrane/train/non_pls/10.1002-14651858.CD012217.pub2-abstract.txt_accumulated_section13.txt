@@ -1,0 +1,13 @@
+Background
+Wendan decoction (WDD) is one of the classical Chinese herb formulas used for psychotic symptoms. It is thought to be safe, accessible and inexpensive. 
+Objectives
+To investigate the effects of WDD for treatment of people with schizophrenia or schizophrenia‐like illness compared with placebo, antipsychotic drugs and other interventions for outcomes of clinical importance. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Trials Register (February 2016), which is based on regular searches of CINAHL, BIOSIS, AMED, Embase, PubMed, MEDLINE, PsycINFO, China biomedical databases group (SinoMed, CNKI, VIP, Wanfang) and clinical trials registries. There are no language, date, document type, or publication status limitations for inclusion of records in the register. We also inspected references of identified studies and contacted relevant authors for additional information. 
+Selection criteria
+Randomised controlled trials with useable data comparing WDD with antipsychotics, placebo or other interventions for people with schizophrenia. 
+Data collection and analysis
+We extracted data independently. For binary outcomes, we calculated risk ratios (RR) and 95% confidence intervals (CIs), on an intention‐to‐treat basis. For continuous data, we estimated mean differences (MD) between groups and their 95% CIs. We employed a random‐effect model for analyses. We assessed risk of bias for included studies and created 'Summary of findings' tables using GRADE. 
+Main results
+We included 15 randomised trials (1437 participants) of WDD for schizophrenia. There was a high risk of performance bias within the trials but overall, risk for selection, attrition and reporting bias was low or unclear. 
+Data showed WDD improved the short‐term global state of participants compared with placebo or no treatment (1 RCT n = 72, RR 0.53, 95% CI 0.39 to 0.73, low‐quality evidence). 

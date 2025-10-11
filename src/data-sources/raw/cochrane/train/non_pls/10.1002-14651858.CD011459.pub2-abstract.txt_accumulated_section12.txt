@@ -1,0 +1,12 @@
+Background
+Dementia is a worldwide concern. Its global prevalence is increasing. At present, there is no medication licensed to prevent or delay the onset of dementia. Inflammation has been suggested as a key factor in dementia pathogenesis. Therefore, medications with anti‐inflammatory properties could be beneficial for dementia prevention. 
+Objectives
+To evaluate the effectiveness and adverse effects of aspirin and other non‐steroidal anti‐inflammatory drugs (NSAIDs) for the primary or secondary prevention of dementia. 
+Search methods
+We searched ALOIS, the specialised register of the Cochrane Dementia and Cognitive Improvement Group up to 9 January 2020. ALOIS contains records of clinical trials identified from monthly searches of several major healthcare databases, trial registries and grey literature sources. We ran additional searches across MEDLINE (OvidSP), Embase (OvidSP) and six other databases to ensure that the searches were as comprehensive and up‐to‐date as possible. We also reviewed citations of reference lists of included studies. 
+Selection criteria
+We searched for randomised controlled trials (RCTs) and controlled clinical trials (CCTs) comparing aspirin or other NSAIDs with placebo for the primary or secondary prevention of dementia. We included trials with cognitively healthy participants (primary prevention) or participants with mild cognitive impairment (MCI) or cognitive complaints (secondary prevention). 
+Data collection and analysis
+We used standard methodological procedures according to the Cochrane Handbook for Systematic Reviews of Interventions. We rated the strength of evidence for each outcome using the GRADE approach. 
+Main results
+We included four RCTs with 23,187 participants. Because of the diversity of these trials, we did not combine data to give summary estimates, but presented a narrative description of the evidence. 

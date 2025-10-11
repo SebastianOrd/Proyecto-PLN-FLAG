@@ -1,0 +1,13 @@
+Background
+Recurrent high‐grade glioma (HGG) carries an extremely poor prognosis. There is no current standard of care or guideline‐based recommendations. Nitrosourea‐based multidrug chemotherapy or PCV — procarbazine, lomustine (CCNU) and vincristine — is one of the treatment options at recurrence. There has been no meta‐analysis which looks at the benefits and harms of PCV chemotherapy in adults with recurrent HGG. 
+Objectives
+To assess the effectiveness and safety of procarbazine, lomustine, and vincristine (PCV) chemotherapy with other interventions in adults with recurrent high‐grade glioma. To investigate whether predefined subgroups of people benefit more or less from chemotherapy. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL Issue 4, 2017), MEDLINE (1946 to 22 May 2017), and Embase (1980 to 22 May 2017). We searched trial registries including the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP; apps.who.int/trialsearch) and the National Institutes of Health (NIH; ClinicalTrials.gov). We searched the reference lists of all identified studies; the electronic table of contents of the Journal of Neuro‐Oncology (1983 to 2016) and Neuro‐Oncology (1999 to 2016); and conference abstracts from the Society for Neuro‐Oncology (SNO) and the American Society of Clinical Oncology (ASCO 2004 to 2016). We also searched unpublished grey literature and other regional databases. There were no language restrictions. 
+Selection criteria
+Randomised controlled trials (RCTs), quasi‐randomised trials (QRCTs), or controlled clinical trials (CCTs) where PCV was used to treat adults with recurrent HGG. Comparison arm included no chemotherapy, other second line chemotherapy or best supportive care. 
+Data collection and analysis
+Two review authors extracted the data and undertook a 'Risk of bias' assessment and critical appraisal of the studies. 
+Main results
+We identified two RCTs meeting our inclusion criteria. The two trials tested different comparisons. 
+One RCT included 35 participants and compared PCV with 'eight drugs in one day' multidrug chemotherapy, which is a combination of drugs with different mechanisms of action. Median survival was 6 months for the PCV group and 6.5 months for the 'eight drugs in one day' group. Adverse event outcomes were not graded or quantified. Progression‐free survival (PFS) and quality of life (QoL) were not described in the methods and were not an outcome of interest. The sample size in this study was small, which lead to insufficient statistical power to detect clinical differences. According to the GRADE approach we judged the quality of evidence to be low for survival outcome and very low for chemotherapy toxicity 

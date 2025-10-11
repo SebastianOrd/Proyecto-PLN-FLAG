@@ -1,0 +1,13 @@
+Background
+Hypertension (high blood pressure) in pregnancy carries a high risk of maternal morbidity and mortality. Although antihypertensive drugs are commonly used, they have adverse effects on mothers and fetuses. Guided imagery is a non‐pharmacological technique that has the potential to lower blood pressure among pregnant women with hypertension. Guided imagery is a mind‐body therapy that involves the visualisation of various mental images to facilitate relaxation and reduction in blood pressure. 
+Objectives
+To determine the effect of guided imagery as a non‐pharmacological treatment of hypertension in pregnancy and its influence on perinatal outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register, and two trials registers (October 2018). We also searched relevant conference proceedings and journals, and scanned the reference lists of retrieved studies. 
+Selection criteria
+We included randomised controlled trials (RCTs). We would have included RCTs using a cluster‐randomised design, but none were identified. We excluded quasi‐RCTs and cross‐over trials. 
+We sought intervention studies of various guided imagery techniques performed during pregnancy in comparison with no intervention or other non‐pharmacological treatments for hypertension (e.g. quiet rest, music therapy, aromatherapy, relaxation therapy, acupuncture, acupressure, massage, device‐guided slow breathing, hypnosis, physical exercise, and yoga). 
+Data collection and analysis
+Three review authors independently assessed the trials for inclusion, extracted data, and assessed risk of bias for the included studies. We checked extracted data for accuracy, and resolved differences in assessments by discussion. We assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We included two small trials (involving a total of 99 pregnant women) that compared guided imagery with quiet rest. The trials were conducted in Canada and the USA. We assessed both trials as at high risk of performance bias, and low risk of attrition bias; one trial was at low risk for selection, detection, and reporting bias, while the other was at unclear risk for the same domains. 

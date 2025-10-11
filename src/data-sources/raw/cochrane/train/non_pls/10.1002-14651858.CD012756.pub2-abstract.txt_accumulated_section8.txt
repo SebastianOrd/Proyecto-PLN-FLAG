@@ -1,0 +1,8 @@
+Background
+Cerebral palsy (CP) is a heterogeneous group of non‐progressive disorders of posture or movement, caused by a lesion of the developing brain. Osteoporosis is common in children with cerebral palsy, particularly in children with reduced gross motor function, and leads to an increased risk of fractures. Gross motor function in children with CP can be categorised using a tool called the Gross Motor Function Classification System (GMFCS). Bisphosphonate increases bone mineral density (BMD) and reduces fracture rates. Bisphosphonate is used widely in the treatment of adult osteoporosis. However, the use of bisphosphonate in children with CP remains controversial, due to a paucity of evidence and a lack of recent trials examining the efficacy and safety of bisphosphonate use in this population. 
+Objectives
+To examine the efficacy and safety of bisphosphonate therapy in the treatment of low BMD or secondary osteoporosis (or both) in children with cerebral palsy (GMFCS Levels III to V) who are under 18 years of age. 
+Search methods
+In September 2020, we searched CENTRAL, MEDLINE, Embase, six other databases, and two trial registers for relevant studies. We also searched the reference lists of relevant systematic reviews, trials, and case studies identified by the search, and contacted the authors of relevant studies in an attempt to identify unpublished literature. 
+Selection criteria
+All relevant randomised controlled trials (RCTs), and quasi‐RCTs, comparing at least one bisphosphonate (given at any dose, orally or intravenously) with placebo or no drug, for the treatment of low BMD or osteoporosis in children up to 18 years old, with cerebral palsy (GMFCS Levels III to V). 

@@ -1,0 +1,20 @@
+Background
+Laparoscopy is a common procedure used to diagnose and treat various gynaecological conditions. Shoulder‐tip pain (STP) as a result of the laparoscopy occurs in up to 80% of women, with potential for significant morbidity, delayed discharge and readmission. Interventions at the time of gynaecological laparoscopy have been developed in an attempt to reduce the incidence and severity of STP. 
+Objectives
+To determine the effectiveness and safety of methods for reducing the incidence and severity of shoulder‐tip pain (STP) following gynaecological laparoscopy. 
+Search methods
+We searched the following databases: Cochrane Gynaecology and Fertility (CGF) Specialised Register, the Cochrane Central Register of Studies Online (CRSO), MEDLINE, Embase, PsycINFO and CINAHL from inception to 8 August 2018. We also searched the reference lists of relevant articles and registers of ongoing trials. 
+Selection criteria
+Randomised controlled trials (RCTs) of interventions used during or immediately after gynaecological laparoscopy to reduce the incidence or severity of STP. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Primary outcomes: incidence or severity of STP and adverse events of the interventions; secondary outcomes: analgesia usage, delay in discharge, readmission rates, quality‐of‐life scores and healthcare costs. 
+Main results
+We included 32 studies (3284 women). Laparoscopic procedures in these studies varied from diagnostic procedures to complex operations. The quality of the evidence ranged from very low to moderate. The main limitations were risk of bias, imprecision and inconsistency. 
+Specific technique versus "standard" technique for releasing the pneumoperitoneum 
+Use of a specific technique of releasing the pneumoperitoneum (pulmonary recruitment manoeuvre, extended assisted ventilation or actively aspirating intra‐abdominal gas) reduced the severity of STP at 24 hours (standardised mean difference (SMD) ‐0.66, 95% confidence interval (CI) ‐0.82 to ‐0.50; 5 RCTs; 670 participants; I2 = 0%, low‐quality evidence) and reduced analgesia usage (SMD ‐0.53, 95% CI ‐0.70 to ‐0.35; 4 RCTs; 570 participants; I2 = 91%, low‐quality evidence). There appeared to be little or no difference in the incidence of STP at 24 hours (odds ratio (OR) 0.87, 95% CI 0.41 to 1.82; 1 RCT; 118 participants; low‐quality evidence). 
+No adverse events occurred in the only study assessing this outcome.
+Fluid instillation versus no fluid instillation 
+Fluid instillation is probably associated with a reduction in STP incidence (OR 0.38, 95% CI 0.22 to 0.66; 2 RCTs; 220 participants; I2 = 0%, moderate‐quality evidence) and severity (mean difference (MD) (0 to 10 visual analogue scale (VAS) scale) ‐2.27, 95% CI ‐3.06 to ‐1.48; 2 RCTs; 220 participants; I2 = 29%, moderate‐quality evidence) at 24 hours, and may reduce analgesia usage (MD ‐12.02, 95% CI ‐23.97 to ‐0.06; 2 RCTs; 205 participants, low‐quality evidence). 
+No study measured adverse events.
+Intraperitoneal drain versus no intraperitoneal drain 
+Using an intraperitoneal drain may reduce the incidence of STP at 24 hours (OR 0.30, 95% CI 0.20 to 0.46; 3 RCTs; 417 participants; I2 = 90%, low‐quality evidence) and may reduce analgesia use within 48 hours post‐operatively (SMD ‐1.84, 95% CI ‐2.14 to ‐1.54; 2 RCTs; 253 participants; I2 = 90%). We are uncertain whether it reduces the severity of STP at 24 hours, as the evidence was very low quality (MD (0 to 10 VAS scale) ‐1.85, 95% CI ‐2.15 to ‐1.55; 3 RCTs; 320 participants; I2 = 70%). 

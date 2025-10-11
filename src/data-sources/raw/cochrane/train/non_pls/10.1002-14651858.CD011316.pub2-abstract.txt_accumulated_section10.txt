@@ -1,0 +1,10 @@
+Background
+Asthma is the most common chronic medical condition among children and is one of the most common causes of hospitalisation and medical visits. Poorly controlled asthma often leads to preventable exacerbations that require additional medications, hospital stays, or treatment in the emergency department. 
+Long‐acting beta2‐agonists (LABA) are the preferred add‐on treatment for children with asthma whose symptoms are not well controlled on inhaled corticosteroids (ICS). The US Food and Drug Administration has issued a 'black box' warning for LABA in asthma, and now recommends that they be used "for the shortest duration of time required to achieve control of asthma symptoms and discontinued, if possible, once asthma control is achieved". 
+Objectives
+To compare the effect on asthma control and adverse effects of stepping down to inhaled corticosteroids (ICS)‐only therapy versus continuing ICS plus LABA in children whose asthma is well controlled on combined ICS and LABA therapy. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register, and also searched www.ClinicalTrials.gov, www.who.int/ictrp/en/, reference lists of primary studies and existing reviews, and manufacturers' trial registries (GlaxoSmithKline and AstraZeneca). We searched all databases from their inception to the present, and imposed no restriction on language of publication. The most recent search was done in April 2015. 
+Selection criteria
+We looked for parallel randomised controlled trials of at least eight weeks' duration, available as published full text, abstract only, or unpublished data. We excluded studies including participants with other chronic respiratory comorbidities (for example bronchiectasis). 
+We looked for studies in which children (18 years or younger) whose asthma was well controlled on any dose of ICS and LABA combination therapy were randomised to: a) step‐down therapy to ICS alone or b) continued use of ICS and LABA. 

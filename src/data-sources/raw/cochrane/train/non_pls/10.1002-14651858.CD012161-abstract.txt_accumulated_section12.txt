@@ -1,0 +1,12 @@
+Background
+Short‐acting insulin analogue use for people with diabetes is still controversial, as reflected in many scientific debates. 
+Objectives
+To assess the effects of short‐acting insulin analogues versus regular human insulin in adults with type 1 diabetes. 
+Search methods
+We carried out the electronic searches through Ovid simultaneously searching the following databases: Ovid MEDLINE(R), Ovid MEDLINE(R) In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE(R) Daily and Ovid OLDMEDLINE(R) (1946 to 14 April 2015), EMBASE (1988 to 2015, week 15), the Cochrane Central Register of Controlled Trials (CENTRAL; March 2015), ClinicalTrials.gov and the European (EU) Clinical Trials register (both March 2015). 
+Selection criteria
+We included all randomised controlled trials with an intervention duration of at least 24 weeks that compared short‐acting insulin analogues with regular human insulins in the treatment of adults with type 1 diabetes who were not pregnant. 
+Data collection and analysis
+Two review authors independently extracted data and assessed trials for risk of bias, and resolved differences by consensus. We graded overall study quality using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) instrument. We used random‐effects models for the main analyses and presented the results as odds ratios (OR) with 95% confidence intervals (CI) for dichotomous outcomes. 
+Main results
+We identified nine trials that fulfilled the inclusion criteria including 2693 participants. The duration of interventions ranged from 24 to 52 weeks with a mean of about 37 weeks. The participants showed some diversity, mainly with regard to diabetes duration and inclusion/exclusion criteria. The majority of the trials were carried out in the 1990s and participants were recruited from Europe, North America, Africa and Asia. None of the trials was carried out in a blinded manner so that the risk of performance bias, especially for subjective outcomes such as hypoglycaemia, was present in all of the trials. Furthermore, several trials showed inconsistencies in the reporting of methods and results. 

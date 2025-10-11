@@ -1,0 +1,12 @@
+Background
+Demodex blepharitis is a chronic condition commonly associated with recalcitrant dry eye symptoms though many people with Demodex mites are asymptomatic. The primary cause of this condition in humans is two types of Demodex mites: Demodex folliculorum and Demodex brevis. There are varying reports of the prevalence of Demodex blepharitis among adults, and it affects both men and women equally. While Demodex mites are commonly treated with tea tree oil, the effectiveness of tea tree oil for treating Demodex blepharitis is not well documented. 
+Objectives
+To evaluate the effects of tea tree oil on ocular Demodex infestation in people with Demodex blepharitis. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Trials Register) (2019, Issue 6); Ovid MEDLINE; Embase.com; PubMed; LILACS; ClinicalTrials.gov; and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We used no date or language restrictions in the electronic search for trials. We last searched the databases on 18 June 2019. 
+Selection criteria
+We included randomized controlled trials (RCTs) that compared treatment with tea tree oil (or its components) versus another treatment or no treatment for people with Demodex blepharitis. 
+Data collection and analysis
+Two review authors independently screened the titles and abstracts and then full text of records to determine their eligibility. The review authors independently extracted data and assessed risk of bias using Covidence. A third review author resolved any conflicts at all stages. 
+Main results
+We included six RCTs (1124 eyes of 562 participants; 17 to 281 participants per study) from the US, Korea, China, Australia, Ireland, and Turkey. The RCTs compared some formulation of tea tree oil to another treatment or no treatment. Included participants were both men and women, ranging from 39 to 55 years of age. All RCTs were assessed at unclear or high risk of bias in one or more domains. We also identified two RCTs that are ongoing or awaiting publications. 

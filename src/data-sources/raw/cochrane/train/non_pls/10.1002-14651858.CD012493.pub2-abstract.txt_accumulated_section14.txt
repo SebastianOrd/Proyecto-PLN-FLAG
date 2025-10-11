@@ -1,0 +1,14 @@
+Background
+Primary autoimmune haemolytic anaemia (AIHA) is an autoantibody mediated condition characterised by a variable disease course. A myriad of immunomodulatory agents have been employed but there is a paucity of evidence to support their use or compare their effectiveness. 
+Objectives
+To determine the effects of various disease‐modifying treatment modalities in people with AHIHA. 
+Search methods
+We searched MEDLINE (Ovid) (1946 to 2021), Embase (Ovid) (1974 to 2021), Latin American and Caribbean Health Sciences Literature (LILACS) (1982 to 2021), and the Cochrane Library (CENTRAL). Clinical trial registries and relevant conference proceedings were also reviewed. Records were included as of 7 March 2021. We did not impose any language restrictions. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing immunosuppressive or immunomodulatory treatments against no treatment, placebo, or another immunosuppressive or immunomodulatory treatment, for people of all age with idiopathic AIHA. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. The prioritised pre‐defined outcomes included complete haematological response at 12 months, frequency of adverse events at two, six and 12 months, partial haematological response at 12 months, overall survival at six and 12 months, relapse‐free survival (RFS) at six and 12 months, red blood cel (RBC) transfusion requirement after treatment at 12 months, and quality of life (QOL) as measured by validated instruments at 12 months. Based on data availability, we were only able to perform meta‐analysis on frequency of complete haematological response. 
+Main results
+Two trials were included, enrolling a total of 104 adult participants (96 randomised) with warm AIHA in the setting of tertiary referral centres, both comparing the effectiveness between rituximab (375 mg/m2 weekly for four weeks, or 1000 mg for two doses two weeks apart) plus glucocorticoid (prednisolone 1.5 or 1mg/kg/day with taper) and glucocorticoid monotherapy. The average age of participants in the two trials were 67 and 71, respectively. One of the included studies had good methodological quality with low risk of bias, whereas the other study had high risk of performance and detection bias due to lack of blinding. Compared with glucocorticoid alone, adding rituximab may result in a large increase of complete response at 12 months (n = 96, risk ratio (RR) 2.13, 95% confidence interval (CI) 1.34 to 3.40, GRADE: low‐certainty evidence). 
+Rates of adverse effects at prespecified time‐points were not reported.
+Limited data on partial haematological response were reported. The evidence is very uncertain about the effect of adding rituximab to glucocorticoids on partial haematological response at 12 months (n = 32; study = 1; RR 3.00, 95% CI 0.13 to 68.57; GRADE very low‐certainty evidence). 

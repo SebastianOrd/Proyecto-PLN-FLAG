@@ -1,0 +1,9 @@
+Background
+Platelet transfusions are used in modern clinical practice to prevent and treat bleeding in people who are thrombocytopenic due to bone marrow failure. Although considerable advances have been made in platelet transfusion therapy in the last 40 years, some areas continue to provoke debate, especially concerning the use of prophylactic platelet transfusions for the prevention of thrombocytopenic bleeding. 
+This is an update of a Cochrane review first published in 2004, and updated in 2012 that addressed four separate questions: prophylactic versus therapeutic‐only platelet transfusion policy; prophylactic platelet transfusion threshold; prophylactic platelet transfusion dose; and platelet transfusions compared to alternative treatments. This review has now been split into four smaller reviews; this review compares different platelet transfusion doses. 
+Objectives
+To determine whether different doses of prophylactic platelet transfusions (platelet transfusions given to prevent bleeding) affect their efficacy and safety in preventing bleeding in people with haematological disorders undergoing myelosuppressive chemotherapy with or without haematopoietic stem cell transplantation (HSCT). 
+Search methods
+We searched for randomised controlled trials in the Cochrane Central Register of Controlled Trials (CENTRAL) (Cochrane Library 2015, Issue 6), MEDLINE (from 1946), Embase (from 1974), CINAHL (from 1937), the Transfusion Evidence Library (from 1950), and ongoing trial databases to 23 July 2015. 
+Selection criteria
+Randomised controlled trials involving transfusions of platelet concentrates, prepared either from individual units of whole blood or by apheresis, and given to prevent bleeding in people with malignant haematological disorders or undergoing HSCT that compared different platelet component doses (low dose 1.1 x 1011/m2 ± 25%, standard dose 2.2 x 1011/m2 ± 25%, high dose 4.4 x 1011/m2 ± 25%). 

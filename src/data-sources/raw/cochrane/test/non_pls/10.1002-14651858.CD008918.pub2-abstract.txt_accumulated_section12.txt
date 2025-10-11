@@ -1,0 +1,12 @@
+Background
+Knee arthroscopy is a common procedure and is associated with postoperative pain. Intra‐articular (IA) injection of morphine for pain control has been widely studied, but its analgesic effect after knee arthroscopy is uncertain. 
+Objectives
+To evaluate the relative effects on pain relief and adverse events of IA morphine given for pain control after knee arthroscopy compared with placebo, other analgesics (local anaesthetics, non‐steroidal anti‐inflammatory drugs (NSAIDs), other opioids) and other routes of morphine administration. 
+Search methods
+We searched CENTRAL (The Cochrane Library Issue 4, 2015), MEDLINE via Ovid (January 1966 to May 2015), EMBASE via Ovid (January 1988 to May 2015), and the reference lists of included articles. We also searched the metaRegister of controlled trials, clinicaltrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform for ongoing trials. 
+Selection criteria
+We identified all the randomised, double‐blind controlled trials that compared single dose IA morphine with other interventions for the treatment of postoperative pain after knee arthroscopy. We excluded studies with fewer than 10 participants in each group, using spinal or epidural anaesthesia, or assessing the analgesic effect of IA morphine on chronic pain. 
+Data collection and analysis
+Two authors independently assessed the quality of each trial and extracted information on pain intensity, supplementary analgesics consumption and adverse events. We assessed the evidence using GRADE (Grading of Recommendations Assessment, Development and Evaluation) and created 'Summary of findings' tables. 
+Main results
+We included 28 small, low quality studies (29 reports) involving 2564 participants. Of 20 studies (21 reports) comparing morphine with placebo, nine studies with adequate data were included in the meta‐analysis. Overall, the risk of bias was unclear. Overall, the quality of the evidence assessed using GRADE was low to very low, downgraded primarily due to risk of bias, small study size, and imprecision. 

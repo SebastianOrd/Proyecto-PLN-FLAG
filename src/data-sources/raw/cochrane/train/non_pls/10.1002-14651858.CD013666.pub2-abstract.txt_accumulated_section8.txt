@@ -1,0 +1,8 @@
+Background
+Respiratory disease is the main cause of morbidity and mortality in cystic fibrosis (CF), and many different therapies are used by people with CF in the management of respiratory problems. Bronchodilator therapy is used to relieve symptoms of shortness of breath and to open the airways to allow clearance of mucus. Despite the widespread use of inhaled bronchodilators in CF, there is little objective evidence of their efficacy. A Cochrane Review looking at both short‐ and long‐acting inhaled bronchodilators for CF was withdrawn from the Cochrane Library in 2016. That review has been replaced by two separate Cochrane Reviews: one on long‐acting inhaled bronchodilators for CF, and this review on short‐acting inhaled bronchodilators for CF. For this review 'inhaled' includes the use of pressurised metered dose inhalers (MDIs), with or without a spacer, dry powder devices and nebulisers. 
+Objectives
+To evaluate short‐acting inhaled bronchodilators in children and adults with CF in terms of clinical outcomes and safety. 
+Search methods
+We searched the Cochrane Cystic Fibrosis Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books on 28 March 2022 and searched trial registries for any new or ongoing trials on 12 April 2022. We also searched the reference lists of relevant articles and reviews. 
+Selection criteria
+We searched for randomised controlled trials (RCTs) or quasi‐RCTs that looked at the effect of any short‐acting inhaled bronchodilator delivered by any device, at any dose, at any frequency and for any duration compared to either placebo or another short‐acting inhaled bronchodilator in people with CF. We screened references as per standard Cochrane methodology. 

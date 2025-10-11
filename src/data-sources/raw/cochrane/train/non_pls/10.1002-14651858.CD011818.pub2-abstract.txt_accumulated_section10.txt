@@ -1,0 +1,10 @@
+Background
+People with asthma have a higher prevalence of anxiety and depression than the general population. This is associated with poorer asthma control, medication adherence, and health outcomes. Cognitive behavioural therapy (CBT) may be a way to improve the quality of life of people with asthma by addressing associated psychological issues, which may lead to a lower risk of exacerbations and better asthma control. 
+Objectives
+To assess the efficacy of CBT for asthma compared with usual care.
+Search methods
+We searched the Cochrane Airways Group Specialised Register, ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP). We also searched reference lists of all primary studies and review articles and contacted authors for unpublished data. The most recent searches were conducted in August 2016. 
+Selection criteria
+We included parallel randomised controlled trials (RCTs) comparing any cognitive behavioural intervention to usual care or no intervention. We included studies of adults or adolescents with asthma, with or without comorbid anxiety or depression. We included studies reported as full text, those published as abstract only, and unpublished data. 
+Data collection and analysis
+Two or more review authors independently screened the search results, extracted data, and assessed included studies for risk of bias. We analysed dichotomous data as odds ratios (ORs) and continuous data as mean differences (MDs) or standardised mean differences (SMD) where scales varied across studies, all using a random‐effects model. The primary outcomes were asthma‐related quality of life and exacerbations requiring at least a course of oral steroids. We rated all outcomes using GRADE and presented our confidence in the results in a 'Summary of findings' table. 

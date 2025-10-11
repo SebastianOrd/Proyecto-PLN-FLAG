@@ -1,0 +1,10 @@
+Background
+Smoking rates in people with alcohol and other drug dependencies are two to four times those of the general population. Concurrent treatment of tobacco dependence has been limited due to concern that these interventions are not successful in this population or that recovery from other addictions could be compromised if tobacco cessation was combined with other drug dependency treatment. 
+Objectives
+To evaluate whether interventions for tobacco cessation are associated with tobacco abstinence for people in concurrent treatment for or in recovery from alcohol and other drug dependence. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and clinicaltrials.gov databases, with the most recent search completed in August 2016. A grey literature search of conference abstracts from the Society on Nicotine Research and Treatment and the ProQuest database of digital dissertations yielded one additional study, which was excluded. 
+Selection criteria
+We included randomised controlled trials assessing tobacco cessation interventions among people in concurrent treatment for alcohol or other drug dependence or in outpatient recovery programmes. 
+Data collection and analysis
+Two review authors independently assessed study risk of bias and extracted data. We resolved disagreements by consensus. The primary outcome was abstinence from tobacco use at the longest period of follow‐up, and the secondary outcome was abstinence from alcohol or other drugs, or both. We reported the strictest definition of abstinence. We summarised effects as risk ratios and 95% confidence intervals (CI). Two clustered studies did not provide intraclass correlation coefficients, and were excluded from the sensitivity analysis. We used the I2 statistic to assess heterogeneity. 

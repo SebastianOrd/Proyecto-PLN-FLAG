@@ -1,0 +1,10 @@
+Background
+Corticosteroids are commonly used for the induction of remission in Crohn's disease. However, traditional corticosteroids can cause significant adverse events. Budesonide is an alternative glucocorticoid with limited systemic bioavailability. 
+Objectives
+The primary objective was to evaluate the efficacy and safety of oral budesonide for the induction of remission in Crohn's disease. 
+Search methods
+The following electronic databases were searched up to June 2014: MEDLINE, EMBASE, the Cochrane Central Register of Controlled Trials, the Cochrane IBD/FBD Group Specialised Trial Register, and ClinicalTrials.gov. Reference lists of articles, as well as conference proceedings were manually searched. 
+Selection criteria
+Randomised controlled trials comparing budesonide to a placebo or active comparator were considered for inclusion. 
+Data collection and analysis
+Two independent investigators reviewed studies for eligibility, extracted the data and assessed study quality. Methodological quality was assessed using the Cochrane risk of bias tool The overall quality of the evidence supporting the outcomes was evaluated using the GRADE criteria. Meta‐analysis was performed using RevMan 5.3.5 software. The primary outcome was induction of remission (defined by a Crohn's disease activity index (CDAI) < 150) by week 8 to 16 of treatment. Secondary outcomes included: time to remission, mean change in CDAI, clinical, histological or endoscopic improvement, improvement in quality of life, adverse events and early withdrawal. We calculated the relative risk (RR) and corresponding 95% confidence intervals (CIs) for each dichotomous outcome and the mean difference and corresponding 95% CI for each continuous outcome. Data were analyzed on an intention‐to‐treat basis. A random‐effects model was used for the pooled analyses. The overall quality of the evidence supporting the primary outcomes and selected secondary outcomes was evaluated using the GRADE criteria. 

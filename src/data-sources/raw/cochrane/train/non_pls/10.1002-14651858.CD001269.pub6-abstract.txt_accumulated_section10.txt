@@ -1,0 +1,10 @@
+Background
+The consequences of influenza in adults are mainly time off work. Vaccination of pregnant women is recommended internationally. This is an update of a review published in 2014. Future updates of this review will be made only when new trials or vaccines become available. Observational data included in previous versions of the review have been retained for historical reasons but have not been updated due to their lack of influence on the review conclusions. 
+Objectives
+To assess the effects (efficacy, effectiveness, and harm) of vaccines against influenza in healthy adults, including pregnant women. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 12), MEDLINE (January 1966 to 31 December 2016), Embase (1990 to 31 December 2016), the WHO International Clinical Trials Registry Platform (ICTRP; 1 July 2017), and ClinicalTrials.gov (1 July 2017), as well as checking the bibliographies of retrieved articles. 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs comparing influenza vaccines with placebo or no intervention in naturally occurring influenza in healthy individuals aged 16 to 65 years. Previous versions of this review included observational comparative studies assessing serious and rare harms cohort and case‐control studies. Due to the uncertain quality of observational (i.e. non‐randomised) studies and their lack of influence on the review conclusions, we decided to update only randomised evidence. The searches for observational comparative studies are no longer updated. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. We rated certainty of evidence for key outcomes (influenza, influenza‐like illness (ILI), hospitalisation, and adverse effects) using GRADE. 

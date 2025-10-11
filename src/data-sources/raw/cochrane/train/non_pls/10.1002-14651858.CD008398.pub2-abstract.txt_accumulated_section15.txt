@@ -1,0 +1,15 @@
+Background
+Patients prefer oral to intravenous (IV) palliative chemotherapy, provided that oral therapy is not less effective. We compared the efficacy and safety of oral and IV fluoropyrimidines for treatment of colorectal cancer (CRC). 
+Objectives
+To compare the effects of oral and IV fluoropyrimidine chemotherapy in patients treated with curative or palliative intent for CRC. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 5), along with OVID MEDLINE, OVID Embase, and Web of Science databases, in June 2016. We also searched five clinical trials registers, several conference proceedings, and reference lists from study reports and systematic reviews. We contacted pharmaceutical companies to identify additional studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing oral and IV fluoropyrimidine chemotherapy in patients treated with curative or palliative intent for CRC. 
+Data collection and analysis
+Three review authors extracted data and assessed risk of bias independently. We assessed the seven domains in the Cochrane 'Risk of bias' tool and three additional domains: schedules of outcome assessment and/or follow‐up; use of intention‐to‐treat analysis; and baseline comparability of treatment arms. 
+Main results
+We included nine RCTs (total of 10,918 participants) that examined treatment with curative intent for CRC with neoadjuvant and/or adjuvant chemotherapy. We included 35 RCTs (total of 12,592 participants) that examined treatment with palliative intent for inoperable advanced or metastatic CRC with chemotherapy (31 first‐line studies, two second‐line studies, and two studies of first‐ or second‐line chemotherapy). All studies included male and female participants, and no studies included participants younger than 18 years of age. 
+Patients treated with curative intent for CRC with neoadjuvant and/or adjuvant chemotherapy  
+• Disease‐free survival (DFS): DFS did not differ between participants treated with oral versus IV fluoropyrimidines (hazard ratio (HR) 0.93, 95% confidence interval (CI) 0.87 to 1.00; seven studies, 8903 participants; moderate‐quality evidence). 
+• Overall survival (OS): OS did not differ between participants treated with oral versus IV fluoropyrimidines (HR 0.92, 95% CI 0.84 to 1.00; seven studies, 8902 participants analysed; high‐quality evidence). 

@@ -1,0 +1,13 @@
+Background
+People with chronic kidney disease (CKD) have higher risks of cardiovascular disease compared to the general population. Specifically, cardiovascular deaths account most deaths in kidney transplant recipients. Statins are a potentially beneficial intervention for kidney transplant patients given their established benefits in patients at risk of cardiovascular disease in the general population. This is an update of a review first published in 2009. 
+Objectives
+We aimed to evaluate the benefits (reductions in all‐cause and cardiovascular mortality, major cardiovascular events, myocardial infarction and stroke, and progression of CKD to requiring dialysis) and harms (muscle or liver dysfunction, withdrawal, cancer) of statins compared to placebo, no treatment, standard care, or another statin in adults with CKD who have a functioning kidney transplant. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register to 29 February 2012 through contact with the Trials Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs that compared the effects of statins with placebo, no treatment, standard care, or statins on mortality, cardiovascular events, kidney function and toxicity in kidney transplant recipients. 
+Data collection and analysis
+Two authors independently extracted data and assessed risk of bias. Treatment effects were expressed as mean difference (MD) for continuous outcomes (lipids, glomerular filtration rate (GFR), proteinuria) and relative risk (RR) for dichotomous outcomes (major cardiovascular events, mortality, fatal or non‐fatal myocardial infarction, fatal or non‐fatal stroke, elevated muscle or liver enzymes, withdrawal due to adverse events, cancer, end‐stage kidney disease (ESKD), acute allograft rejection) together with 95% confidence intervals (CI). 
+Main results
+We identified 22 studies (3465 participants); 17 studies (3282 participants) compared statin with placebo or no treatment, and five studies (183 participants) compared two different statin regimens. 
+From data generally derived from a single high‐quality study, it was found that statins may reduce major cardiovascular events (1 study, 2102 participants: RR 0.84, CI 0.66 to 1.06), cardiovascular mortality (4 studies, 2322 participants: RR 0.68, CI 0.45 to 1.01), and fatal or non‐fatal myocardial infarction (1 study, 2102 participants: RR 0.70, CI 0.48 to 1.01); although effect estimates lack precision and include the possibility of no effect. 

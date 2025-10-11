@@ -1,0 +1,9 @@
+How accurate are nucleic and antigen detection tests in diagnosing leptospirosis?
+What was studied in this review? 
+Leptospirosis is an infectious disease, caused by bacteria called Leptospira that can be found in soil, freshwater, or in the infected urine of certain animals. It is mainly a problem in humid, tropical countries in Southeast Asia, and Central and South America, but it can also occur in temperate regions. 
+Leptospirosis causes fever and headache, and in some cases kidney, lung, or heart problems. Often, the symptoms are not unique for the disease, which makes it difficult to diagnose, and is therefore frequently missed. 
+Laboratory tests confirm diagnosis. These tests are based on demonstration of the presence of Leptospira, its DNA, or antibodies against Leptospira. Nucleic acid and antigen detection tests, such as conventional polymerase chain reaction (PCR) and real‐time PCR, identify the bacterium or its DNA directly in blood or urine. Nucleic acid and antigen detection tests may detect Leptospira better in the early days of an infection, so that people can be treated earlier with antibiotics – resulting in better outcomes – and can provide useful information in outbreak situations. In outbreak situations, nucleic acid and antigen detection tests could serve as early warning systems. 
+What was the aim of this review? 
+The aim was to assess how well nucleic acid and antigen tests perform in detecting leptospirosis. In other words, to assess how many mistakes these tests make by either missing people with leptospirosis or misidentifying people without leptospirosis (healthy people or people with another disease). 
+What were the main results in this review? 
+The review included information from 41 studies with 5981 participants. We identified nine nucleic acid and antigen detection tests, of which PCR and real‐time PCR were most often investigated. 

@@ -1,0 +1,12 @@
+Background
+Graves' disease is the most common cause of hyperthyroidism. Both antithyroid medications and radioiodine are commonly used treatments but their frequency of use varies between regions and countries. Despite the commonness of the diagnosis, any possible differences between the two treatments with respect to long‐term outcomes remain unknown. 
+Objectives
+To assess the effects of radioiodine therapy versus antithyroid medications for Graves' disease. 
+Search methods
+We performed a systematic literature search in the Cochrane Library, MEDLINE and EMBASE and the trials registers ICTRP Search Portal and ClinicalTrials.gov. The date of the last search was September 2015 for all databases. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing the effects of radioiodine therapy versus antithyroid medications for Graves' disease with at least two years follow‐up. 
+Data collection and analysis
+Two authors independently screened titles and abstracts for relevance. One author carried out screening for inclusion, data extraction and 'Risk of bias' assessment and a second author checked this. We presented data not suitable for meta‐analysis as descriptive data. We analysed the overall quality of evidence utilising the GRADE instrument. 
+Main results
+We included two RCTs involving 425 adult participants with Graves' disease in this review. Altogether 204 participants were randomised to radioiodine therapy and 221 to methimazole therapy. A single dose of radioiodine was administered. The duration of methimazole medication was 18 months. The period of follow‐up was at least two years, depending on the outcome measured. For most outcome measures risk of bias was low; for the outcomes health‐related quality of life as well as development and worsening of Graves' ophthalmopathy risks of performance bias and detection bias were high in at least one of the two RCTs. 

@@ -1,0 +1,12 @@
+Background
+Oral poisoning is a major cause of mortality and disability worldwide, with estimates of over 100,000 deaths due to unintentional poisoning each year and an overrepresentation of children below five years of age. Any effective intervention that laypeople can apply to limit or delay uptake or to evacuate, dilute or neutralize the poison before professional help arrives may limit toxicity and save lives. 
+Objectives
+To assess the effects of pre‐hospital interventions (alone or in combination) for treating acute oral poisoning, available to and feasible for laypeople before the arrival of professional help. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials, MEDLINE, Embase, CINAHL, ISI Web of Science, International Pharmaceutical Abstracts, and three clinical trials registries to 4 December 2018, and we also carried out reference checking and citation searching. 
+Selection criteria
+We included randomized controlled trials comparing interventions (alone or in combination) that are feasible in a pre‐hospital setting for treating acute oral poisoning patients, including but potentially not limited to activated charcoal (AC), emetics, cathartics, diluents, neutralizing agents and body positioning. 
+Data collection and analysis
+Two review authors independently performed study selection, data collection and assessment. Primary outcomes of this review were incidence of mortality and adverse events, plus incidence and severity of symptoms of poisoning. Secondary outcomes were duration of symptoms of poisoning, drug absorption, and incidence of hospitalization and ICU admission. 
+Main results
+We included 24 trials involving 7099 participants. Using the Cochrane 'Risk of bias' tool, we assessed no study as being at low risk of bias for all domains. Many studies were poorly reported, so the risk of selection and detection biases were often unclear. Most studies reported important outcomes incompletely, and we judged them to be at high risk of reporting bias. 

@@ -1,0 +1,10 @@
+Background
+Symptomatic patent ductus arteriosus (PDA) is associated with mortality and morbidity in preterm infants. In these infants, prophylactic use of indomethacin, a non‐selective cyclooxygenase inhibitor, has demonstrated short‐term clinical benefits. The effect of indomethacin in preterm infants with a symptomatic PDA remains unexplored. 
+Objectives
+To determine the effectiveness and safety of indomethacin (given by any route) compared to placebo or no treatment in reducing mortality and morbidity in preterm infants with a symptomatic PDA. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search Cochrane Central Register of Controlled Trials (CENTRAL; 2020, Issue 7), in the Cochrane Library; Ovid MEDLINE(R) and Epub Ahead of Print, In‐Process & Other Non‐Indexed Citations, Daily and Versions(R); and Cumulative Index to Nursing and Allied Health Literature (CINAHL), on 31 July 2020. We also searched clinical trials databases and the reference lists of retrieved articles for randomized controlled trials (RCTs) and quasi‐RCTs. 
+Selection criteria
+We included RCTs and quasi‐RCTs that compared indomethacin (any dose, any route) versus placebo or no treatment in preterm infants. 
+Data collection and analysis
+We used the standard methods of Cochrane Neonatal, with separate evaluation of trial quality and data extraction by at least two review authors. We used the GRADE approach to assess the certainty of evidence for the following outcomes: failure of PDA closure within one week of administration of the first dose of indomethacin; bronchopulmonary dysplasia (BPD) at 28 days' postnatal age and at 36 weeks' postmenstrual age; proportion of infants requiring surgical ligation or transcatheter occlusion; all‐cause neonatal mortality; necrotizing enterocolitis (NEC) (≥ Bell stage 2); and mucocutaneous or gastrointestinal bleeding. 

@@ -1,0 +1,13 @@
+Background
+Temporomandibular disorders (TMDs) are a group of musculoskeletal disorders affecting the jaw. They are frequently associated with pain that can be difficult to manage and may become persistent (chronic). Psychological therapies aim to support people with TMDs to manage their pain, leading to reduced pain, disability and distress. 
+Objectives
+To assess the effects of psychological therapies in people (aged 12 years and over) with painful TMD lasting 3 months or longer. 
+Search methods
+Cochrane Oral Health's Information Specialist searched six bibliographic databases up to 21 October 2021 and used additional search methods to identify published, unpublished and ongoing studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) of any psychological therapy (e.g. cognitive behaviour therapy (CBT), behaviour therapy (BT), acceptance and commitment therapy (ACT), mindfulness) for the management of painful TMD. We compared these against control or alternative treatment (e.g. oral appliance, medication, physiotherapy). 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We reported outcome data immediately after treatment and at the longest available follow‐up. 
+We used the Cochrane RoB 1 tool to assess the risk of bias in included studies. Two review authors independently assessed each included study for any risk of bias in sequence generation, allocation concealment, blinding of outcome assessors, incomplete outcome data, selective reporting of outcomes, and other issues. We judged the certainty of the evidence for each key comparison and outcome as high, moderate, low or very low according to GRADE criteria. 
+Main results
+We identified 22 RCTs (2001 participants), carried out between 1967 and 2021. We were able to include 12 of these studies in meta‐analyses. The risk of bias was high across studies, and we judged the certainty of the evidence to be low to very low overall; further research may change the findings. Our key outcomes of interest were: pain intensity, disability caused by pain, adverse events and psychological distress. Treatments varied in length, with the shortest being 4 weeks. The follow‐up time ranged from 3 months to 12 months. Most studies evaluated CBT.   

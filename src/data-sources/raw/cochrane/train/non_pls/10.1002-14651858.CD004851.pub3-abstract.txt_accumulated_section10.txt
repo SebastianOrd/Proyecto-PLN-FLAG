@@ -1,0 +1,10 @@
+Background
+Depressive disorders are common in young people and are associated with significant negative impacts. Newer generation antidepressants, particularly selective serotonin reuptake inhibitors (SSRIs), are often used, however evidence of their effectiveness in children and adolescents is not clear. Furthermore, there have been warnings against their use in this population due to concerns about increased risk of suicidal ideation and behaviour. 
+Objectives
+To determine the efficacy and adverse outcomes, including definitive suicidal behaviour and suicidal ideation, of newer generation antidepressants compared with placebo in the treatment of depressive disorders in children and adolescents. 
+Search methods
+For this update of the review, we searched the Cochrane Depression, Anxiety and Neurosis Review Group's Specialised Register (CCDANCTR) to October 2011. The CCDANCTR includes relevant randomised controlled trials from the following bibliographic databases: CENTRAL (the Cochrane Central Register of Controlled Trials) (all years), EMBASE (1974 ‐), MEDLINE (1950 ‐) and PsycINFO (1967 ‐). We searched clinical trial registries and pharmaceutical company websites. We checked reference lists of included trials and other reviews, and sent letters to key researchers and the pharmaceutical companies of included trials from January to August 2011. 
+Selection criteria
+Published and unpublished randomised controlled trials (RCTs), cross‐over trials and cluster trials comparing a newer generation antidepressant with a placebo in children and adolescents aged 6 to 18 years old and diagnosed with a depressive disorder were eligible for inclusion. In this update, we amended the selection criteria to include newer generation antidepressants rather than SSRIs only. 
+Data collection and analysis
+Two or three review authors selected the trials, assessed their quality, and extracted trial and outcome data. We used a random‐effects meta‐analysis. We used risk ratio (RR) to summarise dichotomous outcomes and mean difference (MD) to summarise continuous measures. 

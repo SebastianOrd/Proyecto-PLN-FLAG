@@ -1,0 +1,12 @@
+Background
+Epithelial ovarian cancer presents at an advanced stage in the majority of women. These women require a combination of surgery and chemotherapy for optimal treatment. Conventional treatment has been to perform surgery first and then give chemotherapy. However, there may be advantages to using chemotherapy before surgery. 
+Objectives
+To assess whether there is an advantage to treating women with advanced epithelial ovarian cancer with chemotherapy before debulking surgery (neoadjuvant chemotherapy (NACT)) compared with conventional treatment where chemotherapy follows debulking surgery (primary debulking surgery (PDS)). 
+Search methods
+We searched the following databases up to 9 October 2020: the Cochrane Central Register of Controlled Trials (CENTRAL), Embase via Ovid, MEDLINE (Silver Platter/Ovid), PDQ and MetaRegister. We also checked the reference lists of relevant papers that were identified to search for further studies. The main investigators of relevant trials were contacted for further information. 
+Selection criteria
+Randomised controlled trials (RCTs) of women with advanced epithelial ovarian cancer (Federation of International Gynaecologists and Obstetricians (FIGO) stage III/IV) who were randomly allocated to treatment groups that compared platinum‐based chemotherapy before cytoreductive surgery with platinum‐based chemotherapy following cytoreductive surgery. 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias in each included trial. We extracted data of overall (OS) and progression‐free survival (PFS), adverse events, surgically‐related mortality and morbidity and quality of life outcomes.  We used GRADE methods to determine the certainty of evidence. 
+Main results
+We identified 2227 titles and abstracts through our searches, of which five RCTs of varying quality and size met the inclusion criteria. These studies assessed a total of 1774 women with stage IIIc/IV ovarian cancer randomised to NACT followed by interval debulking surgery (IDS) or PDS followed by chemotherapy. We pooled results of the four studies where data were available and found little or no difference with regard to overall survival (OS) (Hazard Ratio (HR) 0.96, 95% CI 0.86 to 1.08; participants = 1692; studies = 4; high‐certainty evidence) or progression‐free survival in four trials where we were able to pool data (Hazard Ratio 0.98, 95% CI 0.88 to 1.08; participants = 1692; studies = 4; moderate‐certainty evidence). 

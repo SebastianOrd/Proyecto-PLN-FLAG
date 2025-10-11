@@ -1,0 +1,11 @@
+Background
+Attention deficit hyperactivity disorder (ADHD) is a prevalent neurobiological condition, characterised by behavioral and cognitive symptoms such as inattention, impulsivity and/or excessive activity. The syndrome is commonly accompanied by psychiatric comorbidities and is associated with educational and occupational underachievement. 
+Although psychostimulant medications are the mainstay of treatment for ADHD, not all adults respond optimally to, or can tolerate, these medicines. Thus, alternative non‐stimulant treatment approaches for ADHD have been explored. One of these alternatives is bupropion, an aminoketone antidepressant and non‐competitive antagonism of nicotinic acetylcholine receptors. Bupropion is registered for the treatment of depression and smoking cessation, but is also used off‐label to treat ADHD. 
+Objectives
+To assess the effects and safety of bupropion for the treatment of adults with ADHD.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, and seven other databases in February 2017. We also searched three trials registers and three online theses portals. In addition, we checked references of included studies and contacted study authors to identify potentially relevant studies that were missed by our search. 
+Selection criteria
+We included all randomised controlled trials (RCTs) that evaluated the effects (including adverse effects) of bupropion compared to placebo in adults with ADHD. 
+Data collection and analysis
+Two review authors (WV, GB) independently screened records and extracted data using a data extraction sheet that we tested in a pilot study. We extracted all relevant data on study characteristics and results. We assessed risks of bias using the Cochrane 'Risk of bias' tool, and assessed the overall quality of evidence using the GRADE approach. We used a fixed‐effect model to pool the results across studies. 

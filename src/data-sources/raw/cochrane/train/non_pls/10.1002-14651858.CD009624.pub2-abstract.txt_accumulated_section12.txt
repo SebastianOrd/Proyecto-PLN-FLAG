@@ -1,0 +1,12 @@
+Background
+Erythropoiesis‐stimulating agents (ESAs) are commonly used to treat chemotherapy‐induced anemia (CIA). However, about half of patients do not benefit. 
+Objectives
+To evaluate the benefits and harms related to the use of iron as a supplement to ESA and iron alone compared with ESA alone in the management of CIA. 
+Search methods
+We searched for relevant trials from the Cochrane Central Register of Controlled Trials (CENTRAL) (issue 1 January 2016), MEDLINE (1950 to February 2016), and www.clinicaltrials.gov without using any language limits. 
+Selection criteria
+All randomized controlled trials (RCTs) comparing 'iron plus ESA' or 'iron alone' versus 'ESA alone' in people with CIA were eligible for inclusion. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included eight RCTs (12 comparisons) comparing ESA plus iron versus ESA alone enrolling 2087 participants. We did not find any trial comparing iron alone versus ESAs alone in people with CIA. None of the included RCTs reported overall survival. There was a beneficial effect of iron supplementation to ESAs compared with ESAs alone on hematopoietic response (risk ratio (RR) 1.17, 95% confidence interval (CI) 1.09 to 1.26; P < 0.0001; 1712 participants; 11 comparisons; high‐quality evidence). Assuming a baseline risk of 35% to 80% for hematopoietic response without iron supplementation, between seven and 16 patients should be treated to achieve hematopoietic response in one patient. In subgroup analyses, RCTs that used intravenous (IV) iron favored ESAs and iron (RR 1.20 (95% CI 1.10 to 1.31); P < 0.00001; 1321 participants; eight comparisons), whereas we found no evidence for a difference in hematopoietic response in RCTs using oral iron (RR 1.04 (95% CI 0.87 to 1.24); P = 0.68; 391 participants; three comparisons). There was no evidence for a difference between the subgroups of IV and oral iron (P = 0.16). There was no evidence for a difference between the subgroups of types of iron (P = 0.31) and types of ESAs (P = 0.16) for hematopoietic response. 

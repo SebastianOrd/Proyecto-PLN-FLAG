@@ -1,0 +1,10 @@
+Background
+Asthma is defined as the presence of variable airflow obstruction with symptoms (more than one of wheeze, breathlessness, chest tightness, cough). It is becoming increasingly common worldwide and this is especially true in higher income countries. In several of these countries there has been a move towards delivery of asthma care via primary care based asthma clinics. Such clinics deliver proactive asthma care sited within primary care, via regular, dedicated sessions which are usually nurse led and doctor supported. They include organised recall of patients on an asthma register and care usually comprises education, symptom review and guideline‐based management. Despite the proliferation of such clinics, especially in countries such as the United Kingdom (UK), there is a paucity of evidence to support their use. This review sets out to look at the evidence for the effectiveness of asthma clinics. 
+Objectives
+To determine the effectiveness of organised asthma care delivered via primary care based asthma clinics. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register of trials (last search December 2011) and reviewed reference lists of all primary studies for additional references. 
+Selection criteria
+We included randomised controlled trials of primary care based asthma clinics with a parallel group design, where clinics took place within dedicated time slots and included face‐to‐face interaction with doctor or nurse and control groups received usual clinical practice care by a general practitioner. 
+Data collection and analysis
+Two review authors independently assessed the trials for inclusion and conducted all data extraction and analysis. All disagreements were resolved by discussion. 

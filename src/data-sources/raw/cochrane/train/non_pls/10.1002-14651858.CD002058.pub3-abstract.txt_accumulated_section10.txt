@@ -1,0 +1,10 @@
+Background
+Bronchopulmonary dysplasia (BPD) remains an important cause of mortality and morbidity in preterm infants and inflammation plays a significant role in its pathogenesis. The use of inhaled corticosteroids may modulate the inflammatory process without concomitant high systemic steroid concentrations and less risk of adverse effects. This is an update of a review published in 2012 (Shah 2012). We recently updated the related review on "Inhaled versus systemic corticosteroids for treating bronchopulmonary dysplasia in ventilated very low birth weight preterm neonates". 
+Objectives
+To determine the effect of inhaled versus systemic corticosteroids started within the first 7 days of life on preventing death or BPD in ventilated very low birth weight infants. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2017, Issue 1), MEDLINE via PubMed (1966 to 23 February 2017), Embase (1980 to 23 February 2017), and CINAHL (1982 to 23 February 2017). We searched clinical trials registers, conference proceedings and the reference lists of retrieved articles for randomised controlled trials (RCTs) and quasi‐randomised trials. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials comparing inhaled versus systemic corticosteroid therapy (irrespective of dose and duration) starting in the first seven days of life in very low birth weight preterm infants receiving assisted ventilation. 
+Data collection and analysis
+Clinical outcomes data were extracted and analysed using Review Manager. When appropriate, meta‐analysis was performed using typical relative risk (RR), typical risk difference (RD) and weighted mean difference (WMD). Meta‐analyses were performed using typical relative risk, typical risk difference (RD), and weighted mean difference with their 95% confidence intervals (CI). If RD was statistically significant, the number needed to benefit or the number needed to harm was calculated. We assessed the quality of evidence was evaluated using GRADE principles. 

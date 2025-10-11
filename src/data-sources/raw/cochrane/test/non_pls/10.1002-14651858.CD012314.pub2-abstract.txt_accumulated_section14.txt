@@ -1,0 +1,14 @@
+Background
+Diabetic retinopathy (DR) is a chronic progressive disease of the retinal microvasculature associated with prolonged hyperglycaemia. Proliferative DR (PDR) is a sight‐threatening complication of DR and is characterised by the development of abnormal new vessels in the retina, optic nerve head or anterior segment of the eye. Argon laser photocoagulation has been the gold standard for the treatment of PDR for many years, using regimens evaluated by the Early Treatment of Diabetic Retinopathy Study (ETDRS). Over the years, there have been modifications of the technique and introduction of new laser technologies. 
+Objectives
+To assess the effects of different types of laser, other than argon laser, and different laser protocols, other than those established by the ETDRS, for the treatment of PDR. We compared different wavelengths; power and pulse duration; pattern, number and location of burns versus standard argon laser undertaken as specified by the ETDRS. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2017, Issue 5); Ovid MEDLINE; Ovid Embase; LILACS; the ISRCTN registry; ClinicalTrials.gov and the ICTRP. The date of the search was 8 June 2017. 
+Selection criteria
+We included randomised controlled trials (RCTs) of pan‐retinal photocoagulation (PRP) using standard argon laser for treatment of PDR compared with any other laser modality. We excluded studies of lasers that are not in common use, such as the xenon arc, ruby or Krypton laser. 
+Data collection and analysis
+We followed Cochrane guidelines and graded the certainty of evidence using the GRADE approach. 
+Main results
+We identified 11 studies from Europe (6), the USA (2), the Middle East (1) and Asia (2). Five studies compared different types of laser to argon: Nd:YAG (2 studies) or diode (3 studies). Other studies compared modifications to the standard argon laser PRP technique. The studies were poorly reported and we judged all to be at high risk of bias in at least one domain. The sample size varied from 20 to 270 eyes but the majority included 50 participants or fewer. 
+Nd:YAG versus argon laser (2 studies): very low‐certainty evidence on vision loss, vision gain, progression and regression of PDR, pain during laser treatment and adverse effects. 
+Diode versus argon laser (3 studies): very‐low certainty evidence on vision loss, vision gain, progression and regression of PDR and adverse effects; moderate‐certainty evidence that diode laser was more painful (risk ratio (RR) troublesome pain during laser treatment (RR 3.12, 95% CI 2.16 to 4.51; eyes = 202; studies = 3; I2 = 0%). 

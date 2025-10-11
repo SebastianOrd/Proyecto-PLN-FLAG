@@ -1,0 +1,14 @@
+Background
+Allogeneic haematopoietic stem cell transplantation (allo‐HSCT) is an established treatment option for many malignant and non‐malignant disorders. In the past two decades, peripheral blood stem cells replaced bone marrow as stem cell source due to faster engraftment and practicability. Previous meta‐analyses analysed patients treated from 1990 to 2002 and demonstrated no impact of the stem cell source on overall survival, but a greater risk for graft‐versus‐host disease (GvHD) in peripheral blood transplants. As transplant indications and conditioning regimens continue to change, whether the choice of the stem cell source has an impact on transplant outcomes remains to be determined. 
+Objectives
+To assess the effect of bone marrow versus peripheral blood stem cell transplantation in adult patients with haematological malignancies with regard to overall survival, incidence of relapse and non‐relapse mortality, disease‐free survival, transplant‐related mortality, incidence of GvHD and time to engraftment. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 1), MEDLINE (from 1948 to February 2014), trial registries and conference proceedings. The search was conducted in October 2011 and was last updated in February 2014. We did not apply any language restrictions. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing bone marrow and peripheral blood allogeneic stem cell transplantation in adults with haematological malignancies. 
+Data collection and analysis
+Two review authors screened abstracts and extracted and analysed data independently. We contacted study authors for additional information. We used the standard methodological procedures expected by The Cochrane Collaboration. 
+Main results
+We included nine RCTs that met the pre‐defined selection criteria, involving a total of 1521 participants. Quality of data reporting was heterogeneous among the studies. Overall, the risk of bias in the included studies was low. 
+For the primary outcome overall survival, our analysis demonstrated comparable results between bone marrow transplantation (BMT) and peripheral blood stem cell transplantation (PBSCT) (six studies, 1330 participants; hazard ratio (HR) 1.07; 95% CI 0.91 to 1.25; P value = 0.43; high‐quality evidence). 
+Disease‐free survival (six studies, 1225 participants; HR 1.04; 95% CI 0.89 to 1.21; P value = 0.6; moderate‐quality of evidence) and non‐relapse or transplant‐related mortality (three studies, 758 participants; HR 0.98; 95% CI 0.76 to 1.28; P = 0.91; high‐quality evidence) were also comparable between transplantation arms. 

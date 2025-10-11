@@ -1,0 +1,12 @@
+Background
+Poorly controlled asthma often leads to preventable exacerbations that require additional medications, as well as unscheduled hospital and clinic visits. 
+Long‐acting beta2‐agonists (LABA) are commonly given to adults with asthma whose symptoms are not well controlled by inhaled corticosteroids (ICS). US and UK regulators have issued warnings for LABA in asthma, and now recommend they be used "for the shortest duration of time required to achieve control of asthma symptoms and discontinued, if possible, once asthma control is achieved". 
+Objectives
+To compare cessation of long‐acting beta2‐agonists (LABA) versus continued use of LABA/inhaled corticosteroids (LABA/ICS) for adults whose asthma is well controlled, and to determine whether stopping LABA: 
+1. results in loss of asthma control or deterioration in quality of life; 2. increases the likelihood of asthma attacks or 'exacerbations'; or 3. increases or decreases the likelihood of serious adverse events of any cause. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register (CAGR), www.ClinicalTrials.gov, www.who.int/ictrp/en/, reference lists of primary studies and existing reviews and manufacturers' trial registries (GlaxoSmithKline (GSK) and AstraZeneca). We searched all databases from their inception to April 2015, and we imposed no restriction on language of publication. 
+Selection criteria
+We looked for parallel randomised controlled trials (RCTs) of at least eight weeks' duration, in which adults whose asthma was well controlled by any dose of ICS+LABA combination therapy were randomly assigned to (1) step‐down therapy to ICS alone versus (2) continuation of ICS and LABA. 
+Data collection and analysis
+Two review authors independently screened all records identified by the search strategy. We used an Excel extraction tool to manage searches, document reasons for inclusion and exclusion and extract descriptive and numerical data from trials meeting inclusion criteria. 

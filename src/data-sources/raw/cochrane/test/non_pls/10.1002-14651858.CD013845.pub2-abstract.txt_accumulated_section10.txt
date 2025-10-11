@@ -1,0 +1,10 @@
+Background
+Autism spectrum disorder (ASD; also known as autism) is a developmental disability that begins in childhood and is typically seen in around 1% to 2% of children. It is characterised by social communication difficulties and repetitive and restricted behaviours and routines that can have a negative impact on a child's quality of life, achievement at school, and social interactions with others. It has been hypothesised that memantine, which is traditionally used to treat dementia, may be effective in reducing the core symptoms of autism as well as some co‐occurring symptoms such as hyperactivity and language difficulties. If memantine is being used to treat the core symptoms of autism, it is important to review the evidence of its effectiveness. 
+Objectives
+To assess the effects of memantine on the core symptoms of autism, including, but not limited to, social communication and stereotypical behaviours. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, nine other databases and three trials registers up to February 2022. We also checked reference lists of key studies and checked with experts in the field for any additional papers. We searched for retractions of the included studies in MEDLINE, Embase, and the Retraction Watch Database. No retractions or corrections were found. 
+Selection criteria
+We included randomised controlled trials (RCTs) of any dose of memantine compared with placebo in autistic people. We also included RCTs in which only one group received memantine, but both groups received the same additional therapy (e.g. a behaviour intervention). 
+Data collection and analysis
+We used standard Cochrane methods. Our primary outcomes were core autism symptoms and adverse effects. Secondary outcomes were language, intelligence, memory, adaptive behaviour, hyperactivity, and irritability. We used GRADE to assess certainty of evidence. 

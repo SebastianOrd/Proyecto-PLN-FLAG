@@ -1,0 +1,10 @@
+Background
+Lidocaine, mexiletine, tocainide, and flecainide are local anesthetics which give an analgesic effect when administered orally or parenterally. Early reports described the use of intravenous lidocaine or procaine to relieve cancer and postoperative pain. Interest reappeared decades later when patient series and clinical trials reported that parenteral lidocaine and its oral analogs tocainide, mexiletine, and flecainide relieved neuropathic pain in some patients. With the recent publication of clinical trials with high quality standards, we have reviewed the use of systemic lidocaine and its oral analogs in neuropathic pain to update our knowledge, to measure their benefit and harm, and to better define their role in therapy. 
+Objectives
+To evaluate pain relief and adverse effect rates between systemic local anesthetic‐type drugs and other control interventions. 
+Search methods
+We searched MEDLINE (1966 through 15 May 2004), EMBASE (January 1980 to December 2002), Cancer Lit (through 15 December 2002), Cochrane Central Register of Controlled Trials (2nd Quarter, 2004), System for Information on Grey Literature in Europe (SIGLE), and LILACS, from January 1966 through March 2001. We also hand searched conference proceedings, textbooks, original articles and reviews. 
+Selection criteria
+We included trials with random allocation, that were double blinded, with a parallel or crossover design. The control intervention was a placebo or an analgesic drug for neuropathic pain from any cause. 
+Data collection and analysis
+We collected efficacy and safety data from all published and unpublished trials. We calculated combined effect sizes using continuous and binary data for pain relief and adverse effects as primary and secondary outcome measurements, respectively. 

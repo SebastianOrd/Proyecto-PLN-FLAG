@@ -1,0 +1,11 @@
+Background
+Approximately one‐fifth of all subfertile couples seeking fertility treatment show clinically relevant levels of anxiety, depression, or distress. Psychological and educational interventions are frequently offered to subfertile couples, but their effectiveness, both in improving mental health and pregnancy rates, is unclear. 
+Objectives
+To assess the effectiveness of psychological and educational interventions for subfertile couples on psychological and fertility treatment outcomes. 
+Search methods
+We searched (from inception to 2 April 2015) the Cochrane Gynaecology and Fertility Group Specialised Register of Controlled Trials, the Cochrane Central Register of Controlled Trials (CENTRAL; Issue 2, 2015), MEDLINE, EMBASE, PsycINFO, EBSCO CINAHL, DARE, Web of Science, OpenGrey, LILACS, PubMed, and ongoing trials registers. We handsearched reference lists and contacted experts in the field. 
+Selection criteria
+We included published and unpublished randomised controlled trials (RCTs), cluster randomised trials, and cross‐over trials (first phase) evaluating the effectiveness of psychological and educational interventions on psychological and fertility treatment outcomes in subfertile couples. 
+Data collection and analysis
+Two review authors independently assessed trial risk of bias and extracted data. We contacted study authors for additional information. Our primary outcomes were psychological measures (anxiety and depression) and fertility rates (live birth or ongoing pregnancy). We assessed the overall quality of the evidence using GRADE criteria. 
+As we did not consider the included studies to be sufficiently similar to permit meaningful pooling, we summarised the results of the individual studies by presenting the median and interquartile range (IQR) of effects as well as the minimum and maximum values. We calculated standardised mean differences (SMDs) for continuous variables and odds ratios (ORs) for dichotomous outcomes. 

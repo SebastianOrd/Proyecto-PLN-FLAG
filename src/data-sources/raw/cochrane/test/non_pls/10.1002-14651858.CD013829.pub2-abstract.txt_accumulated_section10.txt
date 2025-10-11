@@ -1,0 +1,10 @@
+Background
+Lung cancer is the most common cause of cancer‐related death in the world, however lung cancer screening has not been implemented in most countries at a population level. A previous Cochrane Review found limited evidence for the effectiveness of lung cancer screening with chest radiography (CXR) or sputum cytology in reducing lung cancer‐related mortality, however there has been increasing evidence supporting screening with low‐dose computed tomography (LDCT).  
+Objectives
+To determine whether screening for lung cancer using LDCT of the chest reduces lung cancer‐related mortality and to evaluate the possible harms of LDCT screening. 
+Search methods
+We performed the search in collaboration with the Information Specialist of the Cochrane Lung Cancer Group and included the Cochrane Lung Cancer Group Trial Register, Cochrane Central Register of Controlled Trials (CENTRAL, the Cochrane Library, current issue), MEDLINE (accessed via PubMed) and Embase in our search. We also searched the clinical trial registries to identify unpublished and ongoing trials. We did not impose any restriction on language of publication. The search was performed up to 31 July 2021.  
+Selection criteria
+Randomised controlled trials (RCTs) of lung cancer screening using LDCT and reporting mortality or harm outcomes.  
+Data collection and analysis
+Two review authors were involved in independently assessing trials for eligibility, extraction of trial data and characteristics, and assessing risk of bias of the included trials using the Cochrane RoB 1 tool. We assessed the certainty of evidence using GRADE. Primary outcomes were lung cancer‐related mortality and harms of screening. We performed a meta‐analysis, where appropriate, for all outcomes using a random‐effects model. We only included trials in the analysis of mortality outcomes if they had at least 5 years of follow‐up. We reported risk ratios (RRs) and hazard ratios (HRs), with 95% confidence intervals (CIs) and used the I2 statistic to investigate heterogeneity.  

@@ -1,0 +1,12 @@
+Background
+The prevalence of type 2 diabetes is increased in individuals with mental disorders. Much of the burden of disease falls on the populations of low‐ and middle‐income countries (LMICs). 
+Objectives
+To assess the effects of pharmacological, behaviour change, and organisational interventions versus active and non‐active comparators in the prevention or delay of type 2 diabetes among people with mental illness in LMICs. 
+Search methods
+We searched the Cochrane Common Mental Disorders Controlled Trials Register, CENTRAL, MEDLINE, Embase and six other databases, as well as three international trials registries. We also searched conference proceedings and checked the reference lists of relevant systematic reviews. Searches are current up to 20 February 2020. 
+Selection criteria
+Randomized controlled trials (RCTs) of pharmacological, behavioural or organisational interventions targeting the prevention or delay of type 2 diabetes in adults with mental disorders in LMICs. 
+Data collection and analysis
+Pairs of review authors working independently performed data extraction and risk of bias assessments. We conducted meta‐analyses using random‐effects models. 
+Main results
+One hospital‐based RCT with 150 participants (99 participants with schizophrenia) addressed our review's primary outcome of prevention or delay of type 2 diabetes onset. Low‐certainty evidence from this study did not show a difference between atypical and typical antipsychotics in the development of diabetes at six weeks (risk ratio (RR) 0.46, 95% confidence interval (CI) 0.03 to 7.05) (among a total 99 participants with schizophrenia, 68 were in atypical and 31 were in typical antipsychotic groups; 55 participants without mental illness were not considered in the analysis). 

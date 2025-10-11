@@ -1,0 +1,14 @@
+Background
+Shared decision making (SDM) is a process by which a healthcare choice is made by the patient, significant others, or both with one or more healthcare professionals. However, it has not yet been widely adopted in practice. This is the second update of this Cochrane review. 
+Objectives
+To determine the effectiveness of interventions for increasing the use of SDM by healthcare professionals. We considered interventions targeting patients, interventions targeting healthcare professionals, and interventions targeting both. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and five other databases on 15 June 2017. We also searched two clinical trials registries and proceedings of relevant conferences. We checked reference lists and contacted study authors to identify additional studies. 
+Selection criteria
+Randomized and non‐randomized trials, controlled before‐after studies and interrupted time series studies evaluating interventions for increasing the use of SDM in which the primary outcomes were evaluated using observer‐based or patient‐reported measures. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+We used GRADE to assess the certainty of the evidence.
+Main results
+We included 87 studies (45,641 patients and 3113 healthcare professionals) conducted mainly in the USA, Germany, Canada and the Netherlands. Risk of bias was high or unclear for protection against contamination, low for differences in the baseline characteristics of patients, and unclear for other domains. 
+Forty‐four studies evaluated interventions targeting patients. They included decision aids, patient activation, question prompt lists and training for patients among others and were administered alone (single intervention) or in combination (multifaceted intervention). The certainty of the evidence was very low. It is uncertain if interventions targeting patients when compared with usual care increase SDM whether measured by observation (standardized mean difference (SMD) 0.54, 95% confidence interval (CI) ‐0.13 to 1.22; 4 studies; N = 424) or reported by patients (SMD 0.32, 95% CI 0.16 to 0.48; 9 studies; N = 1386; risk difference (RD) ‐0.09, 95% CI ‐0.19 to 0.01; 6 studies; N = 754), reduce decision regret (SMD ‐0.10, 95% CI ‐0.39 to 0.19; 1 study; N = 212), improve physical (SMD 0.00, 95% CI ‐0.36 to 0.36; 1 study; N = 116) or mental health‐related quality of life (QOL) (SMD 0.10, 95% CI ‐0.26 to 0.46; 1 study; N = 116), affect consultation length (SMD 0.10, 95% CI ‐0.39 to 0.58; 2 studies; N = 224) or cost (SMD 0.82, 95% CI 0.42 to 1.22; 1 study; N = 105). 

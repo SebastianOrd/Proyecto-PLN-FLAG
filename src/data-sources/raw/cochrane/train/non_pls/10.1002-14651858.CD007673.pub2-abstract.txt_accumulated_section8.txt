@@ -1,0 +1,8 @@
+Background
+The emigration of skilled professionals from low‐ and middle‐income countries (LMICs) to high‐income countries (HICs) is a general phenomenon but poses particular challenges in health care, where it contributes to human resource shortages in the health systems of poorer countries. However, little is known about the effects of strategies to help regulate this movement. 
+Objectives
+To assess the effects of policy interventions to regulate emigration of health professionals from LMICs. 
+Search methods
+We searched the Cochrane Effective Practice and Organisation of Care (EPOC) Group Specialised Register (searched 15 March 2011), the Cochrane Register of Controlled Trials (CENTRAL) (searched 2 March 2011), MEDLINE (searched 5 March 2011), EMBASE (searched 2 March 2011), CINAHL (searched 5 March 2011), LILACS (searched 7 March 2011), WHOLIS (searched 20 March 2011), SocINDEX (searched 11 March 2011), EconLit (searched 8 March 2011), Science and Social Science Citation Index (searched 8 March 2011), NLM Gateway (searched 31 March 2011) and ERIC (searched March 3 2011). We reviewed reference lists of included studies and selected reviews on the topic, contacted authors of included studies and experts on the field, and reviewed relevant websites. 
+Selection criteria
+Randomised controlled trials (RCT), non‐randomised controlled trials (NRCT), controlled before‐and‐after studies (CBA) and interrupted time series (ITS) studies assessing any intervention in the source, the recipient or both countries that could have an impact on the number of professionals that emigrate from a LMIC. Health professionals, such as physicians, dentists, nurses or midwives, should be nationals of a LMIC whose graduate training was in a LMIC. 

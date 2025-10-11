@@ -1,0 +1,12 @@
+Background
+Peripheral nerve blocks can be performed using ultrasound guidance. It is not yet clear whether this method of nerve location has benefits over other existing methods. This review was originally published in 2009 and was updated in 2014. 
+Objectives
+The objective of this review was to assess whether the use of ultrasound to guide peripheral nerve blockade has any advantages over other methods of peripheral nerve location. Specifically, we have asked whether the use of ultrasound guidance: 
+1. improves success rates and effectiveness of regional anaesthetic blocks, by increasing the number of blocks that are assessed as adequate 
+2. reduces the complications, such as cardiorespiratory arrest, pneumothorax or vascular puncture, associated with the performance of regional anaesthetic blocks 
+Search methods
+In the 2014 update we searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2014, Issue 8); MEDLINE (July 2008 to August 2014); EMBASE (July 2008 to August 2014); ISI Web of Science (2008 to April 2013); CINAHL (July 2014); and LILACS (July 2008 to August 2014). We completed forward and backward citation and clinical trials register searches.The original search was to July 2008. We reran the search in May 2015. We have added 11 potential new studies of interest to the list of 'Studies awaiting classification' and will incorporate them into the formal review findings during future review updates. 
+Selection criteria
+We included randomized controlled trials (RCTs) comparing ultrasound‐guided peripheral nerve block of the upper and lower limbs, alone or combined, with at least one other method of nerve location.  In the 2014 update, we excluded studies that had given general anaesthetic, spinal, epidural or other nerve blocks to all participants, as well as those measuring the minimum effective dose of anaesthetic drug. This resulted in the exclusion of five studies from the original review. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We used standard Cochrane methodological procedures, including an assessment of risk of bias and degree of practitioner experience for all studies. 

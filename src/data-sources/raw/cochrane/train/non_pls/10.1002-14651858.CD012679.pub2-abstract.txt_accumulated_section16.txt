@@ -1,0 +1,16 @@
+Background
+Stroke can affect people’s ability to swallow, resulting in passage of some food and drink into the airway. This can cause choking, chest infection, malnutrition and dehydration, reduced rehabilitation, increased risk of anxiety and depression, longer hospital stay, increased likelihood of discharge to a care home, and increased risk of death. Early identification and management of disordered swallowing reduces risk of these difficulties. 
+Objectives
+Primary objective 
+• To determine the diagnostic accuracy and the sensitivity and specificity of bedside screening tests for detecting risk of aspiration associated with dysphagia in people with acute stroke 
+Secondary objectives 
+• To assess the influence of the following sources of heterogeneity on the diagnostic accuracy of bedside screening tools for dysphagia 
+‐ Patient demographics (e.g. age, gender)
+‐ Time post stroke that the study was conducted (from admission to 48 hours) to ensure only hyperacute and acute stroke swallow screening tools are identified 
+‐ Definition of dysphagia used by the study
+‐ Level of training of nursing staff (both grade and training in the screening tool)
+‐ Low‐quality studies identified from the methodological quality checklist
+‐ Type and threshold of index test
+‐ Type of reference test
+Search methods
+In June 2017 and December 2019, we searched CENTRAL, MEDLINE, Embase, CINAHL, and the Health Technology Assessment (HTA) database via the Centre for Reviews and Dissemination; the reference lists of included studies; and grey literature sources. We contacted experts in the field to identify any ongoing studies and those potentially missed by the search strategy. 

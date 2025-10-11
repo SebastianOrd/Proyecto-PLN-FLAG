@@ -1,0 +1,13 @@
+Background
+Low cost, non‐invasive alterations in lifestyle are frequently recommended by healthcare professionals or those presenting with incontinence. However, such recommendations are rarely based on good evidence. 
+Objectives
+The objective of the review was to determine the effectiveness of specific lifestyle interventions (i.e. weight loss; dietary changes; fluid intake; reduction in caffeinated, carbonated and alcoholic drinks; avoidance of constipation; stopping smoking; and physical activity) in the management of adult urinary incontinence. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and MEDLINE in process, and handsearching of journals and conference proceedings (searched 3 July 2013), and the reference lists of relevant articles. We incorporated the results of these searches fully in the review. We undertook an updated search of the Specialised Register, which now includes searches of ClinicalTrials.gov and WHO ICTRP, on 27 October 2014; potentially eligible studies from this search are currently awaiting classification. 
+Selection criteria
+Randomised and quasi‐randomised studies of community‐based lifestyle interventions compared with no treatment, other conservative therapies, or pharmacological interventions for the treatment of urinary incontinence in adults. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. We collected information on adverse effects from the trials. Data were combined in a meta‐analysis when appropriate. We assessed the quality of the evidence using the GRADE approach. 
+Main results
+We included 11 trials in the review, involving a total of 5974 participants.
+Four trials involving 4701 women compared weight loss programmes with a control intervention. Low quality evidence from one trial suggested that more women following weight loss programmes reported improvement in symptoms of incontinence at six months (163/214 (76%) versus 49/90 (54%), risk ratio (RR) 1.40, 95% confidence interval (CI) 1.14 to 1.71), and this effect was sustained at 18 months (N = 291, 75% versus 62%, RR not estimable, reported P value 0.02). No data were available for self‐reported cure and quality of life. One of the weight loss trials involving 1296 women reported very low quality evidence for a reduction in weekly urinary incontinence a mean of 2.8 years after following a lifestyle weight loss intervention that had been compared with a pharmacological weight loss intervention. 

@@ -1,0 +1,10 @@
+Background
+Cardiovascular disease (CVD) is the major cause of mortality worldwide. Coronary artery disease (CAD) contributes to half of mortalities caused by CVD. The mainstay of management of CAD is medical therapy and revascularisation. Revascularisation can be achieved via coronary artery bypass grafting (CABG) or percutaneous coronary intervention (PCI). Peripheral arteries, such as the femoral or radial artery, provide the access to the coronary arteries to perform diagnostic or therapeutic (or both) procedures. 
+Objectives
+To assess the benefits and harms of the transradial compared to the transfemoral approach in people with CAD undergoing diagnostic coronary angiography (CA) or PCI (or both). 
+Search methods
+We searched the following databases for randomised controlled trials on 10 October 2017: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, and Web of Science Core Collection. We also searched ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform in August 2017. There were no language restrictions. Reference lists were also checked and we contacted authors of included studies for further information. 
+Selection criteria
+We included randomised controlled trials that compared transradial and transfemoral approaches in adults (18 years of age or older) undergoing diagnostic CA or PCI (or both) for CAD. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. At least two authors independently screened trials, extracted data, and assessed the risk of bias in the included studies. We contacted trial authors for missing information. We used risk ratio (RR) for dichotomous outcomes and mean difference (MD) or standardised mean difference (SMD) for continuous data, with their 95% confidence intervals (CIs). All analyses were checked by another author. 

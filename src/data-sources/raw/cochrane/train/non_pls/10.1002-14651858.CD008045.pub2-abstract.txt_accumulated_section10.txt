@@ -1,0 +1,10 @@
+Background
+Tracheostomy formation is one of the most commonly performed surgical procedures in critically ill intensive care participants requiring long‐term mechanical ventilation. Both surgical tracheostomies (STs) and percutaneous tracheostomies (PTs) are used in current surgical practice; but until now, the optimal method of performing tracheostomies in critically ill participants remains unclear. 
+Objectives
+We evaluated the effectiveness and safety of percutaneous techniques compared to surgical techniques commonly used for elective tracheostomy in critically ill participants (adults and children) to assess whether there was a difference in complication rates between the procedures. We also assessed whether the effect varied between different groups of participants or settings (intensive care unit (ICU), operating room), different levels of operator experience, different percutaneous techniques, or whether the percutaneous techniques were carried out with or without bronchoscopic guidance. 
+Search methods
+We searched the following electronic databases: CENTRAL, MEDLINE, EMBASE, and CINAHL to 28 May 2015. We also searched reference lists of articles, 'grey literature', and dissertations. We handsearched intensive care and anaesthesia journals, abstracts, and proceedings of scientific meetings. We attempted to identify unpublished or ongoing studies by contacting manufacturers and experts in the field, and searching in trial registers. 
+Selection criteria
+We included randomized and quasi‐randomized controlled trials (quasi‐RCTs) comparing percutaneous techniques (experimental intervention) with surgical techniques (control intervention) used for elective tracheostomy in critically ill participants (adults and children). 
+Data collection and analysis
+Three authors independently checked eligibility and extracted data on methodological quality, participant characteristics, intervention details, settings, and outcomes of interest using a standardized form. We then entered data into Review Manager 5, with a double‐entry procedure. 

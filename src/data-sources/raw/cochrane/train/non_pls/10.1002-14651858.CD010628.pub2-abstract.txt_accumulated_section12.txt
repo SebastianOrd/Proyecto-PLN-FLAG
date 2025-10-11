@@ -1,0 +1,12 @@
+Background
+Somatoform disorders are characterised by chronic, medically unexplained physical symptoms (MUPS). Although different medications are part of treatment routines for people with somatoform disorders in clinics and private practices, there exists no systematic review or meta‐analysis on the efficacy and tolerability of these medications. We aimed to synthesise to improve optimal treatment decisions. 
+Objectives
+To assess the effects of pharmacological interventions for somatoform disorders (specifically somatisation disorder, undifferentiated somatoform disorder, somatoform autonomic dysfunction, and pain disorder) in adults. 
+Search methods
+We searched the Cochrane Depression, Anxiety and Neurosis Review Group's Specialised Register (CCDANCTR) (to 17 January 2014). This register includes relevant randomised controlled trials (RCTs) from The Cochrane Library (all years), MEDLINE (1950 to date), EMBASE (1974 to date), and PsycINFO (1967 to date). To identify ongoing trials, we searched ClinicalTrials.gov, Current Controlled Trials metaRegister, the World Health Organization International Clinical Trials Registry Platform, and the Chinese Clinical Trials Registry. For grey literature, we searched ProQuest Dissertation & Theses Database, OpenGrey, and BIOSIS Previews. We handsearched conference proceedings and reference lists of potentially relevant papers and systematic reviews and contacted experts in the field. 
+Selection criteria
+We selected RCTs or cluster RCTs of pharmacological interventions versus placebo, treatment as usual, another medication, or a combination of different medications for somatoform disorders in adults. We included people fulfilling standardised diagnostic criteria for somatisation disorder, undifferentiated somatoform disorder, somatoform autonomic dysfunction, or somatoform pain disorder. 
+Data collection and analysis
+One review author and one research assistant independently extracted data and assessed risk of bias. Primary outcomes included the severity of MUPS on a continuous measure, and acceptability of treatment. 
+Main results
+We included 26 RCTs (33 reports), with 2159 participants, in the review. They examined the efficacy of different types of antidepressants, the combination of an antidepressant and an antipsychotic, antipsychotics alone, or natural products (NPs). The duration of the studies ranged between two and 12 weeks. 

@@ -1,0 +1,10 @@
+Background
+Vertebral artery stenosis (narrowing of the vertebral artery) is an important cause of posterior circulation ischaemic stroke. Medical treatment (MT) e.g. controlling risk‐factors and drug treatment, surgery, and endovascular treatment (ET) are the prevailing treatment strategies for symptomatic vertebral artery stenosis. ET consist s of percutaneous transluminal angioplasty (balloon catheter through the skin), with or without stenting. However, optimal management of people with symptomatic vertebral artery stenosis has not yet been established. 
+Objectives
+To assess the safety and efficacy of percutaneous transluminal angioplasty, with or without stenting, combined with MT, compared to MT alone, in people with episodes of cerebral ischaemia due to vertebral artery stenosis. 
+Search methods
+We searched the Cochrane Stroke Group, MEDLINE, Embase, BIOSIS, and two other indexes in Web of Science, China Biological Medicine Database, Chinese Science and Technique Journals Database, China National Knowledge Infrastructure and Wanfang Data, as well as ClinicalTrials.gov trials register and the World Health Organization (WHO) International Clinical Trials Registry Platform to 23 July 2021. 
+Selection criteria
+We included all randomised controlled trials (RCTs) that compared ET plus MT with MT alone in treating people aged 18 years or over with symptomatic vertebral artery stenosis. We included all types of ET modalities (e.g. angioplasty alone, balloon‐mounted stenting, and angioplasty followed by placement of a self‐expanding stent). MT included risk factor control, antiplatelet therapy, lipid‐lowering therapy, and individualised management for people with hypertension or diabetes. 
+Data collection and analysis
+Two review authors independently screened potentially eligible studies, extracted data, and assessed trial quality and risk of bias.  We applied the GRADE approach to assess the certainty of evidence. The primary outcomes were 30‐day post‐randomisation death/stroke (short‐term outcome) and fatal/non‐fatal stroke after 30 days post‐randomisation to completion of follow‐up (long‐term outcome).  

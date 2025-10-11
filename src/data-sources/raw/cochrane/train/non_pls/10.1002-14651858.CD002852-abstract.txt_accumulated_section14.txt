@@ -1,0 +1,14 @@
+Background
+Agitation occurs in up to 70% of demented patients. Haloperidol has been used for decades to control agitation in dementia, but its effectiveness remains unclear. Previous meta‐analyses examined only English language publications or compared haloperidol with other drugs rather than with placebo. To study the effectiveness of haloperidol a more widely based review was performed. 
+Objectives
+To determine whether evidence supported the use of haloperidol in agitated dementia.
+Search methods
+We searched ALOIS ‐ the Cochrane Dementia and Cognitive Improvement Group’s Specialized Register on 2 June 2010 using the term: haloperidol. 
+The search of June 2010 retrieved no studiies for inclusion and/or exclusion within the review. 
+The previous searches of July 2005 and January 2008 retrieved no new studies for inclusion.
+Selection criteria
+Randomized, placebo‐controlled trials, with concealed allocation, where subjects' dementia and agitation were assessed. 
+Data collection and analysis
+1. Two reviewers extracted data from included trials  2. Data were pooled where possible, and analysed using appropriate statistical methods  3. Odds ratios of average differences were calculated  4. Only 'intention to treat' data were included  5. Analysis included haloperidol treated patients, compared with placebo 
+Main results
+The five included trials led to the following results:  1. There was no significant improvement in agitation among haloperidol treated patients, compared with controls.  2. Aggression decreased among patients with agitated dementia treated with haloperidol; other aspects of agitation were not affected significantly in treated patients compared with controls.  3. Although two studies showed increased drop‐outs due to adverse effects among haloperidol patients, there was no significant difference in drop‐out rates, comparing all haloperidol treated patients with controls.  4. The data were insufficient to examine response to treatment in relation to length of treatment, degree of dementia, age or sex of patients, and cause of dementia. 

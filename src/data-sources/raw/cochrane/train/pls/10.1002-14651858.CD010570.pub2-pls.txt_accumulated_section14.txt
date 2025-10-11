@@ -1,0 +1,14 @@
+Should patients experiencing sudden cardiac death be cooled to lower their body temperature prior to or after admission to hospital? 
+Review question 
+We reviewed the current available evidence in order to answer the question of whether early cooling in people who receive basic life support for sudden cardiac death influences survival and brain damage compared to cooling that is started after their admission to hospital. Early cooling means the cooling of the person quickly by the ambulance staff, paramedics or doctors, in the field. We included seven studies meeting the Cochrane requirements in this review. 
+Background 
+Population 
+This review deals with people who receive basic life support for sudden cardiac death. Sudden cardiac death means that the heart and subsequently the circulation stops. If these people do not receive early cardiopulmonary resuscitation then their brain cells begin to be irreversibly damaged and subsequently they die. If basic life support is successful, one form of therapy that may help to prevent further cell damage is to cool the body for several hours to 32°C to 36°C. This therapy has been shown to be beneficial in reducing brain damage and is recommended in international guidelines for the treatment of people that have been brought back to life after sudden cardiac death. 
+Intervention 
+The optimal timing for the initiation of cooling is unclear. This review compares people who had their cooling therapy started before hospital admission to those who had their cooling therapy started after admission to a hospital. 
+Outcomes 
+The effects of the intervention were measured by survival and brain damage, together with side effects, quality of life, and length of hospital stay. 
+Search date 
+We completed the review searches in March 2015.
+Study characteristics 
+The seven studies included had a total of 2369 participants and compared the effects of cooling before and after being admitted to the hospital. The mean age of the participants in the studies was between 59 and 68 years with the majority being male. People that were not included in the trials were generally those with trauma, those with a terminal disease, those at the natural end of their life, pregnant women, and those that already had a low body temperature. 

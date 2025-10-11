@@ -1,0 +1,13 @@
+Background
+Percutaneous vertebroplasty remains widely used to treat osteoporotic vertebral fractures although our 2015 Cochrane review did not support its role in routine practice. 
+Objectives
+To update the available evidence of the benefits and harms of vertebroplasty for treatment of osteoporotic vertebral fractures. 
+Search methods
+We updated the search of CENTRAL, MEDLINE and Embase and trial registries to 15 November 2017. 
+Selection criteria
+We included randomised and quasi‐randomised controlled trials (RCTs) of adults with painful osteoporotic vertebral fractures, comparing vertebroplasty with placebo (sham), usual care, or another intervention. As it is least prone to bias, vertebroplasty compared with placebo was the primary comparison. Major outcomes were mean overall pain, disability, disease‐specific and overall health‐related quality of life, patient‐reported treatment success, new symptomatic vertebral fractures and number of other serious adverse events. 
+Data collection and analysis
+We used standard methodologic procedures expected by Cochrane.
+Main results
+Twenty‐one trials were included: five compared vertebroplasty with placebo (541 randomised participants), eight with usual care (1136 randomised participants), seven with kyphoplasty (968 randomised participants) and one compared vertebroplasty with facet joint glucocorticoid injection (217 randomised participants). Trial size varied from 46 to 404 participants, most participants were female, mean age ranged between 62.6 and 81 years, and mean symptom duration varied from a week to more than six months. 
+Four placebo‐controlled trials were at low risk of bias and one was possibly susceptible to performance and detection bias. Other trials were at risk of bias for several criteria, most notably due to lack of participant and personnel blinding. 

@@ -1,0 +1,10 @@
+Background
+Graft thrombosis is a well‐recognised complication of solid organ transplantation and is one of the leading causes of graft failure. Currently there are no standardised protocols for thromboprophylaxis. Many transplant units use unfractionated heparin (UFH) and fractionated heparins (low molecular weight heparin; LMWH) as prophylaxis for thrombosis. Antiplatelet agents such as aspirin are routinely used as prophylaxis of other thrombotic conditions and may have a role in preventing graft thrombosis. However, any pharmacological thromboprophylaxis comes with the theoretical risk of increasing the risk of major blood loss following transplant. This review looks at benefits and harms of thromboprophylaxis in patients undergoing solid organ transplantation. 
+Objectives
+To assess the benefits and harms of instituting thromboprophylaxis to patients undergoing solid organ transplantation. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 10 November 2020 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+We included all randomised controlled trials (RCTs) and quasi‐RCTs designed to examine interventions to prevent thrombosis in solid organ transplant recipients. All donor types were included (donor after circulatory (DCD) and brainstem death (DBD) and live transplantation). There was no upper age limit for recipients in our search. 
+Data collection and analysis
+The results of the literature search were screened and data collected by two independent authors. Dichotomous outcome results were expressed as risk ratio (RR) with 95% confidence intervals (CI). Random effects models were used for data analysis. Risk of bias was independently assessed by two authors using the risk of bias assessment tool. Confidence in the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. 

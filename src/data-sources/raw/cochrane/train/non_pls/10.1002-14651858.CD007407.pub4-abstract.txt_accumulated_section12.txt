@@ -1,0 +1,12 @@
+Background
+Chronic non‐cancer pain, a disabling and distressing condition, is common in adults. It is a global public health problem and economic burden on health and social care systems and on people with chronic pain. Psychological treatments aim to reduce pain, disability and distress. This review updates and extends its previous version, published in 2012. 
+Objectives
+To determine the clinical efficacy and safety of psychological interventions for chronic pain in adults (age > 18 years) compared with active controls, or waiting list/treatment as usual (TAU). 
+Search methods
+We identified randomised controlled trials (RCTs) of psychological therapies by searching CENTRAL, MEDLINE, Embase and PsycINFO to 16 April 2020. We also examined reference lists and trial registries, and searched for studies citing retrieved trials. 
+Selection criteria
+RCTs of psychological treatments compared with active control or TAU of face‐to‐face therapies for adults with chronic pain. We excluded studies of headache or malignant disease, and those with fewer than 20 participants in any arm at treatment end. 
+Data collection and analysis
+Two or more authors rated risk of bias, extracted data, and judged quality of evidence (GRADE). We compared cognitive behavioural therapy (CBT), behavioural therapy (BT), and acceptance and commitment therapy (ACT) with active control or TAU at treatment end, and at six month to 12 month follow‐up. We did not analyse the few trials of other psychological treatments. We assessed treatment effectiveness for pain intensity, disability, and distress. We extracted data on adverse events (AEs) associated with treatment. 
+Main results
+We added 41 studies (6255 participants) to 34 of the previous review's 42 studies, and now have 75 studies in total (9401 participants at treatment end). Most participants had fibromyalgia, chronic low back pain, rheumatoid arthritis, or mixed chronic pain. Most risk of bias domains were at high or unclear risk of bias, with selective reporting and treatment expectations mostly at unclear risk of bias. AEs were inadequately recorded and/or reported across studies. 

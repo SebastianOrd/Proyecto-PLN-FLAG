@@ -1,0 +1,11 @@
+Background
+PTSD is an anxiety disorder related to exposure to a severe psychological trauma. Symptoms include re‐experiencing the event, avoidance and arousal as well as distress and impairment resulting from these symptoms. 
+Guidelines suggest a combination of both psychological therapy and pharmacotherapy may enhance treatment response, especially in those with more severe PTSD or in those who have not responded to either intervention alone. 
+Objectives
+To assess whether the combination of psychological therapy and pharmacotherapy provides a more efficacious treatment for PTSD than either of these interventions delivered separately. 
+Search methods
+Searches were conducted on the trial registers kept by the CCDAN group (CCDANCTR‐Studies and CCDANCTR‐References) to June 2010. The reference sections of included studies and several conference abstracts were also scanned. 
+Selection criteria
+Patients of any age or gender, with chronic or recent onset PTSD arising from any type of event relevant to the diagnostic criteria were included. A combination of any psychological therapy and pharmacotherapy was included and compared to wait list, placebo, standard treatment or either intervention alone. The primary outcome was change in total PTSD symptom severity. Other outcomes included changes in functioning, depression and anxiety symptoms, suicide attempts, substance use, withdrawal and cost. 
+Data collection and analysis
+Two or three review authors independently selected trials, assessed their 'risk of bias' and extracted trial and outcome data. We used a fixed‐effect model for meta‐analysis. The relative risk was used to summarise dichotomous outcomes and the mean difference and standardised mean difference were used to summarise continuous measures. 

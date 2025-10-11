@@ -1,0 +1,14 @@
+Background
+Polycystic ovary syndrome (PCOS) is a common endocrine condition, affecting approximately one in 10 women. PCOS is defined by two of three features: oligo‐ or anovulation, clinical or biochemical hyperandrogenism or both, or polycystic ovaries. 
+Women with PCOS can have a wide range of health problems, including infrequent and irregular periods, unwanted hair growth and acne, and subnormal fertility. Long‐term health concerns include an increased risk of heart disease, diabetes and the development of precancerous disease of the womb. 
+Objectives
+To assess the effectiveness and harms of ovarian surgery as a treatment for symptomatic relief of hirsutism, acne and menstrual irregularity in PCOS. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group specialized register, CENTRAL, MEDLINE, Embase and PsycINFO (from inception to 17 October 2016). We handsearched citation lists, registers of ongoing trials and conference proceedings. 
+Selection criteria
+We included randomized controlled trials (RCTs) of women undergoing ovarian drilling in comparison to no treatment, medical treatment, or other forms of surgical treatment for the symptoms of PCOS. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. The primary outcome measures were improvement in menstrual regularity and androgenic symptoms of PCOS (hirsutism, acne); the secondary outcome measures included harms, change of body mass index (BMI), waist circumference, androgen levels, metabolic measures and quality of life. We assessed the quality of the evidence using GRADE methods. 
+Main results
+We included 22 RCTs (2278 women analyzed) of participants with PCOS and symptoms of acne, hirsutism or irregular menstrual cycles, all of which included laparoscopic ovarian drilling (LOD) as an intervention. 
+Two studies reported their funding source (Farquhar 2002 ‐ supported in part by the Auckland Medical Research Foundation; Sarouri 2015 ‐ the authors thank the Vice Chancellor for Research of Guilan University of Medical Sciences for funding this project). 

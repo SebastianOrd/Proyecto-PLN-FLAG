@@ -1,0 +1,12 @@
+Background
+The choice of the appropriate perioperative thromboprophylaxis for people with cancer depends on the relative benefits and harms of different anticoagulants. 
+Objectives
+To systematically review the evidence for the relative efficacy and safety of anticoagulants for perioperative thromboprophylaxis in people with cancer. 
+Search methods
+This update of the systematic review was based on the findings of a comprehensive literature search conducted on 14 June 2018 that included a major electronic search of Cochrane Central Register of Controlled Trials (CENTRAL, 2018, Issue 6), MEDLINE (Ovid), and Embase (Ovid); handsearching of conference proceedings; checking of references of included studies; searching for ongoing studies; and using the 'related citation' feature in PubMed. 
+Selection criteria
+Randomized controlled trials (RCTs) that enrolled people with cancer undergoing a surgical intervention and assessed the effects of low‐molecular weight heparin (LMWH) to unfractionated heparin (UFH) or to fondaparinux on mortality, deep venous thrombosis (DVT), pulmonary embolism (PE), bleeding outcomes, and thrombocytopenia. 
+Data collection and analysis
+Using a standardized form, we extracted data in duplicate on study design, participants, interventions outcomes of interest, and risk of bias. Outcomes of interest included all‐cause mortality, PE, symptomatic venous thromboembolism (VTE), asymptomatic DVT, major bleeding, minor bleeding, postphlebitic syndrome, health related quality of life, and thrombocytopenia. We assessed the certainty of evidence for each outcome using the GRADE approach (GRADE Handbook). 
+Main results
+Of 7670 identified unique citations, we included 20 RCTs with 9771 randomized people with cancer receiving preoperative prophylactic anticoagulation. We identified seven reports for seven new RCTs for this update. 

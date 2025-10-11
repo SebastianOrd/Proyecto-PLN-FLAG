@@ -1,0 +1,13 @@
+Background
+Urinary catheterisation is a common procedure, with approximately 15% to 25% of all people admitted to hospital receiving short‐term (14 days or less) indwelling urethral catheterisation at some point during their care. However, the use of urinary catheters is associated with an increased risk of developing urinary tract infection. Catheter‐associated urinary tract infection (CAUTI) is one of the most common hospital‐acquired infections. It is estimated that around 20% of hospital‐acquired bacteraemias arise from the urinary tract and are associated with mortality of around 10%. 
+This is an update of a Cochrane Review first published in 2005 and last published in 2007. 
+Objectives
+To assess the effects of strategies for removing short‐term (14 days or less) indwelling catheters in adults. 
+Search methods
+We searched the Cochrane Incontinence Specialised Register, which contains trials identified from CENTRAL, MEDLINE, MEDLINE In‐Process, MEDLINE Epub Ahead of Print, CINAHL, ClinicalTrials.gov, WHO ICTRP, and handsearching of journals and conference proceedings (searched 17 March 2020), and reference lists of relevant articles. 
+Selection criteria
+We included all randomised controlled trials (RCTs) and quasi‐RCTs that evaluated the effectiveness of practices undertaken for the removal of short‐term indwelling urethral catheters in adults for any reason in any setting. 
+Data collection and analysis
+Two review authors performed abstract and full‐text screening of all relevant articles. At least two review authors independently performed risk of bias assessment, data abstraction and GRADE assessment. 
+Main results
+We included 99 trials involving 12,241 participants. We judged the majority of trials to be at low or unclear risk of selection and detection bias, with a high risk of performance bias. We also deemed most trials to be at low risk of attrition and reporting bias. None of the trials reported on quality of life. The majority of participants across the trials had undergone some form of surgical procedure. 

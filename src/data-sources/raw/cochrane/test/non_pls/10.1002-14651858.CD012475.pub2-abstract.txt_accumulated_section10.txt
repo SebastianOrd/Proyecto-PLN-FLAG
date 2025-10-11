@@ -1,0 +1,10 @@
+Background
+Multiple sclerosis (MS) is one of the most prevalent diseases of the central nervous system with recent prevalence estimates indicating that MS directly affects 2.3 million people worldwide. Fall rates of 56% have been reported among people with MS in a recent meta‐analysis. Clinical guidelines do not outline an evidence‐based approach to falls interventions in MS. There is a need for synthesised information regarding the effectiveness of falls prevention interventions in MS. 
+Objectives
+The aim of this review was to evaluate the effectiveness of interventions designed to reduce falls in people with MS. Specific objectives included comparing: (1) falls prevention interventions to controls and; (2) different types of falls prevention interventions. 
+Search methods
+We searched the Trials Register of the Cochrane Multiple Sclerosis and Rare Diseases of the CNS Group, Cochrane Central Register of Controlled Trials (2018 Issue 9); MEDLINE (PubMed) (1966 to 12 September 2018); Embase (EMBASE.com) (1974 to 12 September 2018); Cumulative Index to Nursing and Allied Health Literature (EBSCOhost) (1981 to 12 September 2018); Latin American and Caribbean Health Science Information Database (Bireme) (1982 to 12 September 2018); ClinicalTrials.gov; and World Health Organization International Clinical Trials Registry Platform; PsycINFO (1806 to 12 September 2018; and Physiotherapy Evidence Database (1999 to 12 September 2018). 
+Selection criteria
+We selected randomised controlled trials or quasi‐randomised trials of interventions to reduce falls in people with MS. We included trials that examined falls prevention interventions compared to controls or different types of falls prevention interventions. Primary outcomes included: falls rate, risk of falling, number of falls per person and adverse events. 
+Data collection and analysis
+Two review authors screened studies for selection, assessed risk of bias and extracted data. We used a rate ratio (RaR) and 95% confidence interval to compare falls rate between groups. For risk of falling, we used a risk ratio (RR) and 95% CI based on the number of fallers in each group. 

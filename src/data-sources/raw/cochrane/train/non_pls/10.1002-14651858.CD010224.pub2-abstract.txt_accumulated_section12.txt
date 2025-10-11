@@ -1,0 +1,12 @@
+Background
+There is evidence that certain antiepileptic drugs (AEDs) are teratogenic and are associated with an increased risk of congenital malformation. The majority of women with epilepsy continue taking AEDs throughout pregnancy; therefore it is important that comprehensive information on the potential risks associated with AED treatment is available. 
+Objectives
+To assess the effects of prenatal exposure to AEDs on the prevalence of congenital malformations in the child. 
+Search methods
+We searched the Cochrane Epilepsy Group Specialized Register (September 2015), Cochrane Central Register of Controlled Trials (CENTRAL) (2015, Issue 11), MEDLINE (via Ovid) (1946 to September 2015), EMBASE (1974 to September 2015), Pharmline (1978 to September 2015), Reprotox (1983 to September 2015) and conference abstracts (2010‐2015) without language restriction. 
+Selection criteria
+We included prospective cohort controlled studies, cohort studies set within pregnancy registries and randomised controlled trials. Participants were women with epilepsy taking AEDs; the two control groups were women without epilepsy and women with epilepsy who were not taking AEDs during pregnancy. 
+Data collection and analysis
+Three authors independently selected studies for inclusion. Five authors completed data extraction and risk of bias assessments. The primary outcome was the presence of a major congenital malformation. Secondary outcomes included specific types of major congenital malformations. Where meta‐analysis was not possible, we reviewed included studies narratively. 
+Main results
+We included 50 studies, with 31 contributing to meta‐analysis. Study quality varied, and given the observational design, all were at high risk of certain biases. However, biases were balanced across the AEDs investigated and we believe that the results are not explained by these biases. 

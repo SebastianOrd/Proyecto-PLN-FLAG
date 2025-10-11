@@ -1,0 +1,13 @@
+Background
+Elbow supracondylar fractures are common, with treatment decisions based on fracture displacement. However, there remains controversy regarding the best treatments for this injury. 
+Objectives
+To assess the effects (benefits and harms) of interventions for treating supracondylar elbow fractures in children. 
+Search methods
+We searched CENTRAL, MEDLINE, and Embase in March 2021. We also searched trial registers and reference lists. We applied no language or publication restrictions. 
+Selection criteria
+We included randomised and quasi‐randomised controlled trials comparing different interventions for the treatment of supracondylar elbow fractures in children. We included studies investigating surgical interventions (different fixation techniques and different reduction techniques), surgical versus non‐surgical treatment, traction types, methods of non‐surgical intervention, and timing and location of treatment. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We collected data and conducted GRADE assessment for five critical outcomes: functional outcomes, treatment failure (requiring re‐intervention), nerve injury, major complications (pin site infection in most studies), and cosmetic deformity (cubitus varus).  
+Main results
+We included 52 trials with 3594 children who had supracondylar elbow fractures; most were Gartland 2 and 3 fractures. The mean ages of children ranged from 4.9 to 8.4 years and the majority of participants were boys. Most studies (33) were conducted in countries in South‐East Asia. 
+We identified 12 different comparisons of interventions: retrograde lateral wires versus retrograde crossed wires; lateral crossed (Dorgan) wires versus retrograde crossed wires; retrograde lateral wires versus lateral crossed (Dorgan) wires; retrograde crossed wires versus posterior intrafocal wires; retrograde lateral wires in a parallel versus divergent configuration; retrograde crossed wires using a mini‐open technique or inserted percutaneously; buried versus non‐buried wires; external versus internal fixation; open versus closed reduction; surgical fixation versus non‐surgical immobilisation; skeletal versus skin traction; and collar and cuff versus backslab. 

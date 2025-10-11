@@ -1,0 +1,14 @@
+Background
+Embryo transfer (ET) is a crucial step of in vitro fertilisation (IVF) treatment, and involves placing the embryo(s) in the woman’s uterus. There is a negative association between endometrial wave‐like activity (contractile activities) at the time of ET and clinical pregnancy, but no specific treatment is currently used in clinical practice to counteract their effects. Oxytocin is a hormone produced by the hypothalamus and released by the posterior pituitary. Its main role involves generating uterine contractions during and after childbirth. Atosiban is the best known oxytocin antagonist (and is also a vasopressin antagonist), and it is commonly used to delay premature labour by halting uterine contractions. Other oxytocin antagonists include barusiban, nolasiban, epelsiban, and retosiban. Administration of oxytocin antagonists around the time of ET has been proposed as a means to reduce uterine contractions that may interfere with embryo implantation. The intervention involves administering the medication before, during, or after the ET (or a combination). 
+Objectives
+To evaluate the effectiveness and safety of oxytocin antagonists around the time of ET in women undergoing assisted reproduction. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility (CGF) Group trials register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, and two trials registers in March 2021; and checked references and contacted study authors and experts in the field to identify additional studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) of the use of oxytocin antagonists for women undergoing ET, compared with the non‐use of this intervention, the use of placebo, or the use of another similar drug. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. Primary review outcomes were live birth and miscarriage; secondary outcomes were clinical pregnancy and other adverse events. 
+Main results
+We included nine studies (including one comprising three separate trials, 3733 women analysed in total) investigating the role of three different oxytocin antagonists administered intravenously (atosiban), subcutaneously (barusiban), or orally (nolasiban). We found very low‐ to high‐certainty evidence: the main limitations were serious risk of bias due to poor reporting of study methods, and serious or very serious imprecision. 
+Intravenous atosiban versus normal saline or no intervention 
+We are uncertain of the effect of intravenous atosiban on live birth rate (risk ratio (RR) 1.05, 95% confidence interval (CI) 0.88 to 1.24; 1 RCT, N = 800; low‐certainty evidence). In a clinic with a live birth rate of 38% per cycle, the use of intravenous atosiban would be associated with a live birth rate ranging from 33.4% to 47.1%. 

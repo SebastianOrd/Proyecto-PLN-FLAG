@@ -1,0 +1,12 @@
+Background
+Patients with diabetes mellitus are at increased risk of postoperative complications. Data from randomised clinical trials and meta‐analyses point to a potential benefit of intensive glycaemic control, targeting near‐normal blood glucose, in patients with hyperglycaemia (with and without diabetes mellitus) being submitted to surgical procedures. However, there is limited evidence concerning this question in patients with diabetes mellitus undergoing surgery. 
+Objectives
+To assess the effects of perioperative glycaemic control for diabetic patients undergoing surgery. 
+Search methods
+Trials were obtained from searches of The Cochrane Library, MEDLINE, EMBASE, LILACS, CINAHL and ISIS (all up to February 2012). 
+Selection criteria
+We included randomised controlled clinical trials that prespecified different targets of perioperative glycaemic control (intensive versus conventional or standard care) 
+Data collection and analysis
+Two authors independently extracted data and assessed risk of bias. We summarised studies using meta‐analysis or descriptive methods. 
+Main results
+Twelve trials randomised 694 diabetic participants to intensive control and 709 diabetic participants to conventional glycaemic control. The duration of the intervention ranged from just the duration of the surgical procedure up to 90 days. The number of participants ranged from 13 to 421, and the mean age was 64 years. Comparison of intensive with conventional glycaemic control demonstrated the following results for our predefined primary outcomes: analysis restricted to studies with low or unclear detection or attrition bias for infectious complications showed a risk ratio (RR) of 0.46 (95% confidence interval (CI) 0.18 to 1.18), P = 0.11, 627 participants, eight trials, moderate quality of the evidence (grading of recommendations assessment, development and evaluation ‐ (GRADE)). Evaluation of death from any cause revealed a RR of 1.19 (95% CI 0.89 to 1.59), P = 0.24, 1365 participants, 11 trials, high quality of the evidence (GRADE). 

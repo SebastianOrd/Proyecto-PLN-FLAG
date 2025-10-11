@@ -1,0 +1,10 @@
+Background
+Dual chamber pacing or single chamber atrial pacing ('physiologic' pacing) is believed to have an advantage over single chamber ventricular pacing in that it resembles cardiac physiology more closely by maintaining atrioventricular (AV) synchrony and dominance of the sinus node, which in turn may reduce cardiovascular morbidity and mortality thus contributing to patient survival and quality of life. However, a significant proportion of pacemakers currently implanted are single chamber ventricular pacemakers. 
+Objectives
+The objective of this review was to assess the short‐ and long‐term clinical effectiveness of dual chamber pacemakers compared to single chamber ventricular pacemakers in adults with AV block, sick sinus syndrome or both. An additional objective was to assess separately any potential differences in effectiveness between dual chamber pacing and single chamber atrial pacing. The clinical effectiveness of single chamber atrial pacing versus single chamber ventricular pacing was not examined. 
+Search methods
+The Cochrane Controlled Trials Register (The Cochrane Library Issue 3, 2002), MEDLINE (1966 to 2002), EMBASE (1980 to 2002) and the Science Citation Index (1980 to 2002) were searched on 19th August 2002. Citation lists and web sites were checked and researchers in the field contacted. 
+Selection criteria
+Parallel group or crossover randomised controlled trials of at least 48 hours duration comparing dual chamber pacing and single chamber ventricular pacing, and investigating cardiovascular morbidity, mortality, patient related quality of life, exercise capacity and complication rates. 
+Data collection and analysis
+Data was extracted onto pre‐piloted data extraction forms. Quality assessment was undertaken using a checklist, with a sub‐sample of quality data independently extracted by a second reviewer. Where appropriate data was available, meta‐analysis was performed. Where meta‐analysis was not possible, the number of studies showing a positive, neutral or negative direction of effect and statistical significance were simply counted. 

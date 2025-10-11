@@ -1,0 +1,12 @@
+Background
+Age‐related cataract is the principal cause of blindness and visual impairment in the world. Phacoemulsification is the main surgical procedure used to treat cataract. The comparative effectiveness and safety of different‐sized incisions for phacoemulsification has not been determined. 
+Objectives
+The aim of this systematic review was to assess the effectiveness and safety of smaller versus larger incisions for phacoemulsification in age‐related cataract. The primary outcome of this review was surgically induced astigmatism at three months after surgery. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2016, Issue 10), MEDLINE Ovid (1946 to 28 October 2016), Embase Ovid (1947 to 28 October 2016), PubMed (1948 to 28 October 2016), LILACS (Latin American and Caribbean Health Sciences Literature Database) (1982 to 28 October 2016), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com; last searched 13 May 2013), ClinicalTrials.gov (www.clinicaltrials.gov; searched 28 October 2016), and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp; searched 28 October 2016). We did not use any date or language restrictions in the electronic searches for trials. 
+Selection criteria
+We included randomized controlled trials (RCTs) comparing different‐sized incisions in people with age‐related cataract undergoing phacoemulsification. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 26 RCTs with a total of 2737 participants (3120 eyes). These trials were conducted in Bosnia and Herzegovina, China, France, India, Italy, Korea, Spain, Switzerland, and Turkey. Half of the 26 trials were conducted in China. We judged all trials as mostly at unclear to low risk of bias. The included RCTs compared four different‐sized incisions:<= 1.5 mm, 1.8 mm, 2.2 mm, and approximately 3.0 mm. These incisions were performed using three different techniques: coaxial and biaxial microincision phacoemulsification (C‐MICS and B‐MICS) and standard phacoemulsification. Not all studies provided data in a form that could be included in this review. Five studies had three arms. 

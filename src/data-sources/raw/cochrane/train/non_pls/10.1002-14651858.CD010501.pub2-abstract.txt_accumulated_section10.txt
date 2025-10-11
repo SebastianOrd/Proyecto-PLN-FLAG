@@ -1,0 +1,10 @@
+Background
+Tardive dyskinesia is a chronic and disabling abnormal movement disorder affecting the muscles of the face, neck, tongue and the limbs. It is a common side effect of long‐term antipsychotic medication use in individuals with schizophrenia and other related psychotic disorders. While there are no known effective treatments for tardive dyskinesia to date, some reports suggest that pyridoxal 5 phosphate may be effective in reducing the severity of tardive dyskinesia symptoms. 
+Objectives
+To determine the effectiveness of pyridoxal 5 phosphate (vitamin B6 or Pyridoxine or Pyridoxal phosphate) in the treatment of neuroleptic‐induced tardive dyskinesia among people with schizophrenia and other related psychotic disorders. 
+Search methods
+The Cochrane schizophrenia group's register of clinical trials was searched (January 2013) using the phrase: [*Pyridoxal* OR *Pyridoxine* OR *P5P* OR *PLP* OR *tardoxal* OR *Vitamin B6* O *Vitamin B 6* R in title, abstract or index terms of REFERENCE, or interventions of STUDY. References of relevant identified studies were handsearched and where necessary, the first authors of relevant studies were contacted. 
+Selection criteria
+Studies described as randomised controlled trials comparing the effectiveness pyridoxal 5 phosphate with placebo in the treatment of neuroleptic‐induced tardive dyskinesia among patients with schizophrenia. 
+Data collection and analysis
+The review authors independently extracted data from each selected study. For dichotomous data, we calculated risk ratios (RR) and their 95% confidence intervals (CIs) on an intention‐to‐treat basis based on a fixed‐effect model. For continuous data, we calculated mean differences (MD) with 95% CIs, again based on a fixed‐effect model. We assessed risk of bias for each included study and used GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach to rate quality of evidence. 

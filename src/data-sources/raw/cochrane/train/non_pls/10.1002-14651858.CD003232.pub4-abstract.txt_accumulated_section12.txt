@@ -1,0 +1,12 @@
+Background
+Renal vasculitis presents as rapidly progressive glomerulonephritis and comprises of a group of conditions characterised by acute kidney injury (AKI), haematuria and proteinuria. Treatment of these conditions involve the use of steroid and non‐steroid agents in combination with plasma exchange. Although immunosuppression overall has been very successful in treatment of these conditions, many questions remain unanswered in terms of dose and duration of therapy, the use of plasma exchange and the role of new therapies. This 2019 publication is an update of a review first published in 2008 and updated in 2015. 
+Objectives
+To evaluate the benefits and harms of any intervention used for the treatment of renal vasculitis in adults. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 21 November 2019 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+Randomised controlled trials investigating any intervention for the treatment of renal vasculitis in adults. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. Statistical analyses were performed using a random effects model and results expressed as risk ratio (RR) with 95% confidence intervals (CI) for dichotomous outcomes or mean difference (MD) for continuous outcomes. 
+Main results
+Forty studies (3764 patients) were included. Studies conducted earlier tended to have a higher risk of bias due to poor (or poorly reported) study design, broad inclusion criteria, less well developed disease definitions and low patient numbers. Later studies tend to have improved in all areas of quality, aided by the development of large international study groups. 

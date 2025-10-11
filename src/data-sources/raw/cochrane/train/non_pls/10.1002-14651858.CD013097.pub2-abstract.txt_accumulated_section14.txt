@@ -1,0 +1,14 @@
+Background
+Occupational lead exposure can lead to serious health effects that range from general symptoms (depression, generalised ache, and digestive signs, such as loss of appetite, stomach ache, nausea, diarrhoea, and constipation) to chronic conditions (cerebrovascular and cardiovascular diseases, cognitive impairment, kidney disease, cancers, and infertility). Educational interventions may contribute to the prevention of lead uptake in workers exposed to lead, and it is important to assess their effectiveness. 
+Objectives
+To assess the effect of educational interventions for preventing lead uptake in workers exposed to lead. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL, and OSH UPDATE to 5 June 2020, with no language restrictions. 
+Selection criteria
+We sought randomised controlled trials (RCT), cluster‐RCTs (cRCT), interrupted time series (ITS), controlled before‐after studies (CBA) and uncontrolled before‐after studies that examined the effects of an educational intervention aimed at preventing lead exposure and poisoning in workers who worked with lead, for which effectiveness was measured by lead levels in blood and urine, blood zinc protoporphyrin levels and urine aminolevulinic acid levels. 
+Data collection and analysis
+Two review authors independently screened the search results, assessed studies for eligibility, and extracted data using standard Cochrane methods. We used the ROBINS‐I tool to assess the risk of bias, and GRADE methodology to assess the certainty of the evidence. 
+Main results
+We did not find any RCT, cRCT, ITS or CBA studies that met our criteria. We included four uncontrolled before‐after studies studies, conducted between 1982 and 2004.  
+Blood lead levels 
+Educational interventions may reduce blood lead levels, but the evidence is very uncertain. In the short‐term after the educational intervention, blood lead levels may decrease (mean difference (MD) 9.17 µg/dL, 95% confidence interval (CI) 4.14 to 14.20; one study with high baseline blood lead level, 18 participants; very low‐certainty evidence). 

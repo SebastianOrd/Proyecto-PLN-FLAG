@@ -1,0 +1,10 @@
+Background
+Corticosteroids are effective for induction, but not maintenance of remission in Crohn's disease. Significant concerns exist regarding the risk for adverse events, particularly when corticosteroids are used for long treatment courses. Budesonide is a glucocorticoid with limited systemic bioavailability due to extensive first‐pass hepatic metabolism and is effective for induction of remission in Crohn's disease. 
+Objectives
+To evaluate the efficacy and safety of oral budesonide for maintenance of remission in Crohn's disease. 
+Search methods
+The following databases were searched from inception to 12 June 2014: PubMed, MEDLINE, EMBASE, CENTRAL, the Cochrane IBD/FBD Group Specialised Trial Register, and ClinicalTrials.gov. Reference lists of articles, as well as conference proceedings were manually searched. 
+Selection criteria
+Randomized controlled trials comparing budesonide to a control treatment, or comparing two doses of budesonide, were included. The study population included patients of any age with quiescent Crohn's disease. 
+Data collection and analysis
+Two independent investigators reviewed studies for eligibility, extracted data and assessed study quality using the Cochrane risk of bias tool. The primary outcome was maintenance of remission at various reported follow‐up times during the study. Secondary outcomes included: time to relapse, mean change in CDAI, change in quality of life scores, adverse events and study withdrawal. We calculated the risk ratio (RR) and corresponding 95% confidence interval (95% CI) for dichotomous outcomes and the mean difference (MD) and 95% CI for continuous outcomes. Data were analysed on an intention‐to‐treat basis. The Chi2 and I2 statistics were used to assess heterogeneity. Random‐effects models were used to allow for expected clinical and statistical heterogeneity. The overall quality of the evidence supporting the primary outcome was assessed using the GRADE criteria. 

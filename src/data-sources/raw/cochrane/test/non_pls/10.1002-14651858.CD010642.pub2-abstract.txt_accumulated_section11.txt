@@ -1,0 +1,11 @@
+Background
+Endoscopic assessment of mucosal disease activity is widely used to determine eligibility and response to therapy in clinical trials of treatment for Crohn’s disease. However, the operating properties of the currently available endoscopic indices remain unclear. 
+Objectives
+A systematic review was undertaken to evaluate the development and operating characteristics of the Crohn’s Disease Endoscopic Index of Severity (CDEIS) and Simple Endoscopic Scale for Crohn’s Disease (SES‐CD). 
+Search methods
+Electronic searches of the MEDLINE (1966 to December 2015), EMBASE (1980 to December 2015), and Cochrane CENTRAL Register of Controlled Trials (Issue 12, 2015) databases were supplemented by manual reviews of reference listings and conference proceedings (Digestive Disease Week, United European Gastroenterology Week, European Crohn’s and Colitis Organization). 
+Selection criteria
+Any study design (e.g. randomized controlled trials, cohort studies, case series) that evaluated either or both the CDEIS or SES‐CD in patients with Crohn’s disease was considered for inclusion. Eligible participants were adult patients (> 16 years), diagnosed with Crohn’s disease using conventional clinical, radiographic, and endoscopic criteria. 
+Data collection and analysis
+Two authors (RK, JKM) independently reviewed the titles and abstracts of the studies identified from the literature search. The full texts of potentially relevant citations were reviewed for inclusion and the study investigators were contacted to clarify any unclear data. Any disagreements were resolved by discussion and consensus with a third author. A standardized form was used to assess eligibility of trials for inclusion in the study and for data extraction. 
+Two authors independently extracted and recorded data (RK, SAN). The number of patients enrolled; number of patients per treatment arm; patient characteristics including age and gender distribution; endoscopic index; and outcomes such as intra‐rater reliability, inter‐rater reliability responsiveness, validity, feasibility, construct validity, and criterion validity were recorded for each trial. 

@@ -1,0 +1,13 @@
+Background
+Withdrawal is a necessary step prior to drug‐free treatment or as the endpoint of long‐term substitution treatment. 
+Objectives
+To assess the effectiveness of interventions involving the use of alpha2‐adrenergic agonists compared with placebo, reducing doses of methadone, symptomatic medications, or an alpha2‐adrenergic agonist regimen different to the experimental intervention, for the management of the acute phase of opioid withdrawal. Outcomes included the withdrawal syndrome experienced, duration of treatment, occurrence of adverse effects, and completion of treatment. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (1946 to November week 2, 2015), EMBASE (January 1985 to November week 2, 2015), PsycINFO (1806 to November week 2, 2015), Web of Science, and reference lists of articles. 
+Selection criteria
+Randomised controlled trials comparing alpha2‐adrenergic agonists (clonidine, lofexidine, guanfacine, tizanidine) with reducing doses of methadone, symptomatic medications or placebo, or comparing different alpha2‐adrenergic agonists to modify the signs and symptoms of withdrawal in participants who were opioid dependent. 
+Data collection and analysis
+We used standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+We included 26 randomised controlled trials involving 1728 participants. Six studies compared an alpha2‐adrenergic agonist with placebo, 12 with reducing doses of methadone, four with symptomatic medications, and five compared different alpha2‐adrenergic agonists. We assessed 10 studies as having a high risk of bias in at least one of the methodological domains that were considered. 
+We found moderate‐quality evidence that alpha2‐adrenergic agonists were more effective than placebo in ameliorating withdrawal in terms of the likelihood of severe withdrawal (risk ratio (RR) 0.32, 95% confidence interval (CI) 0.18 to 0.57; 3 studies; 148 participants). We found moderate‐quality evidence that completion of treatment was significantly more likely with alpha2‐adrenergic agonists compared with placebo (RR 1.95, 95% CI 1.34 to 2.84; 3 studies; 148 participants). 

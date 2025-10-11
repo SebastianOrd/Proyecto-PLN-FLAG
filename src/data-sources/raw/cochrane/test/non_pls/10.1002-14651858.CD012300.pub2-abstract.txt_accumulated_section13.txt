@@ -1,0 +1,13 @@
+Background
+Chronic infection with Pseudomonas aeruginosa (PA) in cystic fibrosis (CF) is a source of much morbidity and mortality. Eradication of early PA infection is possible, but can recur in many individuals. We sought to examine strategies to delay the time to PA recurrence in people with CF. 
+Objectives
+To establish whether secondary prevention strategies, using antibiotics or other therapies, increase the chances of people with CF remaining free from PA infection following successful eradication therapy. 
+Search methods
+We searched the Cochrane Cystic Fibrosis Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. We also searched ongoing trials registries and the reference lists of relevant articles and reviews. 
+Date of last search: 21 August 2019.
+Selection criteria
+Randomised controlled trials (and quasi‐randomised trials where the risk of bias was low) comparing any treatment modality aimed at preventing recurrence of PA infection with placebo, standard therapy or any other treatment modality in people with CF who have undergone successful eradication of PA. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias. Quality of the evidence was assessed using GRADE. Conflicts were resolved by discussion and the opinion of a third review author was sought where necessary. Only a subset of participants in the included trial were eligible, therefore individual participant data were requested and obtained from the trial investigators. 
+Main results
+We included one trial (n = 306) in the review; however, only 253 participants had undergone successful eradication of PA, so fulfilling the inclusion criteria for our review. Information presented relates only to the included subset of participants. The trial recruited children aged one to 12 years (mean (standard deviation (SD)) age of 5.8 (3.5) years), 129 participants (51.0%) were female and the median follow‐up was 494 days. We compared cycled therapy with tobramycin inhalation solution (TIS), in which participants underwent 28 days of TIS every three months, with culture‐based therapy, in which participants were only prescribed medication when a quarterly sputum sample was positive for PA. Reasons for downgrading the quality of the evidence included applicability (only included children), incomplete outcome data and a small number of participants. 

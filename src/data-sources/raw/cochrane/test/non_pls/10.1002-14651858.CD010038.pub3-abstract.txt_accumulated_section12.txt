@@ -1,0 +1,12 @@
+Background
+Early childhood vaccination is an essential global public health practice that saves two to three million lives each year, but many children do not receive all the recommended vaccines. To achieve and maintain appropriate coverage rates, vaccination programmes rely on people having sufficient awareness and acceptance of vaccines. 
+Face‐to‐face information or educational interventions are widely used to help parents understand why vaccines are important; explain where, how and when to access services; and address hesitancy and concerns about vaccine safety or efficacy. Such interventions are interactive, and can be adapted to target particular populations or identified barriers. 
+This is an update of a review originally published in 2013.
+Objectives
+To assess the effects of face‐to‐face interventions for informing or educating parents about early childhood vaccination on vaccination status and parental knowledge, attitudes and intention to vaccinate. 
+Search methods
+We searched the CENTRAL, MEDLINE, Embase, five other databases, and two trial registries (July and August 2017). We screened reference lists of relevant articles, and contacted authors of included studies and experts in the field. We had no language or date restrictions. 
+Selection criteria
+We included randomised controlled trials (RCTs) and cluster‐RCTs evaluating the effects of face‐to‐face interventions delivered to parents or expectant parents to inform or educate them about early childhood vaccination, compared with control or with another face‐to‐face intervention. The World Health Organization recommends that children receive all early childhood vaccines, with the exception of human papillomavirus vaccine (HPV), which is delivered to adolescents. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Two authors independently reviewed all search results, extracted data and assessed the risk of bias of included studies. 

@@ -1,0 +1,10 @@
+Background
+Raynaud's is a vasodilatory phenomenon characterised by digital pallor, cyanosis and pain of the extremities. Primary Raynaud's phenomenon has no underlying disease associated with it, while secondary Raynaud's phenomenon is associated with conective tissue disorders such as scleroderma. Scleroderma is a connective tissue disease causing fibrosis and commonly affects the skin and internal organs such as the GI tract, lungs, kidney and heart. Cyclofenil is a drug which is well tolerated and may have efficacy in the treatment of RP secondary to scleroderma. 
+Objectives
+To assess the effects and toxicity of Cyclofenil versus placebo for the treatment of Raynaud's phenomenon (RP) in scleroderma. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (The Cochrane Library 2007, Issue 3), Medline (January 1966 to August 2007), and Embase (1974 to August 2007) using the Cochrane Collaboration search strategy developed by Dickersin et al.(1994). Current Contents were searched up to and including August 1, 2007. All bibliographies of articles retrieved were searched and key experts in the area were contacted for additional and unpublished data. The initial search strategy included all languages. 
+Selection criteria
+All randomized controlled trials comparing cyclofenil versus placebo were eligible if they reported clinical outcomes of interest. Trials with dropout rates greater than 30% were excluded. 
+Data collection and analysis
+All data were abstracted by two independent and trained reviewers (SH, PT), and verified by a third reviewer (JP). Each trial was assessed independently by the same two reviewers for its quality using a validated quality assessment tool (Altman 2001). 

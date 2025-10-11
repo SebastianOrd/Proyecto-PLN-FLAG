@@ -1,0 +1,9 @@
+Is continuous positive airway pressure (CPAP) during the postoperative period useful?
+Review question 
+Does continuous positive airway pressure during the postoperative period help reduce death and major lung complications after major abdominal surgery? 
+Background 
+General anaesthesia can lead to reduced lung volumes and collapse of the alveoli as well as to reversible, patchy collapse of areas of lung (atelectasis) and subsequent low oxygenation. These problems are worse in those patients undergoing upper abdominal surgery, in those who have predisposing factors such as obesity and chronic lung disease and in smokers. Continuous positive airway pressure (CPAP) is a type of therapy that uses a high‐pressure gas source to deliver constant pressure to the airways throughout both inspiration and expiration in spontaneously breathing people; oxygen is added in appropriate amounts. CPAP uses a variety of masks, which are placed over the nose or mouth. The aim of this technique is to improve the oxygenation of patients while preventing common postoperative complications in vulnerable people, especially smokers and the obese. 
+This review was conducted to determine whether any difference can be found in death and major chest complications following major abdominal operations between patients treated with CPAP and those given standard care (oxygen by mask and physiotherapy). 
+Study characteristics 
+We searched the literature until 15 September 2013. We included all adults who underwent elective major abdominal surgery. We included only studies in which the intervention was started postoperatively. 
+We employed the standard methods of the Cochrane Anaesthesia Review Group for data collection and analysis. A total of 709 participants were included in the 10 selected trials. Considerable differences between studies were noted in the populations studied, duration of treatment and supportive care provided. 

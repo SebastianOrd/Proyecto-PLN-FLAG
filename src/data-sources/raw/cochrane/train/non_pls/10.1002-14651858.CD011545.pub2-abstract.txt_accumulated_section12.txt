@@ -1,0 +1,12 @@
+Background
+Simulation‐based obstetric team training focuses on building a system that will anticipate errors, improve patient outcomes and the performance of clinical care teams. Simulation‐based obstetric team training has been proposed as a tool to improve the overall outcome of obstetric health care. 
+Objectives
+To assess the effects of simulation‐based obstetric team training on patient outcomes, performance of obstetric care teams in practice and educational settings, and trainees' experience. 
+Search methods
+The Cochrane Pregnancy and Childbirth Group's Trials Register, ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) were searched (14 April 2020), together with references checking and hand searching the available proceedings of 2 international conferences. 
+Selection criteria
+We included randomised controlled trials (RCTs) (including cluster‐randomised trials) comparing simulation‐based obstetric team training with no, or other type of training. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane, to identify articles, assess methodological quality and extract data. Data from three cluster‐randomised trials could be used to perform generic inverse variance meta‐analyses. The meta‐analyses were based on risk ratios (RRs) and mean differences (MDs) with 95% confidence intervals (CIs). We used the GRADE approach to rate the certainty of the evidence. We used Kirkpatrick's model of training evaluation to categorise the outcomes of interest; we chose Level 3 (behavioural change) and Level 4 (patient outcome) to categorise the primary outcomes. 
+Main results
+We included eight RCTs, six of which were cluster‐randomised trials, involving more than 1000 training participants and more than 200,000 pregnancies/births. Four studies reported on outcome measures on Kirkpatrick level 4 (patient outcome), three studies on Kirkpatrick level 3 (performance in practice), two studies on Kitkpatrick level 2 (performance in educational settings), and none on Kirkpatrick level 1 (trainees' experience). The included studies were from Mexico, the Netherlands, the UK and the USA, all middle‐ and high‐income countries. 

@@ -1,0 +1,10 @@
+Background
+Gestational diabetes mellitus (GDM) is associated with a range of adverse pregnancy outcomes for mother and infant. The prevention of GDM using lifestyle interventions has proven difficult. The gut microbiome (the composite of bacteria present in the intestines) influences host inflammatory pathways, glucose and lipid metabolism and, in other settings, alteration of the gut microbiome has been shown to impact on these host responses. Probiotics are one way of altering the gut microbiome but little is known about their use in influencing the metabolic environment of pregnancy. This is an update of a review last published in 2014. 
+Objectives
+To systematically assess the effects of probiotic supplements used either alone or in combination with pharmacological and non‐pharmacological interventions on the prevention of GDM. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth's Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (20 March 2020), and reference lists of retrieved studies. 
+Selection criteria
+Randomised and cluster‐randomised trials comparing the use of probiotic supplementation with either placebo or diet for the prevention of the development of GDM. Cluster‐randomised trials were eligible for inclusion but none were identified. Quasi‐randomised and cross‐over design studies were not eligible for inclusion in this review. Studies presented only as abstracts with no subsequent full report of study results were only included if study authors confirmed that data in the abstract came from the final analysis. Otherwise, the abstract was left awaiting classification. 
+Data collection and analysis
+Two review authors independently assessed study eligibility, extracted data and assessed risk of bias of included studies. Data were checked for accuracy. 

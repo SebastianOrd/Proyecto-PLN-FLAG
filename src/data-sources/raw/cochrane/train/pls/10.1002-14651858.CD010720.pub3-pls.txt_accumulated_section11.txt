@@ -1,0 +1,11 @@
+Needle size for vaccination procedures in children and adolescents
+Background 
+Vaccines contain antigens that make the body's immune system produce antibodies that can protect against disease, which is known as an immune response. Antigens are modified or partial forms of the virus, bacteria, or toxin that cause the disease that the vaccine protects against. Because the antigen is altered from its original form, it cannot cause disease, but it can produce an immune response. 
+Vaccines can be injected using needles of different lengths and gauges. The needle gauge (G) refers to the width (diameter) of the needle. The higher the gauge number, the narrower the needle. For example, a 25 G needle is approximately 0.5 mm in diameter and is narrower than a 23 G needle, which has a diameter of 0.6 mm. Guidelines conflict regarding the lengths and gauges of needles that should be used for vaccinating children and adolescents. 
+Review question 
+We wanted to find out if the length and gauge of needles used to vaccinate children and adolescents has an influence on the: 
+1) immune response to the injected vaccine;
+2) pain experienced during the vaccination procedure;
+3) occurrence of reactions such as swelling, tenderness, and redness at the site where the vaccine is given; fever (high temperature); and other side effects that can occur after vaccination. 
+Quality of the evidence 
+We included five studies involving 1350 people. We rated the quality of the evidence from studies as very low, low, moderate, or high. Very low‐quality evidence means that we are very uncertain about the results. High‐quality evidence means that we are very confident in the results. There were problems with the design of some studies, and data were insufficient to answer some parts of our review question. The quality of the evidence from two studies was too low to allow us to draw any conclusions about the effects of the needles compared in the studies. However, there was sufficient evidence from the remaining three studies to allow us to reach conclusions. 

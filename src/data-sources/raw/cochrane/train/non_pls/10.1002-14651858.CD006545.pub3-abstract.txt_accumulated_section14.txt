@@ -1,0 +1,14 @@
+Background
+Infantile haemangiomas (previously known as strawberry birthmarks) are soft, raised swellings of the skin that occur in 3% to 10% of infants. These benign vascular tumours are usually uncomplicated and tend to regress spontaneously. However, when haemangiomas occur in high‐risk areas, such as near the eyes, throat, or nose, impairing their function, or when complications develop, intervention may be necessary. This is an update of a Cochrane Review first published in 2011. 
+Objectives
+To assess the effects of interventions for the management of infantile haemangiomas in children. 
+Search methods
+We updated our searches of the following databases to February 2017: the Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO, AMED, LILACS, and CINAHL. We also searched five trials registries and checked the reference lists of included studies for further references to relevant trials. 
+Selection criteria
+Randomised controlled trials (RCTs) of all types of interventions, versus placebo, active monitoring, or other interventions, in any child with single or multiple infantile haemangiomas (IHs) located on the skin. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. The primary outcome measures were clearance, a subjective measure of improvement, and adverse events. Secondary outcomes were other measures of resolution; proportion of parents or children who consider there is still a problem; aesthetic appearance; and requirement for surgical correction. We used GRADE to assess the quality of the evidence for each outcome; this is indicated in italics. 
+Main results
+We included 28 RCTs, with a total of 1728 participants, assessing 12 different interventions, including lasers, beta blockers (e.g. propranolol, timolol maleate), radiation therapy, and steroids. Comparators included placebo, an active monitoring approach, sham radiation, and interventions given alone or in combination. 
+Studies were conducted in a number of countries, including China, Egypt, France, and Australia. Participant age ranged from 12 weeks to 13.4 years. Most studies (23/28) included a majority of females and different types of IHs. Duration of follow‐up ranged from 7 days to 72 months. 
+We considered most of the trials as at low risk of random sequence generation, attrition bias, and selective reporting bias. Domains such as allocation concealment and blinding were not clearly reported in general. We downgraded evidence for issues related to risk of bias and imprecision. 

@@ -1,0 +1,12 @@
+Background
+International guidelines advocate using daily inhaled corticosteroids (ICS) in the management of children and adults with persistent asthma. However, in real world clinical settings, these medicines are often used at irregular intervals by patients. Recent evidence suggests that the use of intermittent ICS, with treatment initiated at the time of early symptoms, may still have benefits for reducing the severity of an asthma exacerbation. 
+Objectives
+To compare the efficacy and safety of intermittent ICS versus placebo in the management of children and adults diagnosed with, or suspected to have, symptoms of mild persistent asthma. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register of trials (CAGR), the ClinicalTrials.gov website and the World Health Organization (WHO) trials portal in March 2015. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared intermittent ICS versus placebo in children and adults with symptoms of persistent asthma. No co‐interventions were permitted other than rescue relievers and oral corticosteroids used during exacerbations. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion, methodological quality and extracted data. The primary efficacy outcome was the risk of asthma exacerbations requiring oral corticosteroids and the primary safety outcome was serious adverse health events. Secondary outcomes included exacerbations, lung function tests, asthma control, adverse effects, and withdrawal rates. Quality of the evidence was assessed using the GRADE criteria. 
+Main results
+Six trials (representing 490 preschool children, 145 school‐aged children and 240 adults) met the inclusion criteria. Study durations were 12 to 52 weeks. Results for preschool children were presented in a separate analysis as this represents a distinct clinical condition, not necessarily related to the development of long term asthma. 

@@ -1,0 +1,10 @@
+Background
+Staphylococcus aureus (S. aureus) is the leading nosocomial (hospital acquired) pathogen in hospitals throughout the world. Traditionally, control of S. aureus has been focused on preventing cross‐infection between patients, however, it has been shown repeatedly that a large proportion of nosocomial S. aureus infections originate from the patient's own flora. Nasal carriage of S. aureus is now considered a well defined risk factor for subsequent infection in various groups of patients. Local antibiotic treatment with mupirocin ointment is often used to eradicate nasal S. aureus. 
+Objectives
+To determine whether the use of mupirocin nasal ointment in patients with identified S. aureus nasal carriage reduced S. aureus infection rates. 
+Search methods
+For this first update we searched the Cochrane Wounds Group Specialised Register (searched 9 September 2010); The Cochrane Central Register of Controlled Trials (CENTRAL) ‐ The Cochrane Library 2010 Issue 3; Ovid MEDLINE (2007 to September Week 1 2010); Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations, September 10, 2010);Ovid EMBASE (2007 to 2010 Week 36); and EBSCO CINAHL (2007 to 10 September 2010). No language or publication restrictions were applied. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing nasal mupirocin with no treatment or placebo or alternative nasal treatment in the prevention of S. aureus infections in nasal S. aureus carriers were included. 
+Data collection and analysis
+Titles, abstracts and full‐text articles of studies retrieved from the search process were independently assessed by two authors for inclusion. From included studies a data extraction form was made and the quality of the trial was assessed. The primary outcome was the S. aureus infection rate (any site). Secondary outcomes were time to infection, mortality, adverse events and infection rate caused by micro‐organisms other than S. aureus. 

@@ -1,0 +1,10 @@
+Background
+Since autism was first described, major difficulties in social interaction have been a defining feature of individuals with autism spectrum disorders (ASD). Social skills groups are a common intervention for individuals with ASD. Although a frequently recommended practice, the few studies that have addressed the efficacy of social skills groups have shown mixed results. 
+Objectives
+To determine the effectiveness of social skills groups for improving social competence, social communication, and quality of life for people with ASD who are six to 21 years of age. 
+Search methods
+We searched the following databases in December 2011: CENTRAL (2011 Issue 4), MEDLINE (1948 to November Week 3, 2011), EMBASE (1980 to Week 50, 2011), PsycINFO (1887 to December Week 2, 2011), CINAHL (1937 to current), ERIC (1966 to current), Sociological Abstracts (1952 to current), OCLC WorldCat (12 December 2011), Social Science Citation Index (1970 to 16 December 2011), and the metaRegister of Controlled Trials (20 December 2011). We also searched the reference lists of published papers. 
+Selection criteria
+Randomized control trials (RCTs) comparing treatment (social skills groups) with a control group who were not receiving the treatment for participants aged six to 21 years with ASD. The control group could be no intervention, wait list, or treatment as usual. Outcomes sought were standardized measures of social competence, social communication, quality of life, emotion recognition, and any other specific behaviors. 
+Data collection and analysis
+Two review authors independently selected and appraised studies for inclusion and assessed the risk of bias in each included study. All outcome data were continuous and standardized mean difference effect sizes (ES) with small sample correction were calculated. We conducted random‐effects meta‐analysis where possible. 

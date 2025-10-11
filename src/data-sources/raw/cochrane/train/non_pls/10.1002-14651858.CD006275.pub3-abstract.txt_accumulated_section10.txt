@@ -1,0 +1,10 @@
+Background
+Infant acute pain and distress is commonplace. Infancy is a period of exponential development. Unrelieved pain and distress can have implications across the lifespan.  This is an update of a previously published review in the Cochrane Database of Systematic Reviews, Issue 10 2011 entitled 'Non‐pharmacological management of infant and young child procedural pain'. 
+Objectives
+To assess the efficacy of non‐pharmacological interventions for infant and child (up to three years) acute pain, excluding kangaroo care, and music. Analyses were run separately for infant age (preterm, neonate, older) and pain response (pain reactivity, immediate pain regulation).  
+Search methods
+For this update, we searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (Issue 2 of 12, 2015), MEDLINE‐Ovid platform (March 2015), EMBASE‐OVID platform (April 2011 to March 2015), PsycINFO‐OVID platform (April 2011 to February 2015), and CINAHL‐EBSCO platform (April 2011 to March 2015). We also searched reference lists and contacted researchers via electronic list‐serves. New studies were incorporated into the review. We refined search strategies with a Cochrane‐affiliated librarian. For this update, nine articles from the original 2011 review pertaining to Kangaroo Care were excluded, but 21 additional studies were added. 
+Selection criteria
+Participants included infants from birth to three years. Only randomised controlled trials (RCTs) or RCT cross‐overs that had a no‐treatment control comparison were eligible for inclusion in the analyses. However, when the additive effects of a non‐pharmacological intervention could be assessed, these studies were also included. We examined studies that met all inclusion criteria except for study design (e.g. had an active control) to qualitatively contextualize results. There were 63 included articles in the current update. 
+Data collection and analysis
+Study quality ratings and risk of bias were based on the Cochrane Risk of Bias Tool and GRADE approach. We analysed the standardized mean difference (SMD) using the generic inverse variance method. 

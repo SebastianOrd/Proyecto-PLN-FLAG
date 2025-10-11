@@ -1,0 +1,12 @@
+Background
+Implant overdentures are one of the most common treatment options used to rehabilitate edentulous patients. Attachment systems are used to anchor the overdentures to implants. The plethora of attachment systems available dictates a need for clinicians to understand their prosthodontic and patient‐related outcomes. 
+Objectives
+To compare different attachment systems for maxillary and mandibular implant overdentures by assessing prosthodontic success, prosthodontic maintenance, patient preference, patient satisfaction/quality of life and costs. 
+Search methods
+Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 24 January 2018); Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 12) in the Cochrane Library (searched 24 January 2018); MEDLINE Ovid (1946 to 24 January 2018); and Embase Ovid (1980 to 24 January 2018). The US National Institutes of Health Trials Registry (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials on 24 January 2018. No restrictions were placed on the language or date of publication when searching the electronic databases. 
+Selection criteria
+All randomised controlled trials (RCTs), including cross‐over trials on maxillary or mandibular implant overdentures with different attachment systems with at least 1 year follow‐up. 
+Data collection and analysis
+Four review authors extracted data independently and assessed risk of bias for each included trial. Several corresponding authors were subsequently contacted to obtain missing information. Fixed‐effect meta‐analysis was used to combine the outcomes with risk ratios (RR) for dichotomous outcomes and mean differences (MD) for continuous outcomes, with 95% confidence intervals (95% CI). We used the GRADE approach to assess the quality of evidence and create 'Summary of findings' tables. 
+Main results
+We identified six RCTs with a total of 294 mandibular overdentures (including one cross‐over trial). No trials on maxillary overdentures were eligible. Due to the poor reporting of the outcomes across the included trials, only limited analyses between mandibular overdenture attachment systems were possible. 

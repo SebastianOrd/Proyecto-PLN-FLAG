@@ -1,0 +1,14 @@
+Background
+The partograph (sometimes known as partogram) is usually a pre‐printed paper form on which labour observations are recorded. The aim of the partograph is to provide a pictorial overview of labour, and to alert midwives and obstetricians to deviations in maternal or fetal well‐being and labour progress. Charts have traditionally contained pre‐printed alert and action lines. An alert line, which is based on the slowest 10% of primigravid women's labours, signifies slow progress. An action line is placed a number of hours after the alert line (usually two or four hours) to prompt effective management of slow progress of labour. 
+This review is an update of a review last published in 2013.
+Objectives
+The primary objective was to determine the effectiveness and safety of partograph use on perinatal and maternal morbidity and mortality. The secondary objective was to determine which partograph design is most effective for perinatal and maternal morbidity and mortality outcomes. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth's Trials Register (31 August 2017), ClinicalTrials.gov, the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (31 August 2017) and reference lists of retrieved studies. 
+Selection criteria
+Randomised, cluster‐randomised, and quasi‐randomised controlled trials involving a comparison of partograph use with no partograph, or comparison between different partograph designs. 
+Data collection and analysis
+Three review authors independently assessed eligibility, quality and extracted data. When one review author was also the trial author, the two remaining review authors assessed the studies independently. We assessed the evidence using the GRADE approach. 
+Main results
+We have included 11 studies, involving 9475 women in this review; three studies assessed partograph use versus no partograph, seven assessed different partograph designs, and one assessed partograph use versus labour scale. Risk of bias varied in all studies. It was infeasible to blind staff or women to the intervention. Two studies did not adequately conceal allocation. Loss to follow‐up was low in all studies. We assessed the evidence for partograph use versus no partograph using the GRADE approach; downgrading decisions were due to study design, inconsistency, indirectness, and imprecision of effect estimates. 
+Most trials reported caesarean section rates and Apgar scores less than 7 at five minutes; all other outcomes were not consistently reported (e.g. duration of first stage of labour and maternal experience of childbirth). 

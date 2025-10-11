@@ -1,0 +1,10 @@
+Background
+Several antibiotics have been evaluated in Crohn's disease (CD), however randomised controlled trials (RCTs) have produced conflicting results. 
+Objectives
+To assess the efficacy and safety of antibiotics for induction and maintenance of remission in CD. 
+Search methods
+We searched MEDLINE, Embase, CENTRAL, the Cochrane IBD Group Specialized Register and Clinicaltrials.gov database from inception to 28 February 2018. We also searched reference lists and conference proceedings. 
+Selection criteria
+RCTs comparing antibiotics to placebo or an active comparator in adult (> 15 years) CD patients were considered for inclusion. 
+Data collection and analysis
+Two authors screened search results and extracted data. Bias was evaluated using the Cochrane risk of bias tool. The primary outcomes were failure to achieve clinical remission and relapse. Secondary outcomes included clinical response, endoscopic response, endoscopic remission, endoscopic relapse, histologic response, histologic remission, adverse events (AEs), serious AEs, withdrawal due to AEs and quality of life. Remission is commonly defined as a Crohn's disease activity index (CDAI) of < 150. Clinical response is commonly defined as a decrease in CDAI from baseline of 70 or 100 points. Relapse is defined as a CDAI > 150. For studies that enrolled participants with fistulizing CD, response was defined as a 50% reduction in draining fistulas. Remission was defined as complete closure of fistulas. We calculated the risk ratio (RR) and corresponding 95% confidence interval (95% CI) for dichotomous outcomes. We calculated the mean difference (MD) and corresponding 95% CI for continuous outcomes. GRADE was used to assess the certainty of the evidence. 

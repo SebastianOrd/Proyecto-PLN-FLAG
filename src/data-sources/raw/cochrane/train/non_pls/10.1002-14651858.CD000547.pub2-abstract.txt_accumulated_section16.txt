@@ -1,0 +1,16 @@
+Background
+Uterine fibroids occur in up to 40% of women aged over 35 years. Some are asymptomatic, but up to 50% cause symptoms that warrant therapy. Symptoms include anaemia caused by heavy menstrual bleeding, pelvic pain, dysmenorrhoea, infertility and low quality of life. Surgery is the first choice of treatment. In recent years, medical therapies have been used before surgery to improve intraoperative and postoperative outcomes. However, such therapies tend to be expensive. 
+Fibroid growth is stimulated by oestrogen. Gonadotropin‐hormone releasing analogues (GnRHa) induce a state of hypo‐oestrogenism that shrinks fibroids , but has unacceptable side effects if used long‐term. Other potential hormonal treatments, include progestins and selective progesterone‐receptor modulators (SPRMs). 
+This is an update of a Cochrane Review published in 2000 and 2001; the scope has been broadened to include all preoperative medical treatments. 
+Objectives
+To assess the effectiveness and safety of medical treatments prior to surgery for uterine fibroids. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group specialised register, CENTRAL, MEDLINE, Embase, PsycINFO and CINAHL in June 2017. We also searched trials registers (ClinicalTrials.com; WHO ICTRP), theses and dissertations and the grey literature, handsearched reference lists of retrieved articles and contacted pharmaceutical companies for additional trials. 
+Selection criteria
+We included randomised comparisons of medical therapy versus placebo, no treatment, or other medical therapy before surgery, myomectomy, hysterectomy or endometrial resection, for uterine fibroids. 
+Data collection and analysis
+We used standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+We included a total of 38 RCTs (3623 women); 19 studies compared GnRHa to no pretreatment (n = 19), placebo (n = 8), other medical pretreatments (progestin, SPRMs, selective oestrogen receptor modulators (SERMs), dopamine agonists, oestrogen receptor antagonists) (n = 7), and four compared SPRMs with placebo. Most results provided low‐quality evidence due to limitations in study design (poor reporting of randomisation procedures, lack of blinding), imprecision and inconsistency. 
+GnRHa versus no treatment or placebo  
+GnRHa treatments were associated with reductions in both uterine (MD ‐175 mL, 95% CI ‐219.0 to ‐131.7; 13 studies; 858 participants; I² = 67%; low‐quality evidence) and fibroid volume (heterogeneous studies, MD 5.7 mL to 155.4 mL), and increased preoperative haemoglobin (MD 0.88 g/dL, 95% CI 0.7 to 1.1; 10 studies; 834 participants; I² = 0%; moderate‐quality evidence), at the expense of a greater likelihood of adverse events, particularly hot flushes (OR 7.68, 95% CI 4.6 to 13.0; 6 studies; 877 participants; I² = 46%; moderate‐quality evidence). 

@@ -1,0 +1,9 @@
+Background
+The use of blended payment schemes in primary care, including the use of financial incentives to directly reward ‘performance’ and ‘quality’ is increasing in a number of countries. There are many examples in the US, and the Quality and Outcomes Framework (QoF) for general practitioners (GPs) in the UK is an example of a major system‐wide reform. Despite the popularity of these schemes, there is currently little rigorous evidence of their success in improving the quality of primary health care, or of whether such an approach is cost‐effective relative to other ways to improve the quality of care. 
+Objectives
+The aim of this review is to examine the effect of changes in the method and level of payment on the quality of care provided by primary care physicians (PCPs) and to identify: 
+i) the different types of financial incentives that have improved quality;
+ii) the characteristics of patient populations for whom quality of care has been improved by financial incentives; and 
+iii) the characteristics of PCPs who have responded to financial incentives.
+Search methods
+We searched the Cochrane Effective Practice and Organisation of Care (EPOC) Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL) and Cochrane Database of Systematic Reviews (CDSR) (The Cochrane Library), MEDLINE, HealthSTAR, EMBASE, CINAHL, PsychLIT, and ECONLIT. Searches of Internet‐based economics and health economics working paper collections were also conducted. Finally, studies were identified through the reference lists of retrieved articles, websites of key organisations, and from direct contact with key authors in the field. Articles were included if they were published from 2000 to August 2009. 

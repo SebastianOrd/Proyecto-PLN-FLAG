@@ -1,0 +1,13 @@
+Background
+Although delirium is typically an acute reversible cognitive impairment, its presence is associated with devastating impact on both short‐term and long‐term outcomes for critically ill patients. Advances in our understanding of the negative impact of delirium on patient outcomes have prompted trials evaluating multiple pharmacological interventions. However, considerable uncertainty surrounds the relative benefits and safety of available pharmacological interventions for this population. 
+Objectives
+Primary objective  
+1. To assess the effects of pharmacological interventions for treatment of delirium on duration of delirium in critically ill adults with confirmed or documented high risk of delirium 
+Secondary objectives  
+To assess the following:
+1. effects of pharmacological interventions on delirium‐free and coma‐free days; days with coma; delirium relapse; duration of mechanical ventilation; intensive care unit (ICU) and hospital length of stay; mortality; and long‐term outcomes (e.g. cognitive; discharge disposition; health‐related quality of life); and 
+2. the safety of such treatments for critically ill adult patients.
+Search methods
+We searched the following databases from their inception date to 21 March 2019: Ovid MEDLINE®, Ovid MEDLINE® In‐Process & Other Non‐Indexed Citations, Embase Classic+Embase, and PsycINFO using the Ovid platform. We also searched the Cochrane Library on Wiley, the International Prospective Register of Systematic Reviews (PROSPERO) (http://www.crd.york.ac.uk/PROSPERO/), the Cumulative Index to Nursing and Allied Health Literature (CINAHL), and Web of Science. We performed a grey literature search of relevant databases and websites using the resources listed in Grey Matters developed by the Canadian Agency for Drugs and Technologies in Health (CADTH). We also searched trial registries and abstracts from annual scientific critical care and delirium society meetings. 
+Selection criteria
+We sought randomized controlled trials (RCTs), including quasi‐RCTs, of any pharmacological (drug) for treatment of delirium in critically ill adults. The drug intervention was to be compared to another active drug treatment, placebo, or a non‐pharmacological intervention (e.g. mobilization). We did not apply any restrictions in terms of drug class, dose, route of administration, or duration of delirium or drug exposure. We defined critically ill patients as those treated in an ICU of any specialty (e.g. burn, cardiac, medical, surgical, trauma) or high‐dependency unit. 

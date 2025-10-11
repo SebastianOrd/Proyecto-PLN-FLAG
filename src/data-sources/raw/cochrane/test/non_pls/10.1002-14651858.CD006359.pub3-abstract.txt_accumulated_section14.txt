@@ -1,0 +1,14 @@
+Background
+A frozen embryo transfer (FET) cycle is when one or more embryos (frozen during a previous treatment cycle) are thawed and transferred to the uterus. Some women undergo fresh embryo transfer (ET) cycles with embryos derived from donated oocytes. In both situations, the endometrium is primed with oestrogen and progestogen in different doses and routes of administration. 
+Objectives
+To evaluate the most effective endometrial preparation for women undergoing transfer with frozen embryos or embryos from donor oocytes with regard to the subsequent live birth rate (LBR). 
+Search methods
+The Cochrane Gynaecology and Fertility Group trials register, CENTRAL, MEDLINE, Embase, PsycINFO, LILACS, trials registers and abstracts of reproductive societies' meetings were searched in June 2020 together with reference checking and contact with study authors and experts in the field to identify additional studies. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating endometrial preparation in women undergoing fresh donor cycles and frozen embryo transfers. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. We analysed all available interventions versus placebo, no treatment, or between each other. The primary review outcome was live birth rate. Secondary outcomes were clinical and multiple pregnancy, miscarriage, cycle cancellation, endometrial thickness and adverse effects. 
+Main results
+Thirty‐one RCTs (5426 women) were included. Evidence was moderate to very low‐quality: the main limitations were serious risk of bias due to poor reporting of methods, and serious imprecision. 
+Stimulated versus programmed cycle 
+We are uncertain whether a letrozole‐stimulated cycle compared to a programmed cycle, for endometrial preparation, improves LBR (odds ratio (OR) 1.26, 95% confidence interval (CI) 0.49 to 3.26; 100 participants; one study; very low‐quality evidence). 

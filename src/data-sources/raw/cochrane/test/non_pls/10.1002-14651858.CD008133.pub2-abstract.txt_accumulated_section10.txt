@@ -1,0 +1,10 @@
+Background
+Contracting out of governmental health services is a financing strategy that governs the way in which public sector funds are used to have services delivered by non‐governmental health service providers (NGPs). It represents a contract between the government and an NGP, detailing the mechanisms and conditions by which the latter should provide health care on behalf of the government. Contracting out is intended to improve the delivery and use of healthcare services. This Review updates a Cochrane Review first published in 2009. 
+Objectives
+To assess effects of contracting out governmental clinical health services to non‐governmental service provider/s, on (i) utilisation of clinical health services; (ii) improvement in population health outcomes; (iii) improvement in equity of utilisation of these services; (iv) costs and cost‐effectiveness of delivering the services; and (v) improvement in health systems performance. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, NHS Economic Evaluation Database, EconLit, ProQuest, and Global Health on 07 April 2017, along with two trials registers ‐ ClinicalTrials.gov and the International Clinical Trials Registry Platform ‐ on 17 November 2017. 
+Selection criteria
+Individually randomised and cluster‐randomised trials, controlled before‐after studies, interrupted time series, and repeated measures studies, comparing government‐delivered clinical health services versus those contracted out to NGPs, or comparing different models of non‐governmental‐delivered clinical health services. 
+Data collection and analysis
+Two authors independently screened all records, extracted data from the included studies and assessed the risk of bias. We calculated the net effect for all outcomes. A positive value favours the intervention whilst a negative value favours the control. Effect estimates are presented with 95% confidence intervals. We used the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach to assess the certainty of the evidence and we prepared a Summary of Findings table. 

@@ -1,0 +1,14 @@
+Background
+In areas where vitamin A deficiency (VAD) is a public health concern, the maternal dietary intake of vitamin A may be not sufficient to meet either the maternal nutritional requirements, or those of the breastfed infant, due the low retinol concentrations in breast milk. 
+Objectives
+To evaluate the effects of vitamin A supplementation for postpartum women on maternal and infant health. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (8 February 2016), LILACS (1982 to December 2015), Web of Science (1945 to December 2015), and the reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) or cluster‐randomised trials that assessed the effects of vitamin A supplementation for postpartum women on maternal and infant health (morbidity, mortality and vitamin A nutritional status). 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion, conducted data extraction, assessed risk of bias and checked for accuracy. We assessed the quality of the evidence using the GRADE approach. 
+Main results
+Fourteen trials of mainly low or unclear risk of bias, enrolling 25,758 women and infant pairs were included. The supplementation schemes included high, single or double doses of vitamin A (200,000 to 400,000 internation units (IU)), or 7.8 mg daily beta‐carotene compared with placebo, no treatment, other (iron); or higher (400,000 IU) versus lower dose (200,000 IU). In all trials, a considerable proportion of infants were at least partially breastfed until six months. 
+Supplement (vitamin A as retinyl, water‐miscible or beta‐carotene) 200,000 to 400,000 IU versus control (placebo or no treatment) 
+Maternal: We did not find evidence that vitamin A supplementation reduced maternal mortality at 12 months (hazard ratio (HR) 1.01, 95% confidence interval (CI) 0.44 to 2.21; 8577 participants; 1 RCT, moderate‐quality evidence). Effects were less certain at six months (risk ratio (RR) 0.50, 95% CI 0.09 to 2.71; 564 participants; 1 RCT; low‐quality evidence). The effect on maternal morbidity (diarrhoea, respiratory infections, fever) was uncertain because the quality of evidence was very low (50 participants, 1 RCT). We found insufficient evidence that vitamin A increases abdominal pain (RR 1.28, 95% CI 0.95 to 1.73; 786 participants; 1 RCT; low‐quality evidence). We found low‐quality evidence that vitamin A supplementation increased breast milk retinol concentrations by 0.20 µmol/L at three to three and a half months (mean difference (MD) 0.20 µmol/L, 95% CI 0.08 to 0.31; 837 participants; 6 RCTs). 

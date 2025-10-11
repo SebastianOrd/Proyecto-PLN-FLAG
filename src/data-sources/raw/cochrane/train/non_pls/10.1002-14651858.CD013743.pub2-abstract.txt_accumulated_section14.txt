@@ -1,0 +1,14 @@
+Background
+Antibiotics have been considered to treat ulcerative colitis (UC) due to their antimicrobial properties against intestinal bacteria linked to inflammation. However, there are concerns about their efficacy and safety. 
+Objectives
+To determine whether antibiotic therapy is safe and effective for the induction and maintenance of remission in people with UC. 
+Search methods
+We searched five electronic databases on 10 December 2021 for randomised controlled trials (RCTs) comparing antibiotic therapy to placebo or an active comparator. 
+Selection criteria
+We considered people with UC of all ages, treated with antibiotics of any type, dose, and route of administration for inclusion. Induction studies required a minimum duration of two weeks for inclusion. Maintenance studies required a minimum duration of three months to be considered for inclusion. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Our primary outcome for induction studies was failure to achieve remission and for maintenance studies was relapse, as defined by the primary studies. 
+Main results
+We included 12 RCTs (847 participants). One maintenance of remission study used sole antibiotic therapy compared with 5‐aminosalicylic acid (5‐ASA). All other trials used concurrent medications or standard care regimens and antibiotics as an adjunct therapy or compared antibiotics with other adjunct therapies to examine the effect on induction of remission. 
+There is high certainty evidence that antibiotics (154/304 participants) compared to placebo (175/304 participants) result in no difference in failure to achieve clinical remission (risk ratio (RR) 0.88, 95% confidence interval (CI) 0.74 to 1.06). A subgroup analysis found no differences when steroids, steroids plus 5‐ASA, or steroids plus 5‐ASA plus probiotics were used as additional therapies to antibiotics and placebo. 
+There is low certainty evidence that antibiotics (102/168 participants) compared to placebo (121/175 participants) may result in no difference in failure to achieve clinical response (RR 0.75, 95% CI 0.47 to 1.22). A subgroup analysis found no differences when steroids or steroids plus 5‐ASA were used as additional therapies to antibiotics and placebo. 

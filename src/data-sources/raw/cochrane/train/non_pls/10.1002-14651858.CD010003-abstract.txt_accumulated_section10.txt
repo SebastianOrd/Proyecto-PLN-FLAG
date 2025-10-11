@@ -1,0 +1,10 @@
+Background
+Carpal tunnel syndrome (CTS) is a condition where one of two main nerves in the wrist is compressed, which can lead to pain in the hand, wrist and sometimes arm, and numbness and tingling in the thumb, index and long finger. Splinting is usually offered to people with mild to moderate symptoms. However, the effectiveness and duration of the benefit of splinting for this condition remain unknown. 
+Objectives
+To compare the effectiveness of splinting for carpal tunnel syndrome with no treatment, placebo or another non‐surgical intervention. 
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register (10 January 2011), CENTRAL, NHSEED and DARE (The Cochrane Library 2011, Issue 4), MEDLINE (January 1966 to December 2011), EMBASE (January 1980 to January 2012), AMED (January 1985 to January 2012), and CINAHL Plus (January 1937 to January 2012), using no time limits. We searched the reference lists of all included trials and relevant reviews for further relevant studies. 
+Selection criteria
+All randomised and quasi‐randomised trials comparing splinting with no treatment (or a placebo) or with other non‐surgical treatments were eligible for inclusion. We also included studies comparing one splint type or regimen versus another. We excluded studies comparing splinting with surgical treatment. There were no language restrictions. We included all patients diagnosed with carpal tunnel syndrome unless they had undergone surgical release. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, and performed data extraction. Two authors also independently performed the assessment of risk of bias. We calculated measures of effect as risk ratios (RR) for dichotomous outcomes and mean differences (MD) for continuous outcomes, with 95% confidence intervals (CI) reported and statistical significance set at P < 0.05 for all outcome comparisons. 

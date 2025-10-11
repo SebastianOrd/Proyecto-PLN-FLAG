@@ -1,0 +1,10 @@
+Background
+Active mind‐body movement therapies (AMBMTs), including but not limited to yoga, tai chi, and qigong, have been applied as exercise modalities for people with chronic obstructive pulmonary disease (COPD). AMBMT strategies have been found to be more effective than usual care; however, whether AMBMT is inferior, equivalent, or superior to pulmonary rehabilitation (PR) in people with COPD remains to be determined. 
+Objectives
+To assess the effects of AMBMTs compared with, or in addition to, PR in the management of COPD. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register of trials and major Chinese databases, as well as trial registries from inception to July 2017. In addition, we searched references of primary studies and review articles. We updated this search in July 2018 but have not yet incorporated these results. 
+Selection criteria
+We included (1) randomised controlled trials (RCTs) comparing AMBMT (i.e. controlled breathing and/or focused meditation/attention interventions for which patients must actively move their joints and muscles for at least four weeks with no minimum intervention frequency) versus PR (any inpatient or outpatient, community‐based or home‐based rehabilitation programme lasting at least four weeks, with no minimum intervention frequency, that included conventional exercise training with or without education or psychological support) and (2) RCTs comparing AMBMT + PR versus PR alone in people with COPD. Two independent review authors screened and selected studies for inclusion. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, extracted outcome data, and assessed risk of bias. We contacted study authors if necessary to ask them to provide missing data. We calculated mean differences (MDs) using a random‐effects model. 

@@ -1,0 +1,13 @@
+Background
+This review is one of a suite of six Cochrane reviews looking at the primary medical management options for patients with chronic rhinosinusitis. 
+Chronic rhinosinusitis is a common condition involving inflammation of the lining of the nose and paranasal sinuses. It is characterised by nasal blockage and nasal discharge, facial pressure/pain and loss of sense of smell. The condition can occur with or without nasal polyps. Oral corticosteroids are used to control the inflammatory response and improve symptoms. 
+Objectives
+To assess the effects of a short course of oral corticosteroids as an adjunct ('add‐on') therapy in people with chronic rhinosinusitis who are already on standard treatments. 
+Search methods
+The Cochrane ENT Information Specialist searched the Cochrane ENT Trials Register; Central Register of Controlled Trials (CENTRAL 2015, Issue 7); MEDLINE; EMBASE; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 11 August 2015. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing a short course (up to 21 days) of oral corticosteroids to placebo or no treatment, where all patients were also receiving pharmacological treatment for chronic rhinosinusitis. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. Our primary outcomes were disease‐specific health‐related quality of life (HRQL), patient‐reported disease severity, and the adverse event of mood or behavioural disturbances. Secondary outcomes included general HRQL, endoscopic nasal polyp score, computerised tomography (CT) scan score, and the adverse events of insomnia, gastrointestinal disturbances and osteoporosis. We used GRADE to assess the quality of the evidence for each outcome; this is indicated in italics. 
+Main results
+Two trials with a total of 78 participants met the inclusion criteria. Both the populations and the 'standard' treatments differed in the two studies. 

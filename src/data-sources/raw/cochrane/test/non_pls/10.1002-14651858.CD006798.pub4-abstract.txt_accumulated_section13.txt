@@ -1,0 +1,13 @@
+Background
+Laparoscopic cholecystectomy is used to manage symptomatic gallstones. There is considerable controversy regarding whether it should be done as day‐surgery or as an overnight stay surgery with regards to patient safety. 
+Objectives
+To assess the impact of day‐surgery versus overnight stay laparoscopic cholecystectomy on patient‐oriented outcomes such as mortality, severe adverse events, and quality of life. 
+Search methods
+We searched the Cochrane Hepato‐Biliary Group Controlled Trials Register and the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, Science Citation Index Expanded, and mRCT until September 2012. 
+Selection criteria
+We included randomised clinical trials comparing day‐surgery versus overnight stay surgery for laparoscopic cholecystectomy, irrespective of language or publication status. 
+Data collection and analysis
+Two authors independently assessed trials for inclusion and independently extracted the data. We analysed the data with both the fixed‐effect and the random‐effects models using Review Manager 5 analysis. We calculated the risk ratio (RR), mean difference (MD), or standardised mean difference (SMD) with 95% confidence intervals (CI) based on intention‐to‐treat or available case analysis. 
+Main results
+We identified a total of six trials at high risk of bias involving 492 participants undergoing day‐case laparoscopic cholecystectomy (n = 239) versus overnight stay laparoscopic cholecystectomy (n = 253) for symptomatic gallstones. The number of participants in each trial ranged from 28 to 150. The proportion of women in the trials varied between 74% and 84%. The mean or median age in the trials varied between 40 and 47 years. 
+With regards to primary outcomes, only one trial reported short‐term mortality. However, the trial stated that there were no deaths in either of the groups. We inferred from the other outcomes that there was no short‐term mortality in the remaining trials. Long‐term mortality was not reported in any of the trials. There was no significant difference in the rate of serious adverse events between the two groups (4 trials; 391 participants; 7/191 (weighted rate 1.6%) in the day‐surgery group versus 1/200 (0.5%) in the overnight stay surgery group; rate ratio 3.24; 95% CI 0.74 to 14.09). There was no significant difference in quality of life between the two groups (4 trials; 333 participants; SMD ‐0.11; 95% CI ‐0.33 to 0.10). 

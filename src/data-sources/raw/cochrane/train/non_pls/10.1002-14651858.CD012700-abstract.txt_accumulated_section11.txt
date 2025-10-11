@@ -1,0 +1,11 @@
+Background
+Exercise training is commonly recommended for individuals with fibromyalgia. This review is one of a series of reviews about exercise training for people with fibromyalgia that will replace the "Exercise for treating fibromyalgia syndrome" review first published in 2002. 
+Objectives
+• To evaluate the benefits and harms of aerobic exercise training for adults with fibromyalgia 
+• To assess the following specific comparisons ० Aerobic versus control conditions (eg, treatment as usual, wait list control, physical activity as usual) ० Aerobic versus aerobic interventions (eg, running vs brisk walking) ० Aerobic versus non‐exercise interventions (eg, medications, education)  We did not assess specific comparisons involving aerobic exercise versus other exercise interventions (eg, resistance exercise, aquatic exercise, flexibility exercise, mixed exercise). Other systematic reviews have examined or will examine these comparisons (Bidonde 2014; Busch 2013). 
+Search methods
+We searched the Cochrane Library, MEDLINE, Embase, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), the Physiotherapy Evidence Database (PEDro), Thesis and Dissertation Abstracts, the Allied and Complementary Medicine Database (AMED), the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP), and the ClinicalTrials.gov registry up to June 2016, unrestricted by language, and we reviewed the reference lists of retrieved trials to identify potentially relevant trials. 
+Selection criteria
+We included randomized controlled trials (RCTs) in adults with a diagnosis of fibromyalgia that compared aerobic training interventions (dynamic physical activity that increases breathing and heart rate to submaximal levels for a prolonged period) versus no exercise or another intervention. Major outcomes were health‐related quality of life (HRQL), pain intensity, stiffness, fatigue, physical function, withdrawals, and adverse events. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, extracted data, performed a risk of bias assessment, and assessed the quality of the body of evidence for major outcomes using the GRADE approach. We used a 15% threshold for calculation of clinically relevant differences between groups. 

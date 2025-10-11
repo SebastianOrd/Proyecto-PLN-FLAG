@@ -1,0 +1,12 @@
+Background
+In malaria endemic areas, pre‐school children are at high risk of severe and repeated malaria illness. One possible public health strategy, known as Intermittent Preventive Treatment in children (IPTc), is to treat all children for malaria at regular intervals during the transmission season, regardless of whether they are infected or not. 
+Objectives
+To evaluate the effects of IPTc to prevent malaria in preschool children living in endemic areas with seasonal malaria transmission. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (July 2011), CENTRAL (The Cochrane Library 2011, Issue 6), MEDLINE (1966 to July 2011), EMBASE (1974 to July 2011), LILACS (1982 to July 2011), mRCT (July 2011), and reference lists of identified trials. We also contacted researchers working in the field for unpublished and ongoing trials. 
+Selection criteria
+Individually randomized and cluster‐randomized controlled trials of full therapeutic dose of antimalarial or antimalarial drug combinations given at regular intervals compared with placebo or no preventive treatment in children aged six years or less living in an area with seasonal malaria transmission. 
+Data collection and analysis
+Two authors independently assessed eligibility, extracted data and assessed the risk of bias in the trials. Data were meta‐analysed and measures of effects (ie rate ratio, risk ratio and mean difference) are presented with 95% confidence intervals (CIs). The quality of evidence was assessed using the GRADE methods. 
+Main results
+Seven trials (12,589 participants), including one cluster‐randomized trial, met the inclusion criteria. All were conducted in West Africa, and six of seven trials were restricted to children aged less than 5 years. 

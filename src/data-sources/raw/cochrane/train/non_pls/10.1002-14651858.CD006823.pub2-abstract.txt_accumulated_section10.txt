@@ -1,0 +1,10 @@
+Background
+Axillary dissection is commonly performed for breast carcinoma. It is uncertain whether insertion of a drain reduces complication rates. 
+Objectives
+To assess the effects of wound drainage after axillary dissection for breast carcinoma on the incidence of postoperative seroma formation. Secondary outcome measures include the incidence of infection and length of hospital stay. 
+Search methods
+We searched the Cochrane Wound and Breast Cancer Group's Specialised Registers (22 February 2013), MEDLINE (1950 to 22 February 2013), EMBASE (1966 to 22 February 2013), the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov (22 February 2013) for all prospectively registered and ongoing trials (22 February 2013). Reference lists of included studies were handsearched by two independent review authors to look for additional eligible trials. 
+Selection criteria
+All randomised controlled trials (RCTs) comparing wound drainage versus no wound drainage in individuals after axillary dissection for the treatment of breast carcinoma were included. All disease stages were considered. Breast‐conserving surgery and mastectomy were considered. Patients undergoing sentinel node biopsy without axillary dissection were not included. No limits were applied to language or study location. Two review authors independently determined the eligibility of each study. 
+Data collection and analysis
+Two review authors independently extracted data for each included study using a predesigned data extraction proforma and assessed risk of bias using The Cochrane Collaboration's 'Risk of bias' tool. Discrepancies were resolved by consensus discussion with a third review author. Dichotomous variables were analysed using a Mantel‐Haenszel model to produce odds ratios (ORs). Continuous variables were analysed using an inverse variance model to produce a mean difference (MD). 

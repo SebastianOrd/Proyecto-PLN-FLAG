@@ -1,0 +1,12 @@
+Background
+Hypoglycaemia is a common occurrence in people with diabetes but can also result from an imbalance in glucose homeostasis in the absence of diabetes. The best enteral route for glucose administration for suspected hypoglycaemia in a first aid situation is unknown. 
+Objectives
+To assess the effects of first aid glucose administration by any route appropriate for use by first‐aid providers (buccal, sublingual, oral, rectal) for symptomatic hypoglycaemia. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL as well as grey literature (records identified in the WHO ICTRP Search Portal, ClinicalTrials.gov and the EU Clinical Trials Register) up to July 2018. We searched reference lists of included studies retrieved by the above searches. 
+Selection criteria
+We included studies involving adults and children with documented or suspected hypoglycaemia as well as healthy volunteers, in which glucose was administered by any enteral route appropriate for use by first‐aid providers. 
+Data collection and analysis
+Two review authors independently selected trials, assessed risk of bias, extracted data and evaluated trials for overall certainty of the evidence using the GRADE instrument. We used the Cochrane 'Risk of bias' tool to assess the risk of bias in the randomised controlled trials (RCTs), and the 'risk of bias In non‐randomised studies of interventions' (ROBINS‐I) tool, in addition to the Cochrane Handbook for Systematic Reviews of Interventions recommendations on cross‐over studies, for the non‐RCTs. We reported continuous outcomes as mean differences (MD) with 95% confidence intervals (CIs) and dichotomous outcomes as risk ratios (RR) with 95% CIs. All data on glucose concentrations were converted to mg/dL. We contacted authors of included studies to obtain missing data. 
+Main results
+From 6394 references, we included four studies evaluating 77 participants, including two RCTs, studying children and adults with hypoglycaemia, respectively, and two non‐RCTs with healthy volunteers. The studies included three different routes of glucose administration (sublingual, buccal and a combination of oral and buccal administration). All studies had a high risk of bias in one or more 'Risk of bias' domain. 

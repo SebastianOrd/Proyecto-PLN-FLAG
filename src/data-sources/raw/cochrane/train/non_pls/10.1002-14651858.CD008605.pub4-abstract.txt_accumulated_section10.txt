@@ -1,0 +1,10 @@
+Background
+Ovarian hyperstimulation syndrome (OHSS) is a potentially serious complication of ovarian stimulation in assisted reproduction technology (ART). It is characterised by enlarged ovaries and an acute fluid shift from the intravascular space to the third space, resulting in bloating, increased risk of venous thromboembolism, and decreased organ perfusion. Most cases are mild, but forms of moderate or severe OHSS appear in 3% to 8% of in vitro fertilisation (IVF) cycles. Dopamine agonists were introduced as a secondary prevention intervention for OHSS in women at high risk of OHSS undergoing ART treatment.  
+Objectives
+To assess the effectiveness and safety of dopamine agonists in preventing OHSS in women at high risk of developing OHSS when undergoing ART treatment. 
+Search methods
+We searched the following databases from inception to 4 May 2020: Cochrane Gynaecology and Fertility Specialised Register, CENTRAL, MEDLINE, Embase, CINAHL, and PsycINFO for randomised controlled trials (RCTs) assessing the effect of dopamine agonists on OHSS rates. We also handsearched reference lists and grey literature. 
+Selection criteria
+We considered RCTs for inclusion that compared dopamine agonists with placebo/no intervention or another intervention for preventing OHSS in ART. Primary outcome measures were incidence of moderate or severe OHSS and live birth rate. Secondary outcomes were rates of clinical pregnancy, multiple pregnancy, miscarriage, and adverse events. 
+Data collection and analysis
+Two review authors independently screened titles, abstracts, and full texts of publications; selected studies; extracted data; and assessed risk of bias. We resolved disagreements  by consensus. We reported pooled results as odds ratios (OR) and 95% confidence interval (CI) by the Mantel‐Haenszel method. We applied GRADE criteria to judge overall quality of the evidence. 

@@ -1,0 +1,15 @@
+Non‐steroidal anti‐inflammatory drugs (NSAIDs) for acute gout
+What is an acute gout flare, and what are NSAIDs? 
+Gout results from the deposition of monosodium urate crystals within and around joints and presents usually as self‐limited episodes of acute arthritis. 
+NSAIDs (non‐steroidal anti‐inflammatory drugs) are drugs that reduce pain and inflammation but may increase the risk of gastrointestinal ulcers and bleeding. Cyclo‐oxygenase (COX)‐2 selective inhibitors (COXIBs) are a subgroup of NSAIDs that lead to fewer stomach ulcers. 
+Study characteristics 
+This is an update of a Cochrane Review first published in 2014 and updated on 28 August 2020, which revealed 28 trials (3406 participants). Most participants were men (69% to 100%) aged 44 to 66 years, with acute gout lasting less than 48 hours. 
+One trial (30 participants) compared placebo to an NSAID, 13 trials (518 participants) compared an NSAID to another NSAID, 6 trials (1244 participants) compared NSAIDs to COXIBs, 5 trials (772 participants) compared glucocorticoids to NSAIDs, 1 trial compared interleukin‐1 inhibitors to NSAIDs (225 participants), 1 trial compared acupuncture plus infrared irradiation to NSAIDs (163 participants), and 1 trial compared colchicine to NSAIDs (399 participants). We present key results for the primary comparison, NSAIDs versus placebo, as follows. 
+Key results 
+NSAID versus placebo  
+Pain improvement by more than 50% after 24 hours 
+47 more people out of 100 who took NSAIDs reported more than 50% improvement in pain compared to those given placebo 
+‐ 73 people out of 100 who took NSAIDs reported more than 50% improvement in pain
+‐ 26 people out of 100 who took placebo reported more than 50% improvement in pain
+Swelling improvement by more than 50% after 24 hours 
+6 more people out of 100 who took NSAIDs had more than 50% improvement in swelling compared to those given placebo 

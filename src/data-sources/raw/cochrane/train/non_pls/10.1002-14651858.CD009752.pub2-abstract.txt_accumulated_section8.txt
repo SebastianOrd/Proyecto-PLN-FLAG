@@ -1,0 +1,8 @@
+Background
+Congenital heart disease is the most commonly diagnosed neonatal congenital condition. Without surgery, only 30% to 40% of patients affected will survive to 10 years old. Mortality has fallen since the 1990s with 2006 to 2007 figures showing surgical survival at one year of 95%. Patients with congenital heart disease are potentially exposed to red cell transfusion at many points in the surgical pathway. There are a number of risks associated with red cell transfusion that may be translated into increased patient morbidity and mortality. 
+Objectives
+To evaluate the effects of red cell transfusion on mortality and morbidity on patients with congenital heart disease at the time of cardiac surgery. 
+Search methods
+We searched 11 bibliographic databases and three ongoing trials databases including the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 5, 2013), MEDLINE (Ovid, 1950 to 11 June 2013), EMBASE (Ovid, 1980 to 11 June 2013), ClinicalTrials.gov, World Health Organization (WHO) ICTRP and the ISRCTN Register (to June 2013). We also searched references of all identified trials, relevant review articles and abstracts from between 2006 and 2010 of the most relevant conferences. We did not limit the searches by language of publication. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing red cell transfusion interventions in patients undergoing cardiac surgery for congenital heart disease. We included participants of any age (neonates, paediatrics and adults) and with any type of congenital heart disease (cyanotic or acyanotic). We excluded patients with congenital heart disease undergoing non‐cardiac surgery. No co‐morbidities were excluded. 

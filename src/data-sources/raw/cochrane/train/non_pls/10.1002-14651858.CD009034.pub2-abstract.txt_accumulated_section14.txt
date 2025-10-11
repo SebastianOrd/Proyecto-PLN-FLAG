@@ -1,0 +1,14 @@
+Background
+Non‐bismuth quadruple sequential therapy (SEQ) comprising a first induction phase with a dual regimen of amoxicillin and a proton pump inhibitor (PPI) for five days followed by a triple regimen phase with a PPI, clarithromycin and metronidazole for another five days, has been suggested as a new first‐line treatment option to replace the standard triple therapy (STT) comprising a proton pump inhibitor (PPI), clarithromycin and amoxicillin, in which eradication proportions have declined to disappointing levels. 
+Objectives
+To conduct a meta‐analysis of randomised controlled trials (RCTs) comparing the efficacy of a SEQ regimen with STT for the eradication of H. pylori infection, and to compare the incidence of adverse effects associated with both STT and SEQ H. pylori eradication therapies. 
+Search methods
+We conducted bibliographical searches in electronic databases, and handsearched abstracts from Congresses up to April 2015. 
+Selection criteria
+We sought randomised controlled trials (RCTs) comparing 10‐day SEQ and STT (of at least seven days) for the eradication of H. pylori. Participants were adults and children diagnosed as positive for H. pylori infection and naïve to H. pylori treatment. 
+Data collection and analysis
+We used a pre‐piloted, tabular summary to collect demographic and medical information of included study participants as well as therapeutic data and information related to the diagnosis and confirmatory tests. 
+We evaluated the difference in intention‐to‐treat eradication between SEQ and STT regimens across studies, and assessed sources of the heterogeneity of this risk difference (RD) using subgroup analyses. 
+We evaluated the quality of the evidence following Cochrane standards, and summarised it using GRADE methodology. 
+Main results
+We included 44 RCTs with a total of 12,284 participants (6042 in SEQ and 6242 in STT). The overall analysis showed that SEQ was significantly more effective than STT (82% vs 75% in the intention‐to‐treat analysis; RD 0.09, 95% confidence interval (CI) 0.06 to 0.11; P < 0.001, moderate‐quality evidence). Results were highly heterogeneous (I² = 75%), and 20 studies did not demonstrate differences between therapies. 

@@ -1,0 +1,14 @@
+Background
+Available evidence on the effects of a high fraction of inspired oxygen (FIO2) of 60% to 90% compared with a routine fraction of inspired oxygen of 30% to 40%, during anaesthesia and surgery, on mortality and surgical site infection has been inconclusive. Previous trials and meta‐analyses have led to different conclusions on whether a high fraction of supplemental inspired oxygen during anaesthesia may decrease or increase mortality and surgical site infections in surgical patients. 
+Objectives
+To assess the benefits and harms of an FIO2 equal to or greater than 60% compared with a control FIO2 at or below 40% in the perioperative setting in terms of mortality, surgical site infection, respiratory insufficiency, serious adverse events and length of stay during the index admission for adult surgical patients. 
+We looked at various outcomes, conducted subgroup and sensitivity analyses, examined the role of bias and applied trial sequential analysis (TSA) to examine the level of evidence supporting or refuting a high FIO2 during surgery, anaesthesia and recovery. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, BIOSIS, International Web of Science, the Latin American and Caribbean Health Science Information Database (LILACS), advanced Google and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) up to February 2014. We checked the references of included trials and reviews for unidentified relevant trials and reran the searches in March 2015. We will consider two studies of interest when we update the review. 
+Selection criteria
+We included randomized clinical trials that compared a high fraction of inspired oxygen with a routine fraction of inspired oxygen during anaesthesia, surgery and recovery in individuals 18 years of age or older. 
+Data collection and analysis
+Two review authors extracted data independently. We conducted random‐effects and fixed‐effect meta‐analyses, and for dichotomous outcomes, we calculated risk ratios (RRs). We used published data and data obtained by contacting trial authors. 
+To minimize the risk of systematic error, we assessed the risk of bias of the included trials. To reduce the risk of random errors caused by sparse data and repetitive updating of cumulative meta‐analyses, we applied trial sequential analyses. We used Grades of Recommendation, Assessment, Development and Evaluation (GRADE) to assess the quality of the evidence. 
+Main results
+We included 28 randomized clinical trials (9330 participants); in the 21 trials reporting relevant outcomes for this review, 7597 participants were randomly assigned to a high fraction of inspired oxygen versus a routine fraction of inspired oxygen. 

@@ -1,0 +1,10 @@
+Background
+Idiopathic inflammatory myopathies are chronic diseases with significant mortality and morbidity. Whilst immunosuppressive and immunomodulatory therapies are frequently used, the optimal therapeutic regimen remains unclear. This is an update of a review first published in 2005. 
+Objectives
+To assess the effects of immunosuppressants and immunomodulatory treatments for dermatomyositis and polymyositis. 
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register (August 2011), the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 3 2011), MEDLINE (January 1966 to August 2011), EMBASE (January 1980 to August 2011) and clinicaltrials.gov (August 2011). We checked the bibliographies of identified trials and wrote to disease experts. 
+Selection criteria
+We included all randomised controlled trials (RCTs) or quasi‐RCTs involving participants with probable or definite dermatomyositis and polymyositis as defined by the criteria of Bohan and Peter, or definite, probable or mild/early by the criteria of Dalakas. In participants without a classical rash of dermatomyositis, inclusion body myositis should have been excluded by muscle biopsy. We considered any immunosuppressant or immunomodulatory treatment. The two primary outcomes were the change in a function or disability scale measured as the proportion of participants improving one grade, two grades etc, predefined based on the scales used in the studies after at least six months, and a 15% or greater improvement in muscle strength compared with baseline after at least six months. Other outcomes were: the International Myositis Assessment and Clinical Studies Group (IMACS) definition of improvement, number of relapses and time to relapse, remission and time‐to‐remission, cumulative corticosteroid dose and serious adverse effects. 
+Data collection and analysis
+Two authors independently selected papers, extracted data and assessed risk of bias in included studies. They collected adverse event data from the included studies. 

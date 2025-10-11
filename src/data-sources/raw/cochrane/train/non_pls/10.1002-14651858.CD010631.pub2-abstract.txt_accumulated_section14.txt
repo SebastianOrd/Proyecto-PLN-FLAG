@@ -1,0 +1,14 @@
+Background
+Chlorpromazine is an aliphatic phenothiazine, which is one of the widely‐used typical antipsychotic drugs. Chlorpromazine is reliable for its efficacy and one of the most tested first generation antipsychotic drugs. It has been used as a ‘gold standard’ to compare the efficacy of older and newer antipsychotic drugs. Expensive new generation drugs are heavily marketed worldwide as a better treatment for schizophrenia, but this may not be the case and an unnecessary drain on very limited resources. 
+Objectives
+To compare the effects of chlorpromazine with atypical or second generation antipsychotic drugs, for the treatment of people with schizophrenia. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Trials Register up to 23 September 2013. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared chlorpromazine with any other atypical antipsychotic drugs for treating people with schizophrenia. Adults (as defined in each trial) diagnosed with schizophrenia, including schizophreniform, schizoaffective and delusional disorders were included in this review. 
+Data collection and analysis
+At least two review authors independently screened the articles identified in the literature search against the inclusion criteria and extracted data from included trials. For homogeneous dichotomous data, we calculated the risk ratio (RR) and the 95% confidence intervals (CIs). For continuous data, we determined the mean difference (MD) values and 95% CIs. We assessed the risk of bias in included studies and rated the quality of the evidence using the GRADE approach. 
+Main results
+This review includes 71 studies comparing chlorpromazine to olanzapine, risperidone or quetiapine. None of the included trials reported any data on economic costs. 
+1. Chlorpromazine versus olanzapine 
+In the short term, there appeared to be a significantly greater clinical response (as defined in each study) in people receiving olanzapine (3 RCTs, N = 204; RR 2.34, 95% CI 1.37 to 3.99, low quality evidence). There was no difference between drugs for relapse (1 RCT, N = 70; RR 1.5, 95% CI 0.46 to 4.86, very low quality evidence), nor in average endpoint score using the Brief Psychiatric Rating Scale (BPRS) for mental state (4 RCTs, N = 245; MD 3.21, 95% CI −0.62 to 7.05,very low quality evidence). There were significantly more extrapyramidal symptoms experienced amongst people receiving chlorpromazine (2 RCTs, N = 298; RR 34.47, 95% CI 4.79 to 248.30,very low quality evidence). Quality of life ratings using the general quality of life interview (GQOLI) ‐ physical health subscale were more favourable with people receiving olanzapine (1 RCT, N = 61; MD −10.10, 95% CI −13.93 to −6.27, very low quality evidence). There was no difference between groups for people leaving the studies early (3 RCTs, N = 139; RR 1.69, 95% CI 0.45 to 6.40, very low quality evidence). 

@@ -1,0 +1,12 @@
+Background
+Randomized controlled trials have yielded conflicting results regarding the ability of beta‐blockers to influence perioperative cardiovascular morbidity and mortality. Thus routine prescription of these drugs in unselected patients remains a controversial issue. 
+Objectives
+The objective of this review was to systematically analyse the effects of perioperatively administered beta‐blockers for prevention of surgery‐related mortality and morbidity in patients undergoing any type of surgery while under general anaesthesia. 
+Search methods
+We identified trials by searching the following databases from the date of their inception until June 2013: MEDLINE, Embase , the Cochrane Central Register of Controlled Trials (CENTRAL), Biosis Previews, CAB Abstracts, Cumulative Index to Nursing and Allied Health Literature (CINAHL), Derwent Drug File, Science Citation Index Expanded, Life Sciences Collection, Global Health and PASCAL. In addition, we searched online resources to identify grey literature. 
+Selection criteria
+We included randomized controlled trials if participants were randomly assigned to a beta‐blocker group or a control group (standard care or placebo). Surgery (any type) had to be performed with all or at least a significant proportion of participants under general anaesthesia. 
+Data collection and analysis
+Two review authors independently extracted data from all studies. In cases of disagreement, we reassessed the respective studies to reach consensus. We computed summary estimates in the absence of significant clinical heterogeneity. Risk ratios (RRs) were used for dichotomous outcomes, and mean differences (MDs) were used for continuous outcomes. We performed subgroup analyses for various potential effect modifiers. 
+Main results
+We included 88 randomized controlled trials with 19,161 participants. Six studies (7%) met the highest methodological quality criteria (studies with overall low risk of bias: adequate sequence generation, adequate allocation concealment, double/triple‐blinded design with a placebo group, intention‐to‐treat analysis), whereas in the remaining trials, some form of bias was present or could not be definitively excluded (studies with overall unclear or high risk of bias). Outcomes were evaluated separately for cardiac and non‐cardiac surgery. 

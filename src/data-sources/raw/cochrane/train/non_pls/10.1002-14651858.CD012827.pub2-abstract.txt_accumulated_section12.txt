@@ -1,0 +1,12 @@
+Background
+Infantile hypertrophic pyloric stenosis (IHPS) is a disorder of young children (aged one year or less) and can be treated by laparoscopic (LP) or open (OP) longitudinal myotomy of the pylorus. Since the first description in 1990, LP is being performed more often worldwide. 
+Objectives
+To compare the efficacy and safety of open versus laparoscopic pyloromyotomy for IHPS.
+Search methods
+We conducted a literature search on 04 February 2021 to identify all randomised controlled trials (RCTs), without any language restrictions. We searched the following electronic databases: MEDLINE (1990 to February 2021), Embase (1990 to February 2021), and the Cochrane Central Register of Controlled Trials (CENTRAL). We also searched the Internet using the Google Search engine (www.google.com) and Google Scholar (scholar.google.com) to identify grey literature not indexed in databases. 
+Selection criteria
+We included RCTs and quasi‐randomised trials comparing LP with OP for hypertrophic pyloric stenosis. 
+Data collection and analysis
+Two review authors independently screened references and extracted data from trial reports. Where outcomes or study details were not reported, we requested missing data from the corresponding authors of the primary RCTs. We used a random‐effects model to calculate risk ratios (RRs) for binary outcomes, and mean differences (MDs) for continuous outcomes. Two review authors independently assessed risks of bias. We used GRADE to assess the certainty of the evidence for all outcomes. 
+Main results
+The electronic database search resulted in a total of 434 records. After de‐duplication, we screened 410 independent publications, and ultimately included seven RCTs (reported in 8 reports) in quantitative analysis. The seven included RCTs enrolled 720 participants (357 with open pyloromyotomy and 363 with laparoscopic pyloromyotomy). One study was a multi‐country trial, three were carried out in the USA, and one study each was carried out in France, Japan, and Bangladesh. 

@@ -1,0 +1,9 @@
+Background
+Antiplatelet agents are recommended for people with myocardial infarction and acute coronary syndromes, transient ischaemic attack or stroke, and for those in whom coronary stents have been inserted. People who take antiplatelet agents are at increased risk of adverse events when undergoing non‐cardiac surgery because of these indications. However, taking antiplatelet therapy also introduces risk to the person undergoing surgery because the likelihood of bleeding is increased. Discontinuing antiplatelet therapy before surgery might reduce this risk but subsequently it might make thrombotic problems, such as myocardial infarction, more likely. 
+Objectives
+To compare the effects of continuation versus discontinuation for at least five days of antiplatelet therapy on the occurrence of bleeding and ischaemic events in adults undergoing non‐cardiac surgery under general, spinal or regional anaesthesia. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 1), MEDLINE (1946 to January 2018), and Embase (1974 to January 2018). We searched clinical trials registers for ongoing studies, and conducted backward and forward citation searching of relevant articles. 
+Selection criteria
+We included randomized controlled trials of adults who were taking single or dual antiplatelet therapy, for at least two weeks, and were scheduled for elective non‐cardiac surgery. Included participants had at least one cardiac risk factor. We planned to include quasi‐randomized studies. 
+We excluded people scheduled for minor surgeries under local anaesthetic or sedation in which bleeding that required transfusion or additional surgery was unlikely. We included studies which compared perioperative continuation of antiplatelet therapy versus discontinuation of antiplatelet therapy or versus substitution of antiplatelet therapy with a placebo for at least five days before surgery. 

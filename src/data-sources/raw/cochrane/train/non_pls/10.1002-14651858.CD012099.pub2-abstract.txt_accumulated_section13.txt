@@ -1,0 +1,13 @@
+Background
+Exclusive breastfeeding is recommended for all infants until six months of age due to the many health benefits for both the mother and infant. 
+Evidence suggests that mothers who are overweight (body mass index (BMI) 25.0 to 29.9 kg/m²) or obese (BMI ≥ 30.0 kg/m²) are less likely to initiate breastfeeding and to breastfeed for a shorter duration. Considering the rising prevalence of overweight and obesity globally and the known benefits of breastfeeding particularly in reducing the long‐term risks of obesity and diabetes for infants, establishing effective ways to support and promote breastfeeding in women who are overweight or obese is paramount in achieving the goal of healthier communities. 
+Objectives
+To assess the effectiveness of interventions to support the initiation or continuation of breastfeeding in women who are overweight or obese. 
+Search methods
+On 23 January 2019 we searched Cochrane Pregnancy and Childbirth's Trials Register, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform (ICTRP) and reference lists of retrieved trials. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs that compared interventions to support the initiation and continuation of breastfeeding in women who are overweight or obese. Interventions included social support, education, physical support, or any combination of these. Interventions were compared either with each other or against a control group. 
+Data collection and analysis
+We assessed all potential trials identified from the search strategy. Two review authors extracted data from each included trial and assessed risk of bias. We resolved discrepancies through discussion with the third review author. We assessed the quality of the evidence using the GRADE approach. 
+Main results
+We found no trials comparing one type of support versus another. We included seven RCTs (including one cluster‐RCT) involving 831 women. The number of women in each trial ranged from 36 to 226. The trials were conducted in high‐income countries: USA (5 trials); Denmark (1 trial) and Australia (1 trial), between 2006 and 2015. Three trials only included women who were obese prior to pregnancy and four trials included both women who were overweight and women who were obese. We judged risk of bias in the included trials to be mixed; only one trial was judged to be low risk of bias for random sequence generation, allocation concealment and attrition bias. 

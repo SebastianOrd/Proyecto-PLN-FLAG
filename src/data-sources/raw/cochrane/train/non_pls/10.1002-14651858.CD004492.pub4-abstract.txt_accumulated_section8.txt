@@ -1,0 +1,8 @@
+Background
+The transtheoretical model is the most widely known of several stage‐based theories of behaviour. It proposes that smokers move through a discrete series of motivational stages before they quit successfully. These are precontemplation (no thoughts of quitting), contemplation (thinking about quitting), preparation (planning to quit in the next 30 days), action (quitting successfully for up to six months), and maintenance (no smoking for more than six months). According to this influential model, interventions which help people to stop smoking should be tailored to their stage of readiness to quit, and are designed to move them forward through subsequent stages to eventual success. People in the preparation and action stages of quitting would require different types of support from those in precontemplation or contemplation. 
+Objectives
+Our primary objective was to test the effectiveness of stage‐based interventions in helping smokers to quit. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group's specialised register for trials, using the terms ('stage* of change', 'transtheoretical model*', 'trans‐theoretical model*, 'precaution adoption model*', 'health action model', 'processes of change questionnaire*', 'readiness to change', 'tailor*') and 'smoking' in the title or abstract, or as keywords. The latest search was in August 2010. 
+Selection criteria
+We included randomized controlled trials, which compared stage‐based interventions with non‐stage‐based controls, with 'usual care' or with assessment only. We excluded trials which did not report a minimum follow‐up period of six months from start of treatment, and those which measured stage of change but did not modify their intervention in the light of it. 

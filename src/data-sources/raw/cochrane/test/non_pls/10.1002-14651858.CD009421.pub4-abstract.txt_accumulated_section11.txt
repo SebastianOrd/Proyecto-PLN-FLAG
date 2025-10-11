@@ -1,0 +1,11 @@
+Background
+For people with cystic fibrosis and advanced pulmonary damage, lung transplantation is an available and viable option. However, graft rejection is an important potential consequence after lung transplantation. Immunosuppressive therapy is needed to prevent episodes of graft rejection and thus subsequently reduce morbidity and mortality in this population. There are a number of classes of immunosuppressive drugs which act on different components of the immune system. There is considerable variability in the use of immunosuppressive agents after lung transplantation in cystic fibrosis. While much of the research in immunosuppressive drug therapy has focused on the general population of lung transplant recipients, little is known about the comparative effectiveness and safety of these agents in people with cystic fibrosis. This is the final update of a previously published review; no longer being updated due to a lack of research in the area. 
+Objectives
+To assess the effects of individual drugs or combinations of drugs compared to placebo or other individual drugs or combinations of drugs in preventing rejection following lung transplantation in people with cystic fibrosis. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register and scanned references of the potentially eligible study. We also searched the www.clinicaltrials.gov registry and the World Health Organisation (WHO) International Clinical Trials Registry Platform (ICTRP) to obtain information on unpublished and ongoing studies. 
+Date of latest search: 29 May 2018.
+Selection criteria
+Randomised and quasi‐randomised studies.
+Data collection and analysis
+We independently assessed the studies identified from our searches for inclusion in the review. If we had found eligible studies to include in the review, we planned to independently extract data and assess the risk of bias. We planned to use GRADE to summarize our results through a summary of findings table for each comparison we could present in the review. 

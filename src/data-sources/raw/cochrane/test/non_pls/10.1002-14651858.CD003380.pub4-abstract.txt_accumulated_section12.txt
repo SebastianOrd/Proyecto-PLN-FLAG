@@ -1,0 +1,12 @@
+Background
+Depression is common in young people. It has a marked negative impact and is associated with self‐harm and suicide. Preventing its onset would be an important advance in public health. This is an update of a Cochrane review that was last updated in 2011. 
+Objectives
+To determine whether evidence‐based psychological interventions (including cognitive behavioural therapy (CBT), interpersonal therapy (IPT) and third wave CBT)) are effective in preventing the onset of depressive disorder in children and adolescents. 
+Search methods
+We searched the specialised register of the Cochrane Common Mental Disorders Group (CCMDCTR to 11 September 2015), which includes relevant randomised controlled trials from the following bibliographic databases: The Cochrane Library (all years), EMBASE (1974 to date), MEDLINE (1950 to date) and PsycINFO (1967 to date). We searched conference abstracts and reference lists of included trials and reviews, and contacted experts in the field. 
+Selection criteria
+We included randomised controlled trials of an evidence‐based psychological prevention programme compared with any comparison control for young people aged 5 to 19 years, who did not currently meet diagnostic criteria for depression. 
+Data collection and analysis
+Two authors independently assessed trials for inclusion and rated their risk of bias. We adjusted sample sizes to take account of cluster designs and multiple comparisons. We contacted trial authors for additional information where needed. We assessed the quality of evidence for the primary outcomes using GRADE. 
+Main results
+We included 83 trials in this review. The majority of trials (67) were carried out in school settings with eight in colleges or universities, four in clinical settings, three in the community and four in mixed settings. Twenty‐nine trials were carried out in unselected populations and 53 in targeted populations. 

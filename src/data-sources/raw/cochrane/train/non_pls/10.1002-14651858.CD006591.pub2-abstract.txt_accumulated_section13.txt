@@ -1,0 +1,13 @@
+Background
+Non‐adherence to tuberculosis treatment can lead to prolonged periods of infectiousness, relapse, emergence of drug‐resistance, and increased morbidity and mortality. In this review, we assess whether patient education or counselling, or both, promotes adherence to tuberculosis treatment. 
+Objectives
+To evaluate the effects of patient education or counselling, or both, on treatment completion and cure in people requiring treatment for active or latent tuberculosis. 
+Search methods
+Without language restriction, we searched for eligible studies in the Cochrane Infectious Diseases Group Specialized Register, Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, and LILACS; checked reference lists of relevant articles; and contacted relevant researchers and organizations up to 24 November 2011. 
+Selection criteria
+Randomized controlled trials examining the effects of education or counselling, or both, on treatment completion and cure in people with clinical tuberculosis; and treatment completion and clinical tuberculosis in people with latent disease. 
+Data collection and analysis
+We independently screened identified studies for eligibility, assessed methodological quality, and extracted data; with differences resolved by consensus. We expressed study results as risk ratios (RRs) with 95% confidence intervals (CI). 
+Main results
+We found three trials, with a total of 1437 participants, which examined the effects of different educational and counselling interventions on adherence to treatment for latent tuberculosis. 
+All three trials reported the proportion of people who successfully completed treatment for latent tuberculosis. Overall, education or counselling interventions may increase successful treatment completion but the magnitude of benefit is likely to vary depending on the nature of the intervention, and the setting (data not pooled, 923 participants, three trials, low quality evidence). 

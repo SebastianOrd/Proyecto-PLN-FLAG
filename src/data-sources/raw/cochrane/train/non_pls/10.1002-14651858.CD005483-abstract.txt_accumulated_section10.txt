@@ -1,0 +1,10 @@
+Background
+Individuals with HIV infection often lose weight during the course of their disease. Furthermore, low serum concentrations of testosterone are common in individuals with HIV infection, particularly those with weight loss. Treatment of weight loss with anabolic steroids in HIV‐infected individuals may be beneficial. 
+Objectives
+Our objectives were to assess the efficacy and safety of anabolic steroids for the treatment of weight loss in adults with HIV infection. 
+Search methods
+We searched the following databases: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, AIDSLINE, AIDSearch, EMBASE, CINAHL, Current Contents, and the National Library of Medicine Gateway Abstracts for controlled trials up to April 2005. We also searched the bibliographies of the identified studies and review the articles. In addition, pharmaceutical manufacturers of anabolic steroids were contacted. 
+Selection criteria
+Randomized controlled trials that compared the use of an anabolic steroid to placebo to treat weight loss in adults with HIV were included. Randomized controlled trials that compared the use of anabolic steroids to placebo for the treatment of weight loss in adults with HIV were selected. Change from baseline in lean body mass or in body weight was reported as on outcome measure. 
+Data collection and analysis
+Two reviewers independently assessed the trials for quality of randomization, blinding, withdrawals, and adequacy of allocation concealment. For continuous data, weighted mean differences (WMD) were calculated. For dichotomous outcomes, risk differences, were calculated. Because of uncertainty as to whether consistent true effects exist in such different populations and treatments, the authors decided a priori to use random effects models for all outcomes. 

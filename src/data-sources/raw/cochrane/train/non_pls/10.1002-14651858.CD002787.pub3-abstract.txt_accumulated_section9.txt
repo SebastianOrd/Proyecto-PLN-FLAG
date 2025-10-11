@@ -1,0 +1,9 @@
+Background
+Acute hypoxaemic respiratory failure (AHRF) and mostly acute respiratory distress syndrome (ARDS) are critical conditions. AHRF results from several systemic conditions and is associated with high mortality and morbidity in individuals of all ages. Inhaled nitric oxide (INO) has been used to improve oxygenation, but its role remains controversial. This Cochrane review was originally published in 2003, and has been updated in 2010 and 2016. 
+Objectives
+The primary objective was to examine the effects of administration of inhaled nitric oxide on mortality in adults and children with ARDS. 
+Secondary objectives were to examine secondary outcomes such as pulmonary bleeding events, duration of mechanical ventilation, length of stay, etc. We conducted subgroup and sensitivity analyses, examined the role of bias and applied trial sequential analyses (TSAs) to examine the level of evidence. 
+Search methods
+In this update, we searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2015 Issue 11); MEDLINE (Ovid SP, to 18 November 2015), EMBASE (Ovid SP, to 18 November 2015), CAB, BIOSIS and the Cumulative Index to Nursing and Allied Health Literature (CINAHL). We handsearched the reference lists of the newest reviews and cross‐checked them with our search of MEDLINE. We contacted the main authors of included studies to request any missed, unreported or ongoing studies. The search was run from inception until 18 November 2015. 
+Selection criteria
+We included all randomized controlled trials (RCTs), irrespective of publication status, date of publication, blinding status, outcomes published or language. We contacted trial investigators and study authors to retrieve relevant and missing data. 

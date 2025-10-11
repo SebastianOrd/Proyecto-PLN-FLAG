@@ -1,0 +1,13 @@
+Background
+Epilepsy is a chronic neurological disorder which affects millions of people around the world. Antiepileptic drugs (AED) are the main interventions used to prevent seizures and control epilepsy. Although effective in most cases, AEDs are related to long‐term adverse effects, such as cognitive and behavioural alterations. Thus when epilepsy is in remission, it may be in the individual’s best interest to discontinue medication. However, the optimal timing of AED discontinuation is still unknown. 
+This is an updated version of the original Cochrane review published in Issue 3, 2001.
+Objectives
+(1) To quantify and compare risk of seizure recurrence, status epilepticus and mortality after early and late AED discontinuation in adult and pediatric epilepsy patients. 
+(2) To assess which variables modify the risk of seizure recurrence.
+(3) To define a subpopulation in which early AED discontinuation is safe.
+Search methods
+We searched the Cochrane Epilepsy Group Specialised Register (June 2014); CENTRAL (Issue 5, The Cochrane Library, May 2014); MEDLINE (1946 to June 2014); CINAHL (23 June 2014); Scopus (1823 to June 2014); ClinicalTrials.gov (23 June 2014); and WHO International Clinical Trials Registry Platform (23 June 2014). We also checked the reference lists of studies found through the electronic searches. 
+Selection criteria
+Randomised controlled trials that evaluate withdrawal of AEDs after varying periods of seizure remission in adults and children with epilepsy. Included studies compared an early AED discontinuation time (defined as a period of remission of seizures of less than two years) versus a late AED discontinuation time (defined as a period of remission of seizures of more than two years). 
+Data collection and analysis
+Two authors independently extracted data and assessed trial quality. Risk ratio (RR) with 95% confidence interval (CI) was calculated for each trial. Summary RRs and 95% CIs for dichotomous data were calculated using a fixed‐effect model. A test of statistical heterogeneity was conducted for each pooled risk ratio calculation. Each included study underwent a 'Risk of bias' assessment, based on the Cochrane Handbook recommendations, and we examined the overall quality of information through the GRADE system, presented in two 'Summary of Findings' tables. 

@@ -1,0 +1,12 @@
+Background
+Comorbid depression and substance use disorders are common and have poorer outcomes than either disorder alone. While effective psychological treatments for depression or substance use disorders are available, relatively few randomised controlled trials (RCTs) have examined the efficacy of these treatments in people with these comorbid disorders. 
+Objectives
+To assess the efficacy of psychological interventions delivered alone or in combination with pharmacotherapy for people diagnosed with comorbid depression and substance use disorders. 
+Search methods
+We searched the following databases up to February 2019: Cochrane Central Register of Controlled Trials, PubMed, Embase, CINAHL, Google Scholar and clinical trials registers. All systematic reviews identified, were handsearched for relevant articles. 
+Selection criteria
+The review includes data from RCTs of psychological treatments for people diagnosed with comorbid depression and substance use disorders, using structured clinical interviews. Studies were included if some of the sample were experiencing another mental health disorder (e.g. anxiety); however, studies which required a third disorder as part of their inclusion criteria were not included. Studies were included if psychological interventions (with or without pharmacotherapy) were compared with no treatment, delayed treatment, treatment as usual or other psychological treatments. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+Seven RCTs of psychological treatments with a total of 608 participants met inclusion criteria. All studies were published in the USA and predominately consisted of Caucasian samples. All studies compared different types of psychological treatments. Two studies compared Integrated Cognitive Behavioural Therapy (ICBT) with Twelve Step Facilitation (TSF), another two studies compared Interpersonal Psychotherapy for Depression (IPT‐D) with other treatment (Brief Supportive Therapy (BST) or Psychoeducation). The other three studies compared different types or combinations of psychological treatments. No studies compared psychological interventions with no treatment or treatment as usual control conditions. The studies included a diverse range of participants (e.g. veterans, prisoners, community adults and adolescents). 

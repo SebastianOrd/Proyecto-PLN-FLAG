@@ -1,0 +1,12 @@
+Background
+Gonadotropins are the most commonly used medications for controlled ovarian stimulation in in vitro fertilisation (IVF). However, they are expensive and invasive, and are associated with the risk of ovarian hyperstimulation syndrome (OHSS). Recent calls for more patient‐friendly regimens have led to growing interest in the use of clomiphene citrate (CC) and aromatase inhibitors with or without gonadotropins to reduce the burden of hormonal injections. It is currently unknown whether regimens using CC or aromatase inhibitors such as letrozole (Ltz) are as effective as gonadotropins alone. 
+Objectives
+To determine the effectiveness and safety of regimens including oral induction medication (such as clomiphene citrate or letrozole) versus gonadotropin‐only regimens for controlled ovarian stimulation in IVF or intracytoplasmic sperm injection (ICSI) treatment. 
+Search methods
+We searched the following databases: Cochrane Gynaecology and Fertility Group Specialised Register (searched January 2017), the Cochrane Central Register of Controlled Trials (CENTRAL CRSO), MEDLINE (1946 to January 2017), Embase (1980 to January 2017), and reference lists of relevant articles. We also searched trials registries ClinicalTrials.gov (clinicaltrials.gov/) and the World Health Organization International Clinical Trials Registry Platform (www.who.int/trialsearch/Default.aspx). We handsearched relevant conference proceedings. 
+Selection criteria
+We included randomized controlled trials (RCTs). The primary outcomes were live‐birth rate (LBR) and OHSS. 
+Data collection and analysis
+Three review authors independently assessed trial eligibility and risk of bias. We calculated risk ratios (RR) and Peto odds ratio (OR) with 95% confidence intervals (CIs) for dichotomous outcomes and mean differences (MD) for continuous outcomes. We analyzed the general population of women undergoing IVF treatment and (as a separate analysis) women identified as poor responders. We assessed the overall quality of the evidence using the GRADE approach. 
+Main results
+We included 27 studies in the updated review. Most of the new trials in the updated review included poor responders and evaluated Ltz protocols. We could perform meta‐analysis with data from 22 studies including a total of 3599 participants. The quality of the evidence for different comparisons ranged from low to moderate. The main limitations in the quality of the evidence were risk of bias associated with poor reporting of study methods, and imprecision. 

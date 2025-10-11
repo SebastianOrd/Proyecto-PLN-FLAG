@@ -1,0 +1,10 @@
+Background
+Deep vein thrombosis (DVT) occurs when a blood clot blocks blood flow through a vein, which can occur after surgery, after trauma, or when a person has been immobile for a long time. Clots can dislodge and block blood flow to the lungs (pulmonary embolism (PE)), causing death. DVT and PE are known by the term venous thromboembolism (VTE). Heparin (in the form of unfractionated heparin (UFH)) is a blood‐thinning drug used during the first three to five days of DVT treatment. Low molecular weight heparins (LMWHs) allow people with DVT to receive their initial treatment at home instead of in hospital. This is an update of a review first published in 2001 and updated in 2007. 
+Objectives
+To compare the incidence and complications of venous thromboembolism (VTE) in patients treated at home versus patients treated with standard in‐patient hospital regimens. Secondary objectives included assessment of patient satisfaction and cost‐effectiveness of treatment. 
+Search methods
+For this update, the Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register (last searched 16 March 2017), the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 2), and trials registries. We also checked the reference lists of relevant publications. 
+Selection criteria
+Randomised controlled trials (RCTs) examining home versus hospital treatment for DVT, in which DVT was clinically confirmed and was treated with LMWHs or UFH. 
+Data collection and analysis
+One review author selected material for inclusion, and another reviewed the selection of trials. Two review authors independently extracted data and assessed included studies for risk of bias. Primary outcomes included combined VTE events (PE and recurrent DVT), gangrene, heparin complications, and death. Secondary outcomes were patient satisfaction and cost implications. We performed meta‐analysis using fixed‐effect models with risk ratios (RRs) and 95% confidence intervals (CIs) for dichotomous data. 

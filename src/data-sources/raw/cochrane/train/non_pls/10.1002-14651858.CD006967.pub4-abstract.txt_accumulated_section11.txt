@@ -1,0 +1,11 @@
+Background
+This is an updated version of the original Cochrane review published in Issue 6, 2012.
+Epilepsy is one of the most common chronic neurological disorders. Despite the plethora of antiepileptic drugs (AEDs) currently available, 30% of people continue having seizures. This group of people requires a more aggressive treatment, since monotherapy, the first choice scheme, fails to control seizures. Nevertheless, polytherapy often results in a number of unwanted effects, including neurological disturbances (somnolence, ataxia, dizziness), psychiatric and behavioural symptoms, and metabolic alteration (osteoporosis, inducement or inhibition of hepatic enzymes, etc.). The need for better tolerated AEDs is even more urgent in this group of people. Reports have suggested an antiepileptic role of melatonin with a good safety profile. 
+Objectives
+To assess the efficacy and tolerability of melatonin as add‐on treatment for epilepsy.
+Search methods
+For the latest update, we searched the Cochrane Epilepsy Group's Specialized Register (12 January 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online (CRSO, 12 January 2016), and MEDLINE (Ovid, 11 January 2016). We searched the bibliographies of any identified study for further references. We handsearched selected journals and conference proceedings. We applied no language restrictions. In addition, we contacted melatonin manufacturers (i.e. Nathura) and original investigators to identify any unpublished studies. 
+Selection criteria
+Randomized controlled trials; double, single, or unblinded trials; parallel group or cross‐over studies. People with epilepsy regardless of age and gender, including children and adults with disabilities. Administration of melatonin as add‐on treatment to any AED(s) compared to add‐on placebo or no add‐on treatment. 
+Data collection and analysis
+Review authors independently selected trials for inclusion according to pre‐defined criteria, extracted relevant data, and evaluated the methodological quality of trials. We assessed the following outcomes: at least 50% seizure reduction, seizure freedom, adverse events, and quality of life. 

@@ -1,0 +1,12 @@
+Background
+Physical activity (including exercise) may form an important part of regular care for people with cystic fibrosis (CF). This is an update of a previously published review. 
+Objectives
+To assess the effects of physical activity interventions on exercise capacity by peak oxygen uptake, lung function by forced expiratory volume in one second (FEV1), health‐related quality of life (HRQoL) and further important patient‐relevant outcomes in people with cystic fibrosis (CF). 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register which comprises references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. The most recent search was on 3 March 2022. We also searched two ongoing trials registers: clinicaltrials.gov, most recently on 4 March 2022; and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP), most recently on 16 March 2022.  
+Selection criteria
+We included all randomised controlled trials (RCTs) and quasi‐RCTs comparing physical activity interventions of any type and a minimum intervention duration of two weeks with conventional care (no physical activity intervention) in people with CF. 
+Data collection and analysis
+Two review authors independently selected RCTs for inclusion, assessed methodological quality and extracted data. We assessed the certainty of the evidence using GRADE.  
+Main results
+We included 24 parallel RCTs (875 participants). The number of participants in the studies ranged from nine to 117, with a wide range of disease severity. The studies' age demographics varied: in two studies, all participants were adults; in 13 studies, participants were 18 years and younger; in one study, participants were 15 years and older; in one study, participants were 12 years and older; and seven studies included all age ranges. The active training programme lasted up to and including six months in 14 studies, and longer than six months in the remaining 10 studies. Of the 24 included studies, seven implemented a follow‐up period (when supervision was withdrawn, but participants were still allowed to exercise) ranging from one to 12 months. Studies employed differing levels of supervision: in 12 studies, training was supervised; in 11 studies, it was partially supervised; and in one study, training was unsupervised. The quality of the included studies varied widely. 

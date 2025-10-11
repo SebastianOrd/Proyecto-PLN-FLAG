@@ -1,0 +1,13 @@
+Background
+The reduction of lung inflammation is one of the goals of cystic fibrosis therapy. Inhaled corticosteroids are often used in this respect to treat children and adults with cystic fibrosis. The rationale for this is their potential to reduce lung damage arising from inflammation, as well as their effect on symptomatic wheezing. It is important to establish the current level of evidence for the risks and benefits of inhaled corticosteroids, especially in the light of their known adverse effects on growth. This is an update of a previously published review; however, due to the lack of research in this area, we do not envisage undertaking any further updates. 
+Objectives
+To assess the effectiveness of taking regular inhaled corticosteroids compared to not taking them in children and adults with cystic fibrosis. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register, comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. We requested information from pharmaceutical companies manufacturing inhaled corticosteroids and authors of identified trials. 
+Date of most recent search of the Group's Trials Register: 19 November 2018.
+Selection criteria
+Randomised or quasi‐randomised trials, published and unpublished, comparing inhaled corticosteroids to placebo or standard treatment in individuals with cystic fibrosis. 
+Data collection and analysis
+Two independent authors assessed methodological quality and risk of bias in trials using established criteria and extracted data using standard pro formas. The quality of the evidence was assessed using the GRADE criteria. 
+Main results
+The searches identified 35 citations, of which 27 (representing 13 trials) were eligible for inclusion. These 13 trials reported the use of inhaled corticosteroids in 525 people with cystic fibrosis aged between 6 and 55 years. One was a withdrawal trial in 171 individuals who were already taking inhaled corticosteroids. Methodological quality and risk of bias were difficult to assess from published information. 

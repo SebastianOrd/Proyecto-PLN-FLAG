@@ -1,0 +1,12 @@
+Background
+Nidotherapy is a therapeutic method that principally aims to modify the environment of people with schizophrenia and other serious mental illnesses, whilst working in conjunction with, or alongside other treatments. Rather than focusing on direct treatments or interventions, the aim is to help the individual identify the need for, and work to effect environmental change with the aim of minimising the impact of any form of mental disorder on the individual and society. 
+Objectives
+To review the effects of nidotherapy added to standard care, compared with standard care or no treatment for people with schizophrenia or related disorders. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (December 2011) and supplemented this by contacting relevant study authors, handsearching nidotherapy articles and manually searching reference lists. 
+Selection criteria
+All randomised controlled trials (RCTs) that compared nidotherapy with standard care or no treatment. 
+Data collection and analysis
+We independently selected and quality assessed potential trials. We reliably extracted data. We calculated risk ratios (RR) and 95% confidence intervals (CI) of homogeneous dichotomous data. Scale data were only extracted from valid scales. For non‐skewed continuous endpoint data, we estimated mean difference (MD) between groups. Skewed data have been presented in the Data and analyses as 'other data', with acknowledged means and standard deviations. We assessed risk of bias for the included study and used GRADE to create a 'Summary of findings' table. 
+Main results
+We included only one study that compared nidotherapy‐enhanced standard care with standard care alone (total 52 participants); this study was classified by its authors as a 'pilot study'. The duration of the included study was 18 months in total. The single study examined the short‐term (up to six months) and medium‐term (between six and 12 months) effects of nidotherapy‐enhanced standard care versus standard care. 

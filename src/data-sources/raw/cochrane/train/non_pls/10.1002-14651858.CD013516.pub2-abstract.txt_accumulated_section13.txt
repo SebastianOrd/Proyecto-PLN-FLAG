@@ -1,0 +1,13 @@
+Background
+The term prediabetes is used to describe a population with an elevated risk of developing type 2 diabetes mellitus (T2DM). With projections of an increase in the incidence of T2DM, prevention or delay of the disease and its complications is paramount. It is currently unknown whether pioglitazone is beneficial in the treatment of people with increased risk of developing T2DM. 
+Objectives
+To assess the effects of pioglitazone for prevention or delay of T2DM and its associated complications in people at risk of developing T2DM. 
+Search methods
+We searched CENTRAL, MEDLINE, Chinese databases, ICTRP Search Portal and ClinicalTrials.gov. We did not apply any language restrictions. Further, we investigated the reference lists of all included studies and reviews. We tried to contact all study authors. The date of the last search of databases was November 2019 (March 2020 for Chinese databases). 
+Selection criteria
+We included randomised controlled trials (RCTs) with a minimum duration of 24 weeks, and participants diagnosed with intermediate hyperglycaemia with no concomitant diseases, comparing pioglitazone as monotherapy or part of dual therapy with other glucose‐lowering drugs, behaviour‐changing interventions, placebo or no intervention. 
+Data collection and analysis
+Two review authors independently screened abstracts, read full‐text articles and records, assessed risk of bias and extracted data. We performed meta‐analyses with a random‐effects model and calculated risk ratios (RRs) for dichotomous outcomes and mean differences (MDs) for continuous outcomes, with 95% confidence intervals (CIs) for effect estimates. We evaluated the certainty of the evidence with the GRADE. 
+Main results
+We included 27 studies with a total of 4186 randomised participants. The size of individual studies ranged between 43 and 605 participants and the duration varied between 6 and 36 months. We judged none of the included studies as having low risk of bias across all 'Risk of bias' domains. Most studies identified people at increased risk of T2DM by impaired fasting glucose or impaired glucose tolerance (IGT), or both. 
+Our main outcome measures were all‐cause mortality, incidence of T2DM, serious adverse events (SAEs), cardiovascular mortality, nonfatal myocardial infarction or stroke (NMI/S), health‐related quality of life (QoL) and socioeconomic effects. The following comparisons mostly reported only a fraction of our main outcome set. 

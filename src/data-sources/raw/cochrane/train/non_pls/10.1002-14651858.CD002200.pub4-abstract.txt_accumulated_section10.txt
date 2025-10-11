@@ -1,0 +1,10 @@
+Background
+This is the fourth update of a Cochrane Review first published in 2002 and last updated in 2016. It is common clinical practice to follow patients with colorectal cancer for several years following their curative surgery or adjuvant therapy, or both. Despite this widespread practice, there is considerable controversy about how often patients should be seen, what tests should be performed, and whether these varying strategies have any significant impact on patient outcomes. 
+Objectives
+To assess the effect of follow‐up programmes (follow‐up versus no follow‐up, follow‐up strategies of varying intensity, and follow‐up in different healthcare settings) on overall survival for patients with colorectal cancer treated with curative intent. Secondary objectives are to assess relapse‐free survival, salvage surgery, interval recurrences, quality of life, and the harms and costs of surveillance and investigations. 
+Search methods
+For this update, on 5 April 2109 we searched CENTRAL, MEDLINE, Embase, CINAHL, and Science Citation Index. We also searched reference lists of articles, and handsearched the Proceedings of the American Society for Radiation Oncology. In addition, we searched the following trials registries: ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform. We contacted study authors. We applied no language or publication restrictions to the search strategies. 
+Selection criteria
+We included only randomised controlled trials comparing different follow‐up strategies for participants with non‐metastatic colorectal cancer treated with curative intent. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Two review authors independently determined study eligibility, performed data extraction, and assessed risk of bias and methodological quality. We used GRADE to assess evidence quality. 

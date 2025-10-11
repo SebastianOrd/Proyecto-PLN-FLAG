@@ -1,0 +1,12 @@
+Background
+Cough is a frequent symptom presenting to doctors. The most common cause of childhood chronic (greater than fours weeks' duration) wet cough is protracted bacterial bronchitis (PBB) in some settings, although other more serious causes can also present this way. Timely and effective management of chronic wet or productive cough improves quality of life and clinical outcomes. Current international guidelines suggest a course of antibiotics is the first treatment of choice in the absence of signs or symptoms specific to an alternative diagnosis. This review sought to clarify the current evidence to support this recommendation. 
+Objectives
+To determine the efficacy of antibiotics in treating children with prolonged wet cough (excluding children with bronchiectasis or other known underlying respiratory illness) and to assess risk of harm due to adverse events. 
+Search methods
+We undertook an updated search (from 2008 onwards) using the Cochrane Airways Group Specialised Register, Cochrane Register of Controlled Trials (CENTRAL), MEDLINE, Embase, trials registries, review articles and reference lists of relevant articles. The latest searches were performed in September 2017. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing antibiotics with a placebo or a control group in children with chronic wet cough. We excluded cluster and cross‐over trials. 
+Data collection and analysis
+We used standard methods as recommended by Cochrane. We reviewed results of searches against predetermined criteria for inclusion. Two independent review authors selected, extracted and assessed the data for inclusion. We contacted authors of eligible studies for further information as needed. We analysed data as 'intention to treat.' 
+Main results
+We identified three studies as eligible for inclusion in the review. Two were in the previous review and one new study was included. We considered the older studies to be at high or unclear risk of bias whereas we judged the newly included study at low risk of bias. The studies varied in treatment duration (from 7 to 14 days) and the antibiotic used (two studies used amoxicillin/clavulanate acid and one used erythromycin). 

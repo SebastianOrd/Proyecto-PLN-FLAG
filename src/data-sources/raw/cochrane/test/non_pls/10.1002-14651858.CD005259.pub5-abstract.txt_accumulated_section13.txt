@@ -1,0 +1,13 @@
+Background
+Knee arthroscopy (KA) is a routine orthopedic procedure recommended to repair cruciate ligaments and meniscus injuries and, in suitable cases, to assist the diagnosis of persistent knee pain. There is a small risk of thromboembolic events associated with KA. This systematic review aims to assess if pharmacological or non‐pharmacological interventions may reduce this risk. This is an update of an earlier Cochrane Review. 
+Objectives
+To evaluate the efficacy and safety of interventions – whether mechanical, pharmacological, or a combination of both – for thromboprophylaxis in adults undergoing KA. 
+Search methods
+We used standard, extensive Cochrane search methods. The latest search date was 1 June 2021. 
+Selection criteria
+We included randomized controlled trials (RCTs) and controlled clinical trials (CCTs), blinded or unblinded, of all types of interventions used to prevent deep vein thrombosis (DVT) in men and women aged 18 years and older undergoing KA. 
+Data collection and analysis
+We used standard Cochrane methods. Our primary outcomes were pulmonary embolism (PE), symptomatic DVT, asymptomatic DVT, and all‐cause mortality. Our secondary outcomes were adverse effects, major bleeding, and minor bleeding. We used GRADE criteria to assess the certainty of the evidence. 
+Main results
+We did not identify any new studies for this update. This review includes eight studies involving 3818 adults with no history of thromboembolic disease. Five studies compared daily subcutaneous low‐molecular‐weight heparin (LMWH) versus no prophylaxis; one study compared oral rivaroxaban 10 mg versus placebo; one study compared daily subcutaneous LMWH versus graduated compression stockings; and one study compared aspirin versus no prophylaxis. 
+The incidence of PE in all studies combined was low, with seven cases in 3818 participants. There were no deaths in any of the intervention or control groups. 

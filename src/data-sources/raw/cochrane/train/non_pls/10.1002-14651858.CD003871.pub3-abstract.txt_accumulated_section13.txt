@@ -1,0 +1,13 @@
+Background
+Staphylococcus aureus (S. aureus) can cause secondary infection in eczema, and may promote inflammation in eczema that does not look infected. There is no standard intervention to reduce S. aureus burden in eczema. It is unclear whether antimicrobial treatments help eczema or promote bacterial resistance. This is an update of a 2008 Cochrane Review. 
+Objectives
+To assess the effects of interventions to reduce S. aureus for treating eczema. 
+Search methods
+We updated our searches of the following databases to October 2018: Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase and LILACS. We searched five trials registers and three sets of conference proceedings. We checked references of trials and reviews for further relevant studies. We contacted pharmaceutical companies regarding ongoing and unpublished trials. 
+Selection criteria
+Randomised controlled trials of products intended to reduce S. aureus on the skin in people diagnosed with atopic eczema by a medical practitioner. Eligible comparators were a similar treatment regimen without the anti‐staphylococcal agent. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Our key outcomes were participant‐ or assessor‐rated global improvement in symptoms/signs, quality of life (QOL), severe adverse events requiring withdrawal, minor adverse events, and emergence of antibiotic‐resistant micro‐organisms. 
+Main results
+We included 41 studies (1753 analysed participants) covering 10 treatment categories. Studies were conducted mainly in secondary care in Western Europe; North America; the Far East; and elsewhere. Twelve studies recruited children; four, adults; 19, both; and six, unclear. Fifty‐nine per cent of the studies reported the mean age of participants (range: 1.1 to 34.6 years). Eczema severity ranged from mild to severe. Many studies did not report our primary outcomes. Treatment durations ranged from 10 minutes to 3 months; total study durations ranged from 15 weeks to 27 months. We considered 33 studies at high risk of bias in at least one domain. 
+We present results for three key comparisons. All time point measurements were taken from baseline. We classed outcomes as short‐term when treatment duration was less than four weeks, and long‐term when treatment was given for more than four weeks. 

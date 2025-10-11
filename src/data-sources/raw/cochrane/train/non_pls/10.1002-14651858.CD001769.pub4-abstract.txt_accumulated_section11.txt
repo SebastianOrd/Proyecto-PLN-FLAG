@@ -1,0 +1,11 @@
+Background
+Epilepsy is a common neurological condition in which abnormal electrical discharges from the brain cause recurrent unprovoked seizures. It is believed that with effective drug treatment up to 70% of individuals with active epilepsy have the potential to become seizure‐free, and to go into long‐term remission shortly after starting drug therapy with a single antiepileptic drug in monotherapy. 
+Worldwide, sodium valproate and phenytoin are commonly used antiepileptic drugs for monotherapy treatment. It is generally believed that phenytoin is more effective for focal onset seizures, and that sodium pvalproate is more effective for generalised onset tonic‐clonic seizures (with or without other generalised seizure types). This review is one in a series of Cochrane Reviews investigating pair‐wise monotherapy comparisons. This is the latest updated version of the review first published in 2001, and updated in 2013 and 2016. 
+Objectives
+To review the time to treatment failure, remission and first seizure of sodium valproate compared to phenytoin when used as monotherapy in people with focal onset seizures or generalised tonic‐clonic seizures (with or without other generalised seizure types). 
+Search methods
+We searched the Cochrane Epilepsy Group's Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform ICTRP on 19 February 2018. We handsearched relevant journals, contacted pharmaceutical companies, original trial investigators and experts in the field. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing monotherapy with either sodium valproate or phenytoin in children or adults with focal onset seizures or generalised onset tonic‐clonic seizures 
+Data collection and analysis
+This was an individual participant data (IPD) review. Our primary outcome was time to treatment failure and our secondary outcomes were time to first seizure post‐randomisation, time to six‐month, and 12‐month remission, and incidence of adverse events. We used Cox proportional hazards regression models to obtain trial‐specific estimates of hazard ratios (HRs) with 95% confidence intervals (CIs), using the generic inverse variance method to obtain the overall pooled HR and 95% CI. 

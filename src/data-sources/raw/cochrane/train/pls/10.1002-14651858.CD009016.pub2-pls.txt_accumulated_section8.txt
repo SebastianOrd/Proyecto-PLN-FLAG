@@ -1,0 +1,8 @@
+Body warming of people undergoing surgery to avoid complications and increase comfort after surgery 
+Review question 
+We reviewed the effects of warming the body by transferring heat through the skin surface to prevent complications caused by unintended low body temperature (hypothermia) in adults undergoing surgery. 
+Background 
+Sedatives and anaesthesia interfere with temperature regulatory responses and so can cause unplanned hypothermia during surgery and immediately after surgery. Long periods of exposure of large surfaces of skin to cold temperatures in operating rooms can also contribute to this effect. Hypothermia can make the recovery process more uncomfortable for the patients, as they often wake with chills and shivering, an involuntary response to cold to increase the production of body heat. Hypothermia may also be related to undesirable events such as infections and complications of the wound, complications of the heart and circulation, increased bleeding and a greater need for blood transfusions. 
+To avoid this unintended hypothermia, several different types of active warming systems are used to transfer heat to the body of the patient through the skin, either immediately before or during surgery, or both. 
+Study characteristics 
+The review includes 67 randomized controlled trials (5438 people). The trials included patients of all ages and both genders undergoing all types of surgery. The evidence was from studies available to October 2015. Forty‐five trials compared a warming system to a control intervention, 18 compared different types of warming systems, and 10 compared different modalities of the same warming system. Forced‐air warming was the most studied system. 

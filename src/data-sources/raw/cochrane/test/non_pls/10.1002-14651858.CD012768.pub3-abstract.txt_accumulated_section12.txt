@@ -1,0 +1,12 @@
+Background
+Xpert MTB/RIF Ultra (Xpert Ultra) and Xpert MTB/RIF are World Health Organization (WHO)‐recommended rapid nucleic acid amplification tests (NAATs) widely used for simultaneous detection of Mycobacterium tuberculosis complex and rifampicin resistance in sputum. To extend our previous review on extrapulmonary tuberculosis (Kohli 2018), we performed this update to inform updated WHO policy (WHO Consolidated Guidelines (Module 3) 2020). 
+Objectives
+To estimate diagnostic accuracy of Xpert Ultra and Xpert MTB/RIF for extrapulmonary tuberculosis and rifampicin resistance in adults with presumptive extrapulmonary tuberculosis. 
+Search methods
+Cochrane Infectious Diseases Group Specialized Register, MEDLINE, Embase, Science Citation Index, Web of Science, Latin American Caribbean Health Sciences Literature, Scopus, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform, the International Standard Randomized Controlled Trial Number Registry, and ProQuest, 2 August 2019 and 28 January 2020 (Xpert Ultra studies), without language restriction. 
+Selection criteria
+Cross‐sectional and cohort studies using non‐respiratory specimens. Forms of extrapulmonary tuberculosis: tuberculous meningitis and pleural, lymph node, bone or joint, genitourinary, peritoneal, pericardial, disseminated tuberculosis. Reference standards were culture and a study‐defined composite reference standard (tuberculosis detection); phenotypic drug susceptibility testing and line probe assays (rifampicin resistance detection). 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias and applicability using QUADAS‐2. For tuberculosis detection, we performed separate analyses by specimen type and reference standard using the bivariate model to estimate pooled sensitivity and specificity with 95% credible intervals (CrIs). We applied a latent class meta‐analysis model to three forms of extrapulmonary tuberculosis. We assessed certainty of evidence using GRADE. 
+Main results
+69 studies: 67 evaluated Xpert MTB/RIF and 11 evaluated Xpert Ultra, of which nine evaluated both tests. Most studies were conducted in China, India, South Africa, and Uganda. Overall, risk of bias was low for patient selection, index test, and flow and timing domains, and low (49%) or unclear (43%) for the reference standard domain. Applicability for the patient selection domain was unclear for most studies because we were unsure of the clinical settings. 

@@ -1,0 +1,14 @@
+Background
+Attention deficit hyperactivity disorder (ADHD) in children is associated with hyperactivity and impulsivity, attention problems, and difficulties with social interactions. Pharmacological treatment may alleviate the symptoms of ADHD but this rarely solves difficulties with social interactions. Children with ADHD may benefit from interventions designed to improve their social skills. We examined the benefits and harms of social skills training on social skills, emotional competencies, general behaviour, ADHD symptoms, performance in school of children with ADHD, and adverse events. 
+Objectives
+To assess the beneficial and harmful effects of social skills training in children and adolescents with ADHD. 
+Search methods
+In July 2018, we searched CENTRAL, MEDLINE, Embase, PsycINFO, 4 other databases and two trials registers.We also searched online conference abstracts, and contacted experts in the field for information about unpublished or ongoing randomised clinical trials. We did not limit our searches by language, year of publication, or type or status of publication, and we sought translation of the relevant sections of non‐English language articles. 
+Selection criteria
+Randomised clinical trials investigating social skills training versus either no intervention or waiting‐list control, with or without pharmacological treatment of both comparison groups of children and adolescents with ADHD. 
+Data collection and analysis
+We conducted the review in accordance with the Cochrane Handbook for Systematic Reviews of Intervention. We performed the analyses using Review Manager 5 software and Trial Sequential Analysis. We assessed bias according to domains for systematic errors. We assessed the certainty of the evidence with the GRADE approach. 
+Main results
+We included 25 randomised clinical trials described in 45 reports. The trials included a total of 2690 participants aged between five and 17 years. In 17 trials, participants were also diagnosed with various comorbidities. 
+The social skills interventions were described as: 1) social skills training, 2) cognitive behavioural therapy, 3) multimodal behavioural/psychosocial therapy, 4) child life and attention skills treatment, 5) life skills training, 6) the "challenging horizon programme", 7) verbal self‐instruction, 8) meta‐cognitive training, 9) behavioural therapy, 10) behavioural and social skills treatment, and 11) psychosocial treatment. The control interventions were no intervention or waiting list. 
+The duration of the interventions ranged from five weeks to two years. We considered the content of the social skills interventions to be comparable and based on a cognitive‐behavioural model. Most of the trials compared child social skills training or parent training combined with medication versus medication alone. Some of the experimental interventions also included teacher consultations. 

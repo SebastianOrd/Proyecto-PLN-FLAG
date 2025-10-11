@@ -1,0 +1,10 @@
+Background
+An abnormal dilatation of the abdominal aorta is referred to as an abdominal aortic aneurysm (AAA). Due to the risk of rupture, surgical repair is offered electively to individuals with aneurysms greater than 5.5 cm in size. Traditionally, conventional open surgical repair (OSR) was considered the first choice approach. However, over the past two decades endovascular aneurysm repair (EVAR) has gained popularity as a treatment option. This article intends to review the role of EVAR in the management of elective AAA. 
+Objectives
+To assess the effectiveness of EVAR versus conventional OSR in individuals with AAA considered fit for surgery, and EVAR versus best medical care in those considered unfit for surgery. This was determined by the effect on short, intermediate and long‐term mortality, endograft related complications, re‐intervention rates and major complications. 
+Search methods
+The Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator (TSC) searched the Specialised Register (January 2013) and the Cochrane Central Register of Controlled Trials (CENTRAL) (2012, Issue 12). The TSC also searched trial databases for details of ongoing or unpublished studies. 
+Selection criteria
+Prospective randomised controlled trials (RCTs) comparing EVAR with OSR in individuals with AAA considered fit for surgery. and comparing EVAR with best medical care in individuals considered unfit for surgery. We excluded studies with inadequate data or using an inadequate randomisation technique. 
+Data collection and analysis
+Three reviewers independently evaluated trials for appropriateness for inclusion and extracted data using pro forma designed by the Cochrane PVD Group. We assessed the quality of trials using The Cochrane Collaboration's 'Risk of bias' tool. We entered collected data in to Review Manager (version 5.2.3) for analysis. Where direct comparisons could be made, we determined odds ratios (OR). We tested studies for heterogeneity and, when present, we used a random‐effects model; otherwise we used a fixed‐effect model. We tabulated data that could not be collated. 

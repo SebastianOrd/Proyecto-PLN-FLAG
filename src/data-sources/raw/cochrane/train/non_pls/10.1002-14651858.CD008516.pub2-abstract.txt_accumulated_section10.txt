@@ -1,0 +1,10 @@
+Background
+The standard length of peginterferon plus ribavirin treatment for chronic hepatitis C virus (HCV) genotype 1 infected patients is 48 weeks. However, the number of patients demonstrating a sustained virological response is not high. In order to improve sustained virological response, extending the length of the treatment period has been suggested. 
+Objectives
+To study the benefits and harms of extended 72‐week treatment in comparison with 48‐week treatment with peginterferon plus ribavirin in patients with chronic HCV genotype 1 infection who have shown a slow antiviral response. 
+Search methods
+We searched the Cochrane Hepato‐Biliary Group Controlled Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, Science Citation Index Expanded, and LILACS until November 2011. We identified further trials by reviewing reference lists and contacting principal authors. 
+Selection criteria
+Trials were eligible for this review if they included patients infected with hepatitis C virus genotype 1 who had a slow antiviral response, and if those patients were randomised to completing 72 weeks versus 48 weeks of treatment with pegylated interferon and ribavirin. 
+Data collection and analysis
+Two authors independently assessed the trials for risk of bias, and extracted the data. The primary outcomes were overall mortality, liver‐related mortality, and liver‐related morbidity. We extracted data separately according to two definitions of slow responders: 1) patients with ≥ 2 log viral reduction but still detectable HCV RNA after 12 weeks of treatment and undetectable HCV RNA after 24 weeks of treatment; 2) patients with detectable HCV RNA after four weeks of treatment. We calculated risk ratios from individual trials as well as in the meta‐analyses of trials. 

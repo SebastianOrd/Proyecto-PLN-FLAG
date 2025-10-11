@@ -1,0 +1,15 @@
+Background
+In many countries of the industrialised world second‐generation ("atypical") antipsychotics (SGAs) have become the first line drug treatment for people with schizophrenia. The question as to whether and if so how much the effects of the various SGAs differ is a matter of debate. In this review we examined how the efficacy and tolerability of risperidone differs from that of other SGAs. 
+Objectives
+To evaluate the effects of risperidone compared with other atypical antipsychotics for people with schizophrenia and schizophrenia‐like psychosis. 
+Search methods
+1. Electronic searching  We searched the Cochrane Schizophrenia Group Trials Register (April 2007) which is based on regular searches of BIOSIS, CENTRAL, CINAHL, EMBASE, MEDLINE and PsycINFO. 
+2. Reference searching  We inspected the references of all identified studies for more trials. 
+3. Personal contact  We contacted the first author of each included study for missing information. 
+4. Drug companies  We contacted the manufacturers of all atypical antipsychotics included for additional data. 
+Selection criteria
+We included all randomised, blinded trials comparing oral risperidone with oral forms of amisulpride, aripiprazole, clozapine, olanzapine, quetiapine, sertindole, ziprasidone or zotepine in people with schizophrenia or schizophrenia‐like psychosis. 
+Data collection and analysis
+We extracted data independently. For dichotomous data we calculated risk ratio (RR) and their 95% confidence intervals (CI) on an intention‐to‐treat basis based on a random‐effects model. We calculated numbers needed to treat/harm (NNT/NNH) where appropriate. For continuous data, we calculated mean differences (MD), again based on a random‐effects model. 
+Main results
+The review currently includes 45 blinded RCTs with 7760 participants. The number of RCTs available for each comparison varied: four studies compared risperidone with amisulpride, two with aripiprazole, 11 with clozapine, 23 with olanzapine, eleven with quetiapine, two with sertindole, three with ziprasidone and none with zotepine. Attrition from these studies was high (46.9%), leaving the interpretation of results problematic. Furthermore, 60% were industry sponsored, which can be a source of bias. 

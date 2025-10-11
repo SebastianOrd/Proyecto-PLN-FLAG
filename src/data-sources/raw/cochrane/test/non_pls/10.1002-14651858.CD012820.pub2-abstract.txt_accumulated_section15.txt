@@ -1,0 +1,15 @@
+Background
+Dementia is a common chronic condition, mainly affecting older adults, characterised by a progressive decline in cognitive and functional abilities. Medical treatments for dementia are limited. Cannabinoids are being investigated for the treatment of dementia. 
+Objectives
+To determine the efficacy and safety of cannabinoids for the treatment of dementia.
+Search methods
+We searched ALOIS ‐ the Cochrane Dementia and Cognitive Improvement Group’s Specialised Register ‐ on 8 July 2021, using the terms cannabis or cannabinoid or endocannabinoid or cannabidiol or THC or CBD or dronabinol or delta‐9‐tetrahydrocannabinol or marijuana or marihuana or hashish. The register contains records from all major healthcare databases (the Cochrane Library, MEDLINE, Embase, PsycINFO, CINAHL, LILACS), as well as from many clinical trials registries and grey literature sources. 
+Selection criteria
+We included all randomised controlled trials (RCTs) of cannabinoids for the treatment of dementia. We included participants of any age and of either sex with diagnosed dementia of any subtype, or with unspecified dementia of any severity, from any setting. We considered studies of cannabinoids administered by any route, at any dose, for any duration, compared with placebo, no treatment, or any active control intervention. 
+Data collection and analysis
+Two review authors independently screened and selected studies for inclusion, extracted data, and assessed the risk of bias in included studies. When necessary, other review authors were involved in reaching consensus decisions. We conducted meta‐analyses using a generic inverse variance fixed‐effect model to derive estimates of effect size. We used GRADE methods to assess our confidence in the effect estimates. 
+Main results
+We included four studies (126 participants) in this review. Most participants had Alzheimer's disease; a few had vascular dementia or mixed dementia. Three studies had low risk of bias across all domains; one study had unclear risk of bias for the majority of domains.  
+The included studies tested natural delta‐9‐tetrahydrocannabinol (THC) (Namisol) and two types of synthetic THC analogue (dronabinol and nabilone). Three trials had a cross‐over design. Interventions were applied over 3 to 14 weeks; one study reported adverse events over 70 weeks of follow‐up. One trial was undertaken in the USA, one in Canada, and two in The Netherlands. Two studies reported non‐commercial funding, and two studies were conducted with the support of both commercial and non‐commercial funding. 
+Primary outcomes in this review were changes in global and specific cognitive function, overall behavioural and psychological symptoms of dementia (BPSD), and adverse events. 
+We found very low‐certainty evidence suggesting there may be little or no clinically important effect of a synthetic THC analogue on cognition assessed with the standardised Mini‐Mental State Examination (sMMSE) (mean difference (MD) 1.1 points, 95% confidence interval (CI) 0.1 to 2.1; 1 cross‐over trial, 28 participants).  

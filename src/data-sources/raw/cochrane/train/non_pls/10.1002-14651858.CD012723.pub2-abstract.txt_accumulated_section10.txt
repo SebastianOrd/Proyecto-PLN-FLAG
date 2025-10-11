@@ -1,0 +1,10 @@
+Background
+Telangiectasias (spider veins) and reticular veins on the lower limbs are very common, increase with age, and have been found in 41% of women. The cause is unknown and the patients may be asymptomatic or can report pain, burning or itching. Treatments include sclerotherapy, laser, intense pulsed light, microphlebectomy and thermoablation, but none is established as preferable. 
+Objectives
+To assess the effects of sclerotherapy, laser therapy, intensive pulsed light, thermocoagulation, and microphlebectomy treatments for telangiectasias and reticular veins. 
+Search methods
+The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase, AMED and CINAHL databases, and the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers to 16 March 2021. We undertook additional searches in LILACS and IBECS databases, reference checking, and contacted specialists in the field, manufacturers and study authors to identify additional studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs that compared treatment methods such as sclerotherapy, laser therapy, intensive pulsed light, thermocoagulation, and microphlebectomy for telangiectasias and reticular veins in the lower limb. We included studies that compared individual treatment methods against placebo, or that compared different sclerosing agents, foam or laser treatment, or that used a combination of treatment methods. 
+Data collection and analysis
+Three review authors independently performed study selection, extracted data, assessed risks of bias and assessed the certainty of evidence using GRADE. The outcomes of interest were resolution or improvement (or both) of telangiectasias, adverse events (including hyperpigmentation, matting), pain, recurrence, time to resolution, and quality of life. 

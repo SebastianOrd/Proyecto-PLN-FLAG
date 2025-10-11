@@ -1,0 +1,14 @@
+Background
+Attention deficit hyperactivity disorder (ADHD) is one of the most commonly diagnosed and treated psychiatric disorders in childhood. Typically, children with ADHD find it difficult to pay attention, they are hyperactive and impulsive. 
+Methylphenidate is the drug most often prescribed to treat children and adolescents with ADHD but, despite its widespread use, this is the first comprehensive systematic review of its benefits and harms. 
+Objectives
+To assess the beneficial and harmful effects of methylphenidate for children and adolescents with ADHD. 
+Search methods
+In February 2015 we searched six databases (CENTRAL, Ovid MEDLINE, EMBASE, CINAHL, PsycINFO, Conference Proceedings Citations Index), and two trials registers. We checked for additional trials in the reference lists of relevant reviews and included trials. We contacted the pharmaceutical companies that manufacture methylphenidate to request published and unpublished data. 
+Selection criteria
+We included all randomised controlled trials (RCTs) comparing methylphenidate versus placebo or no intervention in children and adolescents aged 18 years and younger with a diagnosis of ADHD. At least 75% of participants needed to have an intellectual quotient of at least 70 (i.e. normal intellectual functioning). Outcomes assessed included ADHD symptoms, serious adverse events, non‐serious adverse events, general behaviour and quality of life. 
+Data collection and analysis
+Seventeen review authors participated in data extraction and risk of bias assessment, and two review authors independently performed all tasks. We used standard methodological procedures expected within Cochrane. Data from parallel‐group trials and first period data from cross‐over trials formed the basis of our primary analyses; separate analyses were undertaken using post‐cross‐over data from cross‐over trials. We used Trial Sequential Analyses to control for type I (5%) and type II (20%) errors, and we assessed and downgraded evidence according to the Grades of Recommendation, Assessment, Development and Evaluation (GRADE) approach for high risk of bias, imprecision, indirectness, heterogeneity and publication bias. 
+Main results
+The studies. We included 38 parallel‐group trials (5111 participants randomised) and 147 cross‐over trials (7134 participants randomised). Participants included individuals of both sexes, at a boys‐to‐girls ratio of 5:1, and participants' ages ranged from 3 to 18 years across most studies (in two studies ages ranged from 3 to 21 years). The average age across all studies was 9.7 years. Most participants were from high‐income countries. 
+The duration of methylphenidate treatment ranged from 1 to 425 days, with an average duration of 75 days. Methylphenidate was compared to placebo (175 trials) or no intervention (10 trials). 

@@ -1,0 +1,11 @@
+Background
+Alzheimer's disease is the most common cause of dementia in older people. One approach to symptomatic treatment of Alzheimer's disease is to enhance cholinergic neurotransmission in the brain by blocking the action of the enzyme responsible for the breakdown of the neurotransmitter acetylcholine. This can be done by a group of drugs known as cholinesterase inhibitors. Donepezil is a cholinesterase inhibitor. 
+This review is an updated version of a review first published in 1998.
+Objectives
+To assess the clinical efficacy and safety of donepezil in people with mild, moderate or severe dementia due to Alzheimer's disease; to compare the efficacy and safety of different doses of donepezil; and to assess the effect of donepezil on healthcare resource use and costs. 
+Search methods
+We searched Cochrane Dementia and Cognitive Improvement’s Specialized Register, MEDLINE, Embase, PsycINFO and a number of other sources on 20 May 2017 to ensure that the search was as comprehensive and up‐to‐date as possible. In addition, we contacted members of the Donepezil Study Group and Eisai Inc. 
+Selection criteria
+We included all double‐blind, randomised controlled trials in which treatment with donepezil was administered to people with mild, moderate or severe dementia due to Alzheimer's disease for 12 weeks or more and its effects compared with those of placebo in a parallel group of patients, or where two different doses of donepezil were compared. 
+Data collection and analysis
+One reviewer (JSB) extracted data on cognitive function, activities of daily living, behavioural symptoms, global clinical state, quality of life, adverse events, deaths and healthcare resource costs. Where appropriate and possible, we estimated pooled treatment effects. We used GRADE methods to assess the quality of the evidence for each outcome. 

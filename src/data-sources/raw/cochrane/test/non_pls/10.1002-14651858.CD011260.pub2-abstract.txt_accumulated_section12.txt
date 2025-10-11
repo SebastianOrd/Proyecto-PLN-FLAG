@@ -1,0 +1,12 @@
+Background
+Poliomyelitis mainly affects unvaccinated children under five years of age, causing irreversible paralysis or even death. The oral polio vaccine (OPV) contains live attenuated virus, which can, in rare cases, cause a paralysis known as vaccine‐associated paralytic polio (VAPP), and also vaccine‐derived polioviruses (VDPVs) due to acquired neurovirulence after prolonged duration of replication. The incidence of poliomyelitis caused by wild polio virus (WPV) has declined dramatically since the introduction of OPV and later the inactivated polio vaccine (IPV), however, the cases of paralysis linked to the OPV are currently more frequent than those related to the WPV. Therefore, in 2016, the World Health Organization (WHO) recommended at least one IPV dose preceding routine immunisation with OPV to reduce VAPPs and VDPVs until polio could be eradicated. 
+Objectives
+To assess the effectiveness, safety, and immunogenicity of sequential IPV‐OPV immunisation schemes compared to either OPV or IPV alone. 
+Search methods
+In May 2019 we searched CENTRAL, MEDLINE, Embase, 14 other databases, three trials registers and reports of adverse effects on four web sites. We also searched the references of identified studies, relevant reviews and contacted authors to identify additional references. 
+Selection criteria
+Randomised controlled trials (RCTs), quasi‐RCTs, controlled before‐after studies, nationwide uncontrolled before‐after studies (UBAs), interrupted time series (ITS) and controlled ITS comparing sequential IPV‐OPV schedules (one or more IPV doses followed by one or more OPV doses) with IPV alone, OPV alone or non‐sequential IPV‐OPV combinations. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 21 studies: 16 RCTs involving 6407 healthy infants (age range 96 to 975 days, mean 382 days), one ITS with 28,330 infants and four nationwide studies (two ITS, two UBA). Ten RCTs were conducted in high‐income countries; five in the USA, two in the UK, and one each in Chile, Israel, and Oman. The remaining six RCTs were conducted in middle‐income countries; China, Bangladesh, Guatemala, India, and Thailand. We rated all included RCTs at low or unclear risk of bias for randomisation domains, most at high or unclear risk of attrition bias, and half at high or unclear risk for conflict of interests. Almost all RCTs were at low risk for the remaining domains. ITSs and UBAs were mainly considered at low risk of bias for most domains. 

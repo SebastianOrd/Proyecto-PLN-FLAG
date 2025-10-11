@@ -1,0 +1,18 @@
+Background
+Critical illness is associated with uncontrolled inflammation and vascular damage which can result in multiple organ failure and death. Antithrombin III (AT III) is an anticoagulant with anti‐inflammatory properties but the efficacy and any harmful effects of AT III supplementation in critically ill patients are unknown. This review was published in 2008 and updated in 2015. 
+Objectives
+To examine:
+1. The effect of AT III on mortality in critically ill participants.
+2. The benefits and harms of AT III.
+We investigated complications specific and not specific to the trial intervention, bleeding events, the effect on sepsis and disseminated intravascular coagulation (DIC) and the length of stay in the intensive care unit (ICU) and in hospital in general. 
+Search methods
+We searched the following databases from inception to 27 August 2015: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid SP), EMBASE (Ovid SP,), CAB, BIOSIS and CINAHL. We contacted the main authors of trials to ask for any missed, unreported or ongoing trials. 
+Selection criteria
+We included randomized controlled trials (RCTs) irrespective of publication status, date of publication, blinding status, outcomes published, or language. We contacted the investigators and the trial authors in order to retrieve missing data. In this updated review we include trials only published as abstracts. 
+Data collection and analysis
+Our primary outcome measure was mortality. Two authors each independently abstracted data and resolved any disagreements by discussion. We presented pooled estimates of the intervention effects on dichotomous outcomes as risk ratios (RR) with 95% confidence intervals (CI). We performed subgroup analyses to assess risk of bias, the effect of AT III in different populations (sepsis, trauma, obstetrics, and paediatrics), and the effect of AT III in patients with or without the use of concomitant heparin. We assessed the adequacy of the available number of participants and performed trial sequential analysis (TSA) to establish the implications for further research. 
+Main results
+We included 30 RCTs with a total of 3933 participants (3882 in the primary outcome analyses). 
+Combining all trials, regardless of bias, showed no statistically significant effect of AT III on mortality with a RR of 0.95 (95% CI 0.88 to 1.03), I² statistic = 0%, fixed‐effect model, 29 trials, 3882 participants, moderate quality of evidence). For trials with low risk of bias the RR was 0.96 (95% Cl 0.88 to 1.04, I² statistic = 0%, fixed‐effect model, 9 trials, 2915 participants) and for high risk of bias RR 0.94 (95% Cl 0.77 to 1.14, I² statistic = 0%, fixed‐effect model, 20 trials, 967 participants). 
+For participants with severe sepsis and DIC the RR for mortality was non‐significant, 0.95 (95% Cl 0.88 to 1.03, I² statistic = 0%, fixed‐effect model, 12 trials, 2858 participants, moderate quality of evidence). 
+We conducted 14 subgroup and sensitivity analyses with respect to the different domains of risk of bias, but detected no statistically significant benefit in any subgroup analyses. 

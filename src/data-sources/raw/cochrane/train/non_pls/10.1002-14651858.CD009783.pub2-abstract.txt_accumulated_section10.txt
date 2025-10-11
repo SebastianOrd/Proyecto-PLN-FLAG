@@ -1,0 +1,10 @@
+Background
+Delirium is defined as a disturbance in attention, awareness and cognition with reduced ability to direct, focus, sustain and shift attention, and reduced orientation to the environment. Critically ill patients in the intensive care unit (ICU) frequently develop ICU delirium. It can profoundly affect both them and their families because it is associated with increased mortality, longer duration of mechanical ventilation, longer hospital and ICU stay and long‐term cognitive impairment. It also results in increased costs for society. 
+Objectives
+To assess existing evidence for the effect of preventive interventions on ICU delirium, in‐hospital mortality, the number of delirium‐ and coma‐free days, ventilator‐free days, length of stay in the ICU and cognitive impairment. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, BIOSIS, International Web of Science, Latin American Caribbean Health Sciences Literature, CINAHL from 1980 to 11 April 2018 without any language limits. We adapted the MEDLINE search for searching the other databases. Furthermore, we checked references, searched citations and contacted study authors to identify additional studies. We also checked the following trial registries: Current Controlled Trials; ClinicalTrials.gov; and CenterWatch.com (all on 24 April 2018). 
+Selection criteria
+We included randomized controlled trials (RCTs) of adult medical or surgical ICU patients receiving any intervention for preventing ICU delirium. The control could be standard ICU care, placebo or both. We assessed the quality of evidence with GRADE. 
+Data collection and analysis
+We checked titles and abstracts to exclude obviously irrelevant studies and obtained full reports on potentially relevant ones. Two review authors independently extracted data. If possible we conducted meta‐analyses, otherwise we synthesized data narratively. 

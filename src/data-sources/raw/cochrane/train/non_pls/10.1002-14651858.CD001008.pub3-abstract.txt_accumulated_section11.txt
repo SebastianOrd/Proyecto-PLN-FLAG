@@ -1,0 +1,11 @@
+Background
+Hypnotherapy is widely promoted as a method for aiding smoking cessation. It is intended to act on underlying impulses to weaken the desire to smoke, or strengthen the will to stop. 
+Objectives
+To evaluate the effect and safety of hypnotherapy for smoking cessation.
+Search methods
+For this update we searched the Cochrane Tobacco Addiction Group Specialized Register, and trial registries (ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform), using the terms "smoking cessation" and "hypnotherapy" or "hypnosis", with no restrictions on language or publication date. The most recent search was performed on 18 July 2018. 
+Selection criteria
+We considered randomized controlled trials that recruited people who smoked and implemented a hypnotherapy intervention for smoking cessation compared with no treatment, or with any other therapeutic interventions. Trials were required to report smoking cessation rates at least six months after the beginning of treatment. Study eligibility was determined by at least two review authors, independently. 
+Data collection and analysis
+At least two review authors independently extracted data on participant characteristics, the type and duration of hypnotherapy, the nature of the control group, smoking status, method of randomization, and completeness of follow‐up. These authors also independently assessed the quality of the included studies. In undertaking this work, we used standard methodological procedures expected by Cochrane. 
+The main outcome measure was abstinence from smoking after at least six months' follow‐up. We used the most rigorous definition of abstinence in each trial, and biochemically validated abstinence rates where available. Those lost to follow‐up were considered to still be smoking. We summarized effects as risk ratios (RRs) and 95% confidence intervals (CIs). Where possible, we performed meta‐analysis using a fixed‐effect model. We also noted any adverse events reported. 

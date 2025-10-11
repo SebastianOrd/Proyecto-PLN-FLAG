@@ -1,0 +1,10 @@
+Background
+Specific treatments for influenza are limited to neuraminidase inhibitors and adamantanes. Corticosteroids show evidence of benefit in sepsis and related conditions, most likely due to their anti‐inflammatory and immunomodulatory properties. Although commonly prescribed for severe influenza, there is uncertainty over their potential benefits or harms. This is an update of a review first published in 2016. 
+Objectives
+To systematically assess the effectiveness and potential adverse effects of corticosteroids as adjunctive therapy in the treatment of influenza, taking into account differences in timing and doses of corticosteroids. 
+Search methods
+We searched CENTRAL (2018, Issue 9), which includes the Cochrane Acute Respiratory infections Group's Specialised Register, MEDLINE (1946 to October week 1, 2018), Embase (1980 to 3 October 2018), CINAHL (1981 to 3 October 2018), LILACS (1982 to 3 October 2018), Web of Science (1985 to 3 October 2018), abstracts from the last three years of major infectious disease and microbiology conferences, and references of included articles. We also searched the World Health Organization International Clinical Trials Registry Platform, ClinicalTrials.gov, and the ISRCTN registry on 3 October 2018. 
+Selection criteria
+We included randomised controlled trials (RCTs), quasi‐RCTs, and observational studies that compared corticosteroid treatment with no corticosteroid treatment for influenza or influenza‐like illness. We did not restrict studies by language of publication, influenza subtypes, clinical setting, or age of participants. We selected eligible studies in two stages: sequential examination of title and abstract, followed by full text. 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias. We pooled estimates of effect using a random‐effects model, where appropriate. We assessed heterogeneity using the I2 statistic and assessed the certainty of the evidence using the GRADE framework. 

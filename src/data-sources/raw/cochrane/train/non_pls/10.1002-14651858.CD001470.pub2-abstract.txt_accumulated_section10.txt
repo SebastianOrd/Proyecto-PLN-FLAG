@@ -1,0 +1,10 @@
+Background
+Long‐acting depot injections of drugs such as flupenthixol decanoate are extensively used as a means of long‐term maintenance treatment for schizophrenia. 
+Objectives
+To evaluate the effects of flupenthixol decanoate in comparison with placebo, oral antipsychotics and other depot neuroleptic preparations for people with schizophrenia and other severe mental illnesses, in terms of clinical, social and economic outcomes. 
+Search methods
+We identified relevant trials by searching the Cochrane Schizophrenia Group Trials Register in March 2009 and then for this update version, a search was run in April 2013. The register is based on regular searches of CINAHL, EMBASE, MEDLINE and PsycINFO. References of all identified studies were inspected for further trials. We contacted relevant pharmaceutical companies, drug approval agencies and authors of trials for additional information. 
+Selection criteria
+All randomised controlled trials that focused on people with schizophrenia or other similar psychotic disorders where flupenthixol decanoate had been compared with placebo or other antipsychotic drugs were included. All clinically relevant outcomes were sought. 
+Data collection and analysis
+Review authors independently selected studies, assessed trial quality and extracted data. For dichotomous data we estimated risk ratios (RR) with 95% confidence intervals (CI) using a fixed‐effect model. Analysis was by intention‐to‐treat. We summated normal continuous data using mean difference (MD), and 95% CIs using a fixed‐effect model. We presented scale data only for those tools that had attained prespecified levels of quality. Using Grading of Recommendations Assessment, Development and Evaluation (GRADE) we created 'Summary of findings tables and assessed risk of bias for included studies. 

@@ -1,0 +1,11 @@
+Background
+Ankylosing spondylitis (AS) is a chronic inflammatory disease of unknown cause and affects mainly the spine, but can also affect other joints. Disease progression may result in loss of mobility and function. Sulfasalazine is a disease‐modifying antirheumatic drug used in the treatment of AS. However, its efficacy remains unclear. This is an update of a Cochrane review first published in 2005. 
+Objectives
+To evaluate the benefits and harms of sulfasalazine for the treatment of ankylosing spondylitis (AS). 
+Search methods
+We searched for relevant randomized and quasi‐randomized trials in any language, using the following sources: the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2013, Issue 11); MEDLINE (2003 to 28 November 2013); EMBASE (2003 to 27 November 2013); CINAHL (2003 to 28 November 2013); Ovid MEDLINE data, World Health Organization International Clinical Trials Registry Platform (28 November 2013); and the reference sections of retrieved articles. 
+Selection criteria
+We evaluated randomized and quasi‐randomized trials examining the benefits and harms of sulfasalazine on AS. 
+Data collection and analysis
+Two review authors independently reviewed unblinded trial reports according to the selection criteria. Disagreements on the inclusion of the studies were resolved, when necessary, by recourse to a third review author. The same authors independently assessed the risk of bias of included trials and entered the data extracted from the included trials. We combined results using mean difference (MD) or standardised mean difference (SMD) for continuous data, and risk ratio (RR) for dichotomous data. 
+We restructured outcome measures for this update based on recommendations from the editorial group. Major outcomes included: pain, Bath ankylosing spondylitis disease activity index (BASDAI), Bath ankylosing spondylitis function index (BASFI), Bath ankylosing spondylitis metrology index (BASMI), radiographic progression, total number of withdrawals due to adverse events, and serious adverse events. 

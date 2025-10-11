@@ -1,0 +1,10 @@
+Background
+Acute urinary tract infection (UTI) is a common bacterial infection that affects 40% to 50% of women. Between 20% and 30% of women who have had a UTI will experience a recurrence, and around 25% will develop ongoing recurrent episodes with implications for individual well‐being and healthcare costs. Prophylactic antibiotics can prevent recurrent UTIs but there are growing concerns about microbial resistance, side effects from treatment and lack of long‐term benefit. Consequently, alternative treatments are being investigated. Chinese herbal medicine (CHM) has a recorded history of treating UTI symptoms and more recent research suggests a potential role in the management of recurrent UTIs. This review aimed to evaluate CHM for recurrent UTI. 
+Objectives
+This review assessed the benefits and harms of CHM for the treatment of recurrent UTIs in adult women, both as a stand‐alone therapy and in conjunction with other pharmaceutical interventions. 
+Search methods
+We searched the Cochrane Kidney and Transplant's Specialised Register to 7 May 2015 through contact with the Trials Search Co‐ordinator, using search terms relevant to this review. We also searched AMED, CINAHL and the Chinese language electronic databases Chinese BioMedical Literature Database (CBM), China Network on Knowledge Infrastructure (CNKI), VIP and Wan Fang Databases to July 2014. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing treatments using CHM with either an inactive placebo or conventional biomedical treatment. RCTs comparing different CHM strategies and treatments were eligible for inclusion. Quasi‐randomised studies were excluded. 
+Data collection and analysis
+Data extraction was carried out independently by two authors. Where more than one publication of one study existed, these were grouped and the publication with the most complete data was used in the analyses. Where relevant outcomes were only published in earlier versions these data were used. All meta‐analyses were performed using relative risk (RR) for dichotomous outcomes with 95% confidence intervals (CI). 

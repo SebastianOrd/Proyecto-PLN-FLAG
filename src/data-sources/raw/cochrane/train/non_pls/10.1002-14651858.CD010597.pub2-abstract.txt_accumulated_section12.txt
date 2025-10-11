@@ -1,0 +1,12 @@
+Background
+Patients undergoing haemodialysis (HD) through a central venous catheter (CVC) are exposed to several risks, being a catheter‐related infection (CRI) and a CVC lumen thrombosis among the most serious. Standard of care regarding CVCs includes their sealing with heparin lock solutions to prevent catheter lumen thrombosis. Other lock solutions to prevent CRI, such as antimicrobial lock solutions, have proven useful with antibiotics solutions, but not as yet for non–antibiotic antimicrobial solutions. Furthermore, it is uncertain if these solutions have a negative effect on thrombosis incidence. 
+Objectives
+To assess the efficacy and safety of antimicrobial (antibiotic, non‐antibiotic, or both) catheter lock solutions for preventing CRI in participants undergoing HD with a CVC. 
+Search methods
+We searched the Cochrane Kidney and Transplant Specialised Register up to 18 December 2017 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal, and ClinicalTrials.gov. 
+Selection criteria
+We included all randomised or quasi‐randomised control trials (RCTs) comparing antimicrobial (antibiotic and non‐antibiotic) lock solutions to standard lock solutions, in participants using a CVC for HD, without language restriction. 
+Data collection and analysis
+Two authors independently assessed studies for eligibility, and two additional authors assessed for risk of bias and extracted data. We expressed results as rate ratios (RR) per 1000 catheter‐days or 1000 dialysis sessions with 95% confidence intervals (CI). Statistical analyses were performed using the random‐effects model. 
+Main results
+Thirty‐nine studies, enrolling 4216 participants, were included in this review, however only 30 studies, involving 3392 participants, contained enough data to be meta‐analysed. Risk of bias was low or unclear for most domains in the majority of the included studies. 

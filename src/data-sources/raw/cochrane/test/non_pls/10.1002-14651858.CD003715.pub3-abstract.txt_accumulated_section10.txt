@@ -1,0 +1,10 @@
+Background
+The prevention of relapse is a major issue in the management of Crohn's disease. Corticosteroids, the mainstay of treatment of acute exacerbations, are not effective for maintenance of remission and its chronic use is limited by numerous adverse events. Randomised controlled trials assessing the efficacy of oral 5‐aminosalicylic acid (5‐ASA) agents for maintenance of medically‐induced remission in Crohn's disease have produced conflicting results. 
+Objectives
+To conduct a systematic review to evaluate the efficacy and safety of oral 5‐ASA agents for the maintenance of medically‐induced remission in Crohn's disease. 
+Search methods
+We searched MEDLINE, EMBASE, CENTRAL and the IBD Group Specialized Register from inception to 8 June 2016. We also searched reference lists and conference proceedings. 
+Selection criteria
+We included randomised controlled trials that compared oral 5‐ASA agents to either placebo or sulphasalazine in patients with quiescent Crohn's disease. The trials had to have a treatment duration of at least six months. 
+Data collection and analysis
+Two authors independently extracted data and performed the risk of bias assessment. Any disagreements were resolved by discussion and consensus. The primary outcome measure was the occurrence of relapse as defined by the primary studies. Secondary outcomes included time to relapse, adverse events, withdrawal due to adverse events and serious adverse events. We calculated the pooled risk ratio (RR) and corresponding 95% confidence interval (95% CI) using a fixed‐effect model. All data were analysed on an intention‐to‐treat basis and drop‐outs were considered to be relapses. Sensitivity analyses included an available case analysis where drop‐outs were ignored and using a random‐effects model. We evaluated the overall quality of the evidence supporting the outcomes using the GRADE criteria. 

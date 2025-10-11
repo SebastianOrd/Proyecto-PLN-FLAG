@@ -1,0 +1,10 @@
+Background
+The perimenopausal and postmenopausal periods are associated with many symptoms, including sexual complaints. 
+Objectives
+To assess the effect of hormone therapy (HT) on sexual function in perimenopausal and postmenopausal women. 
+Search methods
+We searched for articles in the Cochrane Menstrual Disorders and Subfertility Group (MDSG) Specialised Register, CENTRAL, MEDLINE, EMBASE, CINAHL, PsycINFO, LILACS, ClinicalTrials.gov, Current Controlled Trials, WHO International Clinical Trials Registry Platform, ISI Web of Knowledge and OpenGrey. The last search was performed in December 2012. 
+Selection criteria
+We included randomised controlled trials comparing HT to either placebo or no intervention (control). We considered as HT estrogens alone; estrogens in combination with progestogens; synthetic steroids (for example tibolone); or selective estrogen receptor modulators (SERMs) (for example raloxifene, bazedoxifene). Studies of other drugs possibly used in the relief of menopausal symptoms were excluded. We included studies that evaluated sexual function using any validated assessment tool. The primary outcome was a composite score for sexual function and the scores for individual domains (arousal and sexual interest, orgasm, and pain) were secondary outcomes. Studies were selected by two authors independently. 
+Data collection and analysis
+Data were independently extracted by two authors and checked by a third. Risk of bias assessment was performed independently by two authors. We contacted study investigators as required. Data were analysed using standardized mean difference (SMD) and relative risk (RR). We stratified the analysis by participant characteristics with regard to menopausal symptoms. The overall quality of the evidence for the primary outcome was evaluated using the GRADE criteria. 

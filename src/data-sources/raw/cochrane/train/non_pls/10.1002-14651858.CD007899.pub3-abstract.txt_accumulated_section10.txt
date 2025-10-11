@@ -1,0 +1,10 @@
+Background
+There is growing interest in paying for performance (P4P) as a means to align the incentives of healthcare providers with public health goals. Rigorous evidence on the effectiveness of these strategies in improving health care and health in low‐ and middle‐income countries (LMICs) is lacking; this is an update of the 2012 review on this topic. 
+Objectives
+To assess the effects of paying for performance on the provision of health care and health outcomes in low‐ and middle‐income countries. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, and 10 other databases between April and June 2018. We also searched two trial registries, websites, online resources of international agencies, organizations and universities, and contacted experts in the field. Studies identified from rerunning searches in 2020 are under 'Studies awaiting classification.' 
+Selection criteria
+We included randomized or non‐randomized trials, controlled before‐after studies, or interrupted time series studies conducted in LMICs (as defined by the World Bank in 2018). P4P refers to the transfer of money or material goods conditional on taking a measurable action or achieving a predetermined performance target. To be included, a study had to report at least one of the following outcomes: patient health outcomes, changes in targeted measures of provider performance (such as the delivery of healthcare services), unintended effects, or changes in resource use. 
+Data collection and analysis
+We extracted data as per original review protocol and narratively synthesised findings. We used standard methodological procedures expected by Cochrane. Given diversity and variability in intervention types, patient populations, analyses and outcome reporting, we deemed meta‐analysis inappropriate. We noted the range of effects associated with P4P against each outcome of interest. Based on intervention descriptions provided in documents, we classified design schemes and explored variation in effect by scheme design. 

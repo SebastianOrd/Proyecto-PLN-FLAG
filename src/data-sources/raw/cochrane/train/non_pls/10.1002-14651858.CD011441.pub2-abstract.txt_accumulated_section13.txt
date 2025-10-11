@@ -1,0 +1,13 @@
+Background
+People with hemophilia A or B with inhibitors are at high risk of bleeding complications. Infusion of bypassing agents, such as recombinant activated FVII (rFVIIa) and plasma‐derived activated prothrombin complex concentrate, are suggested as alternative therapies to factor VIII (haemophilia A) or IX (haemophilia B) for individuals who no longer respond to these treatments because they develop inhibitory antibodies. The ultimate goal of treatment is to preserve the individual's joints, otherwise destroyed by recurrent bleeds. 
+Objectives
+To assess the effects of bypassing agent prophylaxis to prevent bleeding in people with hemophilia A or B and inhibitors. 
+Search methods
+We searched for relevant studies from the Cystic Fibrosis and Genetic Disorders Group's Coagulopathies Trials Register, comprising of references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. We also searched trial registries (16 February 2017) and bibliographic references of retrieved studies were reviewed for potential articles to be included in the review. 
+Date of the last search of the Cochrane Cystic Fibrosis and Genetic Disorders Coagulopathies Trials Register: 12 December 2016. 
+Selection criteria
+We included randomized and quasi‐randomized controlled studies (cross‐over or parallel design) evaluating the effect of prophylaxis treatment with bypassing agents compared with on‐demand treatment, or studies evaluating the effects of high‐dose compared with low‐dose prophylaxis in males of any age with hemophilia with inhibitors. 
+Data collection and analysis
+Two authors independently selected studies and extracted data and assessed the risk of bias according to standard Cochrane criteria. They assessed the quality of the evidence using the GRADE criteria. 
+Main results
+We included four randomized studies (duration 7 to 15 months) involving 116 males. Risk of bias was judged to be high in two studies due to the open‐label study design and in one study due to attrition bias. 

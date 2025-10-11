@@ -1,0 +1,12 @@
+Background
+Vascular disease is the second commonest cause of dementia after Alzheimer's disease. There are difficulties in classifying patients with this type of cognitive impairment owing to varied clinical presentation and different types of arterial disease. There is some degree of overlap in the neuropathology of Alzheimer's and vascular dementia. Deficient cholinergic neurotransmission, a characteristic of Alzheimer's disease, has been postulated to contribute to the cognitive impairment of vascular disease of the brain. Cholinesterase inhibitors, such as donepezil, may therefore be a rational treatment. 
+Objectives
+To assess the clinical efficacy and tolerability of donepezil on cognitive function, clinical global impression, activities of daily living and social functioning of people with vascular cognitive impairment. 
+Search methods
+Relevant randomized controlled trials were identified from a search of the Cochrane Dementia and Cognitive Improvement Group Specialized Register on 7 June 2005 using the terms donepezil, E2020 and Aricept. This Register consists of records from all major healthcare databases and many ongoing trials databases. Unpublished trials were requested from the drug company Eisai Inc and they provided us with the required data. 
+Selection criteria
+All unconfounded randomized double‐blind trials comparing donepezil with placebo were eligible for inclusion. Trials using combinations of donepezil with other pharmacological interventions were excluded. 
+Data collection and analysis
+Both reviewers assessed studies against the criteria for inclusion and extracted data. Data were pooled where appropriate, and weighted mean differences or Peto odds ratios with 95% confidence intervals calculated. Intention‐to‐treat analysis was undertaken when possible. 
+Main results
+Two large‐scale, randomized, double‐blind, parallel‐group controlled trials were identified for inclusion. A total of 1219 people with mild to moderate cognitive decline due to probable or possible vascular dementia (according to the NINCDS/AIREN criteria and the Hachinski Ischemia Scale) were recruited. Donepezil, at doses of 5 or 10 mg a day was compared with placebo for 24 weeks. For each outcome measure, mean change from baseline at weeks 12 and 24, using a last observation carried forward analysis, was calculated. 

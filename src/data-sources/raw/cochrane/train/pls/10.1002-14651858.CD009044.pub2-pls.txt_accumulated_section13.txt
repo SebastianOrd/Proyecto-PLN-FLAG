@@ -1,0 +1,13 @@
+How accurate are diagnostic tools for autism spectrum disorder in preschool children?
+Review question 
+How accurate are tools for diagnosing autism spectrum disorder (ASD) in preschool children? 
+Why is accurate ASD diagnosis important? 
+Not diagnosing ASD in children when it is present (false‐negative result) means children with ASD may miss receiving early intervention and families may miss receiving timely support and education. An incorrect diagnosis of ASD (false‐positive result) may cause family stress, lead to unnecessary investigations and treatments, and place greater strain on already limited service resources. 
+What is the aim of this Review? 
+To find out which of the commonly used tools is most accurate for diagnosing ASD in preschool children. Cochrane researchers reviewed 13 published articles to answer this question. 
+What was studied in the Review? 
+Six tests were reviewed: Four gathered information about children’s behaviours from interviews with parents or carers (Autism Diagnostic Interview‐Revised (ADI‐R), Gilliam Autism Rating Scale (GARS), Diagnostic Interview for Social and Communication Disorder (DISCO), and Developmental, Dimensional, and Diagnostic Interview (3di)); one required that a trained professional observe a child’s behaviour on specific tasks (Autism Diagnostic Observation Schedule (ADOS)); and one combined observation of the child with interview of parents or carers (Childhood Autism Rating Scale (CARS)). 
+What are the main results of the Review? 
+The Review included 21 relevant sets of analyses conducted on a total of 2900 children. Results were available for only three tools: ADOS (Modules 1 and 2), CARS, and ADI‐R. If instruments were applied to 1000 children, 740 of whom had ASD, then 696, 592, and 385 children would be correctly identified by ADOS, CARS, and ADI‐R, respectively, whereas 52, 31, and 42 children without ASD would be incorrectly classified as having ASD. Of 260 children without ASD, 208, 229, and 218 would be correctly classified by ADOS, CARS, and ADI‐R, respectively, whereas 44, 148, and 355 children with ASD would be incorrectly classified as not having ASD. 
+See Figure 1. 
+One publication looked at using ADI‐R together with ADOS and found that use of both tools together was no more accurate than use of ADOS alone. 

@@ -1,0 +1,10 @@
+Background
+This is an updated version of the original Cochrane review, published in 2015.
+Focal epilepsies are caused by a malfunction of nerve cells localised in one part of one cerebral hemisphere. In studies, estimates of the number of individuals with focal epilepsy who do not become seizure‐free despite optimal drug therapy vary between at least 20% and up to 70%. If the epileptogenic zone can be located, surgical resection offers the chance of a cure with a corresponding increase in quality of life. 
+Objectives
+The primary objective is to assess the overall outcome of epilepsy surgery according to evidence from randomised controlled trials. 
+Secondary objectives are to assess the overall outcome of epilepsy surgery according to non‐randomised evidence, and to identify the factors that correlate with remission of seizures postoperatively. 
+Search methods
+For the latest update, we searched the following databases on 11 March 2019: Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid, 1946 to March 08, 2019), ClinicalTrials.gov, and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). 
+Selection criteria
+Eligible studies were randomised controlled trials (RCTs) that included at least 30 participants in a well‐defined population (age, sex, seizure type/frequency, duration of epilepsy, aetiology, magnetic resonance imaging (MRI) diagnosis, surgical findings), with an MRI performed in at least 90% of cases and an expected duration of follow‐up of at least one year, and reporting an outcome related to postoperative seizure control. Cohort studies or case series were included in the previous version of this review. 

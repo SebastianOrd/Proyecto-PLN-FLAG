@@ -1,0 +1,12 @@
+Background
+Shock wave lithotripsy (SWL) is a widely used method to treat renal and ureteral stone. It fragments stones into smaller pieces that are then able to pass spontaneously down the ureter and into the bladder. Alpha‐blockers may assist in promoting the passage of stone fragments, but their effectiveness remains uncertain.  
+Objectives
+To assess the effects of alpha‐blockers as adjuvant medical expulsive therapy plus usual care compared to placebo and usual care or usual care alone in adults undergoing shock wave lithotripsy for renal or ureteral stones. 
+Search methods
+We performed a comprehensive literature search of the Cochrane Library, the Cochrane Database of Systematic Reviews, MEDLINE, Embase, several clinical trial registries and grey literature for published and unpublished studies irrespective of language. The date of the most recent search was 27 February 2020. 
+Selection criteria
+We included randomized controlled trials of adults undergoing SWL. Participants in the intervention group had to have received an alpha‐blocker as adjuvant medical expulsive therapy plus usual care. For the comparator group, we considered studies in which participants received placebo. 
+Data collection and analysis
+Two review authors independently selected studies for inclusion/exclusion, and performed data abstraction and risk of bias assessment. We conducted meta‐analysis for the identified dichotomous and continuous outcomes using RevManWeb according to Cochrane methods using a random‐effects model. We judged the certainty of evidence on a per outcome basis using GRADE. 
+Main results
+We included 40 studies with 4793 participants randomized to usual care and an alpha‐blocker versus usual care alone. Only four studies were placebo controlled. The mean age of participants was 28.6 to 56.8 years and the mean stone size prior to SWL was 7.1 mm to 13.2 mm. The most widely used alpha‐blocker was tamsulosin; others were silodosin, doxazosin, terazosin and alfuzosin.  

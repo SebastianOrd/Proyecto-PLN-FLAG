@@ -1,0 +1,11 @@
+Background
+Fear of dental pain is a major barrier to treatment for children who need dental care. The use of preoperative analgesics has the potential to reduce postoperative discomfort and intraoperative pain. We reviewed the available evidence to determine whether further research is warranted and to inform the development of prescribing guidelines. This is an update of a Cochrane review published in 2012. 
+Objectives
+To assess the effects of preoperative analgesics for intraoperative or postoperative pain relief (or both) in children and adolescents undergoing dental treatment without general anaesthesia or sedation. 
+Search methods
+We searched the following electronic databases: Cochrane Oral Health's Trials Register (to 5 January 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library 2015, Issue 12), MEDLINE via OVID (1946 to 5 January 2016), EMBASE via OVID (1980 to 5 January 2016), LILACS via BIREME (1982 to 5 January 2016) and the ISI Web of Science (1945 to 5 January 2016). We searched ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform for ongoing trials to 5 January 2016. There were no restrictions regarding language or date of publication in the searches of the electronic databases. We handsearched several specialist journals dating from 2000 to 2011. 
+We checked the reference lists of all eligible trials for additional studies. We contacted specialists in the field for any unpublished data. 
+Selection criteria
+Randomised controlled clinical trials of analgesics given before dental treatment versus placebo or no analgesics in children and adolescents up to 17 years of age. We excluded children and adolescents having dental treatment under sedation (including nitrous oxide/oxygen) or general anaesthesia. 
+Data collection and analysis
+Two review authors assessed titles and abstracts of the articles obtained from the searches for eligibility, undertook data extraction and assessed the risk of bias in the included studies. We assessed the quality of the evidence using GRADE criteria. 

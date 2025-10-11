@@ -1,0 +1,16 @@
+Background
+Over the decades, a variety of psychological interventions for borderline personality disorder (BPD) have been developed. This review updates and replaces an earlier review (Stoffers‐Winterling 2012). 
+Objectives
+To assess the beneficial and harmful effects of psychological therapies for people with BPD. 
+Search methods
+In March 2019, we searched CENTRAL, MEDLINE, Embase, 14 other databases and four trials registers. We contacted researchers working in the field to ask for additional data from published and unpublished trials, and handsearched relevant journals. We did not restrict the search by year of publication, language or type of publication. 
+Selection criteria
+Randomised controlled trials comparing different psychotherapeutic interventions with treatment‐as‐usual (TAU; which included various kinds of psychotherapy), waiting list, no treatment or active treatments in samples of all ages, in any setting, with a formal diagnosis of BPD. The primary outcomes were BPD symptom severity, self‐harm, suicide‐related outcomes, and psychosocial functioning. There were 11 secondary outcomes, including individual BPD symptoms, as well as attrition and adverse effects. 
+Data collection and analysis
+At least two review authors independently selected trials, extracted data, assessed risk of bias using Cochrane's 'Risk of bias' tool and assessed the certainty of the evidence using the GRADE approach. We performed data analysis using Review Manager 5 and quantified the statistical reliability of the data using Trial Sequential Analysis. 
+Main results
+We included 75 randomised controlled trials (4507 participants), predominantly involving females with mean ages ranging from 14.8 to 45.7 years. More than 16 different kinds of psychotherapy were included, mostly dialectical behaviour therapy (DBT) and mentalisation‐based treatment (MBT). The comparator interventions included treatment‐as‐usual (TAU), waiting list, and other active treatments. Treatment duration ranged from one to 36 months. 
+Psychotherapy versus TAU 
+Psychotherapy reduced BPD symptom severity, compared to TAU; standardised mean difference (SMD) −0.52, 95% confidence interval (CI) −0.70 to −0.33; 22 trials, 1244 participants; moderate‐quality evidence. This corresponds to a mean difference (MD) of −3.6 (95% CI −4.4 to −2.08) on the Zanarini Rating Scale for BPD (range 0 to 36), a clinically relevant reduction in BPD symptom severity (minimal clinical relevant difference (MIREDIF) on this scale is −3.0 points). 
+Psychotherapy may be more effective at reducing self‐harm compared to TAU (SMD −0.32, 95% CI −0.49 to −0.14; 13 trials, 616 participants; low‐quality evidence), corresponding to a MD of −0.82 (95% CI −1.25 to 0.35) on the Deliberate Self‐Harm Inventory Scale (range 0 to 34). The MIREDIF of −1.25 points was not reached. 
+Suicide‐related outcomes improved compared to TAU (SMD −0.34, 95% CI −0.57 to −0.11; 13 trials, 666 participants; low‐quality evidence), corresponding to a MD of −0.11 (95% CI −0.19 to −0.034) on the Suicidal Attempt Self Injury Interview. The MIREDIF of −0.17 points was not reached. 

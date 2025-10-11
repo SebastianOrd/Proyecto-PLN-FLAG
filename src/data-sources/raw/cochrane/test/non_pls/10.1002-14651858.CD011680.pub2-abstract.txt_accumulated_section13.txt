@@ -1,0 +1,13 @@
+Background
+Necrotizing soft tissue infections (NSTIs) are severe and rapidly spreading soft tissue infections of the subcutaneous tissue, fascia, or muscle, which are mostly caused by bacteria. Associated rates of mortality and morbidity are high, with the former estimated at around 23%, and disability, sequelae, and limb loss occurring in 15% of patients. Standard management includes intravenous empiric antimicrobial therapy, early surgical debridement of necrotic tissues, intensive care support, and adjuvant therapies such as intravenous immunoglobulin (IVIG). 
+Objectives
+To assess the effects of medical and surgical treatments for necrotizing soft tissue infections (NSTIs) in adults in hospital settings. 
+Search methods
+We searched the following databases up to April 2018: the Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase, and LILACS. We also searched five trials registers, pharmaceutical company trial results databases, and the US Food and Drug Administration and the European Medicines Agency websites. We checked the reference lists of included studies and reviews for further references to relevant randomised controlled trials (RCTs). 
+Selection criteria
+RCTs conducted in hospital settings, that evaluated any medical or surgical treatment for adults with NSTI were eligible for inclusion. Eligible medical treatments included 1) comparisons between different antimicrobials or with placebo; 2) adjuvant therapies such as intravenous immunoglobulin (IGIV) therapy compared with placebo; no treatment; or other adjuvant therapies. Eligible surgical treatments included surgical debridement compared with amputation, immediate versus delayed intervention, or comparisons of number of interventions. 
+RCTs of hyperbaric oxygen (HBO) therapy for NSTI were ineligible because HBO is the focus of another Cochrane Review. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. The primary outcome measures were 1) mortality within 30 days, and 2) proportion of participants who experience a serious adverse event. Secondary outcomes were 1) survival time, and 2) assessment of long‐term morbidity. We used GRADE to assess the quality of the evidence for each outcome. 
+Main results
+We included three trials randomising 197 participants (62% men) who had a mean age of 55 years. One trial compared two antibiotic treatments, and two trials compared adjuvant therapies with placebo. In all trials, participants concomitantly received standard interventions, such as intravenous empiric antimicrobial therapy, surgical debridement of necrotic tissues, intensive care support, and adjuvant therapies. All trials were at risk of attrition bias and one trial was not blinded. 

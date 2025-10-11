@@ -1,0 +1,12 @@
+Background
+Preventing active tuberculosis (TB) from developing in people with latent tuberculosis infection (LTBI) is important for global TB control. Isoniazid (INH) for six to nine months has 60% to 90% protective efficacy, but the treatment period is long, liver toxicity is a problem, and completion rates outside trials are only around 50%. Rifampicin or rifamycin‐combination treatments are shorter and may result in higher completion rates. 
+Objectives
+To compare the effects of rifampicin monotherapy or rifamycin‐combination therapy versus INH monotherapy for preventing active TB in HIV‐negative people at risk of developing active TB. 
+Search methods
+We searched the Cochrane Infectious Disease Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; LILACS; clinical trials registries; regional databases; conference proceedings; and references, without language restrictions to December 2012; and contacted experts for relevant published, unpublished and ongoing trials. 
+Selection criteria
+Randomized controlled trials (RCTs) of HIV‐negative adults and children at risk of active TB treated with rifampicin, or rifamycin‐combination therapy with or without INH (any dose or duration), compared with INH for six to nine months. 
+Data collection and analysis
+At least two authors independently screened and selected trials, assessed risk of bias, and extracted data. We sought clarifications from trial authors. We pooled relative risks (RRs) with their 95% confidence intervals (CIs), using a random‐effects model if heterogeneity was significant. We assessed overall evidence quality using the GRADE approach. 
+Main results
+Ten trials are included, enrolling 10,717 adults and children, mostly HIV‐negative (2% HIV‐positive), with a follow‐up period ranging from two to five years. 

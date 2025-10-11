@@ -1,0 +1,14 @@
+Background
+Surgical site infection rates in the month following clean surgery vary from 0.6% (knee prosthesis) to 5% (limb amputation). Due to the large number of clean surgical procedures conducted annually the costs of these surgical site infections (SSIs) can be considerable in financial and social terms. Preoperative skin antisepsis using antiseptics is performed to reduce the risk of SSIs by removing soil and transient organisms from the skin where a surgical incision will be made. Antiseptics are thought to be toxic to bacteria and therefore aid their mechanical removal. The effectiveness of preoperative skin preparation is thought to be dependent on both the antiseptic used and the method of application, however, it is unclear whether preoperative skin antisepsis actually reduces postoperative wound infection, and, if so, which antiseptic is most effective. 
+Objectives
+To determine whether preoperative skin antisepsis immediately prior to surgical incision for clean surgery prevents SSI and to determine the comparative effectiveness of alternative antiseptics. 
+Search methods
+For this third update we searched just the Cochrane Wounds Group Specialised Register (searched 27 January 2015); The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 12). 
+Selection criteria
+Randomised controlled trials evaluating the use of preoperative skin antiseptics applied immediately prior to incision in clean surgery. There was no restriction on the inclusion of reports based on language of publication, date or publication status. 
+Data collection and analysis
+Data extraction and assessment of risk of bias were undertaken independently by two review authors. 
+Main results
+There were no new studies added to the review in the third update
+Thirteen studies were included in this review (2,623 participants). These evaluated several different types of skin antiseptics ‐ leading to 11 different comparisons being made. Although the antiseptics evaluated differed between studies, all trials involved some form of iodine. Iodine in alcohol was compared to alcohol alone in one trial; one trial compared povidone iodine paint (solution type not reported) with soap and alcohol. Six studies compared different types of iodine‐containing products with each other and five compared iodine‐containing products with chlorhexidine‐containing products. 
+There was evidence from one study suggesting that preoperative skin preparation with 0.5% chlorhexidine in methylated spirits led to a reduced risk of SSI compared with an alcohol based povidone iodine solution: RR 0.47 (95% CI 0.27 to 0.82). However, it is important to note that the trial does not report important details regarding the interventions (such as the concentration of povidone iodine paint used) and trial conduct, such that risk of bias was unclear. 

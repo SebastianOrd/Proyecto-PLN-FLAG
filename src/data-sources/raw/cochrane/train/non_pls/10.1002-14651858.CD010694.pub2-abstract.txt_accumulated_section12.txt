@@ -1,0 +1,12 @@
+Background
+Venous leg ulcers are common, chronic wounds caused by venous diseases, with a high recurrence rate and heavy disease burden. Compression therapy (bandages or stockings) is the first choice treatment for venous leg ulcers. However, when ulcers remain unhealed, medication can also be used with or without compression therapy. Sulodexide, a highly purified glycosaminoglycan (a naturally occurring molecule) has antithrombotic and profibrinolytic properties (it reduces the formation of blood clots) as well as anti‐inflammatory effects. Sulodexide has been studied as a potential treatment for venous leg ulcers. 
+Objectives
+To assess the efficacy and safety of sulodexide for treating venous leg ulcers.
+Search methods
+In July 2015 we searched: The Cochrane Wounds Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE; EBSCO CINAHL; Chinese Biomedical Literature Database (CBM); China National Knowledge Infrastructure Database (CNKI); Wan Fang and VIP. We also searched clinical trials registries to identify ongoing studies, as well as references listed in relevant publications. There were no restrictions based on date of publication, language or study setting. 
+Selection criteria
+Randomised controlled trials (RCTs) involving people with a diagnosis of venous leg ulcers which compared sulodexide with placebo or any other drug therapy (such as pentoxifylline, flavonoids, aspirin), with or without compression therapy. 
+Data collection and analysis
+We used standard Cochrane methodological procedures. The authors independently selected studies, extracted data and assessed risk of bias. We pooled data to present the risk ratio (RR) with 95% confidence interval (CI), or presented a narrative summary. We assessed overall evidence quality according to the GRADE approach. 
+Main results
+We included four RCTs with a total of 463 participants (aged 42 years to 93 years); one report was only available as a published abstract. 

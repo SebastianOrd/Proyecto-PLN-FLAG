@@ -1,0 +1,14 @@
+Background
+Electromotive drug administration (EMDA) is the use of electrical current to improve the delivery of intravesical agents to reduce the risk of recurrence in people with non‐muscle invasive bladder cancer (NMIBC). It is unclear how effective this is in comparison to other forms of intravesical therapy. 
+Objectives
+To assess the effects of intravesical EMDA for the treatment of NMIBC.
+Search methods
+We performed a comprehensive search using multiple databases (CENTRAL, MEDLINE, EMBASE), two clinical trial registries and a grey literature repository. We searched reference lists of relevant publications and abstract proceedings. We applied no language restrictions. The last search was February 2017. 
+Selection criteria
+We searched for randomised studies comparing EMDA of any intravesical agent used to reduce bladder cancer recurrence in conjunction with transurethral resection of bladder tumour (TURBT). 
+Data collection and analysis
+Two review authors independently screened the literature, extracted data, assessed risk of bias and rated quality of evidence (QoE) according to GRADE on a per outcome basis. 
+Main results
+We included three trials with 672 participants that described five distinct comparisons. The same principal investigator conducted all three trials. All studies used mitomycin C (MMC) as the chemotherapeutic agent for EMDA. 
+1. Postoperative MMC‐EMDA induction versus postoperative Bacillus Calmette‐Guérin (BCG) induction: based on one study with 72 participants with carcinoma in situ (CIS) and concurrent pT1 urothelial carcinoma, we are uncertain (very low QoE) about the effect of MMC‐EMDA on time to recurrence (risk ratio (RR) 1.06, 95% confidence interval (CI) 0.64 to 1.76; corresponding to 30 more per 1000 participants, 95% CI 180 fewer to 380 more). There was no disease progression in either treatment arm at three months' follow‐up. We are uncertain (very low QoE) about serious adverse events (RR 0.75, 95% CI 0.18 to 3.11). 
+2. Postoperative MMC‐EMDA induction versus MMC‐passive diffusion (PD) induction: based on one study with 72 participants with CIS and concurrent pT1 urothelial carcinoma, postoperative MMC‐EMDA may (low QoE) reduce disease recurrence (RR 0.65, 95% CI 0.44 to 0.98; corresponding to 147 fewer per 1000 participants, 95% CI 235 fewer to 8 fewer). There was no disease progression in either treatment arm at three months' follow‐up. We are uncertain (very low QoE) about the effect of MMC‐EMDA on serious adverse events (RR 1.50, 95% CI 0.27 to 8.45). 

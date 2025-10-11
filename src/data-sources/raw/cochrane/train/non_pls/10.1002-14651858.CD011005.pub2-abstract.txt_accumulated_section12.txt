@@ -1,0 +1,12 @@
+Background
+Amyotrophic lateral sclerosis (ALS), also known as motor neuron disease (MND), is terminal, progressive neurological condition for which there are no curative treatments. Among people with ALS/MND, fatigue is a common and debilitating symptom, which is characterised by reversible motor weakness and whole‐body tiredness that is only partially relieved by rest. The effectiveness of pharmacological or non‐pharmacological treatments for fatigue in ALS/MND is not yet established. 
+Objectives
+To assess the effects of pharmacological and non‐pharmacological interventions for fatigue in ALS/MND. 
+Search methods
+We searched the following databases on 5 September 2017: Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL Plus, and ERIC. We also searched two clinical trials registries. 
+Selection criteria
+We selected randomised and quasi‐randomised controlled trials of any intervention which sought to reduce fatigue for people with ALS/MND. We included studies if reduction in fatigue was a primary or secondary outcome of the trial. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane.
+Main results
+We included one pharmacological (modafinil) study and three non‐pharmacological studies (resistance exercise, respiratory exercise, and repetitive transcranial magnetic stimulation (rTMS)), involving a total of 86 participants with ALS/MND. None of the included studies were free from risk of bias. Since there was only one trial for each intervention, no meta‐analysis was possible. All studies assessed fatigue using the Fatigue Severity Scale (FSS; scale from 9 to 63, higher scores indicate more fatigue). Information for assessing bias was often lacking in study reports, making the risk of bias unclear across several domains in all trials. Blinding of participants was not possible in exercise trials, but the outcome assessment was blinded. 

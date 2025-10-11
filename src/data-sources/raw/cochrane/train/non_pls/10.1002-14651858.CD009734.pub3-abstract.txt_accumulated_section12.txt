@@ -1,0 +1,12 @@
+Background
+Vascular endothelial growth factor (VEGF) plays a key role in angiogenesis in foetal life. Researchers have recently attempted to use anti‐VEGF agents for the treatment of retinopathy of prematurity (ROP), a vasoproliferative disorder. The safety and efficacy of these agents in preterm infants with ROP is currently uncertain. 
+Objectives
+To evaluate the efficacy and safety of anti‐VEGF drugs when used either as monotherapy, that is without concomitant cryotherapy or laser therapy, or in combination with planned cryo/laser therapy in preterm infants with type 1 ROP (defined as zone I any stage with plus disease, zone I stage 3 with or without plus disease, or zone II stage 2 or 3 with plus disease). 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 11), MEDLINE (1966 to 11 December 2016), Embase (1980 to 11 December 2016), CINAHL (1982 to 11 December 2016), and conference proceedings. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials that evaluated the efficacy or safety of administration, or both, of anti‐VEGF agents compared with conventional therapy in preterm infants with ROP. 
+Data collection and analysis
+We used standard Cochrane and Cochrane Neonatal methods for data collection and analysis. We used the GRADE approach to assess the quality of the evidence. 
+Main results
+Six trials involving a total of 383 infants fulfilled the inclusion criteria. Five trials compared intravitreal bevacizumab (n = 4) or ranibizumab (n = 1) with conventional laser therapy (monotherapy), while the sixth study compared intravitreal pegaptanib plus conventional laser therapy with laser/cryotherapy (combination therapy). 

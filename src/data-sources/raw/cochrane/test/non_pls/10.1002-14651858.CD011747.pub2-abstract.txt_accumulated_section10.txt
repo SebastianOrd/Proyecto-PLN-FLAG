@@ -1,0 +1,10 @@
+Background
+Stable angina pectoris is a chronic medical condition with significant impact on mortality and quality of life; it can be macrovascular or microvascular in origin. Ranolazine is a second‐line anti‐anginal drug approved for use in people with stable angina. However, the effects of ranolazine for people with angina are considered to be modest, with uncertain clinical relevance. 
+Objectives
+To assess the effects of ranolazine on cardiovascular and non‐cardiovascular mortality, all‐cause mortality, quality of life, acute myocardial infarction incidence, angina episodes frequency and adverse events incidence in stable angina patients, used either as monotherapy or as add‐on therapy, and compared to placebo or any other anti‐anginal agent. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and the Conference Proceedings Citation Index ‐ Science in February 2016, as well as regional databases and trials registers. We also screened reference lists. 
+Selection criteria
+Randomised controlled trials (RCTs) which directly compared the effects of ranolazine versus placebo or other anti‐anginals in people with stable angina pectoris were eligible for inclusion. 
+Data collection and analysis
+Two authors independently selected studies, extracted data and assessed risk of bias. Estimates of treatment effects were calculated using risk ratios (RR), mean differences (MD) and standardised mean differences (SMD) with 95% confidence intervals (CI) using a fixed‐effect model. Where we found statistically significant heterogeneity (Chi² P < 0.10), we used a random‐effects model for pooling estimates. Meta‐analysis was not performed where we found considerable heterogeneity (I² ≥ 75%). We used GRADE criteria to assess evidence quality and the GRADE profiler (GRADEpro GDT) to import data from Review Manager 5.3 to create 'Summary of findings' tables. 

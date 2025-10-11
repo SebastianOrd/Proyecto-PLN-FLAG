@@ -1,0 +1,12 @@
+Background
+Staphylococcus aureus causes pulmonary infection in young children with cystic fibrosis. Prophylactic antibiotics are prescribed hoping to prevent such infection and lung damage. Antibiotics have adverse effects and long‐term use might lead to infection with Pseudomonas aeruginosa. This is an update of a previously published review. 
+Objectives
+To assess continuous oral antibiotic prophylaxis to prevent the acquisition of Staphylococcus aureus versus no prophylaxis in people with cystic fibrosis, we tested the following hypotheses to investigate whether prophylaxis:1. improves clinical status, lung function and survival;2. leads to fewer isolates of Staphylococcus aureus;3. causes adverse effects (e.g. diarrhoea, skin rash, candidiasis);4. leads to fewer isolates of other common pathogens from respiratory secretions;5. leads to the emergence of antibiotic resistance and colonisation of the respiratory tract with Pseudomonas aeruginosa. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register, comprising references identified from comprehensive electronic database searches, handsearches of relevant journals and abstract books of conference proceedings. Companies manufacturing anti‐staphylococcal antibiotics were contacted. 
+Most recent search of the Group's Register: 27 February 2020.
+Online trials registries were also searched. Most recent search of online trials registries: 15 September 2020. 
+Selection criteria
+Randomised trials of continuous oral prophylactic antibiotics (given for at least one year) compared to intermittent antibiotics given 'as required', in people with cystic fibrosis of any disease severity. 
+Data collection and analysis
+The authors assessed studies for eligibility and methodological quality and extracted data. The quality of the evidence was assessed using the GRADE criteria. The review's primary outcomes of interest were lung function by spirometry (forced expiratory volume in one second (FEV1)) and the number of people with one or more isolates of Staphylococcus aureus (sensitive strains). 

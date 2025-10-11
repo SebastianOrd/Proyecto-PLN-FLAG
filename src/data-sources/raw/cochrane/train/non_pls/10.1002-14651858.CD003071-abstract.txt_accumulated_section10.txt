@@ -1,0 +1,10 @@
+Background
+Hip and knee replacement are common operative procedures to improve mobility and quality of life. Adequate pain relief is essential in the postoperative period to enable ambulation and initiation of physiotherapy. Lumbar epidural analgesia is a common modality for pain relief following these procedures. As the use of epidural analgesia may delay the initiation of anticoagulant thromboprophylaxis due to the potential risk of epidural hematoma, a synthesis of the evidence is necessary to determine whether or not alternative analgesic modalities are worse, equivalent, or better than epidural analgesia. 
+Objectives
+Is lumbar epidural analgesia more efficacious than systemic analgesia or long‐acting spinal analgesia for postoperative pain relief in patients after elective hip or knee replacement? 
+Search methods
+MEDLINE, EMBASE, CINAHL, LILACS, and the CENTRAL were searched from their inception to June 2001. 
+Selection criteria
+A study was included if it was a randomized or pseudo randomized controlled clinical trial (RCT) of patients undergoing hip or knee replacement, in which postoperative lumbar epidural analgesia was compared to other methods for pain relief. Study selection was performed unblinded in duplicate. 
+Data collection and analysis
+Data were collected unblinded in duplicate. Information on patients, methods, interventions, outcomes (pain relief, postoperative function, length of stay) and adverse events were recorded. Methodological quality was assessed using a validated 5‐point scale. Meta‐analysis was conducted when sufficient data existed from two or more studies. Heterogeneity testing was performed using the Breslow‐Day method. The fixed‐effect model was used unless heterogeneity was present, in which case, a random‐effects model was used. Continuous data were summarized as weighted mean differences (WMD) or standardized mean differences (SMD) with 95% confidence intervals (CI). Dichotomous data were summarized as odds ratios (OR) and numbers‐needed‐to‐treat‐to‐benefit (NNT) or numbers‐needed‐to‐treat‐to‐harm (NNH) with their respective 95% CI. 

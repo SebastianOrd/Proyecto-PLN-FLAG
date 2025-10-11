@@ -1,0 +1,13 @@
+Background
+Diabetes mellitus is a metabolic disorder resulting from a defect in insulin secretion, function, or both. Hyperglycaemia in non‐critically ill hospitalised people is associated with poor clinical outcomes (infections, prolonged hospital stay, poor wound healing, higher morbidity and mortality). In the hospital setting people diagnosed with diabetes receive insulin therapy as part of their treatment in order to achieve metabolic control. However, insulin therapy can be provided by different strategies (sliding scale insulin (SSI), basal‐bolus insulin, and other modalities). Sliding scale insulin is currently the most commonly used method, however there is uncertainty about which strategy provides the best patient outcomes. 
+Objectives
+To assess the effects of SSI for non‐critically ill hospitalised adults with diabetes mellitus. 
+Search methods
+We identified eligible trials by searching MEDLINE, Embase, LILACS, and the Cochrane Library. We searched the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP) and ClinicalTrials.gov trial registers. The date of the last search for all databases was December 2017. We also examined reference lists of identified randomised controlled trials (RCTs) and systematic reviews, and contacted trial authors. 
+Selection criteria
+We included RCTs comparing SSI with other strategies for glycaemic control in non‐critically ill hospitalised adult participants of any sex with diabetes mellitus. 
+Data collection and analysis
+Two review authors independently extracted data, assessed trials for risk of bias, and evaluated the overall certainty of evidence utilising the GRADE instrument. We synthesised data using a random‐effects model meta‐analysis with 95% prediction intervals, if possible, or descriptive analysis, as appropriate. 
+Main results
+Of 720 records screened, we included eight trials that randomised 1048 participants with type 2 diabetes (387 SSI participants and 615 participants in comparator groups were available for final analysis). We included non‐critically ill medical and surgical adults with the diagnosis of diabetes mellitus. The mean follow‐up time was measured by the mean length of hospital stay and ranged between five and 24 days. The mean age of participants was 44.5 years to 71 years. 
+Overall, we judged the risk of bias on the trial level as unclear for selection bias, high for outcome‐related performance and detection bias with regard to hypoglycaemic episodes, other adverse events, and mean glucose levels, and low for all‐cause mortality and length of hospital stay. Attrition bias was low for all outcome measures. 

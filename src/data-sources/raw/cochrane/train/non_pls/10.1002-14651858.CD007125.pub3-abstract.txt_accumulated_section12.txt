@@ -1,0 +1,12 @@
+Background
+Hip fracture is a major cause of morbidity and mortality in older people, and its impact on society is substantial. After surgery, people require rehabilitation to help them recover. Multidisciplinary rehabilitation is where rehabilitation is delivered by a multidisciplinary team, supervised by a geriatrician, rehabilitation physician or other appropriate physician. This is an update of a Cochrane Review first published in 2009. 
+Objectives
+To assess the effects of multidisciplinary rehabilitation, in either inpatient or ambulatory care settings, for older people with hip fracture. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register, CENTRAL, MEDLINE and Embase (October 2020), and two trials registers (November 2019). 
+Selection criteria
+We included randomised and quasi‐randomised trials of post‐surgical care using multidisciplinary rehabilitation of older people (aged 65 years or over) with hip fracture. The primary outcome – 'poor outcome' – was a composite of mortality and decline in residential status at long‐term (generally one year) follow‐up. The other 'critical' outcomes were health‐related quality of life, mortality, dependency in activities of daily living, mobility, and related pain. 
+Data collection and analysis
+Pairs of review authors independently performed study selection, assessed risk of bias and extracted data. We pooled data where appropriate and used GRADE for assessing the certainty of evidence for each outcome. 
+Main results
+The 28 included trials involved 5351 older (mean ages ranged from 76.5 to 87 years), usually female, participants who had undergone hip fracture surgery. There was substantial clinical heterogeneity in the trial interventions and populations. Most trials had unclear or high risk of bias for one or more items, such as blinding‐related performance and detection biases. We summarise the findings for three comparisons below. 

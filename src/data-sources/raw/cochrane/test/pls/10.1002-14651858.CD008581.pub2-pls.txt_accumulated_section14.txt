@@ -1,0 +1,14 @@
+Antidepressants for the treatment of people with co‐occurring depression and alcohol dependence 
+Review question 
+This review investigated whether antidepressants reduce the severity of depression or alcohol dependence (or both) in people with co‐occurring depression and alcohol dependence. 
+Background 
+The co‐occurrence of major depression in people entering treatment for alcohol dependence is common and increases the severity of the condition reducing the effectiveness of treatments. Treatment of these people with medicines is challenging. In this review, we compared the results obtained by people with co‐occurring depression and alcohol dependence treated with antidepressant medicines to those treated with placebo (a sham/pretend treatment) or other treatments. 
+Search date 
+The evidence is current up to July 2017.
+Study characteristics 
+We identified 33 medical trials involving 2242 participants: 68% were male, and the mean age was 42 years. 
+Most studies compared antidepressants to placebo (22 studies), but some compared one antidepressant to antidepressant (five studies), to another type of medicine (four studies), or to psychotherapy (a talking treatment; two studies). The average duration of the trials was 10 weeks (range 3 to 26 weeks). A total of 18 trials took place in the USA, and the others were in Europe, Turkey, and Australia. The antidepressant used in most of the trials was sertraline; the others were: amitriptyline, citalopram, desipramine, doxepin, escitalopram, fluoxetine, fluvoxamine, imipramine, mianserin, mirtazepine, nefazodone, paroxetine, tianeptine, venlafaxine, and viloxazine. The studies used 49 different rating scales and varied in terms of design, quality, participant characteristics, tested medicines, services provided, and treatments administered. 
+A total of 19 studies reported the source of funding (public funds: six studies; pharmaceutical industry: two studies; both funds: 10 studies). 
+Only four trials reported a declaration of the authors reporting possible conflicts of interest. 
+Key results 
+In the 22 studies comparing antidepressants to placebo, antidepressants may have reduced the severity of depression but we are uncertain whether it increased the number of people with clinical beneficial effects from the reduction of depression severity (response to treatment, i.e. people who halved the severity of depression). However, we found no difference between antidepressants and placebo in other relevant outcomes related to the severity of depression, such as the number of people without depression at the end of the trial (remission). 

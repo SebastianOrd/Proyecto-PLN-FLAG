@@ -1,0 +1,10 @@
+Background
+Steroidal contraceptive use has been associated with changes in bone mineral density in women. Whether such changes increase the risk of fractures later in life is not clear. Osteoporosis is a major public health concern. Age‐related decline in bone mass increases the risk of fracture, especially of the spine, hip, and wrist. Concern about bone health influences the recommendation and use of these effective contraceptives globally. 
+Objectives
+Our aim was to evaluate the effect of using hormonal contraceptives before menopause on the risk of fracture in women. 
+Search methods
+Through April 2014, we searched for studies of fracture or bone health and hormonal contraceptives in MEDLINE, POPLINE, CENTRAL, EMBASE, and LILACS, as well as ClinicalTrials.gov and ICTRP. We examined reference lists of relevant articles for other trials. For the initial review, we wrote to investigators to find additional trials. 
+Selection criteria
+Randomized controlled trials (RCTs) were considered if they examined fractures, bone mineral density (BMD), or bone turnover markers in women with hormonal contraceptive use prior to menopause. Eligible interventions included comparisons of a hormonal contraceptive with a placebo or with another hormonal contraceptive that differed in terms of drug, dosage, or regimen. They also included providing a supplement to one group. 
+Data collection and analysis
+We assessed all titles and abstracts identified through the literature searches. Mean differences were computed using the inverse variance approach. For dichotomous outcomes, the Mantel‐Haenszel odds ratio (OR) was calculated. Both included the 95% confidence interval (CI) and used a fixed‐effect model. Due to differing interventions, no trials could be combined for meta‐analysis. We applied principles from GRADE to assess the evidence quality and address confidence in the effect estimates. In addition, a sensitivity analysis included trials that provided sufficient data for this review and evidence of at least moderate quality. 

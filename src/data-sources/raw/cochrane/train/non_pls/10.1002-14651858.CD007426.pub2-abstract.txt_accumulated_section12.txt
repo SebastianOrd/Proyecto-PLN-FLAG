@@ -1,0 +1,12 @@
+Background
+Preterm birth (PTB) is a leading cause of perinatal mortality and morbidity. Although the pathogenesis of preterm labour (PTL) is not well understood, there is evidence about the relationship between maternal psychological stress and adverse pregnancy outcomes. Relaxation or mind‐body therapies cover a broad range of techniques, e.g. meditation, massage, etc. There is no systematic review investigating the effect of relaxation techniques on preventing PTL and PTB. This review does not cover hypnosis as this is the subject of a separate Cochrane review. 
+Objectives
+To assess the effectiveness of relaxation therapies for preventing or treating PTL and preventing PTB. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group’s Trials Register (14 December 2011), CENTRAL (2011, Issue 4 of 4), CINAHL (1982 to 14 December 2011) and contacted study authors for additional information. 
+Selection criteria
+Randomized controlled trials, cluster‐ and quasi‐randomized trials comparing relaxation techniques with usual care, no treatment or sham interventions to prevent or treat PTL. 
+Data collection and analysis
+Two review authors (B Khianman (BK) and P Pattanittum (PP)) independently assessed all search results for potential inclusion studies. Disagreements were resolved by discussion with a third review author (J Thinkhamrop (JT)). Data were independently extracted onto the standardized data collection form by BK and PP and checked for accuracy. Two review authors independently assessed the risk of bias of all included studies. All differences were resolved by discussion with JT. Mean difference (MD) and its 95% confidence intervals (CI) were calculated for continuous outcomes and risk ratio (RR) and 95% CI for dichotomous data. 
+Main results
+Eleven randomized controlled trials with a total of 833 women were included in this review. However, the results of this review are based on single studies with small numbers of participants.The majority of included studies reported insufficient information on sequence generation, allocation concealment as well as blinding. There were no included studies that assessed PTL or PTB as the primary outcome. The included studies were different in terms of intervention, practice, and time, and there were no clear coherent hypotheses. 

@@ -1,0 +1,13 @@
+Background
+Anaemia occurs in chronic kidney disease (CKD) and is more prevalent with lower levels of kidney function. Anaemia in CKD is associated with death related to cardiovascular (CV) disease and infection. Established treatments include erythropoiesis‐stimulating agents (ESAs), iron supplementation and blood transfusions. Oral hypoxia‐inducible factors (HIF) stabilisers are now available to manage anaemia in people with CKD. 
+Objectives
+We aimed to assess the benefits and potential harms of HIF stabilisers for the management of anaemia in people with CKD. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 22 November 2021 through contact with the Information Specialist using search terms relevant to our review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal, and ClinicalTrials.gov. 
+Selection criteria
+Randomised and quasi‐randomised studies evaluating hypoxia‐inducible factors stabilisers compared to placebo, standard care, ESAs or iron supplementation in people with CKD were included. 
+Data collection and analysis
+Five authors independently extracted data and assessed the risk of bias. Treatment estimates were summarised using random effects pair‐wise meta‐analysis and expressed as a relative risk (RR) or mean difference (MD), with a corresponding 95% confidence interval (CI). Evidence certainty was assessed using GRADE. 
+Main results
+We included 51 studies randomising 30,994 adults. These studies compared HIF stabilisers to either placebo or an ESA. 
+Compared to placebo, HIF stabiliser therapy had uncertain effects on CV death (10 studies, 1114 participants): RR 3.68, 95% CI 0.19 to 70.21; very low certainty evidence), and nonfatal myocardial infarction (MI) (3 studies, 822 participants): RR 1.29, 95% CI 0.31 to 5.36; I² = 0%; very low certainty evidence), probably decreases the proportion of patients requiring blood transfusion (8 studies, 4329 participants): RR 0.51, 95% CI 0.44 to 0.60; I² = 0%; moderate certainty evidence), and increases the proportion of patients reaching the target haemoglobin (Hb) (10 studies, 5102 participants): RR 8.36, 95% CI 6.42 to 10.89; I² = 37%; moderate certainty evidence). 

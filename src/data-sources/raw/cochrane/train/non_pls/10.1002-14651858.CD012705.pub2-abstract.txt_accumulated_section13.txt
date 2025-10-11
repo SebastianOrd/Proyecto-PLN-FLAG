@@ -1,0 +1,13 @@
+Background
+Comprehensive Geriatric Assessment (CGA) is a multidimensional interdisciplinary diagnostic process focused on determining an older person's medical, psychological and functional capability in order to develop a co‐ordinated and integrated care plan. CGA is not limited simply to assessment, but also directs a holistic management plan for older people, which leads to tangible interventions. 
+While there is established evidence that CGA reduces the likelihood of death and disability in acutely unwell older people, the effectiveness of CGA for community‐dwelling, frail, older people at risk of poor health outcomes is less clear. 
+Objectives
+To determine the effectiveness of CGA for community‐dwelling, frail, older adults at risk of poor health outcomes in terms of mortality, nursing home admission, hospital admission, emergency department visits, serious adverse events, functional status, quality of life and resource use, when compared to usual care. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL, three trials registers (WHO ICTRP, ClinicalTrials.gov and McMaster Aging Portal) and grey literature up to April 2020; we also checked reference lists and contacted study authors. 
+Selection criteria
+We included randomised trials that compared CGA for community‐dwelling, frail, older people at risk of poor healthcare outcomes to usual care in the community. 
+Older people were defined as 'at risk' either by being frail or having another risk factor associated with poor health outcomes. 
+Frailty was defined as a vulnerability to sudden health state changes triggered by relatively minor stressor events, placing the individual at risk of poor health outcomes, and was measured using objective screening tools. 
+Primary outcomes of interest were death, nursing home admission, unplanned hospital admission, emergency department visits and serious adverse events. 
+CGA was delivered by a team with specific gerontological training/expertise in the participant's home (domiciliary Comprehensive Geriatric Assessment (dCGA)) or other sites such as a general practice or community clinic (community Comprehensive Geriatric Assessment (cCGA)). 

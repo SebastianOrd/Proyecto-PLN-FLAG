@@ -1,0 +1,16 @@
+Background
+Paediatric flat feet are a common presentation in primary care; reported prevalence approximates 15%. A minority of flat feet can hurt and limit gait. There is no optimal strategy, nor consensus, for using foot orthoses (FOs) to treat paediatric flat feet. 
+Objectives
+To assess the benefits and harms of foot orthoses for treating paediatric flat feet.
+Search methods
+We searched CENTRAL, MEDLINE, and Embase to 01 September 2021, and two clinical trials registers on 07 August 2020. 
+Selection criteria
+We identified all randomised controlled trials (RCTs) of FOs as an intervention for paediatric flat feet. The outcomes included in this review were pain, function, quality of life, treatment success, and adverse events. Intended comparisons were: any FOs versus sham, any FOs versus shoes, customised FOs (CFOs) versus prefabricated FOs (PFOs). 
+Data collection and analysis
+We followed standard methods recommended by Cochrane.
+Main results
+We included 16 trials with 1058 children, aged 11 months to 19 years, with flexible flat feet. Distinct flat foot presentations included asymptomatic, juvenile idiopathic arthritis (JIA), symptomatic and developmental co‐ordination disorder (DCD). The trial interventions were FOs, footwear, foot and rehabilitative exercises, and neuromuscular electrical stimulation (NMES). Due to heterogeneity, we did not pool the data. Most trials had potential for selection, performance, detection, and selective reporting bias. No trial blinded participants. We present the results separately for asymptomatic (healthy children) and symptomatic (children with JIA) flat feet. 
+The certainty of evidence was very low to low, downgraded for bias, imprecision, and indirectness. 
+Three comparisons were evaluated across trials: CFO versus shoes; PFO versus shoes; CFO versus PFO. 
+Asymptomatic flat feet 
+1. CFOs versus shoes (1 trial, 106 participants): low‐quality evidence showed that CFOs result in little or no difference in the proportion without pain (10‐point visual analogue scale (VAS)) at one year (risk ratio (RR) 0.85, 95% confidence interval (CI) 0.67 to 1.07); absolute decrease (11.8%, 95% CI 4.7% fewer to 15.8% more); or on withdrawals due to adverse events (RR 1.05, 95% CI 0.94 to 1.19); absolute effect (3.4% more, 95% CI 4.1% fewer to 13.1% more). 

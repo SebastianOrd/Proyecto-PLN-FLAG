@@ -1,0 +1,10 @@
+Background
+Maintenance treatment with long‐acting beta2‐agonists and inhaled corticosteroids (LABA/ICS) can relieve asthma symptoms and reduce the frequency of exacerbations, but there are limited treatment options for people who do not gain control on combination LABA/ICS. Long‐acting muscarinic antagonists (LAMA) are a class of inhaled drug which have been effective for people with chronic obstructive pulmonary disease and are now becoming available for people with asthma to take alongside their LABA/ICS inhaler. 
+Objectives
+To assess the effects of adding a long‐acting muscarinic antagonist (LAMA) to combination long‐acting beta2‐agonists (LABA) and inhaled corticosteroids (ICS) in adults whose asthma is not well controlled by LABA/ICS. 
+Search methods
+We identified trials from the Cochrane Airways Review Group Specialised Register (CAGR) up to January 2016. We also searched ClinicalTrials.gov, the WHO trials portal, and reference lists of other reviews, and we contacted trial authors for additional information. 
+Selection criteria
+We included parallel randomised controlled trials (RCTs) of at least 12 weeks' duration. Studies met the inclusion criteria if they compared LAMA as an add‐on to LABA/ICS versus LABA/ICS alone for adults with asthma. We included studies reported as full text, those published as abstract only, and unpublished data. Primary outcomes were exacerbations requiring oral corticosteroids (OCS), validated measures of asthma control, and serious adverse events (including mortality). 
+Data collection and analysis
+Two review authors screened searches and independently extracted details on risk of bias and numerical data. We analysed dichotomous data as odds ratios (ORs) and continuous data as mean differences (MD) using a random‐effects model. We rated all outcomes using GRADE. 

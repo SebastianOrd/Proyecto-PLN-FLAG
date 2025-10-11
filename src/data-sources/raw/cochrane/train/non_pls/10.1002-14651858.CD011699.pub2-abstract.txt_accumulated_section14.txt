@@ -1,0 +1,14 @@
+Background
+People with bronchiectasis experience chronic cough and sputum production and require the prescription of airway clearance techniques (ACTs). A common type of ACT prescribed is positive expiratory pressure (PEP) therapy. A previous review has suggested that ACTs including PEP therapy are beneficial compared to no treatment in people with bronchiectasis. However, the efficacy of PEP therapy in a stable clinical state or during an acute exacerbation compared to other ACTs in bronchiectasis is unknown. 
+Objectives
+The primary aim of this review was to determine the effects of PEP therapy compared with other ACTs on health‐related quality of life (HRQOL), rate of acute exacerbations, and incidence of hospitalisation in individuals with stable or an acute exacerbation of bronchiectasis. 
+Secondary aims included determining the effects of PEP therapy upon physiological outcomes and clinical signs and symptoms compared with other ACTs in individuals with stable or an acute exacerbation of bronchiectasis. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register of Trials, PEDro and clinical trials registries from inception to February 2017 and we handsearched relevant journals. 
+Selection criteria
+Randomised controlled parallel and cross‐over trials that compared PEP therapy versus other ACTs in participants with bronchiectasis. 
+Data collection and analysis
+We used standard methodological procedures as outlined by Cochrane.
+Main results
+Nine studies involving 213 participants met the inclusion criteria, of which seven were cross‐over in design. All studies included adults with bronchiectasis, with eight including participants in a stable clinical state and one including participants experiencing an acute exacerbation. Eight studies used oscillatory PEP therapy, using either a Flutter or Acapella device and one study used Minimal PEP therapy. The comparison intervention differed between studies. The methodological quality of studies was poor, with cross‐over studies including suboptimal or no washout period, and a lack of blinding of participants, therapists or personnel for outcome measure assessment in most studies. Clinical heterogeneity between studies limited meta‐analysis. 
+Daily use of oscillatory PEP therapy for four weeks was associated with improved general health according to the Short‐Form 36 questionnaire compared to the active cycle of breathing technique (ACBT). When applied for three sessions over one week, minimal PEP therapy resulted in similar improvement in cough‐related quality of life as autogenic drainage (AD) and L'expiration Lente Totale Glotte Ouverte en Decubitus Lateral (ELTGOL). Oscillatory PEP therapy twice daily for four weeks had similar effects on disease‐specific HRQOL (MD ‐0.09, 95% CI ‐0.37 to 0.19; low‐quality evidence). Data were not available to determine the incidence of hospitalisation or rate of exacerbation in clinically stable participants. 

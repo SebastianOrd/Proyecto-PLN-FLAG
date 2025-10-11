@@ -1,0 +1,11 @@
+Background
+Infants born at term by elective caesarean section are more likely to develop respiratory morbidity than infants born vaginally. Prophylactic corticosteroids in singleton preterm pregnancies accelerate lung maturation and reduce the incidence of respiratory complications. It is unclear whether administration at term gestations, prior to caesarean section, improves the respiratory outcomes for these babies without causing any unnecessary morbidity to the mother or the infant. 
+Objectives
+The objective of this review was to assess the effect of prophylactic corticosteroid administration before elective caesarean section at term, as compared to usual care (which could be placebo or no treatment), on fetal, neonatal and maternal morbidity. We also assessed the impact of the treatment on the child in later life. 
+Search methods
+For this update, we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov (20 January 2021) and reference lists of retrieved studies. 
+Selection criteria
+We included randomised controlled trials comparing prophylactic antenatal corticosteroid administration (betamethasone or dexamethasone) with placebo or with no treatment, given before elective caesarean section at term (at or after 37 weeks of gestation). Quasi‐randomised and cluster‐randomised controlled trials were also eligible for inclusion. 
+Data collection and analysis
+We used standard Cochrane Pregnancy and Childbirth methods for data collection and analysis. Two review authors independently assessed trials for inclusion, assessed risk of bias, evaluated trustworthiness (based on predefined criteria developed by Cochrane Pregnancy and Childbirth), extracted data and checked them for accuracy and assessed the certainty of the evidence using the GRADE approach. Our primary outcomes were respiratory distress syndrome (RDS), transient tachypnoea of the neonate (TTN), admission to neonatal special care for respiratory morbidity and need for mechanical ventilation. 
+We planned to perform subgroup analyses for the primary outcomes according to gestational age at randomisation and type of corticosteroid (betamethasone or dexamethasone). We also planned to perform sensitivity analysis, including only studies at low risk of bias. 

@@ -1,0 +1,13 @@
+Background
+Prolonged treatment with benzodiazepines is common practice despite clinical recommendations of short‐term use. Benzodiazepines are used by approximately 4% of the general population, with increased prevalence in psychiatric populations and the elderly. After long‐term use it is often difficult to discontinue benzodiazepines due to psychological and physiological dependence. This review investigated if pharmacological interventions can facilitate benzodiazepine tapering. 
+Objectives
+To assess the benefits and harms of pharmacological interventions to facilitate discontinuation of chronic benzodiazepine use. 
+Search methods
+We searched the following electronic databases up to October 2017: Cochrane Drugs and Alcohol Group's Specialised Register of Trials, CENTRAL, PubMed, Embase, CINAHL, and ISI Web of Science. We also searched ClinicalTrials.gov, the WHO ICTRP, and ISRCTN registry, and checked the reference lists of included studies for further references to relevant randomised controlled trials. 
+Selection criteria
+We included randomised controlled trials comparing pharmacological treatment versus placebo or no intervention or versus another pharmacological intervention in adults who had been treated with benzodiazepines for at least two months and/or fulfilled criteria for benzodiazepine dependence (any criteria). 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 38 trials (involving 2543 participants), but we could only extract data from 35 trials with 2295 participants. Many different interventions were studied, and no single intervention was assessed in more than four trials. We extracted data on 18 different comparisons. The risk of bias was high in all trials but one. Trial Sequential Analysis showed imprecision for all comparisons. 
+For benzodiazepine discontinuation, we found a potential benefit of valproate at end of intervention (1 study, 27 participants; risk ratio (RR) 2.55, 95% confidence interval (CI) 1.08 to 6.03; very low‐quality evidence) and of tricyclic antidepressants at longest follow‐up (1 study, 47 participants; RR 2.20, 95% CI 1.27 to 3.82; low‐quality evidence). 

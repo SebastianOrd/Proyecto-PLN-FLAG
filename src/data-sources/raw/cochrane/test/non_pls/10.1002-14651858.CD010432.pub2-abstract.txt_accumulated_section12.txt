@@ -1,0 +1,12 @@
+Background
+Anthracycline combined with cytarabine has been the standard for induction therapy of newly diagnosed acute myeloid leukaemia (AML) for several decades. Due to theoretical advantages, idarubicin (IDA) might be the most effective and tolerable anthracycline. However, there is no evidence that would definitively prove the superiority of IDA over other anthracyclines. 
+Objectives
+To assess the efficacy and safety of IDA versus other anthracyclines in induction therapy of newly diagnosed AML. 
+Search methods
+We identified relevant randomised controlled trials (RCTs) by searching the Cochrane Central Register of Controlled Trials (The Cochrane Library 2014, Issue 8), MEDLINE (from 1946 to 3 August 2014), EMBASE (from 1974 to 3 August 2014), Chinese BioMedical Literature Database (1978 to 3 August 2014), relevant conference proceedings and databases of ongoing trials. 
+Selection criteria
+RCTs that compared IDA with other anthracyclines in induction therapy of newly diagnosed AML. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the quality of studies according to methodological standards of the Cochrane Collaboration. We estimated hazard ratios (HRs) for time‐to‐event data outcomes using the inverse variance method, and risk ratios (RRs) for dichotomous data outcomes using the Mantel‐Haenszel method. We adopted a fixed‐effect model and repeated the main meta‐analysis by a random‐effects model in a sensitivity analysis. 
+Main results
+We identified 2017 references. Ultimately, 27 RCTs (including 22 two‐armed RCTs and five three‐armed RCTs) involving 9549 patients were eligible. The consolidation treatments adopted in the studies were comparable and had no impact on the results. Overall, the risk of bias of the studies was unclear to high. 

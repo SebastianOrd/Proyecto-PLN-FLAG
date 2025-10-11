@@ -1,0 +1,12 @@
+Background
+Long‐term levodopa therapy for Parkinson's disease is complicated by the development of motor fluctuations and abnormal involuntary movements. One approach is to add a dopamine agonist at this stage of the disease to reduce the time the patient spends immobile or off and to reduce the dose of levodopa in the hope of reducing such problems in the future. 
+Objectives
+To compare the efficacy and safety of adjuvant ropinirole therapy versus placebo in patients with Parkinson's disease already established on levodopa therapy and suffering from motor complications. 
+Search methods
+Electronic searches of MEDLINE, EMBASE and the Cochrane Controlled Trials Register. Handsearching of the neurology literature as part of the Cochrane Movement Disorders Group's strategy. Examination of the reference lists of identified studies and other reviews. Contact with SmithKline Beecham. 
+Selection criteria
+Randomised controlled trials of ropinirole versus placebo in patients with a clinical diagnosis of idiopathic Parkinson's disease and long‐term complications of levodopa therapy. 
+Data collection and analysis
+Data was abstracted independently by the authors and differences settled by discussion. The outcome measures used included Parkinson's disease rating scales, levodopa dosage, 'off' time measurements and the frequency of withdrawals and adverse events. 
+Main results
+Three double‐blind, parallel group, randomised, controlled trials have been conducted on 263 patients. The two phase II studies were relatively small, were conducted over the short term (12 weeks), and used relatively low doses of ropinirole (mean administered doses 3.3 and 3.5 mg/d) in a twice daily regime. In view of this clinical heterogeneity and some statistical heterogeneity, the results of these trials have not been included in a meta‐analysis. The conclusions of this review are based on the evidence from a single phase III study which was medium term (26 weeks) and used ropinirole doses in line with the current UK licensed maximum in a thrice daily regime. 

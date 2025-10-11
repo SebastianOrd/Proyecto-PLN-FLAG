@@ -1,0 +1,13 @@
+Xpert MTB/XDR, a rapid test for resistance to tuberculosis drugs
+Why is improving the diagnosis of tuberculosis drug resistance important? 
+Tuberculosis tests, like Xpert MTB/RIF, Xpert MTB/RIF Ultra, and Truenat, only diagnose rifampicin resistance, but do not provide information about resistance to other drugs used to treat tuberculosis. This information is needed to allow for effective treatment to be started quickly. 
+Not recognizing tuberculosis drug resistance when present (false negative, FN) may result in severe illness and death. An incorrect diagnosis of tuberculosis drug resistance (false positive, FP) may result in stigma and prolonged and unnecessary treatment with less effective drugs that have more side effects. 
+What is the aim of this review? 
+How accurate is Xpert MTB/XDR for detecting pulmonary tuberculosis and resistance to tuberculosis drugs (i.e. isoniazid, fluoroquinolones, ethionamide, and amikacin) in adults? 
+What was studied in the review? 
+Xpert MTB/XDR is a rapid test for detecting tuberculosis and drug resistance in one test, suitable for laboratories that do not require advanced skills and infrastructure. We assessed Xpert MTB/XDR accuracy against three reference standards. 
+What are the main results of the review? 
+We identified two multicentre studies reporting on six separate cohorts (groups of study participants), 1228 participants for pulmonary tuberculosis detection and 1141 participants for drug resistance detection. 
+For pulmonary tuberculosis detection, we included two studies (one reporting on two separate cohorts). We did not determine an overall summary of Xpert MTB/XDR accuracy. 
+If Xpert MTB/XDR were to be used in 1000 people with suspected tuberculosis of whom 100 have tuberculosis: 
+‐ an estimated 98 to 99 people would have an Xpert MTB/XDR result indicating tuberculosis: of these 1 to 2 (1%) would not have tuberculosis (FP); and 203 to 900 people would have a result indicating the absence of tuberculosis: of these 0 to 697 (0% to 77%) would have tuberculosis (FN). 

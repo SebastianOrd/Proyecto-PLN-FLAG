@@ -1,0 +1,10 @@
+Background
+People with severe mental illness show high rates of unemployment and work disability, however, they often have a desire to participate in employment. People with severe mental illness used to be placed in sheltered employment or were enrolled in prevocational training to facilitate transition to a competitive job. Now, there are also interventions focusing on rapid search for a competitive job, with ongoing support to keep the job, known as supported employment. Recently, there has been a growing interest in combining supported employment with other prevocational or psychiatric interventions. 
+Objectives
+To assess the comparative effectiveness of various types of vocational rehabilitation interventions and to rank these interventions according to their effectiveness to facilitate competitive employment in adults with severe mental illness. 
+Search methods
+In November 2016 we searched CENTRAL, MEDLINE, Embase, PsychINFO, and CINAHL, and reference lists of articles for randomised controlled trials and systematic reviews. We identified systematic reviews from which to extract randomised controlled trials. 
+Selection criteria
+We included randomised controlled trials and cluster‐randomised controlled trials evaluating the effect of interventions on obtaining competitive employment for adults with severe mental illness. We included trials with competitive employment outcomes. The main intervention groups were prevocational training programmes, transitional employment interventions, supported employment, supported employment augmented with other specific interventions, and psychiatric care only. 
+Data collection and analysis
+Two authors independently identified trials, performed data extraction, including adverse events, and assessed trial quality. We performed direct meta‐analyses and a network meta‐analysis including measurements of the surface under the cumulative ranking curve (SUCRA). We assessed the quality of the evidence for outcomes within the network meta‐analysis according to GRADE. 

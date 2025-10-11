@@ -1,0 +1,12 @@
+Background
+This review replaces part of an earlier review that evaluated gabapentin for both neuropathic pain and fibromyalgia, now split into separate reviews for the two conditions. This review will consider pain in fibromyalgia only. 
+Fibromyalgia is associated with widespread pain lasting longer than three months, and is frequently associated with symptoms such as poor sleep, fatigue, depression, and reduced quality of life. Fibromyalgia is more common in women. 
+Gabapentin is an antiepileptic drug widely licensed for treatment of neuropathic pain. It is not licensed for the treatment of fibromyalgia, but is commonly used because fibromyalgia can respond to the same medicines as neuropathic pain. 
+Objectives
+To assess the analgesic efficacy of gabapentin for fibromyalgia pain in adults and the adverse events associated with its use in clinical trials. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online, MEDLINE via Ovid and Embase via Ovid from inception to 24 May 2016. We also searched the reference lists of retrieved studies and reviews, and searched online clinical trial registries. 
+Selection criteria
+Randomised, double‐blind trials of eight weeks' duration or longer for treating fibromyalgia pain in adults, comparing gabapentin with placebo or an active comparator. 
+Data collection and analysis
+Two independent review authors extracted data and assessed trial quality and risk of bias. We planned to use dichotomous data to calculate risk ratio and number needed to treat for one additional event, using standard methods. We assessed the evidence using GRADE (Grading of Recommendations Assessment, Development and Evaluation) and created a 'Summary of findings' table. 

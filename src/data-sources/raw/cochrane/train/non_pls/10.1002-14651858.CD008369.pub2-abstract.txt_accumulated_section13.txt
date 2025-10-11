@@ -1,0 +1,13 @@
+Background
+Astragalus (Radix Astragali, huang qi) is the dried root of Astragalus membranaceus (Fisch.) Bge. var. mongholicus (Bge.) Hsiao or Astragalus membranaceus (Fisch.) Bge. (Family Leguminosae). It is one of the most widely used herbs in traditional Chinese medicine for treating kidney diseases. Evidence is needed to help clinicians and patients make judgments about its use for managing chronic kidney disease (CKD). 
+Objectives
+This review evaluated the benefits and potential harms of Astragalus for the treatment of people with CKD. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register to 10 July 2014 through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. We also searched CINAHL, AMED, Current Controlled Trials, OpenSIGLE, and Chinese databases including CBM, CMCC, TCMLARS, Chinese Dissertation Database, CMAC and Index to Chinese Periodical Literature. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs comparing Astragalus, used alone as a crude herb or an extract, with placebo, no treatment, or conventional interventions were eligible for inclusion. 
+Data collection and analysis
+Two authors independently extracted data and assessed risk of bias in the included studies. Meta‐analyses were performed using relative risk (RR) for dichotomous outcomes and mean differences (MD) for continuous outcomes, with 95% confidence intervals (CI). 
+Main results
+We included 22 studies that involved 1323 participants, of whom 241 were receiving dialysis treatment. Risk of bias was assessed as high in six studies, and unclear in the remaining 16 studies. Study quality was low overall. 
+Our nominated primary outcomes of time to requirement for renal replacement therapy (RRT) or initiation of dialysis and all‐cause mortality were not reported in any of the included studies. 

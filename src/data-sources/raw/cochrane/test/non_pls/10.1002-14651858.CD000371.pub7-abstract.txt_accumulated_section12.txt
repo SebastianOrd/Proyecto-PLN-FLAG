@@ -1,0 +1,12 @@
+Background
+The World Health Organization (WHO) recommends treating all school children at regular intervals with deworming drugs in areas where helminth infection is common. Global advocacy organizations claim routine deworming has substantive health and societal effects beyond the removal of worms. In this update of the 2015 edition we included six new trials, additional data from included trials, and addressed comments and criticisms. 
+Objectives
+To summarize the effects of public health programmes to regularly treat all children with deworming drugs on child growth, haemoglobin, cognition, school attendance, school performance, physical fitness, and mortality. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; Embase; LILACS; the metaRegister of Controlled Trials (mRCT); reference lists; and registers of ongoing and completed trials up to 19 September 2018. 
+Selection criteria
+We included randomized controlled trials (RCTs) and quasi‐RCTs that compared deworming drugs for soil‐transmitted helminths (STHs) with placebo or no treatment in children aged 16 years or less, reporting on weight, height, haemoglobin, and formal tests of cognition. We also sought data on other measures of growth, school attendance, school performance, physical fitness, and mortality. 
+Data collection and analysis
+At least two review authors independently assessed the trials for inclusion, risk of bias, and extracted data. We analysed continuous data using the mean difference (MD) with 95% confidence intervals (CIs). Where data were missing, we contacted trial authors. We stratified the analysis based on the background burden of STH infection. We used outcomes at time of longest follow‐up. We assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We identified 51 trials, including 10 cluster‐RCTs, that met the inclusion criteria. One trial evaluating mortality included over one million children, and the remaining 50 trials included a total of 84,336 participants. Twenty‐four trials were in populations categorized as high burden, including nine trials in children selected because they were helminth‐stool positive; 18 with intermediate burden; and nine as low burden. 

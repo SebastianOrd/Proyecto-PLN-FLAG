@@ -1,0 +1,12 @@
+Background
+This is an update of a review last published in Issue 5, 2010, of The Cochrane Library. Reducing weaning time is desirable in minimizing potential complications from mechanical ventilation. Standardized weaning protocols are purported to reduce time spent on mechanical ventilation. However, evidence supporting their use in clinical practice is inconsistent. 
+Objectives
+The first objective of this review was to compare the total duration of mechanical ventilation of critically ill adults who were weaned using protocols versus usual (non‐protocolized) practice. 
+The second objective was to ascertain differences between protocolized and non‐protocolized weaning in outcomes measuring weaning duration, harm (adverse events) and resource use (intensive care unit (ICU) and hospital length of stay, cost). 
+The third objective was to explore, using subgroup analyses, variations in outcomes by type of ICU, type of protocol and approach to delivering the protocol (professional‐led or computer‐driven). 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 1, 2014), MEDLINE (1950 to January 2014), EMBASE (1988 to January 2014), CINAHL (1937 to January 2014), LILACS (1982 to January 2014),  ISI Web of Science and ISI Conference Proceedings (1970 to February 2014), and reference lists of articles. We did not apply language restrictions. The original search was performed in January 2010 and updated in January 2014. 
+Selection criteria
+We included randomized controlled trials (RCTs) and quasi‐RCTs of protocolized weaning versus non‐protocolized weaning from mechanical ventilation in critically ill adults. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We performed a priori subgroup and sensitivity analyses. We contacted study authors for additional information. 

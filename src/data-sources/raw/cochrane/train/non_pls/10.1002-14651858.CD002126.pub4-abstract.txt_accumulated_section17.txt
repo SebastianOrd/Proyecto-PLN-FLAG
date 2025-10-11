@@ -1,0 +1,17 @@
+Background
+Heavy menstrual bleeding (HMB) impacts the quality of life of otherwise healthy women. The perception of HMB is subjective and management depends upon, among other factors, the severity of the symptoms, a woman's age, her wish to get pregnant, and the presence of other pathologies. Heavy menstrual bleeding was classically defined as greater than or equal to 80 mL of blood loss per menstrual cycle. Currently the definition is based on the woman's perception of excessive bleeding which is affecting her quality of life. 
+The intrauterine device was originally developed as a contraceptive but the addition of progestogens to these devices resulted in a large reduction in menstrual blood loss: users of the levonorgestrel‐releasing intrauterine system (LNG‐IUS) reported reductions of up to 90%. Insertion may, however, be regarded as invasive by some women, which affects its acceptability. 
+Objectives
+To determine the effectiveness, acceptability and safety of progestogen‐releasing intrauterine devices in reducing heavy menstrual bleeding. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO and CINAHL (from inception to June 2019); and we searched grey literature and for unpublished trials in trial registers. 
+Selection criteria
+We included randomised controlled trials (RCTs) in women of reproductive age treated with LNG‐IUS devices versus no treatment, placebo, or other medical or surgical therapy for heavy menstrual bleeding. 
+Data collection and analysis
+Two authors independently extracted data, assessed risk of bias and conducted GRADE assessments of the certainty of evidence. 
+Main results
+We included 25 RCTs (2511 women). Limitations in the evidence included risk of attrition bias and low numbers of participants. 
+The studies compared the following interventions.
+LNG‐IUS versus other medical therapy 
+The other medical therapies were norethisterone acetate, medroxyprogesterone acetate, oral contraceptive pill, mefenamic acid, tranexamic acid or usual medical treatment (where participants could choose the oral treatment that was most suitable). 
+The LNG‐IUS may improve HMB, lowering menstrual blood loss according to the alkaline haematin method (mean difference (MD) 66.91 mL, 95% confidence interval (CI) 42.61 to 91.20; 2 studies, 170 women; low‐certainty evidence); and the Pictorial Bleeding Assessment Chart (MD 55.05, 95% CI 27.83 to 82.28; 3 studies, 335 women; low‐certainty evidence). 

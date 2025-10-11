@@ -1,0 +1,12 @@
+Background
+Non‐specific low back pain is a common, potentially disabling condition usually treated with self‐care and non‐prescription medication. For chronic low back pain, current guidelines state that exercise therapy may be beneficial. Yoga is a mind‐body exercise sometimes used for non‐specific low back pain. 
+Objectives
+To assess the effects of yoga for treating chronic non‐specific low back pain, compared to no specific treatment, a minimal intervention (e.g. education), or another active treatment, with a focus on pain, function, and adverse events. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, five other databases and four trials registers to 11 March 2016 without restriction of language or publication status. We screened reference lists and contacted experts in the field to identify additional studies. 
+Selection criteria
+We included randomized controlled trials of yoga treatment in people with chronic non‐specific low back pain. We included studies comparing yoga to any other intervention or to no intervention. We also included studies comparing yoga as an adjunct to other therapies, versus those other therapies alone. 
+Data collection and analysis
+Two authors independently screened and selected studies, extracted outcome data, and assessed risk of bias. We contacted study authors to obtain missing or unclear information. We evaluated the overall certainty of evidence using the GRADE approach. 
+Main results
+We included 12 trials (1080 participants) carried out in the USA (seven trials), India (three trials), and the UK (two trials). Studies were unfunded (one trial), funded by a yoga institution (one trial), funded by non‐profit or government sources (seven trials), or did not report on funding (three trials). Most trials used Iyengar, Hatha, or Viniyoga forms of yoga. The trials compared yoga to no intervention or a non‐exercise intervention such as education (seven trials), an exercise intervention (three trials), or both exercise and non‐exercise interventions (two trials). All trials were at high risk of performance and detection bias because participants and providers were not blinded to treatment assignment, and outcomes were self‐assessed. Therefore, we downgraded all outcomes to 'moderate' certainty evidence because of risk of bias, and when there was additional serious risk of bias, unexplained heterogeneity between studies, or the analyses were imprecise, we downgraded the certainty of the evidence further. 

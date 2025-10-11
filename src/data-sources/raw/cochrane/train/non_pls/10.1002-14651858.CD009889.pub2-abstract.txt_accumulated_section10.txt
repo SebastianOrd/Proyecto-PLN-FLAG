@@ -1,0 +1,10 @@
+Background
+Heart failure is associated with high mortality and hospital readmissions. Beta‐adrenergic blocking agents, angiotensin converting enzyme inhibitors (ACEIs), and angiotensin receptor blockers (ARBs) can improve survival and reduce hospital readmissions and are recommended as first‐line therapy in the treatment of heart failure. Evidence has also shown that there is a dose‐dependent relationship of these medications with patient outcomes. Despite this evidence, primary care physicians are reluctant to up‐titrate these medications. New strategies aimed at facilitating this up‐titration are warranted. Nurse‐led titration (NLT) is one such strategy. 
+Objectives
+To assess the effects of NLT of beta‐adrenergic blocking agents, ACEIs, and ARBs in patients with heart failure with reduced ejection fraction (HFrEF) in terms of safety and patient outcomes. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials in the Cochrane Library (CENTRAL Issue 11 of 12, 19/12/2014), MEDLINE OVID (1946 to November week 3 2014), and EMBASE Classic and EMBASE OVID (1947 to 2014 week 50). We also searched reference lists of relevant primary studies, systematic reviews, clinical trial registries, and unpublished theses sources. We used no language restrictions. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing NLT of beta‐adrenergic blocking agents, ACEIs, and/or ARBs comparing the optimisation of these medications by a nurse to optimisation by another health professional in patients with HFrEF. 
+Data collection and analysis
+Two review authors (AD & JC) independently assessed studies for eligibility and risk of bias. We contacted primary authors if we required additional information. We examined quality of evidence using the GRADE rating tool for RCTs. We analysed extracted data by risk ratio (RR) with 95% confidence interval (CI) for dichotomous data to measure effect sizes of intervention group compared with usual‐care group. Meta‐analyses used the fixed‐effect Mantel‐Haenszel method. We assessed heterogeneity between studies by Chi2 and I2. 

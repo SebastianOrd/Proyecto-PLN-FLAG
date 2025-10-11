@@ -1,0 +1,13 @@
+Background
+This is an update of a Cochrane review first published in 2002, and previously updated in 2007. Late radiation rectal problems (proctopathy) include bleeding, pain, faecal urgency, and incontinence and may develop after pelvic radiotherapy treatment for cancer. 
+Objectives
+To assess the effectiveness and safety of non‐surgical interventions for managing late radiation proctopathy. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 11, 2015); MEDLINE (Ovid); EMBASE (Ovid); CANCERCD; Science Citation Index; and CINAHL from inception to November 2015. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing non‐surgical interventions for the management of late radiation proctopathy in people with cancer who have undergone pelvic radiotherapy for cancer. Primary outcomes considered were: episodes of bowel activity, bleeding, pain, tenesmus, urgency, and sphincter dysfunction. 
+Data collection and analysis
+Study selection, 'Risk of bias' assessment, and data extraction were performed in duplicate, and any disagreements were resolved by involving a third review author. 
+Main results
+We identified 1221 unique references and 16 studies including 993 participants that met our inclusion criteria. One study found through the last update was moved to the 'Studies awaiting classification' section. We did not pool outcomes for a meta‐analysis due to variation in study characteristics and endpoints across included studies. 
+Since radiation proctopathy is a condition with various symptoms or combinations of symptoms, the studies were heterogeneous in their intended effect. Some studies investigated treatments targeted at bleeding only (group 1), some investigated treatments targeted at a combination of anorectal symptoms, but not a single treatment (group 2). The third group focused on the treatment of the collection of symptoms referred to as pelvic radiation disease. In order to enable some comparison of this heterogeneous collection of studies, we describe the effects in these three groups separately. 

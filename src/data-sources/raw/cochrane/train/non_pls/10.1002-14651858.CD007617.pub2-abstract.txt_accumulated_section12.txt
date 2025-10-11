@@ -1,0 +1,12 @@
+Background
+Patients in the terminal phase of a disease may have complex needs. It is often family and friends who play a central role in providing support, despite health professional input and regardless of whether the patient is at home or elsewhere. Such informal caring may involve considerable physical, psychological, and economic stresses. A range of supportive programmes for caregivers is being developed including psychological support and practical assistance. 
+Objectives
+To assess the effects of supportive interventions that aim to improve the psychological and physical health of informal caregivers of patients in the terminal phase of their illness. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2 2010); MEDLINE (1950 to May 2010); EMBASE (1980 to May 2010); PsycINFO (1872 to May 2010); CINAHL (1937 to May 2010); National Health Service Research Register (2000 to November 2008) and Dissertation Abstracts (1716 to May 2010). We searched the reference lists of relevant studies; contacted experts; and handsearched journals. 
+Selection criteria
+Randomised controlled trials (RCTs) of interventions to support adults who were caring for a friend or relative with a disease in the terminal phase. Interventions could include practical and emotional support and/or the facilitation of coping skills. Interventions could support caregivers indirectly via patient care. 
+Data collection and analysis
+Two authors independently screened citations against the selection criteria. Data were extracted by one author and checked by another. This included extraction of any adverse effects. Risk of bias assessment was undertaken by two authors. We contacted trial authors to obtain missing information. Trial data were combined, where appropriate, on the review's primary outcomes. 
+Main results
+We included eleven RCTs involving 1836 caregiver participants. Nine interventions were delivered directly to the caregiver. Seven of these provided support in the caring role, another involved a family life review, and one grief therapy. None provided practical support. The other two interventions aimed to support caregivers indirectly via patient care. Overall the risk of bias is unclear, as all trials under‐reported methods. 

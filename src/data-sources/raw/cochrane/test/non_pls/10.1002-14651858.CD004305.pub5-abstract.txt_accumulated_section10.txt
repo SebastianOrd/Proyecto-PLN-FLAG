@@ -1,0 +1,10 @@
+Background
+Tobacco smoking is the leading preventable cause of death worldwide, which makes it essential to stimulate smoking cessation. The financial cost of smoking cessation treatment can act as a barrier to those seeking support. We hypothesised that provision of financial assistance for people trying to quit smoking, or reimbursement of their care providers, could lead to an increased rate of successful quit attempts. This is an update of the original 2005 review. 
+Objectives
+The primary objective of this review was to assess the impact of reducing the costs for tobacco smokers or healthcare providers for using or providing smoking cessation treatment through healthcare financing interventions on abstinence from smoking. The secondary objectives were to examine the effects of different levels of financial support on the use or prescription of smoking cessation treatment, or both, and on the number of smokers making a quit attempt (quitting smoking for at least 24 hours). We also assessed the cost effectiveness of different financial interventions, and analysed the costs per additional quitter, or per quality‐adjusted life year (QALY) gained. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group Specialised Register in September 2016. 
+Selection criteria
+We considered randomised controlled trials (RCTs), controlled trials and interrupted time series studies involving financial benefit interventions to smokers or their healthcare providers, or both. 
+Data collection and analysis
+Two reviewers independently extracted data and assessed the quality of the included studies. We calculated risk ratios (RR) for individual studies on an intention‐to‐treat basis and performed meta‐analysis using a random‐effects model. 

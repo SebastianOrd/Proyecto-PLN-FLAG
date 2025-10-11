@@ -1,0 +1,12 @@
+Background
+Basal cell carcinoma (BCC) is the commonest cancer affecting white‐skinned individuals, and worldwide incidence is increasing. Although rarely fatal, BCC is associated with significant morbidity and costs. First‐line treatment is usually surgical excision, but alternatives are available. New published studies and the development of non‐surgical treatments meant an update of our Cochrane Review (first published in 2003, and previously updated in 2007) was timely. 
+Objectives
+To assess the effects of interventions for BCC in immunocompetent adults.
+Search methods
+We updated our searches of the following databases to November 2019: Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase, CINAHL, and LILACS. 
+Selection criteria
+Randomised controlled trials (RCTs) of interventions for BCC in immunocompetent adults with histologically‐proven, primary BCC. Eligible comparators were placebo, active treatment, other treatments, or no treatment. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Primary outcome measures were recurrence at three years and five years (measured clinically) (we included recurrence data outside of these time points if there was no measurement at three or five years) and participant‐ and observer‐rated good/excellent cosmetic outcome. Secondary outcomes included pain during and after treatment, early treatment failure within six months, and adverse effects (AEs). We used GRADE to assess evidence certainty for each outcome. 
+Main results
+We included 52 RCTs (26 new) involving 6690 participants (median 89) in this update. All studies recruited from secondary care outpatient clinics. More males than females were included. Study duration ranged from six weeks to 10 years (average 13 months). Most studies (48/52) included only low‐risk BCC (superficial (sBCC) and nodular (nBCC) histological subtypes). The majority of studies were at low or unclear risk of bias for most domains. Twenty‐two studies were industry‐funded: commercial sponsors conducted most of the studies assessing imiquimod, and just under half of the photodynamic therapy (PDT) studies. 

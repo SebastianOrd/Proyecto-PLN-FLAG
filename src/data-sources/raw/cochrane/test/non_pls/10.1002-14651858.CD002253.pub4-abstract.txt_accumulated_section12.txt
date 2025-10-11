@@ -1,0 +1,12 @@
+Background
+In most pregnancies that miscarry, arrest of embryonic or fetal development occurs some time (often weeks) before the miscarriage occurs. Ultrasound examination can reveal abnormal findings during this phase by demonstrating anembryonic pregnancies or embryonic or fetal death. Treatment has traditionally been surgical but medical treatments may be effective, safe, and acceptable, as may be waiting for spontaneous miscarriage. This is an update of a review first published in 2006. 
+Objectives
+To assess, from clinical trials, the effectiveness and safety of different medical treatments for the termination of non‐viable pregnancies. 
+Search methods
+For this update, we searched Cochrane Pregnancy and Childbirth's Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (24 October 2018) and reference lists of retrieved studies. 
+Selection criteria
+Randomised trials comparing medical treatment with another treatment (e.g. surgical evacuation), or placebo, or no treatment for early pregnancy failure. Quasi‐randomised studies were excluded. Cluster‐randomised trials were eligible for inclusion, as were studies reported in abstract form, if sufficient information was available to assess eligibility. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. We assessed the quality of the evidence using the GRADE approach. 
+Main results
+Forty‐three studies (4966 women) were included. The main interventions examined were vaginal, sublingual, oral and buccal misoprostol, mifepristone and vaginal gemeprost. These were compared with surgical management, expectant management, placebo, or different types of medical interventions were compared with each other. The review includes a wide variety of different interventions which have been analysed across 23 different comparisons. Many of the comparisons consist of single studies. We limited the grading of the quality of evidence to two main comparisons: vaginal misoprostol versus placebo and vaginal misoprostol versus surgical evacuation of the uterus. Risk of bias varied widely among the included trials. The quality of the evidence varied between the different comparisons, but was mainly found to be very‐low or low quality. 

@@ -1,0 +1,12 @@
+Background
+Pancreatic pseudocysts are walled‐off peripancreatic fluid collections. There is considerable uncertainty about how pancreatic pseudocysts should be treated. 
+Objectives
+To assess the benefits and harms of different management strategies for pancreatic pseudocysts. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library 2015, Issue 9, and MEDLINE, EMBASE, Science Citation Index Expanded, and trials registers until September 2015. We also searched the references of included trials and contacted trial authors. 
+Selection criteria
+We only considered randomised controlled trials (RCTs) of people with pancreatic pseudocysts, regardless of size, presence of symptoms, or aetiology. We placed no restrictions on blinding, language, or publication status of the trials. 
+Data collection and analysis
+Two review authors independently identified trials and extracted data. We calculated the odds ratio (OR) and mean difference (MD) with 95% confidence intervals (CI) with RevMan 5, based on an available‐case analysis for direct comparisons, using fixed‐effect and random‐effect models. We also conducted indirect comparisons (rather than network meta‐analysis), since there were no outcomes for which direct and indirect evidence were available. 
+Main results
+We included four RCTs, with 177 participants, in this review. After one participant was excluded, 176 participants were randomised to endoscopic ultrasound (EUS)‐guided drainage (88 participants), endoscopic drainage (44 participants), EUS‐guided drainage with nasocystic drainage (24 participants), and open surgical drainage (20 participants). The comparisons included endoscopic drainage versus EUS‐guided drainage (two trials), EUS‐guided drainage with nasocystic drainage versus EUS‐guided drainage alone (one trial), and open surgical drainage versus EUS‐guided drainage (one trial). The participants were mostly symptomatic, with pancreatic pseudocysts resulting from acute and chronic pancreatitis of varied aetiology. The mean size of the pseudocysts ranged between 70 mm and 155 mm across studies. Although the trials appeared to include similar types of participants for all comparisons, we were unable to assess this statistically, since there were no direct and indirect results for any of the comparisons. 

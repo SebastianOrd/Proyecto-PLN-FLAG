@@ -1,0 +1,12 @@
+Background
+Women who want to start intrauterine contraception (IUC) during the postpartum period might benefit from IUC insertion immediately after delivery. Postplacental insertion greatly reduces the risk of subsequent pregnancy and eliminates the need for a return visit to start contraception. Without the option of immediate insertion, many women may never return for services or may adopt less effective contraception. 
+Objectives
+Our aim was to examine the outcomes of IUC insertion immediately after placenta delivery (within 10 minutes), especially when compared with insertion at other postpartum times. We focused on successful IUC placement (insertion), subsequent expulsion, and method use. 
+Search methods
+We searched for trials until 1 April 2015. Sources included PubMed (MEDLINE), the Cochrane Central Register of Controlled Trials (CENTRAL), POPLINE, Web of Science, EMBASE, LILACS, ClinicalTrials.gov, and ICTRP. For the original review, the authors contacted investigators to identify other trials. 
+Selection criteria
+We sought randomized controlled trials (RCTs) with at least one treatment arm that involved immediate IUC placement (i.e., within 10 minutes of placenta delivery). Comparison arms could have included early postpartum insertion (from 10 minutes postplacental to hospital discharge) or standard insertion (during a postpartum visit). Trials could also have compared different IUC methods or insertion techniques. Delivery may have been vaginal or cesarean. Primary outcomes were placement (insertion), subsequent expulsion, and method use at study assessment. 
+Data collection and analysis
+For dichotomous outcomes, we used the Mantel‐Haenszel odds ratio (OR) with 95% confidence interval (CI). Earlier studies primarily reported results as life‐table rates. We aggregated trials in a meta‐analysis if they had similar interventions and outcome measures. A sensitivity analysis included studies with moderate or high quality evidence and sufficient outcome data. 
+Main results
+We included 15 trials. Seven studies reported from 2010 to 2014 were added to eight from the original 2001 review. Newer trials compared immediate postplacental insertion versus early (10 minutes to 48 hours) or standard insertion (during the postpartum visit). Of four with full reports, three were small trials. The other three studies had conference abstracts. The eight early trials examined immediate insertion of different devices or insertion techniques. Most studies were published in the 1980s, some with limited reporting. 

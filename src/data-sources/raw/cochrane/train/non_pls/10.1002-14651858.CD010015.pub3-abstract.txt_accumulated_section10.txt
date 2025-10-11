@@ -1,0 +1,10 @@
+Background
+Evidence from animal models and observational studies in humans has suggested that there is an inverse relationship between dietary intake of omega 3 long‐chain polyunsaturated fatty acids (LCPUFA) and risk of developing age‐related macular degeneration (AMD) or progression to advanced AMD. 
+Objectives
+To review the evidence that increasing the levels of omega 3 LCPUFA in the diet (either by eating more foods rich in omega 3 or by taking nutritional supplements) prevents AMD or slows the progression of AMD. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (2015, Issue 1), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to February 2015), EMBASE (January 1980 to February 2015), Latin American and Caribbean Health Sciences Literature Database (LILACS) (January 1982 to February 2015), the ISRCTN registry (www.isrctn.com/editAdvancedSearch), ClinicalTrials.gov (www.clinicaltrials.gov) and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 2 February 2015. 
+Selection criteria
+We included randomised controlled trials (RCTs) where increased dietary intake of omega 3 LCPUFA was compared to placebo or no intervention with the aim of preventing the development of AMD, or slowing its progression. 
+Data collection and analysis
+Both authors independently selected studies, assessed them for risk of bias and extracted data. One author entered data into RevMan 5 and the other author checked the data entry. We conducted a meta‐analysis for one primary outcome, progression of AMD, using a fixed‐effect inverse variance model. 

@@ -1,0 +1,13 @@
+Background
+Posttraumatic stress disorder (PTSD) is a prevalent and disabling disorder. Evidence that PTSD is characterised by specific psychobiological dysfunctions has contributed to a growing interest in the use of medication in its treatment. 
+Objectives
+To assess the effects of medication for reducing PTSD symptoms in adults with PTSD.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; Issue 11, November 2020); MEDLINE (1946‐), Embase (1974‐), PsycINFO (1967‐) and PTSDPubs (all available years) either directly or via the Cochrane Common Mental Disorders Controlled Trials Register (CCMDCTR). We also searched international trial registers. The date of the latest search was 13 November 2020. 
+Selection criteria
+All randomised controlled trials (RCTs) of pharmacotherapy for adults with PTSD.
+Data collection and analysis
+Three review authors (TW, JI, and NP) independently assessed RCTs for inclusion in the review, collated trial data, and assessed trial quality. We contacted investigators to obtain missing data. We stratified summary statistics by medication class, and by medication agent for all medications. We calculated dichotomous and continuous measures using a random‐effects model, and assessed heterogeneity. 
+Main results
+We include 66 RCTs in the review (range: 13 days to 28 weeks; 7442 participants; age range 18 to 85 years) and 54 in the meta‐analysis.  
+For the primary outcome of treatment response, we found evidence of beneficial effect for selective serotonin reuptake inhibitors (SSRIs) compared with placebo (risk ratio (RR) 0.66, 95% confidence interval (CI) 0.59 to 0.74; 8 studies, 1078 participants), which improved PTSD symptoms in 58% of SSRI participants compared with 35% of placebo participants, based on moderate‐certainty evidence.  

@@ -1,0 +1,12 @@
+Background
+Tinea infections are fungal infections of the skin caused by dermatophytes. It is estimated that 10% to 20% of the world population is affected by fungal skin infections. Sites of infection vary according to geographical location, the organism involved, and environmental and cultural differences. Both tinea corporis, also referred to as 'ringworm' and tinea cruris or 'jock itch' are conditions frequently seen by primary care doctors and dermatologists. The diagnosis can be made on clinical appearance and can be confirmed by microscopy or culture. A wide range of topical antifungal drugs are used to treat these superficial dermatomycoses, but it is unclear which are the most effective. 
+Objectives
+To assess the effects of topical antifungal treatments in tinea cruris and tinea corporis.
+Search methods
+We searched the following databases up to 13th August 2013: the Cochrane Skin Group Specialised Register, CENTRAL in The Cochrane Library (2013, Issue 7), MEDLINE (from 1946), EMBASE (from 1974), and LILACS (from 1982). We also searched five trials registers, and checked the reference lists of included and excluded studies for further references to relevant randomised controlled trials. We handsearched the journal Mycoses from 1957 to 1990. 
+Selection criteria
+Randomised controlled trials in people with proven dermatophyte infection of the body (tinea corporis) or groin (tinea cruris). 
+Data collection and analysis
+Two review authors independently carried out study selection, data extraction, assessment of risk of bias, and analyses. 
+Main results
+Of the 364 records identified, 129 studies with 18,086 participants met the inclusion criteria. Half of the studies were judged at high risk of bias with the remainder judged at unclear risk. A wide range of different comparisons were evaluated across the 129 studies, 92 in total, with azoles accounting for the majority of the interventions. Treatment duration varied from one week to two months, but in most studies this was two to four weeks. The length of follow‐up varied from one week to six months. Sixty‐three studies contained no usable or retrievable data mainly due to the lack of separate data for different tinea infections. Mycological and clinical cure were assessed in the majority of studies, along with adverse effects. Less than half of the studies assessed disease relapse, and hardly any of them assessed duration until clinical cure, or participant‐judged cure. The quality of the body of evidence was rated as low to very low for the different outcomes. 

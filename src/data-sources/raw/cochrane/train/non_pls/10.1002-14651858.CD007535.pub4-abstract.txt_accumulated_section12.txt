@@ -1,0 +1,12 @@
+Background
+Polycystic ovarian syndrome (PCOS) is characterised by both metabolic and reproductive disorders, and affects 5% to 15% of women of reproductive age. Different western medicines have been proposed for PCOS‐related subfertility, such as oral contraceptives, insulin sensitisers and laparoscopic ovarian drilling (LOD). Chinese herbal medicines (CHM) have also been used for subfertility caused by PCOS for decades, and are expected to become an alternative treatment for subfertile women with PCOS. 
+Objectives
+To assess the efficacy and safety of Chinese herbal medicine (CHM) for subfertile women with polycystic ovarian syndrome (PCOS). 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, Embase and six other databases, from inception to 2 June 2020. In addition, we searched three trials registries, the reference lists of included trials and contacted experts in the field to locate trials. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing CHM versus placebo, no treatment or conventional (western) therapies for the treatment of subfertile women with PCOS. 
+Data collection and analysis
+Two review authors independently screened trials for inclusion, assessed the risk of bias in included studies and extracted data. We contacted primary study authors for additional information. We conducted meta‐analyses. We used the odds ratios (ORs) to report dichotomous data, with 95% confidence intervals (CIs). We assessed the certainty of the evidence using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) methods. 
+Main results
+We included eight RCTs with 609 participants. The comparisons in the included trials were as follows: CHM versus clomiphene, CHM plus clomiphene versus clomiphene (with or without ethinyloestradiol cyproterone acetate (EE/CPA)), CHM plus follicle aspiration plus ovulation induction versus follicle aspiration plus ovulation induction alone, and CHM plus laparoscopic ovarian drilling (LOD) versus LOD alone. The overall certainty of the evidence for most comparisons was very low. 

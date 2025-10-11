@@ -1,0 +1,14 @@
+Background
+Cervical cancer ranks as the fourth leading cause of death from cancer in women. Historically, women with metastatic or recurrent cervical cancer have had limited treatment options. New anti‐angiogenesis therapies, such as vascular endothelial growth factor (VEGF) targeting agents, offer an alternative strategy to conventional chemotherapy; they act by inhibiting the growth of new blood vessels, thereby restricting tumour growth by blocking the blood supply. 
+Objectives
+To assess the benefits and harms of VEGF targeting agents in the management of persistent, recurrent, or metastatic cervical cancer. 
+Search methods
+We performed searches of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, online registers of clinical trials, and abstracts of scientific meetings up until 27 May 2020. 
+Selection criteria
+We examined randomised controlled trials (RCTs) that evaluated the use of VEGF targeting agents alone or in combination with conventional chemotherapy or other VEGF targeting agents. 
+Data collection and analysis
+Three review authors independently screened the results of search strategies, extracted data, assessed risk of bias, and analysed data according to the standard methods expected by Cochrane. The certainty of evidence was assessed via the GRADE approach. 
+Main results
+A total of 1634 records were identified. From these, we identified four studies with a total of 808 participants for inclusion. We also identified two studies that were awaiting classification and nine ongoing studies. 
+Bevacizumab plus chemotherapy versus chemotherapy 
+Treatment with bevacizumab plus chemotherapy may result in lower risk of death compared to chemotherapy alone (hazard ratio (HR) 0.77, 95% confidence interval (CI) 0.62 to 0.95; 1 study, 452 participants; low‐certainty evidence). However, there are probably more specific adverse events when compared to chemotherapy alone, including gastrointestinal perforations or fistulae (risk ratio (RR) 18.00, 95% CI 2.42 to 133.67; 1 study, 440 participants; moderate‐certainty evidence); serious thromboembolic events (RR 4.5, 95% CI 1.55 to 13.08; 1 study, 440 participants; moderate‐certainty evidence); and hypertension (RR 13.75, 95% CI 5.07 to 37.29; 1 study, 440 participants; moderate‐certainty evidence). There may also be a higher incidence of serious haemorrhage (RR 5.00, 95% CI 1.11 to 22.56; 1 study, 440 participants; low‐certainty evidence). In addition, the incidence of serious adverse events is probably higher (RR 1.44, 95% CI 1.16 to 1.79; 1 study, 439 participants; moderate‐certainty evidence). The incremental cost‐effectiveness ratio was USD 295,164 per quality‐adjusted life‐year (1 study, 452 participants; low‐certainty evidence). 

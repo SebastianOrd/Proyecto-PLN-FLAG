@@ -1,0 +1,13 @@
+Background
+Pelvic inflammatory disease (PID) affects 4% to 12% of women of reproductive age. The main intervention for acute PID is broad‐spectrum antibiotics administered intravenously, intramuscularly or orally. We assessed the optimal treatment regimen for PID.  
+Objectives
+To assess the effectiveness and safety of antibiotic regimens to treat PID.
+Search methods
+In January 2020, we searched the Cochrane Sexually Transmitted Infections Review Group's Specialized Register, which included randomized controlled trials (RCTs) from 1944 to 2020, located through hand and electronic searching; CENTRAL; MEDLINE; Embase; four other databases; and abstracts in selected publications. 
+Selection criteria
+We included RCTs comparing antibiotics with placebo or other antibiotics for the treatment of PID in women of reproductive age, either as inpatient or outpatient treatment. We limited our review to a comparison of drugs in current use that are recommended by the 2015 US Centers for Disease Control and Prevention guidelines for treatment of PID. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Two authors independently extracted data, assessed risk of bias and conducted GRADE assessments of the quality of evidence. 
+Main results
+We included 39 RCTs (6894 women) in this review, adding two new RCTs at this update. The quality of the evidence ranged from very low to high, the main limitations being serious risk of bias (due to poor reporting of study methods and lack of blinding), serious inconsistency, and serious imprecision. 
+None of the studies reported quinolones and cephalosporins, or the outcomes laparoscopic evidence of resolution of PID based on physician opinion or fertility outcomes. Length of stay results were insufficiently reported for analysis. 

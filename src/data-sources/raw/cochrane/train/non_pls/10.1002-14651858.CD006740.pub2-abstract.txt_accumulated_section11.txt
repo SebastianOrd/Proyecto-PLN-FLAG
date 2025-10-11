@@ -1,0 +1,11 @@
+Background
+Acute kidney injury (AKI), which is common in hospitalised patients, is associated with significant morbidity and mortality. Despite recent advances in treatment, AKI outcomes have not changed substantially during the past four decades, and incidence is increasing. There is an urgent need to explore novel therapeutic agents and revisit some older drugs to review their roles in the management of AKI. Although thyroid hormone therapy has shown promise in experimental animal studies, clinical efficacy and safety have not been systematically assessed for the management of people with AKI. 
+Objectives
+To evaluate the benefits and harms of thyroid hormones for the treatment of hospitalised adults with AKI of any aetiology. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register, CENTRAL, MEDLINE, and EMBASE. We also checked the reference lists of retrieved studies and articles. 
+Date of search: November 2012
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs (in which allocation to treatment was obtained by alternation, use of alternate medical records, date of birth or other predictable methods) that compared any dose or form of thyroid hormone therapy alone or in combination with other agents compared with placebo or supplemental treatment (such as furosemide, dopamine, or atrial natriuretic peptide) in adult AKI patients. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. The quality of included studies was assessed using the Cochrane Collaboration's risk of bias assessment tool. For dichotomous outcomes (death, need for renal replacement therapy (RRT), progression to end‐stage kidney disease (ESKD)), we planned to express results as risk ratios (RR) with 95% confidence intervals (CI). Where continuous scales of measurement were used to assess the effects of treatment (length of hospital stay, durations of AKI and RRT), we planned to use the mean difference (MD). 

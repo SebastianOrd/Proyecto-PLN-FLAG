@@ -1,0 +1,15 @@
+Background
+Laparoscopic colposuspension was one of the first minimal access operations for treating stress urinary incontinence in women, with the presumed advantages of shorter hospital stays and quicker return to normal activities. 
+This Cochrane Review was last updated in 2010.
+Objectives
+To assess the effects of laparoscopic colposuspension for urinary incontinence in women; and summarise the principal findings of relevant economic evaluations of these interventions. 
+Search methods
+We searched the Cochrane Incontinence Specialised Register (22 May 2019), which contains trials identified from CENTRAL, MEDLINE, MEDLINE In‐Process, MEDLINE Epub Ahead of Print, CINAHL, ClinicalTrials.gov, WHO ICTRP and handsearching of journals and conference proceedings. 
+Selection criteria
+Randomised controlled trials of women with urinary incontinence that included laparoscopic surgery in at least one arm. 
+Data collection and analysis
+We independently extracted data from eligible trials, assessed risk of bias and implemented GRADE. 
+Main results
+We included 26 trials involving 2271 women.
+Thirteen trials (1304 women) compared laparoscopic colposuspension to open colposuspension and nine trials (412 women) to midurethral sling procedures. One trial (161 women) compared laparoscopic colposuspension with one suture to laparoscopic colposuspension with two sutures; and three trials (261 women) compared laparoscopic colposuspension with sutures to laparoscopic colposuspension with mesh and staples. The majority of trials did not follow up participants beyond 18 months. Overall, there was unclear risk of selection, performance and detection bias and generally low risk of attrition and reporting bias. 
+There is little difference between laparoscopic colposuspension using sutures and open colposuspension for subjective cure within 18 months (risk ratio (RR) 1.04, 95% confidence interval (CI) 0.99 to 1.08; 6 trials, 755 women; high‐quality evidence). We are uncertain whether laparoscopic colposuspension using mesh and staples is better or worse than open colposuspension for subjective cure within 18 months (RR 0.75, 95% CI 0.61 to 0.93; 3 trials, 362 women; very low‐quality evidence) or whether there is a greater risk of repeat continence surgery with laparoscopic colposuspension. Laparoscopic colposuspension may have a lower risk of perioperative complications (RR 0.67, 95% CI 0.47 to 0.94; 11 trials, 1369 women; low‐quality evidence). There may be similar or higher rates of bladder perforations with laparoscopic colposuspension (RR 1.72, 95% CI 0.90 to 3.29; 10 trials, 1311 women; moderate‐quality evidence). Rates for de novo detrusor overactivity (RR 1.29, 95% CI 0.72 to 2.30; 5 trials, 472 women) and voiding dysfunction (RR 0.81, 95% CI 0.50 to 1.31; 5 trials, 507 women) may be similar but we are uncertain due to the wide confidence interval. Five studies reported on quality of life but we could not synthesise the data. 

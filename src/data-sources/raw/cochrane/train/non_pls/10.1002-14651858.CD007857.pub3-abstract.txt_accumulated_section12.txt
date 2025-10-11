@@ -1,0 +1,12 @@
+Background
+The anaemia seen in chronic kidney disease (CKD) may be exacerbated by iron deficiency. Iron can be provided through different routes, with advantages and drawbacks of each route. It remains unclear whether the potential harms and additional costs of intravenous (IV) compared with oral iron are justified. This is an update of a review first published in 2012. 
+Objectives
+To determine the benefits and harms of IV iron supplementation compared with oral iron for anaemia in adults and children with CKD, including participants on dialysis, with kidney transplants and CKD not requiring dialysis. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 7 December 2018 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal, and ClinicalTrials.gov. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs in which IV and oral routes of iron administration were compared in adults and children with CKD. 
+Data collection and analysis
+Two authors independently assessed study eligibility, risk of bias, and extracted data. Results were reported as risk ratios (RR) with 95% confidence intervals (CI) for dichotomous outcomes. For continuous outcomes the mean difference (MD) was used or standardised mean difference (SMD) if different scales had been used. Statistical analyses were performed using the random‐effects model. Subgroup analysis and univariate meta‐regression were performed to investigate between study differences. The certainty of the evidence was assessed using GRADE. 
+Main results
+We included 39 studies (3852 participants), 11 of which were added in this update. A low risk of bias was attributed to 20 (51%) studies for sequence generation, 14 (36%) studies for allocation concealment, 22 (56%) studies for attrition bias and 20 (51%) for selective outcome reporting. All studies were at a high risk of performance bias. However, all studies were considered at low risk of detection bias because the primary outcome in all studies was laboratory‐based and unlikely to be influenced by lack of blinding. 

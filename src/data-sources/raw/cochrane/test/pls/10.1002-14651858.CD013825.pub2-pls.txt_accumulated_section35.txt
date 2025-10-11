@@ -1,0 +1,35 @@
+Are laboratory‐made, COVID‐19‐specific monoclonal antibodies an effective treatment for COVID‐19? 
+Key messages 
+‐ We do not know whether antibodies (the body’s natural defence against disease) made in a laboratory and all the same as one another (monoclonal) and designed to target COVID‐19, are an effective treatment for COVID‐19 because we assessed only six studies exploring different treatments in different types of patients. 
+‐ We identified 36 ongoing studies that will provide more evidence when completed.
+‐ We will update this review regularly as more evidence becomes available.
+What are ‘monoclonal’ antibodies? 
+Antibodies are made by the body as a defence against disease. However, they can also be produced in a laboratory from cells taken from people who have recovered from a disease.  
+Antibodies that are designed to target only one specific protein – in this case, a protein on the virus that causes COVID‐19 – are ‘monoclonal’. They attach to the COVID‐19 virus and stop it from entering and replicating in human cells, which helps to fight the infection. Monoclonal antibodies have been used successfully to treat other viruses. They are thought to cause fewer unwanted effects than convalescent plasma, which contains a variety of different antibodies. 
+What did we want to find out? 
+We wanted to know if COVID‐19 specific monoclonal antibodies are an effective treatment for COVID‐19. We looked at whether they:  
+‐ reduced the number of deaths from any cause; 
+‐ improved symptoms or made them worse; 
+‐ increased admissions to hospital; and
+‐ caused any serious or other unwanted effects.
+What did we do? 
+We searched for studies that investigated one or more monoclonal antibodies to treat people with confirmed COVID‐19 compared with placebo (sham treatment), another treatment or no treatment. Studies could take place anywhere globally and include participants of any age, gender or ethnicity, with mild, moderate or severe COVID‐19.  
+We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and size. 
+What did we find? 
+We found six active studies including a total of 17,495 people. Four studies investigated non‐hospitalised people with no symptoms or mild COVID‐19. Two studies investigated hospitalised people with moderate to severe COVID‐19. Studies took place across the world. Three studies were funded by pharmaceutical companies. The monoclonal antibodies they studied were bamlanivimab, etesevimab, casirivimab and imdevimab, sotrovimab, regdanvimab. We did not identify data for mortality at 60 days and quality of life. 
+Non‐hospitalised people, with no symptoms or mild COVID‐19 (four studies)  
+One study investigated different doses of bamlanivimab (465 people), compared to placebo.
+We don’t know whether bamlanivimab:
+‐ increases or reduces the number of deaths because no participants died within 30 days of treatment; 
+‐ causes more or fewer serious unwanted effects because there were few events.
+Bamlanivimab may reduce the number of admissions to hospital within 30 days of treatment compared to placebo. 
+‐ May cause slightly fewer unwanted effects than placebo. 
+‐ We did not find data for improved symptoms or worsened symptoms.
+One study investigated a combination of bamlanivimab and etesevimab (1035 people), compared to placebo. 
+‐ Bamlanivimab and etesevimab may reduce the number of deaths and admissions to hospital.
+‐ May cause slightly more unwanted effects.
+‐ May cause more serious unwanted effects.
+For treatment with bamlanivimab alone or in combination with etesevimab we did not find data for improved symptoms or worsened symptoms. 
+One study (phase 1/2 with 799 people) investigated different doses of casirivimab combined with imdevimab, compared to placebo. 
+‐ Casirivimab combined with imdevimab may reduce the number of hospital admissions or death. 
+‐ We don't know whether casirivimab and imdevimab causes more unwanted (grades 3 and 4) and serious unwanted effects than placebo because there were too few deaths to allow us to make a judgment.  

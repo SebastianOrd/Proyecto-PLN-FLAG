@@ -1,0 +1,15 @@
+Background
+Recruiting participants to trials can be extremely difficult. Identifying strategies that improve trial recruitment would benefit both trialists and health research. 
+Objectives
+To quantify the effects of strategies for improving recruitment of participants to randomised trials. A secondary objective is to assess the evidence for the effect of the research setting (e.g. primary care versus secondary care) on recruitment. 
+Search methods
+We searched the Cochrane Methodology Review Group Specialised Register (CMR) in the Cochrane Library (July 2012, searched 11 February 2015); MEDLINE and MEDLINE In Process (OVID) (1946 to 10 February 2015); Embase (OVID) (1996 to 2015 Week 06); Science Citation Index & Social Science Citation Index (ISI) (2009 to 11 February 2015) and ERIC (EBSCO) (2009 to 11 February 2015). 
+Selection criteria
+Randomised and quasi‐randomised trials of methods to increase recruitment to randomised trials. This includes non‐healthcare studies and studies recruiting to hypothetical trials. We excluded studies aiming to increase response rates to questionnaires or trial retention and those evaluating incentives and disincentives for clinicians to recruit participants. 
+Data collection and analysis
+We extracted data on: the method evaluated; country in which the study was carried out; nature of the population; nature of the study setting; nature of the study to be recruited into; randomisation or quasi‐randomisation method; and numbers and proportions in each intervention group. We used a risk difference to estimate the absolute improvement and the 95% confidence interval (CI) to describe the effect in individual trials. We assessed heterogeneity between trial results. We used GRADE to judge the certainty we had in the evidence coming from each comparison. 
+Main results
+We identified 68 eligible trials (24 new to this update) with more than 74,000 participants. There were 63 studies involving interventions aimed directly at trial participants, while five evaluated interventions aimed at people recruiting participants. All studies were in health care. 
+We found 72 comparisons, but just three are supported by high‐certainty evidence according to GRADE. 
+1. Open trials rather than blinded, placebo trials. The absolute improvement was 10% (95% CI 7% to 13%). 
+2. Telephone reminders to people who do not respond to a postal invitation. The absolute improvement was 6% (95% CI 3% to 9%). This result applies to trials that have low underlying recruitment. We are less certain for trials that start out with moderately good recruitment (i.e. over 10%). 

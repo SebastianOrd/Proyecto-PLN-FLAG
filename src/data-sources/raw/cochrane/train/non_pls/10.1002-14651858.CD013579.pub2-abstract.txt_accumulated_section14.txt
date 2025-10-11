@@ -1,0 +1,14 @@
+Background
+Glioblastoma (GBM) is a highly malignant brain tumour that almost inevitably progresses or recurs after first line standard of care. There is no consensus regarding the best treatment/s to offer people upon disease progression or recurrence. For the purposes of this review, progression and recurrence are considered as one entity. 
+Objectives
+To evaluate the effectiveness of further treatment/s for first and subsequent progression or recurrence of glioblastoma (GBM) among people who have received the standard of care (Stupp protocol) for primary treatment of the disease; and to prepare a brief economic commentary on the available evidence. 
+Search methods
+We searched MEDLINE and Embase electronic databases from 2005 to December 2019 and the Cochrane Central Register of Controlled Trials (CENTRAL, in the Cochrane Library; Issue 12, 2019). Economic searches included the National Health Service Economic Evaluation Database (NHS EED) up to 2015 (database closure) and MEDLINE and Embase from 2015 to December 2019. 
+Selection criteria
+Randomised controlled trials (RCTs) and comparative non‐randomised studies (NRSs) evaluating effectiveness of treatments for progressive/recurrent GBM. Eligible studies included people with progressive or recurrent GBM who had received first line radiotherapy with concomitant and adjuvant temozolomide (TMZ). 
+Data collection and analysis
+Two review authors independently selected studies and extracted data to a pre‐designed data extraction form. We conducted network meta‐analyses (NMA) and ranked treatments according to effectiveness for each outcome using the random‐effects model and Stata software (version 15). We rated the certainty of evidence using the GRADE approach. 
+Main results
+We included 42 studies: these comprised 34 randomised controlled trials (RCTs) and 8 non‐randomised studies (NRSs) involving 5236 participants. We judged most RCTs to be at a low risk of bias and NRSs at high risk of bias. Interventions included chemotherapy, re‐operation, re‐irradiation and novel therapies either used alone or in combination. For first recurrence, we included 11 interventions in the network meta‐analysis (NMA) for overall survival (OS), and eight in the NMA for progression‐free survival (PFS). Lomustine (LOM; also known as CCNU) was the most common comparator and was used as the reference treatment. No studies in the NMA evaluated surgery, re‐irradiation, PCV (procarbazine, lomustine, vincristine), TMZ re‐challenge or best supportive care. We could not perform NMA for second or later recurrence due to insufficient data. Quality‐of‐life data were sparse. 
+First recurrence (NMA findings) 
+Median OS across included studies in the NMA ranged from 5.5 to 12.6 months and median progression‐free survival (PFS) ranged from 1.5 months to 4.2 months. We found no high‐certainty evidence that any treatments tested were better than lomustine. These treatments included the following. 

@@ -1,0 +1,15 @@
+Background
+Engorgement is the overfilling of breasts with milk, often occurring in the early days postpartum. It results in swollen, hard, painful breasts and may lead to premature cessation of breastfeeding, decreased milk production, cracked nipples and mastitis. Various treatments have been studied but little consistent evidence has been found on effective interventions. 
+Objectives
+To determine the effectiveness and safety of different treatments for engorgement in breastfeeding women. 
+Search methods
+On 2 October 2019, we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP), and reference lists of retrieved studies. 
+Selection criteria
+All types of randomised controlled trials and all forms of treatment for breast engorgement were eligible. 
+Data collection and analysis
+Two review authors independently assessed trials for eligibility, extracted data, conducted 'Risk of bias' assessment and assessed the certainty of evidence using GRADE. 
+Main results
+For this udpate, we included 21 studies (2170 women randomised) conducted in a variety of settings. Six studies used individual breasts as the unit of analysis. 
+Trials examined a range of interventions: cabbage leaves, various herbal compresses (ginger, cactus and aloe, hollyhock), massage (manual, electromechanical, Oketani), acupuncture, ultrasound, acupressure, scraping therapy, cold packs, and medical treatments (serrapeptase, protease, oxytocin). Due to heterogeneity, meta‐analysis was not possible and data were reported from single trials. Certainty of evidence was downgraded for limitations in study design, imprecision and for inconsistency of effects. We report here findings from key comparisons. 
+Cabbage leaf treatments compared to control 
+For breast pain, cold cabbage leaves may be more effective than routine care (mean difference (MD) ‐1.03 points on 0‐10 visual analogue scale (VAS), 95% confidence intervals (CI) ‐1.53 to ‐0.53; 152 women; very low‐certainty evidence) or cold gel packs (‐0.63 VAS points, 95% CI ‐1.09 to ‐0.17; 152 women; very low‐certainty evidence), although the evidence is very uncertain. We are uncertain about cold cabbage leaves compared to room temperature cabbage leaves, room temperature cabbage leaves compared to hot water bag, and cabbage leaf extract cream compared to placebo cream because the CIs were wide and included no effect. 

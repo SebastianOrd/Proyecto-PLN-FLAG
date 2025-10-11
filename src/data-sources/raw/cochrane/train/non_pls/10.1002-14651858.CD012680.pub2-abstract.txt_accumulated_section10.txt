@@ -1,0 +1,10 @@
+Background
+Symptoms of anxiety and depression are common in inflammatory bowel disease (IBD). Antidepressants are taken by approximately 30% of people with IBD. However, there are no current guidelines on treating co‐morbid anxiety and depression in people with IBD with antidepressants, nor are there clear data on the role of antidepressants in managing physical symptoms of IBD. 
+Objectives
+The objectives were to assess the efficacy and safety of antidepressants for treating anxiety and depression in IBD, and to assess the effects of antidepressants on quality of life (QoL) and managing disease activity in IBD. 
+Search methods
+We searched MEDLINE; Embase, CINAHL, PsycINFO, CENTRAL, and the Cochrane IBD Group Specialized Register from inception to 23 August 2018. Reference lists, trials registers, conference proceedings and grey literature were also searched. 
+Selection criteria
+Randomised controlled trials (RCTs) and observational studies comparing any type of antidepressant to placebo, no treatment or an active therapy for IBD were included. 
+Data collection and analysis
+Two authors independently screened search results, extracted data and assessed bias using the Cochrane risk of bias tool. We used the Newcastle‐Ottawa Scale to assess quality of observational studies. GRADE was used to evaluate the certainty of the evidence supporting the outcomes. Primary outcomes included anxiety and depression. Anxiety was assessed using the Hospital Anxiety and Depression Scale (HADS) or the Hamilton Anxiety Rating Scale (HARS). Depression was assessed using HADS or the Beck Depression Inventory. Secondary outcomes included adverse events (AEs), serious AEs, withdrawal due to AEs, quality of life (QoL), clinical remission, relapse, pain, hospital admissions, surgery, and need for steroid treatment. QoL was assessed using the WHO‐QOL‐BREF questionnaire. We calculated the risk ratio (RR) and corresponding 95% confidence intervals (CI) for dichotomous outcomes. For continuous outcomes, we calculated the mean difference (MD) with 95% CI. A fixed‐effect model was used for analysis. 

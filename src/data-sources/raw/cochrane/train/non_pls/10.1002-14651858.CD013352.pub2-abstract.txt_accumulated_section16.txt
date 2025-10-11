@@ -1,0 +1,16 @@
+Background
+Uterine leiomyomas, also referred to as myomas or fibroids, are benign tumours arising from the smooth muscle cells of the myometrium. They are the most common pelvic tumour in women. The estimated rate of leiomyosarcoma, found during surgery for presumed benign leiomyomas, is about 0.51 per 1000 procedures, or approximately 1 in 2000. 
+Treatment options for symptomatic uterine leiomyomas include medical, surgical, and radiologically‐guided interventions. Laparoscopic myomectomy is the gold standard surgical approach for women who want offspring, or otherwise wish to retain their uterus. A limitation of laparoscopy is the inability to remove large specimens from the abdominal cavity through the laparoscope. To overcome this challenge, the morcellation approach was developed, during which larger specimens are broken into smaller pieces in order to remove them from the abdominal cavity via the port site. However, intracorporeal power morcellation may lead to scattering of benign tissues, with the risk of spreading leiomyoma or endometriosis. In cases of unsuspected malignancy, power morcellation can cause unintentional dissemination of malignant cells, and lead to a poorer prognosis by upstaging the occult cancer. 
+A strategy to optimise women's safety is to morcellate the specimens inside a bag. In‐bag morcellation may avoid the dissemination of tissue fragments. 
+Objectives
+To evaluate the effectiveness and safety of protected in‐bag extracorporeal manual morcellation during laparoscopic myomectomy compared to intra‐abdominal uncontained power morcellation. 
+Search methods
+On 1 July 2019, we searched; the Cochrane Gynaecology and Fertility Group Specialized Register of Controlled Trials, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, LILACS, PubMed, Google Scholar, and two trials registers. 
+We reviewed the reference lists of all retrieved full‐text articles, and contacted experts in the field for additional and ongoing trials. 
+Selection criteria
+We included all randomised controlled trials comparing in‐bag extracorporeal manual morcellation versus intracorporeal uncontained power morcellation during laparoscopic myomectomy in premenopausal women. 
+Data collection and analysis
+We followed standard Cochrane methods.
+Two review authors independently reviewed the eligibility of trials, extracted data, and evaluated the risk of bias. Data were checked for accuracy. 
+The summary measures were reported as risk ratios (RR) or mean differences (MD) with 95% confidence interval (CI). 
+The outcomes of interest were a composite of intraoperative and postoperative complications, operative times, ease of morcellation, length of hospital stay, postoperative pain, conversion to laparotomy, and postoperative diagnosis of leiomyosarcoma. Results for the five main outcomes follow. 

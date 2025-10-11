@@ -1,0 +1,12 @@
+Background
+Given the continued rise in cesarean birth rate and the increased risk of surgical site infections after cesarean birth compared with vaginal birth, effective interventions must be established for prevention of surgical site infections. Prophylactic intravenous (IV) antibiotic administration 60 minutes prior to skin incision is recommended for abdominal gynecologic surgery; however, administration of prophylactic antibiotics has traditionally been withheld until after neonatal umbilical cord clamping during cesarean delivery due to the concern for potential transfer of antibiotics to the neonate. 
+Objectives
+To compare the effects of cesarean antibiotic prophylaxis administered preoperatively versus after neonatal cord clamp on postoperative infectious complications for both the mother and the neonate. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (1 March 2014) and reference lists of retrieved papers. 
+Selection criteria
+Randomized controlled trials (RCTs) comparing maternal and neonatal outcomes following prophylactic antibiotics administered prior to skin incision versus after neonatal cord clamping during cesarean delivery. Cluster‐RCTs were eligible for inclusion but none were identified. Quasi‐RCT and trials using a cross‐over design were not eligible for inclusion in this review. Studies published in abstract form only were eligible for inclusion if sufficient information was available in the report. 
+Data collection and analysis
+At least two review authors independently assessed the studies for inclusion, assessed risk of bias, abstracted data and checked entries for accuracy. We assessed the quality of evidence using the GRADE approach. 
+Main results
+We included 10 studies (12 trial reports) from which 5041 women contributed data for the primary outcome. The overall risk of bias was low. 

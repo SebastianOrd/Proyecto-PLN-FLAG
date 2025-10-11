@@ -1,0 +1,12 @@
+Background
+Breech presentation is associated with increased complications. Turning a breech baby to head first presentation using external cephalic version (ECV) attempts to reduce the chances of breech presentation at birth so as to avoid the adverse effects of breech vaginal birth or caesarean section. Interventions such as tocolytic drugs and other methods have been used in an attempt to facilitate ECV. 
+Objectives
+To assess, from the best evidence available, the effects of interventions such as tocolysis, acoustic stimulation for midline spine position, regional analgesia (epidural or spinal), transabdominal amnioinfusion, systemic opioids and hypnosis, or the use of abdominal lubricants, on ECV at term for successful version, presentation at birth, method of birth and perinatal and maternal morbidity and mortality. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 September 2014) and the reference lists of identified studies. 
+Selection criteria
+Randomised and quasi‐randomised trials comparing the above interventions with no intervention or other methods to facilitate ECV at term. 
+Data collection and analysis
+We assessed eligibility and trial quality. Two review authors independently assessed for inclusion all potential studies identified as a result of the search strategy and independently extracted the data using a specially designed data extraction form. 
+Main results
+We included 28 studies, providing data on 2786 women. We used the random‐effects model for pooling data because of clinical heterogeneity between studies. A number of trial reports gave insufficient information to allow clear assessment of risk of bias. We used GradePro software to carry out formal assessments of quality of the evidence for beta stimulants versus placebo and regional analgesia with tocolysis versus tocolysis alone. 

@@ -1,0 +1,20 @@
+Background
+Trichotillomania (TTM; hair‐pulling disorder) is a prevalent and disabling disorder characterised by recurrent hair‐pulling. Here we update a previous Cochrane Review on the effects of medication for TTM. 
+Objectives
+To assess the effects of medication for trichotillomania (TTM) in adults, children and adolescents compared with placebo or other medication. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, PsycINFO, eleven other bibliographic databases, trial registries and grey literature sources (to 26 November 2020). We checked reference lists and contacted subject experts. 
+Selection criteria
+We selected randomised controlled trials of medication versus placebo or other medication for TTM in adults, children and adolescents. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+Twelve studies were included. We identified 10 studies in adults (286 participants) with a mean sample size of 29 participants per trial; one study in children and adolescents (39 participants); and, one study in adults and adolescents (22 participants: 18 adults and 4 adolescents). All studies were single‐centre, outpatient trials. Eleven studies compared medication and placebo (334 participants); one study compared two medications (13 participants). Studies were 5 to 13 weeks duration. We undertook meta‐analysis only for opioid antagonists as other comparisons contained a single study, or reported insufficient data. 
+Antioxidants versus placebo in adults 
+There was little to no difference in treatment response between antioxidant (35.7%) and placebo groups (28.6%) after six weeks, based on a single trial of silymarin (risk ratio (RR) 2.25, 95% confidence interval (CI) 0.84 to 5.99; 36 participants; low‐certainty evidence). We could not calculate differences in number of dropouts as there were no events in either group (18 participants; low‐certainty evidence). 
+Antioxidants versus placebo in adolescents 
+There was little to no difference in treatment response between antioxidant (50%) and placebo groups (25%) after six weeks, based on a single trial of silymarin (RR 2.00, 95% CI 0.28 to 14.20; 8 participants; low‐certainty evidence). We could not calculate differences in number of dropouts as there were no events in either group (8 participants; low‐certainty evidence). 
+Antipsychotics versus placebo in adults 
+There may be greater treatment response in the antipsychotic group (85%) compared to the placebo group (17%) after 12 weeks, based on a single trial of olanzapine (RR 5.08, 95% CI 1.4 to 18.37; 25 participants; low‐certainty evidence). We could not calculate differences in number of dropouts as there were no events in either group (25 participants; low‐certainty evidence). 
+Cell signal transducers versus placebo in adults 
+There was little to no difference in treatment response between cell signal transducer (42.1%) and placebo groups (31.6%) after 10 weeks, based on a single trial of inositol (RR 1.33, 95% CI 0.57 to 3.11; 38 participants; low‐certainty evidence). We could not calculate differences in number of dropouts as there were no events in either group (38 participants; low‐certainty evidence). 

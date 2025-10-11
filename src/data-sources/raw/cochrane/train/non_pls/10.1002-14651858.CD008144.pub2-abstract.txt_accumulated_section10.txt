@@ -1,0 +1,10 @@
+Background
+Cancer‐related fatigue is reported as the most common and distressing symptom experienced by patients with cancer. It can exacerbate the experience of other symptoms, negatively affect mood, interfere with the ability to carry out everyday activities, and negatively impact on quality of life. Educational interventions may help people to manage this fatigue or to cope with this symptom, and reduce its overall burden. Despite the importance of education for managing cancer‐related fatigue there are currently no systematic reviews examining this approach. 
+Objectives
+To determine the effectiveness of educational interventions for managing cancer‐related fatigue in adults. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), and MEDLINE, EMBASE, CINAHL, PsycINFO, ERIC, OTseeker and PEDro up to 1st November 2016. We also searched trials registries. 
+Selection criteria
+We included randomised controlled trials (RCTs) of educational interventions focused on cancer‐related fatigue where fatigue was a primary outcome. Studies must have aimed to evaluate the effect of educational interventions designed specifically to manage cancer‐related fatigue, or to evaluate educational interventions targeting a constellation of physical symptoms or quality of life where fatigue was the primary focus. The studies could have compared educational interventions with no intervention or wait list controls, usual care or attention controls, or an alternative intervention for cancer‐related fatigue in adults with any type of cancer. 
+Data collection and analysis
+Two review authors independently screened studies for inclusion and extracted data. We resolved differences in opinion by discussion. Trial authors were contacted for additional information. A third independent person checked the data extraction. The main outcome considered in this review was cancer‐related fatigue. We assessed the evidence using GRADE and created a 'Summary of Findings' table. 

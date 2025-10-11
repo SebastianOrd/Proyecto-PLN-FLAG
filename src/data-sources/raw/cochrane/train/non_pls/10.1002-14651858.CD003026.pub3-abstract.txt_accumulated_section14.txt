@@ -1,0 +1,14 @@
+Background
+Chronic amphetamine users may have experience of paranoia and hallucination. It has long been believed that dopamine antagonists, such as chlorpromazine, haloperidol, and thioridazine, are effective for the treatment of amphetamine psychosis. 
+Objectives
+To evaluate risks, benefits, costs of treatments for amphetamine psychosis.
+Search methods
+MEDLINE (1966‐2007), EMBASE (1980‐2007), CINAHL (1982‐2007), PsychINFO (1806‐2007), CENTRAL (Cochrane Library 2008 issue 1), references of obtained articles. 
+Selection criteria
+All randomised controlled and clinical trials (RCTs, CCTs) evaluating treatments (alone or combined) for people with amphetamine psychosis 
+Data collection and analysis
+Two authors evaluated and extracted the data independently. Dichotomous data were extracted on an intention‐to‐treat basis in which the dropouts were assigned as participants with the worst outcomes. The Relative Risk (RR) with the 95% confidence interval (95% CI) was used to assess the dichotomous data. The Weighted Mean Difference (WMD) with 95% CI was used to assess the continuous data. 
+Main results
+The comprehensive searches found one randomised controlled trial of treatment for amphetamine psychosis meeting the criteria for considering studies. The study involved 58 participants and compared the efficacy and tolerability of two antipsychotic drugs, olanzapine (a newer antipsychotic) and haloperidol (a commonly used antipsychotic medication used as a control condition), in treating amphetamine‐induced psychosis. The results show that both olanzapine and haloperidol at clinically relevant doses were efficacious in resolving psychotic symptoms, with the olanzapine condition showing significantly greater safety and tolerability than the haloperidol control as measured by frequency and severity of extrapyramidal symptoms. 
+Authors' conclusions
+Only one RCT of treatment for amphetamine psychosis has been published. Outcomes from this trial indicate that antipsychotic medications effectively reduce symptoms of amphetamine psychosis, the newer generation and more expensive antipsychotic medication, olanzapine, demonstrates significantly better tolerability than the more affordable and commonly used medication, haloperidol. 

@@ -1,0 +1,11 @@
+Background
+Dementia is a chronic, progressive and ultimately fatal neurodegenerative disease. Advanced dementia is characterised by profound cognitive impairment, inability to communicate verbally and complete functional dependence. Usual care of people with advanced dementia is not underpinned universally by a palliative approach. Palliative care has focused traditionally on care of people with cancer, but for more than a decade, there have been calls worldwide to extend palliative care services to include all people with life‐limiting illnesses in need of specialist care, including people with dementia. 
+This review is an updated version of a review first published in 2016.
+Objectives
+To assess the effect of palliative care interventions in advanced dementia.
+Search methods
+We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group's Specialised Register on 7 October 2020. ALOIS contains records of clinical trials identified from monthly searches of several major healthcare databases, trial registries and grey literature sources. We ran additional searches across MEDLINE (OvidSP), Embase (OvidSP), four other databases and two trial registries on 7 October 2020 to ensure that the searches were as comprehensive and as up‐to‐date as possible. 
+Selection criteria
+We searched for randomised (RCTs) and non‐randomised controlled trials (nRCTs), controlled before‐and‐after studies and interrupted time series studies evaluating the impact of palliative care interventions for adults with advanced dementia of any type. Participants could be people with advanced dementia, their family members, clinicians or paid care staff. We included clinical interventions and non‐clinical interventions. Comparators were usual care or another palliative care intervention. We did not exclude studies based on outcomes measured. 
+Data collection and analysis
+At least two review authors (SW, EM, PC) independently assessed all potential studies identified in the search against the review inclusion criteria. Two authors independently extracted data from eligible studies. Where appropriate, we estimated pooled treatment effects in a fixed‐effect meta‐analysis. We assessed the risk of bias of included studies using the Cochrane Risk of Bias tool and the overall certainty of the evidence for each outcome using GRADE. 

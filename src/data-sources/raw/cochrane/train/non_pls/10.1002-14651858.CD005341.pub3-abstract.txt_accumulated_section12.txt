@@ -1,0 +1,12 @@
+Background
+Despite modern antimicrobials and supportive therapy, bacterial and fungal infections are still major complications in people with prolonged disease‐related or therapy‐related neutropenia. Since the late 1990s there has been increasing demand for donated granulocyte transfusions to treat or prevent severe infections in people who lack their own functional granulocytes. This is an update of a Cochrane review first published in 2009. 
+Objectives
+To determine the effectiveness and safety of prophylactic granulocyte transfusions compared with a control population not receiving this intervention for preventing all‐cause mortality, mortality due to infection, and evidence of infection due to infection or due to any other cause in people with neutropenia or disorders of neutrophil function. 
+Search methods
+We searched for randomised controlled trials (RCTs) and quasi‐RCTs in the Cochrane Central Register of Controlled Trials (Cochrane Library 2015, Issue 3), MEDLINE (from 1946), EMBASE (from 1974), CINAHL (from 1937), theTransfusion Evidence Library (from 1980) and ongoing trial databases to April 20 2015. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs comparing people receiving granulocyte transfusions to prevent the development of infection with a control group receiving no granulocyte transfusions. Neonates are the subject of another Cochrane review and were excluded from this review. There was no restriction by outcomes examined, but this review focuses on mortality, mortality due to infection and adverse events. 
+Data collection and analysis
+We used standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+Twelve trials met the inclusion criteria. One trial is still ongoing, leaving a total of 11 trials eligible involving 653 participants. These trials were conducted between 1978 and 2006 and enrolled participants from fairly comparable patient populations. None of the studies included people with neutrophil dysfunction. Ten studies included only adults, and two studies included children and adults. Ten of these studies contained separate data for each arm and were able to be critically appraised. One study re‐randomised people and therefore quantitative analysis was unable to be performed. 

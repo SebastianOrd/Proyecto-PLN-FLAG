@@ -1,0 +1,11 @@
+Background
+Candida bloodstream infections most often affect those already suffering serious, potentially life‐threatening conditions and often cause significant morbidity and mortality. Most affected persons have a central venous catheter (CVC) in place. The best CVC management in these cases has been widely debated in recent years, while the incidence of candidaemia has markedly increased. 
+Objectives
+The main purpose of this review is to examine the impact of removing versus retaining a CVC on mortality in adults and children with candidaemia who have a CVC in place. 
+Search methods
+We searched the following databases from inception to 3 December 2015: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid SP), EMBASE (Ovid SP), the Commonwealth Agricultural Bureau (CAB), Web of Science and the Cumulative Index to Nursing and Allied Health Literature (CINAHL). We searched for missed, unreported and ongoing trials in trial registries and in reference lists of excluded articles. 
+Selection criteria
+We searched for randomized controlled trials (RCTs) and quasi‐RCTs involving adults and children with candidaemia and in which participants were randomized for removal of a CVC (the intervention under study), irrespective of publication status, date of publication, blinding status, outcomes published or language. 
+However, two major factors make the conduct of RCTs in this population a difficult task: the large sample size required to document the impact of catheter removal in terms of overall mortality; and lack of economic interest from the industry in conducting such a trial. 
+Data collection and analysis
+Our primary outcome measure was mortality. Several secondary outcome measures such as required time for clearance of blood cultures for Candida species, frequency of persistent candidaemia, complications, duration of mechanical ventilation and length of stay in the intensive care unit (ICU) and in the hospital were planned, as were various subgroup and sensitivity analyses, according to our protocol. We assessed papers and abstracts for eligibility and resolved disagreements by discussion. However, we were not able to include any RCTs or quasi‐RCTS in this review and, as a result, have carried out no meta‐analyses. However, we have chosen to provide a brief overview of excluded observational studies. 

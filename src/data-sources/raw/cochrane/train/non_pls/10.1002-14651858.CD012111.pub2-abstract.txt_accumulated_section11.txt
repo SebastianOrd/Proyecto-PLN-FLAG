@@ -1,0 +1,11 @@
+Background
+Alvimopan is used in abdominal surgery to reduce postoperative ileus in patients undergoing small bowel resections with primary anastomosis. The role and efficacy of alvimopan in patients undergoing radical cystectomy with urinary diversion is not well understood. 
+Objectives
+To assess the effects of alvimopan in the context of enhanced recovery pathways compared to enhanced recovery pathways alone for perioperative bowel dysfunction in patients undergoing radical cystectomy. 
+Search methods
+The terms alvimopan and cystectomy were used to search the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and Embase. We also reviewed abstracts from the past four years (2013 to 2016) of the American Urologic Association, Society of Urologic Oncology, and American Society of Clinical Oncology Genitourinary Cancers. 
+Selection criteria
+We searched for randomized controlled trials that compared alvimopan to placebo.
+Data collection and analysis
+This study was based on a published protocol. We performed a comprehensive search of multiple databases including CENTRAL in the Cochrane Library, MEDLINE, Embase, LILACS, Web of Science, Scopus and Biosis, which we last updated on 6 February 2017. We also searched abstract proceedings for major relevant meetings (2013 to 2016), databases of the grey literature, trial registries, citations of relevant reviews and contacted clinical experts and the drug manufacturer. 
+Two independent reviewers screened the literature in two stages (title and abstract, full‐text) using Covidence software. Two independent reviewers assessed the risk of bias on a 'per outcome' basis using the Cochrane 'Risk of bias; tool and rated the quality of evidence according to GRADE. Results of the single eligible trial were reported in a 'Summary of findings' table based on an intention‐to‐treat analysis. 

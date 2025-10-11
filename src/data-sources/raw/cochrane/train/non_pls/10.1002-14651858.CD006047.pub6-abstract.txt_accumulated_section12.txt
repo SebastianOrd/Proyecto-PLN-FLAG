@@ -1,0 +1,12 @@
+Background
+Lead exposure is a serious health hazard, especially for children. It is associated with physical, cognitive and neurobehavioural impairment in children. There are many potential sources of lead in the environment, therefore trials have tested many household interventions to prevent or reduce lead exposure. This is an update of a previously published review. 
+Objectives
+To assess the effects of household interventions intended to prevent or reduce further lead exposure in children on improvements in cognitive and neurobehavioural development, reductions in blood lead levels and reductions in household dust lead levels. 
+Search methods
+In March 2020, we updated our searches of CENTRAL, MEDLINE, Embase, 10 other databases and ClinicalTrials.gov. We also searched Google Scholar, checked the reference lists of relevant studies and contacted experts to identify unpublished studies. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs of household educational or environmental interventions, or combinations of interventions to prevent lead exposure in children (from birth to 18 years of age), where investigators reported at least one standardised outcome measure. 
+Data collection and analysis
+Two authors independently reviewed all eligible studies for inclusion, assessed risk of bias and extracted data. We contacted trialists to obtain missing information. We assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We included 17 studies (three new to this update), involving 3282 children: 16 RCTs (involving 3204 children) and one quasi‐RCT (involving 78 children). Children in all studies were under six years of age. Fifteen studies took place in urban areas of North America, one in Australia and one in China. Most studies were in areas with low socioeconomic status. Girls and boys were equally represented in those studies reporting this information. The duration of the intervention ranged from three months to 24 months in 15 studies, while two studies performed interventions on a single occasion. Follow‐up periods ranged from three months to eight years. Three RCTs were at low risk of bias in all assessed domains. The other 14 studies were at unclear or high risk of bias; for example, we considered two RCTs and one quasi‐RCT at high risk of selection bias and six RCTs at high risk of attrition bias. National or international research grants or governments funded 15 studies, while the other two did not report their funding sources. 

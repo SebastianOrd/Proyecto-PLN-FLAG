@@ -1,0 +1,12 @@
+Background
+Older people with hip fractures are often malnourished at the time of fracture, and subsequently have poor food intake. This is an update of a Cochrane review first published in 2000, and previously updated in 2010. 
+Objectives
+To review the effects (benefits and harms) of nutritional interventions in older people recovering from hip fracture. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register, CENTRAL, MEDLINE, MEDLINE In‐Process & Other Non‐Indexed Citations, Embase, CAB Abstracts, CINAHL, trial registers and reference lists. The search was last run in November 2015. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials of nutritional interventions for people aged over 65 years with hip fracture where the interventions were started within the first month after hip fracture. 
+Data collection and analysis
+Two review authors independently selected trials, extracted data and assessed risk of bias. Where possible, we pooled data for primary outcomes which were: all cause mortality; morbidity; postoperative complications (e.g. wound infections, pressure sores, deep venous thromboses, respiratory and urinary infections, cardiovascular events); and 'unfavourable outcome' defined as the number of trial participants who died plus the number of survivors with complications. We also pooled data for adverse events such as diarrhoea. 
+Main results
+We included 41 trials involving 3881 participants. Outcome data were limited and risk of bias assessment showed that trials were often methodologically flawed, with less than half of trials at low risk of bias for allocation concealment, incomplete outcome data, or selective reporting of outcomes. The available evidence was judged of either low or very low quality indicating that we were uncertain or very uncertain about the estimates. 

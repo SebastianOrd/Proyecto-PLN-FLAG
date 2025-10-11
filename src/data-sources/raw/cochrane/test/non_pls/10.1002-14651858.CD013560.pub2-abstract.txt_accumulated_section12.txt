@@ -1,0 +1,12 @@
+Background
+Depression is one of the most common morbidities of the postnatal period. It has been associated with adverse outcomes for women, children, the wider family and society as a whole. Treatment is with psychosocial interventions or antidepressant medication, or both. The aim of this review is to evaluate the effectiveness of different antidepressants and to compare their effectiveness with placebo, treatment as usual or other forms of treatment. This is an update of a review last published in 2014. 
+Objectives
+To assess the effectiveness and safety of antidepressant drugs in comparison with any other treatment (psychological, psychosocial, or pharmacological), placebo, or treatment as usual for postnatal depression. 
+Search methods
+We searched Cochrane Common Mental Disorders's Specialized Register, CENTRAL, MEDLINE, Embase and PsycINFO in May 2020. We also searched international trials registries and contacted experts in the field. 
+Selection criteria
+We included randomised controlled trials (RCTs) of women with depression during the first 12 months postpartum that compared antidepressant treatment (alone or in combination with another treatment) with any other treatment, placebo or treatment as usual. 
+Data collection and analysis
+Two review authors independently extracted data from the study reports. We requested missing information from study authors wherever possible. We sought data to allow an intention‐to‐treat analysis. Where we identified sufficient comparable studies we pooled data and conducted random‐effects meta‐analyses. 
+Main results
+We identified 11 RCTs (1016 women), the majority of which were from English‐speaking, high‐income countries; two were from middle‐income countries. Women were recruited from a mix of community‐based, primary care, maternity and outpatient settings. Most studies used selective serotonin reuptake inhibitors (SSRIs), with treatment duration ranging from 4 to 12 weeks. 

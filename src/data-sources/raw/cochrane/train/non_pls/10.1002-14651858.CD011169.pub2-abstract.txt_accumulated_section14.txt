@@ -1,0 +1,14 @@
+Background
+Endometriosis is defined as the presence of endometrial tissue outside the uterine cavity. This chronic and recurring condition occurs in women of reproductive age. It is a common cause of pain or infertility and can cause non‐specific symptoms such as lower back pain, dyspareunia (pain during or after intercourse), and dysmenorrhoea (menstrual pain). Endometriosis is an oestrogen‐dependent disease. Medical treatment aims to relieve symptoms and shrink lesions by suppressing the normal menstrual cycle. In this review, we consider medication specifically aiming to modulate oestrogen receptors as an alternative method of treatment. 
+Objectives
+To evaluate the effectiveness and safety of selective oestrogen receptor modulators (SERMs) in the management of endometriosis. 
+Search methods
+We searched for trials in the following databases (from their inception to 28 May 2020): Cochrane Gynaecology and Fertility Group Specialised Register, Cochrane Central Register of Studies (CRS Online), MEDLINE, Embase, CINAHL, PsycINFO, and registers of ongoing trials. In addition, we searched all reference lists of included trials, and we contacted experts in the field, in an attempt to locate trials. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing selective oestrogen receptor modulators (SERMs) with placebo, no treatment, other medical treatment, or surgery for endometriosis. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. Two review authors independently selected trials for inclusion, assessed risk of bias, and extracted data using data extraction forms. We used risk ratios (RRs) with 95% confidence intervals (CIs) for reporting dichotomous data. Primary review outcomes were relief of pelvic pain and adverse events. Secondary outcomes included quality of life, recurrence rate, and economic and fertility outcomes. 
+Main results
+We included only one RCT, which included 93 women, comparing the SERM raloxifene with placebo in biopsy‐proven endometriosis. All women first underwent complete surgical excision of all lesions. Evidence was of very low quality: the main limitation was imprecision ‐ with very sparse data from only one small study, which included only women after surgical treatment. 
+Relief of pelvic pain  
+The included study did not specifically measure the primary outcome of pain relief. Study authors reported that time to return of pelvic pain (defined as two months of pain equal to or more severe than pain at study entry) was more rapid in the raloxifene group (P = 0.03). 

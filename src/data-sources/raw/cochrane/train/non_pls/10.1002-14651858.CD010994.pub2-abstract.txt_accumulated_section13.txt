@@ -1,0 +1,13 @@
+Background
+The World Health Organization (WHO) recommends at least four antenatal care (ANC) visits for all pregnant women. Almost half of pregnant women worldwide, and especially in developing countries do not receive this amount of care. Poor attendance of ANC is associated with delivery of low birthweight babies and more neonatal deaths. ANC may include education on nutrition, potential problems with pregnancy or childbirth, child care and prevention or detection of disease during pregnancy. 
+This review focused on community‐based interventions and health systems‐related interventions.
+Objectives
+To assess the effects of health system and community interventions for improving coverage of antenatal care and other perinatal health outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (7 June 2015) and reference lists of retrieved studies. 
+Selection criteria
+We included randomised controlled trials (RCTs), quasi‐randomised trials and cluster‐randomised trials. Trials of any interventions to improve ANC coverage were eligible for inclusion. Trials were also eligible if they targeted specific and related outcomes, such as maternal or perinatal death, but also reported ANC coverage. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. 
+Main results
+We included 34 trials involving approximately 400,000 women. Some trials tested community‐based interventions to improve uptake of antenatal care (media campaigns, education or financial incentives for pregnant women), while other trials looked at health systems interventions (home visits for pregnant women or equipment for clinics). Most trials took place in low‐ and middle‐income countries, and 29 of the 34 trials used a cluster‐randomised design. We assessed 30 of the 34 trials as of low or unclear overall risk of bias. 

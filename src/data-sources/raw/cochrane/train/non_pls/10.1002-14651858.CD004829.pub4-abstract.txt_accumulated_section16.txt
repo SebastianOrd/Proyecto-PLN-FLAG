@@ -1,0 +1,16 @@
+Background
+Various methods of conscious sedation and analgesia (CSA) have been used during oocyte retrieval for assisted reproduction. The choice of agent has been influenced by the quality of sedation and analgesia and by concerns about possible detrimental effects on reproductive outcomes. 
+Objectives
+To assess the effectiveness and safety of different methods of conscious sedation and analgesia for pain relief and pregnancy outcomes in women undergoing transvaginal oocyte retrieval. 
+Search methods
+We searched; the Cochrane Gynaecology and Fertility specialised register, CENTRAL, MEDLINE, Embase, PsycINFO and CINAHL, and trials registers in November 2017. We also checked references, and contacted study authors for additional studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing different methods and administrative protocols for conscious sedation and analgesia during oocyte retrieval. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Our primary outcomes were intraoperative and postoperative pain. Secondary outcomes included clinical pregnancy, patient satisfaction, analgesic side effects, and postoperative complications. 
+Main results
+We included 24 RCTs (3160 women) in five comparisons. We report the main comparisons below. Evidence quality was generally low or very low, mainly owing to poor reporting and imprecision. 
+1. CSA versus other active interventions.
+All evidence for this comparison was of very low quality.
+CSA versus CSA plus acupuncture or electroacupuncture 
+Data show more effective intraoperative pain relief on a 0 to 10 visual analogue scale (VAS) with CSA plus acupuncture (mean difference (MD) 1.00, 95% confidence interval (CI) 0.18 to 1.82, 62 women) or electroacupuncture (MD 3.00, 95% CI 2.23 to 3.77, 62 women). 

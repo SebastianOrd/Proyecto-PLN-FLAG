@@ -1,0 +1,13 @@
+Background
+Healthcare workers can suffer from occupational stress as a result of lack of skills, organisational factors, and low social support at work. This may lead to distress, burnout and psychosomatic problems, and deterioration in quality of life and service provision. 
+Objectives
+To evaluate the effectiveness of work‐ and person‐directed interventions compared to no intervention or alternative interventions in preventing stress at work in healthcare workers. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, PsycINFO, CINAHL, NIOSHTIC‐2 and Web of Science up to November 2013. 
+Selection criteria
+Randomised controlled trials (RCTs) of interventions aimed at preventing psychological stress in healthcare workers. For organisational interventions, interrupted time‐series and controlled before‐and‐after (CBA) studies were also eligible. 
+Data collection and analysis
+Two review authors independently extracted data and assessed trial quality. We used Standardised Mean Differences (SMDs) where authors of trials used different scales to measure stress or burnout. We combined studies that were similar in meta‐analyses. We used the GRADE system to rate the quality of the evidence. 
+Main results
+In this update, we added 39 studies, making a total of 58 studies (54 RCTs and four CBA studies), with 7188 participants. We categorised interventions as cognitive‐behavioural training (CBT) (n = 14), mental and physical relaxation (n = 21), combined CBT and relaxation (n = 6) and organisational interventions (n = 20). Follow‐up was less than one month in 24 studies, one to six in 22 studies and more than six months in 12 studies. We categorised outcomes as stress, anxiety or general health. 
+There was low‐quality evidence that CBT with or without relaxation was no more effective in reducing stress symptoms than no intervention at one month follow‐up in six studies (SMD ‐0.27 (95% Confidence Interval (CI) ‐0.66 to 0.13; 332 participants). But at one to six months follow‐up in seven studies (SMD ‐0.38, 95% CI ‐0.59 to ‐0.16; 549 participants, 13% relative risk reduction), and at more than six months follow‐up in two studies (SMD ‐1.04, 95% CI ‐1.37 to ‐0.70; 157 participants) CBT with or without relaxation reduced stress more than no intervention. 

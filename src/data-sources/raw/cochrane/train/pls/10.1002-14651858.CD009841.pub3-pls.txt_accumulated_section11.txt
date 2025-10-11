@@ -1,0 +1,11 @@
+Ivacaftor (marketed as Kalydeco®), a new specific therapy for cystic fibrosis
+Review question 
+How does ivacaftor affect clinical outcomes (survival, quality of life and lung function) in people with cystic fibrosis (CF)? 
+Background 
+In people with CF, airway surfaces do not have enough water because of an abnormal protein; this makes it difficult to clear thick and sticky mucus, which leads to lung infections. Ivacaftor works on the abnormal protein in people with some mutations to allow the airways retain more water and better clear mucus, so fewer lung infections develop. 
+Ivacaftor was aimed at people with class III and IV mutations, and has been studied in people with G551D (class III), R117H (class IV) and F508del (class II) mutations. 
+Trial characteristics 
+We included five trials (447 participants) comparing ivacaftor to placebo (dummy treatment with no active medication) lasting between four and 48 weeks. Three trials enrolled a total of 238 people with at least one copy of the G551D mutation, one trial enrolled 140 people with two copies of the F508del mutation and one enrolled 69 people with at least one copy of the R117H mutation. The evidence is up to date as of 21 November 2018. 
+Key results 
+F508del mutation 
+The trial did not report any deaths or show improvements in lung function, quality of life scores or weight. Cough and pulmonary exacerbations (flare ups of lung disease) were the most reported adverse events when taking both ivacaftor and placebo; there were a similar number of flare ups for both groups. Sweat chloride concentrations were reduced with ivacaftor. 

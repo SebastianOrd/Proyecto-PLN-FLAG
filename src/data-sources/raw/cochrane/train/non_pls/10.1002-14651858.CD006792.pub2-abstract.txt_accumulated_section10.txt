@@ -1,0 +1,10 @@
+Background
+Historically, corticosteroids have been the most commonly used class of medication for induction of remission in Crohn's disease (CD). Corticosteroids down regulate production of inflammatory cytokines and interfere with NF‐κB production, thereby blunting inflammatory response. 
+Objectives
+The primary objective was to systematically review the efficacy and safety of traditional corticosteroids (given orally or intravenously) for induction of remission in CD. 
+Search methods
+The following electronic databases were searched: MEDLINE, EMBASE, the Cochrane Central Register of Controlled Trials, the Cochrane Inflammatory Bowel Disease and Functional Bowel Disorders (IBD/FBD) Group Specialized Trial Register, and ClinicalTrials.gov. No language restrictions were applied. Reference lists of trials and review articles, as well as recent proceedings from major gastroenterology meetings were manually searched. 
+Selection criteria
+Randomized, controlled clinical trials of traditional, systemic corticosteroids for the induction of remission of active CD were included in this review. Control groups included patients receiving either placebo or 5‐aminosalicylates (5‐ASA). The study population included patients of any age with active CD (as defined by the study authors or validated clinical activity indices), receiving any formulation of systemically available corticosteroid by any oral or parenteral methods of delivery. The primary outcome was induction of remission of CD. Secondary outcomes included clinical response, change in mean CDAI, adverse events and the proportion of patients withdrawing due to adverse events. 
+Data collection and analysis
+Two independent investigators reviewed studies for eligibility, extracted the data and assessed study quality using Jadad's criteria. A random or fixed effects model was chosen based on an assessment of heterogeneity, and studies were weighted using the DerSimonian & Laird or the Mantel‐Haenszel method accordingly. Meta‐analysis was performed using RevMan 4.2.10 software. 

@@ -1,0 +1,10 @@
+Background
+Helminthiasis is an infestation of the human body with parasitic worms. It is estimated to affect 44 million pregnancies, globally, each year. Intestinal helminthiasis (hookworm infestation) is associated with blood loss and decreased supply of nutrients for erythropoiesis, resulting in iron‐deficiency anaemia. Over 50% of the pregnant women in low‐ and middle‐income countries (LMIC) suffer from iron‐deficiency anaemia. Though iron‐deficiency anaemia is multifactorial, hookworm infestation is a major contributory cause in women of reproductive age in endemic areas. Antihelminthics are highly efficacious, but evidence of their beneficial effect and safety when given during pregnancy has not been established. This is an update of a Cochrane Review last published in 2015. 
+Objectives
+To determine the effects of mass deworming with antihelminthics for soil‐transmitted helminths (STH) during the second or third trimester of pregnancy on maternal and pregnancy outcomes. 
+Search methods
+For this update, we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform (ICTRP) (8 March 2021) and reference lists of retrieved studies. 
+Selection criteria
+We included all prospective randomised controlled trials evaluating the effect of administration of antihelminthics versus placebo or no treatment during the second or third trimester of pregnancy; both individual‐randomised and cluster‐randomised trials were eligible. We excluded quasi‐randomised trials and studies that were only available as abstracts with insufficient information. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data, checked accuracy and assessed the certainty of the evidence using the GRADE approach. 

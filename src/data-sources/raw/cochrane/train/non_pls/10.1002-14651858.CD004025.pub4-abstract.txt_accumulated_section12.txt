@@ -1,0 +1,12 @@
+Background
+Music therapy is a therapeutic approach that uses musical interaction as a means of communication and expression. Within the area of serious mental disorders, the aim of the therapy is to help people improve their emotional and relational competencies, and address issues they may not be able to using words alone. 
+Objectives
+To review the effects of music therapy, or music therapy added to standard care, compared with placebo therapy, standard care or no treatment for people with serious mental disorders such as schizophrenia. 
+Search methods
+We searched the Cochrane Schizophrenia Group’s Trials Study‐Based Register (December 2010 and 15 January, 2015) and supplemented this by contacting relevant study authors, handsearching of music therapy journals and manual searches of reference lists. 
+Selection criteria
+All randomised controlled trials (RCTs) that compared music therapy with standard care, placebo therapy, or no treatment. 
+Data collection and analysis
+Review authors independently selected, quality assessed and data extracted studies. We excluded data where more than 30% of participants in any group were lost to follow‐up. We synthesised non‐skewed continuous endpoint data from valid scales using a standardised mean difference (SMD). We employed a fixed‐effect model for all analyses. If statistical heterogeneity was found, we examined treatment dosage (i.e. number of therapy sessions) and treatment approach as possible sources of heterogeneity. 
+Main results
+Ten new studies have been added to this update; 18 studies with a total 1215 participants are now included. These examined effects of music therapy over the short, medium, and long‐term, with treatment dosage varying from seven to 240 sessions. Overall, most information is from studies at low or unclear risk of bias 

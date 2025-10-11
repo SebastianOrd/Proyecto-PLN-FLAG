@@ -1,0 +1,17 @@
+Background
+Arsenic is a common environmental toxin. Exposure to arsenic (particularly its inorganic form) through contaminated food and drinking water is an important public health burden worldwide, and is associated with increased risk of neurotoxicity, congenital anomalies, cancer, and adverse neurodevelopment in children. Arsenic is excreted following methylation reactions, which are mediated by folate. Provision of folate through folic acid supplements could facilitate arsenic methylation and excretion, thereby reducing arsenic toxicity. 
+Objectives
+To assess the effects of provision of folic acid (through fortified foods or supplements), alone or in combination with other nutrients, in lessening the burden of arsenic‐related health outcomes and reducing arsenic toxicity in arsenic‐exposed populations. 
+Search methods
+In September 2020, we searched CENTRAL, MEDLINE, Embase, 10 other international databases, nine regional databases, and two trials registers. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs comparing the provision of folic acid (at any dose or duration), alone or in combination with other nutrients or nutrient supplements, with no intervention, placebo, unfortified food, or the same nutrient or supplements without folic acid, in arsenic‐exposed populations of all ages and genders. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included two RCTs with 822 adults exposed to arsenic‐contaminated drinking water in Bangladesh. The RCTs compared 400 µg/d (FA400) or 800 µg/d (FA800) folic acid supplements, given for 12 or 24 weeks, with placebo. One RCT, a multi‐armed trial, compared FA400 plus creatine (3 g/d) to creatine alone. 
+We judged both RCTs at low risk of bias in all domains. Due to differences in co‐intervention, arsenic exposure, and participants' nutritional status, we could not conduct meta‐analyses, and therefore, provide a narrative description of the data. 
+Neither RCT reported on cancer, all‐cause mortality, neurocognitive function, or congenital anomalies. 
+Folic acid supplements alone versus placebo 
+Blood arsenic. In arsenic‐exposed individuals, FA likely reduces blood arsenic concentrations compared to placebo (2 studies, 536 participants; moderate‐certainty evidence). 
+For folate‐deficient and folate‐replete participants who received arsenic‐removal water filters as a co‐intervention, FA800 reduced blood arsenic levels more than placebo (percentage change (%change) in geometric mean (GM) FA800 −17.8%, 95% confidence intervals (CI) −25.0 to −9.8; placebo GM −9.5%, 95% CI −16.5 to −1.8; 1 study, 406 participants). 

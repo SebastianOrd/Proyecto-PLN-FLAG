@@ -1,0 +1,10 @@
+Background
+This is an update of a Cochrane Review first published in The Cochrane Library, Issue 2, 2008. 
+The technique called one‐lung ventilation can confine bleeding or infection to one lung, prevent rupture of a lung cyst or, more commonly, facilitate surgical exposure of the unventilated lung. During one‐lung ventilation, anaesthesia is maintained either by delivering an inhalation anaesthetic to the ventilated lung or by infusing an intravenous anaesthetic. It is possible that the method chosen to maintain anaesthesia may affect patient outcomes. Inhalation anaesthetics may impair hypoxic pulmonary vasoconstriction (HPV) and increase intrapulmonary shunt and hypoxaemia. 
+Objectives
+The objective of this review was to evaluate the effectiveness and safety of intravenous versus inhalation anaesthesia for one‐lung ventilation. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL); The Cochrane Library (2012, Issue 11); MEDLINE (1966 to November 2012); Embase (1980 to November 2012); Literatura Latino‐Americana e do Caribe em Ciências da Saúde (LILACS, 1982 to November 2012) and ISI web of Science (1945 to November 2012), reference lists of identified trials and bibliographies of published reviews. We also contacted researchers in the field. No language restrictions were applied. The date of the most recent search was 19 November 2012. The original search was performed in June 2006. 
+We reran the search in CENTRAL, MEDLINE, Embase, LILACS, and ISI web of Science in February 2017 and found four potential studies of interest which have been added to a list of 'Studies awaiting Classification' and will be incorporated into the formal review findings during the review update. 
+Selection criteria
+We included randomized controlled trials and quasi‐randomized controlled trials of intravenous (e.g. propofol) versus inhalation (e.g. isoflurane, sevoflurane, desflurane) anaesthesia for one‐lung ventilation in both surgical and intensive care participants. We excluded studies of participants who had only one lung (i.e. pneumonectomy or congenital absence of one lung). 

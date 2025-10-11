@@ -1,0 +1,10 @@
+Background
+The anti‐inflammatory effects of n‐3 (omega‐3 fatty acids, fish oil) have been suggested to be beneficial in chronic inflammatory disorders such as inflammatory bowel disease. This review is an update of a previously published Cochrane review. 
+Objectives
+To systematically review the efficacy and safety of n‐3 for maintenance of remission in Crohn's disease (CD). 
+Search methods
+The following databases were searched from inception to November 2013 without language restriction: CENTRAL, MEDLINE, EMBASE, HealthSTAR, PubMed, and ACP journal club. 
+Selection criteria
+Randomized placebo‐controlled trials (RCT) of n‐3 for maintenance of remission in CD were included. Studies must have enrolled patients of any age group, who were in remission at the time of recruitment, and were followed for at least six months. The intervention must have been fish oil or n‐3 given in pre‐defined dosage. Co‐interventions were allowed only if they were balanced between the study groups. 
+Data collection and analysis
+The primary outcome was the relapse rate and secondary outcomes included change in disease activity scores, time to first relapse and adverse events. Two independent investigators reviewed studies for eligibility, extracted the data and assessed study quality using the Cochrane risk of bias tool. The overall quality of the evidence supporting the primary and selected secondary outcomes was reassessed for the current update using the GRADE system. We used the RevMan software for analyses. We calculated the risk ratio (RR) and corresponding 95% confidence interval (CI) for dichotomous outcomes and the hazard ratio and 95% CI for time‐to‐event outcomes. Random‐effects or fixed‐effect models were used according to degree of heterogeneity and sensitivity analyses were performed in an attempt to explore possible sources of heterogeneity. 

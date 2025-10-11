@@ -1,0 +1,12 @@
+Background
+To prevent the development of drug resistance, the World Health Organization (WHO) recommends treating malaria with combination therapy. Azithromycin, an antibiotic with antimalarial properties, may be a useful additional option for antimalarial therapy. 
+Objectives
+To compare the use of azithromycin alone or in combination with other antimalarial drugs with the use of alternative antimalarial drugs for treating uncomplicated malaria caused by Plasmodium falciparum or Plasmodium vivax. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (August 2010); CENTRAL (The Cochrane Library Issue 3, 2010); MEDLINE (1966 to August 2010); EMBASE (1974 to August 2010); LILACS (August 2010); the metaRegister of Controlled Trials (mRCT, August 2010); conference proceedings; and reference lists. We also contacted researchers and a pharmaceutical company. 
+Selection criteria
+Randomized controlled trials comparing azithromycin, either alone or combined with another antimalarial drug, with another antimalarial drug used alone or combined with another antimalarial drug, or with azithromycin combined with another antimalarial drug if different combinations or doses of azithromycin were used. The primary outcome was treatment failure by day 28, defined as parasitological or clinical evidence of treatment failure between the start of treatment and day 28. Secondary outcomes included treatment failure by day 28 corrected for new infections confirmed by polymerase chain reaction (PCR), fever and parasite clearance time, and adverse events. 
+Data collection and analysis
+Two people independently applied the inclusion criteria, extracted data and assessed methodological quality. We used risk ratio (RR) and 95% confidence intervals (CI). 
+Main results
+Fifteen trials met the inclusion criteria (2284 participants, 69% males, 16% children). They were conducted in disparate malaria endemic areas, with the earlier studies conducted in Thailand (five) and India (two), and the more recent studies (eight) spread across three continents (South America, Africa, Asia). The 15 studies involved 41 treatment arms, 12 different drugs, and 28 different treatment regimens. Two studies examined P. vivax. 

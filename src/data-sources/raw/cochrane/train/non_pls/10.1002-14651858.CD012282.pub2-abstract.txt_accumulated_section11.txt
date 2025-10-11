@@ -1,0 +1,11 @@
+Background
+Fluvastatin is thought to be the least potent statin on the market, however, the dose‐related magnitude of effect of fluvastatin on blood lipids is not known. 
+Objectives
+Primary objective To quantify the effects of various doses of fluvastatin on blood total cholesterol, low‐density lipoprotein (LDL cholesterol), high‐density lipoprotein (HDL cholesterol), and triglycerides in participants with and without evidence of cardiovascular disease. 
+Secondary objectives To quantify the variability of the effect of various doses of fluvastatin.  To quantify withdrawals due to adverse effects (WDAEs) in randomised placebo‐controlled trials. 
+Search methods
+The Cochrane Hypertension Information Specialist searched the following databases for randomised controlled trials up to February 2017: the Cochrane Central Register of Controlled Trials (CENTRAL) (2017, Issue 1), MEDLINE (1946 to February Week 2 2017), MEDLINE In‐Process, MEDLINE Epub Ahead of Print, Embase (1974 to February Week 2 2017), the World Health Organization International Clinical Trials Registry Platform, CDSR, DARE, Epistemonikos and ClinicalTrials.gov. We also contacted authors of relevant papers regarding further published and unpublished work. No language restrictions were applied. 
+Selection criteria
+Randomised placebo‐controlled and uncontrolled before and after trials evaluating the dose response of different fixed doses of fluvastatin on blood lipids over a duration of three to 12 weeks in participants of any age with and without evidence of cardiovascular disease. 
+Data collection and analysis
+Two review authors independently assessed eligibility criteria for studies to be included, and extracted data. We entered data from placebo‐controlled and uncontrolled before and after trials into Review Manager 5 as continuous and generic inverse variance data, respectively. WDAEs information was collected from the placebo‐controlled trials. We assessed all trials using the 'Risk of bias' tool under the categories of sequence generation, allocation concealment, blinding, incomplete outcome data, selective reporting, and other potential biases. 

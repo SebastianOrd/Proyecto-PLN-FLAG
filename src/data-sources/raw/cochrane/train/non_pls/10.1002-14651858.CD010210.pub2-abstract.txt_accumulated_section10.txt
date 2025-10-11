@@ -1,0 +1,10 @@
+Background
+Combining two different analgesics in fixed doses in a single tablet can provide better pain relief than either drug alone in acute pain. This appears to be broadly true across a range of different drug combinations, in postoperative pain and migraine headache. Some combinations of ibuprofen and paracetamol are available for use without prescription in some acute pain situations. 
+Objectives
+To assess the efficacy and adverse effects of single dose oral ibuprofen plus paracetamol for acute postoperative pain using methods that permit comparison with other analgesics evaluated in standardised trials using almost identical methods and outcomes. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) on The Cochrane Library (Issue 4 of 12, 2013), MEDLINE (1950 to May 21st 2013), EMBASE (1974 to May 21st 2013), the Oxford Pain Database, ClinicalTrials.gov, and reference lists of articles. 
+Selection criteria
+Randomised, double‐blind clinical trials of single dose, oral ibuprofen plus paracetamol compared with placebo or the same dose of ibuprofen alone for acute postoperative pain in adults. 
+Data collection and analysis
+Two review authors independently considered trials for inclusion in the review, assessed quality, and extracted data. We used validated equations to calculate the area under the pain relief versus time curve and derive the proportion of participants with at least 50% of maximum pain relief over six hours. We calculated relative risk (RR) and number needed to treat to benefit (NNT) for ibuprofen plus paracetamol, ibuprofen alone, or placebo. We used information on use of rescue medication to calculate the proportion of participants requiring rescue medication and the weighted mean of the median time to use. We also collected information on adverse events. 

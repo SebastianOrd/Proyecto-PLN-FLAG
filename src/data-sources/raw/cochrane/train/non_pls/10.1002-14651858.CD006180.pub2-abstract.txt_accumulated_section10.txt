@@ -1,0 +1,10 @@
+Background
+Respiratory distress syndrome (RDS) is a significant cause of morbidity and mortality in preterm infants. RDS is caused by a deficiency, dysfunction, or inactivation of pulmonary surfactant. Numerous surfactants of either animal extract or synthetic design have been shown to improve outcomes. New surfactant preparations that include peptides or whole proteins that mimic endogenous surfactant protein have recently been developed and tested. 
+Objectives
+To assess the effect of administration of synthetic surfactant containing surfactant protein mimics compared to protein free synthetic surfactant on the risk of mortality, chronic lung disease, and other morbidities associated with prematurity in preterm infants at risk for or having RDS. 
+Search methods
+Standard search methods of the Cochrane Neonatal Review Group were used. The search included MEDLINE (1966 ‐ March 2009) and the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library) in all languages. 
+Selection criteria
+Randomized and quasi‐randomized controlled clinical trials were considered for this review. Studies that enrolled preterm infants or low birth weight infants at risk for or having RDS who were treated with either a synthetic surfactant containing surfactant protein mimics or a protein free synthetic surfactant were included for this review. Studies of treatment or prevention of respiratory distress syndrome were included. 
+Data collection and analysis
+Data regarding mortality, chronic lung disease and multiple secondary outcome measures were abstracted by the review authors. Statistical analysis was performed using Review Manager software. Categorical data were analyzed using relative risk, risk difference, and number needed to treat. 95% confidence intervals reported. A fixed effects model was used for the meta‐analysis. Heterogeneity was assessed using the I2 statistic. 

@@ -1,0 +1,12 @@
+Background
+Current recommendations for people with irritable bowel syndrome (IBS) to partake in physical activity are based on low‐level evidence, do not incorporate evidence from all available randomised controlled trials (RCTs) and provide little information regarding potential adverse effects. 
+Objectives
+To assess the benefits and harms of physical activity interventions in adults diagnosed with irritable bowel syndrome and to explore possible effect moderators including type, setting and nature of physical activity interventions. 
+Search methods
+We searched nine electronic databases including CENTRAL, MEDLINE and Embase to 5 November 2021. We handsearched reference lists and sought unpublished studies through trial registries. 
+Selection criteria
+We included RCTs involving adults (aged 18 years or older) diagnosed with IBS and conducted in any setting comparing a physical activity intervention with no intervention, usual care or wait‐list control group or another physical activity intervention group and assessing a validated measure of symptoms, quality of life or bowel movement. 
+Data collection and analysis
+At least two review authors independently selected studies for inclusion, extracted study data, and performed risk of bias and GRADE assessments to assess the certainty of evidence. We pooled studies that evaluated similar outcomes using a random‐effects meta‐analysis, and synthesised data from other studies narratively. 
+Main results
+We included 11 RCTs with data for 622 participants. Most (10/11) were set in high‐ or middle‐ to high‐income countries, with five involving supervised physical activity, three unsupervised activity and three a mix of supervised and unsupervised activity. No trial was at low risk of bias. Four trials specified a minimally important difference for at least one assessed outcome measure. Data for 10 trials were obtained from published journal articles, with data for one obtained from an unpublished Masters degree thesis. 

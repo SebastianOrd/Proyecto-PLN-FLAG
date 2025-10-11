@@ -1,0 +1,15 @@
+Background
+It is unclear whether there are differences in benefits and harms between mobile and fixed prostheses for total knee arthroplasty (TKA). The previous Cochrane review published in 2004 included two articles. Many more trials have been performed since then; therefore an update is needed. 
+Objectives
+To assess the benefits and harms of mobile bearing compared with fixed bearing cruciate retaining total knee arthroplasty for functional and clinical outcomes in patients with osteoarthritis (OA) or rheumatoid arthritis (RA). 
+Search methods
+We searched The Cochrane Library, PubMed, EMBASE, CINAHL and Web of Science up to 27 February 2014, and the trial registers ClinicalTrials.gov, Multiregister, Current Controlled Trials and the World Health Organization (WHO) International Clinical Trials Registry Platform for data from unpublished trials, up to 11 February 2014. We also screened the reference lists of selected articles. 
+Selection criteria
+We selected randomised controlled trials comparing mobile bearing with fixed bearing prostheses in cruciate retaining TKA among patients with osteoarthritis or rheumatoid arthritis, using functional or clinical outcome measures and follow‐up of at least six months. 
+Data collection and analysis
+We used standard methodological procedures as expected by The Cochrane Collaboration.
+Main results
+We found 19 studies with 1641 participants (1616 with OA (98.5%) and 25 with RA (1.5%)) and 2247 knees. Seventeen new studies were included in this update. 
+Quality of the evidence ranged from moderate (knee pain) to low (other outcomes). Most studies had unclear risk of bias for allocation concealment, blinding of participants and personnel, blinding of outcome assessment and selective reporting, and high risk of bias for incomplete outcome data and other bias. 
+Knee pain 
+We calculated the standardised mean difference (SMD) for pain, using the Knee Society Score (KSS) and visual analogue scale (VAS) in 11 studies (58%) and 1531 knees (68%). No statistically significant differences between groups were reported (SMD 0.09, 95% confidence interval (CI) ‐0.03 to 0.22, P value 0.15). This represents an absolute risk difference of 2.4% points higher (95% CI 0.8% lower to 5.9% higher) on the KSS pain scale and a relative percent change of 0.22% (95% CI 0.07% lower to 0.53% higher). The results were homogeneous. 

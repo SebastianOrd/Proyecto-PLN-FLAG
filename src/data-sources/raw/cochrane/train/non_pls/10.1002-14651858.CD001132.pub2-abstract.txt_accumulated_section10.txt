@@ -1,0 +1,10 @@
+Background
+Trabeculectomy is performed as a treatment for many types of glaucoma in an attempt to lower the intraocular pressure. The surgery involves creating a channel through the sclera, through which intraocular fluid can leave the eye. If scar tissue blocks the exit of the surgically created channel, intraocular pressure rises and the operation fails. Antimetabolites such as 5‐Fluorouracil (5‐FU) are used to inhibit wound healing to prevent the conjunctiva scarring down on to the sclera. This is an update of a Cochrane review first published in 2000, and previously updated in 2009. 
+Objectives
+To assess the effects of both intraoperative application and postoperative injections of 5‐FU in eyes of people undergoing surgery for glaucoma at one year. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2013, Issue 6), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to July 2013), EMBASE (January 1980 to July 2013), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 25 July 2013. We also searched the reference lists of relevant articles and the Science Citation Index and contacted investigators and experts for details of additional relevant trials. 
+Selection criteria
+We included randomised trials of intraoperative application and postoperative 5‐FU injections compared with placebo or no treatment in trabeculectomy for glaucoma. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We used standard methodological procedures expected by The Cochrane Collaboration. We contacted trial investigators for missing information. Data were summarised using risk ratio (RR), Peto odds ratio and mean difference, as appropriate. 

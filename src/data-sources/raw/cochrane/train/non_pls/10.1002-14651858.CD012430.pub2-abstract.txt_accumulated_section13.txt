@@ -1,0 +1,13 @@
+Background
+Cerebral palsy occurs in up to 2.1 of every 1000 live births and encompasses a range of motor problems and movement disorders. One commonly occurring movement disorder amongst those with cerebral palsy is dystonia: sustained or intermittent involuntary muscle spasms and contractions that cause twisting, repetitive movements and abnormal postures. The involuntary contractions are often very painful and distressing and cause significant limitations to activity and participation. 
+Oral medications are often the first line of medical treatment for dystonia. Trihexyphenidyl is one such medication that clinicians often use to treat dystonia in people with cerebral palsy. 
+Objectives
+To assess the effects of trihexyphenidyl in people with dystonic cerebral palsy, according to the World Health Organization's (WHO) International Classification of Functioning, Disability and Health (ICF) domains of impairment, activity and participation. We also assessed the type and incidence of adverse effects in people taking the drug. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, eight other databases and two trials registers in May 2017, and we checked reference lists and citations to identify additional studies. 
+Selection criteria
+We included randomised controlled trials comparing oral trihexyphenidyl versus placebo for dystonia in cerebral palsy. We included studies in children and adults of any age with dystonic cerebral palsy, either in isolation or with the associated movement disorders of spasticity, ataxia, chorea, athetosis and/or hypotonia. We included studies regardless of whether or not the study authors specified the method used to diagnose dystonia in their study population. Primary outcomes were change in dystonia and adverse effects. Secondary outcomes were: activity, including mobility and upper limb function; participation in activities of daily living; pain; and quality of life. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We identified one study, which was set in Australia, that met the inclusion criteria. This was a randomised, double‐blind, placebo‐controlled, cross‐over trial in 16 children (10 boys and 6 girls) with predominant dystonic cerebral palsy and a mean age of 9 years (standard deviation 4.3 years, range 2 to 17 years). We considered the trial to be at low risk of selection, performance, detection, attrition, reporting and other sources of bias. We rated the GRADE quality of the evidence as low. 

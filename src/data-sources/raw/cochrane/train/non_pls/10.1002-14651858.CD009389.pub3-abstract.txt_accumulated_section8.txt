@@ -1,0 +1,8 @@
+Background
+This is an update of a review first published in The Cochrane Library in Issue 3, 2013. Cancer‐related pain places a heavy burden on public health with related high expenditure. Severe pain is associated with a decreased quality of life in patients with cancer. A significant proportion of patients with cancer‐related pain are under‐treated. There is a need for more effective control of cancer‐related pain. Spinal cord stimulation (SCS) may have a role in pain management. The effectiveness and safety of SCS for patients with cancer‐related pain is currently unknown. 
+Objectives
+This systematic review evaluated the effectiveness of SCS for cancer‐related pain compared with standard care using conventional analgesic medication. We also appraised risk and potential adverse events associated with the use of SCS. 
+Search methods
+This is an update of a review first published in The Cochrane Library in Issue 3, 2013. The search strategy for the update was the same as in the original review. We searched the following bibliographic databases in order to identify relevant studies: the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library; MEDLINE; EMBASE; and CBM (Chinese Biomedical Database) in October 2014. We also handsearched relevant journals. There were no language restrictions. 
+Selection criteria
+We planned to include randomised controlled trials (RCTs) that directly compared SCS with other interventions with regards to the effectiveness of pain management. We also planned to include cross‐over trials that compared SCS with another treatment. We planned to identify non‐randomised controlled trials but these would only be included if no RCTs could be found. 

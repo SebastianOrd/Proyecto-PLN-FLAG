@@ -1,0 +1,10 @@
+Background
+Dementia is a common mental health problem affecting 5% of those over 65. Various pathological processes are linked to memory impairment in dementia, particularly those affecting the cholinergic neurotransmitter system. Acetyl‐l‐carnitine (ALC) is derived from carnitine and is described as having several properties which may be beneficial in dementia. These include activity at cholinergic neurons, membrane stabilization and enhancing mitochondrial function. Work on the effects of ALC has been ongoing since the 1980s yet the mechanism of efficacy of ALC in cognitive decline remains unclear. Early studies suggested a beneficial effect of ALC on cognition and behaviour in aging subjects. However, later, larger studies have not supported these findings. Some of the difficulties lie in the differences in methodology and assessment tools used in the early and later studies. They are therefore difficult to compare. ALC is not currently in routine clinical use. 
+Objectives
+To establish whether Acetyl‐l‐carnitine is clinically effective in the treatment of people with dementia. 
+Search methods
+The trials were identified from a search of the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group, The Cochrane Library, EMBASE, MEDLINE, CINAHL, PsycINFO and LILACS on 8 November using the terms acetyl‐l‐carnitine, l‐carnitine acetyl ester, acetylcarnitine, ALC. The search in November 2007 revealed no new studies. 
+Selection criteria
+All double‐blind, randomized, trials involving people with dementia in which treatment with ALC was compared with a placebo group 
+Data collection and analysis
+Data were extracted by a reviewer (SH) and entered into RevMan 4.2 software. Where possible intention‐to‐treat data were used, but most of the analyses were of completers (people who completed the study). 

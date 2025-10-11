@@ -1,0 +1,17 @@
+Background
+Chronic spontaneous urticaria (CSU) is characterised by the development of crops of red, itchy, raised weals or hives with no identifiable external cause. 
+Objectives
+To assess the effects of H1‐antihistamines for CSU.
+Search methods
+We searched the following databases up to June 2014: Cochrane Skin Group Specialised Register, CENTRAL (2014, Issue 5), MEDLINE (from 1946), EMBASE (from 1974) and PsycINFO (from 1806). We searched five trials registers and checked articles for references to relevant randomised controlled trials. 
+Selection criteria
+We included randomised controlled trials of H1‐antihistamines for CSU. Interventions included single therapy or a combination of H1‐antihistamines compared with no treatment (placebo) or another active pharmacological compound at any dose. 
+Data collection and analysis
+We used standard methodological procedures as expected by The Cochrane Collaboration.
+Our primary outcome measures were proportion of participants with complete suppression of urticaria: 'good or excellent' response, 50% or greater improvement in quality of life measures, and adverse events. We present risk ratios (RR) with 95% confidence intervals (CIs). 
+Main results
+We identified 73 studies (9759 participants); 34 studies provided data for 23 comparisons. The duration of the intervention was up to two weeks (short‐term) or longer than two weeks and up to three months (intermediate‐term). 
+Cetirizine 10 mg once daily in the short term and in the intermediate term led to complete suppression of urticaria by more participants than was seen with placebo (RR 2.72, 95% CI 1.51 to 4.91). For this same outcome, comparison of desloratadine versus placebo in the intermediate term (5 mg) (RR 37.00, 95% CI 2.31 to 593.70) and in the short term (20 mg) (RR 15.97, 95% CI 1.04 to 245.04) favoured desloratadine, but no differences were seen between 5 mg and 10 mg for short‐term treatment. 
+Levocetirizine 20 mg per day (short‐term) was more effective for complete suppression of urticaria compared with placebo (RR 20.87, 95% CI 1.37 to 317.60), and at 5 mg was effective in the intermediate term (RR 52.88, 95% CI 3.31 to 843.81) but not in the short term, nor was 10 mg effective in the short term. 
+Rupatadine at 10 mg and 20 mg in the intermediate term achieved a 'good or excellent response' compared with placebo (RR 1.35, 95% CI 1.03 to 1.77). 
+Loratadine (10 mg) versus placebo (RR 1.86, 95% CI 0.91 to 3.79) and loratadine (10 mg) versus cetirizine (10 mg) (RR 1.05, 95% CI 0.76 to 1.43) over short‐term and intermediate‐term treatment showed no significant difference for 'good or excellent response' or for complete suppression of urticaria, respectively. 

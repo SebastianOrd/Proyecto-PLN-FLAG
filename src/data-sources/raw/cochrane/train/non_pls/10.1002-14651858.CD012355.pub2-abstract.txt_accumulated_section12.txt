@@ -1,0 +1,12 @@
+Background
+Three classes of inhaler medication are used to manage chronic obstructive pulmonary disease (COPD): long‐acting beta₂‐agonists (LABA); long‐acting muscarinic antagonists (LAMA); and inhaled corticosteroids (ICS). To encourage patient adherence, two classes of medication are often combined in a single medication device; it seems that once‐daily dosing offers greatest convenience to patients and may markedly influence adherence. 
+Objectives
+To compare a once‐daily combination of inhaled corticosteroid and long‐acting beta₂‐agonist inhalers (ICS/LABA) versus inhaled long‐acting muscarinic antagonists alone (LAMA) for people with chronic obstructive pulmonary disease (COPD). 
+Search methods
+We performed an electronic search of the Specialised Register of the Cochrane Airways Group (14 May 2018), ClinicalTrials.gov (14 May 2018), and the World Health Organization International Clinical Trials Registry Platform (20 September 2017), then a search of other resources, including reference lists of included studies and manufacturers' trial registers (10 October 2017). Two pairs of review authors screened and scrutinised selected articles. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing once‐daily administered ICS/LABA and LAMA in adults with COPD. 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias in each study. We analysed dichotomous data as random‐effects odds ratios (ORs) and continuous data as mean differences (MDs), both with 95% confidence intervals (95% CIs), using Review Manager 5. 
+Main results
+We included two studies with 880 participants. We identified one ongoing trial with planned recruitment of 80 participants. Included studies enrolled participants with both partially reversible and non‐reversible COPD and baseline mean per cent predicted (%pred) forced expiratory volume in one second (FEV₁) of 43.4 to 49.6. Both studies lasted 12 weeks. Both studies used the same combination of inhaled ICS/LABA (fluticasone furoate and vilanterol 100/25 mcg once daily; FF/VI) versus LAMA (18 mcg tiotropium; TIO). They were published as full articles, and neither study was at low risk of bias in all domains. 

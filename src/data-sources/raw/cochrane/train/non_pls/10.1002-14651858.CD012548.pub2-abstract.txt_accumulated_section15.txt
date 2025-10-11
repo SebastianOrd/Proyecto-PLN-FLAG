@@ -1,0 +1,15 @@
+Background
+Degarelix is a gonadotropin‐releasing hormone antagonist that leads to medical castration used to treat men with advanced or metastatic prostate cancer, or both. It is unclear how its effects compare to standard androgen suppression therapy. 
+Objectives
+To assess the effects of degarelix compared with standard androgen suppression therapy for men with advanced hormone‐sensitive prostate cancer. 
+Search methods
+We searched multiple databases (CENTRAL, MEDLINE, Embase, Scopus, Web of Science, LILACS until September 2020), trial registries (until October 2020), and conference proceedings (until December 2020). We identified other potentially eligible trials by reference checking, citation searching, and contacting study authors. 
+Selection criteria
+We included randomized controlled trials comparing degarelix with standard androgen suppression therapy for men with advanced prostate cancer. 
+Data collection and analysis
+Three review authors independently classified studies and abstracted data from the included studies. The primary outcomes were overall survival and serious adverse events. Secondary outcomes were quality of life, cancer‐specific survival, clinical progression, other adverse events, and biochemical progression. We used a random‐effects model for meta‐analyses and assessed the certainty of evidence for the main outcomes according to GRADE. 
+Main results
+We included 11 studies with a follow‐up of between three and 14 months. We also identified five ongoing trials. 
+Primary outcomes 
+Data to evaluate overall survival were not available. 
+Degarelix may result in little to no difference in serious adverse events compared to standard androgen suppression therapy (risk ratio (RR) 0.80, 95% confidence interval (CI) 0.62 to 1.05; low‐certainty evidence; 2750 participants). Based on 114 serious adverse events in the standard androgen suppression group, this corresponds to 23 fewer serious adverse events per 1000 participants (43 fewer to 6 more). We downgraded the certainty of evidence for study limitations and imprecision. 

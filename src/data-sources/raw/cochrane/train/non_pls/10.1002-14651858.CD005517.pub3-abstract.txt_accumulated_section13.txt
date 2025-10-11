@@ -1,0 +1,13 @@
+Background
+Root canal therapy is a sequence of treatments involving root canal cleaning, shaping, decontamination, and obturation. It is conventionally performed through a hole drilled into the crown of the affected tooth, namely orthograde root canal therapy. When it fails, retrograde filling, which seals the root canal from the root apex, is a good alternative. Many materials are used for retrograde filling. Since none meets all the criteria an ideal material should possess, selecting the most efficacious material is of utmost importance. This is an update of a Cochrane Review first published in 2016. 
+Objectives
+To determine the effects of different materials used for retrograde filling in children and adults for whom retrograde filling is necessary in order to save the tooth. 
+Search methods
+An Information Specialist searched five bibliographic databases up to 21 April 2021 and used additional search methods to identify published, unpublished, and ongoing studies. We also searched four databases in the Chinese language. 
+Selection criteria
+We selected randomised controlled trials (RCTs) that compared different retrograde filling materials, with the reported success rate that was assessed by clinical or radiological methods for which the follow‐up period was at least 12 months. 
+Data collection and analysis
+Records were screened in duplicate by independent screeners. Two review authors extracted data independently and in duplicate. Original trial authors were contacted for any missing information. Two review authors independently assessed the risk of bias of the included studies. We followed Cochrane's statistical guidelines and assessed the certainty of the evidence using GRADE. 
+Main results
+We included eight studies, all at high risk of bias, involving 1399 participants with 1471 teeth, published between 1995 and 2019, and six comparisons of retrograde filling materials. 
+‐ Mineral trioxide aggregate (MTA) versus intermediate restorative material (IRM): there may be little to no effect of MTA compared to IRM on success rate at one year, but the evidence is very uncertain (risk ratio (RR) 1.09, 95% confidence interval (CI) 0.97 to 1.22; I2 = 0%; 2 studies; 222 teeth; very low‐certainty evidence). 

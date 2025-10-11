@@ -1,0 +1,10 @@
+Background
+Subfertility is a condition found in up to 15% of couples of reproductive age. Gamete micromanipulation, such as intracytoplasmic sperm injection (ICSI), is very useful for treating couples with compromised sperm parameters. An alternative method of sperm selection has been described; the spermatozoa are selected under high magnification (over 6000x) and used for ICSI. This technique, named intracytoplasmic morphologically selected sperm injection (IMSI), has a theoretical potential to improve reproductive outcomes among couples undergoing assisted reproduction techniques (ART). However, our previous version of this Cochrane Review was unable to find evidence that supported this possible beneficial effect. This is an update of Teixeira 2013. 
+Objectives
+To identify, appraise, and summarise the available evidence regarding efficacy and safety of IMSI compared to ICSI in couples undergoing ART. 
+Search methods
+We searched for randomised controlled trials (RCTs) in these electronic databases: the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, LILACS, and in these trial registers: ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform. We also handsearched the reference lists of included studies and similar reviews. We performed the last electronic search on 18 November 2019. 
+Selection criteria
+We only considered RCTs that compared ICSI and IMSI; we did not include quasi‐randomised trials. We considered studies that permitted the inclusion of the same participant more than once (cross‐over or per cycle trials) only if data regarding the first treatment of each participant were available. 
+Data collection and analysis
+Two review authors independently performed study selection, data extraction, and assessment of the risk of bias and quality of the evidence; we solved disagreements by consulting a third review author. We corresponded with study investigators to resolve any queries, as required. 

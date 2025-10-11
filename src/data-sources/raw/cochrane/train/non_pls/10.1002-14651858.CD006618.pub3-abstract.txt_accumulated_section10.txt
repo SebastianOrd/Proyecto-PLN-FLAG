@@ -1,0 +1,10 @@
+Background
+Ulcerative colitis (UC) is a chronic inflammatory bowel disease. Corticosteroids and 5‐aminosalicylates are the most commonly used therapies. However, many patients require immunosuppressive therapy for steroid‐refractory and steroid‐dependent disease. Methotrexate is a medication that is effective for treating a variety of inflammatory diseases, including Crohn's disease. This review was performed to determine the effectiveness of methotrexate treatment in UC patients. This review is an update of a previously published Cochrane review. 
+Objectives
+To assess the efficacy and safety of methotrexate for induction of remission in patients with UC. 
+Search methods
+MEDLINE, EMBASE, CENTRAL and the Cochrane IBD/FBD group specialized trials register were searched from from inception to June 26, 2014. Study references and review papers were also searched for additional trials. Abstracts from major gastroenterological meetings were searched to identify research published in abstract form only. 
+Selection criteria
+Randomized controlled trials comparing methotrexate with placebo or an active comparator in patients with active ulcerative colitis were considered for inclusion. 
+Data collection and analysis
+Two authors independently reviewed studies for eligibility, extracted data and assessed study quality using the Cochrane risk of bias tool. The primary outcome measure was the proportion of patients who achieved clinical remission and withdrawal from steroids as defined by the studies and expressed as a percentage of the total number of patients randomized (intention‐to‐treat analysis). We calculated the risk ratio (RR) and corresponding 95% confidence intervals (95% CI) for dichotomous outcomes. The overall quality of the evidence supporting the primary outcome was assessed using the GRADE criteria. 

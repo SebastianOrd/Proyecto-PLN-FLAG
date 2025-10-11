@@ -1,0 +1,10 @@
+Background
+The hepatitis C virus (HCV) infection affects about 2% of the world's population and can cause chronic liver infection and persistent long‐term sequelae such as cirrhosis and liver cancer. 
+The prevalence of HCV infection among people on haemodialysis is often higher than the general population. The virus is easily transmitted parenterally, and blood transfusions have previously played a significant role in transmission; however, erythropoietin therapy has reduced the need for transfusions, and coupled with improved screening of donated blood, has significantly decreased transmission by transfusion. Although control of hospital‐acquired infection has improved with the advent of biosafety measures, stopping HCV transmission in haemodialysis units remains challenging. 
+Isolating people infected with HCV involves physical separation from others to limit direct or indirect transmission and includes a number of strategies during dialysis. The evidence for isolating people infected with HCV during haemodialysis is sparse with some inconsistencies. 
+Objectives
+To evaluate the benefits and harms of isolation of HCV‐infected patients during haemodialysis on the transmission of HCV to other patients. 
+Search methods
+We searched the Cochrane Kidney and Transplant Specialised Register to 26 November 2015 through contact with the Information Specialist using search terms relevant to this review. We also searched the Latin American and Caribbean Health Sciences Literature Database (LILACS) (1982 to 2015), Web of Science Conference Proceedings Citation Index‐Science (CPCI‐S, 1990 to 2015), ProQuest Dissertations & Theses Database (1990 to 2015), and Open Grey (1990 to 2015). 
+Selection criteria
+We included randomised controlled trials (RCTs), quasi‐RCTs and cluster RCTs evaluating the clinical benefits and harms of isolating HCV‐infected patients during haemodialysis on the transmission of HCV to other patients. We considered incidence of dialysis‐acquired HCV infection, all‐cause mortality, and adverse effects associated with isolation as the primary outcomes. 

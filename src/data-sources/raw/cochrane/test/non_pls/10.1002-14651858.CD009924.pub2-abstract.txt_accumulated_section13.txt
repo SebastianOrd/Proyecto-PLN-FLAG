@@ -1,0 +1,13 @@
+Background
+Undernutrition contributes to five million deaths of children under five each year. Furthermore, throughout the life cycle, undernutrition contributes to increased risk of infection, poor cognitive functioning, chronic disease, and mortality. It is thus important for decision‐makers to have evidence about the effectiveness of nutrition interventions for young children. 
+Objectives
+Primary objective
+1. To assess the effectiveness of supplementary feeding interventions, alone or with co‐intervention, for improving the physical and psychosocial health of disadvantaged children aged three months to five years. 
+Secondary objectives
+1. To assess the potential of such programmes to reduce socio‐economic inequalities in undernutrition. 2. To evaluate implementation and to understand how this may impact on outcomes. 3. To determine whether there are any adverse effects of supplementary feeding. 
+Search methods
+We searched CENTRAL, Ovid MEDLINE, PsycINFO, and seven other databases for all available years up to January 2014. We also searched ClinicalTrials.gov and several sources of grey literature. In addition, we searched the reference lists of relevant articles and reviews, and asked experts in the area about ongoing and unpublished trials. 
+Selection criteria
+Randomised controlled trials (RCTs), cluster‐RCTs, controlled clinical trials (CCTs), controlled before‐and‐after studies (CBAs), and interrupted time series (ITS) that provided supplementary food (with or without co‐intervention) to children aged three months to five years, from all countries. Adjunctive treatments, such as nutrition education, were allowed. Controls had to be untreated. 
+Data collection and analysis
+Two or more review authors independently reviewed searches, selected studies for inclusion or exclusion, extracted data, and assessed risk of bias. We conducted meta‐analyses for continuous data using the mean difference (MD) or the standardised mean difference (SMD) with a 95% confidence interval (CI), correcting for clustering if necessary. We analysed studies from low‐ and middle‐income countries and from high‐income countries separately, and RCTs separately from CBAs. We conducted a process evaluation to understand which factors impact on effectiveness. 

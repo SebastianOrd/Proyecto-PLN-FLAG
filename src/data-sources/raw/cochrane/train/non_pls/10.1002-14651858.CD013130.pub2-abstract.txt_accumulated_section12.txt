@@ -1,0 +1,12 @@
+Background
+Stevens‐Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and SJS/TEN overlap syndrome are rare, severe cutaneous adverse reactions usually triggered by medications. In addition to tertiary‐level supportive care, various systemic therapies have been used including glucocorticoids, intravenous immunoglobulins (IVIGs), cyclosporin, N‐acetylcysteine, thalidomide, infliximab, etanercept, and plasmapheresis. There is an unmet need to understand the efficacy of these interventions. 
+Objectives
+To assess the effects of systemic therapies (medicines delivered orally, intramuscularly, or intravenously) for the treatment of SJS, TEN, and SJS/TEN overlap syndrome. 
+Search methods
+We searched the following databases up to March 2021: the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, and Embase. We also searched five clinical trial registers, the reference lists of all included studies and of key review articles, and a number of drug manufacturer websites. We searched for errata or retractions of included studies. 
+Selection criteria
+We included only randomised controlled trials (RCTs) and prospective observational comparative studies of participants of any age with a clinical diagnosis of SJS, TEN, or SJS/TEN overlap syndrome. We included all systemic therapies studied to date and permitted comparisons between each therapy, as well as between therapy and placebo. 
+Data collection and analysis
+We used standard methodological procedures as specified by Cochrane. Our primary outcomes were SJS/TEN‐specific mortality and adverse effects leading to discontinuation of SJS/TEN therapy. Secondary outcomes included time to complete re‐epithelialisation, intensive care unit length of stay, total hospital length of stay, illness sequelae, and other adverse effects attributed to systemic therapy. We rated the certainty of the evidence for each outcome using GRADE. 
+Main results
+We included nine studies with a total of 308 participants (131 males and 155 females) from seven countries. We included two studies in the quantitative meta‐analysis. 

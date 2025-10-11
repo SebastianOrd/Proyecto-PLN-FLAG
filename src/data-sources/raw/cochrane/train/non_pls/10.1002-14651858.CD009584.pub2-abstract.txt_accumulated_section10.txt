@@ -1,0 +1,10 @@
+Background
+Moderate acute malnutrition, also called moderate wasting, affects around 10% of children under five years of age in low‐ and middle‐income countries. There are different approaches to addressing malnutrition with prepared foods in these settings; for example, providing lipid‐based nutrient supplements or blended foods, either a full daily dose or in a low dose as a complement to the usual diet. There is no definitive consensus on the most effective way to treat children with moderate acute malnutrition. 
+Objectives
+To evaluate the safety and effectiveness of different types of specially formulated foods for children with moderate acute malnutrition in low‐ and middle‐income countries, and to assess whether foods complying or not complying with specific nutritional compositions, such as the WHO technical specifications, are safe and effective. 
+Search methods
+In October 2012, we searched CENTRAL, MEDLINE, LILACS, CINAHL, BIBLIOMAP, POPLINE, ZETOC, ICTRP, mRCT, and ClinicalTrials.gov. In August 2012, we searched Embase. We also searched the reference lists of relevant papers and contacted nutrition‐related organisations and researchers in this field.     
+Selection criteria
+We planned to included any relevant randomised controlled trials (RCTs), controlled clinical trials (CCTs), controlled before‐and‐after studies (CBAs), and interrupted time series (ITS) that evaluated specially formulated foods for the treatment of moderate acute malnutrition in children aged between six months and five years in low‐ and middle‐income countries. 
+Data collection and analysis
+Two authors assessed trial eligibility and risk of bias, and extracted and analysed the data. We summarised dichotomous outcomes using risk ratios (RR) and continuous outcomes using mean differences (MD) with 95% confidence intervals (CI). Where appropriate, we combined data in meta‐analyses using the random‐effects model and assessed heterogeneity. The quality of evidence was assessed using GRADE methods. 

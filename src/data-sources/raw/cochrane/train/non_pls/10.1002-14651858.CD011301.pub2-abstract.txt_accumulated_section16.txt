@@ -1,0 +1,16 @@
+Background
+Botulinum toxin type A (BontA) is the most frequent treatment for facial wrinkles, but its effectiveness and safety have not previously been assessed in a Cochrane Review. 
+Objectives
+To assess the effects of all commercially available botulinum toxin type A products for the treatment of any type of facial wrinkles. 
+Search methods
+We searched the following databases up to May 2020: the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, Embase, and LILACS. We also searched five trials registers, and checked the reference lists of included studies for further references to relevant randomised controlled trials (RCTs). 
+Selection criteria
+We included RCTs with over 50 participants, comparing BontA versus placebo, other types of BontA, or fillers (hyaluronic acid), for treating facial wrinkles in adults. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Primary outcomes were participant assessment of success and major adverse events (AEs) (eyelid ptosis, eyelid sensory disorder, strabismus). Secondary outcomes included physician assessment of success; proportion of participants with at least one AE and duration of treatment effect. We used GRADE to assess the certainty of the evidence for each outcome. 
+Main results
+We included 65 RCTs, involving 14,919 randomised participants. Most participants were female, aged 18 to 65 years. All participants were outpatients (private office or day clinic). Study duration was between one week and one year. No studies were assessed as low risk of bias in all domains; the overall risk of bias was unclear for most studies. 
+The most common comparator was placebo (36 studies). An active control was used in 19 studies. There were eight dose‐ranging studies of onabotulinumtoxinA, and a small number of studies compared against fillers. Treatment was given in one cycle (54 studies), two cycles (three studies), or three or more cycles (eight studies). 
+The treated regions were glabella (43 studies), crow's feet (seven studies), forehead (two studies), perioral (two studies), full face (one study), or more than two regions (nine studies). Most studies analysed moderate to severe wrinkles; mean duration of treatment was 20 weeks. 
+The following results summarise the main comparisons, based on studies of one treatment cycle for the glabella. AEs were collected over the duration of these studies (over four to 24 weeks). 
+Compared to placebo, onabotulinumtoxinA‐20 U probably has a higher success rate when assessed by participants (risk ratio (RR) 19.45, 95% confidence interval (CI) 8.60 to 43.99; 575 participants; 4 studies; moderate‐certainty evidence) or physicians (RR 17.10, 95% CI 10.07 to 29.05; 1339 participants; 7 studies; moderate‐certainty evidence) at week four. Major AEs are probably higher with onabotulinumtoxinA‐20 U (Peto OR 3.62, 95% CI 1.50 to 8.74; 1390 participants; 8 studies; moderate‐certainty evidence), but there may be no difference in any AEs (RR 1.14, 95% CI 0.89 to 1.45; 1388 participants; 8 studies; low‐certainty evidence). 

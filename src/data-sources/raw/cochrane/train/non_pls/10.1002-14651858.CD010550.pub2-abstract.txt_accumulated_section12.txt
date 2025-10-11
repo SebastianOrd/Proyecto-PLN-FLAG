@@ -1,0 +1,12 @@
+Background
+Subfertility affects 15% to 20% of couples trying to conceive. In vitro fertilisation (IVF) is one of the assisted reproduction techniques developed to improve chances of achieving pregnancy. In the standard IVF method with controlled ovarian hyperstimulation (COH), growth and development of multiple follicles are stimulated by using gonadotrophins, often combined with a gonadotrophin‐releasing hormone (GnRH) agonist or antagonist. Although it is an established method of conception for subfertile couples, the treatment is expensive and has a high risk of adverse effects. Studies have shown that IVF in a natural cycle (NC) or a modified natural cycle (MNC) might be a promising low risk and low cost alternative to the standard stimulated IVF treatment since the available dominant follicle of each cycle is used. In this review, we included available randomised controlled studies comparing natural cycle IVF (NC and MNC) with standard IVF. 
+Objectives
+To compare the efficacy and safety of natural cycle IVF (including both NC‐IVF and MNC‐IVF) with controlled ovarian hyperstimulation IVF (COH‐IVF) in subfertile couples. 
+Search methods
+An extended search including of the Menstrual Disorders and Subfertility Group (MDSG) Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, ClinicalTrials.gov, conference abstracts in the Web of Knowledge, the World Health Organization International Trials Registry Platform search portal, LILACS database, PubMed and the OpenSIGLE database was conducted according to Cochrane guidelines. The last search was on 31st July 2013. 
+Selection criteria
+All randomised controlled trials (RCTs) comparing either natural cycle IVF or modified natural cycle IVF versus standard IVF in subfertile couples were included. 
+Data collection and analysis
+Data selection and extraction and risk of bias assessment were carried out independently by two authors (TA and AC). The primary outcome measures were live birth rate and ovarian hyperstimulation syndrome (OHSS) rate per randomised woman. We calculated Mantel‐Haenszel odds ratios for each dichotomous outcome and either the mean difference or the standardised mean difference (SMD) for continuous outcomes, with 95% confidence intervals (CIs). A fixed effect model was used unless there was substantial heterogeneity, in which case a random effects model was used. 
+Main results
+Six randomised controlled trials with a total of 788 women were included. The largest of these trials included 396 women eligible for this review. 

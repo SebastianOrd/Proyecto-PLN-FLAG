@@ -1,0 +1,11 @@
+Background
+This review is an update of a previously published review in the Cochrane Database of Systematic Reviews (Issue 6, 2015). 
+Failure to respond to antiepileptic drugs in patients with uncontrolled seizure activity such as refractory status epilepticus (RSE) has led to the use of anaesthetic drugs. Coma is induced with anaesthetic drugs to achieve complete control of seizure activity. Thiopental sodium and propofol are popularly used for this purpose. Both agents have been found to be effective. However, there is a substantial lack of evidence as to which of the two drugs is better in terms of clinical outcomes. 
+Objectives
+To compare the efficacy, adverse effects, and short‐ and long‐term outcomes of refractory status epilepticus (RSE) treated with one of the two anaesthetic agents, thiopental sodium or propofol. 
+Search methods
+We searched the Cochrane Epilepsy Group Specialized Register (16 August 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online (CRSO, 16 August 2016), MEDLINE (Ovid, 1946 to 16 August 2016), ClinicalTrials.gov (16 August 2016), and the South Asian Database of Controlled Clinical Trials (16 August 2016). Previously we searched IndMED, but this was not accessible at the time of the latest update. 
+Selection criteria
+All randomised controlled trials (RCTs) or quasi‐RCTs (regardless of blinding) assessing the control of RSE using either thiopental sodium or propofol in patients of any age and gender. 
+Data collection and analysis
+Two review authors screened the search results and reviewed the abstracts of relevant and eligible trials before retrieving the full‐text publications. 

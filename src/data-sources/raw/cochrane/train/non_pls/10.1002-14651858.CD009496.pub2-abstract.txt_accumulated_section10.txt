@@ -1,0 +1,10 @@
+Background
+The morbidity and socioeconomic costs associated with long bone healing are considerable. Platelet‐rich therapies are autologous blood products with a greater concentration of platelets than physiological whole blood. Despite promising results from a number of in‐vitro animal studies, clinical evidence to support the use of platelet‐rich therapy in long bone healing is unclear. 
+Objectives
+To assess the effects (benefits or harms) of platelet‐rich therapies for treating long bone osteotomies, acute fractures, un‐united fractures and defects in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (8 November 2011), the Cochrane Central Register of Controlled Trials (The Cochrane Library, 2011 Issue 4), MEDLINE (1948 to November Week 1 2011) and EMBASE (1980 to Week 44 2011). Trial registers and reference lists of articles were also searched. 
+Selection criteria
+Randomised and quasi‐randomised controlled clinical trials evaluating any type of platelet‐rich therapy compared with either no additional treatment or a placebo in the management of long bone osteotomies, acute fractures, un‐united fractures and defects in adults. Studies including participants over 18 years of age; reporting functional outcomes, time to union, non‐union, secondary procedures such as for fixation failure or delayed or non‐union, adverse effects, pain or costs were included. 
+Data collection and analysis
+Two authors independently selected the studies for inclusion in the review. Studies were assessed for the risk of bias using The Cochrane Collaboration's 'Risk of bias' tool. Treatment effects for dichotomous outcomes were expressed with risk ratios (RR) and continuous measures with mean differences, together with 95% confidence intervals (CI). 

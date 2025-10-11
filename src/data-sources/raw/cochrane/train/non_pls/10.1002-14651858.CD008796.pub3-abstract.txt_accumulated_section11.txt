@@ -1,0 +1,11 @@
+Background
+A decreased physical fitness has been reported in patients and survivors of childhood cancer. This is influenced by the negative effects of the disease and the treatment of childhood cancer. Exercise training for adult cancer patients has frequently been reported to improve physical fitness. In recent years, literature on this subject has also become available for children and young adults with cancer, both during and after treatment. This is an update of the original review that was performed in 2011. 
+Objectives
+To evaluate the effect of a physical exercise training intervention on the physical fitness (i.e. aerobic capacity, muscle strength, or functional performance) of children with cancer within the first five years from their diagnosis (performed either during or after cancer treatment), compared to a control group of children with cancer who did not receive an exercise intervention. 
+To determine whether physical exercise within the first five years of diagnosis has an effect on fatigue, anxiety, depression, self efficacy, and HRQoL and to determine whether there are any adverse effects of the intervention. 
+Search methods
+We searched the electronic databases of Cochrane Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, and PEDro; ongoing trial registries and conference proceedings on 6 September 2011 and 11 November 2014. In addition, we performed a handsearch of reference lists. 
+Selection criteria
+The review included randomized controlled trials (RCTs) and clinical controlled trials (CCTs) that compared the effects of physical exercise training with no training, in people who were within the first five years of their diagnosis of childhood cancer. 
+Data collection and analysis
+Two review authors independently identified studies meeting the inclusion criteria, performed the data extraction, and assessed the risk of bias using standardized forms. Study quality was rated by the Grading of Recommendation Assessment, Development and Evaluation (GRADE) criteria. 

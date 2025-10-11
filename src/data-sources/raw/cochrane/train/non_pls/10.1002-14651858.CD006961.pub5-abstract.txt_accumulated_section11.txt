@@ -1,0 +1,11 @@
+Background
+Antibiotic therapy for acute pulmonary exacerbations in people with cystic fibrosis is usually chosen based on the results of antimicrobial susceptibility testing of individual drugs. Combination antimicrobial susceptibility testing assesses the efficacy of drug combinations including two or three antibiotics in vitro and can often demonstrate antimicrobial efficacy against bacterial isolates even when individual antibiotics have little or no effect. Therefore, choosing antibiotics based on combination antimicrobial susceptibility testing could potentially improve response to treatment in people with cystic fibrosis with acute exacerbations. This is an updated version of a previously published review. 
+Objectives
+To compare antibiotic therapy based on conventional antimicrobial susceptibility testing to antibiotic therapy based on combination antimicrobial susceptibility testing in the treatment of acute pulmonary exacerbations in people with cystic fibrosis and chronic infection with Pseudomonas aeruginosa. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Cystic Fibrosis Trials Register which comprises of references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. Date of latest search: 19 March 2020. 
+We also searched ongoing trials registries. Date of latest search: 07 April 2020.
+Selection criteria
+Randomised and quasi‐randomised controlled studies of antibiotic therapy based on conventional antimicrobial susceptibility testing compared to antibiotic therapy based on combination antimicrobial susceptibility testing in the treatment of acute pulmonary exacerbations in cystic fibrosis due to chronic infection with Pseudomonas aeruginosa. 
+Data collection and analysis
+Both authors independently selected studies, assessed their quality and extracted data from eligible studies. Additionally, the authors contacted the study investigators to obtain further information. 

@@ -1,0 +1,12 @@
+Background
+Antiepileptic drugs have been used in pain management since the 1960s; some have shown efficacy in treating different neuropathic pain conditions. The efficacy of levetiracetam for relief of neuropathic pain has not previously been reviewed. 
+Objectives
+To assess the analgesic efficacy and adverse events of levetiracetam in chronic neuropathic pain conditions in adults. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2014, Issue 6) (via the Cochrane Library), MEDLINE, EMBASE, and two clinical trials databases (ClinicalTrials.gov. and the World Health Organisation Clinical Trials Registry Platform) to 3 July 2014, together with reference lists of retrieved papers and reviews. 
+Selection criteria
+We included randomised, double‐blind studies of two weeks duration or longer, comparing levetiracetam with placebo or another active treatment in adults with chronic neuropathic pain conditions. Studies had to have a minimum of 10 participants per treatments arm. 
+Data collection and analysis
+Two review authors independently extracted efficacy and adverse event data, and examined issues of study quality. We performed analysis using three tiers of evidence. First tier evidence derived from data meeting current best standards and subject to minimal risk of bias (outcome equivalent to substantial pain intensity reduction; intention‐to‐treat analysis without imputation for dropouts; at least 200 participants in the comparison; 8 to 12 weeks duration; parallel design); second tier evidence from data that failed to meet one or more of these criteria and that we considered at some risk of bias but with at least 200 participants in the comparison; and third tier evidence from data involving fewer than 200 participants that was considered very likely to be biased or used outcomes of limited clinical utility, or both. 
+Main results
+We included six studies: five small, cross‐over studies with 174 participants, and one parallel group study with 170 participants. Participants were treated with levetiracetam (2000 mg to 3000 mg daily) or placebo for between four and 14 weeks. Each study included participants with a different type of neuropathic pain; central pain due to multiple sclerosis, pain following spinal cord injury, painful polyneuropathy, central post‐stroke pain, postherpetic neuralgia, and post‐mastectomy pain. 

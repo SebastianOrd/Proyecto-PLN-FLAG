@@ -1,0 +1,8 @@
+Background
+Chronic cough (a cough lasting longer than four weeks) is a common problem internationally. Chronic cough has associated economic costs and is distressing to the child and to parents; ignoring cough may lead to delayed diagnosis and progression of serious underlying respiratory disease. Clinical guidelines have been shown to lead to efficient and effective patient care and can facilitate clinical decision making. Cough guidelines have been designed to facilitate the management of chronic cough. However, treatment recommendations vary, and specific clinical pathways for the treatment of chronic cough in children are important, as causes of and treatments for cough vary significantly from those in adults. Therefore, systematic evaluation of the use of evidence‐based clinical pathways for the management of chronic cough in children would be beneficial for clinical practice and for patient care. Use of a management algorithm can improve clinical outcomes; such management guidelines can be found in the guidelines for cough provided by the American College of Chest Physicians (ACCP) and the British Thoracic Society (BTS). 
+Objectives
+To evaluate the effectiveness of using a clinical pathway in the management of children with chronic cough. 
+Search methods
+The Cochrane Register of Controlled Trials (CENTRAL), the Cochrane Airways Group Specialised Register, MEDLINE, EMBASE, review articles and reference lists of relevant articles were searched. The latest search was conducted in January 2014. 
+Selection criteria
+All randomised controlled trials of parallel‐group design comparing use versus non‐use of a clinical pathway for treatment of chronic cough in children (< 18 years of age). 

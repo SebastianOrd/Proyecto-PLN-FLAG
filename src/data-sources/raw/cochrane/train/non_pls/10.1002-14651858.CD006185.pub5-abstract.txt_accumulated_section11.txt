@@ -1,0 +1,11 @@
+Background
+Electromechanical‐ and robot‐assisted gait‐training devices are used in rehabilitation and might help to improve walking after stroke. This is an update of a Cochrane Review first published in 2007 and previously updated in 2017. 
+Objectives
+Primary  
+• To determine whether electromechanical‐ and robot‐assisted gait training versus normal care improves walking after stroke 
+Secondary  
+• To determine whether electromechanical‐ and robot‐assisted gait training versus normal care after stroke improves walking velocity, walking capacity, acceptability, and death from all causes until the end of the intervention phase 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched 6 January 2020); the Cochrane Central Register of Controlled Trials (CENTRAL; 2020 Issue 1), in the Cochrane Library; MEDLINE in Ovid (1950 to 6 January 2020); Embase (1980 to 6 January 2020); the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 20 November 2019); the Allied and Complementary Medicine Database (AMED; 1985 to 6 January 2020); Web of Science (1899 to 7 January 2020); SPORTDiscus (1949 to 6 January 2020); the Physiotherapy Evidence Database (PEDro; searched 7 January 2020); and the engineering databases COMPENDEX (1972 to 16 January 2020) and Inspec (1969 to 6 January 2020). We handsearched relevant conference proceedings, searched trials and research registers, checked reference lists, and contacted trial authors in an effort to identify further published, unpublished, and ongoing trials. 
+Selection criteria
+We included all randomised controlled trials and randomised controlled cross‐over trials in people over the age of 18 years diagnosed with stroke of any severity, at any stage, in any setting, evaluating electromechanical‐ and robot‐assisted gait training versus normal care. 

@@ -1,0 +1,10 @@
+Background
+Pregnancy increases the risk of malaria and this is associated with poor health outcomes for both the mother and the infant, especially during the first or second pregnancy. To reduce these effects, the World Health Organization recommends that pregnant women living in malaria endemic areas sleep under insecticide‐treated bednets, are treated for malaria illness and anaemia, and receive chemoprevention with an effective antimalarial drug during the second and third trimesters. 
+Objectives
+To assess the effects of malaria chemoprevention given to pregnant women living in malaria endemic areas on substantive maternal and infant health outcomes. We also summarised the effects of intermittent preventive treatment with sulfadoxine‐pyrimethamine (SP) alone, and preventive regimens for Plasmodium vivax. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL, MEDLINE, EMBASE, LILACS, and reference lists up to 1 June 2014. 
+Selection criteria
+Randomized controlled trials (RCTs) and quasi‐RCTs of any antimalarial drug regimen for preventing malaria in pregnant women living in malaria‐endemic areas compared to placebo or no intervention. In the mother, we sought outcomes that included mortality, severe anaemia, and severe malaria; anaemia, haemoglobin values, and malaria episodes; indicators of malaria infection, and adverse events. In the baby, we sought foetal loss, perinatal, neonatal and infant mortality; preterm birth and birthweight measures; and indicators of malaria infection. We included regimens that were known to be effective against the malaria parasite at the time but may no longer be used because of parasite drug resistance. 
+Data collection and analysis
+Two review authors applied inclusion criteria, assessed risk of bias and extracted data. Dichotomous outcomes were compared using risk ratios (RR), and continuous outcomes using mean differences (MD); both are presented with 95% confidence intervals (CI). We assessed the quality of evidence using the GRADE approach. 

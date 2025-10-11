@@ -1,0 +1,13 @@
+Background
+This review is one of six looking at the primary medical management options for patients with chronic rhinosinusitis. 
+Chronic rhinosinusitis is common and is characterised by inflammation of the lining of the nose and paranasal sinuses leading to nasal blockage, nasal discharge, facial pressure/pain and loss of sense of smell. The condition can occur with or without nasal polyps. Topical (intranasal) corticosteroids are used with the aim of reducing inflammation in the sinonasal mucosa in order to improve patient symptoms. 
+Objectives
+To assess the effects of different types of intranasal steroids in people with chronic rhinosinusitis. 
+Search methods
+The Cochrane ENT Information Specialist searched the ENT Trials Register; Central Register of Controlled Trials (CENTRAL 2015, Issue 7); MEDLINE; EMBASE; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 11 August 2015. 
+Selection criteria
+Randomised controlled trials (RCTs) with a follow‐up period of at least three months comparing first‐generation intranasal corticosteroids (e.g. beclomethasone dipropionate, triamcinolone acetonide, flunisolide, budesonide) with second‐generation intranasal corticosteroids (e.g. ciclesonide, fluticasone furoate, fluticasone propionate, mometasone furoate, betamethasone sodium phosphate), or sprays versus drops, or low‐dose versus high‐dose intranasal corticosteroids. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. Our primary outcomes were disease‐specific health‐related quality of life (HRQL), patient‐reported disease severity and the commonest adverse event ‐ epistaxis (nosebleed). Secondary outcomes included general HRQL, endoscopic nasal polyp score, computerised tomography (CT) scan score and the adverse event of local irritation. We used GRADE to assess the quality of the evidence for each outcome; this is indicated in italics. 
+Main results
+We included nine RCTs (911 participants), including four different comparisons. None of the studies evaluated our first primary outcome measure, disease‐specific HRQL. 

@@ -1,0 +1,9 @@
+Background
+Chest X‐ray (CXR) is a longstanding method for the diagnosis of pneumothorax but chest ultrasonography (CUS) may be a safer, more rapid, and more accurate modality in trauma patients at the bedside that does not expose the patient to ionizing radiation. This may lead to improved and expedited management of traumatic pneumothorax and improved patient safety and clinical outcomes. 
+Objectives
+To compare the diagnostic accuracy of chest ultrasonography (CUS) by frontline non‐radiologist physicians versus chest X‐ray (CXR) for diagnosis of pneumothorax in trauma patients in the emergency department (ED). 
+To investigate the effects of potential sources of heterogeneity such as type of CUS operator (frontline non‐radiologist physicians), type of trauma (blunt vs penetrating), and type of US probe on test accuracy. 
+Search methods
+We conducted a comprehensive search of the following electronic databases from database inception to 10 April 2020: Cochrane Database of Systematic Reviews, Cochrane Central Register of Controlled Trials, MEDLINE, Embase, Cumulative Index to Nursing and Allied Health Literature (CINAHL) Plus, Database of Abstracts of Reviews of Effects, Web of Science Core Collection and Clinicaltrials.gov. We handsearched reference lists of included articles and reviews retrieved via electronic searching; and we carried out forward citation searching of relevant articles in Google Scholar and looked at the "Related articles" on PubMed. 
+Selection criteria
+We included prospective, paired comparative accuracy studies comparing CUS performed by frontline non‐radiologist physicians to supine CXR in trauma patients in the emergency department (ED) suspected of having pneumothorax, and with computed tomography (CT) of the chest or tube thoracostomy as the reference standard. 

@@ -1,0 +1,12 @@
+Background
+Patent ductus arteriosus (PDA) is associated with significant morbidity and mortality in preterm infants. Cyclooxygenase inhibitors (COX‐I) may prevent PDA‐related complications. Controversy exists on which COX‐I drug is the most effective and has the best safety profile in preterm infants. 
+Objectives
+To compare the effectiveness and safety of prophylactic COX‐I drugs and 'no COXI prophylaxis' in preterm infants using a Bayesian network meta‐analysis (NMA). 
+Search methods
+Searches of Cochrane CENTRAL via Wiley, OVID MEDLINE and Embase via Elsevier were conducted on 9 December 2021. We conducted independent searches of clinical trial registries and conference abstracts; and scanned the reference lists of included trials and related systematic reviews. 
+Selection criteria
+We included randomised controlled trials (RCTs) that enrolled preterm or low birth weight infants within the first 72 hours of birth without a prior clinical or echocardiographic diagnosis of PDA and compared prophylactic administration of indomethacin or ibuprofen or acetaminophen versus each other, placebo or no treatment. 
+Data collection and analysis
+We used the standard methods of Cochrane Neonatal. We used the GRADE NMA approach to assess the certainty of evidence derived from the NMA for the following outcomes: severe intraventricular haemorrhage (IVH), mortality, surgical or interventional PDA closure, necrotizing enterocolitis (NEC), gastrointestinal perforation, chronic lung disease (CLD) and cerebral palsy (CP). 
+Main results
+We included 28 RCTs (3999 preterm infants). Nineteen RCTs (n = 2877) compared prophylactic indomethacin versus placebo/no treatment, 7 RCTs (n = 914) compared prophylactic ibuprofen versus placebo/no treatment and 2 RCTs (n = 208) compared prophylactic acetaminophen versus placebo/no treatment. Nine RCTs were judged to have high risk of bias in one or more domains.We identified two ongoing trials on prophylactic acetaminophen. 

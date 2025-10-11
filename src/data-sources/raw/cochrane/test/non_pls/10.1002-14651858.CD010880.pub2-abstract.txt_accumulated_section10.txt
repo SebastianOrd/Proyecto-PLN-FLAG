@@ -1,0 +1,10 @@
+Background
+Peer support provides the opportunity for peers with experiential knowledge of a mental illness to give emotional, appraisal and informational assistance to current service users, and is becoming an important recovery‐oriented approach in healthcare for people with mental illness. 
+Objectives
+To assess the effects of peer‐support interventions for people with schizophrenia or other serious mental disorders, compared to standard care or other supportive or psychosocial interventions not from peers. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Study‐Based Register of Trials on 27 July 2016 and 4 July 2017. There were no limitations regarding language, date, document type or publication status. 
+Selection criteria
+We selected all randomised controlled clinical studies involving people diagnosed with schizophrenia or other related serious mental illness that compared peer support to standard care or other psychosocial interventions and that did not involve 'peer' individual/group(s). We included studies that met our inclusion criteria and reported useable data. Our primary outcomes were service use and global state (relapse). 
+Data collection and analysis
+The authors of this review complied with the Cochrane recommended standard of conduct for data screening and collection. Two review authors independently screened the studies, extracted data and assessed the risk of bias of the included studies. Any disagreement was resolved by discussion until the authors reached a consensus. We calculated the risk ratio (RR) and 95% confidence interval (CI) for binary data, and the mean difference and its 95% CI for continuous data. We used a random‐effects model for analyses. We assessed the quality of evidence and created a 'Summary of findings' table using the GRADE approach. 

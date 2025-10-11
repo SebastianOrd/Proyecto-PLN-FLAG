@@ -1,0 +1,15 @@
+Background
+Constipation is a common symptom experienced during pregnancy. It has a range of consequences from reduced quality of life and perception of physical health to haemorrhoids. An understanding of the effectiveness and safety of treatments for constipation in pregnancy is important for the clinician managing pregnant women. 
+Objectives
+To assess the effectiveness and safety of interventions (pharmacological and non‐pharmacological) for treating constipation in pregnancy. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 April 2015), ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) (30 April 2015) and reference lists of retrieved studies. 
+Selection criteria
+We considered all published, unpublished and ongoing randomised controlled trials (RCTs), cluster‐RCTs and quasi‐RCTs, evaluating interventions (pharmacological and non‐pharmacological) for constipation in pregnancy. Cross‐over studies were not eligible for inclusion in this review. Trials published in abstract form only (without full text publication) were not eligible for inclusion. 
+We compared one intervention (pharmacological or non‐pharmacological) against another intervention, placebo or no treatment. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. 
+Main results
+Four studies were included, but only two studies with a total of 180 women contributed data to this review. It was not clear whether they were RCTs or quasi‐RCTs because the sequence generation was unclear. We classified the overall risk of bias of three studies as moderate and one study as high risk of bias. No meta‐analyses were carried out due to insufficient data. 
+There were no cluster‐RCTs identified for inclusion. Comparisons were available for stimulant laxatives versus bulk‐forming laxatives, and fibre supplementation versus no intervention. There were no data available for any other comparisons. 
+During the review process we found that studies reported changes in symptoms in different ways. To capture all data available, we added a new primary outcome (improvement in constipation) ‐ this new outcome was not prespecified in our published protocol. 

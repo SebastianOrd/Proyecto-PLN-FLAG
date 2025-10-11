@@ -1,0 +1,16 @@
+Background
+Alcohol use in young people is a risk factor for a range of short‐ and long‐term harms and is a cause of concern for health services, policy‐makers, youth workers, teachers, and parents. 
+Objectives
+To assess the effectiveness of universal, selective, and indicated family‐based prevention programmes in preventing alcohol use or problem drinking in school‐aged children (up to 18 years of age). 
+Specifically, on these outcomes, the review aimed:
+• to assess the effectiveness of universal family‐based prevention programmes for all children up to 18 years (‘universal interventions’); 
+• to assess the effectiveness of selective family‐based prevention programmes for children up to 18 years at elevated risk of alcohol use or problem drinking (‘selective interventions’); and 
+• to assess the effectiveness of indicated family‐based prevention programmes for children up to 18 years who are currently consuming alcohol, or who have initiated use or regular use (‘indicated interventions’). 
+Search methods
+We identified relevant evidence from the Cochrane Central Register of Controlled Trials (CENTRAL), in the Cochrane Library, MEDLINE (Ovid 1966 to June 2018), Embase (1988 to June 2018), Education Resource Information Center (ERIC; EBSCOhost; 1966 to June 2018), PsycINFO (Ovid 1806 to June 2018), and Google Scholar. We also searched clinical trial registers and handsearched references of topic‐related systematic reviews and the included studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) and cluster RCTs (C‐RCTs) involving the parents of school‐aged children who were part of the general population with no known risk factors (universal interventions), were at elevated risk of alcohol use or problem drinking (selective interventions), or were already consuming alcohol (indicated interventions). Psychosocial or educational interventions involving parents with or without involvement of children were compared with no intervention, or with alternate (e.g. child only) interventions, allowing experimental isolation of parent components. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 46 studies (39,822 participants), with 27 classified as universal, 12 as selective, and seven as indicated. We performed meta‐analyses according to outcome, including studies reporting on the prevalence, frequency, or volume of alcohol use. The overall quality of evidence was low or very low, and there was high, unexplained heterogeneity. 

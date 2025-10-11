@@ -1,0 +1,11 @@
+Background
+Acute postoperative pain is still an issue in patients undergoing abdominal surgery. Postoperative pain and side effects of analgesic treatment, in particular those of opioids, need to be minimized. Opioid‐sparing analgesics, possibly including dexmedetomidine, seem a promising avenue by which to improve postoperative outcomes. 
+Objectives
+Our primary aim was to determine the analgesic efficacy and opioid‐sparing effect of perioperative dexmedetomidine for acute pain after abdominal surgery in adults. 
+Secondary aims were to establish effects of dexmedetomidine on postoperative nausea and vomiting (PONV), gastrointestinal function and mobilization, together with the side effect profile of dexmedetomidine. 
+Search methods
+We searched the following databases: Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, Institute for Scientific Information (ISI), Web of Science and Cumulative Index to Nursing and Allied Health Literature (CINAHL), and reference lists of articles to May 2014. We searched the Science Citation Index, ClinicalTrials.gov and Current Controlled Trials, and we contacted pharmaceutical companies to identify unpublished and ongoing studies. We applied no language restrictions. We reran the search in May 2015 and found nine studies of interest. We will deal with the studies of interest when we update the review. 
+Selection criteria
+We included randomized, controlled trials of perioperative dexmedetomidine versus placebo or other drug during abdominal surgery in adults. Trials included one of the following outcomes: amount of 'rescue' opioid, postoperative pain, time to 'rescue' analgesia, participants requiring 'rescue' analgesia, postoperative sedation, PONV, time to first passage of flatus and stool or time to first out‐of‐bed mobilization. 
+Data collection and analysis
+Two review authors independently screened the titles and abstracts for eligibility. We retrieved full trial reports if necessary, and we extracted relevant data from the included studies using a data collection form and assessed risk of bias. We resolved disagreements by discussion with the third review author. We sought additional information of relevance for risk of bias assessment or extraction of data by contacting study authors or, if necessary, co‐authors from present or former studies. 

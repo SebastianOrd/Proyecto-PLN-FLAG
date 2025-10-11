@@ -1,0 +1,16 @@
+Background
+Red blood cell (RBC) transfusion is a common treatment for anaemia in many conditions. The safety and efficacy of transfusing RBC units that have been stored for different durations before a transfusion is a current concern. The duration of storage for a RBC unit can be up to 42 days. If evidence from randomised controlled trials (RCT) were to indicate that clinical outcomes are affected by storage duration, the implications for inventory management and clinical practice would be significant. 
+Objectives
+To assess the effects of using red blood cells (RBCs) stored for a shorter versus a longer duration, or versus RBCs stored for standard practice duration, in people requiring a RBC transfusion. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, PubMed (for epublications), LILACS, Transfusion Evidence Library, Web of Science CPCI‐S and four international clinical trial registries on 20 November 2017. 
+Selection criteria
+We included RCTs that compared transfusion of RBCs of shorter versus longer storage duration, or versus standard practice storage duration. 
+Data collection and analysis
+We used standard Cochrane methods.
+Main results
+We included 22 trials (42,835 participants) in this review.
+The GRADE quality of evidence ranged from very low to moderate for our primary outcome of in‐hospital and short‐term mortality reported at different time points. 
+Transfusion of RBCs of shorter versus longer storage duration 
+Eleven trials (2249 participants) compared transfusion of RBCs of shorter versus longer storage duration. Two trials enrolled low birth weight neonates, two enrolled children with severe anaemia secondary to malaria or sickle cell disease, and eight enrolled adults across a range of clinical settings (intensive care, cardiac surgery, major elective surgery, hospitalised in‐patients, haematology outpatients). We judged only two trials to be at low risk of bias across all domains; most trials had an unclear risk for multiple domains. 
+Transfusion of RBCs of shorter versus longer storage duration probably leads to little or no difference in mortality at seven‐day follow‐up (risk ratio (RR) 1.42, 95% confidence interval (CI) 0.66 to 3.06; 1 trial, 3098 participants; moderate quality evidence) or 30‐day follow‐up (RR 0.85, 95%CI 0.50 to 1.45; 2 trials, 1121 participants; moderate quality evidence) in adults undergoing major elective cardiac or non‐cardiac surgery. 

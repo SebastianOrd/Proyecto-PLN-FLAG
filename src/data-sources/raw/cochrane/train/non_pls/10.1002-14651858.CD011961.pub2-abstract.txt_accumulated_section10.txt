@@ -1,0 +1,10 @@
+Background
+Approximately 60% to 80% of people with Parkinson's disease (PD) experience cognitive impairment that impacts on their quality of life. Cognitive decline is a core feature of the disease and can often present before the onset of motor symptoms. Cognitive training may be a useful non‐pharmacological intervention that could help to maintain or improve cognition and quality of life for people with PD dementia (PDD) or PD‐related mild cognitive impairment (PD‐MCI). 
+Objectives
+To determine whether cognitive training (targeting single or multiple domains) improves cognition in people with PDD and PD‐MCI or other clearly defined forms of cognitive impairment in people with PD. 
+Search methods
+We searched the Cochrane Dementia and Cognitive Improvement Group Trials Register (8 August 2019), the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, and PsycINFO. We searched reference lists and trial registers, searched relevant reviews in the area and conference proceedings. We also contacted experts for clarifications on data and ongoing trials. 
+Selection criteria
+We included randomised controlled trials where the participants had PDD or PD‐MCI, and where the intervention was intended to train general or specific areas of cognitive function, targeting either a single domain or multiple domains of cognition, and was compared to a control condition. Multicomponent interventions that also included motor or other elements were considered eligible. 
+Data collection and analysis
+Two review authors independently screened titles, abstracts, and full‐text articles for inclusion in the review. Two review authors also independently undertook extraction of data and assessment of methodological quality. We used GRADE methods to assess the overall quality of the evidence. 

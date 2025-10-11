@@ -1,0 +1,12 @@
+Background
+Alpha‐glucosidase inhibitors (AGI) reduce blood glucose levels and may thus prevent or delay type 2 diabetes mellitus (T2DM) and its associated complications in people at risk of developing of T2DM. 
+Objectives
+To assess the effects of AGI in people with impaired glucose tolerance (IGT), impaired fasting blood glucose (IFG), moderately elevated glycosylated haemoglobin A1c (HbA1c) or any combination of these. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform, and the reference lists of systematic reviews, articles and health technology assessment reports. The date of the last search of all databases was December 2017. 
+Selection criteria
+We included randomised controlled trials (RCTs), with a duration of one year or more, comparing AGI with any pharmacological glucose‐lowering intervention, behaviour‐changing intervention, placebo or no intervention in people with IFG, IGT, moderately elevated HbA1c or combinations of these. 
+Data collection and analysis
+Two review authors read all abstracts and full‐text articles or records, assessed quality and extracted outcome data independently. One review author extracted data, which were checked by a second review author. We resolved discrepancies by consensus or involvement of a third review author. For meta‐analyses we used a random‐effects model with assessment of risk ratios (RRs) for dichotomous outcomes and mean differences (MDs) for continuous outcomes, using 95% confidence intervals (CIs) for effect estimates. We assessed the overall quality of the evidence by using the GRADE instrument. 
+Main results
+For this update of the Cochrane Review (first published 2006, Issue 4) we included 10 RCTs (11,814 participants), eight investigating acarbose and two investigating voglibose, that included people with IGT or people "at increased risk for diabetes". The trial duration ranged from one to six years. Most trials compared AGI with placebo (N = 4) or no intervention (N = 4). 

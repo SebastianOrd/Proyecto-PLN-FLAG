@@ -1,0 +1,10 @@
+Background
+Antenatal care (ANC) is a core component of maternity care. However, both quality of care provision and rates of attendance vary widely between and within countries. Qualitative research can assess factors underlying variation, including acceptability, feasibility, and the values and beliefs that frame provision and uptake of ANC programmes. This synthesis links to the Cochrane Reviews of the effectiveness of different antenatal models of care. It was designed to inform the World Health Organization guidelines for a positive pregnancy experience and to provide insights for the design and implementation of improved antenatal care in the future. 
+Objectives
+To identify, appraise, and synthesise qualitative studies exploring:
+· Women’s views and experiences of attending ANC; and factors influencing the uptake of ANC arising from women’s accounts; 
+· Healthcare providers’ views and experiences of providing ANC; and factors influencing the provision of ANC arising from the accounts of healthcare providers. 
+Search methods
+To find primary studies we searched MEDLINE, Ovid; Embase, Ovid; CINAHL, EbscoHost; PsycINFO, EbscoHost; AMED, EbscoHost; LILACS, VHL; and African Journals Online (AJOL) from January 2000 to February 2019. We handsearched reference lists of included papers and checked the contents pages of 50 relevant journals through Zetoc alerts received during the searching phase. 
+Selection criteria
+We included studies that used qualitative methodology and that met our quality threshold; that explored the views and experiences of routine ANC among healthy, pregnant and postnatal women or among healthcare providers offering this care, including doctors, midwives, nurses, lay health workers and traditional birth attendants; and that took place in any setting where ANC was provided. We excluded studies of ANC programmes designed for women with specific complications. We also excluded studies of programmes that focused solely on antenatal education. 

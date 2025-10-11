@@ -1,0 +1,19 @@
+Background
+Lack of physical stimulation may contribute to metabolic bone disease of preterm infants, resulting in poor bone mineralization and growth. Physical activity programs combined with adequate nutrition might help to promote bone mineralization and growth. 
+Objectives
+The primary objective was to assess whether physical activity programs in preterm infants improve bone mineralization and growth and reduce the risk of fracture. 
+The secondary objectives included other potential benefits in terms of length of hospital stay, skeletal deformities and neurodevelopmental outcomes, and adverse events. 
+Subgroup analysis:
+• Given that the smallest infants are most vulnerable for developing osteopenia (Bishop 1999), a subgroup analysis was planned for infants with birth weight < 1000 g. 
+• Calcium and phosphorus intake may affect an infant's ability to increase bone mineral content (Kuschel 2004). Therefore, an additional subgroup analysis was planned for infants receiving different amounts of calcium and phosphorus, along with full enteral feeds as follows. 
+ ∘ Below 100 mg/60 mg calcium/phosphorus or equal to/above 100 mg/60 mg calcium/phosphorus per 100 mL milk. 
+ ∘ Supplementation of calcium without phosphorus.
+ ∘ Supplementation of phosphorus without calcium.
+Search methods
+The standard search strategy of the Cochrane Neonatal Review Group (CNRG) was used. The search included the Cochrane Central Register of Controlled Trials (CENTRAL) (2012, Issue 9), MEDLINE, EMBASE, CINAHL (1966 to March 2013), and cross‐references, as well as handsearching of abstracts of the Society for Pediatric Research and the International Journal of Sports Medicine. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials comparing physical activity programs (extension and flexion, range‐of‐motion exercises) versus no organized physical activity programs in preterm infants. 
+Data collection and analysis
+Data collection, study selection, and data analysis were performed according to the methods of the CNRG. 
+Main results
+Eleven trials enrolling 324 preterm infants (gestational age 26 to 34 weeks) were included in this review. All were small (N = 16 to 50) single‐center studies that evaluated daily physical activity for three and one‐half to eight weeks during initial hospitalization. Methodological quality and reporting of included trials were variable. 

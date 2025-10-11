@@ -1,0 +1,12 @@
+Background
+Unconditional cash transfers (UCTs) are a common social protection intervention that increases income, a key social determinant of health, in disaster contexts in low‐ and middle‐income countries (LMICs). 
+Objectives
+To assess the effects of UCTs in improving health services use, health outcomes, social determinants of health, health care expenditure, and local markets and infrastructure in LMICs. We also compared the relative effectiveness of UCTs delivered in‐hand with in‐kind transfers, conditional cash transfers, and UCTs paid through other mechanisms. 
+Search methods
+We searched 17 academic databases, including the Cochrane Public Health Group Specialised Register, the Cochrane Database of Systematic Reviews (The Cochrane Library 2014, Issue 7), MEDLINE, and EMBASE between May and July 2014 for any records published up until 4 May 2014. We also searched grey literature databases, organisational websites, reference lists of included records, and academic journals, as well as seeking expert advice. 
+Selection criteria
+We included randomised and quasi‐randomised controlled trials (RCTs), as well as cohort, interrupted time series, and controlled before‐and‐after studies (CBAs) on UCTs in LMICs. Primary outcomes were the use of health services and health outcomes. 
+Data collection and analysis
+Two authors independently screened all potentially relevant records for inclusion criteria, extracted the data, and assessed the included studies' risk of bias. We requested missing information from the study authors. 
+Main results
+Three studies (one cluster‐RCT and two CBAs) comprising a total of 13,885 participants (9640 children and 4245 adults) as well as 1200 households in two LMICs (Nicaragua and Niger) met the inclusion criteria. They examined five UCTs between USD 145 and USD 250 (or more, depending on household characteristics) that were provided by governmental, non‐governmental or research organisations during experiments or pilot programmes in response to droughts. Two studies examined the effectiveness of UCTs, and one study examined the relative effectiveness of in‐hand UCTs compared with in‐kind transfers and UCTs paid via mobile phone. Due to the methodologic limitations of the retrieved records, which carried a high risk of bias and very serious indirectness, we considered the body of evidence to be of very low overall quality and thus very uncertain across all outcomes. 

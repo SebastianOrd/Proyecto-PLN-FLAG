@@ -1,0 +1,13 @@
+Background
+As mortality secondary to acute infectious diarrhoea has decreased worldwide, the focus shifts to adjuvant therapies to lessen the burden of disease. Smectite, a medicinal clay, could offer a complementary intervention to reduce the duration of diarrhoea. 
+Objectives
+To assess the effects of smectite for treating acute infectious diarrhoea in children.
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Pubmed), Embase (Ovid), LILACS, reference lists from studies and previous reviews, and conference abstracts, up to 27 June 2017. 
+Selection criteria
+Randomized and quasi‐randomized trials comparing smectite to a control group in children aged one month to 18 years old with acute infectious diarrhoea. 
+Data collection and analysis
+Two review authors independently screened abstracts and the full texts for inclusion, extracted data, and assessed risk of bias. Our primary outcomes were duration of diarrhoea and clinical resolution at day 3. We summarized continuous outcomes using mean differences (MD) and dichotomous outcomes using risk ratios (RR), with 95% confidence intervals (CI). Where appropriate, we pooled data in meta‐analyses and assessed heterogeneity. We explored publication bias using a funnel plot. 
+Main results
+Eighteen trials with 2616 children met our inclusion criteria. Studies were conducted in both ambulatory and in‐hospital settings, and in both high‐income and low‐ or middle‐income countries. Most studies included children with rotavirus infections, and half included breastfed children. 
+Smectite may reduce the duration of diarrhoea by approximately a day (MD ‐24.38 hours, 95% CI ‐30.91 to ‐17.85; 14 studies; 2209 children; low‐certainty evidence); may increase clinical resolution at day 3 (risk ratio (RR) 2.10, 95% CI 1.30 to 3.39; 5 trials; 312 children; low‐certainty evidence); and may reduce stool output (MD ‐11.37, 95% CI ‐21.94 to ‐0.79; 3 studies; 634 children; low‐certainty evidence). 

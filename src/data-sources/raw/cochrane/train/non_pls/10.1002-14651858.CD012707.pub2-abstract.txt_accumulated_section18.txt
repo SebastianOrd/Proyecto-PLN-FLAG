@@ -1,0 +1,18 @@
+Background
+To support patient‐centred care, healthcare organisations increasingly offer patients access to data stored in the institutional electronic health record (EHR). 
+Objectives
+Primary objective 
+1. To assess the effects of providing adult patients with access to electronic health records (EHRs) alone or with additional functionalities on a range of patient, patient‐provider, and health resource consumption outcomes, including patient knowledge and understanding, patient empowerment, patient adherence, patient satisfaction with care, adverse events, health‐related quality of life, health‐related outcomes, psychosocial health outcomes, health resource consumption, and patient‐provider communication. 
+Secondary objective 
+1. To assess whether effects of providing adult patients with EHR access alone versus EHR access with additional functionalities differ among patient groups according to age, educational level, or different status of disease (chronic or acute). 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, and Scopus in June 2017 and in April 2020. 
+Selection criteria
+Randomised controlled trials and cluster‐randomised trials of EHR access with or without additional functionalities for adults with any medical condition. 
+Data collection and analysis
+We used standard Cochrane methodological procedures.
+Main results
+We included 10 studies with 78 to 4500 participants and follow‐up from 3 to 24 months. Nine studies assessed the effects of EHR with additional functionalities, each addressing a subset of outcomes sought by this review. Five studies focused on patients with diabetes mellitus, four on patients with specific diseases, and one on all patients. All studies compared EHR access alone or with additional functionalities plus usual care versus usual care only. No studies assessing the effects of EHR access alone versus EHR access with additional functionalities were identified. Interventions required a variety of data within the EHR, such as patient history, problem list, medication, allergies, and lab results. In addition to EHR access, eight studies allowed patients to share self‐documented data, seven offered individualised disease management functions, seven offered educational disease‐related information, six supported secure communication, and one offered preventive reminders. 
+Only two studies were at low or unclear risk of bias across domains. Meta‐analysis could not be performed, as participants, interventions, and outcomes were too heterogeneous, and most studies presented results based on different adjustment methods or variables. The quality of evidence was rated as low or very low across outcomes. Overall differences between intervention and control groups, if any, were small. The relevance of any small effects remains unclear for most outcomes because in most cases, trial authors did not define a minimal clinically important difference. Overall, results suggest that the effects of EHR access alone and with additional functionalities are mostly uncertain when compared with usual care. 
+Patient knowledge and understanding: very low‐quality evidence is available from one study, so we are uncertain about effects of the intervention on patient knowledge about diabetes and blood glucose testing. 
+Patient empowerment: low‐quality evidence from three studies suggests that the intervention may have little or no effect on patient empowerment measures. 

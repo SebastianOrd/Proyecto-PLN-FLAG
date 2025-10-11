@@ -1,0 +1,12 @@
+Background
+Nonsteroidal anti‐inflammatory drugs (NSAIDs) provide effective analgesia during the post‐operative period but can cause acute kidney injury (AKI) when used peri‐operatively (at or around the time of surgery). This is an update of a Cochrane review published in 2007. 
+Objectives
+This review looked at the effect of NSAIDs used in the peri‐operative period on post‐operative kidney function in patients with normal kidney function. 
+Search methods
+We searched Cochrane Kidney and Transplant's Specialised Register to 4 January 2018 through contact with the Information Specialist using search terms relevant to this review. Studies in the Specialised Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+All randomised controlled trials (RCTs) and quasi‐RCTs (RCTs in which allocation to treatment was obtained by alternation, use of alternate medical records, date of birth or other predictable methods) looking at the use of NSAIDs versus placebo for the treatment of post‐operative pain in patients with normal kidney function were included. 
+Data collection and analysis
+Data extraction was carried out independently by two authors as was assessment of risk of bias. Disagreements were resolved by a third author. Dichotomous outcomes are reported as relative risk (RR) and continuous outcomes as mean difference (MD) together with their 95% confidence intervals (CI). Meta‐analyses were used to assess the outcomes of AKI, change in serum creatinine (SCr), urine output, renal replacement therapy (RRT), death (all causes) and length of hospital stay. 
+Main results
+We identified 26 studies (8835 participants). Risk of bias was high in 17, unclear in 6and low in three studies. There was high risk of attrition bias in six studies. 

@@ -1,0 +1,10 @@
+Background
+Major abdominal surgery can be associated with a number of serious complications that may impair patient recovery. In particular, postoperative pulmonary complications (PPCs), including respiratory complications such as atelectasis and pneumonia, are a major contributor to postoperative morbidity and may even contribute to increased mortality. Continuous positive airway pressure (CPAP) is a type of therapy that uses a high‐pressure gas source to deliver constant positive pressure to the airways throughout both inspiration and expiration. This approach is expected to prevent some pulmonary complications, thus reducing mortality. 
+Objectives
+To determine whether any difference can be found in the rate of mortality and adverse events following major abdominal surgery in patients treated postoperatively with CPAP versus standard care, which may include traditional oxygen delivery systems, physiotherapy and incentive spirometry. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) 2013, Issue 9; Ovid MEDLINE (1966 to 15 September 2013); EMBASE (1988 to 15 September 2013); Web of Science (to September 2013) and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (to September 2013). 
+Selection criteria
+We included all randomized controlled trials (RCTs) in which CPAP was compared with standard care for prevention of postoperative mortality and adverse events following major abdominal surgery. We included all adults (adults as defined by individual studies) of both sexes. The intervention of CPAP was applied during the postoperative period. We excluded studies in which participants had received PEEP during surgery. 
+Data collection and analysis
+Two review authors independently selected studies that met the selection criteria from all studies identified by the search strategy. Two review authors extracted the data and assessed risk of bias separately, using a data extraction form. Data entry into RevMan was performed by one review author and was checked by another for accuracy. We performed a limited meta‐analysis and constructed a summary of findings table. 

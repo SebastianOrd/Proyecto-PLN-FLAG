@@ -1,0 +1,11 @@
+Multiple drug combinations of bortezomib, lenalidomide and thalidomide for initial treatment of adults with transplant‐ineligible multiple myeloma 
+Background 
+Multiple myeloma is a type of blood cancer. It accounts for approximately 2% of all cancers and is still considered incurable. For people with newly diagnosed multiple myeloma (NDMM), who are unsuitable for a procedure where damaged blood cells are replaced with healthy ones (stem‐cell transplant), treatment is usually a multiple drug combination of bortezomib, lenalidomide, or thalidomide, plus melphalan and prednisolone (MP) or dexamethasone (D). Multiple drug combinations are approved for initial anti‐myeloma therapy, however, access to these medicines is restricted in many countries worldwide. 
+Aim of the review 
+To compare the benefits and harms of selected anti‐myeloma drugs (bortezomib (V), lenalidomide (R), thalidomide (T)) for transplant‐unsuitable NDMM. 
+Study characteristics 
+We searched selected medical databases and trial registries until 14th February 2019. We included studies comparing multiple drug combinations of V, R, and T for the treatment of people with NDMM who were unsuitable for a stem‐cell transplant. We differentiated between fixed treatment duration and continuous therapy. Fixed therapy is a pre‐specified number of cycles, while a continuous therapy is given until the disease gets worse, the person finds the drug hard to tolerate, or when the treatment is given for a prolonged period. Continuous therapies are indicated with a "c". 
+Key results 
+We identified 25 studies involving 11,403 transplant‐unsuitable adults with NDMM, and comparing 21 different treatment regimens. 
+Survival 
+People who had the standard treatment, MP, lived for an average of 35 months. People treated with RD, TMP, and VRDc probably live for much longer (moderate certainty). Treatment with VMP may also lead to much longer survival, compared to MP (low certainty). People treated with RD lived for an additional 20.4 months; with TMP an additional 11.6 months; with VRDc an additional 36.2 months, and with VMP an additional 14.9 months. 

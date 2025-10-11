@@ -1,0 +1,14 @@
+Background
+Methotrexate is a folic acid antagonist widely used for the treatment of neoplastic disorders. Methotrexate inhibits the synthesis of deoxyribonucleic acid (DNA), ribonucleic acid (RNA) and proteins by binding to dihydrofolate reductase. Currently, methotrexate is among the most commonly used drugs for the treatment of rheumatoid arthritis (RA). This is an update of the previous Cochrane systematic review published in 1997. 
+Objectives
+To evaluate short term benefits and harms of methotrexate for treating RA compared to placebo. 
+Search methods
+The Cochrane Musculoskeletal Group Trials Register, The Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and EMBASE were searched from 1966 to 1997 and then updated to November 2013. The search was complemented with a bibliography search of the reference lists of trials retrieved from the electronic search. 
+Selection criteria
+Randomized controlled trials and controlled clinical trials comparing methotrexate (MTX) monotherapy against placebo alone in people with RA. Any trial duration and MTX doses were included. 
+Data collection and analysis
+Two review authors independently determined which studies were eligible for inclusion, extracted data and assessed risk of bias. Outcomes were pooled using mean differences (MDs) for continuous variables or standardized mean differences (SMDs) when different scales were used to measure the same outcome. Pooled risk ratio (RR) was used for dichotomous variables. Fixed‐effect models were used throughout, although random‐effects models were used for outcomes showing heterogeneity. 
+Main results
+Five trials with 300 patients were included in the original version of the review. An additional two trials with 432 patients were added to the 2013 update of the review for a total of 732 participants. The trials were generally of unclear to low risk of bias with a follow‐up duration ranging from 12 to 52 weeks. All trials included patients who have failed prior treatment (for example, gold therapy, D‐penicillamine, azathioprine or anti‐malarials); mean disease duration that ranged between 1 and 14 years with six trials reporting more than 4 years; and weekly doses that ranged between 5 mg and 25 mg. 
+Benefits 
+Statistically significant and clinically important differences were observed for most efficacy outcomes. MTX monotherapy showed a clinically important and statistically significant improvement in the American College of Rheumatology (ACR) 50 response rate when compared with placebo at 52 weeks (RR 3.0, 95% confidence interval (CI) 1.5 to 6.0; number needed to treat (NNT) 7, 95% CI 4 to 22). Fifteen more patients out of 100 had a major improvement in the ACR 50 outcome compared to placebo (absolute treatment benefit (ATB) 15%, 95% CI 8% to 23%). 

@@ -1,0 +1,13 @@
+Background
+Retrospective analyses suggest that capecitabine may carry superior activity in hormone receptor‐positive relative to hormone receptor‐negative metastatic breast cancer. This review examined the veracity of that finding and explored whether this differential activity extends to early breast cancer. 
+Objectives
+To assess effects of chemotherapy regimens containing capecitabine compared with regimens not containing capecitabine for women with hormone receptor‐positive versus hormone receptor‐negative breast cancer across the three major treatment scenarios: neoadjuvant, adjuvant, metastatic. 
+Search methods
+On 4 June 2019, we searched the Cochrane Breast Cancer Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 5) in the Cochrane Library; MEDLINE; Embase; the World Health Organization International Clinical Trials Registry Platform; and ClinicalTrials.gov. 
+Selection criteria
+Randomised controlled trials looking at chemotherapy regimens containing capecitabine alone or in combination with other agents versus a control or similar regimen without capecitabine for treatment of breast cancer at any stage. The primary outcome measure for metastatic and adjuvant trials was overall survival (OS), and for neoadjuvant studies pathological complete response (pCR). 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias and certainty of evidence using the GRADE approach. Hazard ratios (HRs) were derived for time‐to‐event outcomes, and odds ratios (ORs) for dichotomous outcomes, and meta‐analysis was performed using a fixed‐effect model. 
+Main results
+We included 26 studies with outcome data by hormone receptor: 12 metastatic studies (n = 4325), 6 neoadjuvant trials (n = 3152), and 8 adjuvant studies (n = 13,457). 
+Capecitabine treatment was added in several different ways across studies. These could be classified as capecitabine alone compared to another treatment, capecitabine substituted for part of the control chemotherapy, and capecitabine added to control chemotherapy. 

@@ -1,0 +1,13 @@
+Background
+This is an update of the original Cochrane Review published in Issue 4, 2011.
+Attention deficit hyperactivity disorder (ADHD) is the most prevalent of the comorbid psychiatric disorders that complicate tic disorders. Medications commonly used to treat ADHD symptoms include stimulants such as methylphenidate and amphetamine; non‐stimulants, such as atomoxetine; tricyclic antidepressants; and alpha agonists. Alpha agonists are also used as a treatment for tics. Due to the impact of ADHD symptoms on the child with tic disorder, treatment of ADHD is often of greater priority than the medical management of tics. However, for many decades, clinicians have been reluctant to use stimulants to treat children with ADHD and tics for fear of worsening their tics.  
+Objectives
+To assess the effects of pharmacological treatments for ADHD in children with comorbid tic disorders on symptoms of ADHD and tics. 
+Search methods
+In September 2017, we searched CENTRAL, MEDLINE, Embase, and 12 other databases. We also searched two trial registers and contacted experts in the field for any ongoing or unpublished studies. 
+Selection criteria
+We included randomized, double‐blind, controlled trials of any pharmacological treatment for ADHD used specifically in children with comorbid tic disorders. We included both parallel‐group and cross‐over study designs. 
+Data collection and analysis
+We used standard methodological procedures of Cochrane, in that two review authors independently selected studies, extracted data using standardized forms, assessed risk of bias, and graded the overall quality of the evidence by using the GRADE approach. 
+Main results
+We included eight randomized controlled trials (four of which were cross‐over trials) with 510 participants (443 boys, 67 girls) in this review. Participants in these studies were children with both ADHD and a chronic tic disorder. All studies took place in the USA and ranged from three to 22 weeks in duration. Five of the eight studies were funded by charitable organizations or government agencies, or both. One study was funded by the drug manufacturer. The other two studies did not specify the source of funding. Risk of bias of included studies was low for blinding; low or unclear for random sequence generation, allocation concealment, and attrition bias; and low or high for selective outcome reporting. We were unable to combine any of the studies in a meta‐analysis due to important clinical heterogeneity and unit‐of‐analysis issues. 

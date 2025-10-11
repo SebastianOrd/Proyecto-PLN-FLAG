@@ -1,0 +1,12 @@
+Background
+Axial spondyloarthritis (axSpA) comprises ankylosing spondylitis (radiographic axSpA) and non‐radiographic (nr‐)axSpA and is associated with psoriasis, uveitis and inflammatory bowel disease. Non‐steroidal anti‐inflammatory drugs (NSAIDs) are recommended as first‐line drug treatment. 
+Objectives
+To determine the benefits and harms of NSAIDs in axSpA.
+Search methods
+We searched CENTRAL, MEDLINE and EMBASE to 18 June 2014.
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs of NSAIDs versus placebo or any comparator in adults with axSpA and observational cohort studies studying the long term effect (≥ six months) of NSAIDs on radiographic progression or adverse events (AEs). The main comparions were traditional or COX‐2 NSAIDs versus placebo. The major outcomes were pain, Bath Ankylosing Spondylitis Disease Activity Index (BASDAI), Bath Ankylosing Spondylitis Functional Index (BASFI), Bath Ankylosing Spondylitis Metrology Index (BASMI), radiographic progression, number of withdrawals due to AEs and number of serious AEs 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, assessed the risk of bias, extracted data and assessed the quality of evidence for major outcomes using GRADE. 
+Main results
+We included 39 studies (35 RCTs, two quasi‐RCTs and two cohort studies); and 29 RCTs and two quasi‐RCTs (n = 4356) in quantitative analyses for the comparisons: traditional NSAIDs versus placebo, cyclo‐oxygenase‐2 (COX‐2) versus placebo, COX‐2 versus traditional NSAIDs, NSAIDs versus NSAIDs, naproxen versus other NSAIDs, low versus high dose. Most trials were at unclear risk of selection bias (n = 29), although blinding of participants and personnel was adequate in 24 trials. Twenty‐five trials had low risk of attrition bias and 29 trials had low risk of reporting bias. Risk of bias in both cohort studies was high for study participation, and low or unclear for all other criteria. No trials in the meta‐analyses assessed patients with nr‐axSpA. 

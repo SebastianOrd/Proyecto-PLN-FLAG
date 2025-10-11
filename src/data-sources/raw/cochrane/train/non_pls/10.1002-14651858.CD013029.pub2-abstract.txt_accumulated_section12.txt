@@ -1,0 +1,12 @@
+Background
+Age‐related macular degeneration (AMD) is one of the leading causes of blindness in high‐income countries. The majority of cases of AMD are of the non‐exudative type. Experts have proposed photobiomodulation (PBM) therapy as a non‐invasive procedure to restore mitochondrial function, upregulate cytoprotective factors and prevent apoptotic cell death in retinal tissue affected by AMD. 
+Objectives
+To assess the effectiveness and safety of PBM compared to standard care, no treatment or sham treatment for people with non‐exudative AMD. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Trials Register) (Issue 5, 2020), Ovid MEDLINE, Embase, ISRCTN, ClinicalTrials.gov and the WHO ICTRP to 11 May 2020 with no language restrictions. 
+Selection criteria
+The review included randomised controlled trials (RCTs) on participants receiving any type of PBM therapy for non‐exudative AMD compared to standard care, sham treatment or no treatment. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We considered the following outcome measures at 12 months: best‐corrected visual acuity (BCVA) ; contrast sensitivity; near vision; low luminance density score; reading speed; vision‐related quality of life score; and adverse events such as progression of AMD and conversion to exudative AMD. We graded the certainty of the evidence using GRADE. 
+Main results
+We included two published RCTs from single centres in the UK and Canada, which recruited 60 participants (60 eyes) and 30 participants (46 eyes) respectively. Participants in these trials were people with non‐exudative AMD with Age‐Related Eye Disease Study (AREDS) categories 2 to 4. One study compared single wavelength PBM with no treatment. This study was at risk of performance bias because the study was not masked, and there was attrition bias. One study compared multi‐wavelength PBM with sham treatment and conflicts of interest were reported by study investigators. We also identified three eligible ongoing RCTs from searching the clinical trials database. 

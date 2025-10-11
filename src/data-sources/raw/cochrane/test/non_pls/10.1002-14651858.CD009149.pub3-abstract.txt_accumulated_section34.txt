@@ -1,0 +1,34 @@
+Background
+Community‐based primary‐level workers (PWs) are an important strategy for addressing gaps in mental health service delivery in low‐ and middle‐income countries.  
+Objectives
+To evaluate the effectiveness of PW‐led treatments for persons with mental health symptoms in LMICs, compared to usual care.  
+Search methods
+MEDLINE, Embase, CENTRAL, ClinicalTrials.gov, ICTRP, reference lists (to 20 June 2019).  
+Selection criteria
+Randomised trials of PW‐led or collaborative‐care interventions treating people with mental health symptoms or their carers in LMICs.  
+PWs included: primary health professionals (PHPs), lay health workers (LHWs), community non‐health professionals (CPs).  
+Data collection and analysis
+Seven conditions were identified apriori and analysed by disorder and PW examining recovery, prevalence, symptom change, quality‐of‐life (QOL), functioning, service use (SU), and adverse events (AEs).  
+Risk ratios (RRs) were used for dichotomous outcomes; mean difference (MDs), standardised mean differences (SMDs), or mean change differences (MCDs) for continuous outcomes.  
+For SMDs, 0.20 to 0.49 represented small, 0.50 to 0.79 moderate, and ≥0.80 large clinical effects.  
+Analysis timepoints: T1 (<1 month), T2 (1‐6 months), T3 ( >6 months) post‐intervention. 
+Main results
+Description of studies  
+95 trials (72 new since 2013) from 30 LMICs (25 trials from 13 LICs). 
+Risk of bias  
+Most common: detection bias, attrition bias (efficacy), insufficient protection against contamination.  
+Intervention effects  
+*Unless indicated, comparisons were usual care at T2. 
+“Probably”, “may”, or “uncertain” indicates "moderate", "low," or "very low" certainty evidence.   
+Adults with common mental disorders (CMDs)  
+LHW‐led interventions 
+a. may increase recovery (2 trials, 308 participants; RR 1.29, 95%CI 1.06 to 1.56);
+b. may reduce prevalence (2 trials, 479 participants; RR 0.42, 95%CI 0.18 to 0.96);
+c. may reduce symptoms (4 trials, 798 participants; SMD ‐0.59, 95%CI ‐1.01 to ‐0.16);
+d. may improve QOL (1 trial, 521 participants; SMD 0.51, 95%CI 0.34 to 0.69);
+e. may slightly reduce functional impairment (3 trials, 1399 participants; SMD ‐0.47, 95%CI ‐0.8 to ‐0.15); 
+f. may reduce AEs (risk of suicide ideation/attempts);
+g. may have uncertain effects on SU.
+Collaborative‐care 
+a. may increase recovery (5 trials, 804 participants; RR 2.26, 95%CI 1.50 to 3.43);
+b. may reduce prevalence although the actual effect range indicates it may have little‐or‐no effect (2 trials, 2820 participants; RR 0.57, 95%CI 0.32 to 1.01); 

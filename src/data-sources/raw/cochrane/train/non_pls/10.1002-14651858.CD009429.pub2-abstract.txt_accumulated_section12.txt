@@ -1,0 +1,12 @@
+Background
+Many people with epilepsy suffer from poorly controlled seizures, despite current antiepileptic treatments. Due to high rates of treatment resistance, there is interest in new pharmacological treatment options such as pregabalin. However, it remains unclear whether existing evidence of pregabalin is rigorous enough to support its monotherapy. 
+Objectives
+To determine the efficacy and tolerability of pregabalin in people with epilepsy.
+Search methods
+We searched the Cochrane Epilepsy Group's Specialized Register (August 2012), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 7 ), MEDLINE (1946 to August week 1, 2012), EMBASE (1974 to August 2012) and the Chinese Biomedical Literature Database (CBM) (1978 to August 2012). No language restrictions were imposed. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing pregabalin with placebo or another antiepileptic drug monotherapy for epilepsy. 
+Data collection and analysis
+Two review authors (QZ and LY) independently extracted trial data and assessed trial quality. We assessed the following outcomes: (1) time to withdrawal after randomisation; (2) time to achieve six‐, 12‐ or 24‐month remission; (3) the proportion of participants who remained seizure‐free for six or more continuous months; (4) time to first seizure after randomisation; (5) validated quality of life measures; (6) health economic outcomes; (7) adverse effects. We expressed time‐to‐event outcomes as hazard ratios (HRs) with 95% confidence interval (CI), where an HR > 1 indicates an event is more likely to occur earlier on pregabalin than the comparator. 
+Main results
+Two short‐term studies involving 753 participants met the inclusion criteria. Only one study investigated the effects of pregabalin compared with lamotrigine in patients with newly diagnosed partial seizures, and the other study investigated the effects of pregabalin compared with gabapentin in hospitalised patients with refractory partial epilepsy. There were no studies on generalised‐onset tonic‐clonic seizures (with or without other generalised seizure types). 

@@ -1,0 +1,10 @@
+Background
+Buruli ulcer is a necrotizing cutaneous infection caused by infection with Mycobacterium ulcerans bacteria that occurs mainly in tropical and subtropical regions. The infection progresses from nodules under the skin to deep ulcers, often on the upper and lower limbs or on the face. If left undiagnosed and untreated, it can lead to lifelong disfigurement and disabilities. It is often treated with drugs and surgery. 
+Objectives
+To summarize the evidence of drug treatments for treating Buruli ulcer.
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL), published in the Cochrane Library; MEDLINE (PubMed); Embase (Ovid); and LILACS (Latin American and Caribbean Health Sciences Literature; BIREME). We also searched the US National Institutes of Health Ongoing Trials Register (clinicaltrials.gov) and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en/). All searches were run up to 19 December 2017. We also checked the reference lists of articles identified by the literature search, and contacted leading researchers in this topic area to identify any unpublished data. 
+Selection criteria
+We included randomized controlled trials (RCTs) that compared antibiotic therapy to placebo or alternative therapy such as surgery, or that compared different antibiotic regimens. We also included prospective observational studies that evaluated different antibiotic regimens with or without surgery. 
+Data collection and analysis
+Two review authors independently applied the inclusion criteria, extracted the data, and assessed methodological quality. We calculated the risk ratio (RR) for dichotomous data with 95% confidence intervals (CI). We assessed the certainty of the evidence using the GRADE approach. 

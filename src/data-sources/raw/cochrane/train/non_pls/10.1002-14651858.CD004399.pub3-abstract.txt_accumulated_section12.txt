@@ -1,0 +1,12 @@
+Background
+Open angle glaucoma (OAG) is a common cause of blindness.
+Objectives
+To assess the effects of medication compared with initial surgery in adults with OAG.
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2012, Issue 7), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to August 2012), EMBASE (January 1980 to August 2012), Latin American and Caribbean Literature on Health Sciences (LILACS) (January 1982 to August 2012), Biosciences Information Service (BIOSIS) (January 1969 to August 2012), Cumulative Index to Nursing and Allied Health Literature (CINAHL) (January 1937 to August 2012), OpenGrey (System for Information on Grey Literature in Europe) (www.opengrey.eu/), Zetoc, the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 1 August 2012. The National Research Register (NRR) was last searched in 2007 after which the database was archived. We also checked the reference lists of articles and contacted researchers in the field. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing medications with surgery in adults with OAG. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We contacted study authors for missing information. 
+Main results
+Four trials involving 888 participants with previously untreated OAG were included. Surgery was Scheie's procedure in one trial and trabeculectomy in three trials. In three trials, primary medication was usually pilocarpine, in one trial it was a beta‐blocker. 

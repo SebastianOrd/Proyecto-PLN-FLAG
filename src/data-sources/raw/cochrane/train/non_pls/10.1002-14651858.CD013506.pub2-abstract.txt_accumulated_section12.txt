@@ -1,0 +1,12 @@
+Background
+Chronic obstructive pulmonary disease (COPD) is a chronic and progressive disease, often punctuated by recurrent flare‐ups or exacerbations. Magnesium sulfate, having a bronchodilatory effect, may have a potential role as an adjunct treatment in COPD exacerbations. However, comprehensive evidence of its effects is required to facilitate clinical decision‐making. 
+Objectives
+To assess the effects of magnesium sulfate for acute exacerbations of chronic obstructive pulmonary disease in adults. 
+Search methods
+We searched the Cochrane Airways Trials Register, CENTRAL, MEDLINE, Embase, ClinicalTrials.gov, the World Health Organization (WHO) trials portal, EU Clinical Trials Register and Iranian Registry of Clinical Trials. We also searched the proceedings of major respiratory conferences and reference lists of included studies up to 2 August 2021. 
+Selection criteria
+We included single‐ or double‐blind parallel‐group randomised controlled trials (RCTs) assessing magnesium sulfate in adults with COPD exacerbations. We excluded cross‐over trials. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Two review authors independently selected trials for inclusion, extracted data and assessed risk of bias. The primary outcomes were: hospital admissions (from the emergency room); need for non‐invasive ventilation (NIV), assisted ventilation or admission to intensive‐care unit (ICU); and serious adverse events. Secondary outcomes were: length of hospital stay, mortality, adverse events, dyspnoea score, lung function and blood gas measurements. We assessed confidence in the evidence using GRADE methodology. For missing data, we contacted the study investigators. 
+Main results
+We identified 11 RCTs (10 double‐blind and 1 single‐blind) with a total 762 participants. The mean age of participants ranged from 62 to 76 years. Trials were single‐ or two‐centre trials conducted in Iran, New Zealand, Nepal, Turkey, the UK, Tunisia and the USA between 2004 and 2018. We judged studies to be at low or unclear risk of bias for most of the domains. Three studies were at high risk for blinding and other biases.  

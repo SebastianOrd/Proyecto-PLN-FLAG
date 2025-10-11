@@ -1,0 +1,12 @@
+Background
+Moxibustion, a common treatment in traditional Chinese medicine, involves burning herbal preparations containing Artemisia vulgaris on or above the skin at acupuncture points. Its intended effect is to enhance body function, and it could reduce the side effects of chemotherapy or radiotherapy and improve quality of life (QoL) in people with cancer. 
+Objectives
+To assess the effects of moxibustion for alleviating side effects associated with chemotherapy, radiotherapy or both in people with cancer. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library, MEDLINE via Ovid, Embase via Ovid and AMED (Allied and Complementary Medicine Database) from their inception to February 2018. We also searched databases in China including the Chinese BioMedical Literature Database (CBM), Chinese Medical Current Contents (CMCC), TCMonline, Chinese Dissertation Database (CDDB), China Medical Academic Conference (CMAC) and Index to Chinese Periodical Literature from inception to August 2017. Registries for clinical trials and other resources were also searched. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing moxibustion treatment, including moxa cone and moxa stick, versus sham, no treatment or conventional treatment. 
+Data collection and analysis
+Two review authors (HWZ and FC) independently extracted data on study design, participants, treatment and control intervention, and outcome measures, and they also assessed risk of bias in the included studies. We performed meta‐analyses, expressing dichotomous outcomes as risk ratios (RR) and continuous outcomes as mean differences (MD), with 95% confidence intervals (CI). 
+Main results
+We included 29 RCTs involving 2569 participants. Five RCTs compared moxibustion versus no treatment, 15 compared moxibustion plus conventional treatment versus conventional treatment, one compared moxibustion versus sham moxibustion, and eight compared moxibustion versus conventional medicine. The overall risk of bias was high in 18 studies and unclear in 11 studies. Studies measured outcomes in various ways, and we could rarely pool data. 

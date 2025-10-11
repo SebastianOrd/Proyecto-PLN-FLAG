@@ -1,0 +1,12 @@
+Background
+Obstructive sleep apnoea (OSA) is characterised by partial or complete upper airway obstruction during sleep. Approximately 1% to 4% of children are affected by OSA, with adenotonsillar hypertrophy being the most common underlying risk factor. Surgical removal of enlarged adenoids or tonsils is the currently recommended first‐line treatment for OSA due to adenotonsillar hypertrophy. Given the perioperative risk and an estimated recurrence rate of up to 20% following surgery, there has recently been an increased interest in less invasive alternatives to adenotonsillectomy. As the enlarged adenoids and tonsils consist of hypertrophied lymphoid tissue, anti‐inflammatory drugs have been proposed as a potential non‐surgical treatment option in children with OSA. 
+Objectives
+To assess the efficacy and safety of anti‐inflammatory drugs for the treatment of OSA in children. 
+Search methods
+We identified trials from searches of the Cochrane Airways Group Specialised Register, CENTRAL and MEDLINE (1950 to 2019). For identification of ongoing clinical trials, we searched ClinicalTrials.gov and the World Health Organization (WHO) trials portal. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing anti‐inflammatory drugs against placebo in children between one and 16 years with objectively diagnosed OSA (apnoea/hypopnoea index (AHI) ≥ 1 per hour). 
+Data collection and analysis
+Two authors independently performed screening, data extraction, and quality assessment. We separately pooled results for the comparisons 'intranasal steroids' and 'montelukast' against placebo using random‐effects models. The primary outcomes for this review were AHI and serious adverse events. Secondary outcomes included the respiratory disturbance index, desaturation index, respiratory arousal index, nadir arterial oxygen saturation, mean arterial oxygen saturation, avoidance of surgical treatment for OSA, clinical symptom score, tonsillar size, and adverse events. 
+Main results
+We included five trials with a total of 240 children aged one to 18 years with mild to moderate OSA (AHI 1 to 30 per hour). All trials were performed in specialised sleep medicine clinics at tertiary care centres. Follow‐up time ranged from six weeks to four months. 

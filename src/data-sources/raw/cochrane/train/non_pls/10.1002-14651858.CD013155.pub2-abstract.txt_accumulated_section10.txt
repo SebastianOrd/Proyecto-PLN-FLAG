@@ -1,0 +1,10 @@
+Background
+Approximately 40% to 95% of people with liver cirrhosis have oesophageal varices. About 15% to 20% of oesophageal varices bleed within about one to three years after diagnosis. Several different treatments are available, including, among others, endoscopic sclerotherapy, variceal band ligation, somatostatin analogues, vasopressin analogues, and balloon tamponade. However, there is uncertainty surrounding the individual and relative benefits and harms of these treatments. 
+Objectives
+To compare the benefits and harms of different initial treatments for variceal bleeding from oesophageal varices in adults with decompensated liver cirrhosis, through a network meta‐analysis; and to generate rankings of the different treatments for acute bleeding oesophageal varices, according to their benefits and harms. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, Science Citation Index Expanded, World Health Organization International Clinical Trials Registry Platform, and trials registers until 17 December 2019, to identify randomised clinical trials (RCTs) in people with cirrhosis and acute bleeding from oesophageal varices. 
+Selection criteria
+We included only RCTs (irrespective of language, blinding, or status) in adults with cirrhosis and acutely bleeding oesophageal varices. We excluded RCTs in which participants had bleeding only from gastric varices, those who failed previous treatment (refractory bleeding), those in whom initial haemostasis was achieved before inclusion into the trial, and those who had previously undergone liver transplantation. 
+Data collection and analysis
+We performed a network meta‐analysis with OpenBUGS software, using Bayesian methods, and calculated the differences in treatments using odds ratios (OR) and rate ratios with 95% credible intervals (CrI) based on an available‐case analysis, according to National Institute of Health and Care Excellence Decision Support Unit guidance. We performed also the direct comparisons from RCTs using the same codes and the same technical details. 

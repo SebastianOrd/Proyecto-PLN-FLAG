@@ -1,0 +1,10 @@
+Background
+Intracranial vascular malformations (brain or pial/dural arteriovenous malformations/fistulae, and aneurysms) are the leading cause of intracerebral haemorrhage (ICH) in young adults. Early identification of the intracranial vascular malformation may improve outcome if treatment can prevent ICH recurrence. Catheter intra‐arterial digital subtraction angiography (IADSA) is considered the reference standard for the detection an intracranial vascular malformation as the cause of ICH. Computed tomography angiography (CTA) and magnetic resonance angiography (MRA) are less invasive than IADSA and may be as accurate for identifying some causes of ICH. 
+Objectives
+To evaluate the diagnostic test accuracy of CTA and MRA versus IADSA for the detection of intracranial vascular malformations as a cause of ICH. 
+Search methods
+We searched MEDLINE (1948 to August 2013), EMBASE (1980 to August 2013), MEDION (August 2013), the Database of Abstracts of Reviews of Effects (DARE; August 2013), the Health Technology Assessment Database (HTA; August 2013), ClinicalTrials.gov (August 2013), and WHO ICTRP (International Clinical Trials Register Portfolio; August 2013). We also performed a cited reference search for forward tracking of relevant articles on Google Scholar (http://scholar.google.com/), screened bibliographies, and contacted authors to identify additional studies. 
+Selection criteria
+We selected studies reporting data that could be used to construct contingency tables that compared CTA or MRA, or both, with IADSA in the same patients for the detection of intracranial vascular malformations following ICH. 
+Data collection and analysis
+Two authors (CBJ and RA‐SS) independently extracted data on study characteristics and measures of test accuracy. Two authors (CBJ and PMW) independently extracted data on test characteristics. We obtained data restricted to the subgroup undergoing IADSA in studies using multiple reference standards. We combined data using the bivariate model. We generated forest plots of the sensitivity and specificity of CTA and MRA and created a summary receiver operating characteristic plot. 

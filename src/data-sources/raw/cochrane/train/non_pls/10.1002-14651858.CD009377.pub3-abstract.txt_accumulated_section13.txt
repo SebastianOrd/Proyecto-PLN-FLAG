@@ -1,0 +1,13 @@
+Background
+Haloperidol used alone is recommended to help calm situations of aggression or agitation for people with psychosis. It is widely accessible and may be the only antipsychotic medication available in limited‐resource areas. 
+Objectives
+To examine whether haloperidol alone is an effective treatment for psychosis‐induced aggression or agitation, wherein clinicians are required to intervene to prevent harm to self and others. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Study‐Based Register of Trials (26th May 2016). This register is compiled by systematic searches of major resources (including AMED, BIOSIS CINAHL, Embase, MEDLINE, PsycINFO, PubMed, and registries of clinical trials) and their monthly updates, handsearches, grey literature, and conference proceedings, with no language, date, document type, or publication status limitations for inclusion of records into the register. 
+Selection criteria
+Randomised controlled trials (RCTs) involving people exhibiting aggression and/or agitation thought to be due to psychosis, allocated rapid use of haloperidol alone (by any route), compared with any other treatment. Outcomes of interest included tranquillisation or asleep by 30 minutes, repeated need for rapid tranquillisation within 24 hours, specific behaviours (threat or injury to others/self), adverse effects. We included trials meeting our selection criteria and providing useable data. 
+Data collection and analysis
+We independently inspected all citations from searches, identified relevant abstracts, and independently extracted data from all included studies. For binary data we calculated risk ratio (RR), for continuous data we calculated mean difference (MD), and for cognitive outcomes we derived standardised mean difference (SMD) effect sizes, all with 95% confidence intervals (CI) and using a fixed‐effect model. We assessed risk of bias for the included studies and used the GRADE approach to produce 'Summary of findings' tables which included our pre‐specified main outcomes of interest. 
+Main results
+We found nine new RCTs from the 2016 update search, giving a total of 41 included studies and 24 comparisons. Few studies were undertaken in circumstances that reflect real‐world practice, and, with notable exceptions, most were small and carried considerable risk of bias. Due to the large number of comparisons, we can only present a summary of main results. 
+Compared with placebo, more people in the haloperidol group were asleep at two hours (2 RCTs, n=220, RR 0.88, 95%CI 0.82 to 0.95, very low‐quality evidence) and experienced dystonia (2 RCTs, n=207, RR 7.49, 95%CI 0.93 to 60.21, very low‐quality evidence). 

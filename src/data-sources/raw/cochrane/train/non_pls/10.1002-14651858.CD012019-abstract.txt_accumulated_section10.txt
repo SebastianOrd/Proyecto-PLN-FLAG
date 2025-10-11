@@ -1,0 +1,10 @@
+Background
+About 10% of reproductive‐aged women suffer from endometriosis which is a costly chronic disease that causes pelvic pain and subfertility. Laparoscopy is the 'gold standard' diagnostic test for endometriosis, but it is expensive and carries surgical risks. Currently, there are no simple non‐invasive or minimally‐invasive tests available in clinical practice that accurately diagnoses endometriosis. 
+Objectives
+1. To provide summary estimates of the diagnostic accuracy of urinary biomarkers for the diagnosis of pelvic endometriosis compared to surgical diagnosis as a reference standard. 
+2. To assess the diagnostic utility of biomarkers that could differentiate ovarian endometrioma from other ovarian masses. 
+Urinary biomarkers were evaluated as replacement tests for surgical diagnosis and as triage tests to inform decisions to undertake surgery for endometriosis. 
+Search methods
+The searches were not restricted to particular study design, language or publication dates. We searched the following databases to 20 April ‐ 31 July 2015: CENTRAL, MEDLINE, EMBASE, CINAHL, PsycINFO, Web of Science, LILACS, OAIster, TRIP and ClinicalTrials.gov (trial register). MEDION, DARE, and PubMed were also searched to identify reviews and guidelines as reference sources of potentially relevant studies. Recently published papers not yet indexed in the major databases were also sought. The search strategy incorporated words in the title, abstract, text words across the record and the medical subject headings (MeSH) and was modified for each database. 
+Selection criteria
+Published peer‐reviewed, randomised controlled or cross‐sectional studies of any size were considered, which included prospectively collected samples from any population of reproductive‐aged women suspected of having one or more of the following target conditions: ovarian, peritoneal or deep infiltrating endometriosis (DIE). We included studies comparing the diagnostic test accuracy of one or more urinary biomarkers with surgical visualisation of endometriotic lesions. 

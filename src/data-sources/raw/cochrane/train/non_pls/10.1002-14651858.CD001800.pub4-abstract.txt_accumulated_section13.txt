@@ -1,0 +1,13 @@
+Background
+Coronary heart disease (CHD) is the most common cause of death globally. However, with falling CHD mortality rates, an increasing number of people living with CHD may need support to manage their symptoms and prognosis. Exercise‐based cardiac rehabilitation (CR) aims to improve the health and outcomes of people with CHD. This is an update of a Cochrane Review previously published in 2016. 
+Objectives
+To assess the clinical effectiveness and cost‐effectiveness of exercise‐based CR (exercise training alone or in combination with psychosocial or educational interventions) compared with 'no exercise' control, on mortality, morbidity and health‐related quality of life (HRQoL) in people with CHD. 
+Search methods
+We updated searches from the previous Cochrane Review, by searching CENTRAL, MEDLINE, Embase, and two other databases in September 2020. We also searched two clinical trials registers in June 2021. 
+Selection criteria
+We included randomised controlled trials (RCTs) of exercise‐based interventions with at least six months’ follow‐up, compared with 'no exercise' control. The study population comprised adult men and women who have had a myocardial infarction (MI), coronary artery bypass graft (CABG) or percutaneous coronary intervention (PCI), or have angina pectoris, or coronary artery disease. 
+Data collection and analysis
+We screened all identified references, extracted data and assessed risk of bias according to Cochrane methods. We stratified meta‐analysis by duration of follow‐up: short‐term (6 to 12 months); medium‐term (> 12 to 36 months); and long‐term ( > 3 years), and used meta‐regression to explore potential treatment effect modifiers. We used GRADE for primary outcomes at 6 to 12 months (the most common follow‐up time point).  
+Main results
+This review included 85 trials which randomised 23,430 people with CHD. This latest update identified 22 new trials (7795 participants). The population included predominantly post‐MI and post‐revascularisation patients, with a mean age ranging from 47 to 77 years. 
+In the last decade, the median percentage of women with CHD has increased from 11% to 17%, but females still account for a similarly small percentage of participants recruited overall ( < 15%). Twenty‐one of the included trials were performed in low‐ and middle‐income countries (LMICs). Overall trial reporting was poor, although there was evidence of an improvement in quality over the last decade. The median longest follow‐up time was 12 months (range 6 months to 19 years). 

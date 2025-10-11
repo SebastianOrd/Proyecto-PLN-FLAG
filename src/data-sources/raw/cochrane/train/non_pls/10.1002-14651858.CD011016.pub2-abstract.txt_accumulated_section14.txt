@@ -1,0 +1,14 @@
+Background
+Polyunsaturated fatty acid (PUFA) supplements, involving omega‐3 and/or omega‐6 components, have been proposed as a therapy for dry eye. Omega‐3 PUFAs exist in both short‐ (alpha‐linolenic acid [ALA]) and long‐chain (eicosapentaenoic acid [EPA] and docosahexaenoic acid [DHA]) forms, which largely derive from certain plant‐ and marine‐based foods respectively. Omega‐6 PUFAs are present in some vegetable oils, meats, and other animal products. 
+Objectives
+To assess the effects of omega‐3 and omega‐6 polyunsaturated fatty acid (PUFA) supplements on dry eye signs and symptoms. 
+Search methods
+CENTRAL, Medline, Embase, two other databases and three trial registries were searched in February 2018, together with reference checking. A top‐up search was conducted in October 2019, but the results have not yet been incorporated. 
+Selection criteria
+We included randomized controlled trials (RCTs) involving dry eye participants, in which omega‐3 and/or omega‐6 supplements were compared with a placebo/control supplement, artificial tears, or no treatment. We included head‐to‐head trials comparing different forms or doses of PUFAs. 
+Data collection and analysis
+We followed standard Cochrane methods and assessed the certainty of the evidence using GRADE. 
+Main results
+We included 34 RCTs, involving 4314 adult participants from 13 countries with dry eye of variable severity and etiology. Follow‐up ranged from one to 12 months. Nine (26.5%) studies had published protocols and/or were registered. Over half of studies had high risk of bias in one or more domains. 
+Long‐chain omega‐3 (EPA and DHA) versus placebo or no treatment (10 RCTs) 
+We found low certainty evidence that there may be little to no reduction in dry eye symptoms with long‐chain omega‐3 versus placebo (four studies, 677 participants; mean difference [MD] ‐2.47, 95% confidence interval [CI] ‐5.14 to 0.19 units). We found moderate certainty evidence for a probable benefit of long‐chain omega‐3 supplements in increasing aqueous tear production relative to placebo (six studies, 1704 participants; MD 0.68, 95% CI 0.26 to 1.09 mm/5 min using the Schirmer test), although we did not judge this difference to be clinically meaningful. We found low certainty evidence for a possible reduction in tear osmolarity (one study, 54 participants; MD ‐17.71, 95% CI ‐28.07 to ‐7.35 mOsmol/L). Heterogeneity was too substantial to pool data on tear break‐up time (TBUT) and adverse effects. 

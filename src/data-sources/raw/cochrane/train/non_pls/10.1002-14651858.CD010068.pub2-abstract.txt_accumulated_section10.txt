@@ -1,0 +1,10 @@
+Background
+Vitamin A deficiency is a significant public health problem in many low‐ and middle‐income countries, especially affecting young children, women of reproductive age, and pregnant women. Fortification of staple foods with vitamin A has been used to increase vitamin A consumption among these groups. 
+Objectives
+To assess the effects of fortifying staple foods with vitamin A for reducing vitamin A deficiency and improving health‐related outcomes in the general population older than two years of age. 
+Search methods
+We searched the following international databases with no language or date restrictions: Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 6) in the Cochrane Library; MEDLINE and MEDLINE In Process OVID; Embase OVID; CINAHL Ebsco; Web of Science (ISI) SCI, SSCI, CPCI‐exp and CPCI‐SSH; BIOSIS (ISI); POPLINE; Bibliomap; TRoPHI; ASSIA (Proquest); IBECS; SCIELO; Global Index Medicus ‐ AFRO and EMRO; LILACS; PAHO; WHOLIS; WPRO; IMSEAR; IndMED; and Native Health Research Database. We also searched clinicaltrials.gov and the International Clinical Trials Registry Platform to identify ongoing and unpublished studies. The date of the last search was 19 July 2018. 
+Selection criteria
+We included individually or cluster‐randomised controlled trials (RCTs) in this review. The intervention included fortification of staple foods (sugar, edible oils, edible fats, maize flour or corn meal, wheat flour, milk and dairy products, and condiments and seasonings) with vitamin A alone or in combination with other vitamins and minerals. We included the general population older than two years of age (including pregnant and lactating women) from any country. 
+Data collection and analysis
+Two authors independently screened and assessed eligibility of studies for inclusion, extracted data from included studies and assessed their risk of bias. We used standard Cochrane methodology to carry out the review. 

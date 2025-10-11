@@ -1,0 +1,14 @@
+Background
+Acne vulgaris is a very common skin problem that presents with blackheads, whiteheads, and inflamed spots. It frequently results in physical scarring and may cause psychological distress. The use of oral and topical treatments can be limited in some people due to ineffectiveness, inconvenience, poor tolerability or side‐effects. Some studies have suggested promising results for light therapies. 
+Objectives
+To explore the effects of light treatment of different wavelengths for acne.
+Search methods
+We searched the following databases up to September 2015: the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, Embase and LILACS. We searched ISI Web of Science and Dissertation Abstracts International (from inception). We also searched five trials registers, and grey literature sources. We checked the reference lists of studies and reviews and consulted study authors and other experts in the field to identify further references to relevant randomised controlled trials (RCTs). We updated these searches in July 2016 but these results have not yet been incorporated into the review. 
+Selection criteria
+We included RCTs of light for treatment of acne vulgaris, regardless of language or publication status. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 71 studies, randomising a total of 4211 participants.
+Most studies were small (median 31 participants) and included participants with mild to moderate acne of both sexes and with a mean age of 20 to 30 years. Light interventions differed greatly in wavelength, dose, active substances used in photodynamic therapy (PDT), and comparator interventions (most commonly no treatment, placebo, another light intervention, or various topical treatments). Numbers of light sessions varied from one to 112 (most commonly two to four). Frequency of application varied from twice daily to once monthly. 
+Selection and performance bias were unclear in the majority of studies. Detection bias was unclear for participant‐assessed outcomes and low for investigator‐assessed outcomes in the majority of studies. Attrition and reporting bias were low in over half of the studies and unclear or high in the rest. Two thirds of studies were industry‐sponsored; study authors either reported conflict of interest, or such information was not declared, so we judged the risk of bias as unclear. 

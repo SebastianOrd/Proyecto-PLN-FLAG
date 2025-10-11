@@ -1,0 +1,10 @@
+Background
+Approximately 40% to 95% of people with cirrhosis have oesophageal varices. About 15% to 20% of oesophageal varices bleed in about one to three years. There are several different treatments to prevent bleeding, including: beta‐blockers, endoscopic sclerotherapy, and variceal band ligation. However, there is uncertainty surrounding their individual and relative benefits and harms. 
+Objectives
+To compare the benefits and harms of different treatments for prevention of first variceal bleeding from oesophageal varices in adults with liver cirrhosis through a network meta‐analysis and to generate rankings of the different treatments for prevention of first variceal bleeding from oesophageal varices according to their safety and efficacy. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, Science Citation Index Expanded, World Health Organization International Clinical Trials Registry Platform, and trials registers to December 2019 to identify randomised clinical trials in people with cirrhosis and oesophageal varices with no history of bleeding. 
+Selection criteria
+We included only randomised clinical trials (irrespective of language, blinding, or status) in adults with cirrhosis and oesophageal varices with no history of bleeding. We excluded randomised clinical trials in which participants had previous bleeding from oesophageal varices and those who had previously undergone liver transplantation or previously received prophylactic treatment for oesophageal varices. 
+Data collection and analysis
+We performed a network meta‐analysis with OpenBUGS using Bayesian methods and calculated the differences in treatments using hazard ratios (HR), odds ratios (OR), and rate ratios with 95% credible intervals (CrI) based on an available‐case analysis, according to National Institute for Health and Care Excellence Decision Support Unit guidance. We performed the direct comparisons from randomised clinical trials using the same codes and the same technical details. 

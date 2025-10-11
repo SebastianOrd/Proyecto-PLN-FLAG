@@ -1,0 +1,14 @@
+Background
+Onychomycosis refers to fungal infections of the nail apparatus that may cause pain, discomfort, and disfigurement. This is an update of a Cochrane Review published in 2007; a substantial amount of new research warrants a review exclusively on toenails. 
+Objectives
+To assess the clinical and mycological effects of topical drugs and device‐based therapies for toenail onychomycosis. 
+Search methods
+We searched the following databases up to May 2019: the Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase and LILACS. We also searched five trials registers, and checked the reference lists of included and excluded studies for further references to relevant randomised controlled trials. 
+Selection criteria
+Randomised controlled trials of topical and device‐based therapies for onychomycosis in participants with toenail onychomycosis, confirmed by positive cultures, direct microscopy, or histological nail examination. Eligible comparators were placebo, vehicle, no treatment, or an active topical or device‐based treatment. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Primary outcomes were complete cure rate (normal‐looking nail plus fungus elimination, determined with laboratory methods) and number of participants reporting treatment‐related adverse events. 
+Main results
+We included 56 studies (12,501 participants, average age: 27 to 68 years), with mainly mild‐to‐moderate onychomycosis without matrix involvement (where reported). Participants had more than one toenail affected. Most studies lasted 48 to 52 weeks; 23% reported disease duration (variable). Thirty‐five studies specifically examined dermatophyte‐caused onychomycosis. Forty‐three studies were carried out in outpatient settings. Most studies assessed topical treatments, 9% devices, and 11% both. 
+We rated three studies at low risk of bias across all domains. The most common high‐risk domain was performance bias. We present results for key comparisons, where treatment duration was 36 or 48 weeks, and clinical outcomes were measured at 40 to 52 weeks. 
+Based on two studies (460 participants), compared with vehicle, ciclopirox 8% lacquer may be more effective in achieving complete cure (risk ratio (RR) 9.29, 95% confidence interval (CI) 1.72 to 50.14; low‐quality evidence) and is probably more effective in achieving mycological cure (RR 3.15, 95% CI 1.93 to 5.12; moderate‐quality evidence). Ciclopirox lacquer may lead to increased adverse events, commonly application reactions, rashes, and nail alteration (e.g. colour, shape). However, the 95% CI indicates that ciclopirox lacquer may actually make little or no difference (RR 1.61, 95% CI 0.89 to 2.92; low‐quality evidence). 

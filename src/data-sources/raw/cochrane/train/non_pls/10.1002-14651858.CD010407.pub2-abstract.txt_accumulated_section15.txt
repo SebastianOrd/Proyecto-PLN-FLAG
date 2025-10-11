@@ -1,0 +1,15 @@
+Background
+Various hormone therapies (HT) are available to treat menopausal vasomotor symptoms. Bioidentical hormones are chemically identical to those produced by the human body, and several types are well‐tested and available on prescription. Many women have opted for bioidentical hormone therapy (BHT) on the assumption that it is safer than other forms of HT. We evaluated the evidence. 
+Objectives
+To determine the effectiveness and safety of bioidentical hormones compared to placebo or non‐bioidentical hormones for the relief of vasomotor symptoms. 
+Search methods
+In July 2015 we searched the Cochrane Central Register of Controlled Trials, PubMed, Embase, Literatura Latino‐Americana e do Caribe em Ciências da Saúde (LILACS), registers of ongoing trials and the reference lists of articles retrieved. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing bioidentical hormone therapy (BHT) versus placebo or non‐bioidentical hormones. 
+Data collection and analysis
+We used standard methodological procedures expected by the Cochrane Collaboration. Our primary outcome was vasomotor symptoms (hot flushes and night sweats). We evaluated the overall quality of the evidence using Grading of Recommendations Assessment, Development and Evaluation criteria (GRADE). 
+Main results
+We included 23 RCTs (5779 participants). Most studies (20/23) included only women with moderate to severe hot flushes. All studies compared unopposed 17 beta‐estradiol (beta‐estradiol) versus placebo or conjugated equine estrogens (CEE). None of the studies reported night sweats as a separate outcome. 
+BHT patch versus placebo 
+Frequency of hot flushes 
+Four RCTs reported data suitable for analysis. There were fewer hot flushes in the BHT group, with a moderate to large effect size (SMD ‐0.68, 95% CI ‐0.83 to ‐0.53, four RCTs, 793 women, I2 = 67%, low quality evidence). There was moderate heterogeneity, but a consistent direction of effect. Seven RCTs reported data unsuitable for analysis; all reported a benefit in the intervention group. 

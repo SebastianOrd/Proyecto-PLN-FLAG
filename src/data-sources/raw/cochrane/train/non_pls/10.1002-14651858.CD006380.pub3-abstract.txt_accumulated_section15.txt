@@ -1,0 +1,15 @@
+Background
+This is an updated version of the original Cochrane review published in Issue 12, 2011. Phantom limb pain (PLP) is pain that arises in the missing limb after amputation and can be severe, intractable, and disabling. Various medications have been studied in the treatment of phantom pain. There is currently uncertainty in the optimal pharmacologic management of PLP. 
+Objectives
+This review aimed to summarise the evidence of effectiveness of pharmacologic interventions in treating PLP. 
+Search methods
+For this update, we searched the Cochrane Central Register of Controlled Trials (CENTRAL, the Cochrane Library), MEDLINE, and Embase for relevant studies. We ran the searches for the original review in September 2011 and subsequent searches for this update up to April 2016. We sought additional studies from clinical trials databases and reference lists of retrieved papers. 
+Selection criteria
+We included randomised and quasi‐randomised trials studying the effectiveness of pharmacologic interventions compared with placebo, another active treatment, or no treatment, in established PLP. We considered the following outcomes: change in pain intensity, function, sleep, depression or mood, quality of life, adverse events, treatment satisfaction, and withdrawals from the study. 
+Data collection and analysis
+We independently assessed issues of study quality and extracted efficacy and adverse event data. Due to the wide variability in the studies, we did not perform a meta‐analysis for all the interventions and outcomes, but attempted to pool the results of some studies where possible. We prepared a qualitative description and narrative summary of results. We assessed clinical heterogeneity by making qualitative comparisons of the populations, interventions, outcomes/outcome measures, and methods. 
+Main results
+We added only one new study with 14 participants to this updated review. We included a 14 studies (10 with low risk of bias and 4 with unclear risk of bias overall) with a total of 269 participants. We added another drug class, botulinum neurotoxins (BoNTs), in particular botulinum toxin A (BoNT/A), to the group of medications reviewed previously. Our primary outcome was change in pain intensity. Most studies did not report our secondary outcomes of sleep, depression or mood, quality of life, treatment satisfaction, or withdrawals from the study. 
+BoNT/A did not improve phantom limb pain intensity during the six months of follow‐up compared with lidocaine/methylprednisolone. 
+Compared with placebo, morphine (oral and intravenous) was effective in decreasing pain intensity in the short term with reported adverse events being constipation, sedation, tiredness, dizziness, sweating, voiding difficulty, vertigo, itching, and respiratory problems. 
+The N‐methyl D‐aspartate (NMDA) receptor antagonists ketamine (versus placebo; versus calcitonin) and dextromethorphan (versus placebo), but not memantine, had analgesic effects. The adverse events of ketamine were more serious than placebo and calcitonin and included loss of consciousness, sedation, hallucinations, hearing and position impairment, and insobriety. 

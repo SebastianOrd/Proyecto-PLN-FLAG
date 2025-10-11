@@ -1,0 +1,10 @@
+Background
+Chronic subdural haematoma (CSDH) is one of the most common types of intracranial haematoma, and often occurs in older people. Burr‐hole craniostomy, which is an evacuation through one or two burr holes drilled over the site of the haematoma, has been widely accepted as the most effective way to manage CSDH. Recurrences are a major problem and need reoperation, sometimes repeatedly. 
+Objectives
+To assess the effects and safety of the use of external drains versus no drains after burr‐hole evacuation for the treatment of CSDH in adults. 
+Search methods
+We ran our first search on 27 November 2014. We searched the Cochrane Injuries Group's Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL, the Cochrane Library), MEDLINE (OvidSP), Embase Classic+Embase (OvidSP), PubMed, ISI WOS (SCI‐EXPANDED, SSCI, CPCI‐S and CPSI‐SSH), Chinese databases, and clinical trials registers, and screened reference lists. In compliance with the MECIR conduct standard 37, the Cochrane Injuries Group Information Specialist ran an update search within 12 months of publication (25 April 2016). We have screened these results but not incorporated the findings into the current review; as a result of the update search, one trial is awaiting classification. 
+Selection criteria
+We included randomized controlled trials (RCTs) that compared external subdural drains with no drains after burr‐hole evacuation for the treatment of CSDH in adults. 
+Data collection and analysis
+Two review authors identified potential articles from the literature search, extracted data independently using a data extraction form and assessed risk of bias using the Cochrane ‘Risk of bias' tool. For dichotomous data, where statistical heterogeneity was low, we calculated summary risk ratios with 95% confidence intervals using a fixed‐effect model. 

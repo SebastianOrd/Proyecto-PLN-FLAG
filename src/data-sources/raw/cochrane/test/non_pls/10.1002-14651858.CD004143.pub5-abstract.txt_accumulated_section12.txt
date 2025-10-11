@@ -1,0 +1,12 @@
+Background
+Hormone therapy (HT) is widely provided for control of menopausal symptoms and has been used for the management and prevention of cardiovascular disease, osteoporosis and dementia in older women. This is an updated version of a Cochrane review first published in 2005. 
+Objectives
+To assess effects of long‐term HT (at least 1 year's duration) on mortality, cardiovascular outcomes, cancer, gallbladder disease, fracture and cognition in perimenopausal and postmenopausal women during and after cessation of treatment. 
+Search methods
+We searched the following databases to September 2016: Cochrane Gynaecology and Fertility Group Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase and PsycINFO. We searched the registers of ongoing trials and reference lists provided in previous studies and systematic reviews. 
+Selection criteria
+We included randomised double‐blinded studies of HT versus placebo, taken for at least 1 year by perimenopausal or postmenopausal women. HT included oestrogens, with or without progestogens, via the oral, transdermal, subcutaneous or intranasal route. 
+Data collection and analysis
+Two review authors independently selected studies, assessed risk of bias and extracted data. We calculated risk ratios (RRs) for dichotomous data and mean differences (MDs) for continuous data, along with 95% confidence intervals (CIs). We assessed the quality of the evidence by using GRADE methods. 
+Main results
+We included 22 studies involving 43,637 women. We derived nearly 70% of the data from two well‐conducted studies (HERS 1998; WHI 1998). Most participants were postmenopausal American women with at least some degree of comorbidity, and mean participant age in most studies was over 60 years. None of the studies focused on perimenopausal women. 

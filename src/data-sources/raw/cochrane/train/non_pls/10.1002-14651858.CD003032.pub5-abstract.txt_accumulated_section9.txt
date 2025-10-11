@@ -1,0 +1,9 @@
+Background
+This is an updated version of the Cochrane Review previously published in 2019.
+Absence seizures (AS) are brief epileptic seizures which present in childhood and adolescence. Depending on clinical features and electroencephalogram (EEG) findings they are divided into typical, atypical absences, and absences with special features. Typical absences are characterised by sudden loss of awareness and an EEG typically shows generalised spike wave discharges at three cycles per second. Ethosuximide, valproate and lamotrigine are currently used to treat absence seizures. This review aims to determine the best choice of antiepileptic drug for children and adolescents with AS. 
+Objectives
+To review the evidence for the effects of ethosuximide, valproate and lamotrigine as treatments for children and adolescents with absence seizures (AS), when compared with placebo or each other. 
+Search methods
+For the latest update we searched the Cochrane Register of Studies (CRS Web, 22 September 2020) and MEDLINE (Ovid, 1946 to September 21, 2020). CRS Web includes randomised or quasi‐randomised, controlled trials from PubMed, Embase, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform (ICTRP), the Cochrane Central Register of Controlled Trials (CENTRAL), and the Specialized Registers of Cochrane Review Groups including Epilepsy. No language restrictions were imposed. In addition, we contacted Sanofi Winthrop, Glaxo Wellcome (now GlaxoSmithKline) and Parke Davis (now Pfizer), manufacturers of sodium valproate, lamotrigine and ethosuximide respectively. 
+Selection criteria
+Randomised parallel group monotherapy or add‐on trials which include a comparison of any of the following in children or adolescents with AS: ethosuximide, sodium valproate, lamotrigine, or placebo. 

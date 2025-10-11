@@ -1,0 +1,12 @@
+Background
+Foot ulceration is a major problem in people with diabetes and is the leading cause of hospitalisation and limb amputations. Skin grafts and tissue replacements can be used to reconstruct skin defects for people with diabetic foot ulcers in addition to providing them with standard care. Skin substitutes can consist of bioengineered or artificial skin, autografts (taken from the patient), allografts (taken from another person) or xenografts (taken from animals). 
+Objectives
+To determine the benefits and harms of skin grafting and tissue replacement for treating foot ulcers in people with diabetes. 
+Search methods
+In April 2015 we searched: The Cochrane Wounds Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE and EBSCO CINAHL. We also searched clinical trial registries to identify ongoing studies. We did not apply restrictions to language, date of publication or study setting. 
+Selection criteria
+Randomised clinical trials (RCTs) of skin grafts or tissue replacements for treating foot ulcers in people with diabetes. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the quality of the included studies. 
+Main results
+We included seventeen studies with a total of 1655 randomised participants in this review. Risk of bias was variable among studies. Blinding of participants, personnel and outcome assessment was not possible in most trials because of obvious differences between the treatments. The lack of a blinded outcome assessor may have caused detection bias when ulcer healing was assessed. However, possible detection bias is hard to prevent due to the nature of the skin replacement products we assessed, and the fact that they are easily recognisable. Strikingly, nearly all studies (15/17) reported industry involvement; at least one of the authors was connected to a commercial organisation or the study was funded by a commercial organisation. In addition, the funnel plot for assessing risk of bias appeared to be asymmetrical; suggesting that small studies with 'negative' results are less likely to be published. 

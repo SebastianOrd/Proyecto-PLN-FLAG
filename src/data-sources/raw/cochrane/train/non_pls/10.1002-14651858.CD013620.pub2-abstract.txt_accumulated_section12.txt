@@ -1,0 +1,12 @@
+Background
+Pressure ulcers (also known as pressure injuries, pressure sores, decubitus ulcers and bed sores) are localised injuries to the skin or underlying soft tissue, or both, caused by unrelieved pressure, shear or friction. Alternating pressure (active) air surfaces are widely used with the aim of preventing pressure ulcers. 
+Objectives
+To assess the effects of alternating pressure (active) air surfaces (beds, mattresses or overlays) compared with any support surface on the incidence of pressure ulcers in any population in any setting. 
+Search methods
+In November 2019, we searched the Cochrane Wounds Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE (including In‐Process & Other Non‐Indexed Citations); Ovid Embase and EBSCO CINAHL Plus. We also searched clinical trials registries for ongoing and unpublished studies, and scanned reference lists of relevant included studies as well as reviews, meta‐analyses and health technology reports to identify additional studies. There were no restrictions with respect to language, date of publication or study setting. 
+Selection criteria
+We included randomised controlled trials that allocated participants of any age to alternating pressure (active) air beds, overlays or mattresses. Comparators were any beds, overlays or mattresses. 
+Data collection and analysis
+At least two review authors independently assessed studies using predetermined inclusion criteria. We carried out data extraction, 'Risk of bias' assessment using the Cochrane 'Risk of bias' tool, and the certainty of the evidence assessment according to Grading of Recommendations, Assessment, Development and Evaluations methodology. 
+Main results
+We included 32 studies (9058 participants) in the review. Most studies were small (median study sample size: 83 participants). The average age of participants ranged from 37.2 to 87.0 years (median: 69.1 years). Participants were largely from acute care settings (including accident and emergency departments). We synthesised data for six comparisons in the review: alternating pressure (active) air surfaces versus: foam surfaces, reactive air surfaces, reactive water surfaces, reactive fibre surfaces, reactive gel surfaces used in the operating room followed by foam surfaces used on the ward bed, and another type of alternating pressure air surface. Of the 32 included studies, 25 (78.1%) presented findings which were considered at high overall risk of bias. 

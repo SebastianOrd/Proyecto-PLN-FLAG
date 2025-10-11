@@ -1,0 +1,10 @@
+Background
+Febrile neutropenia is a frequent adverse event experienced by people with cancer who are undergoing chemotherapy, and is a potentially life‐threatening situation. The current treatment is supportive care plus antibiotics. Colony‐stimulating factors (CSFs), such as granulocyte‐CSF (G‐CSF) and granulocyte‐macrophage CSF (GM‐CSF), are cytokines that stimulate and accelerate the production of one or more cell lines in the bone marrow. Clinical trials have addressed the question of whether the addition of a CSF to antibiotics could improve outcomes in individuals diagnosed with febrile neutropenia. However, the results of these trials are conflicting. 
+Objectives
+To evaluate the safety and efficacy of adding G‐CSF or GM‐CSF to standard treatment (antibiotics) when treating chemotherapy‐induced febrile neutropenia in individuals diagnosed with cancer. 
+Search methods
+We conducted the search in March 2014 and covered the major electronic databases: the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, LILACS, and SCI. We contacted experts in hematology and oncology and also scanned the citations from the relevant articles. In addition, we also searched for economic evaluations via MEDLINE(R) In‐Process & Other Non‐Indexed Citations, Embase, CENTRAL and NHS Economic Evaluation Database in May 2015 to support a Brief Economic Commentary (BEC). 
+Selection criteria
+We searched for randomized controlled trials (RCTs) and economic evaluations that compared CSF plus antibiotics versus antibiotics alone for the treatment of chemotherapy‐induced febrile neutropenia in adults and children. 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration. We performed meta‐analysis of the selected studies using Review Manager 5 software. 

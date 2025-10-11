@@ -1,0 +1,13 @@
+Background
+Skin‐to‐skin care (SSC), often referred to as 'kangaroo care' (KC) due to its similarity with marsupial behaviour of ventral maternal‐infant contact, is one non‐pharmacological intervention for pain control in infants. 
+Objectives
+The primary objectives were to determine the effect of SSC alone on pain from medical or nursing procedures in neonates compared to no intervention, sucrose or other analgesics, or additions to simple SSC such as rocking; and to determine the effects of the amount of SSC (duration in minutes), method of administration (e.g. who provided the SSC) of SSC in reducing pain from medical or nursing procedures in neonates 
+The secondary objectives were to determine the safety of SSC care for relieving procedural pain in infants; and to compare the SSC effect in different postmenstrual age subgroups of infants. 
+Search methods
+For this update, we used the standard search strategy of the Cochrane Neonatal Review group to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 1); MEDLINE via PubMed (1966 to 25 February 2016); Embase (1980 to 25 February 2016); and CINAHL (1982 to 25 February 2016). We also searched clinical trials' databases, conference proceedings, and the reference lists of retrieved articles for randomized controlled trials and quasi‐randomized trials. 
+Selection criteria
+Studies with randomisation or quasi‐randomisation, double‐ or single‐blinded, involving term infants (≥ 37 completed weeks' postmenstrual age (PMA) to a maximum of 44 weeks' PMA and preterm infants (< 37 completed weeks PMA) receiving SSC for painful procedures conducted by healthcare professionals. 
+Data collection and analysis
+The main outcome measures were physiological or behavioural pain indicators and composite pain scores. A mean difference (MD) with 95% confidence interval (CI) using a fixed‐effect model was reported for continuous outcome measures. We included variations on type of tissue‐damaging procedure, provider of care, and duration of SSC. 
+Main results
+Twenty‐five studies (n = 2001 infants) were included. Nineteen studies (n = 1065) used heel lance as the painful procedure, one study combined venepuncture and heel stick (n = 50), three used intramuscular injection (n = 776), one used 'vaccination' (n = 60), and one used tape removal (n = 50). The studies were generally strong and had low or uncertain risk of bias. Blinding of the intervention was not possible, making them subject to high risk, depending on the method of scoring outcomes. 

@@ -1,0 +1,34 @@
+Implementation strategies for health systems in low‐income countries
+What is the aim of this overview? 
+The aim of this Cochrane Overview is to provide a broad summary of what is known about the effects of strategies for implementing interventions to improve health in low‐income countries. 
+This overview is based on 39 relevant systematic reviews. Each of these reviews searched for studies that evaluated the different types of implementation strategies within the scope of the question addressed by the review. The reviews included a total of 1332 studies. 
+This overview is one of a series of four Cochrane Overviews that evaluate different health system arrangements. 
+What was studied in the overview? 
+A key function of health systems is implementing interventions to improve health. Coverage of essential health interventions remains low in low‐income countries. Decision‐makers may use a range of strategies to implement health interventions, and these choices should be based on evidence of the strategies' effectiveness. 
+What are the main results of the overview? 
+The following implementation strategies had desirable effects on at least one outcome with moderate‐ or high‐certainty evidence and no moderate‐ or high‐certainty evidence of undesirable effects. 
+Strategies targeted at healthcare workers 
+‐ Educational meetings.
+‐ Nutrition training of health workers.
+‐ Educational outreach (vs. no intervention).
+‐ Practice facilitation.
+‐ Local opinion leaders.
+‐ Audit and feedback.
+‐ Tailored interventions (vs. no intervention).
+Strategies targeted at healthcare workers for specific types of problems 
+‐ Training healthcare workers to be more patient‐centred in clinical consultations.
+‐ Use of birth kits.
+‐ Clinician education and patient education to reduce antibiotic prescribing in ambulatory care settings. 
+‐ In‐service neonatal emergency care training.
+Strategies targeted at healthcare recipients 
+‐ Mass media interventions to increase immediate uptake of HIV testing (leaflets and gain‐framed videos). 
+‐ Intensive self‐management and adherence, intensive disease management to improve health literacy. 
+‐ Behavioural interventions and mobile phone text messages for adherence to antiretroviral therapy. 
+‐ A one‐time incentive to start or continue tuberculosis prophylaxis.
+‐ Default reminders for patients being treated for active tuberculosis.
+‐ Use of sectioned polythene bags for adherence to malaria medication.
+‐ Community‐based health education, and reminders and recall strategies for vaccination uptake. 
+‐ Providing free insecticide‐treated bednets.
+‐ Interventions to improve uptake of cervical screening (invitations, education, counselling, access to health promotion nurse, and intensive recruitment). 
+‐ Health insurance information and application support.
+The following implementation strategies had low‐ or very low‐certainty evidence (or no studies available) for all the outcomes that were considered. 

@@ -1,0 +1,11 @@
+Background
+Since the introduction of in‐vitro fertilisation (IVF) tubal surgery has been less frequently undertaken as a technique to improve fertility in women with damaged fallopian tubes. There are various surgical techniques that can be used to repair blocked or damaged fallopian tubes. 
+Objectives
+To evaluate the role of tubal surgery in the management of tubal infertility and to evaluate surgical techniques for the treatment of tubal infertility. 
+Search methods
+This review has drawn on the search strategy developed for the Menstrual Disorders and Subfertility Group. We identified relevant trials from the Cochrane Menstrual Disorders and Subfertility Group Specialised Register (searched up to July 2005) and Cochrane Central Register of Controlled Trials (CENTRAL). The following databases were searched using the OVID platform:  1. MEDLINE (1966 to July 2005);  2. EMBASE (1980 to July 2005). 
+Selection criteria
+All randomised controlled trials investigating the following topics on infertility surgery technique as follows were included.  1) The role of infertility surgery versus no treatment.  2) The role of infertility surgery versus alternative treatments.  3) The role of magnification.  4) The role of the CO2 laser at infertility surgery.  5) The role of operative laparoscopy to perform infertility surgery.  6) Any other intervention regarding surgical technique investigated by RCT. 
+Data collection and analysis
+Data were extracted independently by the first two authors. Differences of opinion were recognised and resolved by consensus. 
+Two by two tables were generated for each trial for the dichotomous outcome of pregnancy and the effects on pregnancy rate of each study is expressed as an odds ratio with 95% confidence intervals. 

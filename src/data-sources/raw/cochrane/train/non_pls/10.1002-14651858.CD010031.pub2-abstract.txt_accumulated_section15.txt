@@ -1,0 +1,15 @@
+Background
+Fungal infection of the toenails, also called onychomycosis, is a common problem that causes damage to the nail's structure and physical appearance. For those severely affected, it can interfere with normal daily activities. Treatment is taken orally or applied topically; however, traditionally topical treatments have low success rates due to the nail's physical properties. Oral treatments also appear to have shorter treatment times and better cure rates. Our review will assist those needing to make an evidence‐based choice for treatment. 
+Objectives
+To assess the effects of oral antifungal treatments for toenail onychomycosis.
+Search methods
+We searched the following databases up to October 2016: the Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase, and LILACS. We also searched five trials registers and checked the reference lists of included and excluded studies for further references to relevant randomised controlled trials (RCTs). We sought to identify unpublished and ongoing trials by correspondence with authors and by contacting relevant pharmaceutical companies. 
+Selection criteria
+RCTs comparing oral antifungal treatment to placebo or another oral antifungal treatment in participants with toenail onychomycosis, confirmed by one or more positive cultures, direct microscopy of fungal elements, or histological examination of the nail. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 48 studies involving 10,200 participants. Half the studies took place in more than one centre and were conducted in outpatient dermatology settings. The participants mainly had subungual fungal infection of the toenails. Study duration ranged from 4 months to 2 years. 
+We assessed one study as being at low risk of bias in all domains and 18 studies as being at high risk of bias in at least one domain. The most common high‐risk domain was 'blinding of personnel and participants'. 
+We found high‐quality evidence that terbinafine is more effective than placebo for achieving clinical cure (risk ratio (RR) 6.00, 95% confidence interval (CI) 3.96 to 9.08, 8 studies, 1006 participants) and mycological cure (RR 4.53, 95% CI 2.47 to 8.33, 8 studies, 1006 participants). Adverse events amongst terbinafine‐treated participants included gastrointestinal symptoms, infections, and headache, but there was probably no significant difference in their risk between the groups (RR 1.13, 95% CI 0.87 to 1.47, 4 studies, 399 participants, moderate‐quality evidence). 
+There was high‐quality evidence that azoles were more effective than placebo for achieving clinical cure (RR 22.18, 95% CI 12.63 to 38.95, 9 studies, 3440 participants) and mycological cure (RR 5.86, 95% CI 3.23 to 10.62, 9 studies, 3440 participants). There were slightly more adverse events in the azole group (the most common being headache, flu‐like symptoms, and nausea), but the difference was probably not significant (RR 1.04, 95% CI 0.97 to 1.12; 9 studies, 3441 participants, moderate‐quality evidence). 

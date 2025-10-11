@@ -1,0 +1,10 @@
+Background
+Primary angle closure glaucoma (PACG) accounts for 50% of glaucoma blindness worldwide. More than three‐quarters of individuals with PACG reside in Asia. In these populations, PACG often develops insidiously leading to chronically raised intraocular pressure and optic nerve damage, which is often asymptomatic. Non‐contact tests to identify people at risk of angle closure are relatively quick and can be carried out by appropriately trained healthcare professionals or technicians as a triage test. If the test is positive, the person will be referred for further specialist assessment. 
+Objectives
+To determine the diagnostic accuracy of non‐contact tests (limbal anterior chamber depth (LACD) (van Herick test); oblique flashlight test; scanning peripheral anterior chamber depth analyser (SPAC), Scheimpflug photography; anterior segment optical coherence tomography (AS‐OCT), for identifying people with an occludable angle. 
+Search methods
+We searched the following bibliographic databases 3 October 2019: CENTRAL; MEDLINE; Embase; BIOSIS; OpenGrey; ARIF and clinical trials registries. The searches were limited to remove case reports. There were no date or language restrictions in the searches. 
+Selection criteria
+We included prospective and retrospective cross‐sectional, cohort and case‐control studies conducted in any setting that evaluated the accuracy of one or more index tests for identifying people with an occludable angle compared to a gonioscopic reference standard. 
+Data collection and analysis
+Two review authors independently performed data extraction and quality assessment using QUADAS2 for each study. For each test, 2 x 2 tables were constructed and sensitivity and specificity were calculated. When four or more studies provided data at fixed thresholds for each test, we fitted a bivariate model using the METANDI function in STATA to calculate pooled point estimates for sensitivity and specificity. For comparisons between index tests and subgroups, we performed a likelihood ratio test comparing the model with and without the covariate. 

@@ -1,0 +1,12 @@
+Background
+Cardiovascular disease (CVD) remains the number one cause of death and disability worldwide and public health interventions focus on modifiable risk factors, such as diet. Coenzyme Q10 (CoQ10) is an antioxidant that is naturally synthesised by the body and can also be taken as a dietary supplement. Studies have shown that a CoQ10 deficiency is associated with cardiovascular disease. 
+Objectives
+To determine the effects of coenzyme Q10 supplementation as a single ingredient for the primary prevention of CVD. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL 2013, Issue 11); MEDLINE (Ovid, 1946 to November week 3 2013); EMBASE (Ovid, 1947 to 27 November 2013) and other relevant resources on 2 December 2013. We applied no language restrictions. 
+Selection criteria
+Randomised controlled trials (RCTs) lasting at least three months involving healthy adults or those at high risk of CVD but without a diagnosis of CVD. Trials investigated the supplementation of CoQ10 alone as a single supplement. The comparison group was no intervention or placebo. The outcomes of interest were CVD clinical events and major CVD risk factors, adverse effects and costs. We excluded any trials involving multifactorial lifestyle interventions to avoid confounding. 
+Data collection and analysis
+Two authors independently selected trials for inclusion, abstracted data and assessed the risk of bias.We contacted authors for additional information where necessary. 
+Main results
+We identified six RCTs with a total of 218 participants randomised, one trial awaiting classification and five ongoing trials. All trials were conducted in participants at high risk of CVD, two trials examined CoQ10 supplementation alone and four examined CoQ10 supplementation in patients on statin therapy; we analysed these separately. All six trials were small‐scale, recruiting between 20 and 52 participants; one trial was at high risk of bias for incomplete outcome data and one for selective reporting; all studies were unclear in the method of allocation and therefore for selection bias. The dose of CoQ10 varied between 100 mg/day and 200 mg/day and the duration of the interventions was similar at around three months. 

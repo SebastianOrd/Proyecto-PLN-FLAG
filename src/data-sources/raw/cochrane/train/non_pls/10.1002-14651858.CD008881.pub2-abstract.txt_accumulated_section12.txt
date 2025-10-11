@@ -1,0 +1,12 @@
+Background
+Many employers and other stakeholders believe that health examinations of job applicants prevent occupational diseases and sickness absence. This is an update of the original Cochrane review (Mahmud 2010). 
+Objectives
+To evaluate the effectiveness of pre‐employment examinations of job applicants in preventing occupational injury, disease and sick leave compared to no intervention or alternative interventions. 
+Search methods
+We searched CENTRAL (the Cochrane Library), MEDLINE, EMBASE, CINAHL, PsycINFO and PEDro (up to 31 March 2015). We did not impose any restrictions on date, language or publication type. 
+Selection criteria
+We included randomised controlled trials (RCTs), controlled before‐after (CBA) studies, and interrupted time‐series (ITS) studies of health examinations to prevent occupational diseases and injuries in job applicants in comparison to no intervention or alternative interventions. 
+Data collection and analysis
+All five review authors independently selected studies from the updated search for inclusion. We retrieved two new studies with the updated search from 1 April 2008 to 31 March 2015, resulting in a total of eleven studies. 
+Main results
+We included two RCTs, seven CBA studies and two ITS studies. Nine studies with 7820 participants evaluated the screening process of pre‐employment examinations as a whole, and two studies with 2164 participants evaluated the measures to mitigate the risks found following the screening process. The studies were too heterogeneous for statistical pooling of results. We rated the quality of the evidence for all outcomes as very low quality. The two new CBA studies both used historical controls and both had a high risk of bias. 

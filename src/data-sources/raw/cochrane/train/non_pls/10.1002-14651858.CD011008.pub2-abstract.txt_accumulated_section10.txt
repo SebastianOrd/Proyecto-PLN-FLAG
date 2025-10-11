@@ -1,0 +1,10 @@
+Background
+Breathlessness is a common and disabling symptom which affects many people with advanced cardiorespiratory disease and cancer. The most effective treatments are aimed at treating the underlying disease. However, this may not always be possible, and symptomatic treatment is often required in addition to maximal disease‐directed therapy. Opioids are increasingly being used to treat breathlessness, although their mechanism of action is still not completely known. A few good sized, high quality trials have been conducted in this area. 
+Objectives
+To determine the effectiveness of opioid drugs in relieving the symptom of breathlessness in people with advanced disease due to malignancy, respiratory or cardiovascular disease, or receiving palliative care for any other disease. 
+Search methods
+We performed searches on CENTRAL, MEDLINE, EMBASE, CINAHL, and Web of Science up to 19 October 2015. We handsearched review articles, clinical trial registries, and reference lists of retrieved articles. 
+Selection criteria
+We included randomised double‐blind controlled trials that compared the use of any opioid drug against placebo or any other intervention for the relief of breathlessness. The intervention was any opioid, given by any route, in any dose. 
+Data collection and analysis
+We imported studies identified by the search into a reference manager database. We retrieved the full‐text version of relevant studies, and two review authors independently extracted data. The primary outcome measure was breathlessness and secondary outcome measures included exercise tolerance, oxygen saturations, adverse events, and mortality. We analysed all studies together and also performed subgroup analyses, by route of administration, type of opioid administered, and cause of breathlessness. Where appropriate, we performed meta‐analysis. We assessed the evidence using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach and created three 'Summary of findings' tables. 

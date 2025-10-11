@@ -1,0 +1,12 @@
+Background
+Global high rates of unplanned pregnancy and abortion among young women demonstrate the need for increased access to modern contraceptive services. In sub‐Saharan Africa, the birth rate for those aged 15 to 19 years is 121 per 1000. In the USA, 6% of teens aged 15 to 19 years became pregnant in 2010. Most pregnancies among young women to age 25 are unintended. 
+Objectives
+The aim was to identify brief educational interventions for improving contraceptive use among young people that are feasible for implementing in a clinic or similar setting with limited resources. 
+Search methods
+To 7 March 2016, we searched for studies in CENTRAL, PubMed, POPLINE, Web of Science, ClinicalTrials.gov and ICTRP. 
+Selection criteria
+We considered randomized controlled trials (RCTs) that assigned individuals or clusters as well as non‐randomized studies (NRS). We included young people to age 25. 
+The intervention had to be sufficiently brief for a clinic, i.e. one to three sessions of 15 to 60 minutes plus potential follow‐up. The strategy had to emphasize one or more effective methods of contraception. Primary outcomes were pregnancy and contraceptive use. 
+Data collection and analysis
+We assessed titles and abstracts identified during the searches. One author extracted and entered the data into Review Manager; a second author verified accuracy. We examined studies for methodological quality. 
+For dichotomous outcomes, we calculated the Mantel‐Haenszel odds ratio (OR) with 95% confidence interval (CI). For continuous variables, we computed the mean difference (MD) with 95% CI. We used adjusted measures for cluster RCTs, typically ORs, that the investigators reported. For NRS, which need to control for confounding, we also used reported adjusted measures. We did not conduct meta‐analysis due to varied interventions and outcome measures. 

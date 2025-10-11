@@ -1,0 +1,10 @@
+Background
+The combination of steroid and anti‐vascular endothelial growth factor (VEGF) intravitreal therapeutic agents could potentially have synergistic effects for treating diabetic macular oedema (DMO). On the one hand, if combined treatment is more effective than monotherapy, there would be significant implications for improving patient outcomes. Conversely, if there is no added benefit of combination therapy, then people could be potentially exposed to unnecessary local or systemic side effects. 
+Objectives
+To assess the effects of intravitreal agents that block vascular endothelial growth factor activity (anti‐VEGF agents) plus intravitreal steroids versus monotherapy with macular laser, intravitreal steroids or intravitreal anti‐VEGF agents for managing DMO. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2018, Issue 1); Ovid MEDLINE; Ovid Embase; LILACS; the ISRCTN registry; ClinicalTrials.gov and the ICTRP. The date of the search was 21 February 2018. 
+Selection criteria
+We included randomised controlled trials (RCTs) of intravitreal anti‐VEGF combined with intravitreal steroids versus intravitreal anti‐VEGF alone, intravitreal steroids alone or macular laser alone for managing DMO. We included people with DMO of all ages and both sexes. We also included trials where both eyes from one participant received different treatments. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane.Two authors independently reviewed all the titles and abstracts identified from the electronic and manual searches against the inclusion criteria. Our primary outcome was change in best corrected visual acuity (BCVA) between baseline and one year. Secondary outcomes included change in central macular thickness (CMT), economic data and quality of life. We considered adverse effects including intraocular inflammation, raised intraocular pressure (IOP) and development of cataract. 

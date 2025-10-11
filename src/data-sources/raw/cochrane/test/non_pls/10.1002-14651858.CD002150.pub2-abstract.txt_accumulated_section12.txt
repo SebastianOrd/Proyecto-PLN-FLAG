@@ -1,0 +1,12 @@
+Background
+Scrub typhus, an important cause of acute fever in Asia, is caused by Orientia tsutsugamushi, an obligate intracellular bacterium. Antibiotics currently used to treat scrub typhus include tetracyclines, chloramphenicol, macrolides, and rifampicin. 
+Objectives
+To assess and compare the effects of different antibiotic regimens for treatment of scrub typhus. 
+Search methods
+We searched the following databases up to 8 January 2018: the Cochrane Infectious Diseases Group specialized trials register; CENTRAL, in the Cochrane Library (2018, Issue 1); MEDLINE; Embase; LILACS; and the metaRegister of Controlled Trials (mRCT). We checked references and contacted study authors for additional data. We applied no language or date restrictions. 
+Selection criteria
+Randomized controlled trials (RCTs) or quasi‐RCTs comparing antibiotic regimens in people with the diagnosis of scrub typhus based on clinical symptoms and compatible laboratory tests (excluding the Weil‐Felix test). 
+Data collection and analysis
+For this update, two review authors re‐extracted all data and assessed the certainty of evidence. We meta‐analysed data to calculate risk ratios (RRs) for dichotomous outcomes when appropriate, and elsewhere tabulated data to facilitate narrative analysis. 
+Main results
+We included six RCTs and one quasi‐RCT with 548 participants; they took place in the Asia‐Pacific region: Korea (three trials), Malaysia (one trial), and Thailand (three trials). Only one trial included children younger than 15 years (N = 57). We judged five trials to be at high risk of performance and detection bias owing to inadequate blinding. Trials were heterogenous in terms of dosing of interventions and outcome measures. Across trials, treatment failure rates were low. 

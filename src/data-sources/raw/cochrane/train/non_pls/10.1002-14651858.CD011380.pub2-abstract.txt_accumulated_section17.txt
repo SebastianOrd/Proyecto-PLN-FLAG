@@ -1,0 +1,17 @@
+Background
+Infantile seborrhoeic dermatitis (ISD) is a chronic, inflammatory, scaling skin condition, which causes redness and a greasy scaling rash in infants and young children. It can last from weeks to months, but rarely years. When it occurs on the scalp, it is referred to as 'cradle cap'. While benign and self‐limiting, irrelevant of its location on the body, it can distress parents. The effectiveness of commonly promoted treatments is unclear. 
+Objectives
+To assess the effects of interventions for infantile seborrhoeic dermatitis in children from birth to 24 months of age. 
+Search methods
+We searched the following databases up to 22 May 2018: Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase, and LILACS. We searched trials registers and checked reference lists of included studies for further references to randomised controlled trials (RCTs). We searched for unpublished RCTs and grey literature via web search engines, and wrote to authors and pharmaceutical companies. 
+Selection criteria
+We included RCTs of interventions for ISD in children from birth up to 24 months who were clinically diagnosed by a healthcare practitioner with ISD or cradle cap. We allowed comparison of any treatment to no treatment or placebo, and the comparison of two or more treatments or a combination of treatments. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. The primary outcome measures were 'Change in severity score from baseline to end of study' and 'Percentage of infants treated who develop adverse effects or intolerance to treatment'. The secondary outcome was 'Improvement in quality of life (QoL) as reported by parents'. 
+Main results
+We included six RCTs (one with a cross‐over design) randomising 310 children and reporting outcomes for 297 children. Most participants were aged under seven months with only two participants aged over one year (seven and 12 years old); where specified, 60% were boys. In two studies, condition severity was mild to moderate; one study included two participants with severe ISD; the other studies did not describe baseline severity or described it as body surface area affected. 
+The study setting was not always clear but likely a paediatric outpatient clinic in the following countries: Thailand, Israel, USA, France, and Australia. 
+Two studies compared oral biotin (a B group vitamin) against placebo, two studies compared proprietary products against placebo cream or a control shampoo, and two studies compared topical corticosteroids against other products. The studies were generally short‐term, between 10 and 42 days' duration; only one study followed the participants until resolution of the rash or eight months of age. 
+We assessed the risk of bias as unclear for most aspects due to lack of reporting, but two of the studies were at high risk of performance and detection bias due to the appearance of the intervention, the trial design (open‐label), or use of overlabelled tubes. Two trials had a high risk of attrition bias. 
+All the results given below were based on very low‐quality evidence. Treatment duration ranged from one week to three weeks. 
+For the two trials comparing biotin versus placebo (n = 35), one did not report a measure of change in severity (only change in duration of rash) while the other did not report raw data (only 'no statistically significant difference'), measured at three weeks. Neither trial reported on adverse events. 

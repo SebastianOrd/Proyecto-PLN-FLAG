@@ -1,0 +1,12 @@
+Background
+Evidence on the health effects of total polyunsaturated fatty acids (PUFA) is equivocal. Fish oils are rich in omega‐3 PUFA and plant oils in omega‐6 PUFA. Evidence suggests that increasing PUFA‐rich foods, supplements or supplemented foods can reduce serum cholesterol, but may increase body weight, so overall cardiovascular effects are unclear. 
+Objectives
+To assess effects of increasing total PUFA intake on cardiovascular disease and all‐cause mortality, lipids and adiposity in adults. 
+Search methods
+We searched CENTRAL, MEDLINE and Embase to April 2017 and clinicaltrials.gov and the World Health Organization International Clinical Trials Registry Platform to September 2016, without language restrictions. We checked trials included in relevant systematic reviews. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing higher with lower PUFA intakes in adults with or without cardiovascular disease that assessed effects over 12 months or longer. We included full texts, abstracts, trials registry entries and unpublished data. Outcomes were all‐cause mortality, cardiovascular disease mortality and events, risk factors (blood lipids, adiposity, blood pressure), and adverse events. We excluded trials where we could not separate effects of PUFA intake from other dietary, lifestyle or medication interventions. 
+Data collection and analysis
+Two review authors independently screened titles and abstracts, assessed trials for inclusion, extracted data, and assessed risk of bias. We wrote to authors of included trials for further data. Meta‐analyses used random‐effects analysis, sensitivity analyses included fixed‐effects and limiting to low summary risk of bias. We assessed GRADE quality of evidence. 
+Main results
+We included 49 RCTs randomising 24,272 participants, with duration of one to eight years. Eleven included trials were at low summary risk of bias, 33 recruited participants without cardiovascular disease. Baseline PUFA intake was unclear in most trials, but 3.9% to 8% of total energy intake where reported. Most trials gave supplemental capsules, but eight gave dietary advice, eight gave supplemental foods such as nuts or margarine, and three used a combination of methods to increase PUFA. 

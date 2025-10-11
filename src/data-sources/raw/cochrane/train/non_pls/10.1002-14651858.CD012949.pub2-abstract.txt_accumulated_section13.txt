@@ -1,0 +1,13 @@
+Background
+Cystic fibrosis (CF) is a multisystem disease and the importance of growth and nutrition has been well established, given its implications for lung function and overall survival. It has been established that intestinal dysbiosis (i.e. microbial imbalance) and inflammation is present in people with CF. Probiotics are commercially available (over‐the‐counter) and may improve both intestinal and overall health. 
+Objectives
+To assess the efficacy and safety of probiotics for improving health outcomes in children and adults with CF. 
+Search methods
+We searched the Cochrane Cystic Fibrosis Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. Date of last register search: 20 January 2020. 
+We also searched ongoing trials registries and the reference lists of relevant articles and reviews. Date of last search: 29 January 2019. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials (RCTs) assessing efficacies and safety of probiotics in children and adults with CF. Cross‐over RCTs with a washout phase were included and for those without a washout period, only the first phase of each trial was analysed. 
+Data collection and analysis
+We independently extracted data and assessed the risk of bias of the included trials; we used GRADE to assess the certainty of the evidence. We contacted trial authors for additional data. Meta‐analyses were undertaken on outcomes at several time points. 
+Main results
+We identified 17 trials and included 12 RCTs (11 completed and one trial protocol ‐ this trial was terminated early) (464 participants). Eight trials included only children, whilst four trials included both children and adults. Trial duration ranged from one to 12 months. Nine trials compared a probiotic (seven single strain and three multistrain preparations) with a placebo preparation, two trials compared a synbiotic (multistrain) with a placebo preparation and one trial compared two probiotic preparations. 

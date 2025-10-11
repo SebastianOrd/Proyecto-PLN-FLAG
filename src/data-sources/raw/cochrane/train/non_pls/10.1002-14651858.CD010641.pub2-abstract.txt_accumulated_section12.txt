@@ -1,0 +1,12 @@
+Background
+Shift work is often associated with sleepiness and sleep disorders. Person‐directed, non‐pharmacological interventions may positively influence the impact of shift work on sleep, thereby improving workers’ well‐being, safety, and health. 
+Objectives
+To assess the effects of person‐directed, non‐pharmacological interventions for reducing sleepiness at work and improving the length and quality of sleep between shifts for shift workers. 
+Search methods
+We searched CENTRAL, MEDLINE Ovid, Embase, Web of Knowledge, ProQuest, PsycINFO, OpenGrey, and OSH‐UPDATE from inception to August 2015. We also screened reference lists and conference proceedings and searched the World Health Organization (WHO) Trial register. We contacted experts to obtain unpublished data. 
+Selection criteria
+Randomised controlled trials (RCTs) (including cross‐over designs) that investigated the effect of any person‐directed, non‐pharmacological intervention on sleepiness on‐shift or sleep length and sleep quality off‐shift in shift workers who also work nights. 
+Data collection and analysis
+At least two authors screened titles and abstracts for relevant studies, extracted data, and assessed risk of bias. We contacted authors to obtain missing information. We conducted meta‐analyses when pooling of studies was possible. 
+Main results
+We included 17 relevant trials (with 556 review‐relevant participants) which we categorised into three types of interventions: (1) various exposures to bright light (n = 10); (2) various opportunities for napping (n = 4); and (3) other interventions, such as physical exercise or sleep education (n = 3). In most instances, the studies were too heterogeneous to pool. Most of the comparisons yielded low to very low quality evidence. Only one comparison provided moderate quality evidence. Overall, the included studies’ results were inconclusive. We present the results regarding sleepiness below. 

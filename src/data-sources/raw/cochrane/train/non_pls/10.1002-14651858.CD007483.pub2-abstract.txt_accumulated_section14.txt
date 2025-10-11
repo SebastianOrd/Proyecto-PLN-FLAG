@@ -1,0 +1,14 @@
+Background
+The World Health Organization recommends uncomplicated P. falciparum malaria is treated using Artemisinin‐based Combination Therapy (ACT). This review aims to assist the decision making of malaria control programmes by providing an overview of the relative benefits and harms of the available options. 
+Objectives
+To compare the effects of ACTs with other available ACT and non‐ACT combinations for treating uncomplicated P. falciparum malaria. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; LILACS, and the metaRegister of Controlled Trials (mRCT) to March 2009. 
+Selection criteria
+Randomized head to head trials of ACTs in uncomplicated P. falciparum malaria. 
+This review is limited to: dihydroartemisinin‐piperaquine; artesunate plus mefloquine; artemether‐lumefantrine (six doses); artesunate plus amodiaquine; artesunate plus sulfadoxine‐pyrimethamine and amodiaquine plus sulfadoxine‐pyrimethamine. 
+Data collection and analysis
+Two authors independently assessed trials for eligibility and risk of bias, and extracted data. We analysed primary outcomes in line with the WHO 'Protocol for assessing and monitoring antimalarial drug efficacy' and compared drugs using risk ratios (RR) and 95% confidence intervals (CI). Secondary outcomes were effects on P. vivax, gametocytes, haemoglobin, and adverse events. 
+Main results
+Fifty studies met the inclusion criteria. All five ACTs achieved PCR adjusted failure rates of < 10%, in line with WHO recommendations, at most study sites. 
+Dihydroartemisinin‐piperaquine performed well compared to the ACTs in current use (PCR adjusted treatment failure versus artesunate plus mefloquine in Asia; RR 0.39, 95% CI 0.19 to 0.79; three trials, 1062 participants; versus artemether‐lumefantrine in Africa; RR 0.39, 95% CI 0.24 to 0.64; three trials, 1136 participants). 

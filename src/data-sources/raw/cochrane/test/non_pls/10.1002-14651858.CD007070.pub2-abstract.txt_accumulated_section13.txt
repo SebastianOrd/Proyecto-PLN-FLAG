@@ -1,0 +1,13 @@
+Background
+One in five fibromyalgia sufferers use acupuncture treatment within two years of diagnosis.
+Objectives
+To examine the benefits and safety of acupuncture treatment for fibromyalgia.
+Search methods
+We searched CENTRAL, PubMed, EMBASE, CINAHL, National Research Register, HSR Project and Current Contents, as well as the Chinese databases VIP and Wangfang to January 2012 with no language restrictions. 
+Selection criteria
+Randomised and quasi‐randomised studies evaluating any type of invasive acupuncture for fibromyalgia diagnosed according to the American College of Rheumatology (ACR) criteria, and reporting any main outcome: pain, physical function, fatigue, sleep, total well‐being, stiffness and adverse events. 
+Data collection and analysis
+Two author pairs selected trials, extracted data and assessed risk of bias. Treatment effects were reported as standardised mean differences (SMD) and 95% confidence intervals (CI) for continuous outcomes using different measurement tools (pain, physical function, fatigue, sleep, total well‐being and stiffness) and risk ratio (RR) and 95% CI for dichotomous outcomes (adverse events). We pooled data using the random‐effects model. 
+Main results
+Nine trials (395 participants) were included. All studies except one were at low risk of selection bias; five were at risk of selective reporting bias (favouring either treatment group); two were subject to attrition bias (favouring acupuncture); three were subject to performance bias (favouring acupuncture) and one to detection bias (favouring acupuncture). Three studies utilised electro‐acupuncture (EA) with the remainder using manual acupuncture (MA) without electrical stimulation. All studies used 'formula acupuncture' except for one, which used trigger points. 
+Low quality evidence from one study (13 participants) showed EA improved symptoms with no adverse events at one month following treatment. Mean pain in the non‐treatment control group was 70 points on a 100 point scale; EA reduced pain by a mean of 22 points (95% confidence interval (CI) 4 to 41), or 22% absolute improvement. Control group global well‐being was 66.5 points on a 100 point scale; EA improved well‐being by a mean of 15 points (95% CI 5 to 26 points). Control group stiffness was 4.8 points on a 0 to 10 point; EA reduced stiffness by a mean of 0.9 points (95% CI 0.1 to 2 points; absolute reduction 9%, 95% CI 4% to 16%). Fatigue was 4.5 points (10 point scale) without treatment; EA reduced fatigue by a mean of 1 point (95% CI 0.22 to 2 points), absolute reduction 11% (2% to 20%). There was no difference in sleep quality (MD 0.4 points, 95% CI ‐1 to 0.21 points, 10 point scale), and physical function was not reported. 

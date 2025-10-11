@@ -1,0 +1,14 @@
+Background
+Multiple analgesic strategies for pain relief during labour are available. Recently remifentanil, a short‐acting opioid, has recently been used as an alternative analgesic due to its unique pharmacological properties. 
+Objectives
+To systematically assess the effectiveness of remifentanil intravenous patient‐controlled analgesia (PCA) for labour pain, along with any potential harms to the mother and the newborn. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (9 December 2015), ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP), handsearched congress abstracts (November 2015), and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) and cluster‐randomised trials comparing remifentanil (PCA) with another opioid (intravenous (IV)/intramuscular (IM)), or with another opioid (PCA), or with epidural analgesia, or with remifentanil (continuous IV), or with remifentanil (PCA, different regimen), or with inhalational analgesia, or with placebo/no treatment in all women in labour including high‐risk groups with planned vaginal delivery. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion, extracted data, and appraised study quality. 
+We contacted study authors for additional information other than incomplete outcome data. We performed random‐effects meta‐analysis. 
+To reduce the risk of random error in meta‐analysis we performed trial sequential analysis. We included total zero event trials and used a constant continuity correction of 0.01 (ccc 0.01) for meta‐analysis. We applied the Grades of Recommendation, Assessment, Development, and Evaluation (GRADE) approach to assess the quality of evidence. 
+Main results
+Twenty RCTs with 3569 women were included. Of those, 10 trials (2983 participants) compared remifentanil (PCA) to an epidural, four trials (216 participants) to another opioid (IV/IM), three trials (215 participants) to another opioid (PCA), two trials (135 participants) to remifentanil (continuous IV), and one trial (20 participants) to remifentanil (PCA, different regimen). No trials were identified for the remaining comparisons. 

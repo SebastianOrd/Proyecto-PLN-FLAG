@@ -1,0 +1,12 @@
+Background
+Vitamins and minerals play multiple functions within the central nervous system which may help to maintain brain health and optimal cognitive functioning. Supplementation of the diet with various vitamins and minerals has been suggested as a means of maintaining cognitive function, or even of preventing dementia, in later life. 
+Objectives
+To evaluate the effects of vitamin and mineral supplementation on cognitive function in cognitively healthy people aged 40 years or more. 
+Search methods
+We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group’s (CDCIG) specialised register, as well as MEDLINE, Embase, PsycINFO, CINAHL, ClinicalTrials.gov and the WHO Portal/ICTRP from inception to 26th January 2018. 
+Selection criteria
+We included randomised controlled trials that evaluated the cognitive effects on people aged 40 years or more of any vitamin or mineral supplements taken by mouth for at least three months. 
+Data collection and analysis
+Study selection, data extraction, and quality assessments were done in duplicate. Vitamins were considered broadly in the categories of B vitamins, antioxidant vitamins, and combinations of both. Minerals were considered separately, where possible. If interventions and outcomes were considered sufficiently similar, then data were pooled. In order to separate short‐term cognitive effects from possible longer‐term effects on the trajectory of cognitive decline, data were pooled for various treatment durations from 3 months to 12 months and up to 10 years or more. 
+Main results
+In total, we included 28 studies with more than 83,000 participants. There were some general limitations of the evidence. Most participants were enrolled in studies which were not designed primarily to assess cognition. These studies often had no baseline cognitive assessment and used only brief cognitive assessments at follow‐up. Very few studies assessed the incidence of dementia. Most study reports did not mention adverse events or made only very general statements about them. Only 10 studies had a mean follow‐up > 5 years. Only two studies had participants whose mean age was < 60 years at baseline. The risk of bias in the included studies was generally low, other than a risk of attrition bias for longer‐term outcomes. We considered the certainty of the evidence behind almost all results to be moderate or low. 

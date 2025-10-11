@@ -1,0 +1,12 @@
+Background
+Fractures of the olecranon (the bony tip of the elbow) account for approximately 1% of all upper extremity fractures. Surgical intervention is often required to restore elbow function. Two key methods of surgery are tension band wire fixation and plate fixation. 
+Objectives
+To assess the effects (benefits and harms) of different surgical interventions in the treatment of olecranon fractures in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (22 September 2014), the Cochrane Central Register of Controlled Trials (CENTRAL, 2014, Issue 8), MEDLINE (1946 to September week 2 2014), EMBASE (1980 to 19 September 2014), trial registers, conference proceedings and reference lists of articles. 
+Selection criteria
+Randomised controlled trials (RCT) and quasi‐RCTs that compared different surgical interventions for the treatment of olecranon fractures in adults. 
+Data collection and analysis
+Two review authors independently performed study selection, risk of bias assessment and data extraction. The primary outcomes of this review were function, pain and adverse events. 
+Main results
+We included six small trials involving 244 adults with olecranon fractures. Of these, four were RCTs and two were quasi‐RCTs; both of were at high risk of selection bias. All six trials were at high risk of performance bias, reflecting lack of blinding, and four trials were at high risk of detection bias. The quality of the evidence for most outcomes was generally very low because of limitations in study design and implementation, and either imprecision of the results or inadequate outcome measures. Thus, we are very uncertain about the estimates of effect. 

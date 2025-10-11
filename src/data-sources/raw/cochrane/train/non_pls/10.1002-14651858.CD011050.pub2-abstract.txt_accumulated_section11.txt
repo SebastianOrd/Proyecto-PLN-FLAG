@@ -1,0 +1,11 @@
+Background
+Acute asthma in children can be life‐threatening and must be treated promptly in the emergency setting. Intravenous magnesium sulfate is recommended by various guidelines for cases of acute asthma that have not responded to first‐line treatment with bronchodilators and steroids. The treatment has recently been shown to reduce the need for hospital admission for adults compared with placebo, but it is unclear whether it is equally effective for children. 
+Objectives
+To assess the safety and efficacy of intravenous magnesium sulfate (IV MgSO4) in children treated for acute asthma in the emergency department (ED). 
+Search methods
+We identified studies by searching the Cochrane Airways Review Group Specialised Register up to 23 February 2016. We also searched ClinicalTrials.gov and reference lists of other reviews, and we contacted study authors to ask for additional information. 
+Selection criteria
+We included randomised controlled trials of children treated in the ED for exacerbations of asthma if they compared any dose of IV MgSO4 with placebo. 
+Data collection and analysis
+Two review authors screened the results of the search and independently extracted data from studies meeting the inclusion criteria. We resolved disagreements through discussion and contacted study authors in cases of missing data and other uncertainties relating to the studies. 
+We analysed dichotomous data as odds ratios and continuous data as mean differences, both using fixed‐effect models. We assessed each study for risk of bias and rated the quality of evidence for each outcome with GRADE and presented the results in a 'Summary of findings' table. There was insufficient evidence to conduct the planned subgroup analyses. 

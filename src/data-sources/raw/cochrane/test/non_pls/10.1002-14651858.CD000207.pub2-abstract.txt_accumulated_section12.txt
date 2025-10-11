@@ -1,0 +1,12 @@
+Background
+Tardive dyskinesia (TD) remains a troublesome adverse effect of conventional antipsychotic (neuroleptic) medication. It has been proposed that TD could have a component of central cholinergic deficiency. Cholinergic drugs have been used to treat TD. 
+Objectives
+To determine the effects of cholinergic drugs (arecoline, choline, deanol, lecithin, meclofenoxate, physostigmine, RS 86, tacrine, metoxytacrine, galantamine, ipidacrine, donepezil, rivastigmine, eptastigmine, metrifonate, xanomeline, cevimeline) for treating antipsychotic‐induced TD in people with schizophrenia or other chronic mental illness. 
+Search methods
+An electronic search of the Cochrane Schizophrenia Group's Study‐Based Register of Trials (16 July 2015 and April 2017) was undertaken. This register is assembled by extensive searches for randomised controlled trials in many electronic databases, registers of trials, conference proceedings and dissertations. References of all identified studies were searched for further trial citations. 
+Selection criteria
+We included reports identified by the search if they were of controlled trials involving people with antipsychotic‐induced TD and chronic mental illness, who had been randomly allocated to either a cholinergic agent or to a placebo or no intervention. Two review authors independently assessed the methodological quality of the trials. 
+Data collection and analysis
+Two review authors extracted data and, where possible, estimated risk ratios (RR) or mean differences (MD), with 95% confidence intervals (CI). We analysed data on an intention‐to‐treat basis, with the assumption that people who left early had no improvement. We assessed risk of bias and created a 'Summary of findings' table using GRADE. 
+Main results
+We included 14 studies investigating the use of cholinergic drugs compared with placebo published between 1976 and 2014. All studies involved small numbers of participants (five to 60 people). Three studies that investigated the new cholinergic Alzheimer drugs for the treatment of TD are new to this update. Overall, the risk of bias in the included studies was unclear, mainly due to poor reporting; allocation concealment was not described, generation of the sequence was not explicit, studies were not clearly blinded, we are unsure if data are incomplete, and data were often poorly or selectively reported. 

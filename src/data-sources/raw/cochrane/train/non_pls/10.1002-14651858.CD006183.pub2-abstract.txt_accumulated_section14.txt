@@ -1,0 +1,14 @@
+Background
+Approximately 1 in 10 pregnancies is affected by meconium passage at delivery, which can result in meconium aspiration syndrome (MAS). MAS can cause respiratory complications and, very rarely, death. Antibiotics have been prescribed for neonates exposed to meconium in amniotic fluid, with the intention of preventing infection due to potential bacterial contaminants. 
+Objectives
+We conducted this review to assess the efficacy and safety of antibiotics for:
+1. prevention of infection, morbidity, and mortality among infants born through meconium‐stained amniotic fluid (MSAF) who are asymptomatic at birth; and 
+2. prevention of infection, morbidity, and mortality among infants born through MSAF who have signs and symptoms compatible with meconium aspiration syndrome (MAS). 
+Search methods
+We performed a literature search using the following databases: MEDLINE (1966 to July 2016); Embase (1980 to July 2016); the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to July 2016); and the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 7) in the Cochrane Library. We also searched clinical trials databases, conference proceedings, and reference lists of retrieved articles. 
+Selection criteria
+We included randomised and quasi‐randomised controlled trials that compared antibiotics administered via any route versus placebo or no treatment for prevention of infection among neonates exposed to MSAF, or who developed MAS. We excluded cohort, case control, and any other non‐randomised studies and applied no language restrictions. We included studies of term and preterm infants, and we included studies examining use of any antibacterial antibiotics. We included studies that reported on any outcomes of interest. 
+Data collection and analysis
+We assessed the methodological quality of included trials by reviewing information provided in study reports and obtained by personal communication with study authors. We extracted data on relevant outcomes, estimated effect size, and reported values as risk ratios (RRs), risk differences (RDs), and mean differences (MDs), as appropriate. We conducted subgroup analyses for treatment of MAS and for prophylaxis (asymptomatic neonates exposed to meconium). 
+Main results
+Four randomised controlled studies including a total of 695 participants were eligible for inclusion. Three studies evaluated neonates with MAS, and one study assessed asymptomatic neonates exposed to meconium in amniotic fluid. These studies exhibited varying degrees of methodological rigour: Two studies were at low risk of bias, and two were at unclear risk. We graded evidence derived from these studies as low quality. We downgraded overall evidence owing to the large number of participants lost to follow‐up in one trial, the small sample sizes of all trials, and unclear methodological details provided for two trials. 

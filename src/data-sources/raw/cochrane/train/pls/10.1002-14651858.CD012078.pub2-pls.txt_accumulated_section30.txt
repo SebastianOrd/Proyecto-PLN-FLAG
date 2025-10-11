@@ -1,0 +1,30 @@
+Which treatments work best for advanced stomach cancer that has not responded to standard chemotherapy? 
+What is advanced stomach cancer? 
+Gastric (stomach) cancer usually begins in the mucous‐producing cells lining the stomach. Oesophago‐gastric junction (OGJ) cancer starts where the food pipe (oesophagus) joins the stomach. Advanced cancer is cancer that has spread to nearby tissues, or to another part of the body, despite treatment. 
+Treatments for gastric and OGJ cancer include:
+• operation to remove the cancer;
+• chemotherapy (medicines that kill cancer cells);
+• radiotherapy (radiation to kill cancer cells); and
+• biological therapy (medicines made from proteins and other substances that occur naturally in the body). 
+Biological therapies include immunotherapy (medicines that help the immune system to recognise and kill cancer cells) and therapies that target something in, or surrounding, the cancer, such as the cancer's blood supply. Standard chemotherapy usually combines two medicines containing fluoropyrimidine and platinum. 
+When standard chemotherapy for advanced cancer has not worked, further treatment aims to slow the growth of the cancer to help people live longer. Further treatments include: other chemotherapy medicines, biological therapies, and best supportive care (care that helps a person cope with life‐limiting illness and its treatment). 
+Why we did this Cochrane Review 
+Stomach and OGJ cancer are difficult to treat. We wanted to find out which treatments work best to control these cancers and help people live longer, when standard chemotherapy has not worked. 
+What did we do? 
+We searched for studies that looked at chemotherapy and/or biological therapies for advanced stomach or OGJ cancer that had not responded to standard chemotherapy. We looked for studies in which the treatment each person received was decided at random. These studies usually give the most reliable evidence about the effects of treatments. 
+Search date 
+We included evidence published up to October 2020.
+What we found 
+We found 17 studies in 5110 people with advanced stomach or OGJ cancer. Studies compared further chemotherapy and/or biological therapies, given by mouth or through the bloodstream (systemic), with: 
+• another systemic chemotherapy and/or biological therapy;
+• a placebo ('dummy' treatment);
+• best supportive care; and
+• no treatment.
+The studies looked at:
+• how long people lived;
+• any adverse (unwanted) effects; and
+• their quality of life (well‐being).
+What are the results of our review? 
+People probably live longer after further chemotherapy (irinotecan or trifluridine plus tipiracil) than with placebo treatment or best supportive care. But chemotherapy probably increases serious unwanted effects, including diarrhoea, fever, and lower numbers of red and white blood cells. 
+People may live as long after irinotecan chemotherapy as after paclitaxel chemotherapy. Adding another chemotherapy (oxaliplatin or cisplatin) to docetaxel may not affect how long people live. 
+People live longer after biological therapy (nivolumab, apatinib or regorafenib) than with placebo treatment. We did not find enough evidence about whether biological therapy increases unwanted effects. 

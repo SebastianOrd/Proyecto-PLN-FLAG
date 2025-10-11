@@ -1,0 +1,12 @@
+Background
+Lamellar macular holes (LMHs) are small, partial‐thickness defects of the macula defined by characteristic features on optical coherence tomography (OCT), including a newly recognised type of epiretinal membrane termed ‘epiretinal proliferation’. There may be a rationale to recommend surgery for individuals with LMHs, particularly those with functional or anatomical deterioration, or poor baseline vision causing significant disability, to stabilise the LMH and prevent further visual deterioration; however, there is currently no evidence‐based consensus. 
+Objectives
+To assess the effect of surgical interventions on post‐operative visual and anatomical outcomes in people with a confirmed LMH. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE Ovid, Embase Ovid, Scopus SciVerse, ISRCTN registry, US National Institutes of Health Ongoing Trials Register, ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We also searched reference lists of included trials to identify other eligible trials which our search strategy may have missed. The date of the search was 20 July 2021. 
+Selection criteria
+We included randomised controlled trials (RCTs) involving participants with a confirmed LMH diagnosis which reported one or more surgical intervention(s), alone or in combination, in at least one arm of the RCT. 
+Data collection and analysis
+We used standard methods as expected by Cochrane. Two study authors independently extracted data and assessed the risk of bias for included trials. Trial authors were contacted for further information and clarification. 
+Main results
+A single RCT was eligible for inclusion. Thirty‐six participants were randomised in a 2:1 ratio; 24 were allocated to undergo surgery (pars plana vitrectomy, peeling of the epiretial proliferation followed by fovea‐sparing removal of the internal limiting membrane) and 12 (10 following two participant dropouts) to observation. 

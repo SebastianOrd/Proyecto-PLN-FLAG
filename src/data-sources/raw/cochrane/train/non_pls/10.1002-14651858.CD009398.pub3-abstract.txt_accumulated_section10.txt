@@ -1,0 +1,10 @@
+Background
+About 5% of school children have a specific learning disorder, defined as unexpected failure to acquire adequate abilities in reading, writing or mathematics that is not a result of reduced intellectual ability, inadequate teaching or social deprivation. Of these events, 80% are reading disorders. Polyunsaturated fatty acids (PUFAs), in particular, omega‐3 and omega‐6 fatty acids, which normally are abundant in the brain and in the retina, are important for learning. Some children with specific learning disorders have been found to be deficient in these PUFAs, and it is argued that supplementation of PUFAs may help these children improve their learning abilities. 
+Objectives
+1. To assess effects on learning outcomes of supplementation of polyunsaturated fatty acids (PUFAs) for children with specific learning disorders. 2. To determine whether adverse effects of supplementation of PUFAs are reported in these children. 
+Search methods
+In November 2015, we searched CENTRAL, Ovid MEDLINE, Embase, PsycINFO, 10 other databases and two trials registers. We also searched the reference lists of relevant articles. 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs comparing PUFAs with placebo or no treatment in children younger than 18 years with specific learning disabilities, as diagnosed in accordance with the fifth (or earlier) edition of theDiagnostic and Statistical Manual of Mental Disorders (DSM‐5), or the 10th (or earlier) revision of the International Classification of Diseases (ICD‐10) or equivalent criteria. We included children with coexisting developmental disorders such as attention deficit hyperactivity disorder (ADHD) or autism. 
+Data collection and analysis
+Two review authors (MLT and KHT) independently screened the titles and abstracts of articles identified by the search and eliminated all studies that did not meet the inclusion criteria. We contacted study authors to ask for missing information and clarification, when needed. We used the GRADE approach to assess the quality of evidence. 

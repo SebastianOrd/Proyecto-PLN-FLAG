@@ -1,0 +1,12 @@
+Background
+Different therapeutic strategies are available for treatment of multiple sclerosis (MS) including immunosuppressants, immunomodulators, and monoclonal antibodies. Their relative effectiveness in the prevention of relapse or disability progression is unclear due to the limited number of direct comparison trials. A summary of the results, including both direct and indirect comparisons of treatment effects, may help to clarify the above uncertainty. 
+Objectives
+To estimate the relative efficacy and acceptability of interferon ß‐1b (IFNß‐1b) (Betaseron), interferon ß‐1a (IFNß‐1a) (Rebif and Avonex), glatiramer acetate, natalizumab, mitoxantrone, methotrexate, cyclophosphamide, azathioprine, intravenous immunoglobulins, and long‐term corticosteroids versus placebo or another active agent in participants with MS and to provide a ranking of the treatments according to their effectiveness and risk‐benefit balance. 
+Search methods
+We searched the Cochrane Database of Systematic Reviews, the Cochrane MS Group Trials Register, and the Food and Drug Administration (FDA) reports. The most recent search was run in February 2012. 
+Selection criteria
+Randomized controlled trials (RCTs) that studied one of the 11 treatments for use in adults with MS and that reported our pre‐speciﬁed efficacy outcomes were considered for inclusion. 
+Data collection and analysis
+Identifying search results and data extraction were performed independently by two authors. Data synthesis was performed by pairwise meta‐analysis and network meta‐analysis that was performed within a Bayesian framework. The body of evidence for outcomes within the pairwise meta‐analysis was assessed according to GRADE, as very low, low, moderate, or high quality. 
+Main results
+Forty‐four trials were included in this review, in which 17,401 participants had been randomised. Twenty‐three trials included relapsing‐remitting MS (RRMS) (9096 participants, 52%), 18 trials included progressive MS (7726, 44%), and three trials included both RRMS and progressive MS (579, 3%). The majority of the included trials were short‐term studies, with the median duration being 24 months. The results originated mostly from 33 trials on IFNß, glatiramer acetate, and natalizumab that overall contributed outcome data for 9881 participants (66%). 

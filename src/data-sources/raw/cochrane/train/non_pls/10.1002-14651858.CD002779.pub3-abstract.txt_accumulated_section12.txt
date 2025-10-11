@@ -1,0 +1,12 @@
+Background
+Burning mouth syndrome (BMS) is a term used for oral mucosal pain (burning pain or discomfort in the tongue, lips or entire oral cavity) without identifiable cause. General population prevalence varies from 0.1% to 3.9%. Many BMS patients indicate anxiety, depression, personality disorders and impaired quality of life (QoL). This review updates the previous versions published in 2000 and 2005. 
+Objectives
+To determine the effectiveness and safety of any intervention versus placebo for symptom relief and changes in QoL, taste, and feeling of dryness in people with BMS. 
+Search methods
+Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 31 December 2015), the Cochrane Central Register of Controlled Trials (CENTRAL; 2015, Issue 11) in the Cochrane Library (searched 31 December 2015), MEDLINE Ovid (1946 to 31 December 2015), and Embase Ovid (1980 to 31 December 2015). We searched ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform for ongoing trials. We placed no restrictions on the language or date of publication when searching the electronic databases 
+Selection criteria
+Randomised controlled trials (RCTs) comparing any treatment against placebo in people with BMS. The primary outcomes were symptom relief (pain/burning) and change in QoL. Secondary outcomes included change in taste, feeling of dryness, and adverse effects. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Outcome data were analysed as short‐term (up to three months) or long‐term (three to six months). 
+Main results
+We included 23 RCTs (1121 analysed participants; 83% female). Interventions were categorised as: antidepressants and antipsychotics, anticonvulsants, benzodiazepines, cholinergics, dietary supplements, electromagnetic radiation, physical barriers, psychological therapies, and topical treatments. 

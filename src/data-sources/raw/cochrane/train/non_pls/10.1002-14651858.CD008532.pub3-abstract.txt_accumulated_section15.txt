@@ -1,0 +1,15 @@
+Background
+The long‐acting bronchodilator tiotropium and single‐inhaler combination therapy of inhaled corticosteroids and long‐acting beta2‐agonists (ICS/LABA) are commonly used for maintenance treatment of patients with chronic obstructive pulmonary disease (COPD). Combining these treatments, which have different mechanisms of action, may be more effective than administering the individual components. 
+Objectives
+To assess relative effects of the following treatments on markers of exacerbations, symptoms, quality of life and lung function in patients with COPD. 
+• Tiotropium plus LABA/ICS versus tiotropium.
+• Tiotropium plus LABA/ICS versus LABA/ICS.
+Search methods
+We searched the Cochrane Airways Group Specialised Register of Trials (April 2015), ClinicalTrials.gov (www.ClinicalTrials.gov), the World Health Organization (WHO) trials portal and reference lists of relevant articles. 
+Selection criteria
+We included parallel, randomised controlled trials (RCTs) lasting three months or longer conducted to compare ICS and LABA combination therapy in addition to inhaled tiotropium versus tiotropium alone or combination therapy alone. 
+Data collection and analysis
+We independently assessed trials for inclusion, then extracted data on trial quality and outcome results. We contacted study authors to ask for additional information. We collected trial information on adverse effects. 
+Main results
+Tiotropium plus LABA/ICS versus tiotropium 
+We included six studies (1902 participants) with low risk of bias that compared tiotropium in addition to inhaled corticosteroid and long‐acting beta2‐agonist combination therapy versus tiotropium alone. We found no statistically significant differences in mortality between treatments (odds ratio (OR) 1.80, 95% confidence interval (CI) 0.55 to 5.91; two studies; 961 participants) as well as in the all‐cause hospitalisations (OR 0.84, 95% CI 0.53 to 1.33; two studies; 961 participants). The effect on exacerbations was heterogeneous among trials and was not meta‐analysed. Health‐related quality of life measured by St. George’s Respiratory Questionnaire (SGRQ) showed a statistically significant improvement in total scores with use of tiotropium + LABA/ICS compared with tiotropium alone (mean difference (MD) ‐3.46, 95% CI ‐5.05 to ‐1.87; four studies; 1446 participants). Lung function was significantly different in the combined therapy (tiotropium + LABA/ICS) group, although average benefit with this therapy was small. None of the included studies included exercise tolerance as an outcome. 

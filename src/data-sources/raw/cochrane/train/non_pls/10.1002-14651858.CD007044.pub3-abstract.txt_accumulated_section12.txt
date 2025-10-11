@@ -1,0 +1,12 @@
+Background
+Stones in the urinary tract are a common medical problem in the general population. At present, the great expansion in minimally invasive techniques has led to the decrease in open surgery. Extracorporeal shock wave lithotripsy (ESWL) has been introduced as an alternative approach which disintegrates stones in the kidney and upper urinary tract through the use of shock waves. Nevertheless, as there are limitations with the success rate in ESWL, other minimally invasive modalities for kidney stones such as percutaneous nephrolithotomy (PCNL) and retrograde intrarenal surgery (RIRS) are also widely applied. This is an update of a review first published in 2009. 
+Objectives
+This review aimed to assess the effectiveness and complications of ESWL for kidney stones compared with PCNL or RIRS. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register to 3 March 2014 through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+Randomised controlled trials (RCTs) assessing the use of ESWL compared to PCNL or RIRS for kidney stone management. 
+Data collection and analysis
+Two authors independently assessed all the studies for inclusion. Statistical analyses were performed using the random effects model and the results expressed as risk ratio (RR) for dichotomous outcomes or mean difference (MD) for continuous data with 95% confidence intervals (CI). 
+Main results
+Five studies (338 patients) were included, four studies compared ESWL to PCNL and one compared ESWL with RIRS. Random sequence generation was reported in three studies and unclear in two. Allocation concealment was not reported in any of the included studies. Blinding of participants and investigators could not be undertaken due to the nature of the interventions; blinding of outcome assessors was not reported. Reporting bias was judged to be low risk in all studies. One study was funded by industry and in one study the number of participants in each group was unbalanced. 

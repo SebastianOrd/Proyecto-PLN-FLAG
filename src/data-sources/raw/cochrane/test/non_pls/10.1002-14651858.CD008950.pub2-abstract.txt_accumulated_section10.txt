@@ -1,0 +1,10 @@
+Background
+During in vitro fertilisation (IVF) procedures, human preimplantation embryos are cultured in the laboratory. While some laboratories culture in an atmospheric oxygen concentration (˜ 20%), others use a lower concentration (˜ 5%) as this is more comparable to the oxygen concentration observed in the oviduct and the uterus. Animal studies have shown that high oxygen concentration could have a negative impact on embryo quality via reactive oxygen species causing oxidative stress. In humans, it is currently unknown which oxygen concentration provides the best success rates of IVF procedures, eventually resulting in the hightest birth rate of healthy newborns. 
+Objectives
+To determine whether embryo culture at low oxygen concentrations improves treatment outcome (better embryo development and more pregnancies and live births) in IVF and intracytoplasmic sperm injection (ICSI) as compared to embryo culture at atmospheric oxygen concentrations. 
+Search methods
+The Menstrual Disorders and Subfertility Group Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and PsycINFO electronic databases were searched (up to 4th November 2011) for randomised controlled trials on the effect of low oxygen concentrations for human embryo culture. Furthermore, reference lists of all obtained studies were checked and conference abstracts handsearched. 
+Selection criteria
+Only truly randomised controlled trials comparing embryo culture at low oxygen concentrations (˜ 5%) with embryo culture at atmospheric oxygen concentrations (˜ 20%) were included in this systematic review and meta‐analysis. 
+Data collection and analysis
+Two review authors selected the trials for inclusion according to the above criteria. After that two authors independently extracted the data for subsequent analysis, and one author functioned as a referee in case of ambiguities. The statistical analysis was performed in accordance with the guidelines developed by The Cochrane Collaboration. 

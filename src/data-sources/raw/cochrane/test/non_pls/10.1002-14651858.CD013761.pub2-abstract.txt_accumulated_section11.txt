@@ -1,0 +1,11 @@
+Background
+Pressure ulcers (also known as pressure injuries, pressure sores and bed sores) are localised injuries to the skin or underlying soft tissue, or both, caused by unrelieved pressure, shear or friction. Specific kinds of beds, overlays and mattresses are widely used with the aim of preventing and treating pressure ulcers. 
+Objectives
+To summarise evidence from Cochrane Reviews that assess the effects of beds, overlays and mattresses on reducing the incidence of pressure ulcers and on increasing pressure ulcer healing in any setting and population. 
+To assess the relative effects of different types of beds, overlays and mattresses for reducing the incidence of pressure ulcers and increasing pressure ulcer healing in any setting and population. 
+To cumulatively rank the different treatment options of beds, overlays and mattresses in order of their effectiveness in pressure ulcer prevention and treatment. 
+Methods
+In July 2020, we searched the Cochrane Library. Cochrane Reviews reporting the effectiveness of beds, mattresses or overlays for preventing or treating pressure ulcers were eligible for inclusion in this overview. Two review authors independently screened search results and undertook data extraction and risk of bias assessment using the ROBIS tool. We summarised the reported evidence in an overview of reviews. Where possible, we included the randomised controlled trials from each included review in network meta‐analyses. We assessed the relative effectiveness of beds, overlays and mattresses for preventing or treating pressure ulcers and their probabilities of being, comparably, the most effective treatment. We assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We include six Cochrane Reviews in this overview of reviews, all at low or unclear risk of bias. 
+Pressure ulcer prevention: four reviews (of 68 studies with 18,174 participants) report direct evidence for 27 pairwise comparisons between 12 types of support surface on the following outcomes: pressure ulcer incidence, time to pressure ulcer incidence, patient comfort response, adverse event rates, health‐related quality of life, and cost‐effectiveness. Here we focus on outcomes with some evidence at a minimum of low certainty. 

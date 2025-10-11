@@ -1,0 +1,12 @@
+Background
+People with haematological disorders are frequently at risk of severe or life‐threatening bleeding as a result of thrombocytopenia (reduced platelet count). This is despite the routine use of prophylactic platelet transfusions to prevent bleeding once the platelet count falls below a certain threshold. Platelet transfusions are not without risk and adverse events may be life‐threatening. A possible adjunct to prophylactic platelet transfusions is the use of antifibrinolytics, specifically the lysine analogues tranexamic acid (TXA) and epsilon aminocaproic acid (EACA). This is an update of a Cochrane review first published in 2013. 
+Objectives
+To determine the efficacy and safety of antifibrinolytics (lysine analogues) in preventing bleeding in people with haematological disorders. 
+Search methods
+We searched for randomised controlled trials (RCTs) in the Cochrane Central Register of Controlled Trials (The Cochrane Library 2016, Issue 3), MEDLINE (from 1946), Embase (from 1974), CINAHL (from 1937), the Transfusion Evidence Library (from 1950) and ongoing trial databases to 07 March 2016. 
+Selection criteria
+We included RCTs involving participants with haematological disorders, who would routinely require prophylactic platelet transfusions to prevent bleeding. We only included trials involving the use of the lysine analogues TXA and EACA. 
+Data collection and analysis
+Two review authors independently screened all electronically‐derived citations and abstracts of papers, identified by the review search strategy, for relevancy. Two review authors independently assessed the full text of all potentially relevant trials for eligibility, completed the data extraction and assessed the studies for risk of bias using The Cochrane Collaboration's 'Risk of bias' tool. We requested missing data from one author but the data were no longer available. The outcomes are reported narratively: we performed no meta‐analyses because of the heterogeneity of the available data. 
+Main results
+We identified three new studies in this update of the review. In total seven studies were eligible for inclusion, three were ongoing RCTs and four were completed studies. The four completed studies were included in the original review and the three ongoing studies were included in this update. We did not identify any RCTs that compared TXA with EACA. 

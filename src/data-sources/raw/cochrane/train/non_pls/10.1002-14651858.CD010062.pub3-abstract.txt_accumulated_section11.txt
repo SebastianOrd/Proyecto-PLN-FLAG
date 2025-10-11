@@ -1,0 +1,11 @@
+Background
+This is an updated version of the original Cochrane Review published in 2014.
+Epilepsy is a common neurological condition characterised by recurrent seizures. Pharmacological treatment remains the first choice to control epilepsy. Sulthiame (STM) is widely used as an antiepileptic drug in Europe and Israel. In this review, we have presented a summary of evidence for the use of STM as monotherapy in epilepsy. 
+Objectives
+To assess the efficacy and side effect profile of STM as monotherapy when compared with placebo or another antiepileptic drug for people with epilepsy. 
+Search methods
+We searched the following databases on 13 April 2020: the Cochrane Register of Studies (CRS Web), MEDLINE (Ovid, 1946 to 10 April 2020). CRS Web includes randomised or quasi‐randomised controlled trials from PubMed, Embase, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform, the Cochrane Central Register of Controlled Trials (CENTRAL), and the specialised registers of Cochrane Review Groups including Cochrane Epilepsy. We imposed no language restrictions. We contacted the manufacturers of STM and researchers in the field to ask about ongoing and unpublished studies. 
+Selection criteria
+Randomised controlled monotherapy trials of STM in people of any age with epilepsy of any aetiology. 
+Data collection and analysis
+We followed standard Cochrane methodology. Two review authors independently selected trials for inclusion and extracted the relevant data. We assessed the following outcomes: treatment withdrawal; seizure‐free at six months; adverse effects; and quality of life scoring. We conducted the primary analyses by intention‐to‐treat where possible, and presented a narrative analysis of the data. 

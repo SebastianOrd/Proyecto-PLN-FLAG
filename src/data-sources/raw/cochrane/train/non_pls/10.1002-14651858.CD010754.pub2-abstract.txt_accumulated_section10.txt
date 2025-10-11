@@ -1,0 +1,10 @@
+Background
+Survivors of critical illness often experience a multitude of problems that begin in the intensive care unit (ICU) or present and continue after discharge. These can include muscle weakness, cognitive impairments, psychological difficulties, reduced physical function such as in activities of daily living (ADLs), and decreased quality of life. Early interventions such as mobilizations or active exercise, or both, may diminish the impact of the sequelae of critical illness. 
+Objectives
+To assess the effects of early intervention (mobilization or active exercise), commenced in the ICU, provided to critically ill adults either during or after the mechanical ventilation period, compared with delayed exercise or usual care, on improving physical function or performance, muscle strength and health‐related quality of life. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and CINAHL. We searched conference proceedings, reference lists of retrieved articles, databases of trial registries and contacted experts in the field on 31 August 2017. We did not impose restrictions on language or location of publications. 
+Selection criteria
+We included all randomized controlled trials (RCTs) or quasi‐RCTs that compared early intervention (mobilization or active exercise, or both), delivered in the ICU, with delayed exercise or usual care delivered to critically ill adults either during or after the mechanical ventilation period in the ICU. 
+Data collection and analysis
+Two researchers independently screened titles and abstracts and assessed full‐text articles against the inclusion criteria of this review. We resolved any disagreement through discussion with a third review author as required. We presented data descriptively using mean differences or medians, risk ratios and 95% confidence intervals. A meta‐analysis was not possible due to the heterogeneity of the included studies. We assessed the quality of evidence with GRADE. 

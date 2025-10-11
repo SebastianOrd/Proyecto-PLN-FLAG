@@ -1,0 +1,10 @@
+Background
+Heart transplantation has become a valuable and well‐accepted treatment option for end‐stage heart failure. Rejection of the transplanted heart by the recipient's body is a risk to the success of the procedure, and life‐long immunosuppression is necessary to avoid this. Clear evidence is required to identify the best, safest and most effective immunosuppressive treatment strategy for heart transplant recipients. To date, there is no consensus on the use of immunosuppressive antibodies against T‐cells for induction after heart transplantation. 
+Objectives
+To review the benefits, harms, feasibility and tolerability of immunosuppressive T‐cell antibody induction versus placebo, or no antibody induction, or another kind of antibody induction for heart transplant recipients. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 11, 2012), MEDLINE (Ovid) (1946 to November Week 1 2012), EMBASE (Ovid) (1946 to 2012 Week 45), ISI Web of Science (14 November 2012); we also searched two clinical trial registers and checked reference lists in November 2012. 
+Selection criteria
+We included all randomised clinical trials (RCTs) assessing immunosuppressive T‐cell antibody induction for heart transplant recipients. Within individual trials, we required all participants to receive the same maintenance immunosuppressive therapy. 
+Data collection and analysis
+Two authors extracted data independently. RevMan analysis was used for statistical analysis of dichotomous data with risk ratio (RR), and of continuous data with mean difference (MD), both with 95% confidence intervals (CI). Methodological components were used to assess risks of systematic errors (bias). Trial sequential analysis was used to assess the risks of random errors (play of chance). We assessed mortality, acute rejection, infection, Cytomegalovirus (CMV) infection, post‐transplantation lymphoproliferative disorder, cancer, adverse events, chronic allograft vasculopathy, renal function, hypertension, diabetes mellitus, and hyperlipidaemia. 

@@ -1,0 +1,10 @@
+Background
+Asthma is a respiratory disease characterised by variable airflow limitation and the presence of respiratory symptoms including wheeze, chest tightness, cough and/or dyspnoea. Exercise training is beneficial for people with asthma; however, the response to conventional models of pulmonary rehabilitation is less clear. 
+Objectives
+To evaluate, in adults with asthma, the effectiveness of pulmonary rehabilitation compared to usual care on exercise performance, asthma control, and quality of life (co‐primary outcomes), incidence of severe asthma exacerbations/hospitalisations, mental health, muscle strength, physical activity levels, inflammatory biomarkers, and adverse events. 
+Search methods
+We identified studies from the Cochrane Airways Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform, from their inception to May 2021, as well as the reference lists of all primary studies and review articles. 
+Selection criteria
+We included randomised controlled trials in which pulmonary rehabilitation was compared to usual care in adults with asthma. Pulmonary rehabilitation must have included a minimum of four weeks (or eight sessions) aerobic training and education or self‐management. Co‐interventions were permitted; however, exercise training alone was not.  
+Data collection and analysis
+Following the use of Cochrane's Screen4Me workflow, two review authors independently screened and selected trials for inclusion, extracted study characteristics and outcome data, and assessed risk of bias using the Cochrane risk of bias tool. We contacted study authors to retrieve missing data. We calculated between‐group effects via mean differences (MD) or standardised mean differences (SMD) using a random‐effects model. We evaluated the certainty of evidence using GRADE methodology. 

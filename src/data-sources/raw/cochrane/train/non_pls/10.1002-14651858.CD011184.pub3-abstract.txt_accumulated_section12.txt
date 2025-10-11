@@ -1,0 +1,12 @@
+Background
+In vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI) treatments conventionally consist of a fresh embryo transfer, possibly followed by one or more cryopreserved embryo transfers in subsequent cycles. An alternative option is to freeze all suitable embryos and transfer cryopreserved embryos in subsequent cycles only, which is known as the 'freeze all' strategy. This is the first update of the Cochrane Review on this comparison. 
+Objectives
+To evaluate the effectiveness and safety of the freeze all strategy compared to the conventional IVF/ICSI strategy in women undergoing assisted reproductive technology. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group Trials Register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, and two registers of ongoing trials from inception until 23 September 2020 for relevant studies, checked references of publications found, and contacted study authors to obtain additional data. 
+Selection criteria
+Two review authors (TZ and MZ) independently selected studies for inclusion, assessed risk of bias, and extracted study data. We included randomised controlled trials comparing a 'freeze all' strategy with a conventional IVF/ICSI strategy including a fresh embryo transfer in women undergoing IVF or ICSI treatment. 
+Data collection and analysis
+The primary outcomes were cumulative live birth rate and ovarian hyperstimulation syndrome (OHSS). Secondary outcomes included effectiveness outcomes (including ongoing pregnancy rate and clinical pregnancy rate), time to pregnancy and obstetric, perinatal and neonatal outcomes. 
+Main results
+We included 15 studies in the systematic review and eight studies with a total of 4712 women in the meta‐analysis. The overall evidence was of moderate to low quality. We graded all the outcomes and downgraded due to serious risk of bias, serious imprecision and serious unexplained heterogeneity. Risk of bias was associated with unclear blinding of investigators for preliminary outcomes of the study during the interim analysis, unit of analysis error, and absence of adequate study termination rules. There was an absence of high‐quality evidence according to GRADE assessments for our primary outcomes, which is reflected in the cautious language below. 

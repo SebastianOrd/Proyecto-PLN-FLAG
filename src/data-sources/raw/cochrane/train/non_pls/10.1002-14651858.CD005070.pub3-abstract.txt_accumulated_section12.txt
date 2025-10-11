@@ -1,0 +1,12 @@
+Background
+One of the various ovarian stimulation regimens used for in‐vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI) cycles is the use of recombinant follicle‐stimulating hormone (rFSH) in combination with a gonadotrophin‐releasing hormone (GnRH) analogue. GnRH analogues prevent premature luteinizing hormone (LH) surges. Since they deprive the growing follicles of LH, the question arises as to whether supplementation with recombinant LH (rLH) would increase live birth rates. This is an updated Cochrane Review; the original version was published in 2007. 
+Objectives
+To compare the effectiveness and safety of recombinant luteinizing hormone (rLH) combined with recombinant follicle‐stimulating hormone (rFSH) for ovarian stimulation compared to rFSH alone in women undergoing in‐vitro fertilisation/intracytoplasmic sperm injection (IVF/ICSI). 
+Search methods
+For this update we searched the following databases in June 2016: the Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, Embase, CINAHL, PsycINFO and ongoing trials registers, and checked the references of retrieved articles. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing rLH combined with rFSH versus rFSH alone in IVF/ISCI cycles. 
+Data collection and analysis
+Two review authors independently selected studies, assessed risk of bias, and extracted data. We combined data to calculate odds ratios (ORs) and 95% confidence intervals (CIs). We assessed statistical heterogeneity using the I2 statistic. We assessed the overall quality of the evidence for the main comparisons using GRADE methods. Our primary outcomes were live birth rate and incidence of ovarian hyperstimulation syndrome (OHSS). Secondary outcomes included ongoing pregnancy rate, miscarriage rate and cancellation rates (for poor response or imminent OHSS). 
+Main results
+We included 36 RCTs (8125 women). The quality of the evidence ranged from very low to moderate. The main limitations were risk of bias (associated with poor reporting of methods) and imprecision. 

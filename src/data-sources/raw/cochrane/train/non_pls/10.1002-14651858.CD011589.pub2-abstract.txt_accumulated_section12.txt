@@ -1,0 +1,12 @@
+Background
+Patient‐reported outcomes measures (PROMs) assess a patient’s subjective appraisal of health outcomes from their own perspective. Despite hypothesised benefits that feedback  on PROMs can support decision‐making in clinical practice and improve outcomes, there is uncertainty surrounding the effectiveness of PROMs feedback. 
+Objectives
+To assess the effects of PROMs feedback to patients, or healthcare workers, or both on patient‐reported health outcomes and processes of care. 
+Search methods
+We searched MEDLINE, Embase, CENTRAL, two other databases and two clinical trial registries on 5 October 2020. We searched grey literature and consulted experts in the field. 
+Selection criteria
+Two review authors independently screened and selected studies for inclusion. We included randomised trials directly comparing the effects on outcomes and processes of care of PROMs feedback to healthcare professionals and patients, or both with the impact of not providing such information. 
+Data collection and analysis
+Two groups of two authors independently extracted data from the included studies and evaluated study quality. We followed standard methodological procedures expected by Cochrane and EPOC. We used the GRADE approach to assess the certainty of the evidence. We conducted meta‐analyses of the results where possible. 
+Main results
+We identified 116 randomised trials which assessed the effectiveness of PROMs feedback in improving processes or outcomes of care, or both in a broad range of disciplines including psychiatry, primary care, and oncology. Studies were conducted across diverse ambulatory primary and secondary care settings in North America, Europe and Australasia. A total of 49,785 patients were included across all the studies. 

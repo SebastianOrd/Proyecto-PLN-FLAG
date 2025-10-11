@@ -1,0 +1,10 @@
+Background
+By reducing the amount of nicotine that reaches the brain when a person smokes a cigarette, nicotine vaccines may help people to stop smoking or to prevent recent quitters from relapsing. 
+Objectives
+The aims of this review are to assess the efficacy of nicotine vaccines for smoking cessation and for relapse prevention, and to assess the frequency and type of adverse events associated with the use of nicotine vaccines. 
+Search methods
+We searched the Cochrane Tobacco Addiction Review Group specialised register for trials, using the term 'vaccine' in the title or abstract, or in a keyword (date of most recent search April 2012). To identify any other material including reviews and papers potentially relevant to the background or discussion sections, we also searched MEDLINE, EMBASE, and PsycINFO, combining terms for nicotine vaccines with terms for smoking and tobacco use, without design limits or limits for human subjects. We searched the Annual Meeting abstracts of the Society for Research on Nicotine and Tobacco up to 2012, using the search string 'vaccin'. We searched Google Scholar for 'nicotine vaccine'. We also searched company websites and Google for information related to specific vaccines. We searched clinicaltrials.gov in March 2012 for 'nicotine vaccine' and for the trade names of known vaccine candidates. 
+Selection criteria
+We included randomized controlled trials of nicotine vaccines, at Phase II and Phase III trial stage and beyond, in adult smokers or recent ex‐smokers. We included studies of nicotine vaccines used as part of smoking cessation or relapse prevention interventions. 
+Data collection and analysis
+We extracted data on the type of participants, the dose and duration of treatment, the outcome measures, the randomization procedure, concealment of allocation, blinding of participants and personnel, reporting of outcomes, and completeness of follow‐up. 

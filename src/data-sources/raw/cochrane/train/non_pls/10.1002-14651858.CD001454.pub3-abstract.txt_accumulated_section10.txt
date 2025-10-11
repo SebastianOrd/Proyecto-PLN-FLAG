@@ -1,0 +1,10 @@
+Background
+Lung edema may complicate respiratory distress syndrome (RDS) in preterm infants.
+Objectives
+The aim of this review was to assess the risks and benefits of diuretic administration in preterm infants with RDS. 
+Search methods
+The standard search method of the Cochrane Neonatal Review Group was used. The Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), MEDLINE and EMBASE were searched. These searches were updated in April 2003, March 2007, January 2011. In addition, the abstract books of the American Thoracic Society and Society for Pediatric Research were searched. MEDLINE and CENTRAL search was conducted using the keyword "Respiratory Distress Syndrome" alone, to find studies of medications recently classified as diuretics, such as theophylline. In addition, EMBASE, controlled‐trials.com and clinicaltrials.gov searches were completed in January 2011. MEDLINE search updated to August 2011. 
+Selection criteria
+Trials were included in which preterm infants with RDS and less than five days of age were randomly allocated to diuretic administration. Of those trials, studies were only included in which at least one of the following outcomes measures was evaluated: mortality, patent ductus arteriosus, hypovolemic shock, intraventricular hemorrhage, renal failure, duration of oxygen supplementation, duration of mechanical ventilation, need for oxygen supplementation at 28 days of life, oxygen supplementation at 36 weeks of postmenstrual age (gestational age + postnatal age), length of stay, number of rehospitalizations during the first year of life, and neurodevelopmental outcome. 
+Data collection and analysis
+The standard method for the Cochrane Collaboration, which is described in the Cochrane Collaboration Handbook, was used. Two investigators extracted, assessed and coded separately all data for each study. Any disagreement was resolved by discussion. 

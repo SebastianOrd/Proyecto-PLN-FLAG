@@ -1,0 +1,20 @@
+Background
+Affordable, feasible and efficacious interventions to reduce neonatal infections and improve neonatal survival are needed. Chlorhexidine, a broad spectrum topical antiseptic agent, is active against aerobic and anaerobic organisms and reduces neonatal bacterial colonisation and may reduce infection. 
+Objectives
+To evaluate the efficacy of neonatal skin or cord care with chlorhexidine versus routine care or no treatment for prevention of infections in late preterm or term newborn infants in hospital and community settings. 
+Search methods
+We searched CENTRAL, latest issue of The Cochrane Library, MEDLINE (1966 to November 2013), EMBASE (1980 to November 2013), and CINAHL (1982 to November 2013). Ongoing trials were detected by searching the following databases: www.clinicaltrials.gov and www.controlled‐trials.com. 
+Selection criteria
+Cluster and individual patient randomised controlled trials of chlorhexidine use (for skin care, or cord care, or both) in term or late preterm neonates in hospital and community settings were eligible for inclusion. Three authors independently screened and selected studies for inclusion. 
+Data collection and analysis
+Two review authors independently extracted data, and assessed study risk of bias. The quality of evidence for each outcome was assessed using GRADE. We calculated pooled risk ratios (RRs) and risk differences (RDs) with 95% confidence intervals (CIs), and presented results using GRADE 'Summary of findings' tables. 
+Main results
+We included 12 trials in this review. There were seven hospital‐based and five community‐based studies. In four studies maternal vaginal wash with chlorhexidine was done in addition to neonatal skin and cord care. 
+Newborn skin or cord cleansing with chlorhexidine compared to usual care in hospitals 
+Low‐quality evidence from one trial showed that chlorhexidine cord cleansing compared to dry cord care may lead to no difference in neonatal mortality (RR 0.11, 95% CI 0.01 to 2.04). Moderate‐quality evidence from two trials showed that chlorhexidine cord cleansing compared to dry cord care probably reduces the risk of omphalitis/infections (RR 0.48, 95% CI 0.28 to 0.84). 
+Low‐quality evidence from two trials showed that chlorhexidine skin cleansing compared to dry cord care may lead to no difference in omphalitis/infections (RR 0.88, 95% CI 0.56 to 1.39). None of the studies in this comparison reported effects of the treatments on neonatal mortality. 
+Newborn skin or cord cleansing with chlorhexidine compared to usual care in the community 
+High‐quality evidence from three trials showed that chlorhexidine cord cleansing compared to dry cord care reduces neonatal mortality (RR 0.81, 95% CI 0.71 to 0.92) and omphalitis/infections (RR 0.48, 95% CI 0.40 to 0.57). 
+High‐quality evidence from one trial showed no difference between chlorhexidine skin cleansing and usual skin care on neonatal mortality (RR 1.03, 95% CI 0.87 to 1.23). None of the studies in this comparison reported effects of the treatments on omphalitis/infections. 
+Maternal vaginal chlorhexidine in addition to total body cleansing compared to no intervention (sterile saline solution) in hospitals 
+Moderate‐quality evidence from one trial showed no difference between maternal vaginal chlorhexidine in addition to total body cleansing and no intervention on neonatal mortality (RR 0.98, 95% CI 0.67 to 1.42). High‐quality evidence from two trials showed no difference between maternal vaginal chlorhexidine in addition to total body cleansing and no intervention on the risk of infections (RR 0.93, 95% CI 0.82 to 1.16). 

@@ -1,0 +1,13 @@
+Background
+Neonatal hyperbilirubinaemia is a common problem which carries a risk of neurotoxicity. Certain infants who have hyperbilirubinaemia develop bilirubin encephalopathy and kernicterus which may lead to long‐term disability. Phototherapy is currently the mainstay of treatment for neonatal hyperbilirubinaemia. Among the adjunctive measures to compliment the effects of phototherapy, fluid supplementation has been proposed to reduce serum bilirubin levels. The mechanism of action proposed includes direct dilutional effects of intravenous (IV) fluids, or enhancement of peristalsis to reduce enterohepatic circulation by oral fluid supplementation. 
+Objectives
+To assess the risks and benefits of fluid supplementation compared to standard fluid management in term and preterm newborn infants with unconjugated hyperbilirubinaemia who require phototherapy. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 5), MEDLINE via PubMed (1966 to 7 June 2017), Embase (1980 to 7 June 2017), and CINAHL (1982 to 7 June 2017). We also searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+We included randomised controlled trials that compared fluid supplementation against no fluid supplementation, or one form of fluid supplementation against another. 
+Data collection and analysis
+We extracted data using the standard methods of the Cochrane Neonatal Review Group using the Covidence platform. Two review authors independently assessed the eligibility and risk of bias of the retrieved records. We expressed our results using mean difference (MD), risk difference (RD), and risk ratio (RR) with 95% confidence intervals (CIs). 
+Main results
+Out of 1449 articles screened, seven studies were included. Three articles were awaiting classification, among them, two completed trials identified from the trial registry appeared to be unpublished so far. 
+There were two major comparisons: IV fluid supplementation versus no fluid supplementation (six studies) and IV fluid supplementation versus oral fluid supplementation (one study). A total of 494 term, healthy newborn infants with unconjugated hyperbilirubinaemia were evaluated. All studies were at high risk of bias for blinding of care personnel, five studies had unclear risk of bias for blinding of outcome assessors, and most studies had unclear risk of bias in allocation concealment. There was low‐ to moderate‐quality evidence for all major outcomes. 

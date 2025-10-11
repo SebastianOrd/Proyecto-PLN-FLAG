@@ -1,0 +1,12 @@
+Background
+Abdominal aortic aneurysms (AAAs) are a vascular condition with significant risk attached, particularly if they rupture. It is, therefore, critical to identify and repair these as an elective procedure before they rupture and require emergency surgery. Repair has traditionally been an open surgical technique that required a large incision across the abdomen. Endovascular abdominal aortic aneurysm repairs (EVARs) are now a common alternative. In this procedure, the common femoral artery is exposed via a cut‐down approach and a graft introduced to the aneurysm in this way. This review examines a totally percutaneous approach to EVAR. This technique gives a minimally invasive approach to femoral artery access that may reduce groin wound complication rates and improve recovery time. The technique may, however, be less applicable in people with, for example, groin scarring or arterial calcification. This is an update of the review first published in 2014. 
+Objectives
+This review aims to compare the clinical outcomes of percutaneous access with surgical cut‐down femoral artery access in elective bifurcated abdominal endovascular aneurysm repair (EVAR). 
+Search methods
+For this update the Cochrane Vascular Information Specialist (CIS) searched their Specialised Register (last searched October 2016) and CENTRAL (2016, Issue 9). We also searched clinical trials registries and checked the reference lists of relevant retrieved articles. 
+Selection criteria
+We considered only randomised controlled trials. The primary intervention was a totally percutaneous endovascular repair. We considered all device types. We compared this against surgical cut‐down femoral artery access endovascular repair. We only considered studies investigating elective repairs. We excluded studies reporting emergency surgery for a ruptured abdominal aortic aneurysm and those reporting aorto‐uni‐iliac repairs. 
+Data collection and analysis
+Two review authors independently collected all data. Owing to the small number of trials identified we did not conduct any formal sensitivity analysis. Heterogeneity was not significant for any outcome. 
+Main results
+Two studies with a total of 181 participants met the inclusion criteria, 116 undergoing the percutaneous technique and 65 treated by cut‐down femoral artery access. One study had a small sample size and did not adequately report method of randomisation, allocation concealment or pre‐selected outcomes. The second study was a larger study with few sources of bias and good methodology. 

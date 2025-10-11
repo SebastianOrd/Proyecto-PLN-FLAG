@@ -1,0 +1,8 @@
+datasets
+pandas
+pyarrow
+fastparquet
+numpy
+matplotlib
+scikit-learn
+seaborn

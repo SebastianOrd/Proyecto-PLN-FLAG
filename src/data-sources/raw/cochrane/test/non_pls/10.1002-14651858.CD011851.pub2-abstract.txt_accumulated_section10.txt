@@ -1,0 +1,10 @@
+Background
+Worldwide at least 100 million people are thought to have prevalent cardiovascular disease (CVD). This population has a five times greater chance of suffering a recurrent cardiovascular event than people without known CVD. Secondary CVD prevention is defined as action aimed to reduce the probability of recurrence of such events. Drug interventions have been shown to be cost‐effective in reducing this risk and are recommended in international guidelines. However, adherence to recommended treatments remains sub‐optimal. In order to influence non‐adherence, there is a need to develop scalable and cost‐effective behaviour‐change interventions. 
+Objectives
+To assess the effects of mobile phone text messaging in patients with established arterial occlusive events on adherence to treatment, fatal and non‐fatal cardiovascular events, and adverse effects. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, the Conference Proceedings Citation Index ‐ Science on Web of Science on 7 November 2016, and two clinical trial registers on 12 November 2016. We contacted authors of included studies for missing information and searched reference lists of relevant papers. We applied no language or date restrictions. 
+Selection criteria
+We included randomised trials with at least 50% of the participants with established arterial occlusive events. We included trials investigating interventions using short message service (SMS) or multimedia messaging service (MMS) with the aim to improve adherence to medication for the secondary prevention of cardiovascular events. Eligible comparators were no intervention or other modes of communication. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. In addition, we attempted to contact all authors on how the SMS were developed. 

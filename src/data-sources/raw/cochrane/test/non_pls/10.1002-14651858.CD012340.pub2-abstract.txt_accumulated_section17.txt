@@ -1,0 +1,17 @@
+Background
+Early enteral nutrition support (within 48 hours of admission or injury) is frequently recommended for the management of patients in intensive care units (ICU). Early enteral nutrition is recommended in many clinical practice guidelines, although there appears to be a lack of evidence for its use and benefit. 
+Objectives
+To evaluate the efficacy and safety of early enteral nutrition (initiated within 48 hours of initial injury or ICU admission) versus delayed enteral nutrition (initiated later than 48 hours after initial injury or ICU admission), with or without supplemental parenteral nutrition, in critically ill adults. 
+Search methods
+We searched CENTRAL (2019, Issue 4), MEDLINE Ovid (1946 to April 2019), Embase Ovid SP (1974 to April 2019), CINAHL EBSCO (1982 to April 2019), and ISI Web of Science (1945 to April 2019). We also searched Turning Research Into Practice (TRIP), trial registers (ClinicalTrials.gov, ISRCTN registry), and scientific conference reports, including the American Society for Parenteral and Enteral Nutrition and the European Society for Clinical Nutrition and Metabolism. We applied no restrictions by language or publication status. 
+Selection criteria
+We included all randomized controlled trials (RCTs) that compared early versus delayed enteral nutrition, with or without supplemental parenteral nutrition, in adults who were in the ICU for longer than 72 hours. This included individuals admitted for medical, surgical, and trauma diagnoses, and who required any type of enteral nutrition. 
+Data collection and analysis
+Two review authors extracted study data and assessed the risk of bias in the included studies. We expressed results as risk ratios (RR) for dichotomous data, and as mean differences (MD) for continuous data, both with 95% confidence intervals (CI). We assessed the certainty of the evidence using GRADE. 
+Main results
+We included seven RCTs with a total of 345 participants. Outcome data were limited, and we judged many trials to have an unclear risk of bias in several domains. 
+Early versus delayed enteral nutrition 
+Six trials (318 participants) assessed early versus delayed enteral nutrition in general, medical, and trauma ICUs in the USA, Australia, Greece, India, and Russia. 
+Primary outcomes  
+Five studies (259 participants) measured mortality. It is uncertain whether early enteral nutrition affects the risk of mortality within 30 days (RR 1.00, 95% CI 0.16 to 6.38; 1 study, 38 participants; very low‐quality evidence). Four studies (221 participants) reported mortality without describing the timeframe; we did not pool these results. None of the studies reported a clear difference in mortality between groups. 
+Three studies (156 participants) reported infectious complications. We were unable to pool the results due to unreported data and substantial clinical heterogeneity. The results were inconsistent across studies. 

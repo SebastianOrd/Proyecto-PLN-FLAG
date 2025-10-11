@@ -1,0 +1,12 @@
+Background
+Guillain‐Barré syndrome (GBS) is an acute, paralysing, inflammatory peripheral nerve disease. Intravenous immunoglobulin (IVIg) is beneficial in other autoimmune diseases. This is an update of a review first published in 2001 and previously updated in 2003, 2005, 2007, 2010 and 2012. Other Cochrane systematic reviews have shown that plasma exchange (PE) significantly hastens recovery in GBS compared with supportive treatment alone, and that corticosteroids alone are ineffective. 
+Objectives
+We had the following four objectives.
+1. To examine the efficacy of intravenous immunoglobulin (IVIg) in hastening recovery and reducing the long‐term morbidity from Guillain‐Barré syndrome (GBS). 
+2. To determine the most efficacious dose of IVIg in hastening recovery and reducing the long‐term morbidity from GBS. 
+3. To compare the efficacy of IVIg and plasma exchange (PE) or immunoabsorption in hastening recovery and reducing the long‐term morbidity from GBS. 
+4. To compare the efficacy of IVIg added to PE with PE alone in hastening recovery and reducing the long‐term morbidity from GBS. 
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register (2 December 2013), CENTRAL (2013, Issue 12 in The Cochrane Library), MEDLINE (January 1966 to November 2013) and EMBASE (January 1980 to November 2013). We checked the bibliographies in reports of the randomised trials and contacted the authors and other experts in the field to identify additional published or unpublished data. 
+Selection criteria
+Randomised and quasi‐randomised trials of IVIg compared with no treatment, placebo treatment, PE, or other immunomodulatory treatments in children and adults with GBS of all degrees of severity. We also included trials in which IVIg was added to another treatment. 

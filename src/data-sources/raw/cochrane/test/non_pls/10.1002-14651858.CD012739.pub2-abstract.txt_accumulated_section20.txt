@@ -1,0 +1,20 @@
+Background
+Regular blood pressure (BP) measurement is crucial for the diagnosis and management of hypertensive disorders in pregnancy, such as pre‐eclampsia. BP can be measured in various settings, such as conventional clinics or self‐measurement at home, and with different techniques, such as using auscultatory or automated BP devices. It is important to understand the impact of different settings and techniques of BP measurement on important outcomes for pregnant women. 
+Objectives
+To assess the effects of setting and technique of BP measurement for diagnosing hypertensive disorders in pregnancy on subsequent maternal and perinatal outcomes, women's quality of life, or use of health service resources. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) on 22 April 2020, and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) involving pregnant women, using validated BP devices in different settings or using different techniques. 
+Data collection and analysis
+Two authors independently extracted data, assessed risk of bias, and used the GRADE approach to assess the certainty of the evidence. 
+Main results
+Of the 21 identified studies, we included three, and excluded 11; seven were ongoing. Of the three included RCTs (536,607 women), one was a cluster‐RCT, with a substantially higher number of participants (536,233 deliveries) than the other two trials, but did not provide data for most of our outcomes. We generally judged the included studies at low risk of bias, however, the certainty of the evidence was low, due to indirectness and imprecision. Meta‐analysis was not possible because each study investigated a different comparison. 
+None of the included studies reported our primary outcome of systolic BP greater than or equal to 150 mmHg. None of the studies reported any of these important secondary outcomes: antenatal hospital admissions, neonatal unit length of stay, or neonatal endotracheal intubation and use of mechanical ventilation. 
+Setting of BP measurement: self‐measurement versus conventional clinic measurement (one study, 154 women) 
+There were no maternal deaths in either the self‐monitoring group or the usual care group. The study did not report perinatal mortality. 
+Self‐monitoring may lead to slightly more diagnoses of pre‐eclampsia compared with usual care (risk ratio (RR) 1.49, 95% confidence interval (CI) 0.87 to 2.54; 154 women; 1 study; low‐certainty evidence) but the wide 95% CI is consistent with possible benefit and possible harm. 
+Self‐monitoring may have little to no effect on the likelihood of induction of labour compared with usual care (RR 1.09, 95% CI 0.82 to 1.45; 154 women; 1 study; low‐certainty evidence). 
+We are uncertain if self‐monitoring BP has any effect on maternal admission to intensive care (RR 1.54, 95% CI 0.06 to 37.25; 154 women; 1 study; low‐certainty evidence), stillbirth (RR 2.57, 95% CI 0.13 to 52.63; 154 women; 1 study; low‐certainty evidence), neonatal death (RR 1.54, 95% CI 0.06 to 37.25; 154 women; 1 study; low‐certainty evidence) or preterm birth (RR 1.15, 95% CI 0.37 to 3.55; 154 women; 1 study; low‐certainty evidence), compared with usual care because the certainty of evidence is low and the 95% CI is consistent with appreciable harms and appreciable benefits. 
+Self‐monitoring may lead to slightly more neonatal unit admissions compared with usual care (RR 1.53, 95% CI 0.65 to 3.62; 154 women; 1 study; low‐certainty evidence) but the wide 95% CI includes the possibility of slightly fewer admissions with self‐monitoring. 
+Technique of BP measurement: Korotkoff phase IV (K4, muffling sound) versus Korotkoff phase V (K5, disappearance of sound) to represent diastolic BP (one study, 220 women) 

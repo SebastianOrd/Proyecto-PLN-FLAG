@@ -1,0 +1,10 @@
+Background
+Workplace aggression is becoming increasingly prevalent in health care, with serious consequences for both individuals and organisations. Research and development of organisational interventions to prevent and minimise workplace aggression has also increased. However, it is not known if interventions prevent or reduce occupational violence directed towards healthcare workers. 
+Objectives
+To assess the effectiveness of organisational interventions that aim to prevent and minimise workplace aggression directed towards healthcare workers by patients and patient advocates. 
+Search methods
+We searched the following electronic databases from inception to 25 May 2019: Cochrane Central Register of Controlled Trials (CENTRAL) (Wiley Online Library); MEDLINE (PubMed); CINAHL (EBSCO); Embase (embase.com); PsycINFO (ProQuest); NIOSHTIC (OSH‐UPDATE); NIOSHTIC‐2 (OSH‐UPDATE); HSELINE (OSH‐UPDATE); and CISDOC (OSH‐UPDATE). We also searched the ClinicalTrials.gov (www.ClinicalTrials.gov) and the World Health Organization (WHO) trials portals (www.who.int/ictrp/en). 
+Selection criteria
+We included randomised controlled trials (RCTs) or controlled before‐and‐after studies (CBAs) of any organisational intervention to prevent and minimise verbal or physical aggression directed towards healthcare workers and their peers in their workplace by patients or their advocates. The primary outcome measure was episodes of aggression resulting in no harm, psychological, or physical harm. 
+Data collection and analysis
+We used standard Cochrane methods for data collection and analysis. This included independent data extraction and 'Risk of bias' assessment by at least two review authors per included study. We used the Haddon Matrix to categorise interventions aimed at the victim, the vector or the environment of the aggression and whether the intervention was applied before, during or after the event of aggression. We used the random‐effects model for the meta‐analysis and GRADE to assess the quality of the evidence. 

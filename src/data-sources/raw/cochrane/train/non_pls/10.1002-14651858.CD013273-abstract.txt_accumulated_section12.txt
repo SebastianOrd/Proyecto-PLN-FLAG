@@ -1,0 +1,12 @@
+Background
+Paracetamol (acetaminophen) is vastly recommended as the first‐line analgesic for osteoarthritis of the hip or knee. However, there has been controversy about this recommendation given recent studies have revealed small effects of paracetamol when compared with placebo. Nonetheless, past studies have not systematically reviewed and appraised the literature to investigate the effects of this drug on specific osteoarthritis sites, that is, hip or knee, or on the dose used. 
+Objectives
+To assess the benefits and harms of paracetamol compared with placebo in the treatment of osteoarthritis of the hip or knee. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials, MEDLINE, Embase, AMED, CINAHL, Web of Science, LILACS, and International Pharmaceutical Abstracts to 3 October 2017, and ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform (ICTRP) portal on 20 October 2017. 
+Selection criteria
+We included randomised controlled trials comparing paracetamol with placebo in adults with osteoarthritis of the hip or knee. Major outcomes were pain, function, quality of life, adverse events and withdrawals due to adverse events, serious adverse events, and abnormal liver function tests. 
+Data collection and analysis
+Two review authors used standard Cochrane methods to collect data, and assess risk of bias and quality of the evidence. For pooling purposes, we converted pain and physical function (Western Ontario and McMaster Universities Osteoarthritis Index function) scores to a common 0 (no pain or disability) to 100 (worst possible pain or disability) scale. 
+Main results
+We identified 10 randomised placebo‐controlled trials involving 3541 participants with hip or knee osteoarthritis. The paracetamol dose varied from 1.95 g/day to 4 g/day, and the majority of trials followed participants for three months only. Most trials did not clearly report randomisation and concealment methods and were at unclear risk of selection bias. Trials were at low risk of performance, detection, and reporting bias. 

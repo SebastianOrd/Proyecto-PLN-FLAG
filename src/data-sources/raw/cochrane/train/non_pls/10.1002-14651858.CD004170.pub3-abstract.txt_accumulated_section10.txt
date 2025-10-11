@@ -1,0 +1,10 @@
+Background
+Evidence from systematic reviews demonstrates that multi‐disciplinary rehabilitation is effective in the stroke population, in which older adults predominate. However, the evidence base for the effectiveness of rehabilitation following acquired brain injury (ABI) in younger adults has not been established, perhaps because this scenario presents different methodological challenges in research. 
+Objectives
+To assess the effects of multi‐disciplinary rehabilitation following ABI in adults 16 to 65 years of age. 
+Search methods
+We ran the most recent search on 14 September 2015. We searched the Cochrane Injuries Group Specialised Register, The Cochrane Library, Ovid MEDLINE(R), Ovid MEDLINE(R) In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE(R) Daily and Ovid OLDMEDLINE(R), Embase Classic+Embase (OvidSP), Web of Science (ISI WOS) databases, clinical trials registers, and we screened reference lists. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing multi‐disciplinary rehabilitation versus routinely available local services or lower levels of intervention; or trials comparing an intervention in different settings, of different intensities or of different timing of onset. Controlled clinical trials were included, provided they met pre‐defined methodological criteria. 
+Data collection and analysis
+Three review authors independently selected trials and rated their methodological quality. A fourth review author would have arbitrated if consensus could not be reached by discussion, but in fact, this did not occur. As in previous versions of this review, we used the method described by Van Tulder 1997 to rate the quality of trials and to perform a 'best evidence' synthesis by attributing levels of evidence on the basis of methodological quality. Risk of bias assessments were performed in parallel using standard Cochrane methodology. However, the Van Tulder system provided a more discriminative evaluation of rehabilitation trials, so we have continued to use it for our primary synthesis of evidence. We subdivided trials in terms of severity of brain injury, setting and type and timing of rehabilitation offered. 

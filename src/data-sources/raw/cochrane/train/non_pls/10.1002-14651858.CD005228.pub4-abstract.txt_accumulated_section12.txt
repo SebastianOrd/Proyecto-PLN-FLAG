@@ -1,0 +1,12 @@
+Background
+Cisplatin and several related antineoplastic drugs used to treat many types of solid tumours are neurotoxic, and most patients completing a full course of cisplatin chemotherapy develop a clinically detectable sensory neuropathy. Effective neuroprotective therapies have been sought. 
+Objectives
+To examine the efficacy and safety of purported chemoprotective agents to prevent or limit the neurotoxicity of cisplatin and related drugs. 
+Search methods
+On 4 March 2013, we searched the Cochrane Neuromuscular Disease Group Specialized Register, CENTRAL, MEDLINE, EMBASE, LILACS, and CINAHL Plus for randomised trials designed to evaluate neuroprotective agents used to prevent or limit neurotoxicity of cisplatin and related drugs among human patients. 
+Selection criteria
+We included randomised controlled trials (RCTs) or quasi‐RCTs in which the participants received chemotherapy with cisplatin or related compounds, with a potential chemoprotectant (acetylcysteine, amifostine, adrenocorticotrophic hormone (ACTH), BNP7787, calcium and magnesium (Ca/Mg), diethyldithiocarbamate (DDTC), glutathione, Org 2766, oxcarbazepine, or vitamin E) compared to placebo, no treatment, or other treatments. We considered trials in which participants underwent evaluation zero to six months after completing chemotherapy using quantitative sensory testing (the primary outcome) or other measures including nerve conduction studies or neurological impairment rating using validated scales (secondary outcomes). 
+Data collection and analysis
+Two review authors assessed each study, extracted the data and reached consensus, according to standard Cochrane methodology. 
+Main results
+As of 2013, the review includes 29 studies describing nine possible chemoprotective agents, as well as description of two published meta‐analyses. Among these trials, there were sufficient data in some instances to combine the results from different studies, most often using data from secondary non‐quantitative measures. Nine of the studies were newly included at this update. Few of the included studies were at a high risk of bias overall, although often there was too little information to make an assessment. At least two review authors performed a formal review of an additional 44 articles but we did not include them in the final review for a variety of reasons. 

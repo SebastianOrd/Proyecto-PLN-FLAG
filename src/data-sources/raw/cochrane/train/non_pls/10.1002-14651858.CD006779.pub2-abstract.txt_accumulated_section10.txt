@@ -1,0 +1,10 @@
+Background
+Benign Epilepsy with Centro Temporal Spikes (BECTS) is a common epilepsy syndrome with onset in childhood which almost always remits by adolescence. It is characterised by focal seizures associated with motor signs and somatosensory symptoms, at times progressing to become generalised. The characteristic interictal EEG shows normal background activity with centrotemporal spikes which are more prominent in sleep. The prognosis is good though subtle cognitive impairment has been implicated. Antiepileptic drug (AED) treatment is used if seizures are frequent or occurring in the daytime. 
+Objectives
+To evaluate whether or not treatment with AEDs changes the short‐ or long‐term outcome of children with BECTS or both. 
+Search methods
+We searched the following databases: the Cochrane Epilepsy Group Specialized Register (30 April 2013), the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library 2013, Issue 4: (April 2013)), MEDLINE (Ovid, 1946 to 30 April 2013), SCOPUS (30 April 2013), ClinicalTrials.gov (30 April 2013) and the WHO International Clinical Trials Registry Platform ICTRP (30 April 2013). We also handsearched the reference lists of articles that were considered for inclusion in the review. 
+Selection criteria
+All randomised controlled trials (RCTs) that compared the use of different AEDs, or compared the use of AEDs with no treatment, or placebo in children with BECTS. 
+Data collection and analysis
+Data were independently extracted by all four of the review authors and discrepancies were resolved by discussion. Analysis included assessment of risk of bias, quality of evidence of individual studies, heterogeneity, and statistical analysis of the effects on seizure remission and cognition. 

@@ -1,0 +1,12 @@
+Background
+Chronic obstructive pulmonary disease (COPD) is associated with cough, sputum production or dyspnoea, and a reduction in lung function, quality of life, and life expectancy. Apart from smoking cessation, no other treatments that slow lung function decline are available. Roflumilast and cilomilast are oral phosphodiesterase‐4 (PDE₄) inhibitors proposed to reduce the airway inflammation and bronchoconstriction seen in COPD. This Cochrane Review was first published in 2011, and was updated in 2017 and 2020. 
+Objectives
+To evaluate the efficacy and safety of oral PDE₄ inhibitors for management of stable COPD. 
+Search methods
+We identified randomised controlled trials (RCTs) from the Cochrane Airways Trials Register (date of last search 9 March 2020). We found other trials at web‐based clinical trials registers. 
+Selection criteria
+We included RCTs if they compared oral PDE₄ inhibitors with placebo in people with COPD. We allowed co‐administration of standard COPD therapy. 
+Data collection and analysis
+We used standard Cochrane methods. Two independent review authors selected trials for inclusion, extracted data, and assessed risk of bias. We resolved discrepancies by involving a third review author. We assessed our confidence in the evidence by using GRADE recommendations. Primary outcomes were change in lung function (minimally important difference (MID) = 100 mL) and quality of life (scale 0 to 100; higher score indicates more limitations). 
+Main results
+We found 42 RCTs that met the inclusion criteria and were included in the analyses for roflumilast (28 trials with 18,046 participants) or cilomilast (14 trials with 6457 participants) or tetomilast (1 trial with 84 participants), with a duration between six weeks and one year or longer. These trials included people across international study centres with moderate to very severe COPD (Global Initiative for Chronic Obstructive Lung Disease (GOLD) grades II to IV), with mean age of 64 years. 

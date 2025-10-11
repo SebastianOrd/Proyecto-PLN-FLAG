@@ -1,0 +1,13 @@
+Background
+Critically ill people may lose fluid because of serious conditions, infections (e.g. sepsis), trauma, or burns, and need additional fluids urgently to prevent dehydration or kidney failure. Colloid or crystalloid solutions may be used for this purpose. Crystalloids have small molecules, are cheap, easy to use, and provide immediate fluid resuscitation, but may increase oedema. Colloids have larger molecules, cost more, and may provide swifter volume expansion in the intravascular space, but may induce allergic reactions, blood clotting disorders, and kidney failure. This is an update of a Cochrane Review last published in 2013. 
+Objectives
+To assess the effect of using colloids versus crystalloids in critically ill people requiring fluid volume replacement on mortality, need for blood transfusion or renal replacement therapy (RRT), and adverse events (specifically: allergic reactions, itching, rashes). 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and two other databases on 23 February 2018. We also searched clinical trials registers. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs of critically ill people who required fluid volume replacement in hospital or emergency out‐of‐hospital settings. Participants had trauma, burns, or medical conditions such as sepsis. We excluded neonates, elective surgery and caesarean section. We compared a colloid (suspended in any crystalloid solution) versus a crystalloid (isotonic or hypertonic). 
+Data collection and analysis
+Independently, two review authors assessed studies for inclusion, extracted data, assessed risk of bias, and synthesised findings. We assessed the certainty of evidence with GRADE. 
+Main results
+We included 69 studies (65 RCTs, 4 quasi‐RCTs) with 30,020 participants. Twenty‐eight studied starch solutions, 20 dextrans, seven gelatins, and 22 albumin or fresh frozen plasma (FFP); each type of colloid was compared to crystalloids. 
+Participants had a range of conditions typical of critical illness. Ten studies were in out‐of‐hospital settings. We noted risk of selection bias in some studies, and, as most studies were not prospectively registered, risk of selective outcome reporting. Fourteen studies included participants in the crystalloid group who received or may have received colloids, which might have influenced results. 

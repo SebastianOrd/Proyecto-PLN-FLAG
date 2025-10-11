@@ -1,0 +1,10 @@
+Background
+Multinodular goitre is common in women. Treatments for non‐toxic multinodular goitre include surgery, levothyroxine suppressive therapy, and radioiodine. Radioiodine therapy is the only non‐surgical alternative for non‐toxic multinodular goitre. However, a high amount of radioiodine is needed to enable the thyroid nodules to adequately take up the radioiodine, because the multinodular goitre takes up a low amount of iodine. Recombinant human thyrotropin (rhTSH) has been used to increase radioiodine uptake and reduce thyroid volume of the multinodular goitre. Whether the improved reduction of the goitre resulting from rhTSH‐stimulated radioiodine therapy is beneficial to the person remains controversial. 
+Objectives
+To assess the effects of recombinant human thyrotropin‐aided radioiodine treatment for non‐toxic multinodular goitre. 
+Search methods
+We searched the CENTRAL, MEDLINE, Scopus as well as ICTRP Search Portal and ClinicalTrials.gov. The date of the last search of all databases was 18 December 2020. 
+Selection criteria
+We included randomised controlled clinical trials (RCTs) comparing the effects of rhTSH‐aided radioiodine treatment compared with radioiodine alone for non‐toxic multinodular goitre, with at least 12 months of follow‐up. 
+Data collection and analysis
+Two review authors independently screened titles and abstracts for relevance. Screening for inclusion, data extraction, and risk of bias assessment were carried out by one review author and checked by a second. Our main outcomes were health‐related quality of life (QoL), hypothyroidism, adverse events, thyroid volume, all‐cause mortality, and costs. We used a random‐effects model to perform meta‐analyses, and calculated risk ratios (RRs) for dichotomous outcomes, and mean differences (MDs) for continuous outcomes, using 95% confidence intervals (CIs) for effect estimates. We evaluated the certainty of the evidence using the GRADE approach. 

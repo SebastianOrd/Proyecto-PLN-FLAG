@@ -1,0 +1,16 @@
+Background
+Anxiety in relation to surgery is a well‐known problem. Melatonin offers an alternative treatment to benzodiazepines for ameliorating this condition in the preoperative and postoperative periods. 
+Objectives
+To assess the effects of melatonin on preoperative and postoperative anxiety compared to placebo or benzodiazepines. 
+Search methods
+We searched the following databases on 10 July 2020: CENTRAL, MEDLINE, Embase, CINAHL, and Web of Science. For ongoing trials and protocols, we searched clinicaltrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform. 
+Selection criteria
+We included randomized, placebo‐controlled or standard treatment‐controlled (or both) studies that evaluated the effects of preoperatively administered melatonin on preoperative or postoperative anxiety. We included adult patients of both sexes (15 to 90 years of age) undergoing any kind of surgical procedure for which it was necessary to use general, regional, or topical anaesthesia. 
+Data collection and analysis
+One review author conducted data extraction in duplicate. Data extracted included information about study design, country of origin, number of participants and demographic details, type of surgery, type of anaesthesia, intervention and dosing regimens, preoperative anxiety outcome measures, and postoperative anxiety outcome measures. 
+Main results
+We included 27 randomized controlled trials (RCTs), involving 2319 participants, that assessed melatonin for treating preoperative anxiety, postoperative anxiety, or both. 
+Twenty‐four studies compared melatonin with placebo. Eleven studies compared melatonin to a benzodiazepine (seven studies with midazolam, three studies with alprazolam, and one study with oxazepam). Other comparators in a small number of studies were gabapentin, clonidine, and pregabalin. 
+No studies were judged to be at low risk of bias for all domains. Most studies were judged to be at unclear risk of bias overall. Eight studies were judged to be at high risk of bias in one or more domain, and thus, to be at high risk of bias overall. 
+Melatonin versus placebo 
+Melatonin probably results in a reduction in preoperative anxiety measured by a visual analogue scale (VAS, 0 to 100 mm) compared to placebo (mean difference (MD) ‐11.69, 95% confidence interval (CI) ‐13.80 to ‐9.59; 18 studies, 1264 participants; moderate‐certainty evidence), based on a meta‐analysis of 18 studies. 

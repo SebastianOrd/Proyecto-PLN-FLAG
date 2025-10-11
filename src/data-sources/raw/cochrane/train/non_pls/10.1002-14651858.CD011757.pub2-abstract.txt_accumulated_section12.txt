@@ -1,0 +1,12 @@
+Background
+Carpal tunnel syndrome is a common problem and surgical decompression of the carpal tunnel is the most effective treatment. After surgical decompression, the palmar skin may be closed using either absorbable or non‐absorbable sutures. To date, there is conflicting evidence regarding the ideal suture material and this formed the rationale for our review. 
+Objectives
+To assess the effects of absorbable versus non‐absorbable sutures for skin closure after elective carpal tunnel decompression surgery in adults on postoperative pain, hand function, scar satisfaction, wound inflammation and adverse events. 
+Search methods
+We searched the following databases on 30 October 2017: the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, and Embase. We searched two clinical trials registries on 30 October 2017. 
+Selection criteria
+We considered all randomised or quasi‐randomised controlled trials comparing absorbable and non‐absorbable sutures for skin closure after any form of carpal tunnel decompression surgery in adults. 
+Data collection and analysis
+The unit of analysis was the hand rather than the patient. We performed meta‐analysis of direct comparisons to generate standardised mean differences (SMDs) with 95% confidence intervals (CIs) in pain scores and risk ratios (RRs) with 95% CIs for dichotomous outcomes, such as wound inflammation. The primary outcome was postoperative pain. Secondary outcomes included hand function, scar satisfaction, scar inflammation and adverse events (complications). We assessed the quality of evidence for key outcomes using GRADE. 
+Main results
+We included five randomised trials (255 participants). The trials were all European (UK, Republic of Ireland, Denmark and the Netherlands). Where quoted, the mean age of participants was between 48 and 53 years. The trials measured outcomes between one and 12 weeks postoperatively. 

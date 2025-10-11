@@ -1,0 +1,15 @@
+Background
+Malnutrition is a common problem for patients waiting for orthotopic liver transplantation and a risk factor for post‐transplant morbidity. The decision to initiate enteral or parenteral nutrition, to which patients and at which time, is still debated. The effects of nutritional supplements given before or after liver transplantation, or both, still remains unclear. 
+Objectives
+The aim of this review was to assess the beneficial and harmful effects of enteral and parenteral nutrition as well as oral nutritional supplements administered to patients before and after liver transplantation. 
+Search methods
+We searched the Cochrane Hepato‐Biliary Group Controlled Trials Register (March 2012), the Cochrane Central Register of Controlled Trials (Issue 2 of 12, 2012) in The Cochrane Library, MEDLINE (January 1946 to March 2012), EMBASE (January 1974 to March 2012), Science Citation Index Expanded (January 1900 to March 2012), Social Science Citation Index (January 1961 to October 2010), and reference lists of articles. Manufacturers and experts in the field have also been contacted and relevant journals and conference proceedings were handsearched (from 1997 to October 2010). 
+Selection criteria
+Randomised clinical trials of parallel or cross‐over design evaluating the beneficial or harmful effects of enteral or parenteral nutrition or oral nutritional supplements for patients before and after liver transplantation were eligible for inclusion. 
+Data collection and analysis
+Two authors independently assessed the risk of bias of the trials and extracted data. Dichotomous data were reported as odds ratios (OR) and continuous data as mean differences (MD) along with their corresponding 95% confidence intervals (CI). Meta‐analysis was not possible due to clinical heterogeneity of included interventions. 
+Main results
+Thirteen trials met the inclusion criteria. Four publications did not report outcomes pre‐defined in the review protocol, or other clinically relevant outcomes and additional data could not be obtained. Nine trials could provide data for the review. Most of the 13 included trials were small and at high risk of bias. Meta‐analyses were not possible due to clinical heterogeneity of the interventions. 
+No interventions that were likely to be beneficial were identified.
+For interventions of unknown effectiveness,
+postoperative enteral nutrition compared with postoperative parenteral nutrition seemed to have no beneficial or harmful effects on clinical outcomes. Parenteral nutrition containing protein, fat, carbohydrates, and branched‐chain amino acids with or without alanyl‐glutamine seemed to have no beneficial effect on the outcomes of one and three years survival when compared with a solution of 5% dextrose and normal saline. Enteral immunonutrition with Supportan® seemed to have no effect on occurrence of immunological rejection when compared with enteral nutrition with Fresubin®. 

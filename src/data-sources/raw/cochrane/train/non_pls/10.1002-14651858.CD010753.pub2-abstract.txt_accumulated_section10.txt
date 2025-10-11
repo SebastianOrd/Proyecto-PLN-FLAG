@@ -1,0 +1,10 @@
+Background
+Insomnia disorder is a subjective condition of unsatisfactory sleep (e.g. sleep onset, maintenance, early waking, impairment of daytime functioning). Insomnia disorder impairs quality of life and is associated with an increased risk of physical and mental health problems including anxiety, depression, drug and alcohol abuse, and increased health service use. hypnotic medications (e.g. benzodiazepines and 'Z' drugs) are licensed for sleep promotion, but can induce tolerance and dependence, although many people remain on long‐term treatment. Antidepressant use for insomnia is widespread, but none is licensed for insomnia and the evidence for their efficacy is unclear. This use of unlicensed medications may be driven by concern over longer‐term use of hypnotics and the limited availability of psychological treatments. 
+Objectives
+To assess the effectiveness, safety and tolerability of antidepressants for insomnia in adults. 
+Search methods
+This review incorporated the results of searches to July 2015 conducted on electronic bibliographic databases: the Cochrane Central Register of Controlled Trials (CENTRAL, 2015, Issue 6), MEDLINE (1950 to 2015), Embase (1980 to 2015) and PsycINFO (1806 to 2015). We updated the searches to December 2017, but these results have not yet been incorporated into the review. 
+Selection criteria
+Randomised controlled trials (RCTs) of adults (aged 18 years or older) with a primary diagnosis of insomnia and all participant types including people with comorbidities. Any antidepressant as monotherapy at any dose whether compared with placebo, other medications for insomnia (e.g. benzodiazepines and 'Z' drugs), a different antidepressant, waiting list control or treatment as usual. 
+Data collection and analysis
+Two review authors independently assessed trials for eligibility and extracted data using a data extraction form. A third review author resolved disagreements on inclusion or data extraction. 

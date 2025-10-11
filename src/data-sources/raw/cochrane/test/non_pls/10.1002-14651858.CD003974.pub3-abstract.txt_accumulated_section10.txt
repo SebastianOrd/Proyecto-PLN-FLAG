@@ -1,0 +1,10 @@
+Background
+Placebo interventions are often claimed to substantially improve patient‐reported and observer‐reported outcomes in many clinical conditions, but most reports on effects of placebos are based on studies that have not randomised patients to placebo or no treatment. Two previous versions of this review from 2001 and 2004 found that placebo interventions in general did not have clinically important effects, but that there were possible beneficial effects on patient‐reported outcomes, especially pain. Since then several relevant trials have been published. 
+Objectives
+Our primary aims were to assess the effect of placebo interventions in general across all clinical conditions, and to investigate the effects of placebo interventions on specific clinical conditions. Our secondary aims were to assess whether the effect of placebo treatments differed for patient‐reported and observer‐reported outcomes, and to explore other reasons for variations in effect. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library Issue 4, 2007), MEDLINE (1966 to March 2008), EMBASE (1980 to March 2008), PsycINFO (1887 to March 2008) and Biological Abstracts (1986 to March 2008). We contacted experts on placebo research, and read references in the included trials. 
+Selection criteria
+We included randomised placebo trials with a no‐treatment control group investigating any health problem. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We contacted study authors for additional information. Trials with binary data were summarised using relative risk (a value of less than 1 indicates a beneficial effect of placebo), and trials with continuous outcomes were summarised using standardised mean difference (a negative value indicates a beneficial effect of placebo). 

@@ -1,0 +1,10 @@
+Background
+Decreased concentration of nitric oxide has been proposed as one of the possible cellular mechanisms of necrotising enterocolitis (NEC). Arginine can act as a substrate for production of nitric oxide in the tissues, and arginine supplementation may help to prevent NEC. 
+Objectives
+To examine the effect of arginine supplementation (administered by any route) on the incidence of NEC in preterm neonates. To conduct subgroup analyses based on the dose of arginine and the gestational age of participants (≤ 32 weeks, > 32 weeks). 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 4), MEDLINE via PubMed (from 1966 to 12 May 2016), Embase (from 1980 to 12 May 2016) and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; from 1982 to 12 May 2016). We also searched clinical trials databases, conference proceedings and reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials of arginine supplementation (administered orally or parenterally for at least seven days, in addition to what an infant may be receiving from an enteral or parenteral source) compared with placebo or no treatment. 
+Data collection and analysis
+We assessed the methodological quality of trials by using information obtained from study reports and through personal communication with study authors. We extracted data on relevant outcomes and estimated and reported the effect size as risk ratio (RR), risk difference (RD) and mean difference (MD), as appropriate. We used the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach to assess the quality of evidence. 

@@ -1,0 +1,10 @@
+Background
+People with end‐stage kidney disease (ESKD) treated with dialysis are frequently affected by major depression. Dialysis patients have prioritised depression as a critically important clinical outcome in nephrology trials. Psychological and social support are potential treatments for depression, although a Cochrane review in 2005 identified zero eligible studies. This is an update of the Cochrane review first published in 2005. 
+Objectives
+To assess the effect of using psychosocial interventions versus usual care or a second psychosocial intervention for preventing and treating depression in patients with ESKD treated with dialysis. 
+Search methods
+We searched Cochrane Kidney and Transplant's Register of Studies up to 21 June 2019 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs of psychosocial interventions for prevention and treatment of depression among adults treated with long‐term dialysis. We assessed effects of interventions on changes in mental state (depression, anxiety, cognition), suicide, health‐related quality of life (HRQoL), withdrawal from dialysis treatment, withdrawal from intervention, death (any cause), hospitalisation and adverse events. 
+Data collection and analysis
+Two authors independently selected studies for inclusion and extracted study data. We applied the Cochrane 'Risk of Bias' tool and used the GRADE process to assess evidence certainty. We estimated treatment effects using random‐effects meta‐analysis. Results for continuous outcomes were expressed as a mean difference (MD) or as a standardised mean difference (SMD) when investigators used different scales. Dichotomous outcomes were expressed as risk ratios. All estimates were reported together with 95% confidence intervals (CI). 

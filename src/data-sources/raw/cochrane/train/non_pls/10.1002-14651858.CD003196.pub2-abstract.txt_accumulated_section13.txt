@@ -1,0 +1,13 @@
+Background
+Bipolar disorder is a recurrent illness that is amongst the top 30 causes of disability worldwide and is associated with significant healthcare costs. In the past, emphasis was placed solely on the treatment of acute episodes of bipolar disorder; recently, the importance of episode prevention and of minimisation of iatrogenicity has been recognised. For many years, lithium was the only mood stabiliser in common use, and it remains an agent of first choice in the preventative treatment of bipolar disorder. However, an estimated 20% to 40% of patients may not respond adequately to lithium. Valproate is an anticonvulsant drug that has been shown to be effective in acute mania and is frequently used in maintenance treatment of bipolar disorder. When the acceptability of long‐term treatment is considered, together with efficacy, the adverse event profile of a medication is also important. This is an update of a Cochrane review first published in 2001 and last updated in 2009. 
+Objectives
+1. To determine the efficacy of valproate continuation and maintenance treatment:
+a) in preventing or attenuating manic, depressive and mixed episodes of bipolar disorder;
+b) in preventing or attenuating episodes of bipolar disorder in patients with rapid cycling disorder; and 
+c) in improving patients' general health and social functioning, as measured by global clinical impression, employment and marital stability. 
+2. To review the acceptability to patients of long‐term valproate treatment, as measured by numbers of dropouts and reasons for dropping out, by compliance and by reference to patients' expressed views regarding treatment. 
+3. To investigate the adverse effects of valproate treatment (including general prevalence of side effects) and overall mortality rates. 
+Search methods
+Search of the Cochrane Register of Controlled Trials and the Cochrane Depression, Anxiety and Neurosis Group Register (CCDANCTR) (to January 2013), which includes relevant randomised controlled trials from the following bibliographic databases: The Cochrane Library (all years), EMBASE, (1974 to date), MEDLINE (1950 to date) and PsycINFO (1967 to date). No language restrictions were applied. Reference lists of relevant papers and previous systematic reviews were handsearched. Pharmaceutical companies marketing valproate and experts in this field were contacted for supplemental data. 
+Selection criteria
+Randomised controlled trials allocating participants with bipolar disorder to long‐term treatment with valproate or any other mood stabiliser, or antipsychotic drugs, or placebo. Maintenance treatment was defined as treatment instituted specifically or mainly to prevent further episodes of illness. 

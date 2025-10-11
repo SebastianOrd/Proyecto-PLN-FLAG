@@ -1,0 +1,13 @@
+Background
+Some hospital patients may be at risk of or may present with major bleeding. Abnormalities of clotting (coagulation) are often recorded in these people, and the traditional management has been with transfusions of blood components, either to prevent bleeding (prophylactic) or to treat bleeding (therapeutic). There is growing interest in the use of targeted therapies with specific pro‐coagulant haemostatic (causing bleeding to stop and to keep blood within a damaged blood vessel) factor concentrates in place of plasma. 
+Objectives
+To assess the effects and safety of pro‐coagulant haemostatic factors and factor concentrates in the prevention and treatment of bleeding in people without haemophilia. 
+Search methods
+We searched for randomised controlled trials (RCTs) in the Cochrane Central Register of Controlled Trials (2018, issue 3), MEDLINE (from 1948), Embase (from 1974), CINAHL (from 1938), PubMed (publications in process to 18 April 2018), PROSPERO, Transfusion Evidence Library (from 1950), LILACS (from 1980), IndMED (from 1985), KoreaMed (from 1934), Web of Science Conference Proceedings Citation Index (from 1990) and ongoing trial databases to 18 April 2018. 
+Selection criteria
+We included RCTs that compared intravenous administration of a pro‐coagulant haemostatic factor concentrate, either with placebo, current best or standard treatment, or another pro‐coagulant haemostatic factor concentrate for prevention or treatment of bleeding. There was no restriction on the types of participants. We excluded studies of desmopressin, tranexamic acid and aminocaproic acid and use of pro‐coagulant haemostatic factors for vitamin K over‐anticoagulation. 
+Data collection and analysis
+We followed standard Cochrane methodological procedures.
+Main results
+We identified 31 RCTs with 2392 participants and 22 ongoing trials. There were 13 therapeutic RCTs that randomised 1057 participants (range from 20 to 249 participants) and 18 prophylactic trials that randomised 1335 participants (range 20 to 479 participants). The pro‐coagulant haemostatic factor concentrate was fibrinogen in 23 trials, Factor XIII in seven trials and pro‐thrombin complex concentrates (PCC) in one trial. 
+Seventeen trials had industrial funding or support, eight studies either did not declare their funding or were unclear about their source of funding and six studies declared non‐industrial funding sources. 

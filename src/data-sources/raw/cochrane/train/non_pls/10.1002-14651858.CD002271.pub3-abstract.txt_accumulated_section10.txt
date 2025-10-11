@@ -1,0 +1,10 @@
+Background
+Respiratory distress, particularly respiratory distress syndrome (RDS), is the single most important cause of morbidity and mortality in preterm infants. In infants with progressive respiratory insufficiency, intermittent positive pressure ventilation (IPPV) with surfactant has been the usual treatment, but it is invasive, potentially resulting in airway and lung injury. Continuous positive airway pressure (CPAP) has been used for the prevention and treatment of respiratory distress, as well as for the prevention of apnoea, and in weaning from IPPV. Its use in the treatment of RDS might reduce the need for IPPV and its sequelae. 
+Objectives
+To determine the effect of continuous distending pressure in the form of CPAP on the need for IPPV and associated morbidity in spontaneously breathing preterm infants with respiratory distress. 
+Search methods
+We used the standard strategy of Cochrane Neonatal to search CENTRAL (2020, Issue 6); Ovid MEDLINE and Epub Ahead of Print, In‐Process & Other Non‐Indexed Citations, Daily and Versions; and CINAHL on 30 June 2020. We also searched clinical trials databases and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+All randomised or quasi‐randomised trials of preterm infants with respiratory distress were eligible. Interventions were CPAP by mask, nasal prong, nasopharyngeal tube or endotracheal tube, compared with spontaneous breathing with supplemental oxygen as necessary. 
+Data collection and analysis
+We used standard methods of Cochrane and its Neonatal Review Group, including independent assessment of risk of bias and extraction of data by two review authors. We used the GRADE approach to assess the certainty of evidence. 

@@ -1,0 +1,12 @@
+Background
+Acute kidney injury (AKI) is a severe loss of kidney function that results in patients' inability to appropriately excrete nitrogenous wastes and creatinine. Continuous haemodiafiltration (HDF) or haemofiltration (HF) are commonly used renal replacement therapies for people with AKI. Buffered dialysates and solutions used in HDF or HF have varying effects on acid‐base physiology and several electrolytes. The benefits and harms of bicarbonate‐ versus lactate‐buffered HDF or HF solutions for treating patients with AKI remain unclear. 
+Objectives
+To assess the benefits and harms of bicarbonate‐ versus lactate‐buffered solutions for HDF or HF for treating people with AKI. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register to 6 January 2015 through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. We also searched the Chinese Biomedical Literature Database. 
+Selection criteria
+All randomised controlled trials (RCT) and quasi‐RCTs that reported comparisons of bicarbonate‐buffered solutions with lactate‐buffered solutions for AKI were selected for inclusion irrespective of publication status or language. 
+Data collection and analysis
+Two authors independently assessed titles and abstracts, and where necessary the full text of studies, to determine which satisfied our inclusion criteria. Data were extracted by two authors who independently assessed studies for eligibility and quality using a standardised data extraction form. Methodological quality was assessed using the Cochrane risk of bias tool. Results were expressed as risk ratio (RR) or mean difference (MD) with 95% confidence intervals (CI). 
+Main results
+We identified four studies (171 patients) that met our inclusion criteria. Overall, study quality was suboptimal. There were significant reporting omissions related to methodological issues and potential harms. Outcome measures were not defined or reported adequately. The studies were small and lacked follow‐up phases. 

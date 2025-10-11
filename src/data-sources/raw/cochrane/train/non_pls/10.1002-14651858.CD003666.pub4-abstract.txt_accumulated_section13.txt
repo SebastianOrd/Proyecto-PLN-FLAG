@@ -1,0 +1,13 @@
+Background
+Damage caused by lung overdistension (volutrauma) has been implicated in the development of bronchopulmonary dysplasia (BPD). Modern neonatal ventilation modes can target a set tidal volume as an alternative to traditional pressure‐limited ventilation (PLV) using a fixed inflation pressure. Volume‐targeted ventilation (VTV) aims to produce a more stable tidal volume in order to reduce lung damage and stabilise the partial pressure of carbon dioxide (pCO2). 
+Objectives
+To determine whether VTV compared with PLV leads to reduced rates of death and death or BPD in newborn infants and to determine whether use of VTV affected outcomes including air leak, cranial ultrasound findings and neurodevelopment. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 12), MEDLINE via PubMed (1966 to 13 January 2017), Embase (1980 to 13 January 2017) and CINAHL (1982 to 13 January 2017). We also searched clinical trials databases, conference proceedings and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. We contacted the principal investigators of studies to obtain supplementary information. 
+Selection criteria
+Randomised and quasi‐randomised trials comparing VTV versus PLV in infants of less than 44 weeks' postmenstrual age and reporting clinically relevant outcomes. 
+Data collection and analysis
+We assessed risk of bias for each trial using Cochrane methodology. We evaluated quality of evidence for each outcome using GRADE criteria. We tabulated mortality, rates of BPD, short‐term clinical outcomes and long‐term developmental outcomes. 
+Statistics: for categorical outcomes, we calculated typical estimates for risk ratios (RR), risk differences (RD) and number needed to treat for an additional beneficial outcome (NNTB). For continuous variables, we calculated typical estimates for mean differences (MD). We used 95% confidence intervals (CI) and assumed a fixed‐effect model for meta‐analysis. 
+Main results
+Twenty randomised trials met our inclusion criteria; 16 parallel trials (977 infants) and four cross‐over trials (88 infants). No studies were blinded and the quality of evidence for outcomes assessed varied from moderate to low. 

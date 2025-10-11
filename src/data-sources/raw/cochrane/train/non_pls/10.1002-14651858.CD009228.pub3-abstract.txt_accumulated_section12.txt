@@ -1,0 +1,12 @@
+Background
+Although helicopters are presently an integral part of trauma systems in most developed nations, previous reviews and studies to date have raised questions about which groups of traumatically injured people derive the greatest benefit. 
+Objectives
+To determine if helicopter emergency medical services (HEMS) transport, compared with ground emergency medical services (GEMS) transport, is associated with improved morbidity and mortality for adults with major trauma. 
+Search methods
+We ran the most recent search on 29 April 2015. We searched the Cochrane Injuries Group's Specialised Register, The Cochrane Library (Cochrane Central Register of Controlled Trials; CENTRAL), MEDLINE (OvidSP), EMBASE Classic + EMBASE (OvidSP), CINAHL Plus (EBSCOhost), four other sources, and clinical trials registers. We screened reference lists. 
+Selection criteria
+Eligible trials included randomized controlled trials (RCTs) and nonrandomized intervention studies. We also evaluated nonrandomized studies (NRS), including controlled trials and cohort studies. Each study was required to have a GEMS comparison group. An Injury Severity Score (ISS) of at least 15 or an equivalent marker for injury severity was required. We included adults age 16 years or older. 
+Data collection and analysis
+Three review authors independently extracted data and assessed the risk of bias of included studies. We applied the Downs and Black quality assessment tool for NRS. We analyzed the results in a narrative review, and with studies grouped by methodology and injury type. We constructed 'Summary of findings' tables in accordance with the GRADE Working Group criteria. 
+Main results
+This review includes 38 studies, of which 34 studies examined survival following transportation by HEMS compared with GEMS for adults with major trauma. Four studies were of inter‐facility transfer to a higher level trauma center by HEMS compared with GEMS. All studies were NRS; we found no RCTs. The primary outcome was survival at hospital discharge. We calculated unadjusted mortality using data from 282,258 people from 28 of the 38 studies included in the primary analysis. Overall, there was considerable heterogeneity and we could not determine an accurate estimate of overall effect. 

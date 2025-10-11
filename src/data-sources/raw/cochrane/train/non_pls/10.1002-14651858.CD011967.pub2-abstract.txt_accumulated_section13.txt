@@ -1,0 +1,13 @@
+Background
+Gestational diabetes mellitus (GDM) is a major public health issue with rates increasing globally. Gestational diabetes, glucose intolerance first recognised during pregnancy, usually resolves after birth and is associated with short‐ and long‐term complications for the mother and her infant. Treatment options can include oral anti‐diabetic pharmacological therapies. 
+Objectives
+To evaluate the effects of oral anti‐diabetic pharmacological therapies for treating women with GDM. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth's Trials Register (14 May 2016), ClinicalTrials.gov, WHO ICTRP (14 May 2016) and reference lists of retrieved studies. 
+Selection criteria
+We included published and unpublished randomised controlled trials assessing the effects of oral anti‐diabetic pharmacological therapies for treating pregnant women with GDM. We included studies comparing oral anti‐diabetic pharmacological therapies with 1) placebo/standard care, 2) another oral anti‐diabetic pharmacological therapy, 3) combined oral anti‐diabetic pharmacological therapies. Trials using insulin as the comparator were excluded as they are the subject of a separate Cochrane systematic review. 
+Women with pre‐existing type 1 or type 2 diabetes were excluded.
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and trial quality. Two review authors independently extracted data and data were checked for accuracy. 
+Main results
+We included 11 studies (19 publications) (1487 women and their babies). Eight studies had data that could be included in meta‐analyses. Studies were conducted in Brazil, India, Israel, UK, South Africa and USA. The studies varied in diagnostic criteria and treatment targets for glycaemic control for GDM. The overall risk of bias was 'unclear' due to inadequate reporting of methodology. Using GRADE the quality of the evidence ranged from moderate to very low quality. Evidence was downgraded for risk of bias (reporting bias, lack of blinding), inconsistency, indirectness, imprecision and for oral anti‐diabetic therapy versus placebo for generalisability. 

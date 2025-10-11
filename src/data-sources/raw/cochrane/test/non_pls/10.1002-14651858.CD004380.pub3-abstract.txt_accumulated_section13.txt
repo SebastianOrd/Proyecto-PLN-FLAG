@@ -1,0 +1,13 @@
+Background
+Child sexual abuse is a significant global problem in both magnitude and sequelae. The most widely used primary prevention strategy has been the provision of school‐based education programmes. Although programmes have been taught in schools since the 1980s, their effectiveness requires ongoing scrutiny. 
+Objectives
+To systematically assess evidence of the effectiveness of school‐based education programmes for the prevention of child sexual abuse. Specifically, to assess whether: programmes are effective in improving students' protective behaviours and knowledge about sexual abuse prevention; behaviours and skills are retained over time; and participation results in disclosures of sexual abuse, produces harms, or both. 
+Search methods
+In September 2014, we searched CENTRAL, Ovid MEDLINE, EMBASE and 11 other databases. We also searched two trials registers and screened the reference lists of previous reviews for additional trials. 
+Selection criteria
+We selected randomised controlled trials (RCTs), cluster‐RCTs, and quasi‐RCTs of school‐based education interventions for the prevention of child sexual abuse compared with another intervention or no intervention. 
+Data collection and analysis
+Two review authors independently assessed the eligibility of trials for inclusion, extracted data, and assessed risk of bias. We summarised data for six outcomes: protective behaviours; knowledge of sexual abuse or sexual abuse prevention concepts; retention of protective behaviours over time; retention of knowledge over time; harm; and disclosures of sexual abuse. 
+Main results
+This is an update of a Cochrane Review that included 15 trials (up to August 2006). We identified 10 additional trials for the period to September 2014. We excluded one trial from the original review. Therefore, this update includes a total of 24 trials (5802 participants). We conducted several meta‐analyses. More than half of the trials in each meta‐analysis contained unit of analysis errors. 
+1. Meta‐analysis of two trials (n = 102) evaluating protective behaviours favoured intervention (odds ratio (OR) 5.71, 95% confidence interval (CI) 1.98 to 16.51), with borderline low to moderate heterogeneity (Chi² = 1.37, df = 1, P value = 0.24, I² = 27%, Tau² = 0.16). The results did not change when we made adjustments using intraclass correlation coefficients (ICCs) to correct errors made in studies where data were analysed without accounting for the clustering of students in classes or schools. 

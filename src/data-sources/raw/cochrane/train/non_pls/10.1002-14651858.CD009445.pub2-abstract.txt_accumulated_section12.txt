@@ -1,0 +1,12 @@
+Background
+Achieving informed consent is a core clinical procedure and is required before any surgical or invasive procedure is undertaken.  However, it is a complex process which requires patients be provided with information which they can understand and retain, opportunity to consider their options, and to be able to express their opinions and ask questions.  There is evidence that at present some patients undergo procedures without informed consent being achieved. 
+Objectives
+To assess the effects on patients, clinicians and the healthcare system of interventions to promote informed consent for patients undergoing surgical and other invasive healthcare treatments and procedures. 
+Search methods
+We searched the following databases using keywords and medical subject headings: Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 5, 2012), MEDLINE (OvidSP) (1950 to July 2011), EMBASE (OvidSP) (1980 to July 2011) and PsycINFO (OvidSP) (1806 to July 2011). We applied no language or date restrictions within the search. We also searched reference lists of included studies. 
+Selection criteria
+Randomised controlled trials and cluster randomised trials of interventions to promote informed consent for patients undergoing surgical and other invasive healthcare procedures. We considered an intervention to be intended to promote informed consent when information delivery about the procedure was enhanced (either by providing more information or through, for example, using new written materials), or if more opportunity to consider or deliberate on the information was provided. 
+Data collection and analysis
+Two authors assessed the search output independently to identify potentially‐relevant studies, selected studies for inclusion, and extracted data. We conducted a narrative synthesis of the included trials, and meta‐analyses of outcomes where there were sufficient data. 
+Main results
+We included 65 randomised controlled trials from 12 countries involving patients undergoing a variety of procedures in hospitals. Nine thousand and twenty one patients were randomised and entered into these studies. Interventions used various designs and formats but the main data for results were from studies using written materials, audio‐visual materials and decision aids. Some interventions were delivered before admission to hospital for the procedure while others were delivered on admission. 

@@ -1,0 +1,10 @@
+Background
+Following cataract surgery and intraocular lens (IOL) implantation, loss of accommodation or postoperative presbyopia occurs and remains a challenge. Standard monofocal IOLs correct only distance vision; patients require spectacles for near vision. Accommodative IOLs have been designed to overcome loss of accommodation after cataract surgery. 
+Objectives
+To define (a) the extent to which accommodative IOLs improve unaided near visual function, in comparison with monofocal IOLs; (b) the extent of compromise to unaided distance visual acuity; c) whether a higher rate of additional complications is associated the use of accommodative IOLs. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2013, Issue 9), Ovid MEDLINE, Ovid MEDLINE in‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily Update, Ovid OLDMEDLINE (January 1946 to October 2013), EMBASE (January 1980 to October 2013), Latin American and Caribbean Health Sciences Literature Database (LILACS) (January 1982 to October 2013), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrial.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 10 October 2013. 
+Selection criteria
+We include randomised controlled trials (RCTs) which compared implantation of accommodative IOLs to implantation of monofocal IOLs in cataract surgery. 
+Data collection and analysis
+Two authors independently screened search results, assessed risk of bias and extracted data. All included trials used the 1CU accommodative IOL (HumanOptics, Erlangen, Germany) for their intervention group. One trial had an additional arm with the AT‐45 Crystalens accommodative IOL (Eyeonics Vision). We performed a separate analysis comparing 1CU and AT‐45 IOL. 

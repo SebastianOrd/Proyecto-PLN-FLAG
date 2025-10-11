@@ -1,0 +1,10 @@
+Background
+The contraceptive vaginal sponge was developed as an alternative to the contraceptive diaphragm. The sponge, made of polyurethane impregnated with nonoxynol‐9 (1g), releases 125 mg of the spermicide over 24 hours of use. Unlike the diaphragm, the sponge can be used for more than one coital act within 24 hours without the insertion of additional spermicide, and the sponge does not require fitting or a prescription from a physician. How the sponge compares with the diaphragm in terms of efficacy and continuation is not clear. 
+Objectives
+To compare the efficacy and continuation rates of the sponge with the diaphragm (used with nonoxynol‐9). Our a priori hypothesis was that the sponge would have higher rates for failure and discontinuation than the diaphragm. 
+Search methods
+In April 2013, we searched the computerized databases MEDLINE, POPLINE, LILACS, CENTRAL, ClinicalTrials.gov and ICTRP. Earlier searches also included EMBASE. For the initial review, we searched the reference lists of relevant articles and book chapters. We also contacted investigators involved with the identified trials for other published or unpublished trials. 
+Selection criteria
+We included randomized controlled trials comparing the vaginal contraceptive sponge (Today; Collatex) with any diaphragm used with nonoxynol‐9 to prevent pregnancy. 
+Data collection and analysis
+We examined the studies identified through the literature searches for possible inclusion and evaluated their methodological quality using the Cochrane guidelines. We entered data into RevMan and calculated Peto odds ratios for overall pregnancy and 12‐month discontinuation using numbers of women as the denominator. We also abstracted 12‐month cumulative life‐table ratios for these same outcomes but were unable to aggregate these data. 

@@ -1,0 +1,12 @@
+Background
+Removing dental plaque may play a key role maintaining oral health. There is conflicting evidence for the relative merits of manual and powered toothbrushing in achieving this. This is an update of a Cochrane review first published in 2003, and previously updated in 2005. 
+Objectives
+To compare manual and powered toothbrushes in everyday use, by people of any age, in relation to the removal of plaque, the health of the gingivae, staining and calculus, dependability, adverse effects and cost. 
+Search methods
+We searched the following electronic databases: the Cochrane Oral Health Group's Trials Register (to 23 January 2014), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 1), MEDLINE via OVID (1946 to 23 January 2014), EMBASE via OVID (1980 to 23 January 2014) and CINAHL via EBSCO (1980 to 23 January 2014). We searched the US National Institutes of Health Trials Register and the WHO Clinical Trials Registry Platform for ongoing trials. No restrictions were placed on the language or date of publication when searching the electronic databases. 
+Selection criteria
+Randomised controlled trials of at least four weeks of unsupervised powered toothbrushing versus manual toothbrushing for oral health in children and adults. 
+Data collection and analysis
+We used standard methodological procedures expected by The Cochrane Collaboration. Random‐effects models were used provided there were four or more studies included in the meta‐analysis, otherwise fixed‐effect models were used. Data were classed as short term (one to three months) and long term (greater than three months). 
+Main results
+Fifty‐six trials met the inclusion criteria; 51 trials involving 4624 participants provided data for meta‐analysis. Five trials were at low risk of bias, five at high and 46 at unclear risk of bias. 

@@ -1,0 +1,10 @@
+Background
+It has been suggested that in comparison with open radical cystectomy, robotic‐assisted radical cystectomy results in less blood loss, shorter convalescence, and fewer complications with equivalent short‐term oncological and functional outcomes; however, uncertainty remains as to the magnitude of these benefits. 
+Objectives
+To assess the effects of robotic‐assisted radical cystectomy versus open radical cystectomy in adults with bladder cancer. 
+Search methods
+Review authors conducted a comprehensive search with no restrictions on language of publication or publication status for studies comparing open radical cystectomy and robotic‐assisted radical cystectomy. The date of the last search was 1 July 2018 for the Cochrane Central Register of Controlled Trials, MEDLINE (1999 to July 2018), PubMed Embase (1999 to July 2018), Web of Science (1999 to July 2018), Cancer Research UK (www.cancerresearchuk.org/), and the Institute of Cancer Research (www.icr.ac.uk/). We searched the following trials registers: ClinicalTrials.gov (clinicaltrials.gov/), BioMed Central International Standard Randomized Controlled Trials Number (ISRCTN) Registry (www.isrctn.com), and the World Health Organization International Clinical Trials Registry Platform. 
+Selection criteria
+We searched for randomised controlled trials that compared robotic‐assisted radical cystectomy (RARC) with open radical cystectomy (ORC). 
+Data collection and analysis
+This study was based on a published protocol. Primary outcomes of the review were recurrence‐free survival and major postoperative complications (class III to V). Secondary outcomes were minor postoperative complications (class I and II), transfusion requirement, length of hospital stay (days), quality of life, and positive margins (%). Three review authors independently assessed relevant titles and abstracts of records identified by the literature search to determine which studies should be assessed further. Two review authors assessed risk of bias using the Cochrane risk of bias tool and rated the quality of evidence according to GRADE. We used Review Manager 5 to analyse the data. 

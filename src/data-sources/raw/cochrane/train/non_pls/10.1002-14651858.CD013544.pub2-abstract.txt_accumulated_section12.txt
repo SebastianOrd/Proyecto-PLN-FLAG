@@ -1,0 +1,12 @@
+Background
+The World Health Organization (WHO) recommends that people of all ages take regular and adequate physical activity. If unable to meet the recommendations due to health conditions, international guidance advises being as physically active as possible. Evidence from community interventions of physical activity indicate that people living with medical conditions are sometimes excluded from participation in studies. In this review, we considered the effects of activity‐promoting interventions on physical activity and well‐being in studies, as well as any adverse events experienced by participants living with inherited or acquired neuromuscular diseases (NMDs).  
+Objectives
+To assess the effects of interventions designed to promote physical activity in people with NMD compared with no intervention or alternative interventions. 
+Search methods
+On 30 April 2020, we searched Cochrane Neuromuscular Specialised Register, CENTRAL, Embase, MEDLINE, and ClinicalTrials.Gov. WHO ICTRP was not accessible at the time. 
+Selection criteria
+We considered randomised or quasi‐randomised trials, including cross‐over trials, of interventions designed to promote physical activity in people with NMD compared to no intervention or alternative interventions. We specifically included studies that reported physical activity as an outcome measure. Our main focus was studies in which promoting physical activity was a stated aim but we also included studies in which physical activity was assessed as a secondary or exploratory outcome. 
+Data collection and analysis
+We used standard Cochrane procedures.
+Main results
+The review included 13 studies (795 randomised participants from 12 studies; number of participants unclear in one study) of different interventions to promote physical activity. Most studies randomised a minority of invited participants. No study involved children or adolescents and nine studies reported minimal entry criteria for walking. Participants had one of nine inherited or acquired NMDs. 

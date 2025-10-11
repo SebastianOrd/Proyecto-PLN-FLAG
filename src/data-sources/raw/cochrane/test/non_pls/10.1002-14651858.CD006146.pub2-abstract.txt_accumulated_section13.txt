@@ -1,0 +1,13 @@
+Background
+This is an updated version of the original Cochrane review published in Issue 3, 2006, which included 23 trials. The use of opioids for neuropathic pain remains controversial. Studies have been small, have yielded equivocal results, and have not established the long‐term profile of benefits and risks for people with neuropathic pain. 
+Objectives
+To reassess the efficacy and safety of opioid agonists for the treatment of neuropathic pain. 
+Search methods
+We searched CENTRAL, on The Cochrane Library (Issue 10 of 12, 2012), MEDLINE (1966 to Oct week 3, 2012), and EMBASE (1980 to 2012, week 42) for articles in any language, and reference lists of reviews and retrieved articles. Searches were originally run in 2005, then again in 2010 and 2012. 
+Selection criteria
+We included randomized controlled trials (RCTs) in which opioid agonists were given to treat central or peripheral neuropathic pain of any etiology. Pain was assessed using validated instruments, and adverse events were reported. We excluded studies in which drugs other than opioid agonists were combined with opioids or opioids were administered epidurally or intrathecally. 
+Data collection and analysis
+Two review authors independently extracted data and included demographic variables, diagnoses, interventions, efficacy, and adverse effects. 
+Main results
+Thirty‐one trials met our inclusion criteria, studying 10 different opioids: 23 studies from the original 2006 review and eight additional studies from this updated review. 
+Seventeen studies (392 participants with neuropathic pain, average 22 participants per study) provided efficacy data for acute exposure to opioids over less than 24 hours. Sixteen reported pain outcomes, with contradictory results; 8/16 reported less pain with opioids than placebo, 2/16 reported that some but not all participants benefited, 5/16 reported no difference, and 1/16 reported equivocal results. Six studies with about 170 participants indicated that mean pain scores with opioid were about 15/100 points less than placebo. 

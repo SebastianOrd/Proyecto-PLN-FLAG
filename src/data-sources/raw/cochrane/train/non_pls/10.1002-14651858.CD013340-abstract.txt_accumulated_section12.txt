@@ -1,0 +1,12 @@
+Background
+Exercise training is commonly recommended for individuals with fibromyalgia. This review is one of a series of reviews about exercise training for fibromyalgia that will replace the review titled "Exercise for treating fibromyalgia syndrome", which was first published in 2002. 
+Objectives
+To evaluate the benefits and harms of mixed exercise training protocols that include two or more types of exercise (aerobic, resistance, flexibility) for adults with fibromyalgia against control (treatment as usual, wait list control), non exercise (e.g. biofeedback), or other exercise (e.g. mixed versus flexibility) interventions. Specific comparisons involving mixed exercise versus other exercises (e.g. resistance, aquatic, aerobic, flexibility, and whole body vibration exercises) were not assessed. 
+Search methods
+We searched the Cochrane Library, MEDLINE, Embase, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), Thesis and Dissertations Abstracts, the Allied and Complementary Medicine Database (AMED), the Physiotherapy Evidence Databese (PEDro), Current Controlled Trials (to 2013), WHO ICTRP, and ClinicalTrials.gov up to December 2017, unrestricted by language, to identify all potentially relevant trials. 
+Selection criteria
+We included randomised controlled trials (RCTs) in adults with a diagnosis of fibromyalgia that compared mixed exercise interventions with other or no exercise interventions. Major outcomes were health‐related quality of life (HRQL), pain, stiffness, fatigue, physical function, withdrawals, and adverse events. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, extracted data, and assessed risk of bias and the quality of evidence for major outcomes using the GRADE approach. 
+Main results
+We included 29 RCTs (2088 participants; 98% female; average age 51 years) that compared mixed exercise interventions (including at least two of the following: aerobic or cardiorespiratory, resistance or muscle strengthening exercise, and flexibility exercise) versus control (e.g. wait list), non‐exercise (e.g. biofeedback), and other exercise interventions. Design flaws across studies led to selection, performance, detection, and selective reporting biases. We prioritised the findings of mixed exercise compared to control and present them fully here. 

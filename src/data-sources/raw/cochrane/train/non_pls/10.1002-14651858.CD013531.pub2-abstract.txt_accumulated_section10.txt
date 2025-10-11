@@ -1,0 +1,10 @@
+Background
+Crohn's disease is a remitting and relapsing disorder that can affect the whole gastrointestinal tract. Active disease symptoms include abdominal pain, fatigue, weight loss, and diarrhoea. There is no known cure; however, the disease can be managed, and therefore places a huge financial burden on healthcare systems. Abdominal pain is a common and debilitating symptom of Crohn's and other inflammatory bowel diseases (IBDs), and is multifaceted. Abdominal pain in Crohn's disease could be a symptom of disease relapse or related to medication adverse effects, surgical complications and strictures or adhesions secondary to IBD. In the absence of these factors, around 20 to 50% of people with Crohn's in remission still experience pain. 
+Objectives
+To assess the efficacy and safety of interventions for managing abdominal pain in people with Crohn's disease and IBD (where data on ulcerative colitis and Crohn's disease could not be separated). 
+Search methods
+We searched CENTRAL, MEDLINE, three other databases, and clinical trials registries on 29 April 2021. We also searched the references of trials and systematic reviews for any additional trials. 
+Selection criteria
+All published, unpublished, and ongoing randomised trials that compared interventions for the management of abdominal pain in the setting of Crohn's disease and IBD, with other active interventions or standard therapy, placebo, or no therapy were included. We excluded studies that did not report on any abdominal pain outcomes. 
+Data collection and analysis
+Five review authors independently conducted data extraction and 'Risk of bias' assessment of the included studies. We analysed data using Review Manager 5. We expressed dichotomous and continuous outcomes as risk ratios and mean differences with 95% confidence intervals. We assessed the certainty of the evidence using GRADE methodology. 

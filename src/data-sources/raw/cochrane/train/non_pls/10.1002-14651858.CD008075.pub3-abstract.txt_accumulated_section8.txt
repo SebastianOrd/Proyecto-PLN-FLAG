@@ -1,0 +1,8 @@
+Background
+Severe sepsis and septic shock are leading causes of death in the intensive care unit (ICU), despite advances in the treatment of patients with severe sepsis and septic shock, including early recognition, appropriate treatment with antibiotics and support of organs that may have been affected by the illness. High‐volume haemofiltration (HVHF) is a blood purification technique that may improve outcomes in severe sepsis or septic shock. The technique of HVHF has evolved from renal replacement therapies used in the ICU to treat critically ill patients with acute kidney injury (AKI). This review was first published in 2013 and was updated in 2016. 
+Objectives
+To investigate whether HVHF improves outcomes in critically ill adults admitted to the intensive care unit with severe sepsis or septic shock. The primary outcome of this systematic review is patient mortality; secondary outcomes include duration of stay, severity of organ dysfunction and adverse events. 
+Search methods
+For this updated version, we extended searches of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, Latin American Caribbean Health Sciences Literature (LILACS), Web of Science and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) to 31 December 2015. The original search was performed in 2011. We also searched trials registers. 
+Selection criteria
+We included randomized controlled trials (RCTs) and quasi‐randomized trials comparing HVHF or high‐volume haemodiafiltration versus standard or usual dialysis therapy, as well as RCTs and quasi‐randomized trials comparing HVHF or high‐volume haemodiafiltration versus no similar dialysis therapy. These studies involved adults treated in critical care units. 

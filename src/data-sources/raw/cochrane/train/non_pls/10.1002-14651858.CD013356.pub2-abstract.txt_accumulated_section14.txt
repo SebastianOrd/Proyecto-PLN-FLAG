@@ -1,0 +1,14 @@
+Background
+Eczema is a common skin condition. Although topical corticosteroids have been a first‐line treatment for eczema for decades, there are uncertainties over their optimal use. 
+Objectives
+To establish the effectiveness and safety of different ways of using topical corticosteroids for treating eczema. 
+Search methods
+We searched databases to January 2021 (Cochrane Skin Specialised Register; CENTRAL; MEDLINE; Embase; GREAT) and five clinical trials registers. We checked bibliographies from included trials to identify further trials. 
+Selection criteria
+Randomised controlled trials in adults and children with eczema that compared at least two strategies of topical corticosteroid use. We excluded placebo comparisons, other than for trials that evaluated proactive versus reactive treatment. 
+Data collection and analysis
+We used standard Cochrane methods, with GRADE certainty of evidence for key findings. Primary outcomes were changes in clinician‐reported signs and relevant local adverse events. Secondary outcomes were patient‐reported symptoms and relevant systemic adverse events. For local adverse events, we prioritised abnormal skin thinning as a key area of concern for healthcare professionals and patients. 
+Main results
+We included 104 trials (8443 participants). Most trials were conducted in high‐income countries (81/104), most likely in outpatient or other hospital settings. We judged only one trial to be low risk of bias across all domains. Fifty‐five trials had high risk of bias in at least one domain, mostly due to lack of blinding or missing outcome data. 
+Stronger‐potency versus weaker‐potency topical corticosteroids 
+Sixty‐three trials compared different potencies of topical corticosteroids: 12 moderate versus mild, 22 potent versus mild, 25 potent versus moderate, and 6 very potent versus potent. Trials were usually in children with moderate or severe eczema, where specified, lasting one to five weeks. The most reported outcome was Investigator Global Assessment (IGA) of clinician‐reported signs of eczema. 

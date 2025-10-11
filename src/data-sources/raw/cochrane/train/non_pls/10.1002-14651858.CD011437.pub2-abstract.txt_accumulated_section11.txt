@@ -1,0 +1,11 @@
+Background
+Long‐acting muscarinic antagonists (LAMA), a class of drugs with proven effectiveness in chronic obstructive pulmonary disease (COPD), are being considered as an add‐on option for adults with asthma whose condition is uncontrolled on inhaled corticosteroids (ICS). It is important to assess the safety and efficacy of LAMA add‐on as an alternative to the prolonged use of higher doses of ICS, which are known to cause undesirable side effects in some people. 
+Objectives
+To compare the effects of adding a LAMA to any dose of ICS versus increasing the dose of ICS, for uncontrolled asthma in adults. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register (CAGR) from its inception in 1995 to April 2015, imposing no restriction on language of publication. We also handsearched trial registries, reference lists of primary studies and existing reviews, as well as manufacturers' websites. 
+Selection criteria
+We looked for parallel or cross‐over randomised controlled trials lasting at least 12 weeks, in which adults whose asthma was not well controlled on ICS alone were randomised to treatment with LAMA add‐on to ICS or with an increased dose of ICS. Trials were excluded if patients were taking long‐acting beta2‐agonists during the study period. 
+Data collection and analysis
+Two review authors independently screened the searches and extracted data from studies meeting all the inclusion criteria. We used Covidence to manage duplicate screening, data extraction and risk of bias judgements, and to form a consensus where discrepancies arose. We used standard methods expected by The Cochrane Collaboration. 
+The pre‐specified primary outcomes were exacerbations requiring a course of oral corticosteroids (OCS), effects on quality of life and serious adverse events. 

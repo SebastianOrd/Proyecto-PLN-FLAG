@@ -1,0 +1,13 @@
+Background
+Rehabilitation after ankle fracture can begin soon after the fracture has been treated, either surgically or non‐surgically, by the use of different types of immobilisation that allow early commencement of weight‐bearing or exercise. Alternatively, rehabilitation, including the use of physical or manual therapies, may start following the period of immobilisation. This is an update of a Cochrane review first published in 2008. 
+Objectives
+To assess the effects of rehabilitation interventions following conservative or surgical treatment of ankle fractures in adults. 
+Search methods
+We searched the Specialised Registers of the Cochrane Bone, Joint and Muscle Trauma Group and the Cochrane Rehabilitation and Related Therapies Field, CENTRAL via The Cochrane Library (2011 Issue 7), MEDLINE via PubMed, EMBASE, CINAHL, PEDro, AMED, SPORTDiscus and clinical trials registers up to July 2011. In addition, we searched reference lists of included studies and relevant systematic reviews. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials with adults undergoing any interventions for rehabilitation after ankle fracture were considered. The primary outcome was activity limitation. Secondary outcomes included quality of life, patient satisfaction, impairments and adverse events. 
+Data collection and analysis
+Two review authors independently screened search results, assessed risk of bias and extracted data. Risk ratios and 95% confidence intervals (95% CIs) were calculated for dichotomous variables, and mean differences or standardised mean differences and 95% CIs were calculated for continuous variables. End of treatment and end of follow‐up data were presented separately. For end of follow‐up data, short term follow‐up was defined as up to three months after randomisation, and long‐term follow‐up as greater than six months after randomisation. Meta‐analysis was performed where appropriate. 
+Main results
+Thirty‐eight studies with a total of 1896 participants were included. Only one study was judged at low risk of bias. Eight studies were judged at high risk of selection bias because of lack of allocation concealment and over half the of the studies were at high risk of selective reporting bias. 
+Three small studies investigated rehabilitation interventions during the immobilisation period after conservative orthopaedic management. There was limited evidence from two studies (106 participants in total) of short‐term benefit of using an air‐stirrup versus an orthosis or a walking cast. One study (12 participants) found 12 weeks of hypnosis did not reduce activity or improve other outcomes. 

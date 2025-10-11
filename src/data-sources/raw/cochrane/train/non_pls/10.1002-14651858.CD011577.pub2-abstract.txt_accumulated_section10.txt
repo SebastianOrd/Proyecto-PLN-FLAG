@@ -1,0 +1,10 @@
+Background
+Bone marrow failure disorders include a heterogenous group of disorders, of which myelodysplastic syndrome (MDS), forms the largest subgroup. MDS is predominantly a disease of the elderly, with many elderly people managed conservatively with regular allogeneic red blood cell (RBC) transfusions to treat their anaemia. However, RBC transfusions are not without risk. Despite regular transfusions playing a central role in treating such patients, the optimal RBC transfusion strategy (restrictive versus liberal) is currently unclear. 
+Objectives
+To assess the efficacy and safety of a restrictive versus liberal red blood cell transfusion strategy for patients with myelodysplasia, acquired aplastic anaemia, and other inherited bone marrow failure disorders. 
+Search methods
+We searched for randomised controlled trials (RCTs) in the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2015, Issue 4), Ovid MEDLINE (from 1946), Ovid EMBASE (from 1974), EBSCO CINAHL (from 1937), the Transfusion Evidence Library (from 1980) and ongoing trial databases to 26th May 2015. 
+Selection criteria
+RCTs including patients with long‐term bone marrow failure disorders that require allogeneic blood transfusion, who are not being actively treated with a haematopoietic stem cell transplant, or intensive chemotherapy. 
+Data collection and analysis
+We used standard Cochrane review methodology. One author initially screened all references, and excluded any that were clearly irrelevant or duplicates. Two authors then independently screened all abstracts of articles, identified by the review search strategy, for relevancy. Two authors independently assessed the full text of all potentially relevant articles for eligibility, completed the data extraction and assessed the studies for risk of bias using The Cochrane Collaboration’s ’Risk of bias’ tool. 

@@ -1,0 +1,14 @@
+Background
+Epidural analgesia in labour prolongs the second stage and increases instrumental delivery. It has been suggested that a more upright maternal position during all or part of the second stage may counteract these adverse effects. This is an update of a Cochrane Review published in 2017. 
+Objectives
+To assess the effects of different birthing positions (upright or recumbent) during the second stage of labour, on maternal and fetal outcomes for women with epidural analgesia. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (5 June 2018), and the reference lists of retrieved studies. 
+Selection criteria
+All randomised or quasi‐randomised trials including pregnant women (primigravidae or multigravidae) in the second stage of induced or spontaneous labour receiving epidural analgesia of any kind. Cluster‐randomised controlled trials would have been eligible for inclusion but we found none. Studies published in abstract form only were also eligible. 
+We assumed the experimental intervention to be maternal use of any upright position during the second stage of labour, compared with the control condition of remaining in any recumbent position. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion, assessed risks of bias, and extracted data. We contacted study authors to obtain missing data. We assessed the quality of the evidence using the GRADE approach. 
+We carried out a planned sensitivity analysis of the three studies with low risks of bias for allocation concealment and incomplete outcome data reporting, and further excluded one study with a co‐intervention (this was not prespecified). 
+Main results
+We include eight randomised controlled trials, involving 4464 women, comparing upright positions versus recumbent positions in this update. Five were conducted in the UK, one in France and two in Spain. 

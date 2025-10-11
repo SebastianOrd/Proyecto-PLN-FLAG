@@ -1,0 +1,10 @@
+High‐flow nasal cannulae for breathing support in adult intensive care patients
+Review question 
+Are high‐flow nasal cannulae (HFNC) a helpful treatment option for adult patients in the intensive care unit (ICU) who need breathing support? 
+Background 
+People in the ICU may need support to breathe and HFNC are one option for this. HFNC deliver warm air and oxygen through small plastic tubes that sit inside the nostrils. The airflow is at a higher rate each minute than standard oxygen therapy (which is not always warmed and may be delivered through a plastic face mask or nasal cannulae). Other support options include non‐invasive ventilation (NIV) or non‐invasive positive pressure ventilation (NIPPV). These approaches use mild pressure to push air into the lungs through tightly‐fitting face masks or a helmet covering the entire head. Invasive mechanical ventilation provides the highest level of support, using a ventilator (artificial breathing machine) to push air in and out of the lungs through a plastic tube inserted into the windpipe. 
+Search date 
+The evidence is current to April 2020.
+Study characteristics 
+All participants were adults (16 years or older) requiring support to breathe in an ICU. Most participants had respiratory failure (in which the lungs are unable to get enough oxygen into the blood) or had just been taken off a ventilator and needed support to transition to independent breathing. 
+We searched for randomized controlled trials; these trials give participants an equal chance to be in either trial group and provide the best evidence. We included trials that compared HFNC with standard oxygen therapy or NIV or NIPPV. We included 31 studies with 5136 participants, 51 ongoing studies and 19 studies awaiting classification. Fourteen studies were funded by manufacturers of breathing equipment. 

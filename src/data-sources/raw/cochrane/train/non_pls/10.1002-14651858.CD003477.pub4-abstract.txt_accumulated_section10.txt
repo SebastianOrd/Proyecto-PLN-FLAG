@@ -1,0 +1,10 @@
+Background
+Dementia is a clinical syndrome with a number of different causes which is characterised by deterioration in cognitive, behavioural, social and emotional functions. Pharmacological interventions are available but have limited effect to treat many of the syndrome's features. Less research has been directed towards non‐pharmacological treatments. In this review, we examined the evidence for effects of music‐based interventions. 
+Objectives
+To assess the effects of music‐based therapeutic interventions for people with dementia on emotional well‐being including quality of life, mood disturbance or negative affect, behavioural problems, social behaviour and cognition at the end of therapy and four or more weeks after the end of treatment. 
+Search methods
+We searched ALOIS, the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group (CDCIG) on 19 June 2017 using the terms: music therapy, music, singing, sing, auditory stimulation. Additional searches were carried out on 19 June 2017 in the major healthcare databases MEDLINE, Embase, PsycINFO, CINAHL and LILACS; and in trial registers and grey literature sources. 
+Selection criteria
+We included randomised controlled trials of music‐based therapeutic interventions (at least five sessions) for people with dementia that measured any of our outcomes of interest. Control groups either received usual care or other activities with or without music. 
+Data collection and analysis
+Two review authors worked independently to screen the retrieved studies against the inclusion criteria and then to extract data and assess methodological quality of the included studies. If necessary, we contacted trial authors to ask for additional data, including relevant subscales, or for other missing information. We pooled data using random‐effects models. 

@@ -1,0 +1,10 @@
+Background
+Osteoarthritis (OA) is one of the most prevalent musculoskeletal diseases. There is currently no consensus on what is the best treatment to improve OA symptoms and slow disease progression. Diacerein is an anthraquinone synthesised in 1980 that interferes with interleukin‐1, an inflammatory mediator. It has been proposed that diacerein acts as a slow‐acting, symptom‐modifying and perhaps disease‐structure‐modifying drug for OA. This is an update of a Cochrane review first published in 2006. 
+Objectives
+To assess the benefits and harms of diacerein for the treatment of adults with OA when compared with placebo and other pharmacologically active interventions (nonsteroidal anti‐inflammatory drugs (NSAIDs) and other symptom‐modifying, slow‐acting drugs) for OA. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) ‐ The Cochrane Library, Issue 10, 2013, MEDLINE (1966 to 2013), EMBASE (1980 to 2013), LILACS (1982 to 2013), and ACP Journal Club, and we handsearched reference lists of published articles. We also searched the World Health Organization International Clinical Trials Platform ( http://www.who.int/trialsearch/Default.aspx) to identify ongoing trials and screened reference lists of retrieved review articles and trials to identify potentially relevant studies. All searches were up to date as of March 2013. Pharmaceutical companies and authors of published articles were contacted. We searched the websites of the regulatory agencies using the keyword ‘diacerein’ in November 2013. No language restrictions were applied. 
+Selection criteria
+Studies were included if they were randomised or quasi‐randomised controlled trials that compared diacerein with placebo or another active pharmacological intervention in participants with OA. 
+Data collection and analysis
+Data abstraction and quality assessment were performed by two independent investigators, and their results were compared. The Cochrane risk of bias tool was used. The quality of evidence obtained was assessed using the GRADE approach. 

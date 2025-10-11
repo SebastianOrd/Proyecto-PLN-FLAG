@@ -1,0 +1,12 @@
+Background
+By improving two social determinants of health (poverty and unemployment) in low‐ and middle‐income families on or at risk of welfare, in‐work tax credit for families (IWTC) interventions could impact health status and outcomes in adults. 
+Objectives
+To assess the effects of IWTCs on health outcomes in working‐age adults (18 to 64 years). 
+Search methods
+We searched 16 electronic academic databases, including the Cochrane Public Health Group Specialised Register, Cochrane Database of Systematic Reviews (The Cochrane Library 2012, Issue 7), MEDLINE and EMBASE, as well as six grey literature databases between July and September 2012 for records published between January 1980 and July 2012. We also searched key organisational websites, handsearched reference lists of included records and relevant journals, and contacted academic experts. 
+Selection criteria
+We included randomised and quasi‐randomised controlled trials and cohort, controlled before‐and‐after (CBA) and interrupted time series (ITS) studies of IWTCs in working‐age adults. Included primary outcomes were: self rated general health; mental health/psychological distress; mental illness; overweight/obesity; alcohol use and tobacco use. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the risk of bias in included studies. We contacted study authors to obtain missing information. 
+Main results
+Five studies (one CBA and four ITS) comprising a total of 5,677,383 participants (all women) fulfilled the inclusion criteria and were synthesised narratively. The in‐work tax credit intervention assessed in all included studies is the permanent Earned Income Tax Credit in the United States, established in 1975. This intervention distributed nearly USD 62 billion to over 27 million individuals in 2011, and its administration costs were less than one per cent of its total costs. All included studies carried a high risk of bias (especially from confounding and insufficient control for underlying time trends). Due to the small number of (observational) studies and their high risk of bias, we judged this body of evidence to have very low overall quality. 

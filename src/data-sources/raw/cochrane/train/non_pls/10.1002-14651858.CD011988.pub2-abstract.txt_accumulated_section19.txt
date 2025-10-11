@@ -1,0 +1,19 @@
+Background
+Endoscopic sinus surgery (ESS) is often recommended for symptomatic patients with recurrent acute or chronic rhinosinusitis who have failed conservative treatment. Postoperative care has been felt to be critical for both maintaining the surgical patency of the operated sinuses and improving patient symptoms. Debridement of the sinonasal cavities is one such postoperative care measure that has frequently been studied in the literature, often with conflicting conclusions. 
+Objectives
+To assess the effects of postoperative sinonasal debridement versus no debridement following endoscopic sinus surgery. 
+Search methods
+The Cochrane ENT Information Specialist searched the ENT Trials Register; Central Register of Controlled Trials (CENTRAL, via the Cochrane Register of Studies); PubMed; EMBASE; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 21 May 2018. 
+Selection criteria
+Randomised controlled trials comparing postoperative nasal debridement versus no debridement in adult patients with recurrent acute or chronic rhinosinusitis undergoing endoscopic sinus surgery. We included studies in which the patients acted as self‐controls (i.e. one side of the nose underwent debridement and the other side did not) only for the secondary endoscopy outcomes. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. Our primary outcome measures were: health‐related quality of life, disease severity (patient‐reported symptom scores) and significant adverse effects (bleeding requiring intervention, severe pain, iatrogenic injury). Secondary outcomes were: postoperative endoscopic appearance of the sinonasal surgical cavities (endoscopic scores), recorded use of postoperative medical treatment and rate of revision surgery. We used GRADE to assess the quality of the evidence for each outcome; this is indicated in italics. 
+Main results
+We included four studies (152 participants), with a follow‐up duration ranging from three months to 12 months. In two studies patients acted as self‐controls, i.e. one side of the nose underwent debridement and the other side did not ('split‐nose' studies). The risk of bias in all studies was high, mostly due to the inability to blind the patients to the debridement procedure. 
+Primary outcomes 
+Disease‐specific health‐related quality of life scores 
+Only one study (58 participants) provided data for disease‐specific health‐related quality of life. At six months follow‐up, lower disease‐specific health‐related quality of life scores, measured using the Sino‐Nasal Outcome Test‐22 (SNOT‐22, range 0 to 110), were noted in the debridement group but the difference was not statistically significant (9.7 in the debridement group versus 10.3 in the control group, P = 0.47) (low‐quality evidence). 
+Disease severity (patient‐reported symptom score) 
+Only one study (60 participants) provided data for disease severity measured by visual analogue scale (VAS) score. No significant differences in total symptom score were observed between groups postoperatively (low‐quality evidence). 
+Significant adverse effects 
+Significant adverse effects related to the debridement procedure were not reported in any of the included studies, however it is not clear whether data regarding adverse effects were not collected or if none were indeed observed in any of the included studies. 

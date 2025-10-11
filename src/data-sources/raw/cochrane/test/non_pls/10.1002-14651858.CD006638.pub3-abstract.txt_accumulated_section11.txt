@@ -1,0 +1,11 @@
+Background
+Patients undergoing neurosurgery are at risk of cerebral ischaemia with resultant cerebral hypoxia and neuronal cell death. This can increase both the risk of mortality and long term neurological disability. Induced hypothermia has been shown to reduce the risk of cerebral ischaemic damage in both animal studies and in humans who have been resuscitated following cardiac arrest. This had lead to an increasing interest in its neuroprotective potential in neurosurgical patients. This review was originally published in 2011 and did not find any evidence of either effectiveness or harm in these patients. This updated review was designed to capture current evidence to readdress these issues. 
+Objectives
+To evaluate the effectiveness and safety profile of induced hypothermia versus normothermia for neuroprotection in patients undergoing brain surgery. Effectiveness was to be measured in terms of short and long term mortality and functional neurological outcomes. Safety was to be assessed in terms of the rate of the adverse events infection, myocardial infarction, ischaemic stroke, congestive cardiac failure and any other adverse events reported by the authors of the included studies. 
+Search methods
+For the original review, the authors searched the databases Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (OvidSP), EMBASE (OvidSP) and LILACS to November 2010. For the updated review all these databases were re‐searched from November 2010 to May 2014. 
+For both the original and updated versions, grey literature was sought by searching reference lists of identified studies and relevant review articles, and conference proceedings. No language restrictions were applied. 
+Selection criteria
+As in the original review, we included randomized controlled trials (RCTs) of induced hypothermia versus normothermia for neuroprotection in patients of any age and gender undergoing brain surgery, which addressed mortality, neurological morbidity or adverse event outcomes. 
+Data collection and analysis
+Three review authors independently extracted data and two independently assessed the risk of bias of the included studies. Any discrepancies were resolved by discussion between authors. 

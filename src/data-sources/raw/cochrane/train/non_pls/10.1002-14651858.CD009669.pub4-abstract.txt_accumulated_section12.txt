@@ -1,0 +1,12 @@
+Background
+Cardiogenic shock (CS) and low cardiac output syndrome (LCOS) are potentially life‐threatening complications of acute myocardial infarction (AMI), heart failure (HF) or cardiac surgery. While there is solid evidence for the treatment of other cardiovascular diseases of acute onset, treatment strategies in haemodynamic instability due to CS and LCOS remains less robustly supported by the given scientific literature. Therefore, we have analysed the current body of evidence for the treatment of CS or LCOS with inotropic and/or vasodilating agents. This is the second update of a Cochrane review originally published in 2014. 
+Objectives
+Assessment of efficacy and safety of cardiac care with positive inotropic agents and vasodilator agents in CS or LCOS due to AMI, HF or after cardiac surgery. 
+Search methods
+We conducted a search in CENTRAL, MEDLINE, Embase and CPCI‐S Web of Science in October 2019. We also searched four registers of ongoing trials and scanned reference lists and contacted experts in the field to obtain further information. No language restrictions were applied. 
+Selection criteria
+Randomised controlled trials (RCTs) enrolling patients with AMI, HF or cardiac surgery complicated by CS or LCOS. 
+Data collection and analysis
+We used standard methodological procedures according to Cochrane standards.
+Main results
+We identified 19 eligible studies including 2385 individuals (mean or median age range 56 to 73 years) and three ongoing studies. We categorised studies into 11 comparisons, all against standard cardiac care and additional other drugs or placebo. These comparisons investigated the efficacy of levosimendan versus dobutamine, enoximone or placebo; enoximone versus dobutamine, piroximone or epinephrine‐nitroglycerine; epinephrine versus norepinephrine or norepinephrine‐dobutamine; dopexamine versus dopamine; milrinone versus dobutamine and dopamine‐milrinone versus dopamine‐dobutamine. 

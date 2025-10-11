@@ -1,0 +1,16 @@
+Background
+Since the mid‐2000s, the field of metastatic renal cell carcinoma (mRCC) has experienced a paradigm shift from non‐specific therapy with broad‐acting cytokines to specific regimens, which directly target the cancer, the tumour microenvironment, or both. 
+Current guidelines recommend targeted therapies with agents such as sunitinib, pazopanib or temsirolimus (for people with poor prognosis) as the standard of care for first‐line treatment of people with mRCC and mention non‐specific cytokines as an alternative option for selected patients. 
+In November 2015, nivolumab, a checkpoint inhibitor directed against programmed death‐1 (PD‐1), was approved as the first specific immunotherapeutic agent as second‐line therapy in previously treated mRCC patients. 
+Objectives
+To assess the effects of immunotherapies either alone or in combination with standard targeted therapies for the treatment of metastatic renal cell carcinoma and their efficacy to maximize patient benefit. 
+Search methods
+We searched the Cochrane Library, MEDLINE (Ovid), Embase (Ovid), ISI Web of Science and registers of ongoing clinical trials in November 2016 without language restrictions. We scanned reference lists and contacted experts in the field to obtain further information. 
+Selection criteria
+We included randomized controlled trials (RCTs) and quasi‐RCTs with or without blinding involving people with mRCC. 
+Data collection and analysis
+We collected and analyzed studies according to the published protocol. Summary statistics for the primary endpoints were risk ratios (RRs) and mean differences (MD) with their 95% confidence intervals (CIs). We rated the quality of evidence using GRADE methodology and summarized the quality and magnitude of relative and absolute effects for each primary outcome in our 'Summary of findings' tables. 
+Main results
+We identified eight studies with 4732 eligible participants and an additional 13 ongoing studies. We categorized studies into comparisons, all against standard therapy accordingly as first‐line (five comparisons) or second‐line therapy (one comparison) for mRCC. 
+Interferon (IFN)‐α monotherapy probably increases one‐year overall mortality compared to standard targeted therapies with temsirolimus or sunitinib (RR 1.30, 95% CI 1.13 to 1.51; 2 studies; 1166 participants; moderate‐quality evidence), may lead to similar quality of life (QoL) (e.g. MD ‐5.58 points, 95% CI ‐7.25 to ‐3.91 for Functional Assessment of Cancer ‐ General (FACT‐G); 1 study; 730 participants; low‐quality evidence) and may slightly increase the incidence of adverse events (AEs) grade 3 or greater (RR 1.17, 95% CI 1.03 to 1.32; 1 study; 408 participants; low‐quality evidence). 
+There is probably no difference between IFN‐α plus temsirolimus and temsirolimus alone for one‐year overall mortality (RR 1.13, 95% CI 0.95 to 1.34; 1 study; 419 participants; moderate‐quality evidence), but the incidence of AEs of 3 or greater may be increased (RR 1.30, 95% CI 1.17 to 1.45; 1 study; 416 participants; low‐quality evidence). There was no information on QoL. 

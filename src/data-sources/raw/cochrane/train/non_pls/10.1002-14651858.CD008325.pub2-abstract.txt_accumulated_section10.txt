@@ -1,0 +1,10 @@
+Background
+Since the introduction of the Swedish back school in 1969, back schools have frequently been used for treating people with low‐back pain (LBP). However, the content of back schools has changed and appears to vary widely today. In this review we defined back school as a therapeutic programme given to groups of people, which includes both education and exercise. This is an update of a Cochrane review first published in 1999, and updated in 2004. For this review update, we split the review into two distinct reviews which separated acute from chronic LBP. 
+Objectives
+To assess the effectiveness of back schools on pain and disability for people with acute or subacute non‐specific LBP. We also examined the effect on work status and adverse events. 
+Search methods
+We searched CENTRAL, MEDLINE, EMBASE, CINAHL, PsycINFO, PubMed and two clinical trials registers up to 4 August 2015. We also checked the reference lists of articles and contacted experts in the field of research on LBP. 
+Selection criteria
+We included randomised controlled trials (RCTs) or quasi‐RCTs that reported on back school for acute or subacute non‐specific LBP. The primary outcomes were pain and disability. The secondary outcomes were work status and adverse events. Back school had to be compared with another treatment, a placebo (or sham or attention control) or no treatment. 
+Data collection and analysis
+We used the 2009 updated method guidelines for this Cochrane review. Two review authors independently screened the references, assessed the quality of the trials and extracted the data. We set the threshold for low risk of bias, a priori, as six or more of 13 internal validity criteria and no serious flaws (e.g. large drop‐out rate). We classified the quality of the evidence into one of four levels (high, moderate, low or very low) using the adapted Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. We contacted study authors for additional information. We collected adverse effects information from the trials. 

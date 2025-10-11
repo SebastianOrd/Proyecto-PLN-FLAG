@@ -1,0 +1,12 @@
+Background
+Flexible working conditions are increasingly popular in developed countries but the effects on employee health and wellbeing are largely unknown.  
+Objectives
+To evaluate the effects (benefits and harms) of flexible working interventions on the physical, mental and general health and wellbeing of employees and their families.   
+Search methods
+Our searches (July 2009) covered 12 databases including the Cochrane Public Health Group Specialised Register, CENTRAL; MEDLINE; EMBASE; CINAHL; PsycINFO; Social Science Citation Index; ASSIA; IBSS; Sociological Abstracts; and ABI/Inform. We also searched relevant websites, handsearched key journals, searched bibliographies and contacted study authors and key experts. 
+Selection criteria
+Randomised controlled trials (RCT), interrupted time series and controlled before and after studies (CBA), which examined the effects of flexible working interventions on employee health and wellbeing. We excluded studies assessing outcomes for less than six months and extracted outcomes relating to physical, mental and general health/ill health measured using a validated instrument. We also extracted secondary outcomes (including sickness absence, health service usage, behavioural changes, accidents, work‐life balance, quality of life, health and wellbeing of children, family members and co‐workers) if reported alongside at least one primary outcome. 
+Data collection and analysis
+Two experienced review authors conducted data extraction and quality appraisal. We undertook a narrative synthesis as there was substantial heterogeneity between studies.    
+Main results
+Ten studies fulfilled the inclusion criteria. Six CBA studies reported on interventions relating to temporal flexibility: self‐scheduling of shift work (n = 4), flexitime (n = 1) and overtime (n = 1). The remaining four CBA studies evaluated a form of contractual flexibility: partial/gradual retirement (n = 2), involuntary part‐time work (n = 1) and fixed‐term contract (n = 1). The studies retrieved had a number of methodological limitations including short follow‐up periods, risk of selection bias and reliance on largely self‐reported outcome data.  

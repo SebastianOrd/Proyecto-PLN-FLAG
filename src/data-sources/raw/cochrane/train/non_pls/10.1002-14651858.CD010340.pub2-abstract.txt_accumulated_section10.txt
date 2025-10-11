@@ -1,0 +1,10 @@
+Background
+Paroxysmal nocturnal hemoglobinuria (PNH) is a chronic, not malignant, disease of the hematopoietic stem cells, associated with significant morbidity and mortality. It is a rare disease with an estimated incidence of 1.3 new cases per one million individuals per year. The treatment of PNH has been largely empirical and symptomatic, with blood transfusions, anticoagulation, and supplementation with folic acid or iron. Eculizumab, a biological agent that inhibits complement cascade, was developed for preventing hemolytic anemia and severe thrombotic episodes. 
+Objectives
+To assess the clinical benefits and harms of eculizumab for treating patients with paroxysmal nocturnal hemoglobinuria (PNH). 
+Search methods
+We conducted a comprehensive search strategy. We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library 2014, Issue 5), Ovid MEDLINE (from 1946 to 15 May 2014), EMBASE (from 1980 to 25 June 2014), and LILACS (from 1982 to 25 June 2014). We did not apply any language restrictions. 
+Selection criteria
+We included randomized controlled trials (RCTs) irrespective of their publication status or language. No limits were applied with respect to period of follow‐up. We excluded quasi‐RCTs. We included trials comparing eculizumab with placebo or best available therapy. We included any patient with a confirmed diagnosis of PNH. Primary outcome was overall survival. 
+Data collection and analysis
+We independently performed a duplicate selection of eligible trials, risk of bias assessment, and data extraction. We estimated risk ratios (RRs) and 95% confidence interval (CIs) for dichotomous outcomes, and mean differences (MDs) and 95% CIs for continuous outcomes. We used a random‐effects model for analysis. 

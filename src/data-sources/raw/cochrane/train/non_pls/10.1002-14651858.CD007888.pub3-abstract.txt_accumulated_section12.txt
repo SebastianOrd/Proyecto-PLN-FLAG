@@ -1,0 +1,12 @@
+Background
+A promising approach to the treatment of chronic ischaemic heart disease and congestive heart failure is the use of stem cells. The last decade has seen a plethora of randomised controlled trials developed worldwide, which have generated conflicting results. 
+Objectives
+The critical evaluation of clinical evidence on the safety and efficacy of autologous adult bone marrow‐derived stem/progenitor cells as a treatment for chronic ischaemic heart disease and congestive heart failure. 
+Search methods
+We searched CENTRAL in the Cochrane Library, MEDLINE, Embase, CINAHL, LILACS, and four ongoing trial databases for relevant trials up to 14 December 2015. 
+Selection criteria
+Eligible studies were randomised controlled trials comparing autologous adult stem/progenitor cells with no cells in people with chronic ischaemic heart disease and congestive heart failure. We included co‐interventions, such as primary angioplasty, surgery, or administration of stem cell mobilising agents, when administered to treatment and control arms equally. 
+Data collection and analysis
+Two review authors independently screened all references for eligibility, assessed trial quality, and extracted data. We undertook a quantitative evaluation of data using random‐effects meta‐analyses. We evaluated heterogeneity using the I2 statistic and explored substantial heterogeneity (I2 greater than 50%) through subgroup analyses. We assessed the quality of the evidence using the GRADE approach. We created a 'Summary of findings' table using GRADEprofiler (GRADEpro), excluding studies with a high or unclear risk of selection bias. We focused our summary of findings on long‐term follow‐up of mortality, morbidity outcomes, and left ventricular ejection fraction measured by magnetic resonance imaging. 
+Main results
+We included 38 randomised controlled trials involving 1907 participants (1114 cell therapy, 793 controls) in this review update. Twenty‐three trials were at high or unclear risk of selection bias. Other sources of potential bias included lack of blinding of participants (12 trials) and full or partial commercial sponsorship (13 trials). 

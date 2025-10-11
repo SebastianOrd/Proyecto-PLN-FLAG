@@ -1,0 +1,10 @@
+What are the benefits and risks of using virtual reality in a healthcare setting to distract children from pain? 
+Why is this question important? 
+Medical procedures, such as health examinations or injections, can cause children to experience pain. In these situations, it is common practice to distract children using toys or play, in order to minimise distress and fear of pain. 
+One form of distraction that can be used is virtual reality. Virtual reality is an artificial environment with scenes and objects that appear to be real (for example a frozen world, or a wildlife park). Virtual reality can be: 
+‐ Fully‐immersive: users typically wear a headset with headphones and a screen, and interact with the virtual environment as if they were really in it. 
+‐ Semi‐immersive: users interact with a partially virtual environment (for example, a flight simulator where the controls are real, but the windows display virtual images). 
+‐ Non‐immersive: the user is connected to the virtual world by a separate monitor (for example, a computer) but can still experience the real world. 
+To find out whether virtual reality can distract children from pain, and whether it is associated with any adverse (unwanted) effects, we reviewed the research evidence. 
+How did we identify and evaluate the evidence? 
+We searched the medical literature for randomised controlled studies (clinical studies where people are randomly put into one of two or more treatment groups), because these provide the most robust evidence about the effects of a treatment. We compared and summarized their results. Finally, we rated our confidence in the evidence, based on factors such as study methods and sizes, and the consistency of findings across studies. 

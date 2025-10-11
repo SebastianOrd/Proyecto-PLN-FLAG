@@ -1,0 +1,14 @@
+Background
+Uptake of human papillomavirus (HPV) vaccine remains low in many countries, although the bivalent and quadrivalent HPV vaccines given as a three‐dose schedule are effective in the prevention of precancerous lesions of the cervix in women. Simpler immunisation schedules, such as those with fewer doses, might reduce barriers to vaccination, as may programmes that include males. 
+Objectives
+To evaluate the efficacy, immunogenicity, and harms of different dose schedules and different types of HPV vaccines in females and males. 
+Search methods
+We conducted electronic searches on 27 September 2018 in Ovid MEDLINE, the Cochrane Central Register of Controlled Trials (CENTRAL) (in the Cochrane Library), and Ovid Embase. We also searched the WHO International Clinical Trials Registry Platform, and ClinicalTrials.gov (both 27 September 2018), vaccine manufacturer websites, and checked reference lists from an index of HPV studies and other relevant systematic reviews. 
+Selection criteria
+We included randomised controlled trials (RCTs) with no language restriction. We considered studies if they enrolled HIV‐negative males or females aged 9 to 26 years, or HIV‐positive males or females of any age. 
+Data collection and analysis
+We used methods recommended by Cochrane. We use the term 'control' to refer to comparator products containing an adjuvant or active vaccine and 'placebo' to refer to products that contain no adjuvant or active vaccine. Most primary outcomes in this review were clinical outcomes. However, for comparisons comparing dose schedules, the included RCTs were designed to measure antibody responses (i.e. immunogenicity) as the primary outcome, rather than clinical outcomes, since it is unethical to collect cervical samples from girls under 16 years of age. We analysed immunogenicity outcomes (i.e. geometric mean titres) with ratios of means, clinical outcomes (e.g. cancer and intraepithelial neoplasia) with risk ratios or rate ratios and, for serious adverse events and deaths, we calculated odds ratios. We rated the certainty of evidence with GRADE. 
+Main results
+We included 20 RCTs with 31,940 participants. The length of follow‐up in the included studies ranged from seven months to five years. 
+Two doses versus three doses of HPV vaccine in 9‐ to 15‐year‐old females 
+Antibody responses after two‐dose and three‐dose HPV vaccine schedules were similar after up to five years of follow‐up (4 RCTs, moderate‐ to high‐certainty evidence). No RCTs collected clinical outcome data. Evidence about serious adverse events in studies comparing dose schedules was of very low‐certainty owing to imprecision and indirectness (three doses 35/1159; two doses 36/1158; 4 RCTs). One death was reported in the three‐dose group (1/898) and none in the two‐dose group (0/899) (low‐certainty evidence). 

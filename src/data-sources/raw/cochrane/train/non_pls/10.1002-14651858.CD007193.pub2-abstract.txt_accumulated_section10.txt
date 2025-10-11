@@ -1,0 +1,10 @@
+Background
+Approximately 25% of people will be affected by a mental disorder at some stage in their life. Despite the prevalence and negative impacts of mental disorders, many people are not diagnosed or do not receive adequate treatment. Therefore primary health care has been identified as essential to improving the delivery of mental health care. Consultation liaison is a model of mental health care where the primary care provider maintains the central role in the delivery of mental health care with a mental health specialist providing consultative support. Consultation liaison has the potential to enhance the delivery of mental health care in the primary care setting and in turn improve outcomes for people with a mental disorder. 
+Objectives
+To identify whether consultation liaison can have beneficial effects for people with a mental disorder by improving the ability of primary care providers to provide mental health care. 
+Search methods
+We searched the EPOC Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL), and bibliographic databases: MEDLINE, EMBASE, CINAHL and PsycINFO, in March 2014. We also searched reference lists of relevant studies and reviews to identify any potentially relevant studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) which compared consultation liaison to standard care or other service models of mental health care in the primary setting. Included participants were people attending primary care practices who required mental health care or had a mental disorder, and primary care providers who had direct contact with people in need of mental health care. 
+Data collection and analysis
+Two review authors independently screened the titles and abstracts of identified studies against the inclusion criteria and extracted details including the study design, participants and setting, intervention, outcomes and any risk of bias. We resolved any disagreements by discussion or referral to a third author. We contacted trial authors to obtain any missing information. 

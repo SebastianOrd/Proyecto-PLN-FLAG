@@ -1,0 +1,10 @@
+Background
+A combination of weekly pegylated interferon (peginterferon) alpha and daily ribavirin still represents standard treatment of chronic hepatitis C infection in the majority of patients. However, it is not established which of the two licensed peginterferon products, peginterferon alpha‐2a or peginterferon alpha‐2b, is the most effective and has a better safety profile. 
+Objectives
+To systematically evaluate the benefits and harms of peginterferon alpha‐2a versus peginterferon alpha‐2b in head‐to‐head randomised clinical trials in patients with chronic hepatitis C. 
+Search methods
+We searched the Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, Science Citation Index Expanded, and LILACS until October 2013. We also searched conference abstracts, journals, and grey literature. 
+Selection criteria
+We included randomised clinical trials comparing peginterferon alpha‐2a versus peginterferon alpha‐2b given with or without co‐intervention(s) (for example, ribavirin) for chronic hepatitis C. Quasi‐randomised studies and observational studies as identified by the searches were also considered for assessment of harms. Our primary outcomes were all‐cause mortality, liver‐related morbidity, serious adverse events, adverse events leading to treatment discontinuation, other adverse events, and quality of life. The secondary outcome was sustained virological response in the blood serum. 
+Data collection and analysis
+Two authors independently used a standardised data collection form. We meta‐analysed data with both the fixed‐effect and the random‐effects models. For each outcome we calculated the relative risk (RR) with 95% confidence interval (CI) based on intention‐to‐treat analysis. We used domains of the trials to assess the risk of systematic errors (bias) and trial sequential analyses to assess the risks of random errors (play of chance). Intervention effects on the outcomes were assessed according to GRADE. 

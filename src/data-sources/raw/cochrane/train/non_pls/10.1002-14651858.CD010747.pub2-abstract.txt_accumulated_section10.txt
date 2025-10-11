@@ -1,0 +1,10 @@
+Background
+Revascularisation is the gold standard therapy for patients with critical limb ischaemia (CLI). In over 30% of patients who are not suitable for or have failed previous revascularisation therapy (the 'no‐option' CLI patients), limb amputation is eventually unavoidable. Preliminary studies have reported encouraging outcomes with autologous cell‐based therapy for the treatment of CLI in these 'no‐option' patients. However, studies comparing the angiogenic potency and clinical effects of autologous cells derived from different sources have yielded limited data. Data regarding cell doses and routes of administration are also limited. 
+Objectives
+To compare the efficacy and safety of autologous cells derived from different sources, prepared using different protocols, administered at different doses, and delivered via different routes for the treatment of 'no‐option' CLI patients. 
+Search methods
+The Cochrane Vascular Information Specialist (CIS) searched the Cochrane Vascular Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE Ovid, Embase Ovid, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), the Allied and Complementary Medicine Database (AMED), and trials registries (16 May 2018). Review authors searched PubMed until February 2017. 
+Selection criteria
+We included randomised controlled trials (RCTs) involving 'no‐option' CLI patients comparing a particular source or regimen of autologous cell‐based therapy against another source or regimen of autologous cell‐based therapy. 
+Data collection and analysis
+Three review authors independently assessed the eligibility and methodological quality of the trials. We extracted outcome data from each trial and pooled them for meta‐analysis. We calculated effect estimates using a risk ratio (RR) with 95% confidence interval (CI), or a mean difference (MD) with 95% CI. 

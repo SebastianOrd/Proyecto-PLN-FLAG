@@ -1,0 +1,10 @@
+Background
+Corticosteroids are often preferred over enteral nutrition (EN) as induction therapy for Crohn's disease (CD). Prior meta‐analyses suggest that corticosteroids are superior to EN for induction of remission in CD. Treatment failures in EN trials are often due to poor compliance, with dropouts frequently due to poor acceptance of a nasogastric tube and unpalatable formulations. This systematic review is an update of a previously published Cochrane review. 
+Objectives
+To evaluate the effectiveness and safety of exclusive EN as primary therapy to induce remission in CD and to examine the importance of formula composition on effectiveness. 
+Search methods
+We searched MEDLINE, Embase and CENTRAL from inception to 5 July 2017. We also searched references of retrieved articles and conference abstracts. 
+Selection criteria
+Randomized controlled trials involving patients with active CD were considered for inclusion. Studies comparing one type of EN to another type of EN or conventional corticosteroids were selected for review. 
+Data collection and analysis
+Data were extracted independently by at least two authors. The primary outcome was clinical remission. Secondary outcomes included adverse events, serious adverse events and withdrawal due to adverse events. For dichotomous outcomes, we calculated the risk ratio (RR) and 95% confidence interval (CI). A random‐effects model was used to pool data. We performed intention‐to‐treat and per‐protocol analyses for the primary outcome. Heterogeneity was explored using the Chi2 and I2 statistics. The studies were separated into two comparisons: one EN formulation compared to another EN formulation and EN compared to corticosteroids. Subgroup analyses were based on formula composition and age. Sensitivity analyses included abstract publications and poor quality studies. We used the Cochrane risk of bias tool to assess study quality. We used the GRADE criteria to assess the overall quality of the evidence supporting the primary outcome and selected secondary outcomes. 

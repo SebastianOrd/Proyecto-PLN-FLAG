@@ -1,0 +1,10 @@
+Background
+Mind‐body interventions are based on the holistic principle that mind, body and behaviour are all interconnected. Mind‐body interventions incorporate strategies that are thought to improve psychological and physical well‐being, aim to allow patients to take an active role in their treatment, and promote people's ability to cope. Mind‐body interventions are widely used by people with fibromyalgia to help manage their symptoms and improve well‐being. Examples of mind‐body therapies include psychological therapies, biofeedback, mindfulness, movement therapies and relaxation strategies. 
+Objectives
+To review the benefits and harms of mind‐body therapies in comparison to standard care and attention placebo control groups for adults with fibromyalgia, post‐intervention and at three and six month follow‐up. 
+Search methods
+Electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid), EMBASE (Ovid), PsycINFO (Ovid), AMED (EBSCO) and CINAHL (Ovid) were conducted up to 30 October 2013. Searches of reference lists were conducted and authors in the field were contacted to identify additional relevant articles. 
+Selection criteria
+All relevant randomised controlled trials (RCTs) of mind‐body interventions for adults with fibromyalgia were included. 
+Data collection and analysis
+Two authors independently selected studies, extracted the data and assessed trials for low, unclear or high risk of bias. Any discrepancy was resolved through discussion and consensus. Continuous outcomes were analysed using mean difference (MD) where the same outcome measure and scoring method was used and standardised mean difference (SMD) where different outcome measures were used. For binary data standard estimation of the risk ratio (RR) and its 95% confidence interval (CI) was used. 

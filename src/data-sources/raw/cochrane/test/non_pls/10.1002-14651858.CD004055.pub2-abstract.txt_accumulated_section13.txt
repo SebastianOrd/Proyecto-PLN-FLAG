@@ -1,0 +1,13 @@
+Background
+Hand eczema is an inflammation of the skin of the hands that tends to run a chronic, relapsing course. This common condition is often associated with itch, social stigma, and impairment in employment. Many different interventions of unknown effectiveness are used to treat hand eczema. 
+Objectives
+To assess the effects of topical and systemic interventions for hand eczema in adults and children. 
+Search methods
+We searched the following up to April 2018: Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase, AMED, LILACS, GREAT, and four trials registries. We checked the reference lists of included studies for further references to relevant trials. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared interventions for hand eczema, regardless of hand eczema type and other affected sites, versus no treatment, placebo, vehicle, or active treatments. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Primary outcomes were participant‐ and investigator‐rated good/excellent control of symptoms, and adverse events. 
+Main results
+We included 60 RCTs, conducted in secondary care (5469 participants with mild to severe chronic hand eczema). Most participants were over 18 years old. The duration of treatment was short, generally up to four months. Only 24 studies included a follow‐up period. Clinical heterogeneity in treatments and outcome measures was evident. Few studies performed head‐to‐head comparisons of different interventions. Risk of bias varied considerably, with only five studies at low risk in all domains. Twenty‐two studies were industry‐funded. 
+Eighteen trials studied topical corticosteroids or calcineurin inhibitors; 10 studies, phototherapy; three studies, systemic immunosuppressives; and five studies, oral retinoids. Most studies compared an active intervention against no treatment, variants of the same medication, or placebo (or vehicle). Below, we present results from the main comparisons. 

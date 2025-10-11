@@ -1,0 +1,15 @@
+Background
+This an update of a Cochrane Review.
+Paraquat is a widely used herbicide, but is also a lethal poison. In some low‐ and middle‐income countries (LMICs) paraquat is commonly available and inexpensive, making poisoning prevention difficult. Most of the people poisoned by paraquat have taken it as a means of self‐poisoning. 
+Standard treatment for paraquat poisoning prevents further absorption and reduces the load of paraquat in the blood through haemoperfusion or haemodialysis. The effectiveness of standard treatments is extremely limited. 
+The immune system plays an important role in exacerbating paraquat‐induced lung fibrosis. Immunosuppressive treatment using glucocorticoid and cyclophosphamide in combination has been developed and studied as an intervention for paraquat poisoning. 
+Objectives
+To assess the effects of glucocorticoid with cyclophosphamide for moderate to severe oral paraquat poisoning. 
+Search methods
+The most recent searches were run in September 2020. We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Injuries Trials Register), Ovid MEDLINE(R), Ovid MEDLINE In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE Daily and Ovid OLDMEDLINE, Embase Classic + Embase (Ovid), ISI WOS (SCI‐EXPANDED, SSCI, CPCI‐S, and CPSI‐SSH), and trials registries. We also searched the following three resources: China National Knowledge Infrastructure database (CNKI 数据库); Wanfang Data (万方数据库); and VIP (维普数据库) on 12 November 2020. We examined the reference lists of included studies and review papers. 
+Selection criteria
+We included randomised controlled trials (RCTs). For this update, in accordance with Cochrane Injuries' Group policy (2015), we included only prospectively registered RCTs for trials published after 2010. We included trials which assessed the effects of glucocorticoid with cyclophosphamide delivered in combination. Eligible comparators were standard care (with or without a placebo), or any other therapy in addition to standard care. Outcomes of interest included mortality and infections. 
+Data collection and analysis
+We calculated the mortality risk ratio (RR) and 95% confidence interval (CI). Where possible, we summarised data for all‐cause mortality at relevant time periods (from hospital discharge to three months after discharge) in meta‐analysis, using a fixed‐effect model. We conducted sensitivity analyses based on factors including whether participants were assessed at baseline for plasma paraquat levels. We also reported data on infections within one week after initiation of treatment. 
+Main results
+We included four trials with a total of 463 participants. The included studies were conducted in Taiwan (Republic of China), Iran, and Sri Lanka. Most participants were male. The mean age of participants was 28 years. 

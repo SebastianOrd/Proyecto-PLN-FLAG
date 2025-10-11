@@ -1,0 +1,10 @@
+Background
+This is an update of a Cochrane review first published in 2003. Cervical dystonia is the most common form of focal dystonia and is a disabling disorder characterised by painful involuntary head posturing. There are two available formulations of botulinum toxin, with botulinum toxin type A (BtA) usually considered the first line therapy for this condition. Botulinum toxin type B (BtB) is an alternative option, with no compelling theoretical reason why it might not be as‐ or even more effective ‐ than BtA. 
+Objectives
+To compare the efficacy, safety and tolerability of botulinum toxin type A (BtA) versus botulinum toxin type B (BtB) in people with cervical dystonia. 
+Search methods
+To identify studies for this review we searched the Cochrane Movement Disorders Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, reference lists of articles and conference proceedings. All elements of the search, with no language restrictions, were last run in October 2016. 
+Selection criteria
+Double‐blind, parallel, randomised, placebo‐controlled trials (RCTs) comparing BtA versus BtB in adults with cervical dystonia. 
+Data collection and analysis
+Two independent authors assessed records, selected included studies, extracted data using a paper pro forma, and evaluated the risk of bias. We resolved disagreements by consensus or by consulting a third author. We performed meta‐analyses using the random‐effects model, for the comparison BtA versus BtB to estimate pooled effects and corresponding 95% confidence intervals (95% CI). No prespecified subgroup analyses were carried out. The primary efficacy outcome was improvement on any validated symptomatic rating scale, and the primary safety outcome was the proportion of participants with adverse events. 

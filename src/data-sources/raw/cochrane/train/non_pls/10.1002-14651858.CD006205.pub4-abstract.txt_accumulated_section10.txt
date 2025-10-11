@@ -1,0 +1,10 @@
+Background
+Surgery is an important part of the management of oral cavity cancer with regard to both the removal of the primary tumour and removal of lymph nodes in the neck. Surgery is less frequently used in oropharyngeal cancer. Surgery alone may be treatment for early‐stage disease or surgery may be used in combination with radiotherapy, chemotherapy and immunotherapy/biotherapy. There is variation in the recommended timing and extent of surgery in the overall treatment regimens of people with these cancers. This is an update of a review originally published in 2007 and first updated in 2011. 
+Objectives
+To determine which surgical treatment modalities for oral and oropharyngeal cancers result in increased overall survival, disease‐free survival and locoregional control and reduced recurrence. To determine the implication of treatment modalities in terms of morbidity, quality of life, costs, hospital days of treatment, complications and harms. 
+Search methods
+Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 20 December 2017), the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 11), MEDLINE Ovid (1946 to 20 December 2017) and Embase Ovid (1980 to 20 December 2017). We searched the US National Institutes of Health Trials Registry (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform for ongoing trials. There were no restrictions on the language or date of publication. 
+Selection criteria
+Randomised controlled trials where more than 50% of participants had primary tumours of the oral cavity or oropharynx, or where separate data could be extracted for these participants, and that compared two or more surgical treatment modalities, or surgery versus other treatment modalities. 
+Data collection and analysis
+Two or more review authors independently extracted data and assessed risk of bias. We contacted study authors for additional information as required. We collected adverse events data from included studies. 

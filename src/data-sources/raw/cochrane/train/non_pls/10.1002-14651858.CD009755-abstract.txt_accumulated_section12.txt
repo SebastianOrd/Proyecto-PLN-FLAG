@@ -1,0 +1,12 @@
+Background
+Micronutrient deficiencies are widespread and compound the effects of HIV disease; micronutrient supplements may be effective and safe in reducing this burden. 
+Objectives
+To assess whether micronutrient supplements are effective and safe in reducing mortality and morbidity in pregnant and lactating women with HIV infection and their infants. 
+Search methods
+The review has been updated three times since publication in 2005. In reviews prior to this update (2011), we searched the CENTRAL, EMBASE, PubMed, and GATEWAY databases to identify randomised controlled trials of micronutrient supplements using the search methods of the Cochrane HIV/AIDS Group. In the 2011 review the PubMed, EMBASE, and CENTRAL databases were searched in July 2011. As the GATEWAY database does not include conference abstracts after 2006, we also searched the AIDS‐specific conference database, www.aegis.org, and contacted researchers and organisations active in the field of research to identify additional unpublished trials. 
+Selection criteria
+Randomised controlled trials were selected that compared the effects of micronutrient supplements (vitamins, trace elements, and combinations of these) with other supplements, placebo or no treatment on mortality, morbidity, pregnancy outcomes, immunologic indicators, and anthropometric measures in HIV‐positive pregnant and lactating women. Any adverse effects of supplementation were recorded. 
+Data collection and analysis
+Two reviewer authors independently selected trials, appraised trial quality for risk of bias using standardised criteria, and extracted data using standardised forms. Where disagreements arose, a third author, acted as arbiter. 
+Main results
+One additional trial is included in this update in addition to the three trials included in the 2010 update of the initial Cochrane review. Four relatively large, well‐conducted randomised controlled trials of the benefits of micronutrient supplementation have been conducted in pregnant and lactating women infected with HIV. Each of the trials evaluated a different micronutrient supplement and no direct comparisons or analyses can be made across the four trials.  

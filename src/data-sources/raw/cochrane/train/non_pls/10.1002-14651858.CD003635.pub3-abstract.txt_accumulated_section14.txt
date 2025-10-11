@@ -1,0 +1,14 @@
+Background
+During aortic aneurysm surgery, cross‐clamping can lead to inadequate blood supply to the spinal cord resulting in neurological deficit. Cerebrospinal fluid drainage (CSFD) may increase the perfusion pressure to the spinal cord and hence reduce the risk of ischaemic spinal cord injury. 
+Objectives
+To determine the effect of CSFD during thoracic and thoracoabdominal aortic aneurysm (TAAA) surgery on the risk of developing spinal cord injury. 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (last searched May 31 2012) and CENTRAL (2012, Issue 5) for publications describing randomised controlled trials of cerebrospinal fluid drainage for thoracic and thoracoabdominal aortic aneurysm surgery. Reference lists of relevant articles were checked. 
+Selection criteria
+Randomised trials involving CSFD during thoracic and TAAA surgery.
+Data collection and analysis
+Both authors assessed the quality of trials independently. SNK extracted data and GS verified the data. 
+Main results
+Three trials with a total of 287 participants operated on for Type I or II TAAA were included. 
+In the first trial of 98 participants, neurological deficits in the lower extremities occurred in 14 (30%) of CSFD group and 17 (33%) controls. The deficit was observed within 24 hours of the operation in 21 (68%), and from three to 22 days in 10 (32%) participants. CSFD did not have a significant benefit in preventing ischaemic injury to the spinal cord. 
+The second trial of 33 participants used a combination of CSFD and intrathecal papaverine. It showed a statistically significant reduction in the rate of postoperative neurological deficit (P = 0.039), compared to controls. Analysis was undertaken after only one third of the estimated sample size had entered the trial. 

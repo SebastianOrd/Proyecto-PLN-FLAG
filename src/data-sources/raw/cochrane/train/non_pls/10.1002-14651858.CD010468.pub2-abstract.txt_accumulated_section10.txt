@@ -1,0 +1,10 @@
+Background
+During intensive care unit (ICU) admission, patients experience extreme physical and psychological stressors, including the abnormal ICU environment. These experiences impact on a patient’s recovery from critical illness and may result in both physical and psychological disorders. One strategy that has been developed and implemented by clinical staff to treat the psychological distress prevalent in ICU survivors is the use of patient diaries. These provide a background to the cause of the patient’s ICU admission and an ongoing narrative outlining day‐to‐day activities. 
+Objectives
+To assess the effect of a diary versus no diary on patients, and their caregivers or families, during the patient's recovery from admission to an ICU. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2014, Issue 1), Ovid MEDLINE (1950 to January 2014), EBSCOhost CINAHL (1982 to January 2014), Ovid EMBASE (1980 to January 2014), PsycINFO (1950 to January 2014), Published International Literature on Traumatic Stress (PILOTS) database (1971 to January 2014); Web of Science Conference Proceedings Citation Index ‐ Science and Social Science and Humanities (1990 to January 2014); seven clinical trial registries and reference lists of identified trials. We applied no language restriction. 
+Selection criteria
+We included randomized controlled trials (RCTs) or clinical controlled trials (CCTs) that evaluated the effectiveness of patient diaries, when compared to no ICU diary, for patients or family members to promote recovery after admission to ICU. Outcome measures for describing recovery from ICU included the risk of post‐traumatic stress disorder (PTSD), anxiety, depression and post‐traumatic stress symptomatology, health‐related quality of life and costs. 
+Data collection and analysis
+We used standard methodological approaches as expected by The Cochrane Collaboration. Two review authors independently reviewed titles for inclusion, extracted data and undertook risk of bias according to prespecified criteria. 

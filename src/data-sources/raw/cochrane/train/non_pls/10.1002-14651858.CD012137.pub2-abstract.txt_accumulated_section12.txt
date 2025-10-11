@@ -1,0 +1,12 @@
+Background
+Infectious morbidities contribute to considerable maternal and perinatal morbidity and mortality, including women at no apparent increased risk of infection. To reduce the incidence of infections, antibiotics are often administered to women after uncomplicated childbirth, particularly in settings where women are at higher risk of puerperal infectious morbidities. 
+Objectives
+To assess whether routine administration of prophylactic antibiotics to women after normal (uncomplicated) vaginal birth, compared with placebo or no antibiotic prophylaxis, reduces postpartum maternal infectious morbidities and improves outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 August 2017), LILACS, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (22 August 2017) and reference lists of retrieved studies. 
+Selection criteria
+We planned to include randomised or quasi‐randomised trials evaluating the use of prophylactic antibiotics versus placebo or no antibiotic prophylaxis. Trials using a cluster‐randomised design would have been eligible for inclusion, but we found none. 
+In future updates of this review, we will include studies published in abstract form only, provided sufficient information is available to assess risks of bias. We will consider excluded abstracts for inclusion once the full publication is available, or the authors provide more information. 
+Trials using a cross‐over design are not eligible for inclusion in this review.
+Data collection and analysis
+Two review authors conducted independent assessment of trials for inclusion and risks of bias. They independently extracted data and checked them for accuracy, resolving differences in assessments by discussion. They evaluated methodological quality using standard Cochrane criteria and the GRADE approach. 

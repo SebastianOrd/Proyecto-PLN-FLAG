@@ -1,0 +1,14 @@
+Background
+Misoprostol given orally is a commonly used labour induction method. Our Cochrane Review is restricted to studies with low‐dose misoprostol (initially ≤ 50 µg), as higher doses pose unacceptably high risks of uterine hyperstimulation. 
+Objectives
+To assess the efficacy and safety of low‐dose oral misoprostol for labour induction in women with a viable fetus in the third trimester of pregnancy. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov,  the WHO International Clinical Trials Registry Platform (14 February 2021) and reference lists of retrieved studies. 
+Selection criteria
+Randomised trials comparing low‐dose oral misoprostol (initial dose ≤ 50 µg) versus placebo, vaginal dinoprostone, vaginal misoprostol, oxytocin, or mechanical methods; or comparing oral misoprostol protocols (one‐ to two‐hourly versus four‐ to six‐hourly; 20 µg to 25 µg versus 50 µg; or 20 µg hourly titrated versus 25 µg two‐hourly static). 
+Data collection and analysis
+Using Covidence, two review authors independently screened reports, extracted trial data, and performed quality assessments. Our primary outcomes were vaginal birth within 24 hours, caesarean section, and hyperstimulation with foetal heart changes. 
+Main results
+We included 61 trials involving 20,026 women. GRADE assessments ranged from moderate‐ to very low‐certainty evidence, with downgrading decisions based on imprecision, inconsistency, and study limitations. 
+Oral misoprostol versus placebo/no treatment (four trials; 594 women) 
+Oral misoprostol may make little to no difference in the rate of caesarean section (risk ratio (RR) 0.81, 95% confidence interval (CI) 0.59 to 1.11; 4 trials; 594 women; moderate‐certainty evidence), while its effect on uterine hyperstimulation with foetal heart rate changes is uncertain (RR 5.15, 95% CI 0.25 to 105.31; 3 trials; 495 women; very low‐certainty evidence). Vaginal births within 24 hours was not reported. In all trials, oxytocin could be commenced after 12 to 24 hours and all women had pre‐labour ruptured membranes. 

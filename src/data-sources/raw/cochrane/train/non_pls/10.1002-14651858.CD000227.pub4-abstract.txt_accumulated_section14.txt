@@ -1,0 +1,14 @@
+Background
+Vitamin D and related compounds have been used to prevent osteoporotic fractures in older people. This is the third update of a Cochrane review first published in 1996. 
+Objectives
+To determine the effects of vitamin D or related compounds, with or without calcium, for preventing fractures in post‐menopausal women and older men. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (to December 2012), the Cochrane Central Register of Controlled Trials (2012, Issue 12), MEDLINE (1966 to November Week 3 2012), EMBASE (1980 to 2012 Week 50), CINAHL (1982 to December 2012), BIOSIS (1985 to 3 January 2013), Current Controlled Trials (December 2012) and reference lists of articles. 
+Selection criteria
+Randomised or quasi‐randomised trials that compared vitamin D or related compounds, alone or with calcium, against placebo, no intervention or calcium alone, and that reported fracture outcomes in older people. The primary outcome was hip fracture. 
+Data collection and analysis
+Two authors independently assessed trial risk of selection bias and aspects of methodological quality, and extracted data. Data were pooled, where possible, using the fixed‐effect model, or the random‐effects model when heterogeneity between studies appeared substantial. 
+Main results
+We included 53 trials with a total of 91,791 participants. Thirty‐one trials, with sample sizes ranging from 70 to 36,282 participants, examined vitamin D (including 25‐hydroxy vitamin D) with or without calcium in the prevention of fractures in community, nursing home or hospital inpatient populations. Twelve of these 31 trials had participants with a mean or median age of 80 years or over. 
+Another group of 22 smaller trials examined calcitriol or alfacalcidol (1‐alphahydroxyvitamin D3), mostly with participants who had established osteoporosis. These trials were carried out in the setting of institutional referral clinics or hospitals. 
+In the assessment of risk of bias for random sequence generation, 21 trials (40%) were deemed to be at low risk, 28 trials (53%) at unclear risk and four trials at high risk (8%). For allocation concealment, 22 trials were at low risk (42%), 29 trials were at unclear risk (55%) and two trials were at high risk (4%). 

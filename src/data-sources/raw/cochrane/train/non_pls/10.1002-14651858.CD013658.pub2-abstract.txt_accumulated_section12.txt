@@ -1,0 +1,12 @@
+Background
+Oncoplastic breast‐conserving surgery (O‐BCS) involves removing the tumour in the breast and using plastic surgery techniques to reconstruct the breast. The adequacy of published evidence on the safety and efficacy of O‐BCS for the treatment of breast cancer compared to other surgical options for breast cancer is still debatable. It is estimated that the local recurrence rate is similar to standard breast‐conserving surgery (S‐BCS) and also mastectomy, but the aesthetic and patient‐reported outcomes may be improved with oncoplastic techniques. 
+Objectives
+Our primary objective was to assess oncological control outcomes following O‐BCS compared with other surgical options for women with breast cancer. Our secondary objective was to assess surgical complications, recall rates, need for further surgery to achieve adequate oncological resection, patient satisfaction through patient‐reported outcomes, and cosmetic outcomes through objective measures or clinician‐reported outcomes. 
+Search methods
+We searched the Cochrane Breast Cancer Group's Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL),MEDLINE (via OVID), Embase (via OVID), the World Health Organization's International Clinical Trials RegistryPlatform and ClinicalTrials.gov on 7 August 2020. We did not apply any language restrictions. 
+Selection criteria
+We selected randomised controlled trials (RCTs) and non‐randomised comparative studies (cohort and case‐control studies). Studies evaluated any O‐BCS technique, including volume displacement techniques and partial breast volume replacement techniques compared to any other surgical treatment (partial resection or mastectomy) for the treatment of breast cancer. 
+Data collection and analysis
+Four review authors performed data extraction and resolved disagreements. We used ROBINS‐I to assess the risk of bias by outcome. We performed descriptive data analysis and meta‐analysis and evaluated the quality of the evidence using GRADE criteria. The outcomes included local recurrence, breast cancer‐specific disease‐free survival, re‐excision rates, complications, recall rates, and patient‐reported outcome measures. 
+Main results
+We included 78 non‐randomised cohort studies evaluating 178,813 women. Overall, we assessed the risk of bias per outcome as being at serious risk of bias due to confounding; where studies adjusted for confounding, we deemed these at moderate risk. 

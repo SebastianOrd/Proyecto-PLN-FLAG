@@ -1,0 +1,14 @@
+Background
+Increased ultrasound surveillance of twin pregnancies has become accepted practice due to the higher risk of complications. There is no current consensus however as to the method and frequency of ultrasound monitoring that constitutes optimal care. 
+Objectives
+To systematically review the effects of different types and frequency of ultrasound surveillance for women with a twin pregnancy on neonatal, fetal and maternal outcomes. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth's Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (all searched 11 August 2017), and reference lists of retrieved studies. 
+Selection criteria
+Randomised and quasi‐randomised trials (including those published in abstract form) comparing the effects of described antenatal ultrasound surveillance regimens in twin pregnancies. Trials using a cluster‐randomised design would have been eligible for inclusion in this review but none were identified. Trials using a cross‐over design are not eligible for inclusion in this review. 
+Different types and frequencies of ultrasound testing (for fetal surveillance and detection of specific problems) compared with each other and also compared with no testing. For example, an intervention might comprise a specific approach to ultrasound examination with dedicated components to detect twin‐specific pathology. Different interventions could also include a specific type of surveillance at different intervals or different combinations at the same intervals. 
+In this review we only found one study looking at fetal growth (biometry) and Doppler ultrasounds at 25, 30 and 35 weeks' gestation versus fetal growth alone. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and quality, and extracted data. We checked data for accuracy. 
+Main results
+We included one trial of 526 women with a twin pregnancy of two viable twins, with no known morphological abnormality, in this review. The trial compared women receiving fetal growth and Doppler ultrasounds at 25, 30 and 35 weeks' gestation to fetal growth alone. We judged the included study to be at low risk of bias however the risk of performance and detection bias were unclear. 

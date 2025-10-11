@@ -1,0 +1,9 @@
+Background
+Multiple myeloma is a malignant plasma cell disorder characterised by clonal plasma cells that cause end‐organ damage such as renal failure, lytic bone lesions, hypercalcaemia and/or anaemia. People with multiple myeloma are treated with immunomodulatory agents including lenalidomide, pomalidomide, and thalidomide. Multiple myeloma is associated with an increased risk of thromboembolism, which appears to be further increased in people receiving immunomodulatory agents. 
+Objectives
+(1) To systematically review the evidence for the relative efficacy and safety of aspirin, oral anticoagulants, or parenteral anticoagulants in ambulatory patients with multiple myeloma receiving immunomodulatory agents who otherwise have no standard therapeutic or prophylactic indication for anticoagulation. 
+(2) To maintain this review as a living systematic review by continually running the searches and incorporating newly identified studies. 
+Search methods
+We conducted a comprehensive literature search that included (1) a major electronic search (14 June 2021) of the following databases: Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE via Ovid, and Embase via Ovid; (2) hand‐searching of conference proceedings; (3) checking of reference lists of included studies; and (4) a search for ongoing studies in trial registries. As part of the living systematic review approach, we are running continual searches, and we will incorporate new evidence rapidly after it is identified. 
+Selection criteria
+Randomised controlled trials (RCTs) assessing the benefits and harms of oral anticoagulants such as vitamin K antagonist (VKA) and direct oral anticoagulants (DOAC), anti‐platelet agents such as aspirin (ASA), and parenteral anticoagulants such as low molecular weight heparin (LMWH)in ambulatory patients with multiple myeloma receiving immunomodulatory agents. 

@@ -1,0 +1,10 @@
+Background
+Burn injuries are the fourth most common traumatic injury, causing an estimated 180,000 deaths annually worldwide. Superficial burns can be managed with dressings alone, but deeper burns or those that fail to heal promptly are usually treated surgically. Acute burns surgery aims to debride burnt skin until healthy tissue is reached, at which point skin grafts or temporising dressings are applied. Conventional debridement is performed with an angled blade, tangentially shaving burned tissue until healthy tissue is encountered. Hydrosurgery, an alternative to conventional blade debridement, simultaneously debrides, irrigates, and removes tissue with the aim of minimising damage to uninjured tissue. Despite the increasing use of hydrosurgery, its efficacy and the risk of adverse events following surgery for burns is unclear. 
+Objectives
+To assess the effects of hydrosurgical debridement and skin grafting versus conventional surgical debridement and skin grafting for the treatment of acute partial‐thickness burns. 
+Search methods
+In December 2019 we searched the Cochrane Wounds Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE (including In‐Process & Other Non‐Indexed Citations); Ovid Embase and EBSCO CINAHL Plus. We also searched clinical trials registries for ongoing and unpublished studies, and scanned reference lists of relevant included studies as well as reviews, meta‐analyses and health technology reports to identify additional studies. There were no restrictions with respect to language, date of publication or study setting. 
+Selection criteria
+We included randomised controlled trials (RCTs) that enrolled people of any age with acute partial‐thickness burn injury and assessed the use of hydrosurgery. 
+Data collection and analysis
+Two review authors independently performed study selection, data extraction, 'Risk of bias' assessment, and GRADE assessment of the certainty of the evidence. 

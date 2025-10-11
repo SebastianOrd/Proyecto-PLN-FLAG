@@ -1,0 +1,16 @@
+Background
+Uterine fibroids can cause heavy menstrual bleeding. Medical treatments are considered to preserve fertility. It is unclear whether progestogens or progestogen‐releasing intrauterine systems can reduce fibroid‐related symptoms. This is the first update of a Cochrane Review published in 2013. 
+Objectives
+To determine the effectiveness of progestogens or progestogen‐releasing intrauterine systems in treating premenopausal women with uterine fibroids. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, Embase, and PsycINFO databases to July 2020. We also searched trials registers for ongoing and registered trials, and checked references of relevant trials. 
+Selection criteria
+All identified published or unpublished randomised controlled trials (RCTs) assessing the effect of progestogens or progestogen‐releasing intrauterine systems in treating premenopausal women with uterine fibroids. 
+Data collection and analysis
+Two authors independently extracted data, assessed risk of bias, and assessed the quality of the evidence using the GRADE approach. 
+Main results
+This updated review included four studies with 221 women with uterine fibroids. The evidence was very low quality, downgraded for serious risk of bias, due to poor reporting of study methods, and serious imprecision. 
+Levonorgestrel‐releasing intrauterine device (LNG‐IUS) versus hysterectomy 
+There was no information on the outcomes of interest, including adverse events.
+LNG‐IUS versus low dose combined oral contraceptive (COC) 
+At 12 months, we are uncertain whether LNG‐IUS reduced the percentage of abnormal uterine bleeding, measured with the alkaline hematin test (mean difference (MD) 77.50%, 95% confidence interval (CI) 70.44 to 84.56; 1 RCT, 44 women; very low‐quality evidence), or the pictorial blood assessment chart (PBAC; MD 34.50%, 95% CI 11.59 to 57.41; 1 RCT, 44 women; very low‐quality evidence); increased haemoglobin levels (MD 1.50 g/dL, 95% CI 0.85 to 2.15; 1 RCT, 44 women; very low‐quality evidence), or reduced fibroid size more than COC (MD 1.90%, 95% CI ‐12.24 to 16.04; 1 RCT, 44 women; very low‐quality evidence). The study did not measure adverse events. 

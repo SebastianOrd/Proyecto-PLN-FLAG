@@ -1,0 +1,12 @@
+Background
+Venous thromboembolism (VTE) is a common condition with potentially serious and life‐threatening consequences. The standard method of thromboprophylaxis uses an anticoagulant such as low molecular weight heparin (LMWH) or warfarin. In recent years, another type of anticoagulant, pentasaccharide, an indirect factor Xa inhibitor, has shown good anticoagulative effect in clinical trials. Three types of pentasaccharides are available: short‐acting fondaparinux, long‐acting idraparinux and idrabiotaparinux. Pentasaccharides cause little heparin‐induced thrombocytopenia and are better tolerated than unfractionated heparin, LMWH and warfarin. However, no consensus has been reached on whether pentasaccharides are superior or inferior to other anticoagulative methods. 
+Objectives
+To assess effects of pentasaccharides versus other methods of thromboembolic prevention (thromboprophylaxis) in people who require anticoagulant treatment to prevent venous thromboembolism. 
+Search methods
+The Cochrane Vascular Information Specialist (CIS) searched the Specialised Register (last searched March 2016) and the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 2). The CIS searched trial databases for details of ongoing and unpublished studies. Review authors searched LILACS (Latin American and Caribbean Health Sciences) and the reference lists of relevant studies and reviews identified by electronic searches. 
+Selection criteria
+We included randomised controlled trials on any type of pentasaccharide versus other anticoagulation methods (pharmaceutical or mechanical) for VTE prevention. 
+Data collection and analysis
+Two review authors independently selected trials, assessed methodological quality and extracted data in predesigned tables. 
+Main results
+We included in this review 25 studies with a total of 21,004 participants. All investigated fondaparinux for VTE prevention; none investigated idraparinux or idrabiotaparinux. Studies included participants undergoing abdominal surgery, thoracic surgery, bariatric surgery or coronary bypass surgery; acutely ill hospitalised medical patients; people requiring rigid or semirigid immobilisation; and those with superficial venous thrombosis. Most studies focused on orthopaedic patients. We lowered the quality of the evidence because of heterogeneity between studies and a small number of events causing imprecision. 

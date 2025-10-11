@@ -1,0 +1,8 @@
+Background
+Anaemia is a condition in which the number of red blood cells is insufficient to meet physiologic needs; it is caused by many conditions, particularly iron deficiency. Traditionally, daily iron supplementation has been a standard practice for preventing and treating anaemia. However, its long‐term use has been limited, as it has been associated with adverse side effects such as nausea, constipation, and teeth staining. Intermittent iron supplementation has been suggested as an effective and safer alternative to daily iron supplementation for preventing and reducing anaemia at the population level, especially in areas where this condition is highly prevalent. 
+Objectives
+To assess the effects of intermittent oral iron supplementation, alone or in combination with other nutrients, on anaemia and its associated impairments among menstruating women, compared with no intervention, a placebo, or daily supplementation. 
+Search methods
+In February 2018, we searched CENTRAL, MEDLINE, Embase, nine other databases, and two trials registers. In March 2018, we also searched LILACS, IBECS and IMBIOMED. In addition, we examined reference lists, and contacted authors and known experts to identify additional studies. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs with either individual or cluster randomisation. Participants were menstruating women; that is, women beyond menarche and prior to menopause who were not pregnant or lactating and did not have a known condition that impeded the presence of menstrual periods. The intervention was the use of iron supplements intermittently (one, two or three times a week on non‐consecutive days) compared with placebo, no intervention, or the same supplements provided on a daily basis. 

@@ -1,0 +1,10 @@
+Background
+Infantile colic has an effect on both infants and their parents, who become exhausted and concerned as they attempt to comfort their child. Common approaches have focused upon physical treatments to reduce symptoms, with inconclusive evidence as to their effectiveness. An alternative approach seeks to provide training, support and psychological interventions for parents. This approach is known as parent training programmes. Programmes can include soothing techniques, advice on feeding or normalisation material in any form. The teaching format can vary including face‐to‐face courses, online learning, printed materials, home visits and remote support and counselling. Here, we aim to collate the evidence on the effectiveness of these interventions and examine their effectiveness at reducing infantile colic symptoms and parental anxiety levels, and their safety. 
+Objectives
+1. To evaluate the effectiveness and safety of parent training programmes for managing colic in infants under four months of age. 2. To identify the educational content and attributes of such published programmes. 
+Search methods
+In June 2019 we searched CENTRAL, MEDLINE, Embase, 13 other databases and two trials registers. We also handsearched conference abstracts, inspected the references of included studies and contacted leaders in the field for more trials. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs investigating the effectiveness of any form of parental training programmes, alone or in combination, versus another intervention(s) or control, on infantile colic. 
+Data collection and analysis
+Two authors independently selected studies for inclusion, extracted data, and assessed the risk of bias within the included studies. We used Review Manager 5 to analyse the data. We assessed the certainty of the evidence using GRADE methodology. 

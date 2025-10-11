@@ -1,0 +1,13 @@
+Background
+Adhesions are fibrin bands that are a common consequence of gynaecological surgery. They are caused by conditions that include pelvic inflammatory disease and endometriosis. Adhesions are associated with comorbidities, including pelvic pain, subfertility, and small bowel obstruction. Adhesions also increase the likelihood of further surgery, causing distress and unnecessary expenses. Strategies to prevent adhesion formation include the use of fluid (also called hydroflotation) and gel agents, which aim to prevent healing tissues from touching one another, or drugs, aimed to change an aspect of the healing process, to make adhesions less likely to form. 
+Objectives
+To evaluate the effectiveness and safety of fluid and pharmacological agents on rates of pain, live births, and adhesion prevention in women undergoing gynaecological surgery. 
+Search methods
+We searched: the Cochrane Gynaecology and Fertility Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO, and Epistemonikos to 22 August 2019. We also checked the reference lists of relevant papers and contacted experts in the field. 
+Selection criteria
+Randomised controlled trials investigating the use of fluid (including gel) and pharmacological agents to prevent adhesions after gynaecological surgery. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. We assessed the overall quality of the evidence using GRADE methods. Outcomes of interest were pelvic pain; live birth rates; incidence of, mean, and changes in adhesion scores at second look‐laparoscopy (SLL); clinical pregnancy, miscarriage, and ectopic pregnancy rates; quality of life at SLL; and adverse events. 
+Main results
+We included 32 trials (3492 women), and excluded 11.
+We were unable to include data from nine studies in the statistical analyses, but the findings of these studies were broadly in keeping with the findings of the meta‐analyses. 

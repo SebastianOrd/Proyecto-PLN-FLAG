@@ -1,0 +1,10 @@
+Background
+People with serious mental illness not only experience an erosion of functioning in day‐to‐day life over a protracted period of time, but evidence also suggests that they have a greater risk of experiencing oral disease and greater oral treatment needs than the general population. Poor oral hygiene has been linked to coronary heart disease, diabetes, and respiratory disease and impacts on quality of life, affecting everyday functioning such as eating, comfort, appearance, social acceptance, and self esteem. Oral health, however, is often not seen as a priority in people suffering with serious mental illness. 
+Objectives
+To review the effects of oral health education (advice and training) with or without monitoring for people with serious mental illness. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Trials Register (5 November 2015), which is based on regular searches of MEDLINE, EMBASE, CINAHL, BIOSIS, AMED, PubMed, PsycINFO, and clinical trials registries. There are no language, date, document type, or publication status limitations for inclusion of records in the register. 
+Selection criteria
+All randomised clinical trials focusing on oral health education (advice and training) with or without monitoring for people with serious mental illness. 
+Data collection and analysis
+We extracted data independently. For binary outcomes, we calculated risk ratio (RR) and its 95% confidence interval (CI), on an intention‐to‐treat basis. For continuous data, we estimated the mean difference (MD) between groups and its 95% CI. We employed a fixed‐effect model for analyses. We assessed risk of bias for included studies and created 'Summary of findings' tables using GRADE. 

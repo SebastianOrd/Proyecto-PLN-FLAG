@@ -1,0 +1,12 @@
+Background
+Viruses cause about 80% of all cases of acute conjunctivitis. Human adenoviruses are believed to account for 65% to 90% of cases of viral conjunctivitis, or 20% to 75% of all causes of infectious keratoconjunctivitis worldwide. Epidemic keratoconjunctivitis (EKC) is a highly contagious subset of adenoviral conjunctivitis that has been associated with large outbreaks at military installations and at medical facilities. It is accompanied by severe conjunctival inflammation, watery discharge, and light sensitivity, and can lead to chronic complications such as corneal and conjunctival scarring with discomfort and poor quality of vision. Due to a lack of consensus on the efficacy of any pharmacotherapy to alter the clinical course of EKC, no standard of care exists, therefore many clinicians offer only supportive care. 
+Objectives
+To assess the efficacy and safety of topical pharmacological therapies versus placebo, an active control, or no treatment for adults with EKC. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, which contains the Cochrane Eyes and Vision Trials Register; 2021, Issue 4); Ovid MEDLINE; Ovid Embase; Latin American and Caribbean Health Sciences database (LILACS); ClinicalTrials.gov; and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP), with no restrictions on language or year of publication. The date of the last search was 27 April 2021. 
+Selection criteria
+We included randomized controlled trials in which antiseptic agents, virustatic agents, or topical immune‐modulating therapy was compared with placebo, an active control, or no treatment. 
+Data collection and analysis
+We used standard Cochrane methodology.
+Main results
+We identified 10 studies conducted in Asia, Europe, the Middle East, and North Africa with a total of 892 participants who were treated for 7 days to 6 months and followed for 7 days up to 1.5 years. 

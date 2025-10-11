@@ -1,0 +1,10 @@
+Background
+People requiring long‐term bladder draining with an indwelling catheter can experience catheter blockage. Regimens involving different solutions can be used to wash out catheters with the aim of preventing blockage. This is an update of a review published in 2010. 
+Objectives
+To determine if certain washout regimens are better than others in terms of effectiveness, acceptability, complications, quality of life and critically appraise and summarise economic evidence for the management of long‐term indwelling urinary catheterisation in adults. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Trials Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, MEDLINE In‐Process, MEDLINE Epub Ahead of Print, CINAHL, ClinicalTrials.gov, WHO ICTRP and handsearching of journals and conference proceedings to 23 May 2016. We also examined all reference lists of identified trials and contacted manufacturers and researchers in the field. 
+Selection criteria
+All randomised and quasi‐randomised trials comparing catheter washout policies (e.g. washout versus no washout, different washout solutions, frequency, duration, volume, concentration, method of administration) in adults (aged 16 years and above) in any setting (i.e. hospital, nursing/residential home, community) with an indwelling urethral or suprapubic catheter for more than 28 days. 
+Data collection and analysis
+Two review authors independently extracted data. Disagreements were resolved by discussion. Data were assessed and analysed as described in the Cochrane Handbook. If data in trials were not fully reported, clarification was sought from the study authors. For categorical outcomes, the numbers reporting an outcome were related to the numbers at risk in each group to derive a risk ratio (RR). For continuous outcomes, means and standard deviations were used to derive mean differences (MD). 

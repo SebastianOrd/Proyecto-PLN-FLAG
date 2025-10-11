@@ -1,0 +1,13 @@
+Background
+Otitis media with effusion (OME; 'glue ear') is common in childhood and surgical treatment with grommets (ventilation tubes) is widespread but controversial. 
+Objectives
+To assess the effectiveness of grommet insertion compared with myringotomy or non‐surgical treatment in children with OME. 
+Search methods
+We searched the Cochrane ENT Disorders Group Trials Register, other electronic databases and additional sources for published and unpublished trials (most recent search: 22 March 2010). 
+Selection criteria
+Randomised controlled trials evaluating the effect of grommets. Outcomes studied included hearing level, duration of middle ear effusion, language and speech development, cognitive development, behaviour and adverse effects. 
+Data collection and analysis
+Data from studies were extracted by two authors and checked by the other authors.
+Main results
+We included 10 trials (1728 participants). Some trials randomised children (grommets versus no grommets), others ears (grommet one ear only). The severity of OME in children varied between trials. Only one 'by child' study (MRC: TARGET) had particularly stringent audiometric entry criteria. No trial was identified that used long‐term grommets. 
+Grommets were mainly beneficial in the first six months by which time natural resolution lead to improved hearing in the non‐surgically treated children also. Only one high quality trial that randomised children (N = 211) reported results at three months; the mean hearing level was 12 dB better (95% CI 10 to 14 dB) in those treated with grommets as compared to the controls. Meta‐analyses of three high quality trials (N = 523) showed a benefit of 4 dB (95% CI 2 to 6 dB) at six to nine months. At 12 and 18 months follow up no differences in mean hearing levels were found. 

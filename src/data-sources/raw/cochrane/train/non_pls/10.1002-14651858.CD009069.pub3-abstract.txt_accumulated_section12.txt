@@ -1,0 +1,12 @@
+Background
+Persistent infection with high‐risk human papillomaviruses (hrHPV) types is causally linked with the development of cervical precancer and cancer. HPV types 16 and 18 cause approximately 70% of cervical cancers worldwide. 
+Objectives
+To evaluate the harms and protection of prophylactic human papillomaviruses (HPV) vaccines against cervical precancer and HPV16/18 infection in adolescent girls and women. 
+Search methods
+We searched MEDLINE, Cochrane Central Register of Controlled Trials (CENTRAL) and Embase (June 2017) for reports on effects from trials. We searched trial registries and company results' registers to identify unpublished data for mortality and serious adverse events. 
+Selection criteria
+Randomised controlled trials comparing efficacy and safety in females offered HPV vaccines with placebo (vaccine adjuvants or another control vaccine). 
+Data collection and analysis
+We used Cochrane methodology and GRADE to rate the certainty of evidence for protection against cervical precancer (cervical intraepithelial neoplasia grade 2 and above [CIN2+], CIN grade 3 and above [CIN3+], and adenocarcinoma‐in‐situ [AIS]), and for harms. We distinguished between the effects of vaccines by participants' baseline HPV DNA status. The outcomes were precancer associated with vaccine HPV types and precancer irrespective of HPV type. Results are presented as risks in control and vaccination groups and risk ratios (RR) with 95% confidence intervals in brackets. 
+Main results
+We included 26 trials (73,428 participants). Ten trials, with follow‐up of 1.3 to 8 years, addressed protection against CIN/AIS. Vaccine safety was evaluated over a period of 6 months to 7 years in 23 studies. Studies were not large enough or of sufficient duration to evaluate cervical cancer outcomes. All but one of the trials was funded by the vaccine manufacturers. We judged most included trials to be at low risk of bias. Studies involved monovalent (N = 1), bivalent (N = 18), and quadrivalent vaccines (N = 7). Most women were under 26 years of age. Three trials recruited women aged 25 and over. We summarize the effects of vaccines in participants who had at least one immunisation. 

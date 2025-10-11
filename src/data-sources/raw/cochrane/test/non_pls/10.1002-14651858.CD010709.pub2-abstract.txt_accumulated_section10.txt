@@ -1,0 +1,10 @@
+Background
+Guidelines recommend routine arteriovenous (AV) graft and fistula surveillance (technology‐based screening) in addition to clinical monitoring (physical examination) for early identification and pre‐emptive correction of a stenosis before the access becomes dysfunctional. However, consequences on patient‐relevant outcomes of pre‐emptive correction of a stenosis in a functioning access as opposed to deferred correction, i.e. correction postponed to when the access becomes dysfunctional, are uncertain. 
+Objectives
+We aimed to evaluate 1) whether pre‐emptive correction of an AV access stenosis improves clinically relevant outcomes; 2) whether the effects of pre‐emptive correction of an AV access stenosis differ by access type (fistula versus graft), aim (primary and secondary prophylaxis), and surveillance method for primary prophylaxis (Doppler ultrasound for the screening of functional and anatomical changes versus measurement of the flow in the access); and 3) whether other factors (dialysis duration, access location, configuration or materials, algorithm for referral for intervention, intervention strategies (surgical versus radiological or other), or study design) explain the heterogeneity that might exist in the effect estimates. 
+Search methods
+We searched the Cochrane Kidney and Transplant Specialised Register to 30 November 2015 using search terms relevant to this review. 
+Selection criteria
+We included all studies of any access surveillance method for early identification and pre‐emptive treatment of an AV access stenosis. 
+Data collection and analysis
+We extracted data on potentially remediable and irremediable failure of the access (i.e. thrombosis and access loss respectively); infection and mortality; and resource use (hospitalisation, diagnostic and intervention procedures). Analysis was by a random effects model and results expressed as risk ratio (RR), hazard ratio (HR) or incidence rate ratio (IRR) with 95% confidence intervals (CI). 

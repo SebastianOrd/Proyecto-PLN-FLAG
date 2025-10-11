@@ -1,0 +1,12 @@
+Background
+Embryo transfer (ET) was traditionally performed two days after oocyte retrieval; however, developments in culture media have allowed embryos to be maintained in culture for longer periods. Delaying transfer from Day two to Day three would allow for further development of the embryo and might have a positive effect on pregnancy outcomes. 
+Objectives
+To determine if there are any differences in live birth and pregnancy rates when embryo transfer is performed on day three after oocyte retrieval, compared with day two, in infertile couples undergoing treatment with in vitro fertilisation (IVF), including intracytoplasmic sperm injection (ICSI). 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group Specialised Register of Controlled Trials, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid), Embase (Ovid), PsycINFO (Ovid) from the inception of the databases to 26th April 2016. We also searched ClinicalTrials.gov and the WHO portal for ongoing trials plus citation lists of relevant publications, review articles and included studies, as well as abstracts of appropriate scientific meetings. 
+Selection criteria
+Randomised controlled trials that compared Day 3 versus Day 2 embryo transfer after oocyte retrieval during an IVF or ICSI treatment cycle in infertile couples. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. We contacted study authors for additional information. The primary outcome measures were live birth rate and ongoing pregnancy rate. 
+Main results
+We included 15 studies. Fourteen studies reported data per woman (2894 women) and one study reported data per cycle (969 cycles). The quality of the evidence using the GRADE approach ranged from moderate quality to very low quality. The main reasons for downgrading evidence were poor methodological reporting, selective reporting, inconsistency and imprecision. 

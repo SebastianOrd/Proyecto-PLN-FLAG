@@ -1,0 +1,12 @@
+Background
+The projected rise in the incidence of type 2 diabetes mellitus (T2DM) could develop into a substantial health problem worldwide. Whether metformin can prevent or delay T2DM and its complications in people with increased risk of developing T2DM is unknown. 
+Objectives
+To assess the effects of metformin for the prevention or delay of T2DM and its associated complications in persons at increased risk for the T2DM. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials, MEDLINE, Scopus, ClinicalTrials.gov, the World Health Organization (WHO) International Clinical Trials Registry Platform and the reference lists of systematic reviews, articles and health technology assessment reports. We asked investigators of the included trials for information about additional trials. The date of the last search of all databases was March 2019. 
+Selection criteria
+We included randomised controlled trials (RCTs) with a duration of one year or more comparing metformin with any pharmacological glucose‐lowering intervention, behaviour‐changing intervention, placebo or standard care in people with impaired glucose tolerance, impaired fasting glucose, moderately elevated glycosylated haemoglobin A1c (HbA1c) or combinations of these. 
+Data collection and analysis
+Two review authors read all abstracts and full‐text articles and records, assessed risk of bias and extracted outcome data independently. We used a random‐effects model to perform meta‐analysis and calculated risk ratios (RRs) for dichotomous outcomes and mean differences (MDs) for continuous outcomes, using 95% confidence intervals (CIs) for effect estimates. We assessed the certainty of the evidence using GRADE. 
+Main results
+We included 20 RCTs randomising 6774 participants. One trial contributed 48% of all participants. The duration of intervention in the trials varied from one to five years. We judged none of the trials to be at low risk of bias in all 'Risk of bias' domains. 

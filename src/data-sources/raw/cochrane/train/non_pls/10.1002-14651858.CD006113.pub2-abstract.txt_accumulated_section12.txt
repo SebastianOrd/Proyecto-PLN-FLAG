@@ -1,0 +1,12 @@
+Background
+Painful Bladder Syndrome/Interstitial Cystitis (PBS/IC) occurs predominantly in women. It is a poorly‐understood condition with symptoms of bladder pain, urinary frequency, urgency and nocturia. Treatments for PBS/IC include dietary/lifestyle interventions, oral medication, intravesical instillations and, in some cases, surgery. Success rates are generally modest and there is little consensus as to the best form of treatment for this condition. 
+Objectives
+To assess the effectiveness of intravesical treatment for PBS/IC.
+Search methods
+We searched the Cochrane Incontinence Group Specialised Trials Register (30 May 2006) as well as reference lists of all selected trials. Recognised researchers in the field were contacted for any additional relevant material. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials were included in the review if they had recruited participants with a clinical diagnosis of PBS/IC and if at least one arm of the trial was treatment with an intravesical preparation. Outcome measures were pre‐determined, the primary ones being the effect on pain and bladder capacity. Others included symptomatic response to treatment, quality‐of‐life assessment, economic factors and adverse events. 
+Data collection and analysis
+Two reviewers independently assessed trial eligibility and quality, then extracted relevant data from the studies. 
+Main results
+Nine eligible trials were identified ‐ six parallel group, one incomplete cross‐over and two cross‐over trials ‐ with a total of 616 participants. Six trials compared an 'active' instillation with placebo instillation, two compared different types of instillation, and one was a comparison of an instillation plus bladder training versus bladder training alone. Altogether, the review included trials of six different types of intravesical instillation: Resiniferatoxin, Dimethyl sulfoxide, BCG, pentosanpolysulphate, oxybutin, and alkalinisation of urine pH. Confidence intervals were generally wide. 

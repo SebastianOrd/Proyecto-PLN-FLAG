@@ -1,0 +1,12 @@
+Background
+A particularly difficult challenge for community treatment of people with serious mental illnesses is the delivery of an acceptable level of care during the acute phases of severe mental illness. Crisis‐intervention models of care were developed as a possible solution. 
+Objectives
+To review the effects of crisis‐intervention models for anyone with serious mental illness experiencing an acute episode compared to the standard care they would normally receive. If possible, to compare the effects of mobile crisis teams visiting patients' homes with crisis units based in home‐like residential houses. 
+Search methods
+We searched the Cochrane Schizophrenia Group’s Study‐Based Register of Trials. There is no language, time, document type, or publication status limitations for inclusion of records in the register. This search was undertaken in 1998 and then updated 2003, 2006, 2010 and September 29, 2014. 
+Selection criteria
+We included all randomised controlled trials of crisis‐intervention models versus standard care for people with severe mental illnesses that met our inclusion criteria. 
+Data collection and analysis
+We independently extracted data from these trials and we estimated risk ratios (RR) or mean differences (MD), with 95% confidence intervals (CI). We assessed risk of bias for included studies and used GRADE to create a 'Summary of findings' table. 
+Main results
+The update search September 2014 found no further new studies for inclusion, the number of studies included in this review remains eight with a total of 1144 participants. Our main outcomes of interest are hospital use, global state, mental state, quality of life, participant satisfaction and family burden. With the exception of mental state, it was not possible to pool data for these outcomes. 

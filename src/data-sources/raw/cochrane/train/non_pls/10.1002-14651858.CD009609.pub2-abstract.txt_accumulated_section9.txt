@@ -1,0 +1,9 @@
+Background
+Bronchiolitis is a common lower respiratory tract illness, usually of viral aetiology, affecting infants younger than 24 months of age and is a frequent cause of hospitalisation. It causes airway inflammation, mucus production and mucous plugging, resulting in airway obstruction. Effective pharmacotherapy is lacking and bronchiolitis is a major cause of morbidity and mortality. 
+Conventional treatment consists of supportive therapy in the form of fluids, supplemental oxygen and respiratory support. Traditionally oxygen delivery is as a dry gas at 100% concentration via low‐flow nasal prongs. However, the use of heated, humidified, high‐flow nasal cannula (HFNC) therapy enables delivery of higher inspired gas flows of an air/oxygen blend, up to 12 L/min in infants and 30 L/min in children. Its use provides some level of continuous positive airway pressure to improve ventilation in a minimally invasive manner. This may reduce the need for invasive respiratory support thus potentially lowering costs, with clinical advantages and fewer adverse effects. 
+Objectives
+To assess the effects of HFNC therapy compared with conventional respiratory support in the treatment of infants with bronchiolitis. 
+Search methods
+We searched CENTRAL (2013, Issue 4), MEDLINE (1946 to May week 1, 2013), EMBASE (January 2010 to May 2013), CINAHL (1981 to May 2013), LILACS (1982 to May 2013) and Web of Science (1985 to May 2013). In addition we consulted ongoing trial registers and experts in the field to identify ongoing studies, checked reference lists of relevant articles and searched conference abstracts. 
+Selection criteria
+We included randomised controlled trials (RCTs) or quasi‐RCTs which assessed the effects of HFNC (delivering oxygen or oxygen/room air blend at flow rates greater than 4 L/min) compared to conventional treatment in infants (< 24 months) with a clinical diagnosis of bronchiolitis. 

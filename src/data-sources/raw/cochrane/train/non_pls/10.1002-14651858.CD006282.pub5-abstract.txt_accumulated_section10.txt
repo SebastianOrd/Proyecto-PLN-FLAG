@@ -1,0 +1,10 @@
+Background
+Spinal muscular atrophy (SMA) is caused by a homozygous deletion of the survival motor neuron 1 (SMN1) gene on chromosome 5, or a heterozygous deletion in combination with a (point) mutation in the second SMN1 allele. This results in degeneration of anterior horn cells, which leads to progressive muscle weakness. Children with SMA type II do not develop the ability to walk without support and have a shortened life expectancy, whereas children with SMA type III develop the ability to walk and have a normal life expectancy. This is an update of a review first published in 2009 and previously updated in 2011. 
+Objectives
+To evaluate if drug treatment is able to slow or arrest the disease progression of SMA types II and III, and to assess if such therapy can be given safely. 
+Search methods
+We searched the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, Embase, and ISI Web of Science conference proceedings in October 2018. In October 2018, we also searched two trials registries to identify unpublished trials. 
+Selection criteria
+We sought all randomised or quasi‐randomised trials that examined the efficacy of drug treatment for SMA types II and III. Participants had to fulfil the clinical criteria and have a homozygous deletion or hemizygous deletion in combination with a point mutation in the second allele of the SMN1 gene (5q11.2‐13.2) confirmed by genetic analysis. 
+The primary outcome measure was change in disability score within one year after the onset of treatment. Secondary outcome measures within one year after the onset of treatment were change in muscle strength, ability to stand or walk, change in quality of life, time from the start of treatment until death or full‐time ventilation and adverse events attributable to treatment during the trial period. 
+Treatment strategies involving SMN1‐replacement with viral vectors are out of the scope of this review, but a summary is given in Appendix 1. Drug treatment for SMA type I is the topic of a separate Cochrane Review. 

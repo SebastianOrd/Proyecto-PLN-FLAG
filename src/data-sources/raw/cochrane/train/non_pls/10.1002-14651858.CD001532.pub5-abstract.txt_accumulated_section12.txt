@@ -1,0 +1,12 @@
+Background
+Vesicoureteric reflux (VUR) results in urine passing retrograde up the ureter. Urinary tract infections (UTI) associated with VUR have been considered a cause of permanent renal parenchymal damage in children with VUR. Management has been directed at preventing UTI by antibiotic prophylaxis and/or surgical correction of VUR. This is an update of a review first published in 2004 and updated in 2007 and 2011. 
+Objectives
+The aim of this review was to evaluate the available evidence for both benefits and harms of the currently available treatment options for primary VUR: operative, non‐operative or no intervention. 
+Search methods
+We searched the Cochrane Kidney and Transplant Specialised Register to 3 May 2018 through contact with the Information Specialist using search terms relevant to this review. Studies contained in the Specialised Register are identified through search strategies specifically designed for CENTRAL, MEDLINE, and EMBASE; handsearching conference proceedings, and searching the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+RCTs in any language comparing any treatment of VUR and any combination of therapies.
+Data collection and analysis
+Two authors independently determined study eligibility, assessed quality and extracted data. Dichotomous outcomes were expressed as risk ratios (RR) with 95% confidence intervals (CI) and continuous data as mean differences (MD) with 95% CI. Data were pooled using the random effects model. 
+Main results
+Thirty four studies involving 4001 children were included. Interventions included; long‐term low‐dose antibiotics, surgical reimplantation of ureters, endoscopic injection treatment, probiotics, cranberry products, circumcision, and oxybutynin. Interventions were used alone and in combinations. The quality of conduct and reporting of these studies was variable, with many studies omitting crucial methodological information used to assess the risk of bias. Only four of the 34 studies were considered at low risk of bias across all fields of study quality. The majority of studies had many areas of uncertainty in the risk of bias fields, reflecting missing detail rather than stated poor design. 

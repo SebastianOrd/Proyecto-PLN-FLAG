@@ -1,0 +1,10 @@
+Background
+Extracranial carotid artery stenosis is the major cause of stroke, which can lead to disability and mortality. Carotid endarterectomy (CEA) with carotid patch angioplasty is the most popular technique for reducing the risk of stroke. Patch material may be made from an autologous vein, bovine pericardium, or synthetic material including polytetrafluoroethylene (PTFE), Dacron, polyurethane, and polyester. This is an update of a review that was first published in 1996 and was last updated in 2010. 
+Objectives
+To assess the safety and efficacy of different types of patch materials used in carotid patch angioplasty. The primary hypothesis was that a synthetic material was associated with lower risk of patch rupture versus venous patches, but that venous patches were associated with lower risk of perioperative stroke and early or late infection, or both. 
+Search methods
+We searched the Cochrane Stroke Group trials register (last searched 25 May 2020); the Cochrane Central Register of Controlled Trials (CENTRAL; 2020, Issue 4), in the Cochrane Library; MEDLINE (1966 to 25 May 2020); Embase (1980 to 25 May 2020); the Index to Scientific and Technical Proceedings (1980 to 2019); the Web of Science Core Collection; ClinicalTrials.gov; and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) portal. We handsearched relevant journals and conference proceedings, checked reference lists, and contacted experts in the field. 
+Selection criteria
+Randomised and quasi‐randomised trials (RCTs) comparing one type of carotid patch with another for CEA. 
+Data collection and analysis
+Two review authors independently assessed eligibility, risk of bias, and trial quality; extracted data; and determined the quality of evidence using the GRADE approach. Outcomes, for example, perioperative ipsilateral stroke and long‐term ipsilateral stroke (at least one year), were collected and analysed. 

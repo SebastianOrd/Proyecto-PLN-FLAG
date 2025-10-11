@@ -1,0 +1,13 @@
+Background
+Convergence insufficiency is a common binocular vision disorder in which the eyes have a strong tendency to drift outward (exophoria) with difficulty turning the eyes inward when reading or doing close work. 
+Objectives
+To assess the comparative effectiveness and relative ranking of non‐surgical interventions for convergence insufficiency through a systematic review and network meta‐analysis (NMA). 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, PubMed and three trials registers up to 20 September 2019. 
+Selection criteria
+We included randomized controlled trials (RCTs) examining any form of non‐surgical intervention versus placebo, no treatment, sham treatment, or other non‐surgical interventions. Participants were children and adults with symptomatic convergence insufficiency. 
+Data collection and analysis
+We followed standard Cochrane methodology. We performed NMAs separately for children and adults. 
+Main results
+We included 12 trials (six in children and six in adults) with a total of 1289 participants. Trials evaluated seven interventions: 1) office‐based vergence/accommodative therapy with home reinforcement; 2) home‐based pencil/target push‐ups; 3) home‐based computer vergence/accommodative therapy; 4) office‐based vergence/accommodative therapy alone; 5) placebo vergence/accommodative therapy or other placebo intervention; 6) prism reading glasses; and 7) placebo reading glasses. 
+Six RCTs in the pediatric population randomized 968 participants. Of these, the Convergence Insufficiency Treatment Trial (CITT) Investigator Group completed four RCTs with 737 participants. All four CITT RCTs were rated at low risk of bias. Diagnostic criteria and outcome measures were identical or similar among these trials. The four CITT RCTs contributed data to the pediatric NMA, incorporating interventions 1, 2, 3 and 5. When treatment success was defined by a composite outcome requiring both clinical measures of convergence to be normal, and also show a pre‐specified magnitude of improvement, we found high‐certainty evidence that office‐based vergence/accommodative therapy with home reinforcement increases the chance of a successful outcome, compared with home‐based computer vergence/accommodative therapy (risk ratio (RR) 1.96, 95% confidence interval (CI) 1.32 to 2.94), home‐based pencil/target push‐ups (RR 2.86, 95% CI 1.82 to 4.35); and placebo (RR 3.04, 95% CI 2.32 to 3.98). However, there may be no evidence of any treatment difference between home‐based computer vergence/accommodative therapy and home‐based pencil/target push‐ups (RR 1.44, 95% CI 0.93 to 2.24; low‐certainty evidence), or between either of the two home‐based therapies and placebo therapy, for the outcome of treatment success. 

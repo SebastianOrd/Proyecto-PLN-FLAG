@@ -1,0 +1,13 @@
+Background
+This is an update of the Cochrane review 'Neuropsychological rehabilitation for multiple sclerosis' (first published in The Cochrane Library 2011, Issue 11). 
+Cognitive deficits are a common manifestation of multiple sclerosis (MS) and have a significant effect on the patient's quality of life. Alleviation of the harmful effects caused by these deficits should be a major goal of MS research and practice.  
+Objectives
+To assess the effects of neuropsychological/cognitive rehabilitation on health‐related factors, such as cognitive performance and emotional well‐being in patients with MS. 
+Search methods
+The Cochrane Multiple Sclerosis and Rare Diseases of the Central Nervous System Group Trials Search Co‐ordinator searched their Specialised Register which, among other sources, contains trials from CENTRAL (The Cochrane Library 2013, Issue 2), MEDLINE, EMBASE, CINAHL, LILACS, PEDro and clinical trials registries (28 May 2013). We contacted authors of the studies for additional information. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐randomised trials evaluating the effects of neuropsychological rehabilitation in MS compared to other interventions or no intervention. 
+Data collection and analysis
+Two review authors individually judged the eligibility of the included studies, assessed risk of bias and extracted data. We combined results quantitatively in meta‐analyses according to the intervention type: 1) cognitive training and 2) cognitive training combined with other neuropsychological rehabilitation methods. 
+Main results
+Twenty studies (986 participants; 966 MS participants and 20 healthy controls) fulfilled the inclusion criteria. The mean age of the participants was 44.6 years, mean length of education was 12.3 years and 70% of the participants were women. Most of the participants had a relapsing‐remitting course of disease. The mean Expanded Disability Status Scale score was 3.2 and the mean duration of disease was 14.0 years. 

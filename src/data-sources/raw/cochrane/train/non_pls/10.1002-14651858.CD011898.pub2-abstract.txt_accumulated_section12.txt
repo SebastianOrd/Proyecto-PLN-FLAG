@@ -1,0 +1,12 @@
+Background
+Many people with schizophrenia do not achieve satisfactory improvements in their mental state, particularly the symptom of hearing voices (hallucinations), with medical treatment. 
+Objectives
+To examine the effects of Avatar Therapy for people with schizophrenia or related disorders. 
+Search methods
+In December 2016, November 2018 and April 2019, the Cochrane Schizophrenia Group's Study‐Based Register of Trials (including registries of clinical trials) was searched, review authors checked references of all identified relevant reports to identify more studies and contacted authors of trials for additional information. 
+Selection criteria
+All randomised clinical trials focusing on Avatar Therapy for people with schizophrenia or related disorders. 
+Data collection and analysis
+We extracted data independently. For binary outcomes, we calculated risk ratio (RR) and 95% confidence intervals (CI), on an intention‐to‐treat basis. For continuous data, we estimated the mean difference (MD) between groups and 95% CIs. We employed a fixed‐effect model for analyses. We assessed risk of bias for included studies and created 'Summary of findings' tables using GRADE. Our main outcomes of interest were clinically important change in; mental state, insight, global state, quality of life and functioning as well as adverse effects and leaving the study early. 
+Main results
+We found 14 potentially relevant references for three studies (participants = 195) comparing Avatar Therapy with two other interventions; treatment as usual or supportive counselling. Both Avatar Therapy and supportive counselling were given in addition (add‐on) to the participants' normal care. All of the studies had high risk of bias across one or more domains for methodology and, for other risks of bias, authors from one of the studies were involved in the development of the avatar systems on trial and in another trial, authors had patents on the avatar system pending. 

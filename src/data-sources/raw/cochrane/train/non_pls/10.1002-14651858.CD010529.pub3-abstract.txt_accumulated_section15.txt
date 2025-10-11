@@ -1,0 +1,15 @@
+Background
+Malignant pleural effusion (MPE) is a common problem for people with cancer and usually associated with considerable breathlessness. A number of treatment options are available to manage the uncontrolled accumulation of pleural fluid, including administration of a pleurodesis agent (via a chest tube or thoracoscopy) or placement of an indwelling pleural catheter (IPC). This is an update of a review published in Issue 5, 2016, which replaced the original, published in 2004. 
+Objectives
+To ascertain the optimal management strategy for adults with malignant pleural effusion in terms of pleurodesis success and to quantify differences in patient‐reported outcomes and adverse effects between interventions. 
+Search methods
+We searched CENTRAL, MEDLINE (Ovid), Embase (Ovid) and three other databases to June 2019. We screened reference lists from other relevant publications and searched trial registries. 
+Selection criteria
+We included randomised controlled trials of intrapleural interventions for adults with symptomatic MPE, comparing types of sclerosant, mode of administration and IPC use. 
+Data collection and analysis
+Two review authors independently extracted data on study design, characteristics, outcome measures, potential effect modifiers and risk of bias. 
+The primary outcome was pleurodesis failure rate. Secondary outcomes were adverse events, patient‐reported breathlessness control, quality of life, cost, mortality, survival, duration of inpatient stay and patient acceptability. 
+We performed network meta‐analyses of primary outcome data and secondary outcomes with enough data. We also performed pair‐wise meta‐analyses of direct comparison data. If we deemed interventions not jointly randomisable, or we found insufficient available data, we reported results by narrative synthesis. For the primary outcome, we performed sensitivity analyses to explore potential causes of heterogeneity and to evaluate pleurodesis agents administered via a chest tube only. 
+We assessed the certainty of the evidence using GRADE.
+Main results
+We identified 80 randomised trials (18 new), including 5507 participants. We found all except three studies at high or unclear risk of bias for at least one domain. Due to the nature of the interventions, most studies were unblinded. 

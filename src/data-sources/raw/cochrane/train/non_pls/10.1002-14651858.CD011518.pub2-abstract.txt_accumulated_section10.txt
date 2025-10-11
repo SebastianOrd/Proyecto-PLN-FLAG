@@ -1,0 +1,10 @@
+Background
+Breast cancer is the most common cancer in women. Diagnosis and treatment may drastically affect quality of life, causing symptoms such as sleep disorders, depression and anxiety. Mindfulness‐based stress reduction (MBSR) is a programme that aims to reduce stress by developing mindfulness, meaning a non‐judgmental, accepting moment‐by‐moment awareness. MBSR seems to benefit patients with mood disorders and chronic pain, and it may also benefit women with breast cancer. 
+Objectives
+To assess the effects of mindfulness‐based stress reduction (MBSR) in women diagnosed with breast cancer. 
+Search methods
+In April 2018, we conducted a comprehensive electronic search for studies of MBSR in women with breast cancer, in the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, and two trial registries (World Health Organization's International Clinical Trials Registry Platform (WHO ICTRP) and ClinicalTrials.gov). We also handsearched relevant conference proceedings. 
+Selection criteria
+Randomised clinical trials (RCTs) comparing MBSR versus no intervention in women with breast cancer. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Using a standardised data form, the review authors extracted data in duplicate on methodological quality, participants, interventions and outcomes of interest (quality of life, fatigue, depression, anxiety, quality of sleep, overall survival and adverse events). For outcomes assessed with the same instrument, we used the mean difference (MD) as a summary statistic for meta‐analysis; for those assessed with different instruments, we used the standardised mean difference (SMD). The effect of MBSR was assessed in the short term (end of intervention), medium term (up to 6 months after intervention) and long term (up to 24 months after intervention). 

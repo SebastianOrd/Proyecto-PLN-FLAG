@@ -1,0 +1,14 @@
+Background
+Mechanical methods were the first methods developed to ripen the cervix and induce labour. During recent decades they have been substituted by pharmacological methods. Potential advantages of mechanical methods, compared with pharmacological methods may include reduction in side effects that could improve neonatal outcomes. This is an update of a review first published in 2001, last updated in 2012. 
+Objectives
+To determine the effectiveness and safety of mechanical methods for third trimester (> 24 weeks' gestation) induction of labour in comparison with prostaglandin E2 (PGE2) (vaginal and intracervical), low‐dose misoprostol (oral and vaginal), amniotomy or oxytocin. 
+Search methods
+For this update, we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP), and reference lists of retrieved studies (9 January 2018). We updated the search in March 2019 and added the search results to the awaiting classification section of the review. 
+Selection criteria
+Clinical trials comparing mechanical methods used for third trimester cervical ripening or labour induction with pharmacological methods. 
+Mechanical methods include: (1) the introduction of a catheter through the cervix into the extra‐amniotic space with balloon insufflation; (2) introduction of laminaria tents, or their synthetic equivalent (Dilapan), into the cervical canal; (3) use of a catheter to inject fluid into the extra‐amniotic space (EASI). 
+This review includes the following comparisons: (1) specific mechanical methods (balloon catheter, laminaria tents or EASI) compared with prostaglandins (different types, different routes) or with oxytocin; (2) single balloon compared to a double balloon; (3) addition of prostaglandins or oxytocin to mechanical methods compared with prostaglandins or oxytocin alone. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and assessed risk of bias. Two review authors independently extracted data and assessed the quality of the evidence using the GRADE approach. 
+Main results
+This review update includes a total of 113 trials (22,373 women) contributing data to 21 comparisons. Risk of bias of trials varied. Overall, the evidence was graded from very‐low to moderate quality. All evidence was downgraded for lack of blinding and, for many comparisons, the effect estimates were too imprecise to make a valid judgement. 

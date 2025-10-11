@@ -1,0 +1,11 @@
+Background
+Haloperidol was developed in the late 1950s for use in the field of anaesthesia. Research subsequently demonstrated effects on hallucinations, delusions, aggressiveness, impulsiveness and states of excitement and led to the introduction of haloperidol as an antipsychotic. 
+Objectives
+To evaluate the clinical effects of haloperidol for the management of schizophrenia and other similar serious mental illnesses compared with placebo. 
+Search methods
+Initially, we electronically searched the databases of Biological Abstracts (1985‐1998), CINAHL (1982‐1998), The Cochrane Library (1998, Issue 4), The Cochrane Schizophrenia Group's Register (December 1998), EMBASE (1980‐1998), MEDLINE (1966‐1998), PsycLIT (1974‐1998), and SCISEARCH. We also checked references of all identified studies for further trial citations and contacted the authors of trials and pharmaceutical companies for further information and archive material. 
+For the 2012 update, on 15 May 2012, we searched the Cochrane Schizophrenia Group’s Trials Register. 
+Selection criteria
+We included all relevant randomised controlled trials comparing the use of haloperidol (any oral dose) with placebo for those with schizophrenia or other similar serious, non‐affective psychotic illnesses (however diagnosed). Our main outcomes of interest were death, loss to follow‐up, clinical and social response, relapse and severity of adverse effects. 
+Data collection and analysis
+We evaluated data independently and extracted, re‐inspected and quality assessed the data. We analysed dichotomous data using risk ratio (RR) and calculated their 95% confidence intervals (CI). For continuous data, we calculated mean differences (MD). We excluded continuous data if loss to follow‐up was greater than 50% and inspected data for heterogeneity. We used a fixed‐effect model for all analyses. For the 2012 update, we assessed risk of bias of included studies and used the GRADE approach to create a 'Summary of findings' table. 

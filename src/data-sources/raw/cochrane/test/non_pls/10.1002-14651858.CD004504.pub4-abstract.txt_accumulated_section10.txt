@@ -1,0 +1,10 @@
+Background
+Low‐back pain (LBP) is a common condition and imposes a substantial economic burden upon people living in industrialized societies. A large proportion of people with chronic LBP use complementary and alternative medicine (CAM), visit CAM practitioners, or both. Several herbal medicines have been purported for use in treating people with LBP. This is an update of a Cochrane Review first published in 2006. 
+Objectives
+To determine the effectiveness of herbal medicine for non‐specific LBP.
+Search methods
+We searched the following electronic databases up to September 2014: MEDLINE, EMBASE, CENTRAL, CINAHL, Clinical Trials.gov, World Health Organization International Clinical Trials Registry Portal and PubMed; checked reference lists in review articles, guidelines and retrieved trials; and personally contacted individuals with expertise in this area. 
+Selection criteria
+We included randomized controlled trials (RCTs) examining adults (over 18 years of age) suffering from acute, sub‐acute, or chronic non‐specific LBP. The interventions were herbal medicines which we defined as plants used for medicinal purposes in any form. Primary outcome measures were pain and function. 
+Data collection and analysis
+A library scientist with the Cochrane Back Review Group conducted the database searches. One review author contacted content experts and acquired relevant citations. We downloaded full references and abstracts of the identified studies and retrieved a hard copy of each study for final inclusion decisions. Two review authors assessed risk of bias, GRADE criteria (GRADE 2004), and CONSORT compliance and a random subset were compared to assessments by a third individual. Two review authors assessed clinical relevance and resolved any disagreements by consensus. 

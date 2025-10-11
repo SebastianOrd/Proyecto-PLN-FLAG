@@ -1,0 +1,10 @@
+Background
+Carotid artery stenosis is an important cause of stroke and transient ischemic attack. Correctly and rapidly identifying patients with symptomatic carotid artery stenosis is essential for adequate treatment with early cerebral revascularization. Doubts about the diagnostic value regarding the accuracy of duplex ultrasound (DUS) and the possibility of using DUS as the single diagnostic test before carotid revascularization are still debated. 
+Objectives
+To estimate the accuracy of DUS in individuals with symptomatic carotid stenosis verified by either digital subtraction angiography (DSA), computed tomography angiography (CTA), or magnetic resonance angiography (MRA). 
+Search methods
+We searched CRDTAS, CENTRAL, MEDLINE (Ovid), Embase (Ovid), ISI Web of Science, HTA, DARE, and LILACS up to 15 February 2021. We handsearched the reference lists of all included studies and other relevant publications and contacted experts in the field to identify additional studies or unpublished data. 
+Selection criteria
+We included studies assessing DUS accuracy against an acceptable reference standard (DSA, MRA, or CTA) in symptomatic patients. We considered the classification of carotid stenosis with DUS defined with validated duplex velocity criteria, and the NASCET criteria for carotid stenosis measures on DSA, MRA, and CTA. We excluded studies that included < 70% of symptomatic patients; the time between the index test and the reference standard was longer than four weeks or not described, or that presented no objective criteria to estimate carotid stenosis. 
+Data collection and analysis
+The review authors independently screened articles, extracted data, and assessed the risk of bias and applicability concerns using the QUADAS‐2 domain list. We extracted data with an effort to complete a 2 × 2 table (true positives, true negatives, false positives, and false negatives) for each of the different categories of carotid stenosis and reference standards. We produced forest plots and summary receiver operating characteristic (ROC) plots to summarize the data. Where meta‐analysis was possible, we used a bivariate meta‐analysis model. 

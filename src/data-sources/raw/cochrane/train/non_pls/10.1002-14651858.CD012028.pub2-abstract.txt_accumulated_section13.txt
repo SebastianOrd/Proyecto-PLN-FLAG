@@ -1,0 +1,13 @@
+Background
+Appendicitis remains a difficult disease to diagnose, and imaging adjuncts are commonly employed. Magnetic resonance imaging (MRI) is an imaging test that can be used to diagnose appendicitis. It is not commonly regarded as a first‐line imaging test for appendicitis, but the reported diagnostic accuracy in some studies is equivalent to computed tomography (CT) scans. As it does not expose patients to radiation, it is an attractive imaging modality, particularly in women and children. 
+Objectives
+The primary objective was to determine the diagnostic accuracy of MRI for detecting appendicitis in all patients. 
+Secondary objectives:
+To investigate the accuracy of MRI in subgroups of pregnant women, children, and adults.
+To investigate the potential influence of MRI scanning variables such as sequences, slice thickness, or field of view. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and Embase until February 2021. We searched the references of included studies and other systematic reviews to identify further studies. We did not exclude studies that were unpublished, published in another language, or retrospective. 
+Selection criteria
+We included studies that compared the outcome of an MRI scan for suspected appendicitis with a reference standard of histology, intraoperative findings, or clinical follow‐up. Three study team members independently filtered search results for eligible studies. 
+Data collection and analysis
+We independently extracted study data and assessed study quality using the Quality Assessment of Studies of Diagnostic Accuracy ‐ Revised (QUADAS‐2) tool. We used the bivariate model to calculate pooled estimates of sensitivity and specificity. 

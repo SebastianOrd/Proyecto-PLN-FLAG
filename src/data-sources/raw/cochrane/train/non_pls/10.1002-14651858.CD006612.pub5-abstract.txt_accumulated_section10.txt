@@ -1,0 +1,10 @@
+Background
+Cardiovascular disease, which includes coronary artery disease, stroke and peripheral vascular disease, is a leading cause of death worldwide. Homocysteine is an amino acid with biological functions in methionine metabolism. A postulated risk factor for cardiovascular disease is an elevated circulating total homocysteine level. The impact of homocysteine‐lowering interventions, given to patients in the form of vitamins B6, B9 or B12 supplements, on cardiovascular events has been investigated. This is an update of a review previously published in 2009, 2013, and 2015. 
+Objectives
+To determine whether homocysteine‐lowering interventions, provided to patients with and without pre‐existing cardiovascular disease are effective in preventing cardiovascular events, as well as reducing all‐cause mortality, and to evaluate their safety. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL 2017, Issue 5), MEDLINE (1946 to 1 June 2017), Embase (1980 to 2017 week 22) and LILACS (1986 to 1 June 2017). We also searched Web of Science (1970 to 1 June 2017). We handsearched the reference lists of included papers. We also contacted researchers in the field. There was no language restriction in the search. 
+Selection criteria
+We included randomised controlled trials assessing the effects of homocysteine‐lowering interventions for preventing cardiovascular events with a follow‐up period of one year or longer. We considered myocardial infarction and stroke as the primary outcomes. We excluded studies in patients with end‐stage renal disease. 
+Data collection and analysis
+We performed study selection, 'Risk of bias' assessment and data extraction in duplicate. We estimated risk ratios (RR) for dichotomous outcomes. We calculated the number needed to treat for an additional beneficial outcome (NNTB). We measured statistical heterogeneity using the I2 statistic. We used a random‐effects model. We conducted trial sequential analyses, Bayes factor, and fragility indices where appropriate. 

@@ -1,0 +1,14 @@
+Background
+Glaucoma is a leading cause of irreversible blindness. A number of minimally‐invasive surgical techniques have been introduced as a treatment to prevent glaucoma from progressing; ab interno trabecular bypass surgery with the Schlemm's canal Hydrus microstent is one of them. 
+Objectives
+To evaluate the efficacy and safety of ab interno trabecular bypass surgery with the Hydrus microstent in treating people with open angle glaucoma (OAG). 
+Search methods
+On 7 May 2019, we searched CENTRAL (2019, Issue 5), which contains the Cochrane Eyes and Vision Trials Register; Ovid MEDLINE; Ovid Embase; the ISRCTN registry; ClinicalTrials.gov; and the WHO ICTRP. 
+Selection criteria
+We searched for randomised controlled trials (RCTs) of the Hydrus microstent, alone or with cataract surgery, compared to other surgical treatments (cataract surgery alone, other minimally‐invasive glaucoma device techniques, trabeculectomy), laser treatment, or medical treatment. 
+Data collection and analysis
+A minimum of three authors independently extracted data from reports of included studies, using a data collection form and analysed data, based on standard Cochrane methods. 
+Main results
+We included three published studies, with 808 people randomised. Two studies had multiple international recruitment centres in the USA and other countries. The third study had several sites based in Europe. All three studies were sponsored by the Hydrus manufacturer Ivantis Inc. All studies included participants with mainly mild or moderate OAG (mean deviation between ‐3.6 dB (decibel) and ‐8.4 dB in all study arms), which was controlled with medication in many participants (mean medicated intraocular pressure (IOP) 17.9 mmHg to 19.1 mmHg). There were no concerns regarding allocation concealment bias, but masking of outcome assessors was high or unclear risk in all studies; masking of participants was achieved, and losses to follow‐up were not a concern. 
+Two studies compared the Hydrus microstent combined with cataract surgery to cataract surgery alone, in participants with visually significant cataracts and OAG. 
+We found moderate‐certainty evidence that adding the Hydrus microstent to cataract surgery increased the proportion of participants who were medication‐free from about half to more than three quarters at 12‐month, short‐term follow‐up (risk ratio (RR) 1.59, 95% confidence interval (CI) 1.39 to 1.83; 2 studies, 639 participants; I² = 0%; and 24‐month, medium‐term follow‐up (RR 1.63, 95% CI 1.40 to 1.88; 2 studies, 619 participants; I² = 0%). 

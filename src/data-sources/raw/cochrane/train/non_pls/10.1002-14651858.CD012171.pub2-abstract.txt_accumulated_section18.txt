@@ -1,0 +1,18 @@
+Background
+Ear wax (cerumen) is a normal bodily secretion that can become a problem when it obstructs the ear canal. Symptoms attributed to wax (such as deafness and pain) are among the commonest reasons for patients to present to primary care with ear trouble. 
+Wax is part of the ear's self‐cleaning mechanism and is usually naturally expelled from the ear canal without causing problems. When this mechanism fails, wax is retained in the canal and may become impacted; interventions to encourage its removal may then be needed. Application of ear drops is one of these methods. Liquids used to remove and soften wax are of several kinds: oil‐based compounds (e.g. olive or almond oil); water‐based compounds (e.g. sodium bicarbonate or water itself); a combination of the above or non‐water, non‐oil‐based solutions, such as carbamide peroxide (a hydrogen peroxide‐urea compound) and glycerol. 
+Objectives
+To assess the effects of ear drops (or sprays) to remove or aid the removal of ear wax in adults and children. 
+Search methods
+We searched the Cochrane ENT Trials Register; Cochrane Register of Studies; PubMed; Ovid Embase; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the most recent search was 23 March 2018. 
+Selection criteria
+Randomised controlled trials (RCTs) in which a 'cerumenolytic' was compared with no treatment, water or saline, an alternative liquid treatment (oil or almond oil) or another 'cerumenolytic' in adults or children with obstructing or impacted ear wax. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. The primary outcomes were 1) the proportion of patients (or ears) with complete clearance of ear wax and 2) adverse effects (discomfort, irritation or pain). Secondary outcomes were: extent of wax clearance; proportion of people (or ears) with relief of symptoms due to wax; proportion of people (or ears) requiring further intervention to remove wax; success of mechanical removal of residual wax following treatment; any other adverse effects recorded and cost. We used GRADE to assess the quality of the evidence for each outcome; this is indicated in italics. 
+Main results
+We included 10 studies, with 623 participants (900 ears). Interventions included: oil‐based treatments (triethanolamine polypeptide, almond oil, benzocaine, chlorobutanol), water‐based treatments (docusate sodium, carbamide peroxide, phenazone, choline salicylate, urea peroxide, potassium carbonate), other active comparators (e.g. saline or water alone) and no treatment. Nine of the studies were more than 15 years old. 
+The overall risk of bias across the 10 included studies was low or unclear.
+Primary outcome: proportion of patients (or ears) with complete clearance of ear wax 
+Six studies (360 participants; 491 ears) contributed quantitative data and were included in our meta‐analyses. 
+Active treatment versus no treatment  
+Only one study addressed this comparison. The proportion of ears with complete clearance of ear wax was higher in the active treatment group (22%) compared with the no treatment group (5%) after five days of treatment (risk ratio (RR) 4.09, 95% confidence interval (CI) 1.00 to 16.80); one study; 117 ears; NNTB = 8) (low‐quality evidence). 

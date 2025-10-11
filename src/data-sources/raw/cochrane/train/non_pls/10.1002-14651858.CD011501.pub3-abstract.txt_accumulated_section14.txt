@@ -1,0 +1,14 @@
+Background
+This is an updated version of the Cochrane Review previously published in 2019.
+Epilepsy is one of the most common neurological disorders. It is estimated that up to 30% of individuals with epilepsy continue to have epileptic seizures despite treatment with an antiepileptic drug. These patients are classified as drug‐resistant and require treatment with a combination of multiple antiepileptic drugs. Brivaracetam is a third‐generation antiepileptic drug that is a high‐affinity ligand for synaptic vesicle protein 2A. In this review we investigated the use of brivaracetam as add‐on therapy for epilepsy. 
+Objectives
+To evaluate the efficacy and tolerability of brivaracetam when used as add‐on treatment for people with drug‐resistant epilepsy. 
+Search methods
+For the latest update we searched the following databases on 7 September 2021: the Cochrane Register of Studies (CRS Web); MEDLINE (Ovid) 1946 to 3 September 2021. CRS Web includes randomised controlled trials (RCTs) and quasi‐RCTs from PubMed, Embase, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform, the Cochrane Central Register of Controlled Trials (CENTRAL), and the specialised registers of Cochrane Review Groups including Cochrane Epilepsy. 
+Selection criteria
+We searched for parallel‐group RCTs that recruited people of any age with drug‐resistant epilepsy. We accepted studies with any level of blinding (double‐blind, single‐blind, or unblinded). 
+Data collection and analysis
+In accordance with standard Cochrane methodological procedures, two review authors independently assessed trials for inclusion before evaluating trial quality and extracting relevant data. The primary outcome to be assessed was 50% or greater reduction in seizure frequency. Secondary outcomes were: seizure freedom, treatment withdrawal for any reason, treatment withdrawal due to adverse events, the proportion of participants who experienced any adverse events, and drug interactions. We used an intention‐to‐treat population for all primary analyses, and presented results as risk ratios (RRs) with 95% confidence intervals (CIs). 
+Main results
+We did not identify any new studies for this update, therefore the results and conclusions of the review are unchanged. 
+The previous review included six studies involving a total of 2411 participants. Only one study included participants with both focal and generalised onset seizures; the other five trials included participants with focal onset seizures only. Study participants were aged 16 to 80 years. Treatment periods ranged from 7 to 16 weeks. We judged two studies to have low risk of bias and four to have unclear risk of bias. Details on the method used for allocation concealment and how blinding was maintained were insufficient in one study each. One study did not report all outcomes prespecified in the trial protocol, and there were discrepancies in reporting in a further study. 

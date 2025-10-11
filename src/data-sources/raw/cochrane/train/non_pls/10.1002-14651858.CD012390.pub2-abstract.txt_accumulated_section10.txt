@@ -1,0 +1,10 @@
+Background
+Several treatment options are available for stress urinary incontinence (SUI), including pelvic floor muscle training (PFMT), drug therapy and surgery. Problems exist such as adherence to PFMT regimens, side effects linked to drug therapy and the risks associated with surgery. We have evaluated an alternative treatment, electrical stimulation (ES) with non‐implanted devices, which aims to improve pelvic floor muscle function to reduce involuntary urine loss. 
+Objectives
+To assess the effects of electrical stimulation with non‐implanted devices, alone or in combination with other treatment, for managing stress urinary incontinence or stress‐predominant mixed urinary incontinence in women. Among the outcomes examined were costs and cost‐effectiveness. 
+Search methods
+We searched the Cochrane Incontinence Specialised Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, MEDLINE In‐Process, MEDLINE Epub Ahead of Print, CINAHL, ClinicalTrials.gov, WHO ICTRP and handsearches of journals and conference proceedings (searched 27 February 2017). We also searched the reference lists of relevant articles and undertook separate searches to identify studies examining economic data. 
+Selection criteria
+We included randomised or quasi‐randomised controlled trials of ES with non‐implanted devices compared with any other treatment for SUI in women. Eligible trials included adult women with SUI or stress‐predominant mixed urinary incontinence (MUI). We excluded studies of women with urgency‐predominant MUI, urgency urinary incontinence only, or incontinence associated with a neurologic condition. We would have included economic evaluations had they been conducted alongside eligible trials. 
+Data collection and analysis
+Two review authors independently screened search results, extracted data from eligible trials and assessed risk of bias, using the Cochrane 'Risk of bias' tool. We would have performed economic evaluations using the approach recommended by Cochrane Economic Methods. 

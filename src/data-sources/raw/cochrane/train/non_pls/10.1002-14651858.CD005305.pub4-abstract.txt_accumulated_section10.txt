@@ -1,0 +1,10 @@
+Background
+Guidelines have provided positive recommendations for pulmonary rehabilitation after exacerbations of chronic obstructive pulmonary disease (COPD), but recent studies indicate that postexacerbation rehabilitation may not always be effective in patients with unstable COPD. 
+Objectives
+To assess effects of pulmonary rehabilitation after COPD exacerbations on hospital admissions (primary outcome) and other patient‐important outcomes (mortality, health‐related quality of life (HRQL) and exercise capacity). 
+Search methods
+We identified studies through searches of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, PEDro (Physiotherapy Evidence Database) and the Cochrane Airways Review Group Register of Trials. Searches were current as of 20 October 2015, and handsearches were run up to 5 April 2016. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing pulmonary rehabilitation of any duration after exacerbation of COPD versus conventional care. Pulmonary rehabilitation programmes had to include at least physical exercise (endurance or strength exercise, or both). We did not apply a criterion for the minimum number of exercise sessions a rehabilitation programme had to offer to be included in the review. Control groups received conventional community care without rehabilitation. 
+Data collection and analysis
+We expected substantial heterogeneity across trials in terms of how extensive rehabilitation programmes were (i.e. in terms of number of completed exercise sessions; type, intensity and supervision of exercise training; and patient education), duration of follow‐up (< 3 months vs ≥ 3 months) and risk of bias (generation of random sequence, concealment of random allocation and blinding); therefore, we performed subgroup analyses that were defined before we carried them out. We used standard methods expected by Cochrane in preparing this update, and we used GRADE for assessing the quality of evidence. 

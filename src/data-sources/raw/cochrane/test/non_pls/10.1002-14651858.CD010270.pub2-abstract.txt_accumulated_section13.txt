@@ -1,0 +1,13 @@
+Background
+Opioid drugs have been used for many years to relieve pain. Transdermal fentanyl offers one option for delivering and maintaining pain relief in patients with moderate or severe cancer pain. 
+Objectives
+To determine the analgesic efficacy of transdermal fentanyl for relief of cancer pain, and to assess the adverse events associated with the use of transdermal fentanyl for relief of cancer pain. 
+Search methods
+The following databases were searched: Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2013, Issue 4 of 12); MEDLINE (1966 to May 2013); EMBASE (1974 to May 2013; CANCERLIT (PubMED) (November 2012); and ClinicalTrials.gov (May 2013). 
+Selection criteria
+Published randomised controlled trials (RCTs) using placebo or active comparators reporting on the analgesic effect of transdermal fentanyl in adults and children with cancer pain. Studies with fewer than 10 participants were excluded. 
+Data collection and analysis
+Data were extracted independently by two review authors. We extracted any available data on the number or proportion of patients with ‘no worse than mild pain’ or treatment success (very satisfied, or very good or excellent on patient global impression scales), together with information about adverse events and withdrawals. 
+Main results
+We identified nine studies meeting the inclusion criteria, including a Turkish study that is awaiting formal translation. There were 1244 participants randomised in classically designed RCTs, of whom 1197 had evaluable data, and 138 patients enrolled in an enriched enrolment, randomised withdrawal (EERW) trial. Overall, 600 participants were treated with transdermal fentanyl patches, 382 with various formulations of morphine, 36 with methadone, and 221 with paracetamol plus codeine. There were major sources of potential bias, including lack of blinding, small size, high levels of attrition, and inconsistent reporting. 
+We could not compare data in a meaningful analysis regarding adverse events such as nausea, abdominal pain, gastrointestinal bleeding, and confusion. These events may have been attributable to the underlying disease process. 

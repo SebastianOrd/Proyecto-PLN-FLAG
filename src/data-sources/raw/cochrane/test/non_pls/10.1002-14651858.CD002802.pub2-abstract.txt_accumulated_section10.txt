@@ -1,0 +1,10 @@
+Background
+Timed voiding is a fixed time interval toileting assistance program that has been promoted for the management of people with urinary incontinence who cannot participate in independent toileting. For this reason, it is commonly assumed to represent current practice in residential aged care settings. 
+Objectives
+To assess the effects of timed voiding for the management of urinary incontinence in adults who cannot participate in independent toileting. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register (searched 2 April 2009), MEDLINE (January 1966 to November 2003), EMBASE (January 1980 to Week 18 2002), CINAHL (January 1982 to February 2001), PsycINFO (January 1972 to August 2002), Biological Abstracts (January 1980 to December 2000), Current Contents (January 1993 to December 2001) and the reference lists of relevant articles. We also contacted experts in the field, searched relevant websites and hand searched journals and conference proceedings. 
+Selection criteria
+We selected all randomised and quasi‐randomised trials that addressed timed voiding in an adult population and that had an alteration in continence status as a primary outcome. We included those trials that had assessed timed voiding delivered either alone or in combination with another intervention and compared it with either usual care, or no timed voiding, or another intervention. 
+Data collection and analysis
+Data extraction and quality assessment were undertaken by at least two people working independently of each other. Any differences were resolved by discussion until agreement was reached. The relative risk for dichotomous data were calculated with 95% confidence intervals. Where data were insufficient to support a quantitative analysis, a narrative overview was undertaken. 

@@ -1,0 +1,13 @@
+Background
+Despite the development of new treatment options, the prognosis of high‐risk neuroblastoma patients is still poor; more than half of patients experience disease recurrence. High‐dose chemotherapy and haematopoietic stem cell rescue (i.e. myeloablative therapy) might improve survival. This review is the second update of a previously published Cochrane review. 
+Objectives
+Primary objective 
+To compare the efficacy, that is event‐free and overall survival, of high‐dose chemotherapy and autologous bone marrow or stem cell rescue with conventional therapy in children with high‐risk neuroblastoma. 
+Secondary objectives 
+To determine adverse effects (e.g. veno‐occlusive disease of the liver) and late effects (e.g. endocrine disorders or secondary malignancies) related to the procedure and possible effects of these procedures on quality of life. 
+Search methods
+We searched the electronic databases The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, issue 11), MEDLINE/PubMed (1966 to December 2014) and EMBASE/Ovid (1980 to December 2014). In addition, we searched reference lists of relevant articles and the conference proceedings of the International Society for Paediatric Oncology (SIOP) (from 2002 to 2014), American Society for Pediatric Hematology and Oncology (ASPHO) (from 2002 to 2014), Advances in Neuroblastoma Research (ANR) (from 2002 to 2014) and American Society for Clinical Oncology (ASCO) (from 2008 to 2014). We searched for ongoing trials by scanning the ISRCTN register (www.isrct.com) and the National Institute of Health Register (www.clinicaltrials.gov). Both registers were screened in April 2015. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing the efficacy of myeloablative therapy with conventional therapy in high‐risk neuroblastoma patients. 
+Data collection and analysis
+Two authors independently performed study selection, data extraction and risk of bias assessment. If appropriate, we pooled studies. The risk ratio (RR) and 95% confidence interval (CI) was calculated for dichotomous outcomes. For the assessment of survival data, we calculated the hazard ratio (HR) and 95% CI. We used Parmar's method if hazard ratios were not reported in the study. We used a random‐effects model. 

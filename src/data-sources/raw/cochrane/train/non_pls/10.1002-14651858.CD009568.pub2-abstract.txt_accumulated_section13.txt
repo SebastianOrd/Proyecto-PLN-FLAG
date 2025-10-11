@@ -1,0 +1,13 @@
+Background
+In endemic malarial areas, young children have high levels of malaria morbidity and mortality. The World Health Organization recommends oral artemisinin‐based combination therapy (ACT) for treating uncomplicated malaria. Paediatric formulations of ACT have been developed to make it easier to treat children. 
+Objectives
+To evaluate evidence from trials on the efficacy, safety, tolerability, and acceptability of paediatric ACT formulations compared to tablet ACT formulations for uncomplicated P falciparum malaria in children up to 14 years old. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; Embase; the Latin American and Caribbean Health Science Information database (LILACS); ISI Web of Science; Google Scholar; Scopus; and the metaRegister of Controlled Trials (mRCT) to 11 December 2019. 
+Selection criteria
+We included randomised controlled clinical trials (RCTs) of paediatric versus non‐paediatric formulated ACT in children aged 14 years or younger with acute uncomplicated malaria. 
+Data collection and analysis
+Two authors independently assessed eligibility and risk of bias, and carried out data extraction. We analyzed the primary outcomes of efficacy, safety and tolerability of paediatric versus non‐paediatric ACT using risk ratios (RR) and 95% confidence intervals (CI). Secondary outcomes were: treatment failure on the last day of observation (day 42), fever clearance time, parasite clearance time, pharmacokinetics, and acceptability. 
+Main results
+Three trials met the inclusion criteria. Two compared a paediatric dispersible tablet formulation against crushed tablets of artemether‐lumefantrine (AL) and dihydroartemisinin‐piperaquine (DHA‐PQ), and one trial assessed artemether‐lumefantrine formulated as powder for suspension compared with crushed tablets. The trials were carried out between 2006 and 2015 in sub‐Saharan Africa (Benin, Mali, Mozambique, Tanzania, Kenya, Democratic Republic of the Congo, Burkina Faso, and The Gambia). 
+In all three trials, the paediatric and control ACT achieved polymerase chain reaction (PCR)‐adjusted treatment failure rates of < 10% on day 28 in the per‐protocol (PP) population. 

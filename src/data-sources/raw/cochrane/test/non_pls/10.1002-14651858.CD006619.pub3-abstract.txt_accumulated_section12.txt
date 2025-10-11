@@ -1,0 +1,12 @@
+Background
+Croup is a common childhood illness characterized by barky cough, stridor, hoarseness and respiratory distress. Children with severe croup are at risk for intubation. Nebulized epinephrine may prevent intubation. 
+Objectives
+To assess the efficacy (measured by croup scores, rate of intubation and health care utilization such as rate of hospitalization) and safety (frequency and severity of side effects) of nebulized epinephrine versus placebo in children with croup, evaluated in an emergency department (ED) or hospital setting. 
+Search methods
+We searched CENTRAL 2013, Issue 6, MEDLINE (1966 to June week 3, 2013), EMBASE (1980 to July 2013), Web of Science (1974 to July 2013), CINAHL (1982 to July 2013) and Scopus (1996 to July 2013). 
+Selection criteria
+Randomized controlled trials (RCTs) or quasi‐RCTs of children with croup evaluated in an ED or admitted to hospital. Comparisons were: nebulized epinephrine versus placebo, racemic nebulized epinephrine versus L‐epinephrine (an isomer) and nebulized epinephrine delivered by intermittent positive pressure breathing (IPPB) versus nebulized epinephrine without IPPB. Primary outcome was change in croup score post‐treatment. Secondary outcomes were rate and duration of intubation and hospitalization, croup return visit, parental anxiety and side effects. 
+Data collection and analysis
+Two authors independently identified potentially relevant studies by title and abstract (when available) and examined relevant studies using a priori inclusion criteria, followed by methodological quality assessment. One author extracted data while the second checked accuracy. We use the standard methodological procedures expected by the Cochrane Collaboration. 
+Main results
+Eight studies (225 participants) were included. In general, children included in the studies were young (average age less than two years in the majority of included studies). Severity of croup was described as moderate to severe in all included studies. Six studies took place in the inpatient setting, one in the ED and one setting was not specified. Six of the eight studies were deemed to have a low risk of bias and the risk of bias was unclear in the remaining two studies. 

@@ -1,0 +1,13 @@
+Background
+Many women experience fear of childbirth (FOC). While fears about childbirth may be normal during pregnancy, some women experience high to severe FOC. At the extreme end of the fear spectrum is tocophobia, which is considered a specific condition that may cause distress, affect well‐being during pregnancy and impede the transition to parenthood. Various interventions have been trialled, which support women to reduce and manage high to severe FOC, including tocophobia. 
+Objectives
+To investigate the effectiveness of non‐pharmacological interventions for reducing fear of childbirth (FOC) compared with standard maternity care in pregnant women with high to severe FOC, including tocophobia. 
+Search methods
+In July 2020, we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP), and reference lists of retrieved studies. We contacted researchers of trials which were registered and appeared to be ongoing. 
+Selection criteria
+We included randomised clinical trials which recruited pregnant women with high or severe FOC (as defined by the individual trial), for treatment intended to reduce FOC. Two review authors independently screened and selected titles and abstracts for inclusion. We excluded quasi‐randomised and cross‐over trials. 
+Data collection and analysis
+We used standard methodological approaches as recommended by Cochrane. Two review authors independently extracted data and assessed the studies for risk of bias. A third review author checked the data analysis for accuracy. We used GRADE to assess the certainty of the evidence. The primary outcome was a reduction in FOC. Secondary outcomes were caesarean section, depression, birth preference for caesarean section or spontaneous vaginal delivery, and epidural use. 
+Main results
+We included seven trials with a total of 1357 participants. The interventions included psychoeducation, cognitive behavioural therapy, group discussion, peer education and art therapy. 
+We judged four studies as high or unclear risk of bias in terms of allocation concealment; we judged three studies as high risk in terms of incomplete outcome data; and in all studies, there was a high risk of bias due to lack of blinding. We downgraded the certainty of the evidence due to concerns about risk of bias, imprecision and inconsistency. None of the studies reported data about women's anxiety. 

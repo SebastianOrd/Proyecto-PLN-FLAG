@@ -1,0 +1,10 @@
+Background
+Adalimumab is an IgG1 monoclonal antibody that targets and blocks tumor necrosis factor‐alpha, a pro‐inflammatory cytokine involved in the pathogenesis of Crohn's disease (CD). A significant proportion of people with CD fail conventional therapy or therapy with biologics or develop significant adverse events. Adalimumab may be an effective alternative for these individuals. 
+Objectives
+The objectives of this review were to assess the efficacy and safety of adalimumab for the induction of remission in CD. 
+Search methods
+We searched MEDLINE, Embase, CENTRAL, the Cochrane IBD Group Specialized Register, ClinicalTrials.Gov and the World Health Organization trial registry (ICTRP) from inception to 16 April 2019. References and conference abstracts were searched to identify additional studies. 
+Selection criteria
+Randomized controlled trials (RCTs) comparing any dose of adalimumab to placebo or an active comparator in participants with active CD were included. 
+Data collection and analysis
+Two authors independently screened studies, extracted data and assessed bias using the Cochrane 'Risk of bias' tool. The primary outcome was the failure to achieve clinical remission, as defined by the original studies. Clinical remission was defined as a Crohn's Disease Activity Index (CDAI) score of less than 150 points. Secondary outcomes included failure to achieve clinical response (defined as a decrease in CDAI of > 100 points or > 70 points from baseline), failure to achieve endoscopic remission and response, failure to achieve histological remission and response, failure to achieve steroid withdrawal, adverse events (AEs) and serious adverse events (SAEs), withdrawal from study due to AEs and quality of life measured by a validated instrument. We calculated the risk ratio (RR) and 95% confidence intervals (95% CI) for dichotomous outcomes. Data were pooled for analysis if the participants, interventions, outcomes and time frame were similar. Data were analyzed on an intention‐to‐treat basis. The overall certainty of the evidence was assessed using GRADE. 

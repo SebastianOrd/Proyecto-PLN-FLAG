@@ -1,0 +1,10 @@
+Background
+The introduction of enteral feeds for very preterm (< 32 weeks) or very low birth weight (< 1500 grams) infants is often delayed due to concern that early introduction may not be tolerated and may increase the risk of necrotising enterocolitis. However, prolonged enteral fasting may diminish the functional adaptation of the immature gastrointestinal tract and extend the need for parenteral nutrition with its attendant infectious and metabolic risks. Trophic feeding, giving infants very small volumes of milk to promote intestinal maturation, may enhance feeding tolerance and decrease the time taken to reach full enteral feeding independently of parenteral nutrition. 
+Objectives
+To determine the effect of early trophic feeding versus enteral fasting on feed tolerance, growth and development, and the incidence of neonatal morbidity (including necrotising enterocolitis and invasive infection) and mortality in very preterm or VLBW infants. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group. This included electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 12), MEDLINE, EMBASE and CINAHL (1980 until December 2012), conference proceedings and previous reviews. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials that assessed the effects of early trophic feeding (milk volumes up to 24 ml/kg/day introduced before 96 hours postnatal age and continued until at least one week after birth) versus a comparable period of enteral fasting in very preterm or very low birth weight infants. 
+Data collection and analysis
+We extracted data using the standard methods of the Cochrane Neonatal Review Group with separate evaluation of trial quality and data extraction by two authors and synthesis of data using risk ratio, risk difference and mean difference. 

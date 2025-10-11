@@ -1,0 +1,14 @@
+Is treatment with corticosteroids beneficial and safe for people with pneumonia?
+Review question 
+We looked at the effects of treating people with pneumonia using corticosteroids (also called steroids or glucocorticoids) on numbers of deaths, response to treatment, treatment complications, and side effects. We compared treatment with corticosteroids in addition to antibiotics with placebo or no treatment. 
+Background 
+Acute pneumonia is a lung infection treated with antibiotics that target the bacteria that caused the infection. Pneumonia is quite common, and despite adequate antibiotic treatment, complications and sometimes death can occur. 
+Corticosteroids are hormones produced naturally in the adrenal gland. Corticosteroids have been found to be beneficial in the treatment of some infections. However, their beneficial effects are often offset by serious side effects, mainly when used at high doses and over the long term. This is an update of a review published in 2011. 
+Search date 
+The evidence is current to 3 March 2017.
+Study characteristics 
+We included 17 studies evaluating systemic corticosteroid therapy (given intravenously or by tablets) for people with pneumonia (2264 participants; 1954 adults and 310 children). We included 12 new studies in this update and excluded one previously included study. All included studies evaluated people who had acquired pneumonia in the community (community‐acquired pneumonia (CAP)) being treated in the hospital; no studies assessed people who had developed pneumonia while in hospital or who were on breathing machines (mechanically ventilated). 
+Study funding sources 
+Eight trials did not report funding sources; seven were funded by academic sponsors; one was funded by a pharmaceutical company; and one reported receiving no funding. 
+Key results 
+Corticosteroids reduced deaths in adults with severe CAP, but not in people with non‐severe CAP. Eighteen adults with severe CAP need to be treated with corticosteroids to prevent one death. 
