@@ -6,3 +6,8 @@ numpy
 matplotlib
 scikit-learn
 seaborn
+transformers
+torch
+accelerate
+evaluate
+tqdm
