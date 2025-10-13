@@ -1,0 +1,11 @@
+Modelo: RidgeClassifier
+Métrica selección: test_f1_macro
+
+              precision    recall  f1-score   support
+
+      NO_PLS      1.000     0.999     0.999      5817
+         PLS      0.998     0.999     0.999      3027
+
+    accuracy                          0.999      8844
+   macro avg      0.999     0.999     0.999      8844
+weighted avg      0.999     0.999     0.999      8844
