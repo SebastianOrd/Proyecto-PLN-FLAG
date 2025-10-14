@@ -1,0 +1,10 @@
+Background
+Non‐specific low back pain is a major health problem worldwide. Interventions based on exercises have been the most commonly used treatments for patients with this condition. Over the past few years, the Pilates method has been one of the most popular exercise programmes used in clinical practice. 
+Objectives
+To determine the effects of the Pilates method for patients with non‐specific acute, subacute or chronic low back pain. 
+Search methods
+We conducted the searches in CENTRAL, MEDLINE, EMBASE, CINAHL, PEDro and SPORTDiscus from the date of their inception to March 2014. We updated the search in June 2015 but these results have not yet been incorporated. We also searched the reference lists of eligible papers as well as six trial registry websites. We placed no limitations on language or date of publication. 
+Selection criteria
+We only included randomised controlled trials that examined the effectiveness of Pilates intervention in adults with acute, subacute or chronic non‐specific low back pain. The primary outcomes considered were pain, disability, global impression of recovery and quality of life. 
+Data collection and analysis
+Two independent raters performed the assessment of risk of bias in the included studies using the 'Risk of bias' assessment tool recommended by The Cochrane Collaboration. We also assessed clinical relevance by scoring five questions related to this domain as 'yes', 'no' or 'unclear'. We evaluated the overall quality of evidence using the GRADE approach and for effect sizes we used three levels: small (mean difference (MD) < 10% of the scale), medium (MD 10% to 20% of the scale) or large (MD > 20% of the scale). We converted outcome measures to a common 0 to 100 scale when different scales were used. 

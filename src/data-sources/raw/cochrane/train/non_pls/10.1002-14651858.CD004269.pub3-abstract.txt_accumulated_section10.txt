@@ -1,0 +1,10 @@
+Background
+Platelet transfusions are used in modern clinical practice to prevent and treat bleeding in thrombocytopenic patients with bone marrow failure. Although considerable advances have been made in platelet transfusion therapy in the last 40 years, some areas continue to provoke debate especially concerning the use of prophylactic platelet transfusions for the prevention of thrombocytopenic bleeding. 
+Objectives
+To determine the most effective use of platelet transfusion for the prevention of bleeding in patients with haematological disorders undergoing chemotherapy or stem cell transplantation. 
+Search methods
+This is an update of a Cochrane review first published in 2004. We searched for randomised controlled trials (RCTs) in the Cochrane Central Register of Controlled Trials (CENTRAL Issue 4, 2011), MEDLINE (1950 to Nov 2011), EMBASE (1980 to Nov 2011) and CINAHL (1982 to Nov 2011), using adaptations of the Cochrane RCT search filter, the UKBTS/SRI Transfusion Evidence Library, and ongoing trial databases to 10 November 2011. 
+Selection criteria
+RCTs involving transfusions of platelet concentrates, prepared either from individual units of whole blood or by apheresis, and given to prevent bleeding in patients with haematological disorders. Four different types of prophylactic platelet transfusion trial were included. 
+Data collection and analysis
+In the original review one author initially screened all electronically derived citations and abstracts of papers, identified by the review search strategy, for relevancy. Two authors performed this task in the updated review. Two authors independently assessed the full text of all potentially relevant trials for eligibility. Two authors completed data extraction independently. We requested missing data from the original investigators as appropriate. 

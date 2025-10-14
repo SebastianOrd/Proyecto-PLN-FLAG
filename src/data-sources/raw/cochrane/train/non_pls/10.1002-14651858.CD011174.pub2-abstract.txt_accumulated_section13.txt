@@ -1,0 +1,13 @@
+Background
+Non‐tubal ectopic pregnancy is the implantation of an embryo at a site lying outside the uterine cavity or fallopian tubes. Sites include a caesarean scar, the cornua uteri, the ovary, the cervix, and the abdomen. There has been an increasing trend in the occurrence of these rare conditions, especially caesarean scar pregnancy (CSP). 
+Objectives
+To evaluate the clinical effectiveness and safety of surgery, medical treatment, and expectant management of non‐tubal ectopic pregnancy in terms of fertility outcomes and complications. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility (CGF) Group Specialised Register of Controlled Trials, CENTRAL, MEDLINE, Embase, ClinicalTrials.gov, the World Health Organization (WHO) search portal and nine other databases to 12 December 2019. We handsearched reference lists of articles retrieved and contacted experts in the field to obtain additional data. 
+Selection criteria
+We included randomized controlled trials (RCTs) published in all languages that examined the effects and safety of surgery, medical treatment, and expectant management of non‐tubal ectopic pregnancy. 
+Data collection and analysis
+We used Cochrane standard methodological procedures. Primary outcomes were treatment success and complications. 
+Main results
+We included five RCTs with 303 women, all reporting Caesarean scar pregnancy. Two compared uterine arterial embolization (UAE) or uterine arterial chemoembolization (UACE) plus methotrexate (MTX) versus systemic MTX and subsequent dilation and suction curettage; one compared UACE plus MTX versus ultrasonography‐guided local MTX injection; and two compared suction curettage under hysteroscopy versus suction curettage under ultrasonography after UAE/UACE. 
+The quality of evidence ranged from moderate to very low. The main limitations were imprecision (small sample sizes and very wide confidence intervals (CI) for most analyses), multiple comparisons with a small number of trials, and insufficient data available to assess heterogeneity. 

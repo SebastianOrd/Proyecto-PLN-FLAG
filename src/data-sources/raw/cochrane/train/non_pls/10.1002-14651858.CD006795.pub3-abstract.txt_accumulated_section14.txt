@@ -1,0 +1,14 @@
+Background
+A meta‐analysis of 21 studies suggests the mean prevalence rate for depression across the antenatal period is 10.7%, ranging from 7.4% in the first trimester to a high of 12.8% in the second trimester. Due to maternal treatment preferences and potential concerns about fetal and infant health outcomes, diverse non‐pharmacological treatment options are needed. 
+Objectives
+To assess the effect of interventions other than pharmacological, psychosocial, or psychological interventions compared with usual antepartum care in the treatment of antenatal depression. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 January 2013), scanned secondary references and contacted experts in the field to identify other published or unpublished trials. 
+Selection criteria
+All published and unpublished randomised controlled trials of acceptable quality evaluating non‐pharmacological/psychosocial/psychological interventions to treat antenatal depression. 
+Data collection and analysis
+Both review authors participated in the evaluation of methodological quality and data extraction. Results are presented using risk ratio (RR) for categorical data and mean difference (MD) for continuous data. 
+Main results
+Six trials were included involving 402 women from the United States, Switzerland, and Taiwan. For most comparisons a single trial contributed data and there were few statistically significant differences between control and intervention groups. 
+In a trial with 38 women maternal massage compared with non‐specific acupuncture (control group) did not significantly decrease the number of women with clinical depression or depressive symptomatology immediately post‐treatment (risk ratio (RR) 0.80, 95% confidence interval (CI) 0.25 to 2.53; mean difference (MD) ‐2.30, 95% CI ‐6.51 to 1.91 respectively). In another trial with 88 women there was no difference in treatment response or depression remission rates in women receiving maternal massage compared with those receiving non‐specific acupuncture (RR 1.33, 95% CI 0.82 to 2.18; RR 1.14, 95% CI 0.59 to 2.19 respectively). 
+In a trial with 35 women acupuncture specifically treating symptoms of depression, compared with non‐specific acupuncture, did not significantly decrease the number of women with clinical depression or depressive symptomatology immediately post‐treatment (RR 0.47, 95% CI 0.11 to 2.13; MD ‐3.00, 95% CI ‐8.10 to 2.10). However, women who received depression‐specific acupuncture were more likely to respond to treatment compared with those receiving non‐specific acupuncture (RR 1.68, 95% CI 1.06 to 2.66). 

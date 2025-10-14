@@ -1,0 +1,12 @@
+Background
+Alzheimer's disease is the commonest cause of dementia affecting older people. One of the therapeutic strategies aimed at ameliorating the clinical manifestations of Alzheimer's disease is to enhance cholinergic neurotransmission in the brain by the use of cholinesterase inhibitors to delay the breakdown of acetylcholine released into synaptic clefts. Tacrine, the first of the cholinesterase inhibitors to undergo extensive trials for this purpose, was associated with significant adverse effects including hepatotoxicity. Other cholinesterase inhibitors, including rivastigmine, with superior properties in terms of specificity of action and lower risk of adverse effects have since been introduced. Rivastigmine has received approval for use in 60 countries including all member states of the European Union and the USA. 
+Objectives
+To determine the clinical efficacy and safety of rivastigmine for patients with dementia of Alzheimer's type. 
+Search methods
+We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group Specialized Register, on 2 March 2015 using the terms: Rivastigmine OR  exelon OR ENA OR "SDZ ENA 713". ALOIS contains records of clinical trials identified from monthly searches of a number of major healthcare databases (Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS), numerous trial registries and grey literature sources. 
+Selection criteria
+We included all unconfounded, double‐blind, randomised, controlled trials in which treatment with rivastigmine was administered to patients with dementia of the Alzheimer's type for 12 weeks or more and its effects compared with those of placebo in a parallel group of patients, or where two formulations of rivastigmine were compared. 
+Data collection and analysis
+One review author (JSB) applied the study selection criteria, assessed the quality of studies and extracted data. 
+Main results
+A total of 13 trials met the inclusion criteria of the review. The trials had a duration of between 12 and 52 weeks. The older trials tested a capsule form with a dose of up to 12 mg/day. Trials reported since 2007 have tested continuous dose transdermal patch formulations delivering 4.6, 9.5 and 17.7 mg/day. 

@@ -1,0 +1,14 @@
+Background
+About one‐third of women have urinary incontinence (UI) and up to one‐tenth have faecal incontinence (FI) after childbirth. Pelvic floor muscle training (PFMT) is commonly recommended during pregnancy and after birth for both preventing and treating incontinence. 
+This is an update of a Cochrane Review previously published in 2017.
+Objectives
+To assess the effects of PFMT for preventing or treating urinary and faecal incontinence in pregnant or postnatal women, and summarise the principal findings of relevant economic evaluations. 
+Search methods
+We searched the Cochrane Incontinence Specialised Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, MEDLINE In‐Process, MEDLINE Epub Ahead of Print, CINAHL, ClinicalTrials.gov, WHO ICTRP, and handsearched journals and conference proceedings (searched 7 August 2019), and the reference lists of retrieved studies. 
+Selection criteria
+We included randomised or quasi‐randomised trials in which one arm included PFMT. Another arm was no PFMT, usual antenatal or postnatal care, another control condition, or an alternative PFMT intervention. 
+Populations included women who, at randomisation, were continent (PFMT for prevention) or incontinent (PFMT for treatment), and a mixed population of women who were one or the other (PFMT for prevention or treatment). 
+Data collection and analysis
+We independently assessed trials for inclusion and risk of bias. We extracted data and assessed the quality of evidence using GRADE. 
+Main results
+We included 46 trials involving 10,832 women from 21 countries. Overall, trials were small to moderately‐sized. The PFMT programmes and control conditions varied considerably and were often poorly described. Many trials were at moderate to high risk of bias. Two participants in a study of 43 pregnant women performing PFMT for prevention of incontinence withdrew due to pelvic floor pain. No other trials reported any adverse effects of PFMT. 

@@ -1,0 +1,12 @@
+Background
+Chronic kidney disease (CKD) is a significant risk factor for premature cardiovascular disease and death. Increased oxidative stress in people with CKD has been implicated as a potential causative factor for some cardiovascular diseases. Antioxidant therapy may reduce cardiovascular mortality and morbidity in people with CKD. 
+Objectives
+To examine the benefits and harms of antioxidant therapy on mortality and cardiovascular events in people with CKD stages 3 to 5; dialysis, and kidney transplantation patients. 
+Search methods
+We searched the Cochrane Renal Group's specialised register (July 2011), CENTRAL (Issue 6, 2011), MEDLINE (from 1966) and EMBASE (from 1980). 
+Selection criteria
+We included all randomised controlled trials (RCTs) investigating the use of antioxidants for people with CKD, or subsets of RCTs reporting outcomes for participants with CKD. 
+Data collection and analysis
+Titles and abstracts were screened independently by two authors who also performed data extraction using standardised forms. Results were pooled using the random effects model and expressed as either risk ratios (RR) or mean difference (MD) with 95% confidence intervals (CI). 
+Main results
+We identified 10 studies (1979 participants) that assessed antioxidant therapy in haemodialysis patients (two studies); kidney transplant recipients (four studies); dialysis and non‐dialysis CKD patients (one study); and patients requiring surgery (one study). Two additional studies reported the effect of an oral antioxidant inflammation modulator in patients with CKD (estimated glomerular filtration rate (eGFR) 20 to 45 mL/min/1.73 m²), and post‐hoc findings from a subgroup of people with mild‐to‐moderate renal insufficiency (serum creatinine ≥125 μmol/L) respectively. Interventions included different doses of vitamin E (two studies); multiple antioxidant therapy (three studies); co‐enzyme Q (one study); acetylcysteine (one study); bardoxolone methyl (one study); and human recombinant superoxide dismutase (two studies). 

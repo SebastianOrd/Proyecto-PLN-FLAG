@@ -1,0 +1,12 @@
+Background
+Pelvic adhesions can form secondary to inflammation, endometriosis, or surgical trauma. Strategies to reduce pelvic adhesion formation include placing barrier agents such as oxidised regenerated cellulose, polytetrafluoroethylene, and fibrin or collagen sheets between pelvic structures. 
+Objectives
+To evaluate the effects of barrier agents used during pelvic surgery on rates of pain, live birth, and postoperative adhesions in women of reproductive age. 
+Search methods
+We searched the following databases in August 2019: the Cochrane Gynaecology and Fertility (CGF) Specialised Register of Controlled Trials, MEDLINE, Embase, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), PsycINFO, the Cochrane Central Register of Controlled Trials (CENTRAL), Epistemonikos, and trial registries. We searched reference lists of relevant papers, conference proceedings, and grey literature sources. We contacted pharmaceutical companies for information and handsearched relevant journals and conference abstracts. 
+Selection criteria
+Randomised controlled trials (RCTs) on the use of barrier agents compared with other barrier agents, placebo, or no treatment for prevention of adhesions in women undergoing gynaecological surgery. 
+Data collection and analysis
+Three review authors independently assessed trials for eligibility and risk of bias and extracted data. We calculated odds ratios (ORs) or mean differences (MDs) with 95% confidence intervals (CIs) using a fixed‐effect model. We assessed the overall quality of the evidence using GRADE (Grades of Recommendation, Assessment, Development and Evaluation) methods. 
+Main results
+We included 19 RCTs (1316 women). Seven RCTs randomised women; the remainder randomised pelvic organs. Laparoscopy (eight RCTs) and laparotomy (11 RCTs) were the primary surgical techniques. Indications for surgery included myomectomy (seven RCTs), ovarian surgery (five RCTs), pelvic adhesions (five RCTs), endometriosis (one RCT), and mixed gynaecological surgery (one RCT). The sole indication for surgery in three of the RCTs was infertility. Thirteen RCTs reported commercial funding; the rest did not state their source of funding. 

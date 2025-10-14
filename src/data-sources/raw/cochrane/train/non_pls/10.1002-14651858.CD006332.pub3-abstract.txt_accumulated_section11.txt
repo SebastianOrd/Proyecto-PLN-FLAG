@@ -1,0 +1,11 @@
+Background
+Opioid‐induced bowel dysfunction (OIBD) is characterised by constipation, incomplete evacuation, bloating, and gastric reflux. It is one of the major adverse events of treatment for pain in cancer and in palliative care, resulting in increased morbidity and reduced quality of life. 
+This is an update of two Cochrane reviews. One was published in 2011, Issue 1 on laxatives and methylnaltrexone for the management of constipation in people receiving palliative care; this was updated in 2015 and excluded methylnaltrexone. The other was published in 2008, Issue 4 on mu‐opioid antagonists (MOA) for OIBD. In this updated review, we only included trials on MOA (including methylnaltrexone) for OIBD in people with cancer and people receiving palliative care. 
+Objectives
+To assess the effectiveness and safety of MOA for OIBD in people with cancer and people receiving palliative care. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials, MEDLINE, Embase, CINAHL, and Web of Science to August 2017. We also searched clinical trial registries and regulatory websites. We contacted manufacturers of MOA to identify further data. 
+Selection criteria
+We included randomised controlled trials (RCTs) that assessed the effectiveness and safety of MOA for OIBD in people with cancer and people at a palliative stage irrespective of the type of terminal disease they experienced. 
+Data collection and analysis
+Two review authors assessed risk of bias and extracted data. The appropriateness of combining data from the trials depended upon sufficient homogeneity across the trials. Our primary outcomes were laxation, impact on pain relief, and adverse events. Impact on pain relief was a primary outcome because a possible adverse effect of MOAs is a reduction in pain relief from opioids. We assessed the evidence on these outcomes using GRADE. 

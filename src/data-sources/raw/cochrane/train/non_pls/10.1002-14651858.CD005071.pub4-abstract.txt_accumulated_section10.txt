@@ -1,0 +1,10 @@
+Background
+Male factors leading to subfertility account for at least half of all cases of subfertility worldwide. Although some causes of male subfertility are treatable, treatment of idiopathic male factor subfertility remains empirical. Researchers have used gonadotrophins to improve sperm parameters in idiopathic male factor subfertility with the ultimate goal of increasing birth and pregnancy rates, but results have been conflicting. 
+Objectives
+To determine the effect of systemic follicle‐stimulating hormone (FSH) on live birth and pregnancy rates when administered to men with idiopathic male factor subfertility . 
+Search methods
+We searched the Cochrane Menstrual Disorders and Subfertility Group Specialised Register (14 January 2013), the Cochrane Central Register of Controlled Trials (CENTRAL; The Cochrane Library, Issue 12 of 12, 2012), Ovid MEDLINE In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE Daily and Ovid MEDLINE (1946 to 14 January 2013), Ovid EMBASE (1980 to week 2 of 2013), Ovid PsycINFO (1806 to week 2 of 2013), trial registers for ongoing and registered trials at ClinicalTrials.gov (19 January 2013), the World Health Organisation International Trials Registry Platform (19 January 2013), The Cochrane Library Database of Abstracts of Reviews of Effects (19 January 2013) and OpenGrey for grey literature from Europe (19 January 2013). Searches were not limited by language. Bibliographies of included and excluded trials and abstracts of major meetings were searched for additional trials. 
+Selection criteria
+Randomised controlled trials (RCTs) in which gonadotrophins were compared with placebo or no treatment for participants with idiopathic male factor subfertility. 
+Data collection and analysis
+Two review authors independently selected the trials, assessed risk of bias and extracted data on live birth, pregnancy and adverse effects. We included data on pregnancies that occurred during or after gonadotrophin therapy. Study authors and pharmaceutical companies were asked to provide missing and unpublished data and/or additional information. 

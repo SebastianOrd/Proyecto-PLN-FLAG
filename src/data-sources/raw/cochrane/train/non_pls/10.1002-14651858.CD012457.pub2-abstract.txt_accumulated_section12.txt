@@ -1,0 +1,12 @@
+Background
+Surgical options for treating stress urinary incontinence (SUI) are usually explored after conservative interventions have failed. Surgeries fall into two categories: traditional techniques (open surgery) and minimally invasive procedures, such as laparoscopic procedures, midurethral sling and injections with urethral bulking agents. Postsurgery infections, such as infections of the surgical site or urinary tract, are common complications. To minimise the risk of postoperative bacterial infections, prophylactic antibiotics may be given before or during surgery.  
+Objectives
+To assess the effects of prophylactic antibiotics for preventing infection following continence surgery in women with stress urinary incontinence.  
+Search methods
+We searched the Cochrane Incontinence Specialised Register, which contains trials identified from CENTRAL, MEDLINE, MEDLINE In‐Process, MEDLINE Epub Ahead of Print, CINAHL, ClinicalTrials.gov and WHO ICTRP; and handsearched journals and conference proceedings to 18 March 2021. We also searched the reference lists of relevant articles. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs assessing prophylactic antibiotics in women undergoing continence surgery to treat SUI. 
+Data collection and analysis
+Two review authors selected potentially eligible trials, extracted data and assessed risk of bias. We expressed results as risk ratios (RR) for dichotomous outcomes and as mean differences (MD) for continuous outcomes, both with 95% confidence intervals (CIs). We assessed the certainty of evidence using the GRADE approach. 
+Main results
+We identified one quasi‐RCT and two RCTs, involving a total of 390 women. One study performed retropubic urethropexy surgery requiring a transverse suprapubic incision, while the other two studies performed midurethral sling surgery. It should be noted that none of the included studies clearly specified the timing of outcome assessment. 

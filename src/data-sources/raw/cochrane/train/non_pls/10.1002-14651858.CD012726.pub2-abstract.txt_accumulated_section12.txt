@@ -1,0 +1,12 @@
+Background
+Hydrocephalus is a common neurological disorder, caused by a progressive accumulation of cerebrospinal fluid (CSF) within the intracranial space that can lead to increased intracranial pressure, enlargement of the ventricles (ventriculomegaly) and, consequently, to brain damage. Ventriculo‐peritoneal shunt systems are the mainstay therapy for this condition, however there are different types of shunt systems. 
+Objectives
+To compare the effectiveness and adverse effects of conventional and complex shunt devices for CSF diversion in people with hydrocephalus. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (2020 Issue 2); Ovid MEDLINE (1946 to February 2020); Embase (Elsevier) (1974 to February 2020); Latin American and Caribbean Health Science Information Database (LILACS) (1980 to February 2020); ClinicalTrials.gov; and World Health Organization International Clinical Trials Registry Platform. 
+Selection criteria
+We selected randomised controlled trials or quasi‐randomised trials of different types of ventriculo‐peritoneal shunting devices for people with hydrocephalus. Primary outcomes included: treatment failure, adverse events and mortality. 
+Data collection and analysis
+Two review authors screened studies for selection, assessed risk of bias and extracted data. Due to the scarcity of data, we performed a Synthesis Without Meta‐analysis (SWiM) incorporating GRADE for the quality of the evidence. 
+Main results
+We included six studies with 962 participants assessing the effects of standard valves compared to anti‐syphon valves, other types of standard valves, self‐adjusting CSF flow‐regulating valves and external differential programmable pressure valves. All included studies started in a hospital setting and offered ambulatory follow‐up. Most studies were conducted in infants or children with hydrocephalus from diverse causes. The certainty of the evidence for most comparisons was low to very low. 

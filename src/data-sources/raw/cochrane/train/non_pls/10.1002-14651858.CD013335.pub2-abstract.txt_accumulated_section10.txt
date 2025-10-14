@@ -1,0 +1,10 @@
+Background
+The main goal of enteral nutrition (EN) is to manage malnutrition in order to improve clinical outcomes. However, EN may increase the risks of vomiting or aspiration pneumonia during gastrointestinal dysfunction. Consequently, monitoring of gastric residual volume (GRV), that is, to measure GRV periodically and modulate the speed of enteral feeding according to GRV, has been recommended as a management goal in many intensive care units. Yet, there is a lack of robust evidence that GRV monitoring reduces the level of complications during EN. The best protocol of GRV monitoring is currently unknown, and thus the precise efficacy and safety profiles of GRV monitoring remain to be ascertained. 
+Objectives
+To investigate the efficacy and safety of GRV monitoring during EN.
+Search methods
+We searched electronic databases including CENTRAL, MEDLINE, Embase, and CINAHL for relevant studies on 3 May 2021. We also checked reference lists of included studies for additional information and contacted experts in the field. 
+Selection criteria
+We included randomized controlled trials (RCTs), randomized cross‐over trials, and cluster‐RCTs investigating the effects of GRV monitoring during EN. We imposed no restrictions on the language of publication. 
+Data collection and analysis
+Two review authors independently screened the search results for eligible studies and extracted trial‐level information from each included study, including methodology and design, characteristics of study participants, interventions, and outcome measures. We assessed risk of bias for each study using Cochrane's risk of bias tool. We followed guidance from the GRADE framework to assess the overall certainty of evidence across outcomes. We used a random‐effects analytical model to perform quantitative synthesis of the evidence. We calculated risk ratios (RRs) with 95% confidence intervals (CIs) for dichotomous and mean difference (MD) with 95% CIs for continuous outcomes. 

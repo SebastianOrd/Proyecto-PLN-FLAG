@@ -1,0 +1,10 @@
+Background
+Primary angle‐closure glaucoma is a type of glaucoma associated with a physically obstructed anterior chamber angle. Obstruction of the anterior chamber angle blocks drainage of fluids (aqueous humor) within the eye and may raise intraocular pressure (IOP). Elevated IOP is associated with glaucomatous optic nerve damage and visual field loss. Laser peripheral iridotomy (often just called 'iridotomy') is a procedure to eliminate pupillary block by allowing aqueous humor to pass directly from the posterior to anterior chamber through use of a laser to create a hole in the iris. It is commonly used to treat patients with primary angle‐closure glaucoma, patients with primary angle closure (narrow angles and no signs of glaucomatous optic neuropathy), and patients who are primary angle‐closure suspects (patients with reversible obstruction). The effectiveness of iridotomy on slowing progression of visual field loss, however, is uncertain. 
+Objectives
+To assess the effects of iridotomy compared with no iridotomy for primary angle‐closure glaucoma, primary angle closure, and primary angle‐closure suspects. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 9) which contains the Cochrane Eyes and Vision Trials Register; MEDLINE Ovid; Embase Ovid; PubMed; LILACS; ClinicalTrials.gov; and the ICTRP. The date of the search was 18 October 2017. 
+Selection criteria
+Randomized or quasi‐randomized controlled trials that compared iridotomy to no iridotomy in primary angle‐closure suspects, patients with primary angle closure, or patients with primary angle‐closure glaucoma in one or both eyes were eligible. 
+Data collection and analysis
+Two authors worked independently to extract data on study characteristics, outcomes for the review, and risk of bias in the included studies. We resolved differences through discussion. 

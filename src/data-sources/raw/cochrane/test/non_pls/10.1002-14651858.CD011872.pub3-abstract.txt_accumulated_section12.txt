@@ -1,0 +1,12 @@
+Background
+In order to overcome the low effectiveness of assisted reproductive technologies (ART) and the high incidence of multiple births, metabolomics is proposed as a non‐invasive method to assess oocyte quality, embryo viability, and endometrial receptivity, and facilitate a targeted subfertility treatment. 
+Objectives
+To evaluate the effectiveness and safety of metabolomic assessment of oocyte quality, embryo viability, and endometrial receptivity for improving live birth or ongoing pregnancy rates in women undergoing ART, compared to conventional methods of assessment. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group Trials Register, CENTRAL, MEDLINE, Embase, CINAHL and two trial registers (Feburary 2018). We also examined the reference lists of primary studies and review articles, citation lists of relevant publications, and abstracts of major scientific meetings. 
+Selection criteria
+Randomised controlled trials (RCTs) on metabolomic assessment of oocyte quality, embryo viability, and endometrial receptivity in women undergoing ART. 
+Data collection and analysis
+Pairs of review authors independently assessed trial eligibility and risk of bias, and extracted the data. The primary outcomes were rates of live birth or ongoing pregnancy (composite outcome) and miscarriage. Secondary outcomes were clinical pregnancy, multiple and ectopic pregnancy, cycle cancellation, and foetal abnormalities. We combined data to calculate odds ratios (ORs) for dichotomous data and 95% confidence intervals (CIs). Statistical heterogeneity was assessed using the I² statistic. We assessed the overall quality of the evidence for the main comparisons using GRADE methods. 
+Main results
+We included four trials with a total of 924 women, with a mean age of 33 years. All assessed the role of metabolomic investigation of embryo viability. We found no RCTs that addressed the metabolomic assessment of oocyte quality or endometrial receptivity. 

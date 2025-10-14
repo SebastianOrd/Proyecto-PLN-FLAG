@@ -1,0 +1,10 @@
+Background
+Hepatocellular carcinoma (HCC) is the fifth most common global cancer. When HCC is diagnosed early, interventions such as percutaneous ethanol injection (PEI), percutaneous acetic acid injection (PAI), or radiofrequency (thermal) ablation (RF(T)A) may have curative potential and represent less invasive alternatives to surgery. 
+Objectives
+To evaluate the beneficial and harmful effects of PEI or PAI in adults with early HCC defined according to the Milan criteria, that is, one cancer nodule up to 5 cm in diameter or up to three cancer nodules up to 3 cm in diameter compared with no intervention, sham intervention, each other, other percutaneous interventions, or surgery. 
+Search methods
+We searched the Cochrane Hepato‐Biliary Group Controlled Trials Register (July 2014), the Cochrane Central Register of Controlled Trials (CENTRAL) (2014, Issue 6), MEDLINE (1946 to July 2014), EMBASE (1976 to July 2014), and Science Citation Index Expanded (1900 to July 2014). We handsearched meeting abstracts of six oncological and hepatological societies and references of articles to July 2014. We contacted researchers in the field. 
+Selection criteria
+We considered randomised clinical trials comparing PEI or PAI versus no intervention, sham intervention, each other, other percutaneous interventions, or surgery for the treatment of early HCC regardless of blinding, publication status, or language. We excluded studies comparing RFA or combination of different interventions as such interventions have been or will be addressed in other Cochrane Hepato‐Biliary Group systematic reviews. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, and extracted and analysed data. We calculated the hazard ratios (HR) for median overall survival and recurrence‐free survival using the Cox regression model with Parmar's method. We reported type and number of adverse events descriptively. We assessed risk of bias by The Cochrane Collaboration domains to reduce systematic errors and risk of play of chance by trial sequential analysis to reduce random errors. We assessed the methodological quality with GRADE. 

@@ -1,0 +1,12 @@
+Background
+Postoperative pain is common and may be severe. Postoperative administration of non‐steroidal anti‐inflammatory drugs (NSAIDs) reduces patient opioid requirements and, in turn, may reduce the incidence and severity of opioid‐induced adverse events (AEs). 
+Objectives
+To assess the analgesic efficacy and adverse effects of single‐dose intravenous ketorolac, compared with placebo or an active comparator, for moderate to severe postoperative pain in adults. 
+Search methods
+We searched the following databases without language restrictions: CENTRAL, MEDLINE, Embase and LILACS on 20 April 2020. We checked clinical trials registers and reference lists of retrieved articles for additional studies. 
+Selection criteria
+Randomized double‐blind trials that compared a single postoperative dose of intravenous ketorolac with placebo or another active treatment, for treating acute postoperative pain in adults following any surgery. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Our primary outcome was the number of participants in each arm achieving at least 50% pain relief over a four‐ and six‐hour period.Our secondary outcomes were time to and number of participants using rescue medication; withdrawals due to lack of efficacy, adverse events (AEs), and for any other cause; and number of participants experiencing any AE, serious AEs (SAEs), and NSAID‐related or opioid‐related AEs.For subgroup analysis, we planned to analyze different doses of parenteral ketorolac separately and to analyze results based on the type of surgery performed.We assessed the certainty of evidence using GRADE. 
+Main results
+We included 12 studies, involving 1905 participants undergoing various surgeries (pelvic/abdominal, dental, and orthopedic), with 17 to 83 participants receiving intravenous ketorolac in each study. Mean study population ages ranged from 22.5 years to 67.4 years. Most studies administered a dose of ketorolac of 30 mg; one study assessed 15 mg, and another administered 60 mg. 

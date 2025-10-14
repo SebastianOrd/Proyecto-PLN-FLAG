@@ -1,0 +1,10 @@
+Background
+Children with autistic spectrum disorder (ASD) frequently present with inattention, impulsivity and hyperactivity, which are the cardinal symptoms of attention deficit hyperactivity disorder (ADHD). The effectiveness of methylphenidate, a commonly used ADHD treatment, is therefore of interest in these children. 
+Objectives
+To assess the effects of methylphenidate for symptoms of ADHD (inattention, impulsivity and hyperactivity) and ASD (impairments in social interaction and communication, and repetitive, restricted or stereotypical behaviours) in children and adolescents aged 6 to 18 years with ASD. 
+Search methods
+In November 2016, we searched CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, 11 other databases and two trials registers. We also checked reference lists and contacted study authors and pharmaceutical companies. 
+Selection criteria
+Randomised controlled trials (RCTs) that investigated the effect of methylphenidate versus placebo on the core symptoms of ASD or ADHD‐like symptoms, or both, in children aged 6 to 18 years who were diagnosed with ASD or pervasive developmental disorder. The primary outcome was clinical efficacy, defined as an improvement in ADHD‐like symptoms (inattention, impulsivity and hyperactivity) and in the core symptoms of ASD (impaired social interaction, impaired communication, and stereotypical behaviours), and overall ASD. Secondary outcomes examined were: rate of adverse events; caregiver well‐being; need for institutionalisation, special schooling or therapy to achieve learning outcomes; and overall quality of life. 
+Data collection and analysis
+We used standard Cochrane methodological procedures. We combined outcome measures that used different psychometric scales, where clinically appropriate. We used a coefficient of 0.6 to calculate standard deviations and adjust for the studies' cross‐over design. We considered a standardised mean difference (SMD) of 0.52 as the minimum clinically relevant inter‐treatment difference. We applied the GRADE rating for strength of evidence for each outcome. 

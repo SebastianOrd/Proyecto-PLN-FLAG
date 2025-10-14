@@ -1,0 +1,10 @@
+Background
+Pharmacological prophylaxis has been proven to reduce the risk of cardiovascular events in individuals with atherosclerotic occlusive arterial disease. However, the role of prophylaxis in individuals with abdominal aortic aneurysm (AAA) remains unclear. Several studies have shown that despite successful repair, those people with AAA have a poorer rate of survival than healthy controls. People with AAA have an increased prevalence of coronary heart disease and risk of cardiovascular events. Despite this association, little is known about the effectiveness of pharmacological prophylaxis in reducing cardiovascular risk in people with AAA. This is an update of a Cochrane review first published in 2014. 
+Objectives
+To determine the long‐term effectiveness of antiplatelet, antihypertensive or lipid‐lowering medication in reducing mortality and cardiovascular events in people with abdominal aortic aneurysm (AAA). 
+Search methods
+For this update the Cochrane Vascular Information Specialist (CIS) searched the Cochrane Vascular Specialised Register (14 April 2016). In addition, the CIS searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2016, Issue 3) and trials registries (14 April 2016) and We also searched the reference lists of relevant articles. 
+Selection criteria
+Randomised controlled trials in which people with AAA were randomly allocated to one prophylactic treatment versus another, a different regimen of the same treatment, a placebo, or no treatment were eligible for inclusion in this review. Primary outcomes included all‐cause mortality and cardiovascular mortality. 
+Data collection and analysis
+Two review authors independently selected studies for inclusion, and completed quality assessment and data extraction. We resolved any disagreements by discussion. Only one study met the inclusion criteria of the review, therefore we were unable to perform meta‐analysis. 

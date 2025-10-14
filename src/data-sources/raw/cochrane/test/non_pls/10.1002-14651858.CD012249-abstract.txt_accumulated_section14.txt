@@ -1,0 +1,14 @@
+Background
+Young women, especially adolescents, often lack access to modern contraception. Reasons vary by geography and regional politics and culture. The projected 2015 birth rate in 'developing' regions was 56 per 1000 compared with 17 per 1000 for 'developed' regions. 
+Objectives
+To identify school‐based interventions that improved contraceptive use among adolescents
+Search methods
+Until 6 June 2016, we searched for eligible trials in PubMed, CENTRAL, ERIC, Web of Science, POPLINE, ClinicalTrials.gov and ICTRP. 
+Selection criteria
+We considered randomized controlled trials (RCTs) that assigned individuals or clusters. The majority of participants must have been 19 years old or younger. 
+The educational strategy must have occurred primarily in a middle school or high school. The intervention had to emphasize one or more effective methods of contraception. Our primary outcomes were pregnancy and contraceptive use. 
+Data collection and analysis
+We assessed titles and abstracts identified during the searches. One author extracted and entered the data into RevMan; a second author verified accuracy. We examined studies for methodological quality. 
+For unadjusted dichotomous outcomes, we calculated the Mantel‐Haenszel odds ratio (OR) with 95% confidence interval (CI). For cluster randomized trials, we used adjusted measures, e.g. OR, risk ratio, or difference in proportions. For continuous outcomes, we used the adjusted mean difference (MD) or other measures from the models. We did not conduct meta‐analysis due to varied interventions and outcome measures. 
+Main results
+The 11 trials included 10 cluster RCTs and an individually randomized trial. The cluster RCTs had sample sizes from 816 to 10,954; the median number of clusters was 24. Most trials were conducted in the USA and UK; one was from Mexico and one from South Africa. 

@@ -1,0 +1,11 @@
+Background
+This is the first update of a review published in 2009. Sustained moderate to severe elevations in resting blood pressure leads to a critically important clinical question: What class of drug to use first‐line? This review attempted to answer that question. 
+Objectives
+To quantify the mortality and morbidity effects from different first‐line antihypertensive drug classes: thiazides (low‐dose and high‐dose), beta‐blockers, calcium channel blockers, ACE inhibitors, angiotensin II receptor blockers (ARB), and alpha‐blockers, compared to placebo or no treatment. 
+Secondary objectives: when different antihypertensive drug classes are used as the first‐line drug, to quantify the blood pressure lowering effect and the rate of withdrawal due to adverse drug effects, compared to placebo or no treatment. 
+Search methods
+The Cochrane Hypertension Information Specialist searched the following databases for randomized controlled trials up to November 2017: the Cochrane Hypertension Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (from 1946), Embase (from 1974), the World Health Organization International Clinical Trials Registry Platform, and ClinicalTrials.gov. We contacted authors of relevant papers regarding further published and unpublished work. 
+Selection criteria
+Randomized trials (RCT) of at least one year duration, comparing one of six major drug classes with a placebo or no treatment, in adult patients with blood pressure over 140/90 mmHg at baseline. The majority (over 70%) of the patients in the treatment group were taking the drug class of interest after one year. We included trials with both hypertensive and normotensive patients in this review if the majority (over 70%) of patients had elevated blood pressure, or the trial separately reported outcome data on patients with elevated blood pressure. 
+Data collection and analysis
+The outcomes assessed were mortality, stroke, coronary heart disease (CHD), total cardiovascular events (CVS), decrease in systolic and diastolic blood pressure, and withdrawals due to adverse drug effects. We used a fixed‐effect model to to combine dichotomous outcomes across trials and calculate risk ratio (RR) with 95% confidence interval (CI). We presented blood pressure data as mean difference (MD) with 99% CI. 

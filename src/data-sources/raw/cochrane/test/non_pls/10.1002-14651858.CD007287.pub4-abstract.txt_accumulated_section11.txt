@@ -1,0 +1,11 @@
+Background
+This is the second update of the review first published in the Cochrane Library (2010, Issue 2) and later updated (2014, Issue 9). 
+Despite advances in chemotherapy, the prognosis of ovarian cancer remains poor. Antigen‐specific active immunotherapy aims to induce tumour antigen‐specific anti‐tumour immune responses as an alternative treatment for ovarian cancer. 
+Objectives
+Primary objective  • To assess the clinical efficacy of antigen‐specific active immunotherapy for the treatment of ovarian cancer as evaluated by tumour response measured by Response Evaluation Criteria In Solid Tumors (RECIST) and/or cancer antigen (CA)‐125 levels, response to post‐immunotherapy treatment, and survival differences 
+◦ In addition, we recorded the numbers of observed antigen‐specific humoral and cellular responses Secondary objective  • To establish which combinations of immunotherapeutic strategies with tumour antigens provide the best immunological and clinical results 
+Search methods
+For the previous version of this review, we performed a systematic search of the Cochrane Central Register of Controlled Trials (CENTRAL; 2009, Issue 3), in the Cochrane Library, the Cochrane Gynaecological Cancer Group Specialised Register, MEDLINE and Embase databases, and clinicaltrials.gov (1966 to July 2009). We also conducted handsearches of the proceedings of relevant annual meetings (1996 to July 2009). 
+For the first update of this review, we extended the searches to October 2013, and for this update, we extended the searches to July 2017. 
+Selection criteria
+We searched for randomised controlled trials (RCTs), as well as non‐randomised studies (NRSs), that included participants with epithelial ovarian cancer, irrespective of disease stage, who were treated with antigen‐specific active immunotherapy, irrespective of type of vaccine, antigen used, adjuvant used, route of vaccination, treatment schedule, and reported clinical or immunological outcomes. 

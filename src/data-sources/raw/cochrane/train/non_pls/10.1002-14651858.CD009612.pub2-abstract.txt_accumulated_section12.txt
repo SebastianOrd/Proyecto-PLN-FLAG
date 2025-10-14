@@ -1,0 +1,12 @@
+Background
+Many treatments for the common cold exist and are sold over‐the‐counter. Nevertheless, evidence on the effectiveness and safety of nasal decongestants is limited. 
+Objectives
+To assess the efficacy, and short‐ and long‐term safety, of nasal decongestants used in monotherapy to alleviate symptoms of the common cold in adults and children. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, Issue 6, June 2016), which contains the Cochrane Acute Respiratory Infections (ARI) Specialised Register, MEDLINE (1946 to July 2016), Embase (2010 to 15 July 2016), CINAHL (1981 to 15 July 2016), LILACS (1982 to July 2016), Web of Science (1955 to July 2016) and clinical trials registers. 
+Selection criteria
+Randomised controlled trials (RCTs) and cluster‐RCTs investigating the effectiveness and adverse effects of nasal decongestants compared with placebo for treating the common cold in adults and children. We excluded quasi‐RCTs. 
+Data collection and analysis
+Three review authors independently extracted and summarised data on subjective measures of nasal congestion, overall patient well‐being score, objective measures of nasal airway resistance, adverse effects and general recovery. One review author acted as arbiter in cases of disagreement. We categorised trials as single and multi‐dose and analysed data both separately and together. We also analysed studies using an oral or topical nasal decongestant separately and together. 
+Main results
+We included 15 trials with 1838 participants. Fourteen studies included adult participants only (aged 18 years and over). In six studies the intervention was a single dose and in nine studies multiple doses were used. Nine studies used pseudoephedrine and three studies used oxymetazoline. Other decongestants included phenylpropanolamine, norephedrine and xylometazoline. Phenylpropanolamine (or norephedrine) is no longer available on the market therefore we did not include the results of these studies in the meta‐analyses. Eleven studies used oral decongestants; four studies used topical decongestants. 

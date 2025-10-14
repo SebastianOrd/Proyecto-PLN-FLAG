@@ -1,0 +1,10 @@
+Background
+Eczema is a common chronic skin condition. Probiotics have been proposed as an effective treatment for eczema; their use is increasing, as numerous clinical trials are under way. This is an update of a Cochrane Review first published in 2008, which suggested that probiotics may not be an effective treatment for eczema but identified areas in which evidence was lacking. 
+Objectives
+To assess the effects of probiotics for treating patients of all ages with eczema.
+Search methods
+We updated our searches of the following databases to January 2017: the Cochrane Skin Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), in the Cochrane Library, the Global Resource of Eczema Trials (GREAT) database, MEDLINE, Embase, PsycINFO, the Allied and Complementary Medicine Database (AMED), and Latin American Caribbean Health Sciences Literature (LILACS). We searched five trials registers and checked the reference lists of included studies and relevant reviews for further references to relevant randomised controlled trials (RCTs). We also handsearched a number of conference proceedings. We updated the searches of the main databases in January 2018 and of trials registries in March 2018, but we have not yet incorporated these results into the review. 
+Selection criteria
+Randomised controlled trials of probiotics (live orally ingested micro‐organisms) compared with no treatment, placebo, or other active intervention with no probiotics for the treatment of eczema diagnosed by a doctor. 
+Data collection and analysis
+We used standard methodological procedures as expected by Cochrane. We recorded adverse events from the included studies and from a separate adverse events search conducted for the first review. We formally assessed reporting bias by preparing funnel plots, and we performed trial sequential analysis for the first primary outcome ‐ eczema symptoms at the end of active treatment. 

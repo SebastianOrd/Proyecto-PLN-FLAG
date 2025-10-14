@@ -1,0 +1,12 @@
+Background
+Prior to introducing pneumococcal conjugate vaccines (PCVs), Streptococcus pneumoniae was most commonly isolated from the middle ear fluid of children with acute otitis media (AOM). Reducing nasopharyngeal colonisation of this bacterium by PCVs may lead to a decline in AOM. The effects of PCVs deserve ongoing monitoring since studies from the post‐PCV era report a shift in causative otopathogens towards non‐vaccine serotypes and other bacteria. This updated Cochrane Review was first published in 2002 and updated in 2004, 2009, 2014, and 2019. 
+Objectives
+To assess the effect of PCVs in preventing AOM in children up to 12 years of age.
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL, LILACS, Web of Science, and two trials registers, ClinicalTrials.gov and WHO ICTRP, to 11 June 2020. 
+Selection criteria
+Randomised controlled trials of PCV versus placebo or control vaccine.
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. The primary outcomes were frequency of all‐cause AOM and adverse effects. Secondary outcomes included frequency of pneumococcal AOM and frequency of recurrent AOM (defined as three or more AOM episodes in six months or four or more in one year). We used GRADE to assess the certainty of the evidence. 
+Main results
+We included 15 publications of 11 trials (60,733 children, range 74 to 37,868 per trial) of 7‐ to 11‐valent PCVs versus control vaccines (meningococcus type C vaccine in three trials, and hepatitis A or B vaccine in eight trials). We included one additional publication of a previously included trial for this 2020 update. We did not find any relevant trials with the newer 13‐valent PCV. Most studies were funded by pharmaceutical companies. Overall, risk of bias was low. In seven trials (59,415 children), PCVs were administered in early infancy, whilst four trials (1318 children) included children aged one year and over who were either healthy or had a history of respiratory illness. There was considerable clinical heterogeneity across studies, therefore we reported results from individual studies. 

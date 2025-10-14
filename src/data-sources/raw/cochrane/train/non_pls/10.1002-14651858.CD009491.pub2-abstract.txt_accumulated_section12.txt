@@ -1,0 +1,12 @@
+Background
+Midazolam is used for sedation before diagnostic and therapeutic medical procedures. It is an imidazole benzodiazepine that has depressant effects on the central nervous system (CNS) with rapid onset of action and few adverse effects. The drug can be administered by several routes including oral, intravenous, intranasal and intramuscular. 
+Objectives
+To determine the evidence on the effectiveness of midazolam for sedation when administered before a procedure (diagnostic or therapeutic). 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL to January 2016), MEDLINE in Ovid (1966 to January 2016) and Ovid EMBASE (1980 to January 2016). We imposed no language restrictions. 
+Selection criteria
+Randomized controlled trials in which midazolam, administered to participants of any age, by any route, at any dose or any time before any procedure (apart from dental procedures), was compared with placebo or other medications including sedatives and analgesics. 
+Data collection and analysis
+Two authors extracted data and assessed risk of bias for each included study. We performed a separate analysis for each different drug comparison. 
+Main results
+We included 30 trials (2319 participants) of midazolam for gastrointestinal endoscopy (16 trials), bronchoscopy (3), diagnostic imaging (5), cardioversion (1), minor plastic surgery (1), lumbar puncture (1), suturing (2) and Kirschner wire removal (1). Comparisons were: intravenous diazepam (14), placebo (5) etomidate (1) fentanyl (1), flunitrazepam (1) and propofol (1); oral chloral hydrate (4), diazepam (2), diazepam and clonidine (1); ketamine (1) and placebo (3); and intranasal placebo (2). There was a high risk of bias due to inadequate reporting about randomization (75% of trials). Effect estimates were imprecise due to small sample sizes. None of the trials reported on allergic or anaphylactoid reactions. 

@@ -1,0 +1,13 @@
+Background
+This is an update of a review first published in 2003 and updated in 2012.
+Ketamine is a commonly used anaesthetic agent, and in subanaesthetic doses is also given as an adjuvant to opioids for the treatment of refractory cancer pain, when opioids alone or in combination with appropriate adjuvant analgesics prove to be ineffective. Ketamine is known to have psychomimetic (including hallucinogenic), urological, and hepatic adverse effects. 
+Objectives
+To determine the effectiveness and adverse effects of ketamine as an adjuvant to opioids for refractory cancer pain in adults. 
+Search methods
+For this update, we searched MEDLINE (OVID) to December 2016. We searched CENTRAL (CRSO), Embase (OVID) and two clinical trial registries to January 2017. 
+Selection criteria
+The intervention considered by this review was the addition of ketamine, given by any route of administration, in any dose, to pre‐existing opioid treatment given by any route and in any dose, compared with placebo or active control. We included studies with a group size of at least 10 participants who completed the trial. 
+Data collection and analysis
+Two review authors independently assessed the search results and performed 'Risk of bias' assessments. We aimed to extract data on patient‐reported pain intensity, total opioid consumption over the study period; use of rescue medication; adverse events; measures of patient satisfaction/preference; function; and distress. We also assessed participant withdrawal (dropout) from trial. We assessed the quality of the evidence using GRADE (Grading of Recommendations Assessment, Development and Evaluation). 
+Main results
+One new study (185 participants) was identified by the updated search and included in the review. We included a total of three studies in this update. 

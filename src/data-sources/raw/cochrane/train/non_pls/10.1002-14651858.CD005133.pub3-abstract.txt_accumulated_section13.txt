@@ -1,0 +1,13 @@
+Background
+Cytomegalovirus (CMV) is a significant cause of morbidity and mortality in solid organ transplant recipients. Pre‐emptive treatment of patients with CMV viraemia using antiviral agents has been suggested as an alternative to routine prophylaxis to prevent CMV disease. This is an update of a Cochrane review first published in 2005. 
+Objectives
+This review was conducted to evaluate the efficacy of pre‐emptive treatment with antiviral medications in preventing symptomatic CMV disease. 
+Search methods
+For this update, we searched the Cochrane Renal Group's Specialised Register (to 16 January 2013) through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+We included randomised controlled trials (RCTs) of pre‐emptive treatment compared with placebo, no specific treatment or with antiviral prophylaxis in solid organ transplant recipients. 
+Data collection and analysis
+Four authors assessed the quality and extracted all data. Analyses used a random‐effects model and results were expressed as risk ratio (RR) and 95% confidence intervals (CI). 
+Main results
+We identified 15 eligible studies (1098 participants). Of these, six investigated pre‐emptive treatment versus placebo or treatment of CMV when disease occurred (standard care), eight looked at pre‐emptive treatment versus antiviral prophylaxis, and one reported on oral versus intravenous pre‐emptive treatment. 
+Assessment of risk of bias identified that the processes reported for sequence generation and allocation concealment were at low risk of bias in only five and three studies, respectively. All studies were considered to be at low risk of attrition bias, and seven studies were considered to be at low risk of bias for selective reporting. Only one study reported adequate blinding of participants and personnel; no study reported blinding of outcome assessment. 

@@ -1,0 +1,12 @@
+Background
+Exacerbations of chronic obstructive pulmonary disease (COPD) are a major driver of decline in health status and impose high costs on healthcare systems. Action plans offer a form of self‐management that can be delivered in the outpatient setting to help individuals recognise and initiate early treatment for exacerbations, thereby reducing their impact. 
+Objectives
+To compare effects of an action plan for COPD exacerbations provided with a single short patient education component and without a comprehensive self‐management programme versus usual care. Primary outcomes were healthcare utilisation, mortality and medication use. Secondary outcomes were health‐related quality of life, psychological morbidity, lung function and cost‐effectiveness. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register along with CENTRAL, MEDLINE, Embase and clinical trials registers. Searches are current to November 2015. We handsearched bibliographic lists and contacted study authors to identify additional studies. 
+Selection criteria
+We included randomised controlled trials (RCT) and quasi‐RCTs comparing use of an action plan versus usual care for patients with a clinical diagnosis of COPD. We permitted inclusion of a single short education component that would allow individualisation of action plans according to management needs and symptoms of people with COPD, as well as ongoing support directed at use of the action plan. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. For meta‐analyses, we subgrouped studies via phone call follow‐up directed at facilitating use of the action plan. 
+Main results
+This updated review includes two additional studies (and 976 additional participants), for a total of seven parallel‐group RCTs and 1550 participants, 66% of whom were male. Participants' mean age was 68 years and was similar among studies. Airflow obstruction was moderately severe in three studies and severe in four studies; mean post bronchodilator forced expiratory volume in one second (FEV1) was 54% predicted, and 27% of participants were current smokers. Four studies prepared individualised action plans, one study an oral plan and two studies standard written action plans. All studies provided short educational input on COPD, and two studies supplied ongoing support for action plan use. Follow‐up was 12 months in four studies and six months in three studies. 

@@ -1,0 +1,15 @@
+Background
+Spinal muscular atrophy (SMA) is caused by a homozygous deletion of the survival motor neuron 1 (SMN1) gene on chromosome 5, or a heterozygous deletion in combination with a point mutation in the second SMN1 allele. This results in degeneration of anterior horn cells, which leads to progressive muscle weakness. By definition, children with SMA type I are never able to sit without support and usually die or become ventilator dependent before the age of two years. There have until very recently been no drug treatments to influence the course of SMA. We undertook this updated review to evaluate new evidence on emerging treatments for SMA type I. The review was first published in 2009 and previously updated in 2011. 
+Objectives
+To assess the efficacy and safety of any drug therapy designed to slow or arrest progression of spinal muscular atrophy (SMA) type I. 
+Search methods
+We searched the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, Embase, and ISI Web of Science conference proceedings in October 2018. We also searched two trials registries to identify unpublished trials (October 2018). 
+Selection criteria
+We sought all randomised controlled trials (RCTs) or quasi‐RCTs that examined the efficacy of drug treatment for SMA type I. Included participants had to fulfil clinical criteria and have a genetically confirmed deletion or mutation of the SMN1 gene (5q11.2‐13.2). 
+The primary outcome measure was age at death or full‐time ventilation. Secondary outcome measures were acquisition of motor milestones, i.e. head control, rolling, sitting or standing, motor milestone response on disability scores within one year after the onset of treatment, and adverse events and serious adverse events attributable to treatment during the trial period. 
+Treatment strategies involving SMN1 gene replacement with viral vectors are out of the scope of this review. 
+Data collection and analysis
+We followed standard Cochrane methodology.
+Main results
+We identified two RCTs: one trial of intrathecal nusinersen in comparison to a sham (control) procedure in 121 randomised infants with SMA type I, which was newly included at this update, and one small trial comparing riluzole treatment to placebo in 10 children with SMA type I. 
+The RCT of intrathecally‐injected nusinersen was stopped early for efficacy (based on a predefined Hammersmith Infant Neurological Examination‐Section 2 (HINE‐2) response). At the interim analyses after 183 days of treatment, 41% (21/51) of nusinersen‐treated infants showed a predefined improvement on HINE‐2, compared to 0% (0/27) of participants in the control group. This trial was largely at low risk of bias. 

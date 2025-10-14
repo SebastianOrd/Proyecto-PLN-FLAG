@@ -1,0 +1,13 @@
+Background
+Febrile neutropenia (FN) and other infectious complications are some of the most serious treatment‐related toxicities of chemotherapy for cancer, with a mortality rate of 2% to 21%. The two main types of prophylactic regimens are granulocyte (macrophage) colony‐stimulating factors (G(M)‐CSF) and antibiotics, frequently quinolones or cotrimoxazole. Current guidelines recommend the use of colony‐stimulating factors when the risk of febrile neutropenia is above 20%, but they do not mention the use of antibiotics. However, both regimens have been shown to reduce the incidence of infections. Since no systematic review has compared the two regimens, a systematic review was undertaken. 
+Objectives
+To compare the efficacy and safety of G(M)‐CSF compared to antibiotics in cancer patients receiving myelotoxic chemotherapy. 
+Search methods
+We searched The Cochrane Library, MEDLINE, EMBASE, databases of ongoing trials, and conference proceedings of the American Society of Clinical Oncology and the American Society of Hematology (1980 to December 2015). We planned to include both full‐text and abstract publications. Two review authors independently screened search results. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing prophylaxis with G(M)‐CSF versus antibiotics for the prevention of infection in cancer patients of all ages receiving chemotherapy. All study arms had to receive identical chemotherapy regimes and other supportive care. We included full‐text, abstracts, and unpublished data if sufficient information on study design, participant characteristics, interventions and outcomes was available. We excluded cross‐over trials, quasi‐randomised trials and post‐hoc retrospective trials. 
+Data collection and analysis
+Two review authors independently screened the results of the search strategies, extracted data, assessed risk of bias, and analysed data according to standard Cochrane methods. We did final interpretation together with an experienced clinician. 
+Main results
+In this updated review, we included no new randomised controlled trials. We included two trials in the review, one with 40 breast cancer patients receiving high‐dose chemotherapy and G‐CSF compared to antibiotics, a second one evaluating 155 patients with small‐cell lung cancer receiving GM‐CSF or antibiotics. 
+We judge the overall risk of bias as high in the G‐CSF trial, as neither patients nor physicians were blinded and not all included patients were analysed as randomised (7 out of 40 patients). We considered the overall risk of bias in the GM‐CSF to be moderate, because of the risk of performance bias (neither patients nor personnel were blinded), but low risk of selection and attrition bias. 

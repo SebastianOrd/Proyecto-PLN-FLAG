@@ -1,0 +1,13 @@
+Background
+Anterior cruciate ligament (ACL) reconstruction is one of the most frequently performed orthopaedic procedures. The most common technical cause of reconstruction failure is graft malpositioning. Computer‐assisted surgery (CAS) aims to improve the accuracy of graft placement. Although posterior cruciate ligament (PCL) injury and reconstruction are far less common, PCL reconstruction has comparable difficulties relating to graft placement. This is an update of a Cochrane review first published in 2011. 
+Objectives
+To assess the effects of computer‐assisted reconstruction surgery versus conventional operating techniques for ACL or PCL injuries in adults. 
+Search methods
+For this update, we searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (from 2010 to July 2013), the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 5, 2013), MEDLINE (from 2010 to July 2013), EMBASE (from 2010 to July 2013), CINAHL (from 2010 to July 2013), article references and prospective trial registers. 
+Selection criteria
+We included randomized controlled trials (RCTs) and quasi‐randomized controlled trials that compared CAS for ACL or PCL reconstruction versus conventional operating techniques not involving CAS. 
+Data collection and analysis
+Two authors independently screened search results, assessed the risk of bias in the studies and extracted data. Where appropriate, we pooled data using risk ratios (RR) or mean differences (MD), both with 95% confidence intervals (CI). 
+Main results
+The updated search resulted in the inclusion of one new study. This review now includes five RCTs with 366 participants. There were more female than male participants (70% were female); their ages ranged from 14 to 53 years. All trials involved ACL reconstructions performed by experienced surgeons. 
+Assessing the studies' risk of bias was hampered by poor reporting of trial methods, and consequently several studies were judged to be 'unclear' for several types of bias. One trial presenting primary outcome data was at high risk of detection bias from lack of clinician blinding and attrition bias from an unaccounted loss to follow‐up at two years. 

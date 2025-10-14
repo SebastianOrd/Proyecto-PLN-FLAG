@@ -1,0 +1,10 @@
+Background
+Chronic obstructive pulmonary disease (COPD) is characterised by airflow obstruction due to an abnormal inflammatory response of the lungs to noxious particles or gases, for example, cigarette smoke. The pattern of care for people with moderate to very severe COPD often involves regular lengthy hospital admissions, which result in high healthcare costs and an undesirable effect on quality of life. Research over the past decade has focused on innovative methods for developing enabling and assistive technologies that facilitate patient self‐management. 
+Objectives
+To evaluate the effectiveness of interventions delivered by computer and by mobile technology versus face‐to‐face or hard copy/digital documentary‐delivered interventions, or both, in facilitating, supporting, and sustaining self‐management among people with COPD. 
+Search methods
+In November 2016, we searched the Cochrane Airways Group Specialised Register (CAGR), which contains trial reports identified through systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, AMED, and PsycINFO, and we handsearched respiratory journals and meeting abstracts. 
+Selection criteria
+We included randomised controlled trials that measured effects of remote and Web 2.0‐based interventions defined as technologies including personal computers (PCs) and applications (apps) for mobile technology, such as iPad, Android tablets, smart phones, and Skype, on behavioural change towards self‐management of COPD. Comparator interventions included face‐to‐face and/or hard copy/digital documentary educational/self‐management support. 
+Data collection and analysis
+Two review authors (CMcC and MMcC) independently screened titles, abstracts, and full‐text study reports for inclusion. Two review authors (CMcC and AMB) independently assessed study quality and extracted data. We expressed continuous data as mean differences (MDs) and standardised mean differences (SMDs) for studies using different outcome measurement scales. 

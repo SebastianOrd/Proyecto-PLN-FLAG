@@ -1,0 +1,10 @@
+Background
+Marfan syndrome is a hereditary disorder affecting the connective tissue and is caused by a mutation of the fibrillin‐1 (FBN1) gene. It affects multiple systems of the body, most notably the cardiovascular, ocular, skeletal, dural and pulmonary systems. Aortic root dilatation is the most frequent cardiovascular manifestation and its complications, including aortic regurgitation, dissection and rupture are the main cause of morbidity and mortality. 
+Objectives
+To assess the long‐term efficacy and safety of beta‐blocker therapy as compared to placebo, no treatment or surveillance only in people with Marfan syndrome. 
+Search methods
+We searched the following databases on 28 June 2017; CENTRAL, MEDLINE, Embase, Science Citation Index Expanded and the Conference Proceeding Citation Index ‐ Science in the Web of Science Core Collection. We also searched the Online Metabolic and Molecular Bases of Inherited Disease (OMMBID), ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) on 30 June 2017. We did not impose any restriction on language of publication. 
+Selection criteria
+All randomised controlled trials (RCTs) of at least one year in duration assessing the effects of beta‐blocker monotherapy compared with placebo, no treatment or surveillance only, in people of all ages with a confirmed diagnosis of Marfan syndrome were eligible for inclusion. 
+Data collection and analysis
+Two review authors independently screened titles and abstracts for inclusion, extracted data and assessed trial quality. Trial authors were contacted to obtain missing data. Dichotomous outcomes will be reported as relative risk and continuous outcomes as mean differences with 95% confidence intervals. We assessed the quality of evidence using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. 

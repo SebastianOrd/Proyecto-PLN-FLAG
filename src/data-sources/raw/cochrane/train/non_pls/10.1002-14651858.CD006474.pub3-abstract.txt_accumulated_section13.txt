@@ -1,0 +1,13 @@
+Background
+Prebiotics (commonly oligosaccharides) added to infant feeds have the potential to prevent sensitisation of infants to dietary allergens. 
+Objectives
+To determine the effect of prebiotic given to infants for the prevention of allergy.
+Search methods
+We performed an updated search in August 2012 of the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 8), MEDLINE, EMBASE, conference proceedings, citations, expert informants and clinical trials registries. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials that compared the use of a prebiotic to no prebiotic, or a specific prebiotic compared to a different prebiotic in infants for prevention of allergy. 
+Data collection and analysis
+Assessment of trial quality, data extraction and synthesis of data were performed using the standard methods of The Cochrane Collaboration. 
+Main results
+The 2012 update identified 13 studies classified as ongoing or awaiting classification (yet to report allergy outcomes). Forty‐three studies were excluded, primarily as no allergy data were reported, although none of these enrolled infants were at high risk of allergy. Four studies enrolling 1428 infants were eligible for inclusion. All studies were at high risk of attrition bias. Allergy outcomes were reported from four months to two years of age. 
+Meta‐analysis of two studies (226 infants) found no significant difference in infant asthma although significant heterogeneity was found between studies. Meta‐analysis of four studies found a significant reduction in eczema (1218 infants, typical risk ratio 0.68, 95% CI 0.48 to 0.97; typical risk difference ‐0.04, 95% CI ‐0.07 to ‐0.00; number needed to treat to benefit (NNTB) 25, 95% CI 14 to > 100; P = 0.03). No statistically significant heterogeneity was found between studies. One study reported no significant difference in urticaria. 

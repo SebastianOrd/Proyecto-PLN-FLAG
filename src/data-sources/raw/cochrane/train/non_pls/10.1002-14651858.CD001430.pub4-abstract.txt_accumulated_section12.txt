@@ -1,0 +1,12 @@
+Background
+Optic neuritis is an inflammatory disease of the optic nerve. It usually presents with an abrupt loss of vision and recovery of vision is almost never complete. It occurs more commonly in women than in men. Closely linked in pathogenesis, optic neuritis may be the initial manifestation for multiple sclerosis. In some people, no underlying cause can be found. 
+Objectives
+The objective of this review was to assess the effects of corticosteroids on visual recovery in eyes with acute optic neuritis. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2015, Issue 4), MEDLINE (January 1950 to April 2015), EMBASE (January 1980 to April 2015), Latin American and Caribbean Health Sciences Literature (LILACS) (January 1982 to April 2015), PubMed (January 1946 to April 2015), the metaRegister of Controlled Trials (mRCT) (www.controlled-trials.com), ClinicalTrials.gov (www.clinicaltrials.gov), and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). There were no date or language restrictions in the electronic searches for trials. The metaRegister of Controlled Trials (mRCT) was last searched on 6 March 2014. The electronic databases were last searched on 7 April 2015. We also searched reference lists of identified trial reports for additional trials. 
+Selection criteria
+We included randomized controlled trials (RCTs) that evaluated systemic corticosteroids, in any form, dose or route of administration, in people with acute optic neuritis. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included six RCTs with a total of 750 participants. Each trial was conducted in a different country: Denmark, Germany, India, Japan, UK, and United States. Additionally, we identified two ongoing trials not due to be completed until 2016. Among the six trials included in this review, we judged one to be at high risk of bias. The remaining five trials were judged to be at either low or uncertain risk of biases. 

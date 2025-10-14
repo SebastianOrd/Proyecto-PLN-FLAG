@@ -1,0 +1,12 @@
+Background
+Despite the widespread use of antenatal corticosteroids to prevent respiratory distress syndrome (RDS) in preterm infants, there is currently no consensus as to the type of corticosteroid to use, dose, frequency, timing of use or the route of administration.  
+Objectives
+To assess the effects on fetal and neonatal morbidity and mortality, on maternal morbidity and mortality, and on the child and adult in later life, of administering different types of corticosteroids (dexamethasone or betamethasone), or different corticosteroid dose regimens, including timing, frequency and mode of administration. 
+Search methods
+For this update, we searched Cochrane Pregnancy and Childbirth Group's Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (9 May 2022) and reference lists of retrieved studies. 
+Selection criteria
+We included all identified published and unpublished randomised controlled trials or quasi‐randomised controlled trials comparing any two corticosteroids (dexamethasone or betamethasone or any other corticosteroid that can cross the placenta), comparing different dose regimens (including frequency and timing of administration) in women at risk of preterm birth. We planned to exclude cross‐over trials and cluster‐randomised trials. We planned to include studies published as abstracts only along with studies published as full‐text manuscripts. 
+Data collection and analysis
+At least two review authors independently assessed study eligibility, extracted data and assessed the risk of bias of included studies. Data were checked for accuracy. We assessed the certainty of the evidence using GRADE. 
+Main results
+We included 11 trials (2494 women and 2762 infants) in this update, all of which recruited women who were at increased risk of preterm birth or had a medical indication for preterm birth. All trials were conducted in high‐income countries. 

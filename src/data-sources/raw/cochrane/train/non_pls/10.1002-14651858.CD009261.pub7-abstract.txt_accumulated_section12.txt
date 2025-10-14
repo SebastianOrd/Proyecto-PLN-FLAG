@@ -1,0 +1,12 @@
+Background
+Indications for the use of negative pressure wound therapy (NPWT) are broad and include prophylaxis for surgical site infections (SSIs). Existing evidence for the effectiveness of NPWT on postoperative wounds healing by primary closure remains uncertain. 
+Objectives
+To assess the effects of NPWT for preventing SSI in wounds healing through primary closure, and to assess the cost‐effectiveness of NPWT in wounds healing through primary closure. 
+Search methods
+In January 2021, we searched the Cochrane Wounds Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE (including In‐Process & Other Non‐Indexed Citations); Ovid Embase and EBSCO CINAHL Plus. We also searched clinical trials registries and references of included studies, systematic reviews and health technology reports. There were no restrictions on language, publication date or study setting. 
+Selection criteria
+We included trials if they allocated participants to treatment randomly and compared NPWT with any other type of wound dressing, or compared one type of NPWT with another. 
+Data collection and analysis
+At least two review authors independently assessed trials using predetermined inclusion criteria. We carried out data extraction, assessment using the Cochrane risk of bias tool, and quality assessment according to Grading of Recommendations, Assessment, Development and Evaluations methodology. Our primary outcomes were SSI, mortality, and wound dehiscence. 
+Main results
+In this fourth update, we added 18 new randomised controlled trials (RCTs) and one new economic study, resulting in a total of 62 RCTs (13,340 included participants) and six economic studies. Studies evaluated NPWT in a wide range of surgeries, including orthopaedic, obstetric, vascular and general procedures. All studies compared NPWT with standard dressings. Most studies had unclear or high risk of bias for at least one key domain. 

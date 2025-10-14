@@ -1,0 +1,10 @@
+Background
+Ovarian hyperstimulation syndrome (OHSS) is an iatrogenic and potentially life threatening condition resulting from excessive ovarian stimulation. Reported incidence of moderate to severe OHSS ranges from 0.6% to 5% of in vitro fertilization (IVF) cycles. The factors contributing to OHSS have not been completely explained. The release of vasoactive substances secreted by the ovaries under human chorionic gonadotrophin (hCG) stimulation may play a key role in triggering this syndrome. This condition is characterised by a massive shift of fluid from the intravascular compartment to the third space, resulting in profound intravascular depletion and haemoconcentration. 
+Objectives
+To assess the effect of withholding gonadotrophins (coasting) on the prevention of ovarian hyperstimulation syndrome in assisted reproduction cycles. 
+Search methods
+For the update of this review, we searched the Cochrane Gynaecology and Fertility Group Trials Register, CENTRAL, MEDLINE (PubMed), CINHAL, PsycINFO, Embase, Google, and clinicaltrials.gov to 6 July 2016. 
+Selection criteria
+We included only randomized controlled trials (RCTs) in which coasting was used to prevent OHSS. 
+Data collection and analysis
+Two review authors independently selected trials and extracted data. They resolved disagreements by discussion. They contacted study authors to request additional information or missing data. The intervention comparisons were coasting versus no coasting, coasting versus early unilateral follicular aspiration (EUFA), coasting versus gonadotrophin releasing hormone antagonist (antagonist), coasting versus follicle stimulating hormone administration at the time of hCG trigger (FSH co‐trigger), and coasting versus cabergoline. We performed statistical analysis in accordance with Cochrane guidelines. Our primary outcomes were moderate or severe OHSS and live birth. 

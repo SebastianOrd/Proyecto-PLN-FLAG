@@ -1,0 +1,16 @@
+Background
+Despite the health benefits of breastfeeding, initiation and duration rates continue to fall short of international guidelines. Many factors influence a woman's decision to wean; the main reason cited for weaning is associated with lactation complications, such as mastitis. 
+Mastitis is an inflammation of the breast, with or without infection. It can be viewed as a continuum of disease, from non‐infective inflammation of the breast to infection that may lead to abscess formation. 
+Objectives
+To assess the effectiveness of preventive strategies (for example, breastfeeding education, pharmacological treatments and alternative therapies) on the occurrence or recurrence of non‐infective or infective mastitis in breastfeeding women post‐childbirth. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (3 October 2019), and reference lists of retrieved studies. 
+Selection criteria
+We included randomised controlled trials of interventions for preventing mastitis in postpartum breastfeeding women. 
+Quasi‐randomised controlled trials and trials reported only in abstract form were eligible. We attempted to contact the authors to obtain any unpublished results, wherever possible.  
+Interventions for preventing mastitis may include: probiotics, specialist breastfeeding advice and holistic approaches.   
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and assessed the certainty of the evidence using GRADE. 
+Main results
+We included 10 trials (3034 women). Nine trials (2395 women) contributed data. Generally, the trials were at low risk of bias in most domains but some were high risk for blinding, attrition bias, and selective reporting. Selection bias (allocation concealment) was generally unclear. The certainty of evidence was downgraded due to risk of bias and to imprecision (low numbers of women participating in the trials). Conflicts of interest on the part of trial authors, and the involvement of industry funders may also have had an impact on the certainty of the evidence. 
+Most trials reported our primary outcome of incidence of mastitis but there were almost no data relating to adverse effects, breast pain, duration of breastfeeding, nipple damage, breast abscess or recurrence of mastitis. 

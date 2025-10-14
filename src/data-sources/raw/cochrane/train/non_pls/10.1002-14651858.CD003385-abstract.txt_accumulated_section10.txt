@@ -1,0 +1,10 @@
+Background
+Psychotherapeutic approaches, mainly cognitive behavior therapy, and antidepressant medication are the two treatment modalities that have received most support in controlled outcome studies of bulimia nervosa. 
+Objectives
+The primary objective was to conduct a systematic review of all RCTs comparing antidepressants with psychological approaches or comparing their combination with each single approach for the treatment of bulimia nervosa. 
+Search methods
+(1) electronic searches of MEDLINE (1966 to December 2000), EMBASE (1980‐December 2000) , PsycLIT (to December 2000), LILACS & SCISEARCH (to 1999)  (2) the Cochrane Register of Controlled Trials and the Cochrane Depression, Anxiety and Neurosis Group Register ‐ ongoing  (3) handsearches of the references of all identified trials  (4) contact with the pharmaceutical companies and the principal investigator of each included trial  (5) handsearch of the International Journal of Eating Disorders ‐ ongoing 
+Selection criteria
+Inclusion criteria: every randomized controlled trial in which antidepressants were compared with psychological treatments or the combination of antidepressants with psychological approaches was compared to each treatment alone, to reduce the symptoms of bulimia nervosa in patients of any age or gender.  Quality criteria: reports were considered adequate if they were classified as A or B according to the Cochrane Manual. 
+Data collection and analysis
+Data were extracted independently by two reviewers for each included trial. The main outcome for efficacy was full remission of bulimic symptoms, defined as 100% reduction in binge or purge episodes from baseline to endpoint. Dichotomous data was evaluated by the relative risks and 95% confidence intervals around this measure, based on the random effects model; continuous data was evaluated by the average difference and the 95% confidence interval. Number needed to treat (NNT) and number needed to harm (NNH) were calculated using the inverse of the absolute risk reduction. 

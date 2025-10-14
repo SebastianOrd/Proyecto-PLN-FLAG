@@ -1,0 +1,10 @@
+Background
+Aspirin is the prophylactic antiplatelet drug of choice for people with cardiovascular disease. Adding a second antiplatelet drug to aspirin may produce additional benefit for people at high risk and people with established cardiovascular disease. This is an update to a previously published review from 2011. 
+Objectives
+To review the benefit and harm of adding clopidogrel to aspirin therapy for preventing cardiovascular events in people who have coronary disease, ischaemic cerebrovascular disease, peripheral arterial disease, or were at high risk of atherothrombotic disease, but did not have a coronary stent. 
+Search methods
+We updated the searches of CENTRAL (2017, Issue 6), MEDLINE (Ovid, 1946 to 4 July 2017) and Embase (Ovid, 1947 to 3 July 2017) on 4 July 2017. We also searched ClinicalTrials.gov and the WHO ICTRP portal, and handsearched reference lists. We applied no language restrictions. 
+Selection criteria
+We included all randomised controlled trials comparing over 30 days use of aspirin plus clopidogrel with aspirin plus placebo or aspirin alone in people with coronary disease, ischaemic cerebrovascular disease, peripheral arterial disease, or at high risk of atherothrombotic disease. We excluded studies including only people with coronary drug‐eluting stent (DES) or non‐DES, or both. 
+Data collection and analysis
+We collected data on mortality from cardiovascular causes, all‐cause mortality, fatal and non‐fatal myocardial infarction, fatal and non‐fatal ischaemic stroke, major and minor bleeding. The overall treatment effect was estimated by the pooled risk ratio (RR) with 95% confidence interval (CI), using a fixed‐effect model (Mantel‐Haenszel); we used a random‐effects model in cases of moderate or severe heterogeneity (I2 ≥ 30%). We assessed the quality of the evidence using the GRADE approach. We used GRADE profiler (GRADE Pro) to import data from Review Manager to create a 'Summary of findings' table. 

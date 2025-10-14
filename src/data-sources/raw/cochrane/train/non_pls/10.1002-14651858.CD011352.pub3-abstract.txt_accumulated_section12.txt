@@ -1,0 +1,12 @@
+Background
+Many women experience perineal pain after childbirth, especially after having sustained perineal trauma. Perineal pain‐management strategies are an important part of postnatal care. Non‐steroidal anti‐inflammatory drugs (NSAIDs) are a commonly‐used type of medication in the management of postpartum pain, and their effectiveness and safety should be assessed. This is an update of a review first published in 2016. 
+Objectives
+To determine the effectiveness of a single dose of an oral NSAID for relief of acute perineal pain in the early postpartum period. 
+Search methods
+For this update, we searched the Cochrane Pregnancy and Childbirth Group's Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (9 December 2019), OpenSIGLE and ProQuest Dissertations and Theses (28 February 2020), and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) assessing a single dose of a NSAID versus a single dose of placebo, paracetamol or another NSAID for women with perineal pain in the early postpartum period. We excluded quasi‐RCTs and cross‐over trials. We included papers in abstract format only if they had sufficient information to determine that they met the review’s prespecified inclusion criteria. 
+Data collection and analysis
+Two review authors (FW and VS) independently assessed all identified papers for inclusion and risks of bias, resolving any discrepancies through discussion. Two review authors independently conducted data extraction, including calculations of pain relief scores, and checked it for accuracy. We assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We included 35 studies examining 16 different NSAIDs and involving 5136 women (none were breastfeeding). Studies were published between 1967 and 2013. Risk of bias due to random sequence generation, allocation concealment and blinding of outcome assessors was generally unclearly to poorly reported, but participants and caregivers were blinded, and outcome data were generally complete. We downgraded the certainty of evidence due to risk of bias, suspected publication bias, and imprecision for small numbers of participants. 

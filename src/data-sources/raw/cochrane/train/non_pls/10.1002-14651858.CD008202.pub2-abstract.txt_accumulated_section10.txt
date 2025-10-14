@@ -1,0 +1,10 @@
+Background
+Episodic viral wheeze (EVW) associated with viral respiratory tract infections is a common reason for pre‐school children to utilise health care resources and for carers to take time away from employment. About a third of children experience a wheezing episode before the age of five years. EVW therefore represents a significant public health problem. Many pre‐school children only wheeze in association with viral infections and in such cases EVW appears to be a separate entity from atopic asthma. Some trials have explored the effectiveness of leukotriene receptor antagonists (LTRAs) as regular (maintenance) or episodic (intermittent) treatment in this context. 
+Objectives
+To evaluate the evidence for the efficacy and safety of maintenance and intermittent LTRAs in the management of EVW in children aged one to six years. 
+Search methods
+We searched the Cochrane Airways Group register of trials with pre‐specified terms. We performed additional searches by consulting the authors of identified trials, online trial registries of manufacturers' web sites, and reference lists of identified primary papers and reviews. Search results are current to June 2015. 
+Selection criteria
+We included randomised controlled trials with a parallel‐group or cross‐over (for intermittent LTRA only) design. Maintenance was considered as treatment for more than two months and intermittent as less than 14 days. EVW was defined as a history of at least one previous episode of wheezing in association with a viral respiratory tract infection in the absence of symptoms between episodes. As far as possible, relevant specific data were obtained from authors of studies that included children of a wider age group or phenotype.   
+Data collection and analysis
+Two authors independently assessed studies for inclusion in the review and assessed risk of bias. The primary outcome was number of children with one or more viral‐induced episodes requiring one or more treatments with rescue oral corticosteroids. We analysed combined continuous data outcomes with the mean difference and dichotomous data outcomes with an odds ratio (OR). 

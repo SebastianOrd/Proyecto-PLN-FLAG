@@ -1,0 +1,10 @@
+Background
+Gingival recession is defined as the oral exposure of the root surface due to a displacement of the gingival margin apical to the cemento‐enamel junction and it is regularly linked to the deterioration of dental aesthetics. Successful treatment of recession‐type defects is based on the use of predictable root coverage periodontal plastic surgery (RCPPS) procedures. This review is an update of the original version that was published in 2009. 
+Objectives
+To evaluate the efficacy of different root coverage procedures in the treatment of single and multiple recession‐type defects. 
+Search methods
+Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 15 January 2018), the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 12) in the Cochrane Library (searched 15 January 2018), MEDLINE Ovid (1946 to 15 January 2018), and Embase Ovid (1980 to 15 January 2018). The US National Institutes of Health Ongoing Trials Register (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials (15 January 2018). No restrictions were placed on the language or date of publication when searching the electronic databases. 
+Selection criteria
+We included randomised controlled trials (RCTs) only of at least 6 months' duration evaluating recession areas (Miller's Class I or II ≥ 3 mm) and treated by means of RCPPS procedures. 
+Data collection and analysis
+Screening of eligible studies, data extraction and risk of bias assessment were conducted independently and in duplicate. Authors were contacted for any missing information. We expressed results as random‐effects models using mean differences (MD) for continuous outcomes and odds ratios (OR) for dichotomous outcomes with 95% confidence intervals (CI). We used GRADE methods to assess the quality of the body of evidence of our main comparisons. 

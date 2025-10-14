@@ -1,0 +1,22 @@
+Background
+Familial Mediterranean fever (FMF), a hereditary auto‐inflammatory disease, mainly affects ethnic groups living in the Mediterranean region. Early studies reported colchicine may potentially prevent FMF attacks. For people who are colchicine‐resistant or intolerant, drugs such as anakinra, rilonacept, canakinumab, etanercept, infliximab or adalimumab might be beneficial. This is an update of the review last published in 2018. 
+Objectives
+To evaluate the efficacy and safety of interventions for reducing inflammation in people with FMF. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and four Chinese databases on in August 2021. We searched clinical trials registries and references listed in relevant reports. 
+The last search was 17 August 2021.
+Selection criteria
+We included randomized controlled trials (RCTs) of people with FMF, comparing active interventions (including colchicine, anakinra, rilonacept, canakinumab, etanercept, infliximab, adalimumab, thalidomide, tocilizumab, interferon‐α and ImmunoGuard (herbal dietary supplement)) with placebo or no treatment, or comparing active drugs to each other. 
+Data collection and analysis
+We used standard Cochrane methodology. We assessed certainty of the evidence using GRADE. 
+Main results
+We included 10 RCTs with 312 participants (aged three to 53 years), including five parallel and five cross‐over designed studies. Six studies used oral colchicine, one used oral ImmunoGuard, and the remaining three used rilonacept, anakinra or canakinumab as a subcutaneous injection. The duration of each study arm ranged from one to eight months. 
+There were inadequacies in the design of the four older colchicine studies and the two studies comparing a single to a divided dose of colchicine. However, the four studies of ImmunoGuard, rilonacept, anakinra and canakinumab were generally well‐designed.  
+We aimed to report on the number of participants experiencing an attack, the timing of attacks, the prevention of amyloid A amyloidosis, adverse drug reactions and the response of a number of biochemical markers from the acute phase of an attack; but no study reported on the prevention of amyloid A amyloidosis. 
+Colchicine (oral) versus placebo 
+After three months, colchicine 0.6 mg three times daily may reduce the number of people experiencing attacks (risk ratio (RR) 0.21, 95% confidence interval (CI) 0.05 to 0.95; 1 study, 10 participants; low‐certainty evidence). One study (20 participants) of colchicine 0.5 mg twice daily showed there may be no difference in the number of participants experiencing attacks at two months (RR 0.78, 95% CI 0.49 to 1.23; low‐certainty evidence). 
+There may be no differences in the duration of attacks (narrative summary; very low‐certainty evidence), or in the number of days between attacks: (narrative summary; very low‐certainty evidence). 
+Regarding adverse drug reactions, one study reported loose stools and frequent bowel movements and a second reported diarrhea (narrative summary; both very low‐certainty evidence). 
+There were no data on acute‐phase response.
+Rilonacept versus placebo 
+There is probably no difference in the number of people experiencing attacks at three months (RR 0.87, 95% CI 0.59 to 1.26; moderate‐certainty evidence).  

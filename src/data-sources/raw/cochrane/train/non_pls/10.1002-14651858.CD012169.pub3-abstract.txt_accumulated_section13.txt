@@ -1,0 +1,13 @@
+Background
+Antiphospholipid syndrome (APS) is a systemic autoimmune disease characterized by arterial or venous thrombosis (or both), and/or pregnancy morbidity in association with the presence of antiphospholipid antibodies. The prevalence of APS is estimated at 40 to 50 cases per 100,000 people. The most common sites of thrombosis are cerebral arteries and deep veins of the lower limbs. People with a definite APS diagnosis have an increased lifetime risk of recurrent thrombotic events. 
+Objectives
+To assess the effects of antiplatelet (AP) or anticoagulant agents, or both, for the secondary prevention of recurrent thrombosis, particularly ischemic stroke, in people with APS. 
+Search methods
+We last searched the MEDLINE, Embase, CENTRAL, Cochrane Stroke Group Trials Register, and ongoing trials registers on 22 November 2019. We checked reference lists of included studies, systematic reviews, and practice guidelines. We also contacted experts in the field. 
+Selection criteria
+We included randomized controlled trials (RCTs) that evaluated any anticoagulant or AP agent, or both, in the secondary prevention of thrombosis in people with APS, according to the criteria valid when the study took place. We did not include studies specifically addressing women with obstetrical APS. 
+Data collection and analysis
+Pairs of review authors independently worked on each step of the review, following Cochrane methods. We summarized the evidence using the GRADE approach. 
+Main results
+We identified eight studies including 811 participants that compared different AP or anticoagulant agents. 
+NOAC (non‐VKA oral anticoagulant: rivaroxaban 15 or 20 mg/d) versus standard‐dose VKA (vitamin K antagonist: warfarin at moderate International Normalized Ratio [INR] ‐ 2.5) or adjusted [INR 2.0‐3.0] dose): 

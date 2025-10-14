@@ -1,0 +1,10 @@
+Background
+Acute otitis media (AOM) is one of the most common infectious diseases in children. It has been reported that 64% of infants have an episode of AOM by the age of six months and 86% by one year. Although most cases of AOM are due to bacterial infection, it is commonly triggered by a viral infection. In most children AOM is self limiting, but it does carry a risk of complications. Since antibiotic treatment increases the risk of antibiotic resistance, influenza vaccines might be an effective way of reducing this risk by preventing the development of AOM. 
+Objectives
+To assess the effectiveness of influenza vaccine in reducing the occurrence of acute otitis media in infants and children. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, LILACS, Web of Science, the WHO International Clinical Trials Registry Platform, and ClinicalTrials.gov (15 February 2017). We also searched the reference lists of included studies to identify any additional trials. 
+Selection criteria
+Randomised controlled trials comparing influenza vaccine with placebo or no treatment in infants and children aged younger than six years. We included children of either sex and of any ethnicity, with or without a history of recurrent AOM. 
+Data collection and analysis
+Two review authors independently screened studies, assessed trial quality, and extracted data. We performed statistical analyses using the random‐effects and fixed‐effect models and expressed the results as risk ratio (RR), risk difference (RD), and number needed to treat for an additional beneficial outcome (NNTB) for dichotomous outcomes, with 95% confidence intervals (CI). 

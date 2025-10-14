@@ -1,0 +1,10 @@
+Background
+A blood transfusion is an acute intervention, implemented to solve life and health‐threatening conditions on a short‐term basis. However, blood transfusions have adverse events, some of them potentially related to immune modulation or to a direct transmission of infectious agents (e.g. cytomegalovirus). Leukoreduction is a process in which the white blood cells are intentionally reduced in packed red blood cells (PRBCs) in order to reduce the risk of adverse reactions. The potential benefits of leukoreduced PRBCs in all types of transfused patients for decreasing infectious and non‐infectious complications remain unclear. 
+Objectives
+To determine the clinical effectiveness of leukoreduction of packed red blood cells for preventing adverse reactions following allogeneic blood transfusion. 
+Search methods
+We ran the most recent search on 10th November 2015. We searched the Cochrane Injuries Group's Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL, the Cochrane Library), MEDLINE (OvidSP), Embase(OvidSP), CINAHL Plus (EBSCO), LILACS (BIREME), and clinical trials registers. In addition, we checked the reference lists of all relevant trials and reviews identified in the literature searches. 
+Selection criteria
+Randomised clinical trials including patients of all ages requiring PRBC allogeneic transfusion. Any study was eligible for inclusion, regardless of the length of participant follow‐up or country where the study was performed. The primary outcome was transfusion‐related acute lung injury (TRALI). Secondary outcomes were death from any cause, infection from any cause, non‐infectious complications and any other adverse event. 
+Data collection and analysis
+At least two review authors independently performed study selection, 'Risk of bias' assessments and data extraction. We estimated pooled relative risk for dichotomous outcomes, and we measured statistical heterogeneity using I² statistic. The random‐effects model was used to synthesise results. We conducted a trial sequential analysis to assess the risk of random errors in cumulative meta‐analyses. 

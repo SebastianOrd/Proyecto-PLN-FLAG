@@ -1,0 +1,8 @@
+Background
+There is presently no certainty about the ideal feeding intervals for preterm infants. Shorter feeding intervals of, for example, two hours, have the theoretical advantage of allowing smaller volumes of milk. This may have the potential to reduce the incidence and severity of gastro‐oesophageal reflux. Longer feeding intervals have the theoretical advantage of allowing more gastric emptying between two feeds. This potentially provides periods of rest (and thus less hyperaemia) for an immature digestive tract. 
+Objectives
+To determine the safety of shorter feeding intervals (two hours or shorter) versus longer feeding intervals (three hours or more) and to compare the effects in terms of days taken to regain birth weight and to achieve full feeding. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to run comprehensive searches in CENTRAL (2020, Issue 6) and Ovid MEDLINE and Epub Ahead of Print, In‐Process & Other Non‐Indexed Citations, Daily and Versions, and CINAHL on 25 June 2020. We searched clinical trials databases and the reference lists of retrieved articles for randomised controlled trials (RCTs) and quasi‐RCTs. 
+Selection criteria
+We included RCTs and quasi‐RCTs comparing short (e.g. one or two hours) versus long (e.g. three or four hours) feeding intervals in preterm infants of any birth weight, all or most of whom were less than 32 weeks' gestation. Infants could be of any postnatal age at trial entry, but eligible infants should not have received feeds before study entry, with the exception of minimal enteral feeding. We included studies of nasogastric or orogastric bolus feeding, breast milk or formula, in which the feeding interval is the intervention. 

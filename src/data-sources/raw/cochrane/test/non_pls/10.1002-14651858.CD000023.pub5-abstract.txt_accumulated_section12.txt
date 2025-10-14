@@ -1,0 +1,12 @@
+Background
+Sore throat is a common reason for people to present for medical care and to be prescribed antibiotics. Overuse of antibiotics in primary medicine is a concern, hence it is important to establish their efficacy in treating sore throat and preventing secondary complications.  
+Objectives
+To assess the effects of antibiotics for reducing symptoms of sore throat for child and adult patients. 
+Search methods
+We searched CENTRAL 2021, Issue 2, MEDLINE (January 1966 to April week 1, 2021), Embase (January 1990 to April 2021), and two trial registries (searched 6 April 2021). 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs of antibiotics versus control assessing typical sore throat symptoms or complications amongst children and adults seeking medical care for sore throat symptoms. 
+Data collection and analysis
+We used standard methodological procedures as recommended by Cochrane. Two review authors independently screened studies for inclusion and extracted data, resolving any differences in opinion by discussion. We contacted the trial authors from three studies for additional information. We used GRADE to assess the certainty of the evidence for the efficacy of antibiotics on our primary outcomes (sore throat at day three and one week) and secondary outcomes (fever and headache symptoms and incidence of acute rheumatic fever, acute glomerulonephritis, acute otitis media, acute sinusitis, and quinsy). 
+Main results
+We included 29 trials with 15,337 cases of sore throat. The majority of included studies were conducted in the 1950s, during which time the rates of serious complications (especially acute rheumatic fever) were much higher than today. Although clinical antibiotic trials for sore throat and respiratory symptoms are still being conducted, it is unusual for them to include placebo or 'no treatment' control arms, which is a requirement for inclusion in the review. 

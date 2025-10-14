@@ -1,0 +1,10 @@
+Background
+Dental sealants were introduced in the 1960s to help prevent dental caries, mainly in the pits and fissures of occlusal tooth surfaces. Sealants act to prevent bacteria growth that can lead to dental decay. Evidence suggests that fissure sealants are effective in preventing caries in children and adolescents compared to no sealants. Effectiveness may, however, be related to caries incidence level of the population. This is an update of a review published in 2004, 2008 and 2013. 
+Objectives
+To compare the effects of different types of fissure sealants in preventing caries in occlusal surfaces of permanent teeth in children and adolescents. 
+Search methods
+Cochrane Oral Health’s Information Specialist searched: Cochrane Oral Health’s Trials Register (to 3 August 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library, 2016, Issue 7), MEDLINE Ovid (1946 to 3 August 2016), and Embase Ovid (1980 to 3 August 2016). We searched ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform for ongoing trials to 3 August 2016. No restrictions were placed on language or date of publication. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing sealants with no sealant or a different type of sealant material for preventing caries of occlusal surfaces of premolar or molar teeth in children and adolescents aged up to 20 years. Studies required at least 12 months follow‐up. We excluded studies that compared compomers to resins/composites. 
+Data collection and analysis
+Two review authors independently screened search results, extracted data and assessed risk of bias of included studies. We presented outcomes for caries or no caries on occlusal surfaces of permanent molar teeth as odds ratio (OR) or risk ratio (RR). We used mean difference (MD) for mean caries increment. All measures were presented with 95% confidence intervals (CI). We conducted meta‐analyses using a random‐effects model for comparisons where there were more than three trials; otherwise we used the fixed‐effect model. We used GRADE methods to assess evidence quality. 

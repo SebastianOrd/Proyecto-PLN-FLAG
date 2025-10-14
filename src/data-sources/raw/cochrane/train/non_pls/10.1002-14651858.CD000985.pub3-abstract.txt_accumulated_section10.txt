@@ -1,0 +1,10 @@
+Background
+Acute limb ischaemia usually is caused by a blood clot blocking an artery or a bypass graft. Severe acute ischaemia will lead to irreversible damage to muscles and nerves if blood flow is not restored in a few hours. Once irreversible damage occurs, amputation will be necessary and the condition can be life‐threatening. Infusion of clot‐busting drugs (thrombolysis) is a useful tool in the management of acute limb ischaemia. Fibrinolytic drugs are used to disperse blood clots (thrombi) to clear arterial occlusion and restore blood flow. Thrombolysis is less invasive than surgery. A variety of techniques are used to deliver fibrinolytic agents. This is an update of a review first published in 2004. 
+Objectives
+To compare the effects of infusion techniques during peripheral arterial thrombolysis for treatment of patients with acute limb ischaemia. 
+Search methods
+The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase, and CINAHL databases and World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registries to 20 October 2020. We undertook reference checking to identify additional studies. 
+Selection criteria
+We included all randomised controlled trials (RCTs) comparing infusion techniques for fibrinolytic agents in the treatment of acute limb ischaemia. 
+Data collection and analysis
+We used standard methodological procedures as recommended by Cochrane. We assessed the risk of bias in included trials using the Cochrane 'Risk of bias' tool. We evaluated certainty of evidence using GRADE. For dichotomous outcomes, we calculated the odds ratio (OR) with the corresponding 95% confidence interval (CI). We were not able to carry out meta‐analyses due to clinical heterogeneity, so we have reported the results and performed the comparisons narratively. The main outcomes of interest were amputation‐free survival or limb salvage, amputation, mortality, vessel patency, duration of thrombolysis, and complications such as cerebrovascular accident and major and minor bleeding. 

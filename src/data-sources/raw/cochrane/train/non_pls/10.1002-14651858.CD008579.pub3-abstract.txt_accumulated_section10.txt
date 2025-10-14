@@ -1,0 +1,10 @@
+Background
+The morbidity and socioeconomic costs of fractures are considerable. The length of time to healing is an important factor in determining a person's recovery after a fracture. Ultrasound may have a therapeutic role in reducing the time to union after fracture. This is an update of a review previously published in February 2012. 
+Objectives
+To assess the effects of low‐intensity ultrasound (LIPUS), high‐intensity focused ultrasound (HIFUS) and extracorporeal shockwave therapies (ECSW) as part of the treatment of acute fractures in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (2 June 2014), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2014, Issue 5), MEDLINE (1946 to May Week 3 2014), EMBASE (1980 to 2014 Week 22), trial registers and reference lists of articles. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials evaluating ultrasound treatment in the management of acute fractures in adults. Studies had to include participants over 18 years of age with acute fractures, reporting outcomes such as function; time to union; non‐union; secondary procedures such as for fixation or delayed union or non‐union; adverse effects; pain; costs; and patient adherence. 
+Data collection and analysis
+Two authors independently extracted data from the included studies. Treatment effects were assessed using mean differences, standardised mean differences or risk ratios using a fixed‐effect model, except where there was substantial heterogeneity, when data were pooled using a random‐effects model. Results from 'worst case' analyses, which gave more conservative estimates of treatment effects for time to fracture union, are reported in preference to those from 'as reported' analyses. 

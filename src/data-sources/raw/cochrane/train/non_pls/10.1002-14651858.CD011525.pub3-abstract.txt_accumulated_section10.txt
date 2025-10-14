@@ -1,0 +1,10 @@
+Background
+Intermittent preventive treatment could help prevent malaria in infants (IPTi) living in areas of moderate to high malaria transmission in sub‐Saharan Africa. The World Health Organization (WHO) policy recommended IPTi in 2010, but its adoption in countries has been limited. 
+Objectives
+To evaluate the effects of intermittent preventive treatment (IPT) with antimalarial drugs to prevent malaria in infants living in malaria‐endemic areas. 
+Search methods
+We searched the following sources up to 3 December 2018: the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (the Cochrane Library), MEDLINE (PubMed), Embase (OVID), LILACS (Bireme), and reference lists of articles. We also searched the metaRegister of Controlled Trials (mRCT) and the WHO International Clinical Trials Registry Platform (ICTRP) portal for ongoing trials up to 3 December 2018. 
+Selection criteria
+We included randomized controlled trials (RCTs) that compared IPT to placebo or no intervention in infants (defined as young children aged between 1 to 12 months) in malaria‐endemic areas. 
+Data collection and analysis
+The primary outcome was clinical malaria (fever plus asexual parasitaemia). Two review authors independently assessed trials for inclusion, evaluated the risk of bias, and extracted data. We summarized dichotomous outcomes and count data using risk ratios (RR) and rate ratios respectively, and presented all measures with 95% confidence intervals (CIs). We extracted protective efficacy values and their 95% CIs; when an included trial did not report this data, we calculated these values from the RR or rate ratio with its 95% CI. Where appropriate, we combined data in meta‐analyses and assessed the certainty of the evidence using the GRADE approach. 

@@ -1,0 +1,15 @@
+Background
+Giant cell arteritis (GCA) is the most common form of systemic vasculitis in people older than 50 years of age. It causes granulomatous inflammation of medium‐ to large‐sized vessels. Tocilizumab is a recombinant monoclonal antibody directed against interleukin‐6 receptors (IL‐6R). 
+Objectives
+To assess the effectiveness and safety of tocilizumab, given alone or with corticosteroids, compared with therapy without tocilizumab for treatment of GCA. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2020, Issue 1); Ovid MEDLINE; Embase.com; PubMed; Latin American and Caribbean Health Science Information database (LILACS); ClinicalTrials.gov; and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). There were no date or language restrictions in the electronic search for trials. We last searched the electronic databases on 3 January 2020. 
+Selection criteria
+We included only randomized controlled trials (RCTs) that compared tocilizumab of any dosage regimen (alone or with corticosteroids) with therapy without tocilizumab that had a minimum follow‐up of six months. Participants were at least 50 years of age, with biopsy‐proven GCA or by large‐vessel vasculitis by angiography, and met the American College of Rheumatology 1990 guidelines for GCA. 
+Data collection and analysis
+We used standard Cochrane methodology.
+Main results
+Main results 
+We included two RCTs in the review. The studies were conducted in the USA, Canada, and Europe and enrolled a total of 281 participants with GCA, of whom 74% were women. The mean age of participants was 70 years, with new‐onset or relapsing GCA, and fulfilled the 1990 American College of Rheumatology criteria with no uncontrolled comorbidities. Both studies were funded by F. Hoffmann‐La Roche AG, the manufacturer of tocilizumab. 
+Findings 
+One RCT (30 participants) compared tocilizumab administered every four weeks versus placebo. Point estimates at 12 months and beyond favored tocilizumab over placebo in terms of sustained remission (risk ratio (RR) 4.25, 95% confidence interval (CI) 1.21 to 14.88; moderate‐certainty evidence). Point estimates suggest no evidence of a difference for all‐cause mortality at 12 months or more (RR 0.17, 95% CI 0.01 to 3.94; moderate‐certainty evidence). At 12 months, mean time to first relapse after induction of remission was 25 weeks in favor of participants receiving tocilizumab compared to placebo (mean difference (MD) 25, 95% CI 11.4 to 38.6; moderate‐certainty evidence). 

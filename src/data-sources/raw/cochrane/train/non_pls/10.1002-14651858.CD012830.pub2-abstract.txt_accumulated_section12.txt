@@ -1,0 +1,12 @@
+Background
+Cataract surgery is one of the most common surgical procedures performed worldwide. Achieving appropriate intraoperative mydriasis is one of the critical factors associated with the safety and performance of the surgery. Inadequate pupillary dilation or constriction of the pupil during cataract surgery can impair the surgeon’s field of view and make it difficult to maneuver instruments. 
+Objectives
+To evaluate the relative effectiveness of achieving pupillary dilation during phacoemulsification for cataract extraction using three methods of pupillary dilation: topical mydriatics, intracameral mydriatics, or depot delivery systems. We also planned to document and compare the risk of intraoperative and postoperative complications following phacoemulsification for cataract extraction, as well as the cost‐effectiveness of these methods for pupillary dilation. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), which contains the Cochrane Eyes and Vision Trials Register) (2021, Issue 1); Ovid MEDLINE; Embase.com; PubMed; Latin American and Caribbean Health Sciences Literature Database (LILACS); ClinicalTrials.gov; and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We did not use any date or language restrictions in the electronic search for trials. We last searched the electronic databases on 22 January 2021. 
+Selection criteria
+We included only randomized controlled trial (RCTs) in which participants underwent phacoemulsification for cataract extraction. 
+Data collection and analysis
+We followed standard Cochrane methodology.
+Main results
+We included a total of 14 RCTs (1670 eyes of 1652 participants) in this review. Of the 14 trials, 7 compared topical versus intracameral mydriatics, 6 compared topical mydriatics versus depot delivery systems, and 1 compared all three methods. 

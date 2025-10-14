@@ -1,0 +1,10 @@
+Background
+Every year a large number of children around the world are removed from their homes because they are maltreated. Child welfare agencies are responsible for placing these children in out‐of‐home settings that will facilitate their safety, permanency, and well‐being. However, children in out‐of‐home placements typically display more educational, behavioural, and psychological problems than do their peers, although it is unclear whether this results from the placement itself, the maltreatment that precipitated it, or inadequacies in the child welfare system. 
+Objectives
+To evaluate the effect of kinship care placement compared to foster care placement on the safety, permanency, and well‐being of children removed from the home for maltreatment. 
+Search methods
+We searched the following databases for this updated review on 14 March 2011: the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, PsycINFO, CINAHL, Sociological Abstracts, Social Science Citation Index, ERIC, Conference Proceedings Citation Index‐Social Science and Humanities, ASSIA, and Dissertation Express. We handsearched relevant social work journals and reference lists of published literature reviews, and contacted authors. 
+Selection criteria
+Controlled experimental and quasi‐experimental studies, in which children removed from the home for maltreatment and subsequently placed in kinship foster care were compared with children placed in non‐kinship foster care for child welfare outcomes in the domains of well‐being, permanency, or safety. 
+Data collection and analysis
+Two review authors independently read the titles and abstracts identified in the searches, and selected appropriate studies. Two review authors assessed the eligibility of each study for the evidence base and then evaluated the methodological quality of the included studies. Lastly, we extracted outcome data and entered them into Review Manager 5 software (RevMan) for meta‐analysis with the results presented in written and graphical forms. 

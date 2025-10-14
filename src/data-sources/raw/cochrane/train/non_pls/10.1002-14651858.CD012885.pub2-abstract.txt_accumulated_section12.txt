@@ -1,0 +1,12 @@
+Background
+Products sweetened with non‐nutritive sweeteners (NNS) are widely available. Many people with type 1 or type 2 diabetes use NNS as a replacement for nutritive sweeteners to control their carbohydrate and energy intake. Health outcomes associated with NNS use in diabetes are unknown. 
+Objectives
+To assess the effects of non‐nutritive sweeteners in people with diabetes mellitus.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE Ovid, Scopus, the WHO ICTRP, and ClinicalTrials.gov. The date of the last search of all databases (except for Scopus) was May 2019. We last searched Scopus in January 2019. We did not apply any language restrictions. 
+Selection criteria
+We included randomised controlled trials (RCTs) with a duration of four weeks or more comparing any type of NNS with usual diet, no intervention, placebo, water, a different NNS, or a nutritive sweetener in individuals with type 1 or type 2 diabetes. Trials with concomitant behaviour‐changing interventions, such as diet, exercise, or both, were eligible for inclusion, given that the concomitant interventions were the same in the intervention and comparator groups. 
+Data collection and analysis
+Two review authors independently screened abstracts, full texts, and records retrieved from trials registries, assessed the certainty of the evidence, and extracted data. We used a random‐effects model to perform meta‐analysis, and calculated effect estimates as risk ratios (RRs) for dichotomous outcomes and mean differences (MDs) for continuous outcomes, using 95% confidence intervals (CIs). We assessed risk of bias using the Cochrane 'Risk of bias' tool and the certainty of evidence using the GRADE approach. 
+Main results
+We included nine RCTs that randomised a total of 979 people with type 1 or type 2 diabetes. The intervention duration ranged from 4 to 10 months. We judged none of these trials as at low risk of bias for all ’Risk of bias’ domains; most of the included trials did not report the method of randomisation. 

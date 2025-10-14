@@ -1,0 +1,12 @@
+Background
+Percutaneous exposure injuries from devices used for blood collection or for injections expose healthcare workers to the risk of blood borne infections such as hepatitis B and C, and human immunodeficiency virus (HIV). Safety features such as shields or retractable needles can possibly contribute to the prevention of these injuries and it is important to evaluate their effectiveness. 
+Objectives
+To determine the benefits and harms of safety medical devices aiming to prevent percutaneous exposure injuries caused by needles in healthcare personnel versus no intervention or alternative interventions. 
+Search methods
+We searched CENTRAL, MEDLINE, EMBASE, NHSEED, Science Citation Index Expanded, CINAHL, Nioshtic, CISdoc and PsycINFO (until 11 November 2016). 
+Selection criteria
+We included randomised controlled trials (RCT), controlled before and after studies (CBA) and interrupted time‐series (ITS) designs of the effect of safety engineered medical devices on percutaneous exposure injuries in healthcare staff. 
+Data collection and analysis
+Two of the authors independently assessed study eligibility and risk of bias and extracted data. We synthesized study results with a fixed‐effect or random‐effects model meta‐analysis where appropriate. 
+Main results
+We included six RCTs with 1838 participants, two cluster‐RCTs with 795 participants and 73,454 patient days, five CBAs with approximately 22,000 participants and eleven ITS with an average of 13.8 data points. These studies evaluated safe modifications of blood collection systems, intravenous (IV) systems, injection systems, multiple devices, sharps containers and legislation on the implementation of safe devices. We estimated the needlestick injury (NSI) rate in the control groups to be about one to five NSIs per 1000 person‐years. There were only two studies from low‐ or middle‐income countries. The risk of bias was high in 20 of 24 studies. 

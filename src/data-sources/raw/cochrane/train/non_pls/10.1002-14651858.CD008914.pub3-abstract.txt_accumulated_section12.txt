@@ -1,0 +1,12 @@
+Background
+Several studies have demonstrated that the use of pancreatic duct stents following pancreaticoduodenectomy is associated with a lower risk of pancreatic fistula. However, to date there is a lack of accord in the literature on whether the use of stents is beneficial and, if so, whether internal or external stenting, with or without replacement, is preferable. This is an update of a systematic review. 
+Objectives
+To determine the efficacy of pancreatic stents in preventing pancreatic fistula after pancreaticoduodenectomy. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, Web of Science, and four major Chinese biomedical databases up to November 2015. We also searched several major trials registers. 
+Selection criteria
+Randomized controlled trials (RCTs) comparing the use of stents (either internal or external) versus no stents, and comparing internal stents versus external stents, replacement versus no replacement following pancreaticoduodenectomy. 
+Data collection and analysis
+Two review authors independently extracted the data. The outcomes studied were incidence of pancreatic fistula, need for reoperation, length of hospital stay, overall complications, and in‐hospital mortality. We showed the results as risk ratio (RR) or mean difference (MD), with 95% confidence interval (CI). We assessed the quality of evidence using GRADE (http://www.gradeworkinggroup.org/). 
+Main results
+We included eight studies (1018 participants). The average age of the participants ranged from 56 to 68 years. Most of the studies were conducted in single centers in Japan (four studies), China (two studies), France (one study), and the USA (one study). The risk of bias was low or unclear for most domains across the studies. 

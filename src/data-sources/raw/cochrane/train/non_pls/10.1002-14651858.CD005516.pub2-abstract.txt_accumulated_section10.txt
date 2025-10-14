@@ -1,0 +1,10 @@
+Background
+Acid etching of tooth surfaces to promote the bonding of orthodontic attachments to the enamel has been a routine procedure in orthodontic treatment since the 1960s. Various types of orthodontic etchants and etching techniques have been introduced in the past five decades. Although a large amount of information on this topic has been published, there is a significant lack of consensus regarding the clinical effects of different dental etchants and etching techniques. 
+Objectives
+To compare the effects of different dental etchants and different etching techniques for the bonding of fixed orthodontic appliances. 
+Search methods
+We searched the following electronic databases: the Cochrane Oral Health Group's Trials Register (to 8 March 2013), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2013, Issue 2), MEDLINE via OVID (to 8 March 2013), EMBASE via OVID (to 8 March 2013), Chinese Biomedical Literature Database (to 12 March 2011), the WHO International Clinical Trials Registry Platform (to 8 March 2013) and the National Institutes of Health Clinical Trials Registry (to 8 March 2013). A handsearching group updated the handsearching of journals, carried out as part of the Cochrane Worldwide Handsearching Programme, to the most current issue. There were no restrictions regarding language or date of publication. 
+Selection criteria
+Randomized controlled trials (RCTs) comparing different etching materials, or different etching techniques using the same etchants, for the bonding of fixed orthodontic brackets to incisors, canines and premolars in children and adults. 
+Data collection and analysis
+Two review authors extracted data and assessed the risk of bias of included studies independently and in duplicate. We resolved disagreements by discussion among the review team. We contacted the corresponding authors of the included studies to obtain additional information, if necessary. 

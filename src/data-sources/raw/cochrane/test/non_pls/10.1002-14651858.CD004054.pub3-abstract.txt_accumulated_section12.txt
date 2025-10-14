@@ -1,0 +1,12 @@
+Background
+Psychological and educational interventions have been used as an adjunct to conventional therapy for children with atopic eczema to enhance the effectiveness of topical therapy. This is an update of the original Cochrane review. 
+Objectives
+To assess the effect of psychological and educational interventions for atopic eczema in children. 
+Search methods
+We updated our searches of the following databases to January 2013: the Cochrane Skin Group Specialised Register, CENTRAL in The Cochrane Library (2012, Issue 12), MEDLINE (from 1946), EMBASE (from 1974), OpenGrey, and PsycINFO (from 1806). We also searched six trials registers and checked the reference lists of included and excluded studies for further references to relevant randomised controlled trials (RCTs). 
+Selection criteria
+Randomised controlled trials of psychological or educational interventions, or both, used to assist children and their carers in managing atopic eczema. 
+Data collection and analysis
+Three authors independently applied eligibility criteria, assessed trial quality, and extracted data. A lack of comparable data prevented data synthesis, and we were unable to conduct meta‐analysis because there were insufficient data. 
+Main results
+We included 10 RCTs, of which 5 were new to this update; all interventions were adjuncts to conventional therapy and were delivered in primary‐ and secondary‐care settings. There were 2003 participants in the 9 educational interventions and 44 participants in the 1 psychological study. Some included studies had methodological weaknesses; for example, we judged four studies to have high risk of detection bias, attrition bias, or other bias. Our primary outcomes were participant‐rated global assessment, reduction in disease severity (reported as objective SCORAD (SCORing Atopic Dermatitis)), and improvement in sleep and quality of life. No study reported participant‐rated global assessment or improvement of sleep. 

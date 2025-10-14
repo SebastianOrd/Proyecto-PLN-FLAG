@@ -1,0 +1,15 @@
+Adult patient access to electronic health records
+Do patients manage their healthcare better if they can access their electronic health records?                          
+What are electronic health records? 
+Healthcare providers maintain health‐related information about a patient in an electronic health record, which is held in a digital form and is accessed by a computer. Healthcare professionals use these records to access all health‐related information for a patient's care, whenever and wherever they need it. Information may include a person's medical history, medicines, allergies, test results, and immunisation history. 
+Some healthcare providers let patients see their own electronic health records, usually by giving them web‐based access. Patients may also be offered other web‐based services, such as health‐related reminders, secure messaging, and general educational health information.  
+Why we did this Cochrane Review 
+Access to electronic health records might encourage patients to talk with a healthcare professional about their health and potential treatments, and might help them to take part in decision‐making. We wanted to find out whether access to electronic health records benefits patients or causes any potentially unwanted effects.  
+What did we do? 
+We searched for studies that looked at patients’ access to electronic health records. We also looked for studies where access came with extra services. We were interested in changes in: 
+1. how much patients knew, and understood, about their healthcare;2. whether patients felt more in control of their care (empowerment);3. taking medicines, or keeping up with monitoring (prevention) programmes;4. patients' satisfaction with their care;5. how patients rated their well‐being (quality of life);6. patients' health;7. patients' levels of anxiety, worry, or depression;8. how often patients used healthcare services (numbers of phone calls or visits);9. communication between patients and their healthcare providers; and10. whether patients experienced any unwanted effects. 
+Search date: we included evidence published from 2000 up to April 2020. 
+What we found 
+We found 10 relevant studies, published between 2000 and 2016, that enrolled from 78 to 4500 adults. These studies took place in the USA (seven studies), Canada (two), and Japan (one). Five studies were conducted in doctors' offices and five in hospital clinics. People taking part in the studies were followed up for three months to two years. Two studies were funded in part by pharmaceutical companies. 
+The studies focused on patients with type 2 diabetes (five studies), asthma (one study), glaucoma (one study), congestive heart failure (one study), and hypertension (one study); one study focused on patients who visited their doctor for any reason.  
+Studies compared usual care plus access to electronic health records against usual care alone. In nine studies, access to electronic health records came with extra services. 

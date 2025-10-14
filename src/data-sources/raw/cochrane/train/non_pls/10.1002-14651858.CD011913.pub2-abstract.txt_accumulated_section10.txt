@@ -1,0 +1,10 @@
+Background
+The spacing of pregnancies has a positive impact on maternal and newborn health. The progestin contraceptive implant, which is a long‐acting, reversible method of contraception, has a well‐established low failure rate that is compatible with tubal sterilization. The standard provision of contraceptive methods on the first postpartum visit may put some women at risk of unintended pregnancy, either due to loss to follow‐up or having sexual intercourse prior to receiving contraception. Therefore, the immediate administration of contraception prior to discharge from the hospital that has high efficacy may improve contraceptive prevalence and prevent unintended pregnancy. 
+Objectives
+To compare the initiation rate, effectiveness, and side effects of immediate versus delayed postpartum insertion of implant for contraception. 
+Search methods
+We searched for eligible studies up to 28 October 2016 in the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, and POPLINE. We examined review articles and contacted investigators. We also checked registers of ongoing clinical trials, citation lists of included studies, key textbooks, grey literature, and previous systematic reviews for potentially relevant studies. 
+Selection criteria
+We sought randomised controlled trials (RCTs) that compared immediate postpartum versus delayed insertion of contraceptive implant for contraception. 
+Data collection and analysis
+Two review authors (JS, YW) independently screened titles and abstracts of the search results, and assessed the full‐text articles of potentially relevant studies for inclusion. They extracted data from the included studies, assessed risk of bias, compared results, and resolved disagreements by consulting a third review author (PL or SK). We contacted investigators for additional data, where possible. We computed the Mantel‐Haenszel risk ratio (RR) with 95% confidence interval (CI) for binary outcomes and the mean difference (MD) with 95% CI for continuous variables. 

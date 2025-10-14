@@ -1,0 +1,12 @@
+Background
+Hepatocellular carcinoma, also called malignant hepatoma, is a primary malignancy of the liver. Despite regular surveillance conducted in high‐risk populations, most people with hepatocellular carcinoma are diagnosed at an advanced stage. Consequently, only a minority of people with the disease are suitable for surgical resection when diagnosed. 
+Objectives
+To compare the beneficial and harmful effects of transcatheter arterial chemoembolisation (TACE) followed by three‐dimensional conformal radiotherapy (3‐DCRT) versus TACE alone in adults with primary hepatocellular carcinoma, considered unsuitable for surgical resection. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, CENTRAL, MEDLINE, Embase, LILACS, Science Citation Index Expanded, and Conference Proceedings Citation Index – Science up to 31 May 2018. We checked reference lists for all included studies and related reviews for further relevant articles. 
+Selection criteria
+We included all randomised clinical trials comparing TACE followed by 3‐DCRT versus TACE alone in people with primary hepatocellular carcinoma. 
+Data collection and analysis
+We used standard methodological procedures as suggested by Cochrane. We presented the results of the fixed‐effect model in the absence of statistical heterogeneity. Otherwise, we reported the results from the random‐effects model meta‐analysis. We assessed risk of bias of the included trials using bias risk domains and presented the review results incorporating the methodological quality of the trials using GRADE. Our main conclusions were based on the analysis up to three years' follow‐up. 
+Main results
+We identified eight randomised clinical trials (632 participants) that fulfilled our inclusion criteria. All eight trials were at high risk of bias, and we rated the evidence as low to very low certainty. The mean age ranged from 16 years to 78 years. The proportion of men ranged from 60% to 75% and the proportion of people with stage III primary hepatocellular carcinoma ranged from 22% to 85%. The median follow‐up duration was 12 months (2 months to 38 months). 

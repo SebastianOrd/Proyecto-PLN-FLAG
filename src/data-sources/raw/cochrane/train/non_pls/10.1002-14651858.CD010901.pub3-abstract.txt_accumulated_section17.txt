@@ -1,0 +1,17 @@
+Background
+This review represents one from a family of three reviews focusing on interventions for drug‐using offenders. Many people under the care of the criminal justice system have co‐occurring mental health problems and drug misuse problems; it is important to identify the most effective treatments for this vulnerable population. 
+Objectives
+To assess the effectiveness of interventions for drug‐using offenders with co‐occurring mental health problems in reducing criminal activity or drug use, or both. 
+This review addresses the following questions.
+• Does any treatment for drug‐using offenders with co‐occurring mental health problems reduce drug use? 
+• Does any treatment for drug‐using offenders with co‐occurring mental health problems reduce criminal activity? 
+• Does the treatment setting (court, community, prison/secure establishment) affect intervention outcome(s)? 
+• Does the type of treatment affect treatment outcome(s)?
+Search methods
+We searched 12 databases up to February 2019 and checked the reference lists of included studies. We contacted experts in the field for further information. 
+Selection criteria
+We included randomised controlled trials designed to prevent relapse of drug use and/or criminal activity among drug‐using offenders with co‐occurring mental health problems. 
+Data collection and analysis
+We used standard methodological procedures as expected by Cochrane .
+Main results
+We included 13 studies with a total of 2606 participants. Interventions were delivered in prison (eight studies; 61%), in court (two studies; 15%), in the community (two studies; 15%), or at a medium secure hospital (one study; 8%). Main sources of bias were unclear risk of selection bias and high risk of detection bias. 

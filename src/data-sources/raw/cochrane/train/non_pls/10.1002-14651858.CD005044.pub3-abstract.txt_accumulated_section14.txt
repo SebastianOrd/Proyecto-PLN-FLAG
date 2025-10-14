@@ -1,0 +1,14 @@
+Background
+Muscle cramps can occur anywhere and for many reasons. Quinine has been used to treat cramps of all causes. However, controversy continues about its efficacy and safety. This review was first published in 2010 and searches were updated in 2014. 
+Objectives
+To assess the efficacy and safety of quinine‐based agents in treating muscle cramps.
+Search methods
+On 27 October 2014 we searched the Cochrane Neuromuscular Disease Group Specialized Register, CENTRAL, MEDLINE and EMBASE. We searched reference lists of articles up to 2014. We also searched for ongoing trials in November 2014. 
+Selection criteria
+Randomised controlled trials of people of all ages with muscle cramps in any location and of any cause, treated with quinine or its derivatives. 
+Data collection and analysis
+Three review authors independently selected trials for inclusion, assessed risk of bias and extracted data. We contacted study authors for additional information. For comparisons including more than one trial, we assessed the quality of the evidence using Grading of Recommendations Assessment, Development and Evaluation (GRADE). 
+Main results
+We identified 23 trials with a total of 1586 participants. Fifty‐eight per cent of these participants were from five unpublished studies. Quinine was compared to placebo (20 trials, n = 1140), vitamin E (four trials, n = 543), a quinine‐vitamin E combination (three trials, n = 510), a quinine‐theophylline combination (one trial, n = 77), and xylocaine injections into the gastrocnemius muscle (one trial, n = 24). The most commonly used quinine dosage was 300 mg/day (range 200 to 500 mg). We found no new trials for inclusion when searches were updated in 2014. 
+The risk of bias in the trials varied considerably. All 23 trials claimed to be randomised, but only a minority described randomisation and allocation concealment adequately. 
+Compared to placebo, quinine significantly reduced cramp number over two weeks by 28%, cramp intensity by 10%, and cramp days by 20%. Cramp duration was not significantly affected. 

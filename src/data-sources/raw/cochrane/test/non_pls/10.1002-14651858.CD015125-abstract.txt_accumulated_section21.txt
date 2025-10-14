@@ -1,0 +1,21 @@
+Background
+Inhaled corticosteroids are well established for the long‐term treatment of inflammatory respiratory diseases such as asthma or chronic obstructive pulmonary disease. They have been investigated for the treatment of coronavirus disease 2019 (COVID‐19). The anti‐inflammatory action of inhaled corticosteroids might have the potential to reduce the risk of severe illness resulting from hyperinflammation in COVID‐19. 
+Objectives
+To assess whether inhaled corticosteroids are effective and safe in the treatment of COVID‐19; and to maintain the currency of the evidence, using a living systematic review approach. 
+Search methods
+We searched the Cochrane COVID‐19 Study Register (which includes CENTRAL, PubMed, Embase, ClinicalTrials.gov, WHO ICTRP, and medRxiv), Web of Science (Science Citation Index, Emerging Citation Index), and the WHO COVID‐19 Global literature on coronavirus disease to identify completed and ongoing studies to 7 October 2021. 
+Selection criteria
+We included randomised controlled trials (RCTs) evaluating inhaled corticosteroids for COVID‐19, irrespective of disease severity, age, sex, or ethnicity. 
+We included the following interventions: any type or dose of inhaled corticosteroids. We included the following comparison: inhaled corticosteroids plus standard care versus standard care (with or without placebo). 
+We excluded studies examining nasal or topical steroids.
+Data collection and analysis
+We followed standard Cochrane methodology. For risk of bias assessment, we used the Cochrane RoB 2 tool. We rated the certainty of evidence using the GRADE approach for the outcomes of mortality, admission to hospital or death, symptom resolution, time to symptom resolution, serious adverse events, adverse events, and infections. 
+Main results
+Inhaled corticosteroids plus standard care versus standard care (with/without placebo)  
+People with a confirmed diagnosis of moderate‐to‐severe COVID‐19 
+We found no studies that included people with a confirmed diagnosis of moderate‐to‐severe COVID‐19. 
+People with a confirmed diagnosis of asymptomatic SARS‐CoV‐2 infection or mild COVID‐19 
+We included three RCTs allocating 3607 participants, of whom 2490 had confirmed mild COVID‐19. We analysed a subset of the total number of participants recruited to the studies (2171, 52% female) as some trials had a platform design where not all participants were allocated to treatment groups simultaneously. The included studies were community‐based, recruiting people who were able to use inhaler devices to deliver steroids and relied on remote assessment and self‐reporting of outcomes. Most people were older than 50 years and had co‐morbidities such as hypertension, lung disease, or diabetes. The studies were conducted in high‐income countries prior to wide‐scale vaccination programmes. A total of 1057 participants were analysed in the inhaled corticosteroid arm (budesonide: 860 participants; ciclesonide: 197 participants), and 1075 participants in the control arm. No studies included people with asymptomatic SARS‐CoV‐2 infection. 
+With respect to the following outcomes, inhaled corticosteroids compared to standard care: 
+– may result in little to no difference in all‐cause mortality (at up to day 30) (risk ratio (RR) 0.61, 95% confidence interval (CI) 0.22 to 1.67; 2132 participants; low‐certainty evidence). In absolute terms, this means that for every nine deaths per 1000 people not receiving inhaled corticosteroids, there were six deaths per 1000 people who did receive the intervention (95% CI 2 to 16 per 1000 people); 
+– probably reduces admission to hospital or death (at up to 30 days) (RR 0.72, 95% CI 0.51 to 0.99; 2025 participants; moderate‐certainty evidence); 

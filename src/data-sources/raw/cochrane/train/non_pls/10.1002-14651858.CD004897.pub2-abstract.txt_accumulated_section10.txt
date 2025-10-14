@@ -1,0 +1,10 @@
+Background
+Poisoning with organophosphorus pesticides (OPs) is an important cause of morbidity and mortality worldwide, particularly in developing countries. The case‐fatality for intentional self‐poisoning is around 10 to 20% even when the standard antidotes (atropine, oximes and benzodiazepines) are used. Alternative treatments have been trialled in an attempt to improve outcomes from acute OP poisoning, one of which is blood alkalinisation. Animal and preliminary human research has suggested benefit from blood alkalinisation with sodium bicarbonate (NaHCO3) as a treatment for acute OP poisoning. 
+Objectives
+To determine the efficacy of alkalinisation, in particular NaHCO3, for the treatment of acute OP poisoning. 
+Search methods
+We searched Cochrane Central Register of Controlled Trials (The Cochrane Library 2010, issue 4), MEDLINE, EMBASE, ISI Web of Science: Science Citation Index Expanded (SCI‐EXPANDED) and ISI Web of Science: Conference Proceedings Citation Index‐ Science (CPCI‐S), LILACS, Current Awareness in Clinical Toxicology and The Internet using Google. We also carried out a citation search and manually reviewed the bibliographies of identified articles. The searches were last conducted in October 2010. 
+Selection criteria
+Randomised controlled trials of symptomatic patients following acute OP poisoning treated with alkalinisation. The quality of studies and eligibility for inclusion was assessed using criteria of the Cochrane Collaboration risk of bias tool. 
+Data collection and analysis
+Studies were identified and both authors independently extracted data which were recorded on a pre‐designed form. Study design, including the method of randomisation, participant characteristics, type of intervention and outcomes were recorded. The Relative Risk (RR) for death and Weighted Mean Difference (WMD) for the total dose of atropine were determined. 

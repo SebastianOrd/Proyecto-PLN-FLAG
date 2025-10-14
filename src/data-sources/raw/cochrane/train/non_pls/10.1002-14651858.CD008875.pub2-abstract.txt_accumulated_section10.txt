@@ -1,0 +1,10 @@
+Background
+Nutritional support is an essential component of critical care. Malnutrition has been associated with poor outcomes among patients in intensive care units (ICUs). Evidence suggests that in patients with a functional gut, nutrition should be administered through the enteral route. One of the main concerns regarding use of the enteral route is the reduction in gastric motility that is often responsible for limited caloric intake. This increases the risk of aspiration pneumonia as well. Post‐pyloric feeding, in which the feed is delivered directly into the duodenum or the jejunum, could solve these issues and provide additional benefits over routine gastric administration of the feed. 
+Objectives
+To evaluate the effectiveness and safety of post‐pyloric feeding versus gastric feeding for critically ill adults who require enteral tube feeding. 
+Search methods
+We searched the following databases: Cochrane Central Register of Controlled Trials (CENTRAL;2013 Issue 10), MEDLINE (Ovid) (1950 to October 2013), EMBASE (Ovid) (1980 to October 2013) and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) via EBSCO host (1982 to October 2013). We reran the search on 4 February 2015 and will deal with the one study of interest when we update the review. 
+Selection criteria
+Randomized or quasi‐randomized controlled trials comparing post‐pyloric versus gastric tube feeding in critically ill adults. 
+Data collection and analysis
+We extracted data using the standard methods of the Cochrane Anaesthesia, Critical and Emergency Care Group and separately evaluated trial quality and data extraction as performed by each review author. We contacted trials authors to request missing data. 

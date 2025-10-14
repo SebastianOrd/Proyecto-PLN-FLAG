@@ -1,0 +1,13 @@
+Background
+Supplemental oxygen is frequently administered to patients with acute respiratory distress syndrome (ARDS), including ARDS secondary to viral illness such as coronavirus disease 19 (COVID‐19). An up‐to‐date understanding of how best to target this therapy (e.g. arterial partial pressure of oxygen (PaO2) or peripheral oxygen saturation (SpO2) aim) in these patients is urgently required. 
+Objectives
+To address how oxygen therapy should be targeted in adults with ARDS (particularly ARDS secondary to COVID‐19 or other respiratory viruses) and requiring mechanical ventilation in an intensive care unit, and the impact oxygen therapy has on mortality, days ventilated, days of catecholamine use, requirement for renal replacement therapy, and quality of life. 
+Search methods
+We searched the Cochrane COVID‐19 Study Register, CENTRAL, MEDLINE, and Embase from inception to 15 May 2020 for ongoing or completed randomized controlled trials (RCTs). 
+Selection criteria
+Two review authors independently assessed all records in accordance with standard Cochrane methodology for study selection. 
+We included RCTs comparing supplemental oxygen administration (i.e. different target PaO2 or SpO2 ranges) in adults with ARDS and receiving mechanical ventilation in an intensive care setting. We excluded studies exploring oxygen administration in patients with different underlying diagnoses or those receiving non‐invasive ventilation, high‐flow nasal oxygen, or oxygen via facemask. 
+Data collection and analysis
+One review author performed data extraction, which a second review author checked. We assessed risk of bias in included studies using the Cochrane 'Risk of bias' tool. We used the GRADE approach to judge the certainty of the evidence for the following outcomes; mortality at longest follow‐up, days ventilated, days of catecholamine use, and requirement for renal replacement therapy. 
+Main results
+We identified one completed RCT evaluating oxygen targets in patients with ARDS receiving mechanical ventilation in an intensive care setting. The study randomized 205 mechanically ventilated patients with ARDS to either conservative (PaO2 55 to 70 mmHg, or SpO2 88% to 92%) or liberal (PaO2 90 to 105 mmHg, or SpO2≥ 96%) oxygen therapy for seven days. 

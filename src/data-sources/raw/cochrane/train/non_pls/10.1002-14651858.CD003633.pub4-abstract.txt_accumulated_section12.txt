@@ -1,0 +1,12 @@
+Background
+This is an update of a Cochrane Review first published in 2005. Cervical dystonia is the most common form of focal dystonia, and is a highly disabling movement disorder, characterised by involuntary, usually painful, head posturing. Currently, botulinum toxin type A (BtA) is considered the first line therapy for this condition. 
+Objectives
+To compare the efficacy, safety, and tolerability of BtA versus placebo, in people with cervical dystonia. 
+Search methods
+We searched Cochrane Movement Disorders' Trials Register, CENTRAL, MEDLINE, Embase, reference lists of articles, and conference proceedings in July 2020. All elements of the search, with no language restrictions, were last run in July 2020. 
+Selection criteria
+Double‐blind, parallel, randomised, placebo‐controlled trials (RCTs) of BtA versus placebo in adults with cervical dystonia. 
+Data collection and analysis
+Two review authors independently assessed records, selected included studies, extracted data using a paper pro forma, and evaluated the risk of bias. We resolved disagreements by consensus or by consulting a third review author. We performed meta‐analyses using a random‐effects model, for the comparison of BtA versus placebo, to estimate pooled effects and corresponding 95% confidence intervals (95% CI). We performed preplanned subgroup analyses according to BtA dose used, the BtA formulation used, and the use (or not) of guidance for BtA injections. The primary efficacy outcome was improvement in cervical dystonia‐specific impairment. The primary safety outcome was the proportion of participants with any adverse event. 
+Main results
+We included nine RCTs, with moderate, overall risk of bias, that included 1144 participants with cervical dystonia. Seven studies excluded participants with poorer responses to BtA treatment, therefore, including an enriched population with a higher probability of benefiting from this therapy. Only one trial was independently funded. All RCTs evaluated the effect of a single BtA treatment session, using doses from 150 U to 500 U of onabotulinumtoxinA (Botox), 120 U to 240 U of incobotulinumtoxinA (Xeomin), and 250 U to 1000 U of abobotulinumtoxinA (Dysport). 

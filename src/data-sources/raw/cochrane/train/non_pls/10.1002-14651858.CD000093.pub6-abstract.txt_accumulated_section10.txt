@@ -1,0 +1,10 @@
+Background
+Hip fractures are a major healthcare problem, presenting a substantial challenge and burden to patients, healthcare systems and society. The increased proportion of older adults in the world population means that the absolute number of hip fractures is rising rapidly across the globe. Most hip fractures are treated surgically. This Cochrane Review evaluates evidence for implants used to treat extracapsular hip fractures. 
+Objectives
+To assess the relative effects of cephalomedullary nails versus extramedullary fixation implants for treating extracapsular hip fractures in older adults. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, Web of Science, the Cochrane Database of Systematic Reviews, Epistemonikos, ProQuest Dissertations & Theses, and the National Technical Information Service in July 2020. We also searched clinical trials databases, conference proceedings, reference lists of retrieved articles, and conducted backward‐citation searches. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs comparing cephalomedullary nails with extramedullary implants for treating fragility extracapsular hip fractures in older adults. We excluded studies in which all or most fractures were caused by a high‐energy trauma or specific pathologies other than osteoporosis. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We collected data for seven critical outcomes: performance of activities of daily living (ADL), delirium, functional status, health‐related quality of life, mobility, mortality (reported within four months of surgery as 'early mortality'; and reported from four months onwards, with priority given to data at 12 months, as '12 months since surgery'), and unplanned return to theatre for treating a complication resulting directly or indirectly from the primary procedure (such as deep infection or non‐union). We assessed the certainty of the evidence for these outcomes using GRADE.  

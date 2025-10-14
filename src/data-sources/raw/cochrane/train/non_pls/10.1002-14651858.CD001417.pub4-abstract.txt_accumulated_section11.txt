@@ -1,0 +1,11 @@
+Background
+The majority of people with epilepsy have a good prognosis and their seizures are controlled by a single antiepileptic drug. However, up to 20% of patients from population‐based studies, and up to 30% from clinical series (not population‐based), develop drug‐resistant epilepsy, especially those with focal‐onset seizures. In this review, we summarise the current evidence regarding topiramate, an antiepileptic drug first marketed in 1996, when used as an add‐on treatment for drug‐resistant focal epilepsy. 
+This is an update of a Cochrane Review first published in 1999, and last updated in 2014. 
+Objectives
+To evaluate the efficacy and tolerability of topiramate when used as an add‐on treatment for people with drug‐resistant focal epilepsy. 
+Search methods
+For the latest update of this review we searched the following databases on 2 July 2018: Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE (Ovid, 1946‐ ); ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP). We imposed no language restrictions. We also contacted the manufacturers of topiramate and researchers in the field to identify any ongoing or unpublished studies. 
+Selection criteria
+Randomised, placebo‐controlled add‐on trials of topiramate, recruiting people with drug‐resistant focal epilepsy. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion and extracted the relevant data. We assessed the following outcomes: (1) 50% or greater reduction in seizure frequency; (2) seizure freedom; (3) treatment withdrawal (any reason); (4) adverse effects. Primary analyses were intention‐to‐treat (ITT), and summary risk ratios (RRs) with 95% confidence intervals (95% CIs) are presented. We evaluated dose‐response in regression models. We carried out a 'Risk of bias' assessment for each included study using the Cochrane 'Risk of bias' tool and assessed the overall certainty of evidence using the GRADE approach. 

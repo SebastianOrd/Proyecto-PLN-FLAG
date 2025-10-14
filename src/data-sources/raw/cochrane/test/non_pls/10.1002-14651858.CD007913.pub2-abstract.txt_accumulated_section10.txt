@@ -1,0 +1,10 @@
+Background
+High‐dose or dose‐intensive cytotoxic chemotherapy often causes myelosuppression and severe neutropenia among cancer patients. Severe neutropenia accompanied by fever, named febrile neutropenia (FN), is the most serious manifestation of neutropenia usually requiring hospitalization and intravenous antibiotics. FN and neutropenia can lead to chemotherapy treatment delays or dose reductions, which potentially compromises the effectiveness of cancer treatment and prospects for a cure. Granulocyte‐macrophage (GM) and granulocyte colony‐stimulating factors (G‐CSFs) are administered during chemotherapy in order to prevent or reduce the incidence or the duration of FN and neutropenia. 
+Objectives
+To assess the effect of prophylactic colony‐stimulating factors (CSFs) in reducing the incidence and duration of FN, and all‐cause and infection‐related mortality during chemotherapy in patients with breast cancer. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, HEALTHSTAR, International Health Technology Assessment, SOMED, AMED and BIOSIS up to 8 August 2011. We also searched three Chinese databases (VIP, CNKI, CBM), the metaRegister of Controlled Trials, ClinicalTrials.gov, the World Health Organization's International Clinical Trials Registry Platform (WHO ICTRP) and OpenGrey.eu up to August 2011. 
+Selection criteria
+Randomized controlled trials (RCTs) comparing CSFs (any dose) with placebo or no treatment in patients with breast cancer at any stage, at risk of developing FN while undergoing any type of chemotherapy. 
+Data collection and analysis
+We used pooled risk ratios (RR) with 95% confidence intervals (CIs) for binary outcomes. At least two review authors independently extracted data and assessed the risk of bias of the included studies. Trial authors were contacted for further details when information was unclear. 

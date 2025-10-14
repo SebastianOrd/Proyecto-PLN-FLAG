@@ -1,0 +1,10 @@
+Background
+Whether steroid contraceptives are appropriate for women with homozygous sickle cell (SS) disease remains unresolved. Historically, women with sickle cell disease have experienced difficult pregnancies, characterized by high rates of maternal mortality and morbidity and poor infant outcomes. Unresolved questions about steroidal contraceptives in women with sickle cell disease include whether using them may promote blood clots. 
+Objectives
+To assess the safety of steroid hormones in this setting, we retrieved and analyzed all randomized controlled trials that examined steroid hormones for contraception in women with SS disease. 
+Search methods
+In October 2011, we searched the computerized databases CENTRAL, MEDLINE and POPLINE for randomized controlled trials of steroid hormone use for contraception in women with SS disease. We added searches of ClinicalTrials.gov and ICTRP for recent trials. For the initial review, we also searched EMBASE and examined the reference list of each trial as well as that of review articles. 
+Selection criteria
+We included any randomized controlled trial in any language that compared steroid hormones for contraception with another contraceptive or placebo. Frequency or intensity of sickle pain crises must have been reported as an outcome. 
+Data collection and analysis
+We assessed for inclusion all titles and abstracts found. We evaluated the methodological quality of the trial found for potential biases by qualitatively assessing the study design, randomization method, allocation concealment, blinding, premature discontinuation rates, and loss to follow‐up rates. We entered trial results in RevMan and reported Peto odds ratios with 95% confidence intervals for dichotomous outcomes, such as occurrence of sickle pain crises. 

@@ -1,0 +1,10 @@
+Background
+Cardiovascular disease (CVD) remains an important cause of mortality and morbidity, and high levels of blood cholesterol are thought to be the major modifiable risk factors for CVD. The use of statins is the preferred treatment strategy for the prevention of CVD, but some people at high‐risk for CVD are intolerant to statin therapy or unable to achieve their treatment goals with the maximal recommended doses of statin. Ezetimibe is a selective cholesterol absorption inhibitor, whether it has a positive effect on CVD events remains uncertain. Results from clinical studies are inconsistent and a thorough evaluation of its efficacy and safety for the prevention of CVD and mortality is necessary. 
+Objectives
+To assess the efficacy and safety of ezetimibe for the prevention of CVD and all‐cause mortality. 
+Search methods
+We searched the CENTRAL, MEDLINE, Embase and Web of Science on 27 June 2018, and two clinical trial registry platforms on 11 July 2018. We checked reference lists from primary studies and review articles for additional studies. No language restrictions were applied. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared ezetimibe versus placebo or ezetimibe plus other lipid‐modifying drugs versus other lipid‐modifying drugs alone in adults, with or without CVD, and which had a follow‐up of at least 12 months. 
+Data collection and analysis
+Two review authors independently selected studies for inclusion, extracted data, assessed risk of bias and contacted trialists to obtain missing data. We performed statistical analyses according to the Cochrane Handbook for Systematic Reviews of Interventions and used the GRADE to assess the quality of evidence. 

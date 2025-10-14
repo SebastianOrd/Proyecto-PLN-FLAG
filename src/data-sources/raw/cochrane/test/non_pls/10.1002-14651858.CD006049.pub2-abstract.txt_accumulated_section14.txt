@@ -1,0 +1,14 @@
+Background
+Imbalance of gamma aminobutyric acid (GABA) and related modulators has been implicated as an important factor in the pathogenesis of amyotrophic lateral sclerosis (ALS), which is also known as motor neuron disease (MND). In this context, the role and mechanism of action of gabapentin and baclofen have been extensively investigated, although with conflicting results. This is the first systematic review to assess clinical trials of GABA modulators for the treatment of ALS. 
+Objectives
+To examine the efficacy of gabapentin, baclofen, or other GABA modulators in delaying the progression of ALS, and to evaluate adverse effects of these interventions. 
+Search methods
+On 16 August 2016, we searched the Cochrane Neuromuscular Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL Plus, AMED, and LILACS. In addition, we checked the bibliographies of the trials found in order to identify any other trials, and contacted trial authors to identify relevant unpublished results or additional clinical trials. On 30 August 2016, we searched two clinical trials registries. 
+Selection criteria
+Types of studies: double‐blind randomized controlled trials (RCTs) or quasi‐RCTs
+Types of participants: adults with a diagnosis of probable or definite ALS
+Types of interventions: gabapentin, baclofen, or other GABA modulators compared with placebo, no treatment, or each other 
+Primary outcome: survival at one year from study enrollment
+Secondary outcomes: individual rate of decline of maximum voluntary isometric contraction (MVIC), expressed as arm megascore; rate of decline of per cent predicted forced vital capacity (FVC); rate of decline of ALS Functional Rating Scale (ALSFRS); health‐related quality of life; survival evaluated by pooling hazards; and adverse events 
+Data collection and analysis
+At least two review authors independently checked titles and abstracts identified by the searches. The review authors obtained and independently analyzed original individual participant data from each included study; additional review authors and the Cochrane Neuromuscular Managing Editor checked the outcome data. Two authors independently assessed the risk of bias in included studies. 

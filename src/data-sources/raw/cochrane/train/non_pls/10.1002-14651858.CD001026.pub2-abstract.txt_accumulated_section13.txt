@@ -1,0 +1,13 @@
+Background
+Anxiety frequently coexists with depression and adding benzodiazepines to antidepressant treatment is common practice to treat people with major depression. However, more evidence is needed to determine whether this combined treatment is more effective and not any more harmful than antidepressants alone. It has been suggested that benzodiazepines may lose their efficacy with long‐term administration and their chronic use carries risks of dependence. 
+This is the 2019 updated version of a Cochrane Review first published in 2001, and previously updated in 2005. This update follows a new protocol to conform with the most recent Cochrane methodology guidelines, with the inclusion of 'Summary of findings' tables and GRADE evaluations for quality of evidence. 
+Objectives
+To assess the effects of combining antidepressants with benzodiazepines compared with antidepressants alone for major depression in adults. 
+Search methods
+We searched the Cochrane Common Mental Disorders Group's Controlled Trials Register (CCMDCTR), the Cochrane Central Register of Controlled Trials, MEDLINE, Embase and PsycINFO to May 2019. We searched the World Health Organization (WHO) trials portal and ClinicalTrials.gov to identify any additional unpublished or ongoing studies. 
+Selection criteria
+All randomised controlled trials that compared combined antidepressant plus benzodiazepine treatment with antidepressants alone for adults with major depression. We excluded studies administering psychosocial therapies targeted at depression and anxiety disorders concurrently. Antidepressants had to be prescribed, on average, at or above the minimum effective dose as presented by Hansen 2009 or according to the North American or European regulations. The combination therapy had to last at least four weeks. 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias in the included studies, according to the criteria of the Cochrane Handbook for Systematic Reviews of Interventions. We entered data into Review Manager 5. We used intention‐to‐treat data. We combined continuous outcome variables of depressive and anxiety severity using standardised mean differences (SMD) with 95% confidence intervals (CIs). For dichotomous efficacy outcomes, we calculated the risk ratio (RR) with 95% CI. Regarding the primary outcome of acceptability, only overall dropout rates were available for all studies. 
+Main results
+We identified 10 studies published between 1978 to 2002 involving 731 participants. Six studies used tricyclic antidepressants (TCAs), two studies used selective serotonin reuptake inhibitors (SSRIs), one study used another heterocyclic antidepressant and one study used TCA or heterocyclic antidepressant. 

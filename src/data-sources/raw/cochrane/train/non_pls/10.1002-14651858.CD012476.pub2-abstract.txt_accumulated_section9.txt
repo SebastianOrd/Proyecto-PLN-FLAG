@@ -1,0 +1,9 @@
+Background
+Physical restraints, such as bedrails, belts in chairs or beds, and fixed tables, are commonly used for older people in general hospital settings. Reasons given for using physical restraints are to prevent falls and fall‐related injuries, to control challenging behavior (such as agitation or wandering), and to ensure the delivery of medical treatments. Clear evidence of their effectiveness is lacking, and potential harms are recognised, including injuries associated with the use of physical restraints and a negative impact on people's well‐being. There are widespread recommendations that their use should be reduced or eliminated. 
+Objectives
+To assess the best evidence for the effects and safety of interventions aimed at preventing and reducing the use of physical restraint of older people in general hospital settings. 
+To describe the content, components and processes of these interventions.
+Search methods
+We searched the Cochrane Dementia and Cognitive Improvement Group's register, MEDLINE (Ovid SP), Embase (Ovid SP), PsycINFO (Ovid SP), CINAHL (EBSCOhost), Web of Science Core Collection (Clarivate), LILACS (BIREME), ClinicalTrials.gov and the World Health Organization's meta‐register the International Clinical Trials Registry Portal on 20 April 2022. 
+Selection criteria
+We included randomised controlled trials and controlled clinical trials that investigated the effects of interventions that aimed to prevent or reduce the use of physical restraints in general hospital settings. Eligible settings were acute care and rehabilitation wards. We excluded emergency departments, intensive care and psychiatric units, as well as the use of restrictive measures for penal reasons (e.g. prisoners in general medical wards). We included studies with a mean age of study participants of at least 65 years. Control groups received usual care or active control interventions that were ineligible for inclusion as experimental interventions. 

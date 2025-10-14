@@ -1,0 +1,10 @@
+Background
+Inhibition of prostaglandin synthesis mediates closure of the ductus arteriosus and renal side effects after indomethacin administration. Because furosemide increases prostaglandin production, it could potentially help prevent indomethacin‐related toxicity, but also decrease ductal response to indomethacin. 
+Objectives
+The primary objectives of this review were to assess (1) whether furosemide affects the incidence of failure of ductal closure after indomethacin and that of indomethacin‐related toxicity and (2) the effect of furosemide on mid‐term and long‐term outcome. The secondary objective was to determine whether the effect of furosemide on renal function and water balance depends on prior extracellular volume (assessed by blood urea nitrogen [BUN]/creatinine ratio). 
+Search methods
+Electronic databases (MEDLINE, EMBASE and the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library) and selected abstract books, without language restriction were searched. For the latest update, database searches were done on April 1, 2007 and Issue 1, 2007 of The Cochrane Library. 
+Selection criteria
+Studies with (1) random allocation to either indomethacin alone or indomethacin and furosemide and (2) analysis of either short‐term risk‐benefit ratio of furosemide, mid‐ or long‐term outcome, or the relationship between extracellular volume at study entry and changes in renal function were selected. 
+Data collection and analysis
+Studies were assessed for possible bias and for quality of assessment of ductal patency. Categorical variables were assessed using relative risk and absolute risk reduction. The effects of furosemide on renal function and fluid balance were assessed by comparing changes from baseline in the treatment group with those in controls. Subsets were determined a priori based on BUN/creatinine ratio at study entry. 

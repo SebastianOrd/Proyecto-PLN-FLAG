@@ -1,0 +1,10 @@
+Background
+This is an update of a Cochrane review previously published in 2008. Smoking increases the risk of developing atherosclerosis but also acute thrombotic events. Quitting smoking is potentially the most effective secondary prevention measure and improves prognosis after a cardiac event, but more than half of the patients continue to smoke, and improved cessation aids are urgently required. 
+Objectives
+This review aimed to examine the efficacy of psychosocial interventions for smoking cessation in patients with coronary heart disease in short‐term (6 to 12 month follow‐up) and long‐term (more than 12 months). Moderators of treatment effects (i.e. intervention types, treatment dose, methodological criteria) were used for stratification. 
+Search methods
+The Cochrane Central Register of Controlled Trials (Issue 12, 2012), MEDLINE, EMBASE, PsycINFO and PSYNDEX were searched from the start of the database to January 2013. This is an update of the initial search in 2003. Results were supplemented by cross‐checking references, and handsearches in selected journals and systematic reviews. No language restrictions were applied. 
+Selection criteria
+Randomised controlled trials (RCTs) in patients with CHD with a minimum follow‐up of 6 months. 
+Data collection and analysis
+Two authors independently assessed trial eligibility and risk of bias. Abstinence rates were computed according to an intention to treat analysis if possible, or if not according to completer analysis results only. Subgroups of specific intervention strategies were analysed separately. The impact of study quality on efficacy was studied in a moderator analysis. Risk ratios (RR) were pooled using the Mantel‐Haenszel and random‐effects model with 95% confidence intervals (CI). 

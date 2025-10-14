@@ -1,0 +1,12 @@
+Background
+Heated, humidified air has long been used by people with the common cold. The theoretical basis is that steam may help congested mucus drain better and that heat may destroy the cold virus as it does in vitro. This is an update of a review last published in 2013. 
+Objectives
+To assess the effects of inhaling heated water vapour (steam) in the treatment of the common cold by comparing symptoms, viral shedding, and nasal resistance. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (to February 2017), MEDLINE (1966 to 24 February 2017), Embase (1990 to 24 February 2017), and Current Contents (1998 to 24 February 2017). We also searched World Health Organization International Clinical Trials Registry Platform (WHO ICTRP) (8 March 2017) and ClinicalTrials.gov (8 March 2017) as well as reference lists of included studies. 
+Selection criteria
+Randomised controlled trials using heated water vapour in participants with the common cold or experimentally induced common cold were eligible for inclusion. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Three review authors independently screened titles and abstracts for inclusion of potential studies identified from the search. We recorded the selection process in sufficient detail to complete a PRISMA flow diagram. We used a data collection form for study characteristics and outcome data that was developed and used for previous versions of this review. Two review authors independently extracted data, and a third review author resolved any disagreements. We used Review Manager 5 software to analyse data. 
+Main results
+We included six trials from five publications involving a total of 387 participants. We included no new studies in this 2017 update. The 'Risk of bias' assessment suggested an unclear risk of bias in the domain of randomisation and a low risk of bias in performance, detection, attrition, and reporting. 

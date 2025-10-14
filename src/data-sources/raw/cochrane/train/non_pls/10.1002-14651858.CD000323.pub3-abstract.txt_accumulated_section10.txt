@@ -1,0 +1,10 @@
+Background
+Dysphagia (swallowing problems), which is common after stroke, is associated with increased risk of death or dependency, occurrence of pneumonia, poor quality of life, and longer hospital stay. Treatments provided to improve dysphagia are aimed at accelerating recovery of swallowing function and reducing these risks. This is an update of the review first published in 1999 and updated in 2012. 
+Objectives
+To assess the effects of swallowing therapy on death or dependency among stroke survivors with dysphagia within six months of stroke onset. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (26 June 2018), the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 6) in the Cochrane Library (searched 26 June 2018), MEDLINE (26 June 2018), Embase (26 June 2018), the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (26 June 2018), Web of Science Core Collection (26 June 2018), SpeechBITE (28 June 2016), ClinicalTrials.Gov (26 June 2018), and the World Health Organization International Clinical Trials Registry Platform (26 June 2018). We also searched Google Scholar (7 June 2018) and the reference lists of relevant trials and review articles. 
+Selection criteria
+We sought to include randomised controlled trials (RCTs) of interventions for people with dysphagia and recent stroke (within six months). 
+Data collection and analysis
+Two review authors independently applied the inclusion criteria, extracted data, assessed risk of bias, used the GRADE approach to assess the quality of evidence, and resolved disagreements through discussion with the third review author (PB). We used random‐effects models to calculate odds ratios (ORs), mean differences (MDs), and standardised mean differences (SMDs), and provided 95% confidence intervals (CIs) for each. 

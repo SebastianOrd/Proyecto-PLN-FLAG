@@ -1,0 +1,13 @@
+Background
+People with cystic fibrosis are at an increased risk of fat‐soluble vitamin deficiency, including vitamin E. Vitamin E deficiency can cause a host of conditions such as haemolytic anaemia, cerebellar ataxia and cognitive difficulties. Vitamin E supplementation is widely recommended for people with cystic fibrosis and aims to ameliorate this deficiency. This is an updated version of the review. 
+Objectives
+To determine the effects of any level of vitamin E supplementation on the frequency of vitamin E deficiency disorders in people with cystic fibrosis. 
+Search methods
+We searched the Cochrane Group's Cystic Fibrosis Trials Register and also searched international online trial registries for any ongoing clinical trials that were not identified during our register search. 
+Date of last search of the Register: 11 August 2020.Date of last search of international online trial registries: 20 July 2020. 
+Selection criteria
+Randomised controlled trials and quasi‐randomised controlled trials comparing any preparation of vitamin E supplementation to placebo or no supplement, regardless of dosage or duration. 
+Data collection and analysis
+Two authors extracted outcome data from each study (published information) and assessed the risk of bias of each included study. They assessed the quality of the evidence using GRADE. 
+Main results
+Four studies with a total of 141 participants were included in the review, two of these were in children (aged six months to 14.5 years), and two did not specify participants’ age. All studies used different formulations and doses of vitamin E for various durations of treatment (10 days to six months). Two studies compared the supplementation of fat‐soluble as well as water‐soluble formulations to no supplementation in different arms of the same study. A third study compared a water‐soluble formulation to a placebo; and in the fourth study a fat‐soluble formulation of vitamin E was assessed against placebo. 

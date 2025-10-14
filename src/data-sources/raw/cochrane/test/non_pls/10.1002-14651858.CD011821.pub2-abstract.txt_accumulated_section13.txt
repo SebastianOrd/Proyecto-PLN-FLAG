@@ -1,0 +1,13 @@
+Background
+Burn wounds cause high levels of morbidity and mortality worldwide. People with burns are particularly vulnerable to infections; over 75% of all burn deaths (after initial resuscitation) result from infection. Antiseptics are topical agents that act to prevent growth of micro‐organisms. A wide range are used with the intention of preventing infection and promoting healing of burn wounds. 
+Objectives
+To assess the effects and safety of antiseptics for the treatment of burns in any care setting. 
+Search methods
+In September 2016 we searched the Cochrane Wounds Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), Ovid MEDLINE, Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations), Ovid Embase, and EBSCO CINAHL. We also searched three clinical trials registries and references of included studies and relevant systematic reviews. There were no restrictions based on language, date of publication or study setting. 
+Selection criteria
+We included randomised controlled trials (RCTs) that enrolled people with any burn wound and assessed the use of a topical treatment with antiseptic properties. 
+Data collection and analysis
+Two review authors independently performed study selection, risk of bias assessment and data extraction. 
+Main results
+We included 56 RCTs with 5807 randomised participants. Almost all trials had poorly reported methodology, meaning that it is unclear whether they were at high risk of bias. In many cases the primary review outcomes, wound healing and infection, were not reported, or were reported incompletely. 
+Most trials enrolled people with recent burns, described as second‐degree and less than 40% of total body surface area; most participants were adults. Antiseptic agents assessed were: silver‐based, honey, Aloe Vera, iodine‐based, chlorhexidine or polyhexanide (biguanides), sodium hypochlorite, merbromin, ethacridine lactate, cerium nitrate and Arnebia euchroma. Most studies compared antiseptic with a topical antibiotic, primarily silver sulfadiazine (SSD); others compared antiseptic with a non‐antibacterial treatment or another antiseptic. Most evidence was assessed as low or very low certainty, often because of imprecision resulting from few participants, low event rates, or both, often in single studies. 

@@ -1,0 +1,12 @@
+Background
+This is an updated version of the original review, published in Issue 1, 2011, of The Cochrane Library. Acute lower abdominal pain is common, and making a diagnosis is particularly challenging in premenopausal women, as ovulation and menstruation symptoms overlap with symptoms of appendicitis, early pregnancy complications and pelvic infection. A management strategy involving early laparoscopy could potentially provide a more accurate diagnosis, earlier treatment and reduced risk of complications. 
+Objectives
+To evaluate the effectiveness and harms of laparoscopy for the management of acute lower abdominal pain in women of childbearing age. 
+Search methods
+The Menstrual Disorders and Subfertility Group (MDSG) Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), MEDLINE, EMBASE, PsycINFO, LILACS and CINAHL were searched (October 2013). The International Clinical Trials Registry Platform (ICTRP) was also searched. No new studies were included in this updated version. 
+Selection criteria
+Randomised controlled trials (RCTs) that included women of childbearing age who presented with acute lower abdominal pain, non‐specific lower abdominal pain or suspected appendicitis were included. Trials were included if they evaluated laparoscopy with open appendicectomy, or laparoscopy with a wait and see strategy. Study selection was carried out by two review authors independently. 
+Data collection and analysis
+Data from studies that met the inclusion criteria were independently extracted by two review authors and the risk of bias assessed. We used standard methodological procedures as expected by The Cochrane Collaboration. A summary of findings table was prepared using GRADE criteria. 
+Main results
+A total of 12 studies including 1020 participants were incorporated into the review. These studies had low to moderate risk of bias, mainly because allocation concealment or methods of sequence generation were not adequately reported. In addition, it was not clear whether follow‐up was similar for the treatment groups. The index test was incorporated as a reference standard in the laparoscopy group, and differential verification or partial verification bias may have occurred in most RCTs. Overall the quality of the evidence was low to moderate for most outcomes, as per the GRADE approach. 

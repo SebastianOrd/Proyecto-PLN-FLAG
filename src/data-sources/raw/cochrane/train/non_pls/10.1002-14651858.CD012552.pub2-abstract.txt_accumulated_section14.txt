@@ -1,0 +1,14 @@
+Background
+Chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS) is a common disorder in which the two main clinical features are pelvic pain and lower urinary tract symptoms. There are currently many approaches for its management, using both pharmacological and non‐pharmacological interventions. The National Institute of Health ‐ Chronic Prostatitis Symptom Index (NIH‐CPSI) score is a validated measure commonly used to measure CP/CPPS symptoms. We considered a 25% decrease of NIH‐CPSI baseline score or a six‐point reduction as MCID. 
+Objectives
+To assess the effects of pharmacological therapies for chronic prostatitis/chronic pelvic pain syndrome. 
+Search methods
+We performed a comprehensive search using CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, trial registries, grey literature and conference proceedings, with no restrictions on the language of publication or publication status. The date of the latest search of all databases was July 2019. 
+Selection criteria
+We included randomised controlled trials. Inclusion criteria were men with a diagnosis of CP/CPPS. We included all available pharmacological interventions compared to placebo or in head‐to‐head comparisons. 
+Data collection and analysis
+Two review authors independently assessed study eligibility, extracted data, and assessed the risks of bias of included studies. We assessed the quality of the evidence (QoE) using the GRADE approach. 
+Main results
+We included 99 unique studies in 9119 men with CP/CPPS, with assessments of 16 types of pharmacological interventions. Unless stated otherwise, our comparisons were based on short‐term follow‐up (less than 12 months). Most studies did not specify their funding sources; 21 studies reported funding from pharmaceutical companies. 
+1. Alpha blockers: (24 studies, 2061 participants). We are uncertain about the effects of these drugs on prostatitis symptoms when compared to placebo at short‐term follow‐up (mean difference (MD) in total NIH‐CPSI score −5.01, 95% confidence interval (CI) −7.41 to −2.61; 18 studies, 1524 participants, very low QoE) and at long‐term follow‐up (MD −5.60, 95% CI −10.89 to −0.32; 4 studies, 235 participants, very low QoE). Alpha blockers may be associated with an increased incidence of adverse events, such as dizziness and postural hypotension (risk ratio (RR) 1.60, 95% CI 1.09 to 2.34; 19 studies, 1588 participants; low QoE). Alpha blockers probably result in little to no difference in sexual dysfunction, quality of life and anxiety and depression (moderate to low QoE). 
+2. 5‐alpha reductase inhibitors (5‐ARI): (2 studies, 177 participants). Finasteride probably reduces prostatitis symptoms compared to placebo (NIH‐CPSI score MD −4.60, 95% CI −5.43 to −3.77; 1 study, 64 participants; moderate QoE) and may not be associated with an increased incidence of adverse events (low QoE). There was no information on sexual dysfunction, quality of life or anxiety and depression. 

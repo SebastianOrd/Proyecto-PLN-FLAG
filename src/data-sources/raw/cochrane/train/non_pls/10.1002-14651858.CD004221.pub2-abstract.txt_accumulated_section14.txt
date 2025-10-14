@@ -1,0 +1,14 @@
+Background
+This is one of a series of reviews of cervical ripening and labour induction using standardised methodology. Misoprostol administered by the oral and sublingual routes have the advantage of rapid onset of action, while the sublingual and vaginal routes have the advantage of prolonged activity and greatest bioavailability. 
+Objectives
+To determine the effectiveness and safety of misoprostol administered buccally or sublingually for third trimester cervical ripening and induction of labour. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (8 December 2003), the Cochrane Central Register of Controlled Trials (The Cochrane Library, Issue 4, 2003), and bibliographies of relevant papers. 
+We updated the search of the Cochrane Pregnancy and Childbirth Group's Trials Register on 28 July 2009 and added the results to the awaiting classification section. 
+Selection criteria
+Randomised controlled trials comparing buccal or sublingual misoprostol used for third trimester cervical ripening or labour induction with placebo/no treatment or other methods listed above it on a predefined list of labour induction methods. 
+Data collection and analysis
+A generic strategy was developed to deal with the large volume and complexity of trial data relating to labour induction. Data were extracted onto standardized forms, checked for accuracy, and analysed using RevMan software. 
+Main results
+Three studies (502 participants) compared buccal/sublingual misoprostol respectively with a vaginal regimen (200 µg versus 50 µg) and with oral administration (50 versus 50 µg and 50 versus 100µg). 
+The buccal route was associated with a trend to fewer caesarean sections than with the vaginal route (18/73 versus 28/79; relative risk (RR) 0.70; 95% confidence interval (CI) 0.42 to 1.15). There were no significant differences in any other outcomes. 

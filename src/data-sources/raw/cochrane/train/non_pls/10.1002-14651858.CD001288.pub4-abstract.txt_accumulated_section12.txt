@@ -1,0 +1,12 @@
+Background
+Acute exacerbations of chronic obstructive pulmonary disease (COPD) are a major cause of hospital admission and mortality. They contribute to long‐term decline in lung function, physical capacity and quality of life. The most common causes are infective, and treatment includes antibiotics, bronchodilators and systemic corticosteroids as anti‐inflammatory agents. 
+Objectives
+To assess the effects of corticosteroids administered orally or parenterally for treatment of acute exacerbations of COPD, and to compare the efficacy of parenteral versus oral administration. 
+Search methods
+We carried out searches using the Cochrane Airways Group Specialised Register of Trials, MEDLINE and CENTRAL (Cochrane Central Register of Controlled Trials), and checked references of included studies and trials registries. We conducted the last search in May 2014. 
+Selection criteria
+Randomised controlled trials comparing corticosteroids administered orally or parenterally with an appropriate placebo, or comparing oral corticosteroids with parenteral corticosteroids in the treatment of people with acute exacerbations of COPD. Other interventions (e.g. bronchodilators and antibiotics) were standardised for both groups. We excluded clinical studies of acute asthma. 
+Data collection and analysis
+We used standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+Sixteen studies (n = 1787) met inclusion criteria for the comparison systemic corticosteroid versus placebo and 13 studies contributed data (n = 1620). Four studies (n = 298) met inclusion criteria for the comparison oral corticosteroid versus parenteral corticosteroid and three studies contributed data (n = 239). The mean age of participants with COPD was 68 years, median proportion of males 82% and mean forced expiratory volume in one second (FEV1) per cent predicted at study admission was 40% (6 studies; n = 633). We judged risk of selection, detection, attrition and reporting bias as low or unclear in all studies. We judged risk of performance bias high in one study comparing systemic corticosteroid with control and in two studies comparing intravenous corticosteroid versus oral corticosteroid. 

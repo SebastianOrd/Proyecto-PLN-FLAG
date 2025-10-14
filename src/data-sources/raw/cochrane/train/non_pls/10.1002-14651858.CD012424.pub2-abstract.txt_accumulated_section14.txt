@@ -1,0 +1,14 @@
+Background
+At least one‐third of community‐dwelling people over 65 years of age fall each year. Exercises that target balance, gait and muscle strength have been found to prevent falls in these people. An up‐to‐date synthesis of the evidence is important given the major long‐term consequences associated with falls and fall‐related injuries 
+Objectives
+To assess the effects (benefits and harms) of exercise interventions for preventing falls in older people living in the community. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, three other databases and two trial registers up to 2 May 2018, together with reference checking and contact with study authors to identify additional studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) evaluating the effects of any form of exercise as a single intervention on falls in people aged 60+ years living in the community. We excluded trials focused on particular conditions, such as stroke. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Our primary outcome was rate of falls. 
+Main results
+We included 108 RCTs with 23,407 participants living in the community in 25 countries. There were nine cluster‐RCTs. On average, participants were 76 years old and 77% were women. Most trials had unclear or high risk of bias for one or more items. Results from four trials focusing on people who had been recently discharged from hospital and from comparisons of different exercises are not described here. 
+Exercise (all types) versus control 
+Eighty‐one trials (19,684 participants) compared exercise (all types) with control intervention (one not thought to reduce falls). Exercise reduces the rate of falls by 23% (rate ratio (RaR) 0.77, 95% confidence interval (CI) 0.71 to 0.83; 12,981 participants, 59 studies; high‐certainty evidence). Based on an illustrative risk of 850 falls in 1000 people followed over one year (data based on control group risk data from the 59 studies), this equates to 195 (95% CI 144 to 246) fewer falls in the exercise group. Exercise also reduces the number of people experiencing one or more falls by 15% (risk ratio (RR) 0.85, 95% CI 0.81 to 0.89; 13,518 participants, 63 studies; high‐certainty evidence). Based on an illustrative risk of 480 fallers in 1000 people followed over one year (data based on control group risk data from the 63 studies), this equates to 72 (95% CI 52 to 91) fewer fallers in the exercise group. Subgroup analyses showed no evidence of a difference in effect on both falls outcomes according to whether trials selected participants at increased risk of falling or not. 

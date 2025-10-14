@@ -1,0 +1,13 @@
+Background
+Many people with schizophrenia do not achieve a satisfactory treatment response with ordinary anti‐psychotic drug treatment. In these cases, various add‐on medications are used, among them lithium. 
+Objectives
+To assess whether: 1. Lithium alone is an effective treatment for schizophrenia, schizophrenia‐like psychoses and schizoaffective psychoses; and 2. Lithium augmentation of antipsychotic medication is an effective treatment for the same illnesses. 
+Search methods
+In July 2012, we searched the Cochrane Schizophrenia Group’s Study‐Based Register of Trials which is based on regular searches of CINAHL, BIOSIS, AMED, EMBASE, PubMed, MEDLINE, PsycINFO, and registries of clinical trials. This search was updated on January 20, 2015. For the first version of the review, we also contacted pharmaceutical companies and authors of relevant studies to identify further trials and obtain original participant data. 
+Selection criteria
+Randomised controlled trials (RCTs) of lithium compared with antipsychotics or placebo (or no intervention), whether as sole treatment or as an adjunct to antipsychotic medication, in the treatment of schizophrenia or schizophrenia‐like psychoses or both. 
+Data collection and analysis
+We extracted data independently. For dichotomous data, we calculated random‐effects meta‐analyses, risk ratios (RRs), and 95% confidence intervals (CI) on an intention‐to‐treat basis. For continuous data, we calculated mean differences (MD) and 95% confidence intervals. We used Grading of Recommendations Assessment, Development and Evaluation (GRADE) to create 'Summary of findings' tables and assessed risk of bias for included studies. 
+Main results
+The update search in 2012 detected two further studies that met our inclusion criteria. We did not find any further studies that met our inclusion criteria in the 2015 search. This review now includes 22 studies, with a total of 763 participants (median mean age: 35 years, range: 26 to 72 years). Most studies were small, of short duration, and incompletely reported. As we detected a high risk of bias in many studies, the overall methodological quality of the included sample was rather low. 
+Three small studies comparing lithium with placebo as the sole treatment showed no difference in any of the outcomes we analysed. 

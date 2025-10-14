@@ -1,0 +1,13 @@
+Background
+Multiple pregnancy is a strong risk factor for preterm birth, and more than 50% of women with a twin pregnancy will give birth prior to 37 weeks' gestation. Infants born preterm are recognised to be at increased risk of many adverse health outcomes, contributing to more than half of overall perinatal mortality. Progesterone is produced naturally in the body and has a role in maintaining pregnancy, although it is not clear whether administering progestogens to women with multiple pregnancy at high risk of early birth is effective and safe. 
+Since publication of this new review in Issue 10, 2017, we have now moved one study (El‐Refaie 2016) from included to studies awaiting classification, pending clarification about the study data. 
+Objectives
+To assess the benefits and harms of progesterone administration for the prevention of preterm birth in women with a multiple pregnancy. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (1 November 2016) and reference lists of retrieved studies. 
+Selection criteria
+We included randomised controlled trials examining the administration of a progestogen by any route for the prevention of preterm birth in women with multiple pregnancy. We did not include quasi‐randomised or cross‐over studies. 
+Data collection and analysis
+Two review authors independently assessed reports identified by the search for eligibility, extracted data, assessed risk of bias and graded the quality of the evidence. 
+Main results
+We included 16 trials, which all compared either vaginal or intramuscular (IM) progesterone with a placebo or no treatment, and involved a total of 4548 women. The risk of bias for the majority of included studies was low, with the exception of three studies that had inadequate blinding, or significant loss to follow‐up or both, or were not reported well enough for us to make a judgement. We graded the evidence low to high quality, with downgrading for statistical heterogeneity, design limitations in some of the studies contributing data, and imprecision of the effect estimate. 

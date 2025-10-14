@@ -1,0 +1,10 @@
+Background
+Although corticosteroids are effective for induction of remission of Crohn's disease, many patients relapse when steroids are withdrawn or become steroid dependent. Furthermore, corticosteroids exhibit significant adverse effects. The success of methotrexate as a treatment for rheumatoid arthritis led to its evaluation in patients with refractory Crohn's disease. Methotrexate has been studied for induction of remission of refractory Crohn's disease and has become the principal alternative to azathioprine or 6‐mercaptopurine therapy. This systematic review is an update of previously published Cochrane reviews. 
+Objectives
+The primary objective was to assess the efficacy and safety of methotrexate for induction of remission in patients with active Crohn's disease in the presence or absence of concomitant steroid therapy. 
+Search methods
+We searched MEDLINE, EMBASE, CENTRAL and the Cochrane IBD/FBD group specialized register from inception to June 9, 2014 for relevant studies. Conference proceedings and reference lists were also searched to identify additional studies. 
+Selection criteria
+Randomized controlled trials of methotrexate compared to placebo or an active comparator for treatment of active refractory Crohn's disease in adult patients (> 17 years) were considered for inclusion. 
+Data collection and analysis
+The primary outcome was failure to enter remission and withdraw from steroids. Secondary outcomes included adverse events, withdrawal due to adverse events, serious adverse events and quality of life. We calculated the relative risk (RR) and 95% confidence intervals (95% CI) for each outcome. Data were analyzed on an intention‐to‐treat basis. The Cochrane risk of bias tool was used to assess the methodological quality of included studies. The GRADE approach was used to assess the overall quality of evidence supporting the primary outcome. 

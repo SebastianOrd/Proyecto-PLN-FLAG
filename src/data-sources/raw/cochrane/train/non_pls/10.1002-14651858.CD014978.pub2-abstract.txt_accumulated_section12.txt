@@ -1,0 +1,12 @@
+Background
+Preterm birth is the leading cause of death in newborns and children. Tocolytic drugs aim to delay preterm birth by suppressing uterine contractions to allow time for administration of corticosteroids for fetal lung maturation, magnesium sulphate for neuroprotection, and transport to a facility with appropriate neonatal care facilities. However, there is still uncertainty about their effectiveness and safety. 
+Objectives
+To estimate relative effectiveness and safety profiles for different classes of tocolytic drugs for delaying preterm birth, and provide rankings of the available drugs. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov (21 April 2021) and reference lists of retrieved studies. 
+Selection criteria
+We included all randomised controlled trials assessing effectiveness or adverse effects of tocolytic drugs for delaying preterm birth. We excluded quasi‐ and non‐randomised trials. We evaluated all studies against predefined criteria to judge their trustworthiness. 
+Data collection and analysis
+At least two review authors independently assessed the trials for inclusion and risk of bias, and extracted data. We performed pairwise and network meta‐analyses, to determine the relative effects and rankings of all available tocolytics. We used GRADE to rate the certainty of the network meta‐analysis effect estimates for each tocolytic versus placebo or no treatment. 
+Main results
+This network meta‐analysis includes 122 trials (13,697 women) involving six tocolytic classes, combinations of tocolytics, and placebo or no treatment. Most trials included women with threatened preterm birth, singleton pregnancy, from 24 to 34 weeks of gestation. We judged 25 (20%) studies to be at low risk of bias. Overall, certainty in the evidence varied. 

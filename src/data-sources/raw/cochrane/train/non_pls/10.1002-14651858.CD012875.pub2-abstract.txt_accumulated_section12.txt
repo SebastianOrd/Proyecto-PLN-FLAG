@@ -1,0 +1,12 @@
+Background
+Vitamin D is a secosteroid hormone that is important for its role in calcium homeostasis to maintain skeletal health. Linear growth faltering and stunting remain pervasive indicators of poor nutrition status among infants and children under five years of age around the world, and low vitamin D status has been linked to poor growth. However, existing evidence on the effects of vitamin D supplementation on linear growth and other health outcomes among infants and children under five years of age has not been systematically reviewed. 
+Objectives
+To assess effects of oral vitamin D supplementation on linear growth and other health outcomes among infants and children under five years of age. 
+Search methods
+In December 2019, we searched CENTRAL, PubMed, Embase, 14 other electronic databases, and two trials registries. We also searched the reference lists of relevant publications for any relevant trials, and we contacted key organisations and authors to obtain information on relevant ongoing and unpublished trials. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs assessing the effects of oral vitamin D supplementation, with or without other micronutrients, compared to no intervention, placebo, a lower dose of vitamin D, or the same micronutrients alone (and not vitamin D) in infants and children under five years of age who lived in any country. 
+Data collection and analysis
+We used standard Cochrane methodological procedures.
+Main results
+Out of 75 studies (187 reports; 12,122 participants) included in the qualitative analysis, 64 studies (169 reports; 10,854 participants) contributed data on our outcomes of interest for meta‐analysis. A majority of included studies were conducted in India, USA, and Canada. Two studies reported for‐profit funding, two were categorised as receiving mixed funding (non‐profit and for‐profit), five reported that they received no funding, 26 did not disclose funding sources, and the remaining studies were funded by non‐profit funding. Certainty of evidence varied between high and very low across outcomes (all measured at endpoint) for each comparison. 

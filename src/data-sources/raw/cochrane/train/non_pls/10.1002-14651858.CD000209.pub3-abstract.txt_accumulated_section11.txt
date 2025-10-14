@@ -1,0 +1,11 @@
+Background
+Antipsychotic (neuroleptic) medication is used extensively to treat people with chronic mental illnesses. Its use, however, is associated with adverse effects, including movement disorders such as tardive dyskinesia (TD) – a problem often seen as repetitive involuntary movements around the mouth and face. Vitamin E has been proposed as a treatment to prevent or decrease TD. 
+Objectives
+The primary objective was to determine the clinical effects of vitamin E in people with schizophrenia or other chronic mental illness who had developed antipsychotic‐induced TD. 
+The secondary objectives were: 1. to examine whether the effect of vitamin E was maintained as duration of follow‐up increased; 2. to test the hypothesis that the use of vitamin E is most effective for those with early onset TD (less than five years) 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (July 2015 and April 2017), inspected references of all identified studies for further trials and contacted authors of trials for additional information. 
+Selection criteria
+We included reports if they were controlled trials dealing with people with antipsychotic‐induced TD and schizophrenia who remained on their antipsychotic medication and had been randomly allocated to either vitamin E or to a placebo, no intervention, or any other intervention. 
+Data collection and analysis
+We independently extracted data from these trials and we estimated risk ratios (RR) or mean differences (MD), with 95% confidence intervals (CI). We assumed that people who left early had no improvement. We assessed risk of bias and created a 'Summary of findings' table using GRADE. 

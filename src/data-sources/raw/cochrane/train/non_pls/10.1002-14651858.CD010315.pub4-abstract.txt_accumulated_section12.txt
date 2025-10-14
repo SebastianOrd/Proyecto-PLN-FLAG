@@ -1,0 +1,12 @@
+Background
+This is the second update of the review first published in 2017.
+Hypertension is a prominent preventable cause of premature morbidity and mortality. People with hypertension and established cardiovascular disease are at particularly high risk, so reducing blood pressure to below standard targets may be beneficial. This strategy could reduce cardiovascular mortality and morbidity but could also increase adverse events. The optimal blood pressure target in people with hypertension and established cardiovascular disease remains unknown. 
+Objectives
+To determine if lower blood pressure targets (135/85 mmHg or less) are associated with reduction in mortality and morbidity as compared with standard blood pressure targets (140 to 160/90 to 100 mmHg or less) in the treatment of people with hypertension and a history of cardiovascular disease (myocardial infarction, angina, stroke, peripheral vascular occlusive disease). 
+Search methods
+For this updated review, the Cochrane Hypertension Information Specialist searched the following databases for randomized controlled trials (RCTs) up to November 2019: Cochrane Hypertension Specialised Register, CENTRAL, MEDLINE (from 1946), Embase (from 1974), and Latin American Caribbean Health Sciences Literature (LILACS) (from 1982), along with the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov. We also contacted authors of relevant papers regarding further published and unpublished work. We applied no language restrictions. 
+Selection criteria
+We included RCTs with more than 50 participants per group that provided at least six months' follow‐up. Trial reports had to present data for at least one primary outcome (total mortality, serious adverse events, total cardiovascular events, cardiovascular mortality). Eligible interventions involved lower targets for systolic/diastolic blood pressure (135/85 mmHg or less) compared with standard targets for blood pressure (140 to 160/90 to 100 mmHg or less). 
+Participants were adults with documented hypertension and adults receiving treatment for hypertension with a cardiovascular history for myocardial infarction, stroke, chronic peripheral vascular occlusive disease, or angina pectoris. 
+Data collection and analysis
+Two review authors independently assessed search results and extracted data using standard methodological procedures expected by Cochrane. We used GRADE to assess the quality of the evidence. 

@@ -1,0 +1,9 @@
+Background
+Various methods have been used to try to protect kidney function in patients undergoing surgery. These most often include pharmacological interventions such as dopamine and its analogues, diuretics, calcium channel blockers, angiotensin‐converting enzyme (ACE) inhibitors, N‐acetyl cysteine (NAC), atrial natriuretic peptide (ANP), sodium bicarbonate, antioxidants and erythropoietin (EPO). 
+Objectives
+This review is aimed at determining the effectiveness of various measures advocated to protect patients' kidneys during the perioperative period. 
+We considered the following questions: (1) Are any specific measures known to protect kidney function during the perioperative period? (2) Of measures used to protect the kidneys during the perioperative period, does any one method appear to be more effective than the others? (3) Of measures used to protect the kidneys during the perioperative period,does any one method appear to be safer than the others? 
+Search methods
+In this updated review, we searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, Issue 2, 2012), MEDLINE (Ovid SP) (1966 to August 2012) and EMBASE (Ovid SP) (1988 to August 2012). We originally handsearched six journals (Anesthesia and Analgesia, Anesthesiology, Annals of Surgery, British Journal of Anaesthesia, Journal of Thoracic and Cardiovascular Surgery, and Journal of Vascular Surgery) (1985 to 2004). However, because these journals are properly indexed in MEDLINE, we decided to rely on electronic searches only without handsearching the journals from 2004 onwards. 
+Selection criteria
+We selected all randomized controlled trials in adults undergoing surgery for which a treatment measure was used for the purpose of providing renal protection during the perioperative period. 

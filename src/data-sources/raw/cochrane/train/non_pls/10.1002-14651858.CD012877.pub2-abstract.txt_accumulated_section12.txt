@@ -1,0 +1,12 @@
+Background
+Conventional medications for Crohn's disease (CD) include anti‐inflammatory drugs, immunosuppressants and corticosteroids. If an individual does not respond, or loses response to first‐line treatments, then biologic therapies such as tumour necrosis factor‐alpha (TNF‐α) antagonists such as adalimumab are considered for treating CD. Maintenance of remission of CD is a clinically important goal, as disease relapse can negatively affect quality of life. 
+Objectives
+To assess the efficacy and safety of adalimumab for maintenance of remission in people with quiescent CD. 
+Search methods
+We searched the Cochrane IBD Group Specialized Register, CENTRAL, MEDLINE, Embase, and clinicaltrials.gov from inception to April 2019. 
+Selection criteria
+We considered for inclusion randomized controlled trials (RCTs) comparing adalimumab to placebo or to an active comparator. 
+Data collection and analysis
+We analyzed data on an intention‐to‐treat basis. We calculated risk ratios (RRs) and corresponding 95% confidence intervals (95% CI) for dichotomous outcomes. The primary outcome was failure to maintain clinical remission. We define clinical remission as a Crohn's Disease Activity Index (CDAI) score of < 150. Secondary outcomes were failure to maintain clinical response, endoscopic remission, endoscopic response, histological remission and adverse events (AEs). We assessed biases using the Cochrane 'Risk of bias' tool. We used GRADE to assess the overall certainty of evidence supporting the primary outcome. 
+Main results
+We included six RCTs (1158 participants). We rated four trials at low risk of bias and two trials at unclear risk of bias. All participants had moderate‐to‐severe CD that was in clinical remission. Four studies were placebo‐controlled (1012 participants). Two studies (70 participants) compared adalimumab to active medication (azathioprine, mesalamine or 6‐mercaptopurine) in participants who had an ileocolic resection prior to study enrolment. 

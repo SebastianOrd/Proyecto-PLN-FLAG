@@ -1,0 +1,12 @@
+Background
+Chronic pelvic pain is a common and debilitating condition; its aetiology is multifactorial, involving social, psychological and biological factors. The management of chronic pelvic pain is challenging, as despite interventions involving surgery, many women remain in pain without a firm gynaecological diagnosis. 
+Objectives
+To assess the effectiveness and safety of non‐surgical interventions for women with chronic pelvic pain. 
+Search methods
+We searched the Menstrual Disorders and Subfertility Group Specialised Register. We also searched (from inception to 5 February 2014) AMED, CENTRAL, MEDLINE, EMBASE, PsycINFO, CINAHL and LILACS. We handsearched sources such as citation lists, trial registers and conference proceedings. 
+Selection criteria
+Randomised controlled trials (RCTs) on non‐surgical management of chronic pelvic pain were eligible for inclusion. We included studies of women with a diagnosis of pelvic congestion syndrome or adhesions but excluded those with pain known to be caused by endometriosis, primary dysmenorrhoea (period pain), active chronic pelvic inflammatory disease or irritable bowel syndrome. We considered studies of any non‐surgical intervention, including lifestyle, physical, medical and psychological treatments. 
+Data collection and analysis
+Study selection, quality assessment and data extraction were performed independently by two review authors. Meta‐analysis was performed using the Peto odds ratio (Peto OR) for dichotomous outcomes and the mean difference (MD) for continuous outcomes, with 95% confidence intervals (CIs). The primary outcome measure was pain relief, and secondary outcome measures were psychological outcomes, quality of life, requirement for analgesia and adverse effects. The quality of the evidence was assessed by using GRADE methods. 
+Main results
+Twenty‐one RCTs were identified that involved non‐surgical management of chronic pelvic pain: 13 trials were included in the review, and eight were excluded. The studies included a total of 750 women—406 women in the intervention groups and 344 in the control groups. Included studies had high attrition rates, and investigators often did not blind adequately or did not clearly describe randomisation procedures. 

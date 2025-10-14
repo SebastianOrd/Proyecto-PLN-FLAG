@@ -1,0 +1,14 @@
+Background
+Postpartum haemorrhage (PPH) ‐ heaving bleeding within the first 24 hours after giving birth ‐ is one of the main causes of death of women after childbirth. Antifibrinolytics, primarily tranexamic acid (TXA), have been shown to reduce bleeding in surgery and safely reduces mortality in trauma patients with bleeding without increasing the risk of adverse events. 
+An earlier Cochrane review on treatments for primary PPH covered all the various available treatments ‐ that review has now been split by types of treatment. This new review concentrates only on the use of antifibrinolytic drugs for treating primary PPH. 
+Objectives
+To determine the effectiveness and safety of antifibrinolytic drugs for treating primary PPH. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (28 May 2017) and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs), including cluster‐randomised trials of antifibrinolytic drugs (aprotinin, TXA, epsilon‐aminocaproic acid (EACA) and aminomethylbenzoic acid, administered by whatever route) for primary PPH in women. 
+Participants in the trials were women after birth following a pregnancy of at least 24 weeks' gestation with a diagnosis of PPH, regardless of mode of birth (vaginal or caesarean section) or other aspects of third stage management. 
+We have not included quasi‐randomised trials, or cross‐over studies. Studies reported as abstracts have not been included if there was insufficient information to allow assessment of risk of bias. 
+In this review we only identified studies looking at TXA.
+Data collection and analysis
+Two review authors independently extracted data from each study using an agreed form. We entered data into Review Manager software and checked for accuracy. 

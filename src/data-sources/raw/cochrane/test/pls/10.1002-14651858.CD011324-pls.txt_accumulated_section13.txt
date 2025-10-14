@@ -1,0 +1,13 @@
+Electrotherapy modalities for adhesive capsulitis (frozen shoulder)
+Background 
+Frozen shoulder is a common cause of shoulder pain and stiffness. The pain and stiffness can last up to two to three years before going away, and in the early stages it can be very painful. 
+Electrotherapy modalities (also known as electrophysical agents) are types of physical therapy that aim to reduce pain and improve function via an increase in energy (electrical, sound, light, thermal) into the body. Examples include therapeutic ultrasound, low‐level laser therapy (LLLT), interferential current, transcutaneous electrical nerve stimulation (TENS), and pulsed electromagnetic field therapy (PEMF). Electrotherapy modalities are delivered by various clinicians, including physiotherapists, chiropractors and osteopaths. In practice, patients with frozen shoulder seldom receive a single electrotherapy modality in isolation from other components of physical therapy treatment (for example manual therapy, exercise). 
+Study characteristics 
+This summary of an updated Cochrane review presents what we know from research about the benefits and harms of electrotherapy modalities in people with frozen shoulder. After searching for all relevant studies published up to May 2014, we included 19 trials (1249 participants). Of the included participants, 61% were women, the average age was 55 years, and the average duration of the condition was 5.5 months. The average duration of delivery of electrotherapy interventions was four weeks. 
+Key results ‐ LLLT and exercise compared to placebo and exercise 
+Pain (higher scores mean worse pain) 
+People who received LLLT and exercise had less pain than people who had placebo plus exercise ‐ pain was 19 points less (ranging from 15 to 23 points less) at the fourth week of treatment (19% absolute improvement, ranging from 15% to 23% improvement). 
+‐ People who had LLLT and exercise rated their pain score as 32 points on a scale of 0 to 100 points. 
+‐ People who had placebo and exercise rated their pain score as 51 points on a scale of 0 to 100 points. 
+Function impairment (higher scores mean worse function impairment) 
+People who received LLLT and exercise had less function impairment than people who had placebo and exercise ‐ function impairment was 12 points less (ranging from 6 to 18 points less) at the fourth week of treatment (12% absolute improvement, ranging from 6% to 18% improvement). 

@@ -1,0 +1,12 @@
+Background
+Recombinant factor VIIa (rFVIIa) is licensed for use in patients with haemophilia and inhibitory allo‐antibodies and for prophylaxis and treatment of patients with congenital factor VII deficiency. It is also used for off‐license indications to prevent bleeding in operations where blood loss is likely to be high, and/or to stop bleeding that is proving difficult to control by other means. This is the third version of the 2007 Cochrane review on the use of recombinant factor VIIa for the prevention and treatment of bleeding in patients without haemophilia, and has been updated to incorporate recent trial data. 
+Objectives
+To assess the effectiveness of rFVIIa when used therapeutically to control active bleeding or prophylactically to prevent (excessive) bleeding in patients without haemophilia. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and other medical databases up to 23 March 2011. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing rFVIIa with placebo, or one dose of rFVIIa with another, in any patient population (except haemophilia). Outcomes were mortality, blood loss or control of bleeding, red cell transfusion requirements, number of patients transfused and thromboembolic adverse events. 
+Data collection and analysis
+Two authors independently assessed potentially relevant studies for inclusion, extracted data and examined risk of bias. We considered prophylactic and therapeutic rFVIIa studies separately. 
+Main results
+Twenty‐nine RCTs were included: 28 were placebo‐controlled, double‐blind RCTs and one compared different doses of rFVIIa. In the 'Risk of bias' assessment, most studies were found to have some threats to validity although therapeutic RCTs were found to be less prone to bias than prophylactic RCTs. 

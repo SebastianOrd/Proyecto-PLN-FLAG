@@ -1,0 +1,16 @@
+Background
+Vitamin D and related compounds have been used to prevent osteoporotic fractures in older people. This is the third update of a Cochrane review first published in 1996. 
+Objectives
+To determine the effects of vitamin D or related compounds, with or without calcium, for preventing fractures in post‐menopausal women and older men. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (to December 2012), the Cochrane Central Register of Controlled Trials (2012, Issue 12), MEDLINE (1966 to November Week 3 2012), EMBASE (1980 to 2012 Week 50), CINAHL (1982 to December 2012), BIOSIS (1985 to 3 January 2013), Current Controlled Trials (December 2012) and reference lists of articles. 
+Selection criteria
+Randomised or quasi‐randomised trials that compared vitamin D or related compounds, alone or with calcium, against placebo, no intervention or calcium alone, and that reported fracture outcomes in older people. The primary outcome was hip fracture. 
+Data collection and analysis
+Two authors independently assessed trial risk of selection bias and aspects of methodological quality, and extracted data. Data were pooled, where possible, using the fixed‐effect model, or the random‐effects model when heterogeneity between studies appeared substantial. 
+Main results
+We included 53 trials with a total of 91,791 participants. Thirty‐one trials, with sample sizes ranging from 70 to 36,282 participants, examined vitamin D (including 25‐hydroxy vitamin D) with or without calcium in the prevention of fractures in community, nursing home or hospital inpatient populations. Twelve of these 31 trials had participants with a mean or median age of 80 years or over. 
+Another group of 22 smaller trials examined calcitriol or alfacalcidol (1‐alphahydroxyvitamin D3), mostly with participants who had established osteoporosis. These trials were carried out in the setting of institutional referral clinics or hospitals. 
+In the assessment of risk of bias for random sequence generation, 21 trials (40%) were deemed to be at low risk, 28 trials (53%) at unclear risk and four trials at high risk (8%). For allocation concealment, 22 trials were at low risk (42%), 29 trials were at unclear risk (55%) and two trials were at high risk (4%). 
+There is high quality evidence that vitamin D alone, in the formats and doses tested, is unlikely to be effective in preventing hip fracture (11 trials, 27,693 participants; risk ratio (RR) 1.12, 95% confidence intervals (CI) 0.98 to 1.29) or any new fracture (15 trials, 28,271 participants; RR 1.03, 95% CI 0.96 to 1.11). 
+There is high quality evidence that vitamin D plus calcium results in a small reduction in hip fracture risk (nine trials, 49,853 participants; RR 0.84, 95% confidence interval (CI) 0.74 to 0.96; P value 0.01). In low‐risk populations (residents in the community: with an estimated eight hip fractures per 1000 per year), this equates to one fewer hip fracture per 1000 older adults per year (95% CI 0 to 2). In high risk populations (residents in institutions: with an estimated 54 hip fractures per 1000 per year), this equates to nine fewer hip fractures per 1000 older adults per year (95% CI 2 to 14).  

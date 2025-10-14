@@ -1,0 +1,12 @@
+Background
+A variety of minimally invasive treatments are available as an alternative to transurethral resection of the prostate (TURP) for management of lower urinary tract symptoms (LUTS) in men with benign prostatic hyperplasia (BPH). However, it is unclear which treatments provide better results. 
+Objectives
+Our primary objective was to assess the comparative effectiveness of minimally invasive treatments for lower urinary tract symptoms in men with BPH through a network meta‐analysis. Our secondary objective was to obtain an estimate of relative ranking of these minimally invasive treatments, according to their effects. 
+Search methods
+We performed a comprehensive search of multiple databases (CENTRAL, MEDLINE, Embase, Scopus, Web of Science and LILACS), trials registries, other sources of grey literature, and conference proceedings, up to 24 February 2021. We had no restrictions on language of publication or publication status. 
+Selection criteria
+We included parallel‐group randomized controlled trials assessing the effects of the following minimally invasive treatments, compared to TURP or sham treatment, on men with moderate to severe LUTS due to BPH: convective radiofrequency water vapor therapy (CRFWVT); prostatic arterial embolization (PAE); prostatic urethral lift (PUL); temporary implantable nitinol device (TIND); and transurethral microwave thermotherapy (TUMT). 
+Data collection and analysis
+Two review authors independently screened the literature, extracted data, and assessed risk of bias. We performed statistical analyses using a random‐effects model for pair‐wise comparisons and a frequentist network meta‐analysis for combined estimates. We interpreted them according to Cochrane methods. We considered a minimally important difference of three points for the International Prostate Symptoms Score[IPSS]. We used the GRADE approach to rate the certainty of evidence. 
+Main results
+We included 27 trials involving 3017 men, mostly over age 50, with severe LUTS due to BPH. The overall certainty of evidence was low to very low due to concerns regarding bias, imprecision, inconsistency (heterogeneity), and incoherence. Based on the network meta‐analysis, results for our main outcomes were as follows. 

@@ -1,0 +1,12 @@
+Background
+Hepatorenal syndrome is defined as severe renal failure occurring in people with cirrhosis and ascites. Systematic reviews of randomised clinical trials found that, compared with placebo, terlipressin may reduce mortality and improve renal function in people with hepatorenal syndrome, but we need current evidence from systematic reviews on the benefits and harms of terlipressin versus other vasoactive drugs. 
+Objectives
+To evaluate the beneficial and harmful effects of terlipressin versus other vasoactive drugs for people with hepatorenal syndrome. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, CENTRAL, MEDLINE, Embase, and Science Citation Index Expanded; conducted manual searches of references in relevant literature; and wrote to experts and pharmaceutical companies (date of last search November 2016). 
+Selection criteria
+Randomised clinical trials comparing terlipressin versus any other type of vasoactive drugs for hepatorenal syndrome. We allowed albumin and other cointerventions if provided equally in the comparison groups. 
+Data collection and analysis
+Three authors independently extracted data. The primary outcomes were mortality, hepatorenal syndrome (persistent hepatorenal syndrome despite treatment), and serious adverse events. We conducted meta‐analyses and present the results as risk ratios (RR) with 95% confidence intervals (CI). We performed sensitivity, subgroup, and Trial Sequential Analyses and evaluated bias control based on the Cochrane Hepato‐Biliary Group domains. 
+Main results
+We included 10 randomised clinical trials with 474 participants. The trials compared terlipressin versus noradrenaline (seven trials), octreotide (one trial), midodrine and octreotide (one trial), or dopamine (one trial). All participants in both groups received albumin as cointervention. We classified two trials at low risk of bias and eight trials at high risk of bias in the assessment of mortality and all trials at high risk of bias for remaining outcomes. In five trials, investigators specifically stated that they did not receive funding from for‐profit organisations. We had no information about the funding source from the remaining five trials. 

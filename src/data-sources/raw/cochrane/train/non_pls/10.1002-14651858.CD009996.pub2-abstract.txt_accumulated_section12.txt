@@ -1,0 +1,12 @@
+Background
+Attention deficit hyperactivity disorder (ADHD) is one of the most common psychiatric conditions affecting children and adolescents. Amphetamines are among the most commonly prescribed medications to manage ADHD. There are three main classes of amphetamines: dexamphetamine, lisdexamphetamine and mixed amphetamine salts, which can be further broken down into short‐ and long‐acting formulations. A systematic review assessing their efficacy and safety in this population has never been conducted. 
+Objectives
+To assess the efficacy and safety of amphetamines for ADHD in children and adolescents.
+Search methods
+In August 2015 we searched CENTRAL, Ovid MEDLINE, Embase, PsycINFO, ProQuest Dissertation and Theses, and the Networked Digital Library of Theses and Dissertations. We also searched ClinicalTrials.gov, and checked the reference lists of relevant studies and reviews identified by the searches. No language or date restrictions were applied. 
+Selection criteria
+Parallel‐group and cross‐over randomized controlled trials (RCTs) comparing amphetamine derivatives against placebo in a pediatric population (< 18 years) with ADHD. 
+Data collection and analysis
+Two authors independently extracted data on participants, settings, interventions, methodology, and outcomes for each included study. For continuous outcomes, we calculated the standardized mean difference (SMD) and for dichotomous outcomes we calculated the risk ratio (RR). Where possible, we conducted meta‐analyses using a random‐effects model. We also performed a meta‐analysis of the most commonly reported adverse events in the primary studies. 
+Main results
+We included 23 trials (8 parallel‐group and 15 cross‐over trials), with 2675 children aged three years to 17 years. All studies compared amphetamines to placebo. Study durations ranged from 14 days to 365 days, with the majority lasting less than six months. Most studies were conducted in the United States; three studies were conducted across Europe. We judged 11 included studies to be at a high risk of bias due to insufficient blinding methods, failing to account for dropouts and exclusions from the analysis, and failing to report on all outcomes defined a priori. We judged the remaining 12 studies to be at unclear risk of bias due to inadequate reporting. 

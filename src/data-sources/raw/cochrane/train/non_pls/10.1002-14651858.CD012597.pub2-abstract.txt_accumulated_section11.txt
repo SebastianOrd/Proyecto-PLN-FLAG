@@ -1,0 +1,11 @@
+Background
+Allergic rhinitis is a common condition affecting both adults and children. Patients experience symptoms of nasal obstruction, rhinorrhoea, sneezing and nasal itching, which may affect their quality of life. 
+Nasal irrigation with saline (salty water), also known as nasal douching, washing or lavage, is a procedure that rinses the nasal cavity with isotonic or hypertonic saline solutions. It can be performed with low positive pressure from a spray, pump or squirt bottle, with a nebuliser or with gravity‐based pressure in which the person instils saline into one nostril and allows it to drain out of the other. Saline solutions are available over the counter and can be used alone or as an adjunct to other therapies. 
+Objectives
+To evaluate the effects of nasal saline irrigation in people with allergic rhinitis.
+Search methods
+The Cochrane ENT Information Specialist searched the ENT Trials Register; CENTRAL; Ovid MEDLINE; Ovid Embase; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 23 November 2017. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing nasal saline irrigation, delivered by any means and with any volume, tonicity and alkalinity, with (a) no nasal saline irrigation or (b) other pharmacological treatments in adults and children with allergic rhinitis. We included studies comparing nasal saline versus no saline, where all participants also received pharmacological treatment (intranasal corticosteroids or oral antihistamines). 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. Primary outcomes were patient‐reported disease severity and a common adverse effect ‐ epistaxis. Secondary outcomes were disease‐specific health‐related quality of life (HRQL), individual symptom scores, general HRQL, the adverse effects of local irritation or discomfort, ear symptoms (pain or pressure) and nasal endoscopy scores. We used GRADE to assess the quality of the evidence for each outcome; this is indicated in italics. 

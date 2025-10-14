@@ -1,0 +1,13 @@
+Background
+Previous studies have shown potential benefits of rapamycin or rapalogs for treating people with tuberous sclerosis complex. Although everolimus (a rapalog) is currently approved by the FDA (U.S. Food and Drug Administration) and the EMA (European Medicines Agency) for tuberous sclerosis complex‐associated renal angiomyolipoma and subependymal giant cell astrocytoma, applications for other manifestations of tuberous sclerosis complex have not yet been established. A systematic review is necessary to establish the clinical value of rapamycin or rapalogs for various manifestations in tuberous sclerosis complex. 
+Objectives
+To determine the effectiveness of rapamycin or rapalogs in people with tuberous sclerosis complex for decreasing tumour size and other manifestations and to assess the safety of rapamycin or rapalogs in relation to their adverse effects. 
+Search methods
+Relevant studies were identified by authors from the Cochrane Central Register of Controlled Trials (CENTRAL), Ovid MEDLINE, and clinicaltrials.gov. Relevant resources were also searched by the authors, such as conference proceedings and abstract books of conferences, from e.g. the Tuberous Sclerosis Complex International Research Conferences, other tuberous sclerosis complex‐related conferences and the Human Genome Meeting. We did not restrict the searches by language as long as English translations were available for non‐English reports. 
+Date of the last searches: 14 March 2016.
+Selection criteria
+Randomized or quasi‐randomized studies of rapamycin or rapalogs in people with tuberous sclerosis complex. 
+Data collection and analysis
+Data were independently extracted by two authors using standard acquisition forms. The data collection was verified by one author. The risk of bias of each study was independently assessed by two authors and verified by one author. 
+Main results
+Three placebo‐controlled studies with a total of 263 participants (age range 0.8 to 61 years old, 122 males and 141 females, with variable lengths of study duration) were included in the review. We found high‐quality evidence except for response to skin lesions which was judged to be low quality due to the risk of attrition bias. Overall, there are 175 participants in the treatment arm (rapamycin or everolimus) and 88 in the placebo arm. Participants all had tuberous sclerosis complex as proven by consensus diagnostic criteria as a minimum. The quality in the description of the study methods was mixed, although we assessed most domains as having a low risk of bias. Blinding of treatment arms was successfully carried out in all of the studies. However, two studies did not report allocation concealment. Two of the included studies were funded by Novartis Pharmaceuticals. 

@@ -1,0 +1,11 @@
+Background
+Concern has been expressed about the relevance of secondary care studies to primary care patients specifically about the effectiveness of antidepressant medication. There is a need to review the evidence of only those studies that have been conducted comparing antidepressant efficacy with placebo in primary care‐based samples. 
+Objectives
+To determine the efficacy and tolerability of antidepressants in patients (under the age of 65 years) with depression in primary care. 
+Search methods
+All searches were conducted in September 2007.
+The Cochrane Depression, Anxiety and Neurosis Group (CCDAN) Controlled Trials Register was searched, together with a supplementary search of MEDLINE, PsycINFO, EMBASE, LILACS, CINAHL and PSYNDEX. Abstracts of all possible studies for inclusion were assessed independently by two reviewers. Further trials were sought through searching the reference lists of studies initially identified and by scrutinising other relevant review papers. Selected authors and experts were also contacted. 
+Selection criteria
+Studies were selected if they were randomised controlled trials of tricyclic antidepressants (TCAs) or selective serotonin reuptake inhibitors (SSRIs) versus placebo in adults. Older patients (over 65 years) were excluded. Patients had to be recruited from a primary care setting. For continuous outcomes the Hamilton Depression scale of the Montgomery Asberg Scale was required. 
+Data collection and analysis
+Data were extracted using data extraction forms by two reviewers independently, with disagreements resolved by discussion. A similar process was used for the validity assessment. Pooling of results was done using Review Manager 5. The primary outcome was depression reduction, based on a dichotomous measure of clinical response, using relative risk (RR), and on a continuous measure of depression symptoms, using the mean difference (MD), with 95% confidence intervals (CI). 

@@ -1,0 +1,15 @@
+Background
+Eczema and food allergy are common health conditions that usually begin in early childhood and often occur together in the same people. They can be associated with an impaired skin barrier in early infancy. It is unclear whether trying to prevent or reverse an impaired skin barrier soon after birth is effective in preventing eczema or food allergy. 
+Objectives
+Primary objective 
+To assess effects of skin care interventions, such as emollients, for primary prevention of eczema and food allergy in infants 
+Secondary objective 
+To identify features of study populations such as age, hereditary risk, and adherence to interventions that are associated withthe greatest treatment benefit or harm for both eczema and food allergy. 
+Search methods
+We searched the following databases up to July 2020: Cochrane Skin Specialised Register, CENTRAL, MEDLINE, and Embase. We searched two trials registers and checked reference lists of included studies and relevant systematic reviews for further references to relevant randomised controlled trials (RCTs). We contacted field experts to identify planned trials and to seek information about unpublished or incomplete trials. 
+Selection criteria
+RCTs of skin care interventions that could potentially enhance skin barrier function, reduce dryness, or reduce subclinical inflammation in healthy term (> 37 weeks) infants (0 to 12 months) without pre‐existing diagnosis of eczema, food allergy, or other skin condition were included. Comparison was standard care in the locality or no treatment. Types of skin care interventions included moisturisers/emollients; bathing products; advice regarding reducing soap exposure and bathing frequency; and use of water softeners. No minimum follow‐up was required. 
+Data collection and analysis
+This is a prospective individual participant data (IPD) meta‐analysis. We used standard Cochrane methodological procedures, and primary analyses used the IPD dataset. Primary outcomes were cumulative incidence of eczema and cumulative incidence of immunoglobulin (Ig)E‐mediated food allergy by one to three years, both measured by the closest available time point to two years. Secondary outcomes included adverse events during the intervention period; eczema severity (clinician‐assessed); parent report of eczema severity; time to onset of eczema; parent report of immediate food allergy; and allergic sensitisation to food or inhalant allergen. 
+Main results
+This review identified 33 RCTs, comprising 25,827 participants. A total of 17 studies, randomising 5823 participants, reported information on one or more outcomes specified in this review. Eleven studies randomising 5217 participants, with 10 of these studies providing IPD, were included in one or more meta‐analysis (range 2 to 9 studies per individual meta‐analysis). 

@@ -1,0 +1,10 @@
+Background
+The number of people living with dementia is increasing rapidly. Clinical dementia does not develop suddenly, but rather is preceded by a period of cognitive decline beyond normal age‐related change. People at this intermediate stage between normal cognitive function and clinical dementia are often described as having mild cognitive impairment (MCI). Considerable research and clinical efforts have been directed toward finding disease‐modifying interventions that may prevent or delay progression from MCI to clinical dementia. 
+Objectives
+To evaluate the effects of at least 12 weeks of computerised cognitive training (CCT) on maintaining or improving cognitive function and preventing dementia in people with mild cognitive impairment. 
+Search methods
+We searched to 31 May 2018 in ALOIS (www.medicine.ox.ac.uk/alois) and ran additional searches in MEDLINE, Embase, PsycINFO, CINAHL, ClinicalTrials.gov, and the WHO portal/ICTRP (www.apps.who.int/trialsearch) to identify published, unpublished, and ongoing trials. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs in which cognitive training via interactive computerised technology was compared with an active or inactive control intervention. Experimental computerised cognitive training (CCT) interventions had to adhere to the following criteria: minimum intervention duration of 12 weeks; any form of interactive computerised cognitive training, including computer exercises, computer games, mobile devices, gaming console, and virtual reality. Participants were adults with a diagnosis of mild cognitive impairment (MCI) or mild neurocognitive disorder (MND), or otherwise at high risk of cognitive decline. 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias of the included RCTs. We expressed treatment effects as mean differences (MDs) or standardised mean differences (SMDs) for continuous outcomes and as risk ratios (RRs) for dichotomous outcomes. We used the GRADE approach to describe the overall quality of evidence for each outcome. 

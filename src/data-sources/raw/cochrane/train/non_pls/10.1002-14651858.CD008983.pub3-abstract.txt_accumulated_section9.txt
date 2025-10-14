@@ -1,0 +1,9 @@
+Background
+This is an update of the Cochrane review published in 2013, Issue 10.
+Immunosuppressed cancer patients are at increased risk of serious influenza‐related complications. Guidelines, therefore, recommend influenza vaccination for these patients. However, data on vaccine effectiveness in this population are lacking, and the value of vaccination in this population remains unclear. 
+Objectives
+To assess the effectiveness of influenza vaccine in immunosuppressed adults with malignancies. The primary review outcome is all‐cause mortality, preferably at the end of the influenza season. Influenza‐like illness (ILI, a clinical definition), confirmed influenza, pneumonia, any hospitalisations, influenza‐related mortality and immunogenicity were defined as secondary outcomes. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase and LILACS databases up to May 2017. We searched the following conference proceedings: ICAAC, ECCMID, IDSA (infectious disease conferences), ASH, ASBMT, EBMT (haematological), and ASCO (oncological) between the years 2006 to 2017. In addition, we scanned the references of all identified studies and pertinent reviews. We searched the websites of the manufacturers of influenza vaccine. Finally, we searched for ongoing or unpublished trials in clinical trial registry databases. 
+Selection criteria
+Randomised controlled trials (RCTs), prospective and retrospective cohort studies and case‐control studies were considered, comparing inactivated influenza vaccines versus placebo, no vaccination or a different vaccine, in adults (16 years and over) with cancer. We considered solid malignancies treated with chemotherapy, haematological cancer patients treated or not treated with chemotherapy, cancer patients post‐autologous (up to six months after transplantation) or allogeneic (at any time) haematopoietic stem cell transplantation (HSCT). 

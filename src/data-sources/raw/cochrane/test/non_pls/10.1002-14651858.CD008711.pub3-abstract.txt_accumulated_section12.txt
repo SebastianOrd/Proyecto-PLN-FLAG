@@ -1,0 +1,12 @@
+Background
+Haemoptysis is a common pathology around the world, occurring with more frequency in low‐income countries. It has different etiologies, many of which have infectious characteristics. Antifibrinolytic agents are commonly used to manage bleeding from different sources, but their usefulness in pulmonology is unclear. 
+Objectives
+To evaluate the effectiveness and safety of antifibrinolytic agents in reducing the volume and duration of haemoptysis in adult and paediatric patients. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) and the Database of Abstracts of Reviews of Effects (DARE) in The Cochrane Library, EMBASE and LILACS for publications that describe randomized controlled trials (RCTs) of antifibrinolytic therapy in patients presenting with haemoptysis. We also performed an independent search in MEDLINE for relevant trials not yet included in CENTRAL or DARE. Searches are up to date to the 19th September 2016. We conducted electronic and manual searches of relevant national and international journals. We reviewed the reference lists of included studies to locate relevant randomized controlled trials (RCTs). An additional search was carried out to find unpublished RCTs. 
+Selection criteria
+We included RCTs designed to evaluate the effectiveness and safety of antifibrinolytic agents in reducing haemoptysis in adult and paediatric patients of both genders presenting with haemoptysis of any etiology and severity. The intervention of interest was the administration of antifibrinolytic agents compared with placebo or no treatment. 
+Data collection and analysis
+All reviewers independently assessed methodological quality and extracted data tables pre‐designed for this review. 
+Main results
+The electronic literature search identified 1 original study that met the eligibility criteria. One unpublished study was also identified through manual searches. Therefore two randomized controlled trials met the inclusion criteria: Tscheikuna 2002 (via electronic searches) and Ruiz 1994 (via manual searches). 

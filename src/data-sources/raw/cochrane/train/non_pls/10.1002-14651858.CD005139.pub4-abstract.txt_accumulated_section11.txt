@@ -1,0 +1,11 @@
+Background
+Age‐related macular degeneration (AMD) is the most common cause of uncorrectable severe vision loss in people aged 55 years and older in the developed world. Choroidal neovascularization (CNV) secondary to AMD accounts for most cases of AMD‐related severe vision loss. Intravitreous injection of anti‐vascular endothelial growth factor (anti‐VEGF) agents aims to block the growth of abnormal blood vessels in the eye to prevent vision loss and, in some instances, to improve vision. 
+Objectives
+• To investigate ocular and systemic effects of, and quality of life associated with, intravitreous injection of three anti‐VEGF agents (pegaptanib, ranibizumab, and bevacizumab) versus no anti‐VEGF treatment for patients with neovascular AMD 
+• To compare the relative effects of one of these anti‐VEGF agents versus another when administered in comparable dosages and regimens 
+Search methods
+To identify eligible studies for this review, we searched the Cochrane Central Register of Controlled Trials (CENTRAL), which contains the Cochrane Eyes and Vision Trials Register (searched January 31, 2018); MEDLINE Ovid (1946 to January 31, 2018); Embase Ovid (1947 to January 31, 2018); the Latin American and Caribbean Health Sciences Literature Database (LILACS) (1982 to January 31, 2018); the International Standard Randomized Controlled Trials Number (ISRCTN) Registry (www.isrctn.com/editAdvancedSearch ‐ searched January 31, 2018); ClinicalTrials.gov (www.clinicaltrials.gov ‐ searched November 28, 2018); and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en ‐ searched January 31, 2018). We did not impose any date or language restrictions in electronic searches for trials. 
+Selection criteria
+We included randomized controlled trials (RCTs) that evaluated pegaptanib, ranibizumab, or bevacizumab versus each other or versus a control treatment (e.g. sham treatment, photodynamic therapy), in which participants were followed for at least one year. 
+Data collection and analysis
+Two review authors independently screened records, extracted data, and assessed risks of bias. We contacted trial authors for additional data. We compared outcomes using risk ratios (RRs) or mean differences (MDs). We used the standard methodological procedures expected by Cochrane. 

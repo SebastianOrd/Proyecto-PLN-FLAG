@@ -1,0 +1,14 @@
+Background
+Inhaled beta2‐agonist therapy is central to the management of acute asthma. For rapid bronchodilation in severe cases, penetration of inhaled drug to the affected small conducting airway may be impeded, and the intravenous (IV) rather than inhaled administration of bronchodilators may provide an earlier response. IV beta2‐agonist agents and IV aminophylline may also be considered as additional interventions in this setting and this review compares IV beta‐agonist agents and IV aminophylline in the treatment of people with acute asthma. 
+Objectives
+To compare the benefit of IV beta2‐agonists versus IV aminophylline for acute asthma treated in the emergency department and in patients admitted to hospital with acute severe asthma. 
+Search methods
+Randomised controlled trials (RCTs) were identified using the Cochrane Airways Group Register, which is compiled from systematic searches of bibliographic databases as well as handsearching of respiratory journals and conference abstracts. The latest search was run in September 2012. We searched bibliographies from included studies and known reviews were also searched. Primary authors and content experts were contacted to identify eligible studies. 
+Selection criteria
+We included RCTs of patients who presented to the emergency department with acute asthma, and patients admitted to hospital with acute severe asthma, and were treated with IV beta2‐agonists versus IV aminophylline. Two review authors independently selected potentially relevant articles and selected articles for inclusion. Methodological quality was independently assessed using two scoring systems and two review authors. 
+Data collection and analysis
+Data were extracted independently by two review authors. Missing data were obtained from authors or calculated from data present in the papers. Trials were combined using a random‐effects model for odds ratios (OR) or mean differences (MD) and reported with 95% confidence intervals (95% CI). 
+Main results
+Eleven studies met our inclusion criteria and in total they included 350 patients. However, opportunities to combine these studies in meta‐analyses were limited by the variations in the range of outcomes reported in the trials. 
+Length of stay 
+Two studies reported length of stay. They were both paediatric trials (with one in paediatric intensive care unit), and there was no significant difference between the two groups (MD 23.19 hours; 95% CI ‐2.40 to 48.77 hours; 2 studies; N = 73). Individual separate MD analyses for the two studies also indicated no significant difference between the aminophylline and beta2‐agonist on this outcome. However, this finding should be interpreted with caution owing to the small number of trials and participants the analysis. 

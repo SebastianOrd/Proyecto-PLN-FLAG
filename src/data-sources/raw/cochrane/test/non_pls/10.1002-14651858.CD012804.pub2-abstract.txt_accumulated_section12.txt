@@ -1,0 +1,12 @@
+Background
+Ustekinumab and briakinumab are monoclonal antibodies that target the standard p40 subunit of cytokines interleukin‐12 and interleukin‐23 (IL‐12/23p40), which are involved in the pathogenesis of Crohn's disease (CD). A significant proportion of people with Crohn's disease fail conventional therapy or therapy with biologics (e.g. infliximab) or develop significant adverse events. Anti‐IL‐12/23p40 antibodies such as ustekinumab may be an effective alternative for these individuals. 
+Objectives
+The objectives of this review were to assess the efficacy and safety of anti‐IL‐12/23p40 antibodies for maintenance of remission in CD. 
+Search methods
+We searched the Cochrane IBD Group Specialized Register, CENTRAL, MEDLINE, Embase, and trials registers from inception to 17 September 2019. We searched references and conference abstracts for additional studies. 
+Selection criteria
+We considered for inclusion randomized controlled trials in which monoclonal antibodies against IL‐12/23p40 were compared to placebo or another active comparator in participants with quiescent CD. 
+Data collection and analysis
+Two review authors independently screened studies for inclusion, extracted data, and assessed bias using the Cochrane 'Risk of bias' tool. The primary outcome measure was failure to maintain clinical remission, defined as a Crohn's disease activity index (CDAI) of < 150 points. Secondary outcomes included failure to maintain clinical response, adverse events (AE), serious adverse events (SAE), and withdrawals due to AEs. Clinical response was defined as a decrease in CDAI score of ≥ 100 points from baseline score. We calculated the risk ratio (RR) and 95% confidence intervals (95% CI) for each outcome. We analyzed all data on an intention‐to‐treat basis. We used GRADE to evaluate the overall certainty of the evidence supporting the outcomes. 
+Main results
+Three randomized controlled trials (646 participants) met the inclusion criteria. Two trials assessed the efficacy of ustekinumab (542 participants), and one study assessed the efficacy of briakinumab (104 participants). We assessed all of the included studies as at low risk of bias. 

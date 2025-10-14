@@ -1,0 +1,13 @@
+Background
+Gastric tubes are commonly used for the administration of drugs and tube feeding for people who are unable to swallow. Feeding via a tube misplaced in the trachea can result in severe pneumonia. Therefore, the confirmation of tube placement in the stomach after tube insertion is important. Recent studies have reported that ultrasonography provides good diagnostic accuracy estimates in the confirmation of appropriate tube placement. Hence, ultrasound could provide a promising alternative to X‐rays in the confirmation of tube placement, especially in settings where X‐ray facilities are unavailable or difficult to access. 
+Objectives
+To assess the diagnostic accuracy of ultrasound for gastric tube placement confirmation.
+Search methods
+We searched the Cochrane Library (2016, Issue 3), MEDLINE (to March 2016), Embase (to March 2016), National Institute for Health Research (NIHR) PROSPERO Register (to May 2016), Aggressive Research Intelligence Facility Databases (to May 2016), ClinicalTrials.gov (to May 2016), ISRCTN registry (May 2016), World Health Organization International Clinical Trials Registry Platform (to May 2016) and reference lists of articles, and contacted study authors. 
+Selection criteria
+We included studies that evaluated the diagnostic accuracy of naso‐ and orogastric tube placement confirmed by ultrasound visualization using X‐ray visualization as the reference standard. We included cross‐sectional studies, and case‐control studies. We excluded case series or case reports. Studies were excluded if X‐ray visualization was not the reference standard or if the tube being placed was a gastrostomy or enteric tube. 
+Data collection and analysis
+Two review authors independently assessed the risk of bias and extracted data from each of the included studies. We contacted authors of the included studies to obtain missing data. 
+Main results
+We identified 10 studies (545 participants and 560 tube insertions) which met our inclusion criteria. 
+No study was assigned low risk of bias or low concern in every QUADAS‐2 domain. We judged only three (30%) studies to have low risk of bias in the participant selection domain because they performed ultrasound after they confirmed correct position by other methods. 

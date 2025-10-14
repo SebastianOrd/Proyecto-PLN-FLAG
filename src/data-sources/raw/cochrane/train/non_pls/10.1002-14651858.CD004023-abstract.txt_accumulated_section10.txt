@@ -1,0 +1,10 @@
+Background
+Early stage multiple myeloma (MM) represents about 20% of MM. Most of the patients are asymptomatic. Thus, it is far less dramatic than advanced disease and may require different treatment strategies. For these patients, it is not clear whether it is better to start chemotherapy right after the diagnosis or to delay the treatment until symptoms become obvious as the disease progresses. 
+Objectives
+To identify and synthesize all available research evidence on whether early treatment intervention results in improved clinical outcomes when compared with observation alone. The main outcomes of interest that were examined included mortality, disease progression, response rate, and toxicity of early treatment. 
+Search methods
+Searches of the following electronic databases were undertaken: MEDLINE, EMBASE, CANCERLIT, LILLIACS and Cochrane Database of RCTs. We have recently compiled a comprehensive database of RCTs in myeloma. This search was updated and supplemented by hand‐search of abstracts from main society meetings such as the ASH (American Society of Hematology), ASCO (American Society of Clinical Oncology), and EHA (European Haematology Association) . In addition, we compared our list with a list of RCTs maintained by the Oxford Clinical Trial Service Unit. 
+Selection criteria
+Randomized controlled trials (RCT) with a parallel design that compared early versus deferred treatment of patients with early stage multiple myeloma based on Durie‐Salmon (D‐S) staging system. We also considered those trials that did not define early stage myeloma according to D‐S staging system, but enrolled patients according to clinical uncertainty about the benefits of immediate intervention. 
+Data collection and analysis
+Data synthesis was performed for all studies and according to the defined quality criteria. The first reviewer and the contact reviewer of this proposal independently extracted data. Disagreement was resolved by consensus. Revman software (4.1) was used to combine results from all studies and expressed as an overall odds ratio or Peto's Odds Ratio, with 95% confidence interval. 

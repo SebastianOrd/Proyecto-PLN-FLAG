@@ -1,0 +1,10 @@
+Background
+Preterm infants are at risk of exhausting their body iron stores much earlier than healthy term newborns. It is widespread practice to give enteral iron supplementation to preterm and low birth weight infants to prevent iron deficiency anaemia. However, it is unclear whether supplementing preterm and low birth weight infants with iron improves growth and neurodevelopment. It is suspected that excess exogenous iron can contribute to oxidative injury in preterm babies, causing or exacerbating conditions such as necrotising enterocolitis and retinopathy of prematurity. Additionally, the optimal dose and timing of commencement and cessation of iron supplementation are uncertain. 
+Objectives
+To evaluate the effect of prophylactic enteral iron supplementation on growth and neurodevelopmental outcomes in preterm and low birth weight infants. The secondary objectives were to determine whether iron supplementation results in improved haematological parameters and prevents other causes of morbidity and mortality. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group. We searched Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 8), MEDLINE (1951 to August 2011), CINAHL (1982 to August 2011) and conference proceedings and previous reviews. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐randomised trials that compared enteral iron supplementation with no iron supplementation, or different regimens of enteral iron supplementation in preterm or low birth weight infants or both. 
+Data collection and analysis
+We extracted data using the standard methods of the Cochrane Neonatal Review Group. Both review authors separately evaluated trial quality and data extraction. We synthesised data using risk ratios (RRs), risk differences (RDs) and weighted mean differences (WMDs). Where data about the methodology and results or both were lacking, we made an attempt to contact the study authors for further information. 

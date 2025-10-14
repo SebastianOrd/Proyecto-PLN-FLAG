@@ -1,0 +1,10 @@
+Background
+Duchenne muscular dystrophy (DMD) is an X‐linked recessive disorder characterised by progressive muscle weakness beginning in early childhood. Respiratory failure and weak cough develop in all patients as a consequence of muscle weakness leading to a risk of atelectasis, pneumonia, or the need for ventilatory support. There is no curative treatment for DMD. Corticosteroids are the only pharmacological intervention proven to delay the onset and progression of muscle weakness and thus respiratory decline in DMD. Antioxidant treatment has been proposed to try to reduce muscle weakness in general, and respiratory decline in particular.  
+Objectives
+To assess the effects of antioxidant agents on preventing respiratory decline in people with Duchenne muscular dystrophy during the respiratory decline phase of the condition.  
+Search methods
+We searched CENTRAL, MEDLINE, Embase, and two trials registers to 23 March 2021, together with reference checking, citation searching, and contact with study authors to identify additional studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs that met our inclusion criteria. We included male patients with a diagnosis of DMD who had respiratory decline evidenced by a forced vital capacity (FVC%) less than 80% but greater than 30% of predicted values, receiving any antioxidant agent compared with other therapies for the management of DMD or placebo.  
+Data collection and analysis
+Two review authors screened studies for eligibility, assessed risk of bias of studies, and extracted data. We used standard methods expected by Cochrane. We assessed the certainty of the evidence using the GRADE approach. The primary outcomes were FVC and hospitalisation due to respiratory infections. Secondary outcomes were quality of life, adverse events, change in muscle function, forced expiratory volume in the first second (FEV1), and peak expiratory flow (PEF).  

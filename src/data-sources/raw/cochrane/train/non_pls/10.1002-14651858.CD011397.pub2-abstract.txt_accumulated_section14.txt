@@ -1,0 +1,14 @@
+Background
+Despite the availability of several evidence‐based therapies and non‐pharmacological strategies to improve control of symptoms and prevent exacerbations of asthma, patients with asthma continue to be at risk for mortality and morbidity. 
+Previous trials have demonstrated the potentially beneficial effects of the long‐acting muscarinic antagonist (LAMA) tiotropium on lung function in patients with asthma; however, a definitive conclusion on the benefit of LAMA in asthma is lacking, as is information on where in the current step‐wise management strategy they would be most beneficial. 
+Objectives
+To assess the efficacy and safety of a LAMA added to any dose of an inhaled corticosteroid (ICS) compared with the same dose of ICS alone for adults whose asthma is not well controlled. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register (CAGR) from inception to April 2015, and we imposed no restriction on language of publication. We also searched clinicaltrials.gov, the World Health Organization (WHO) trials portal and drug company registries to identify unpublished studies. 
+Selection criteria
+We searched for parallel and cross‐over randomised controlled trials in which adults whose asthma was not well controlled by ICS alone were randomly assigned to receive LAMA add‐on or placebo (both combined with ICS) for at least 12 weeks. 
+Data collection and analysis
+Two review authors independently screened the searches and extracted data from study reports. We used Covidence for duplicate screening, extraction of study characteristics and numerical data and risk of bias ratings. Pre‐specified primary outcomes included exacerbations requiring oral corticosteroids, quality of life and all‐cause serious adverse events. 
+Main results
+We identified five studies that met the inclusion criteria. All studies applied a double‐blind, double‐dummy design, and the population of all studies totalled 2563 adult participants. Study duration ranged from 12 weeks to 52 weeks, and risk of bias across domains in all studies was low. Trials included more women than men (33% to 47% male), and mean age of participants ranged from 41 to 48 years. Participants generally had a long history of asthma, and mean baseline predicted forced expiratory volume in one second (FEV1) was between 72% and 75% in three studies reporting pre‐bronchodilator values. 
+The rate of exacerbations requiring oral corticosteroids (OCS) was lower in patients prescribed an LAMA add‐on than in those receiving the same dose of ICS alone (odds ratio (OR) 0.65, 95% confidence interval (CI) 0.46 to 0.93; 2277 participants; four studies; I2 = 0%; high‐quality evidence), meaning that 27 fewer people per 1000 would have an exacerbation over 21 weeks requiring OCS with LAMA compared with ICS alone (95% CI 42 fewer to 6 fewer). 

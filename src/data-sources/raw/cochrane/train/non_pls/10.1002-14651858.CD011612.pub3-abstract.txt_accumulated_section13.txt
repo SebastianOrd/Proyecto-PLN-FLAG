@@ -1,0 +1,13 @@
+Background
+Many studies have recently been conducted to assess the antidepressant efficacy of glutamate modification in mood disorders. This is an update of a review first published in 2015 focusing on the use of glutamate receptor modulators in unipolar depression. 
+Objectives
+To assess the effects ‐ and review the acceptability and tolerability ‐ of ketamine and other glutamate receptor modulators in alleviating the acute symptoms of depression in people with unipolar major depressive disorder. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), Ovid MEDLINE, Embase and PsycINFO all years to July 2020.  We did not apply any restrictions to date, language or publication status. 
+Selection criteria
+Double‐ or single‐blinded randomised controlled trials (RCTs) comparing ketamine, memantine, esketamine or other glutamate receptor modulators with placebo (pill or saline infusion), other active psychotropic drugs, or electroconvulsive therapy (ECT) in adults with unipolar major depression. 
+Data collection and analysis
+Three review authors independently identified studies, assessed trial quality and extracted data. The primary outcomes were response rate (50% reduction on a standardised rating scale) and adverse events. We decided a priori to measure the efficacy outcomes at different time points and run sensitivity/subgroup analyses. Risk of bias was assessed using the Cochrane tool, and certainty of the evidence was assessed using GRADE. 
+Main results
+Thirty‐one new studies were identified for inclusion in this updated review. Overall, we included 64 studies (5299 participants) on ketamine (31 trials), esketamine (9), memantine (5), lanicemine (4), D‐cycloserine (2), Org26576 (2), riluzole (2), atomoxetine (1), basimglurant (1), citicoline (1), CP‐101,606 (1), decoglurant (1), MK‐0657 (1), N‐acetylcysteine (1), rapastinel (1), and sarcosine (1). 
+Forty‐eight studies were placebo‐controlled, and 48 were two‐arm studies. The majority of trials defined an inclusion criterion for the severity of depressive symptoms at baseline: 29 at least moderate depression; 17 severe depression; and five mild‐to‐moderate depression. Nineteen studies recruited only patients with treatment‐resistant depression, defined as inadequate response to at least two antidepressants. 

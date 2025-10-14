@@ -1,0 +1,10 @@
+Background
+Hepatocellular carcinoma is the fifth most common cancer worldwide. Percutaneous interventional therapies, such as radiofrequency (thermal) ablation (RFA), have been developed for early hepatocellular carcinoma. RFA competes with other interventional techniques such as percutaneous ethanol injection, surgical resection, and liver transplantation. The potential benefits and harms of RFA compared with placebo, no intervention, chemotherapy, hepatic resection, liver transplantation, or other interventions are unclear. 
+Objectives
+To assess the beneficial and harmful effects of RFA versus placebo, no intervention, or any other therapeutic approach in patients with hepatocellular carcinoma. 
+Search methods
+We searched the Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, and ISI Web of Science to September 2012. We handsearched meeting abstracts from ASCO, ESMO, AASLD, EASL, APASL, and references of articles. We also contacted researchers in the field (last search September 2012). 
+Selection criteria
+We considered for inclusion randomised clinical trials investigating the effects of RFA versus placebo, no intervention, or any other therapeutic approach on hepatocellular carcinoma patients regardless of blinding, language, and publication status. 
+Data collection and analysis
+Two review authors independently performed the selection of trials, assessment of risk of bias, and data extraction. We contacted principal investigators for missing information. We analysed hazard ratios (HR) as relevant effect measures for overall survival, two‐year survival, event‐free survival, and local recurrences with 95% confidence intervals (CI). In addition, we analysed dichotomous survival outcomes using risk ratios (RR). We used trial sequential analysis to control the risk of random errors ('play of chance'). 

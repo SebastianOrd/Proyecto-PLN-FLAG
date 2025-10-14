@@ -1,0 +1,10 @@
+Background
+Breast cancer is the most common type of cancer amongst women worldwide, and one distressing complication of breast cancer treatment is breast and upper‐limb lymphoedema. There is uncertainty regarding the effectiveness of surgical interventions in both the prevention and management of lymphoedema affecting the arm after breast cancer treatment. 
+Objectives
+1. To assess and compare the efficacy of surgical interventions for the prevention of the development of lymphoedema (LE) in the arm after breast cancer treatment. 2. To assess and compare the efficacy of surgical interventions for the treatment of established LE in the arm after breast cancer treatment. 
+Search methods
+We searched the Cochrane Breast Cancer Group’s Specialised Register, the Cochrane Central Register of Controlled Trials, MEDLINE, Embase, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), the WHO International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov for all prospectively registered and ongoing trials on 2 November 2017. Reference lists of included studies were also handsearched by three review authors for additional eligible trials. 
+Selection criteria
+All randomised controlled trials (RCTs) comparing a surgical intervention for the prevention or treatment of lymphoedema of the arm after breast cancer treatment to either standard intervention, placebo intervention, or another surgical intervention were included. Patients of both sexes and all ages who have had treatment for their breast cancer were considered. No limits were applied to language or study location. Three authors independently determined the eligibility of each study. 
+Data collection and analysis
+Three authors independently extracted data for each included study using a pre‐designed data extraction pro forma and used Cochrane's 'risk of bias' tool for assessing risk of bias. Dichotomous variables were analysed using the Mantel‐Haenszel method to estimate risk ratios (RRs). Differences in continuous variables were expressed as mean differences (MDs). GRADE was used to assess the certainty of the evidence provided by the included studies. 

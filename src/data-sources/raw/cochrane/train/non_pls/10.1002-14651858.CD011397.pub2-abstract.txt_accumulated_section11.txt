@@ -1,0 +1,11 @@
+Background
+Despite the availability of several evidence‐based therapies and non‐pharmacological strategies to improve control of symptoms and prevent exacerbations of asthma, patients with asthma continue to be at risk for mortality and morbidity. 
+Previous trials have demonstrated the potentially beneficial effects of the long‐acting muscarinic antagonist (LAMA) tiotropium on lung function in patients with asthma; however, a definitive conclusion on the benefit of LAMA in asthma is lacking, as is information on where in the current step‐wise management strategy they would be most beneficial. 
+Objectives
+To assess the efficacy and safety of a LAMA added to any dose of an inhaled corticosteroid (ICS) compared with the same dose of ICS alone for adults whose asthma is not well controlled. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register (CAGR) from inception to April 2015, and we imposed no restriction on language of publication. We also searched clinicaltrials.gov, the World Health Organization (WHO) trials portal and drug company registries to identify unpublished studies. 
+Selection criteria
+We searched for parallel and cross‐over randomised controlled trials in which adults whose asthma was not well controlled by ICS alone were randomly assigned to receive LAMA add‐on or placebo (both combined with ICS) for at least 12 weeks. 
+Data collection and analysis
+Two review authors independently screened the searches and extracted data from study reports. We used Covidence for duplicate screening, extraction of study characteristics and numerical data and risk of bias ratings. Pre‐specified primary outcomes included exacerbations requiring oral corticosteroids, quality of life and all‐cause serious adverse events. 

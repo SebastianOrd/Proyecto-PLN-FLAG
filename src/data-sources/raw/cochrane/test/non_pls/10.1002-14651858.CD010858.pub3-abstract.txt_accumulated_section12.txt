@@ -1,0 +1,12 @@
+Background
+Sickle cell disease (SCD) is a genetic chronic haemolytic and pro‐inflammatory disorder. With increased catabolism and deficits in energy and nutrient intake, individuals with SCD suffer multiple macro‐ and micro‐nutritional deficiencies, including vitamin D deficiency. This is an update of a previous review. 
+Objectives
+To investigate the effects of vitamin D supplementation in children and adults with SCD and to compare different dose regimens. 
+To determine the effects of vitamin D supplementation on general health (e.g. growth status and health‐related quality of life), on musculoskeletal health (including bone mineral density, pain crises, bone fracture and muscle health), on respiratory health (including lung function, acute chest syndrome, acute exacerbation of asthma and respiratory infections) and the safety of vitamin D supplementation. 
+Search methods
+We searched the Cochrane Haemoglobinopathies Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. Date of last search: 19 March 2020. 
+We also searched database such as PubMed, clinical trial registries and the reference lists of relevant articles and reviews. Date of last search: 14 January 2020. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs comparing oral administration of any form of vitamin D supplementation at any dose and for any duration to another type or dose of vitamin D or placebo or no supplementation in people with SCD, of all ages, gender, and phenotypes. 
+Data collection and analysis
+Two authors independently extracted the data and assessed the risk of bias of the included studies. They used the GRADE guidelines to assess the quality of the evidence. 

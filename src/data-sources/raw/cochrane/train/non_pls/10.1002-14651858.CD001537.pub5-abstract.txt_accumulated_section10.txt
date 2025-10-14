@@ -1,0 +1,10 @@
+Background
+Steroids have been used widely since the early 1970s for the treatment of adult‐onset minimal change disease (MCD). Recently, newer agents have been used in adult MCD aiming to reduce the risk of adverse effects. The response rates to immunosuppressive agents in adult MCD are more variable than in children. The optimal agent, dose, and duration of treatment for the first episode of nephrotic syndrome, or for disease relapse(s) have not been determined. This is an update of a review first published in 2008. 
+Objectives
+We aimed to 1) evaluate the benefits and harms of different agents, including both immunosuppressive and non‐immunosuppressive agents, in adults with MCD causing the nephrotic syndrome; and 2) evaluate the efficacy of interventions on 'time‐to‐remission' of nephrotic syndrome, in adults with MCD causing the nephrotic syndrome. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 21 July 2021 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs of any intervention for MCD with nephrotic syndrome in adults over 18 years were included. Studies comparing different types, routes, frequencies, and duration of immunosuppressive agents and non‐immunosuppressive agents were assessed. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. Statistical analyses were performed using the random‐effects model and results were expressed as a risk ratio (RR) for dichotomous outcomes, or mean difference (MD) for continuous data with 95% confidence intervals (CI). Confidence in the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. 

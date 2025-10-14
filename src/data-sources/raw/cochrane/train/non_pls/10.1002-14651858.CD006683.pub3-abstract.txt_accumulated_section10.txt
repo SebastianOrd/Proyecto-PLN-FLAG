@@ -1,0 +1,10 @@
+Background
+Macular oedema (MO) is the accumulation of extracellular fluid in the central retina (the macula). It may occur after cataract surgery and may give rise to poor visual outcome, with reduced visual acuity and distortion of the central vision. MO is often self‐limiting with spontaneous resolution, but a small proportion of people with chronic persistent MO may be difficult to treat. Chronic oedema may lead to the formation of cystic spaces in the retina termed 'cystoid macular oedema' (CMO). Non‐steroidal anti‐inflammatory drugs (NSAIDs) are commonly used in cataract surgery and may reduce the chances of developing MO. 
+Objectives
+The aim of this review is to answer the question: is there evidence to support the prophylactic use of topical NSAIDs either in addition to, or instead of, topical steroids postoperatively to reduce the incidence of macular oedema (MO) and associated visual morbidity. 
+Search methods
+We searched a number of electronic databases including CENTRAL, MEDLINE and Embase. Date last searched 2 September 2016. 
+Selection criteria
+We included randomised controlled trials (RCTs) in which adult participants had undergone surgery for age‐related cataract. We included participants irrespective of their baseline risk of MO, in particular we included people with diabetes and uveitis. We included trials of preoperative and/or postoperative topical NSAIDs in conjunction with postoperative topical steroids. The comparator was postoperative topical steroids alone. A secondary comparison was preoperative and/or postoperative topical NSAIDs alone versus postoperative topical steroids alone. 
+Data collection and analysis
+Two review authors independently selected studies for inclusion, assessed risk of bias and extracted data using standard methods expected by Cochrane. We pooled data using a random‐effects model. We graded the certainty of the evidence using GRADE and considered the following: risk of bias of included studies, precision of the effect estimate, consistency of effects between studies, directness of the outcome measure and publication bias. 

@@ -1,0 +1,12 @@
+Background
+Rheumatoid arthritis is a systemic auto‐immune disorder that causes widespread and persistent inflammation of the synovial lining of joints and tendon sheaths. Presently, there is no cure for rheumatoid arthritis and treatment focuses on managing symptoms such as pain, stiffness and mobility, with the aim of achieving stable remission and improving mobility. Celecoxib is a selective non‐steroidal anti‐inflammatory drug (NSAID) used for treatment of people with rheumatoid arthritis. 
+Objectives
+To assess the benefits and harms of celecoxib in people with rheumatoid arthritis.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase and clinical trials registers (ClinicalTrials.gov and the World Health Organization trials portal) to May 18, 2017. We also searched the reference and citation lists of included studies. 
+Selection criteria
+We included prospective randomized controlled trials (RCTs) that compared oral celecoxib (200 mg and 400 mg daily) versus no intervention, placebo or a traditional NSAID (tNSAID) in people with confirmed rheumatoid arthritis, of any age and either sex. We excluded studies with fewer than 50 participants in each arm or had durations of fewer than four weeks treatment. 
+Data collection and analysis
+We used standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+We included eight RCTs with durations of 4 to 24 weeks, published between 1998 and 2014 that involved a total of 3988 adults (mean age = 54 years), most of whom were women (73%). Participants had rheumatoid arthritis for an average of 9.2 years. All studies were assessed at high or unclear risk of bias in at least one domain. Overall, evidence was assessed as moderate‐to‐low quality. Five studies were funded by pharmaceutical companies. 

@@ -1,0 +1,10 @@
+Background
+Platelet transfusions are used in modern clinical practice to prevent and treat bleeding in people with thrombocytopenia. Although considerable advances have been made in platelet transfusion therapy since the mid‐1970s, some areas continue to provoke debate especially concerning the use of prophylactic platelet transfusions for the prevention of thrombocytopenic bleeding. 
+Objectives
+To determine whether agents that can be used as alternatives, or adjuncts, to platelet transfusions for people with haematological malignancies undergoing intensive chemotherapy or stem cell transplantation are safe and effective at preventing bleeding. 
+Search methods
+We searched 11 bibliographic databases and four ongoing trials databases including the Cochrane Central Register of Controlled Trials (CENTRAL, 2016, Issue 4), MEDLINE (OvidSP, 1946 to 19 May 2016), Embase (OvidSP, 1974 to 19 May 2016), PubMed (e‐publications only: searched 19 May 2016), ClinicalTrials.gov, World Health Organization (WHO) ICTRP and the ISRCTN Register (searched 19 May 2016). 
+Selection criteria
+We included randomised controlled trials in people with haematological malignancies undergoing intensive chemotherapy or stem cell transplantation who were allocated to either an alternative to platelet transfusion (artificial platelet substitutes, platelet‐poor plasma, fibrinogen concentrate, recombinant activated factor VII, desmopressin (DDAVP), or thrombopoietin (TPO) mimetics) or a comparator (placebo, standard care or platelet transfusion). We excluded studies of antifibrinolytic drugs, as they were the focus of another review. 
+Data collection and analysis
+Two review authors screened all electronically derived citations and abstracts of papers identified by the review search strategy. Two review authors assessed risk of bias in the included studies and extracted data independently. 

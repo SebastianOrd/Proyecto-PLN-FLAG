@@ -1,0 +1,14 @@
+Background
+Despite efforts to preserve the neurovascular bundles with nerve‐sparing surgery, erectile dysfunction remains common following radical prostatectomy. Postoperative penile rehabilitation seeks to restore erectile function but results have been conflicting. 
+Objectives
+To evaluate the effects of penile rehabilitation strategies in restoring erectile function following radical prostatectomy for prostate cancer. 
+Search methods
+We performed a comprehensive search of multiple databases (CENTRAL, MEDLINE, Embase), the Cochrane Library, Web of Science, clinical trial registries (ClinicalTrials.gov, International Clinical Trials Registry Platform) and a grey literature repository (Grey Literature Report) from their inception through to 3 January 2018. We also searched the reference lists of other relevant publications and abstract proceedings. We applied no language restrictions. 
+Selection criteria
+We included randomised or quasi‐randomised trials with a parallel or cross‐over design.
+Data collection and analysis
+We used standard Cochrane methodological procedures. Two review authors independently screened the literature, extracted data, assessed risk of bias and rated quality of evidence according to GRADE on a per‐outcome basis. Primary outcomes were self‐reported potency, erectile function measured by validated questionnaires (with potency defined as an International Index of Erectile Function (IIEF‐EF) score of 19 or greater and or an IIEF‐5 of score of 17 or greater) and serious adverse events. For all quality of life assessments on a continuous scale, higher values indicated better quality of life. 
+Main results
+We included eight randomised controlled trials with 1699 participants across three comparisons. This abstract focuses on the primary outcomes of this review only. 
+Scheduled phosphodiesterase type 5 inhibitors (PDE5I) versus placebo or no treatment 
+Scheduled PDE5I may have little or no effect on short‐term (up to 12 months) self‐reported potency (risk ratio (RR) 1.13, 95% confidence interval (CI) 0.91 to1.41; very low quality evidence), which corresponds to 47 more men with self‐reported potency per 1000 (95% CI 33 fewer to 149 more) and short‐term erectile function as assessed by a validated instrument (RR 1.11, 95% CI 0.80 to 1.55; very low quality evidence), which corresponds to 28 more men per 1000 (95% CI 50 fewer to 138 more), but we are very uncertain of both of these findings. Scheduled PDE5I may result in fewer serious adverse events compared to placebo (RR 0.32, 95% CI 0.11 to 0.94; low quality evidence), though this does not appear biologically plausible and may represent a chance finding. We are also very uncertain of this finding. We found no long‐term (longer than 12 months) data for any of the three primary outcomes. 

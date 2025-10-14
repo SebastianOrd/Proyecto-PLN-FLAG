@@ -1,0 +1,12 @@
+Background
+Thrombolytic therapy is usually reserved for people with clinically serious or massive pulmonary embolism (PE). Evidence suggests that thrombolytic agents may dissolve blood clots more rapidly than heparin and may reduce the death rate associated with PE. However, there are still concerns about the possible risk of adverse effects of thrombolytic therapy, such as major or minor haemorrhage. This is the fourth update of the Cochrane review first published in 2006. 
+Objectives
+To assess the effects of thrombolytic therapy for acute pulmonary embolism.
+Search methods
+The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase, and CINAHL databases and the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers to 17 August 2020. We undertook reference checking to identify additional studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared thrombolytic therapy followed by heparin versus heparin alone, heparin plus placebo, or surgical intervention for people with acute PE (massive/submassive). We did not include trials comparing two different thrombolytic agents or different doses of the same thrombolytic drug. 
+Data collection and analysis
+Two review authors (ZZ, QH) assessed the eligibility and risk of bias of trials and extracted data. We calculated effect estimates using the odds ratio (OR) with a 95% confidence interval (CI) or the mean difference (MD) with a 95% CI. The primary outcomes of interest were death, recurrence of PE and haemorrhagic events. We assessed the certainty of the evidence using GRADE criteria. 
+Main results
+We identified three new studies for inclusion in this update. We included 21 trials in the review, with a total of 2401 participants. No studies compared thrombolytics versus surgical intervention. We were not able to include one study in the meta‐analysis because it provided no extractable data. Most studies carried a high or unclear risk of bias related to randomisation and blinding. 

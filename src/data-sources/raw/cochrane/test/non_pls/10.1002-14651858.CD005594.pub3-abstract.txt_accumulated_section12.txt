@@ -1,0 +1,12 @@
+Background
+Guidelines suggest limited and cautious use of antipsychotics for treatment of delirium where nonpharmacological interventions have failed and symptoms remain distressing or dangerous, or both. It is unclear how well these recommendations are supported by current evidence. 
+Objectives
+Our primary objective was to assess the efficacy of antipsychotics versus nonantipsychotics or placebo on the duration of delirium in hospitalised adults. Our secondary objectives were to compare the efficacy of: 1) antipsychotics versus nonantipsychotics or placebo on delirium severity and resolution, mortality, hospital length of stay, discharge disposition, health‐related quality of life, and adverse effects; and 2) atypical vs. typical antipsychotics for reducing delirium duration, severity, and resolution, hospital mortality and length of stay, discharge disposition, health‐related quality of life, and adverse effects. 
+Search methods
+We searched MEDLINE, Embase, Cochrane EBM Reviews, CINAHL, Thomson Reuters Web of Science and the Latin American and Caribbean Health Sciences Literature (LILACS) from their respective inception dates until July 2017. We also searched the Database of Abstracts of Reviews of Effects (DARE), Health Technology Assessment Database, Web of Science ISI Proceedings, and other grey literature. 
+Selection criteria
+We included randomised and quasi‐randomised trials comparing 1) antipsychotics to nonantipsychotics or placebo and 2) typical to atypical antipsychotics for the treatment of delirium in adult hospitalised (but not critically ill) patients. 
+Data collection and analysis
+We examined titles and abstracts of identified studies to determine eligibility. We extracted data independently in duplicate. Disagreements were settled by further discussion and consensus. We used risk ratios (RR) with 95% confidence intervals (CI) as a measure of treatment effect for dichotomous outcomes, and between‐group standardised mean differences (SMD) with 95% CI for continuous outcomes. 
+Main results
+We included nine trials that recruited 727 participants. Four of the nine trials included a comparison of an antipsychotic to a nonantipsychotic drug or placebo and seven included a comparison of a typical to an atypical antipsychotic. The study populations included hospitalised medical, surgical, and palliative patients. 

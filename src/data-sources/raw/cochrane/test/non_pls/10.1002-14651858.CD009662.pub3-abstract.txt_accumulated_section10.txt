@@ -1,0 +1,10 @@
+Background
+Cannulation techniques have been recognized as being important in causing post‐endoscopic retrograde cholangiopancreatography (ERCP) pancreatitis (PEP). However, considerable controversy exists about the usefulness of the guidewire‐assisted cannulation technique for the prevention of PEP. 
+Objectives
+To assess the effectiveness and safety of the guidewire‐assisted cannulation technique compared to the conventional contrast‐assisted cannulation technique for the prevention of PEP in people undergoing diagnostic or therapeutic ERCP for biliary or pancreatic diseases. 
+Search methods
+For the previous version of this review, we searched CENTRAL (the Cochrane Library), MEDLINE, Embase, CINAHL and major conference proceedings, up to February 2012, with no language restrictions. An updated search was performed on 26 February 2021 for the current version of this review. Two clinical trial registries, clinicaltrials.gov and WHO ICTRP, were also searched in this update. 
+Selection criteria
+Randomized controlled trials (RCTs) comparing the guidewire‐assisted cannulation technique versus the contrast‐assisted cannulation technique in people undergoing ERCP. 
+Data collection and analysis
+Two review authors conducted study selection, data extraction, and methodological quality assessment independently. Using intention‐to‐treat analysis with random‐effects models, we combined dichotomous data to obtain risk ratios (RR) with 95% confidence intervals (CI). We assessed heterogeneity using the Chi² test (P < 0.10) and I² statistic (> 50%). To explore sources of heterogeneity, we conducted a priori subgroup analyses according to trial design, publication type, risk of bias, use of precut sphincterotomy, inadvertent guidewire insertion or contrast injection of the pancreatic duct (PD), use of a PD stent, cannulation device, and trainee involvement in cannulation. To assess the robustness of our results, we carried out sensitivity analyses using different summary statistics (RR versus odds ratio (OR)) and meta‐analytic models (fixed‐effect versus random‐effects) and per‐protocol analysis. 

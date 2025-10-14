@@ -1,0 +1,10 @@
+Background
+The incidence of hip fracture is increasing and it is more common with increasing age. Surgery is used for almost all hip fractures. Blood loss occurs as a consequence of both the fracture and the surgery and thus red blood cell transfusion is frequently used. However, red blood cell transfusion is not without risks. Therefore, it is important to identify the evidence for the effective and safe use of red blood cell transfusion in people with hip fracture. 
+Objectives
+To assess the effects (benefits and harms) of red blood cell transfusion in people undergoing surgery for hip fracture. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (31 October 2014), the Cochrane Central Register of Controlled Trials (The Cochrane Library, 2014, Issue 10), MEDLINE (January 1946 to 20 November 2014), EMBASE (January 1974 to 20 November 2014), CINAHL (January 1982 to 20 November 2014), British Nursing Index Database (January 1992 to 20 November 2014), the Systematic Review Initiative's Transfusion Evidence Library, PubMed for e‐publications, various other databases and ongoing trial registers. 
+Selection criteria
+Randomised controlled trials comparing red blood cell transfusion versus no transfusion or an alternative to transfusion, different transfusion protocols or different transfusion thresholds in people undergoing surgery for hip fracture. 
+Data collection and analysis
+Three review authors independently assessed each study's risk of bias and extracted data using a study‐specific form. We pooled data where there was homogeneity in the trial comparisons and the timing of outcome measurement. We used GRADE criteria to assess the quality (low, moderate or high) of the evidence for each outcome. 

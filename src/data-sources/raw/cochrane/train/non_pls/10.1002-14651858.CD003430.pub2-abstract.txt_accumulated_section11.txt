@@ -1,0 +1,11 @@
+Background
+This is an update of the Cochrane review published in 2002.
+Colorectal cancer (CRC) is a major cause of morbidity and mortality in industrialised countries. Experimental evidence has supported the hypothesis that dietary fibre may protect against the development of CRC, although epidemiologic data have been inconclusive. 
+Objectives
+To assess the effect of dietary fibre on the recurrence of colorectal adenomatous polyps in people with a known history of adenomatous polyps and on the incidence of CRC compared to placebo. Further, to identify the reported incidence of adverse effects, such as abdominal pain or diarrhoea, that resulted from the fibre intervention. 
+Search methods
+We identified randomised controlled trials (RCTs) from Cochrane Colorectal Cancer's Specialised Register, CENTRAL, MEDLINE and Embase (search date, 4 April 2016). We also searched ClinicalTrials.gov and WHO International Trials Registry Platform on October 2016. 
+Selection criteria
+We included RCTs or quasi‐RCTs. The population were those having a history of adenomatous polyps, but no previous history of CRC, and repeated visualisation of the colon/rectum after at least two‐years' follow‐up. Dietary fibre was the intervention. The primary outcomes were the number of participants with: 1. at least one adenoma, 2. more than one adenoma, 3. at least one adenoma greater than or equal to 1 cm, or 4. a new diagnosis of CRC. The secondary outcome was the number of adverse events. 
+Data collection and analysis
+Two reviewers independently extracted data, assessed trial quality and resolved discrepancies by consensus. We used risk ratios (RR) and risk difference (RD) with 95% confidence intervals (CI) to measure the effect. If statistical significance was reached, we reported the number needed to treat for an additional beneficial outcome (NNTB) or harmful outcome (NNTH). We combined the study data using the fixed‐effect model if it was clinically, methodologically, and statistically reasonable. 

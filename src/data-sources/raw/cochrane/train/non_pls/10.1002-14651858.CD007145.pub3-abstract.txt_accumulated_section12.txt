@@ -1,0 +1,12 @@
+Background
+This is an update of a Cochrane review first published in 2012, Issue 4. Excessive weight gain during pregnancy is associated with poor maternal and neonatal outcomes including gestational diabetes, hypertension, caesarean section, macrosomia, and stillbirth. Diet or exercise interventions, or both, may reduce excessive gestational weight gain (GWG) and associated poor outcomes; however, evidence from the original review was inconclusive. 
+Objectives
+To evaluate the effectiveness of diet or exercise, or both, interventions for preventing excessive weight gain during pregnancy and associated pregnancy complications. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (5 November 2014), contacted investigators of the previously identified ongoing studies and scanned reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) of diet or exercise, or both, interventions for preventing excessive weight gain in pregnancy. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. We organised RCTs according to the type of interventions and pooled data using the random‐effects model in the Review Manager software. We also performed subgroup analyses according to the initial risk of adverse effects related to poor weight control. We performed sensitivity analysis to assess the robustness of the findings. 
+Main results
+We included 65 RCTs, out of which 49 RCTs involving 11,444 women contributed data to quantitative meta‐analysis. Twenty studies were at moderate‐to‐high risk of bias. Study interventions involved mainly diet only, exercise only, and combined diet and exercise interventions, usually compared with standard care. Study methods varied widely; therefore, we estimated the average effect across studies and performed sensitivity analysis, where appropriate, by excluding outliers and studies at high risk of bias. 

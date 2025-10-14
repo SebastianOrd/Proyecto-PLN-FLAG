@@ -1,0 +1,10 @@
+Background
+D‐penicillamine is a penicillin derived compound originally used to treat patients with rheumatoid arthritis (RA) in the 1950's. Although frequently used in the past, its use has declined with the increasing use of other disease modifying anti‐rheumatic drugs (DMARDs) such as methotrexate. 
+Objectives
+To estimate the short‐term effects of D‐penicillamine for the treatment of rheumatoid arthritis (RA). 
+Search methods
+We searched the Cochrane Musculoskeletal Group's trials register, the Cochrane Controlled Trials Register (issue 3, 2000) and Medline up to and including August 2000 and Embase from 1988‐2000. We also carried out a handsearch of the reference lists of the trials retrieved from the electronic search. 
+Selection criteria
+All randomized controlled trials and controlled clinical trials comparing D‐penicillamine against placebo in patients with rheumatoid arthritis. 
+Data collection and analysis
+The methodological quality of the trials was assessed independently by two reviewers (CS, EB) and checked by a third (MS) using a validated quality assessment tool (Jadad 1996). Rheumatoid arthritis outcome measures were extracted from the publications for the six‐month endpoint and stratified according to D‐penicillamine dosages: low (<500mg/day), moderate (500 to <1000mg/day) and high (1000 mg/day or greater). Data was abstracted by one reviewer and checked by a second (CS, MS). The pooled analysis was performed using the standardized mean difference for joint counts, pain and global assessments. The weighted mean difference was used for erythrocyte sedimentation rate (ESR). Toxicity was evaluated with pooled odds ratios for withdrawals and adverse reactions. A chi‐square test was used to assess heterogeneity among trials. Fixed effects models were used throughout, since no statistical heterogeneity was found. 

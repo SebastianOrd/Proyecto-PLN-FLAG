@@ -1,0 +1,12 @@
+Background
+People with chronic obstructive pulmonary disease (COPD) have poor quality of life, reduced survival, and accelerated decline in lung function, especially associated with acute exacerbations, leading to high healthcare costs. Long‐acting bronchodilators are the mainstay of treatment for symptomatic improvement, and umeclidinium is one of the new long‐acting muscarinic antagonists approved for treatment of patients with stable COPD. 
+Objectives
+To assess the efficacy and safety of umeclidinium bromide versus placebo for people with stable COPD. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register (CAGR), ClinicalTrials.gov, the World Health Organization (WHO) trials portal, and the GlaxoSmithKline (GSK) Clinical Study Register, using prespecified terms, as well as the reference lists of all identified studies. Searches are current to April 2017. 
+Selection criteria
+We included randomised controlled trials (RCTs) of parallel design comparing umeclidinium bromide versus placebo in people with COPD, for at least 12 weeks. 
+Data collection and analysis
+We used standard Cochrane methodological procedures. If we noted significant heterogeneity in the meta‐analyses, we subgrouped studies by umeclidinium dose. 
+Main results
+We included four studies of 12 to 52 weeks' duration, involving 3798 participants with COPD. Mean age of participants ranged from 60.1 to 64.6 years; most were males with baseline mean smoking pack‐years of 39.2 to 52.3. They had moderate to severe COPD and baseline mean post‐bronchodilator forced expiratory volume in one second (FEV1) ranging from 44.5% to 55.1% of predicted normal. As all studies were systematically conducted according to prespecified protocols, we assessed risk of selection, performance, detection, attrition, and reporting biases as low. 

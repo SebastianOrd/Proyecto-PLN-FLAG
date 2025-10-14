@@ -1,0 +1,18 @@
+Can medicines that block interleukin‐6 (a protein involved in immune responses) treat COVID‐19? 
+Key messages 
+Treating COVID‐19 with tocilizumab (a medicine that blocks interleukin‐6) reduces the numbers of people who die within 28 days of treatment, and probably results in fewer serious unwanted effects than placebo treatment. 
+Studies of other medicines that block interleukin‐6 to treat COVID‐19 are under way. We will update this review when results from them become available. 
+COVID‐19 
+COVID‐19 is an infectious respiratory disease caused by a type of virus called a coronavirus. If the infection becomes severe, people may need intensive care and support in hospital, including machines to help them breathe (mechanical ventilation). Medicines that are currently used to treat other diseases are being tested in the search to find effective treatments for COVID‐19. 
+Blocking interleukin‐6 
+An immune response is how the body recognises and defends itself against harmful substances, such as viruses. COVID‐19 can disrupt the immune system, causing it to over‐react and produce dangerously high levels of inflammation. Interleukin‐6 (IL‐6) is a protein involved in triggering inflammation. Blocking the production of interleukin‐6 could reduce inflammation and help the immune system to fight COVID‐19. 
+Why we did this Cochrane Review 
+Tocilizumab and sarilumab are two medicines that block interleukin‐6. They are used to treat other conditions that involve an "over‐reactive" immune system, such as rheumatoid arthritis. We wanted to find out if medicines that block interleukin‐6 can be used to treat COVID‐19, and whether they might cause any unwanted effects. 
+What did we do? 
+We searched for studies that tested if medicines that block interleukin‐6 could treat COVID‐19. 
+We looked for randomised controlled studies, in which the treatments people received were decided by chance. This type of study usually gives the most reliable evidence about the effects of a treatment. 
+Search date: we searched for trials up to 26 February 2021. 
+What we found 
+We found 10 studies in 6896 people with COVID‐19. The average age of people in the studies was 56 to 65 years, and 66% of the people enrolled were men. The studies took place in Brazil, China, France, Italy, the UK and the USA; four studies took place in more than one country. Three studies were funded by pharmaceutical companies. 
+The medicines tested were tocilizumab and sarilumab. Both medicines were compared against a placebo (a dummy treatment that appears identical to the medicine being tested but without any active medicine) or standard care. The results were measured 28 days after treatment and after 60 days or more. 
+We also found 41 more studies of medicines blocking interleukin‐6 to treat COVID‐19 that had not yet published any results. These included 20 studies of tocilizumab, 11 studies of sarilumab and 10 studies of other medicines. Some of those studies are still ongoing and we will update this review to include their results when published. 

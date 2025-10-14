@@ -1,0 +1,10 @@
+Background
+Asthma management guidelines recommend low‐dose inhaled corticosteroids (ICS) as first‐line therapy for adults and adolescents with persistent asthma. The addition of anti‐leukotriene agents to ICS offers a therapeutic option in cases of suboptimal control with daily ICS. 
+Objectives
+To assess the efficacy and safety of anti‐leukotriene agents added to ICS compared with the same dose, an increased dose or a tapering dose of ICS (in both arms) for adults and adolescents 12 years of age and older with persistent asthma. Also, to determine whether any characteristics of participants or treatments might affect the magnitude of response. 
+Search methods
+We identified relevant studies from the Cochrane Airways Group Specialised Register of Trials, which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, PsycINFO, the Allied and Complementary Medicine Database (AMED), the Cumulative Index to Nursing and Allied Health Literature (CINAHL) and the trial registries clinicaltrials.gov and ICTRP from inception to August 2016. 
+Selection criteria
+We searched for randomised controlled trials (RCTs) of adults and adolescents 12 years of age and older on a maintenance dose of ICS for whom investigators added anti‐leukotrienes to the ICS and compared treatment with the same dose, an increased dose or a tapering dose of ICS for at least four weeks. 
+Data collection and analysis
+We used standard methods expected by Cochrane. The primary outcome was the number of participants with exacerbations requiring oral corticosteroids (except when both groups tapered the dose of ICS, in which case the primary outcome was the % reduction in ICS dose from baseline with maintained asthma control). Secondary outcomes included markers of exacerbation, lung function, asthma control, quality of life, withdrawals and adverse events. 

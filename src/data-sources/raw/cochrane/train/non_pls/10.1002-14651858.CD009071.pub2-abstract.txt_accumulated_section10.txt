@@ -1,0 +1,10 @@
+Background
+Chronic bacterial prostatitis (CBP) is frequently diagnosed in men of fertile age, and is characterized by a disabling array of symptoms, including pain in the pelvic area (for example, perineum, testicles), voiding symptoms (increased frequency and urgency, also at night; pain or discomfort at micturition), and sexual dysfunction. Cure of CBP can be attempted by long‐term therapy with antibacterial agents, but relapses are frequent. Few antibacterial agents are able to distribute to the prostatic tissue and achieve sufficient concentrations at the site of infection. These agents include fluoroquinolones, macrolides, tetracyclines and trimethoprim. After the introduction of fluoroquinolones into clinical practice, a number of studies have been performed to optimize the antimicrobial treatment of CBP, and to improve eradication rates and symptom relief. 
+Objectives
+To assess and compare the efficacy and harm of antimicrobial treatments for chronic bacterial prostatitis. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (PubMed), EMBASE, other national or international databases and abstracts from conference proceedings on 8 August 2012. 
+Selection criteria
+We included all randomized controlled comparisons of one antimicrobial agent versus placebo or one or more comparator antimicrobial agents, combined or not with non‐antimicrobial drugs. We also included trials comparing different doses, treatment durations, dosing frequencies, or routes of administration of antimicrobial agents. We excluded studies in which patients were not diagnosed according to internationally recommended criteria, or were not subjected to lower urinary tract segmented tests. 
+Data collection and analysis
+Study data were extracted independently by two review authors. Study outcomes were microbiological efficacy (pathogen eradication), clinical efficacy (symptom cure or improvement, or symptom scores) at test‐of‐cure visits or at follow‐up, or both, and adverse effects of therapy. Secondary outcomes included microbiological recurrence rates. 

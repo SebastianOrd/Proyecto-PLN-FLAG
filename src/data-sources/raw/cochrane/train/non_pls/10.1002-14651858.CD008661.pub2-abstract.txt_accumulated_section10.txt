@@ -1,0 +1,10 @@
+Background
+People with schizophrenia have a range of different symptoms, including positive symptoms (hallucinations and delusions), negative symptoms (such as social withdrawal and lack of affect), and cognitive impairment. The standard medication for people with schizophrenia is antipsychotics. However, these medications may not be effective for all symptoms of schizophrenia, as cognitive and negative symptoms are usually hard to treat. Additional therapies or medications are available for the management of these symptoms. Modafinil, a wakefulness‐promoting agent most frequently used in narcolepsy or shift work sleep disorder, is one intervention that is theorised to have an effect of these symptoms. 
+Objectives
+The primary objective of this review was to assess the effects of modafinil for people with schizophrenia or related disorders. 
+Search methods
+On 27 April 2015, 24 May 2017, and 31 October 2019, we searched the Cochrane Schizophrenia Group's register of trials, which is based on regular searches of CENTRAL, MEDLINE, Embase, AMED, BIOSIS, CINAHL, PsycINFO, PubMed, and registries of clinical trials. There are no language, time, document type, or publication status limitations for the inclusion of records in the register. 
+Selection criteria
+We selected all randomised controlled trials comparing modafinil with placebo or other treatments for people with schizophrenia or schizophrenia‐spectrum disorders. 
+Data collection and analysis
+We independently extracted data from the included studies. We analysed dichotomous data using risk ratios (RR) and 95% confidence intervals (CI). We analysed continuous data using mean difference (MD) with a 95% CI. We used a random‐effects model for the meta‐analysis. We used GRADE to complete a 'Summary of findings' table and assessed risk of bias for the included studies. 

@@ -1,0 +1,10 @@
+Background
+Evidence from systematic reviews of observational studies suggests that hormone therapy may have beneficial effects in reducing the incidence of cardiovascular disease events in post‐menopausal women, however the results of randomised controlled trials (RCTs) have had mixed results. This is an updated version of a Cochrane review published in 2013. 
+Objectives
+To assess the effects of hormone therapy for the prevention of cardiovascular disease in post‐menopausal women, and whether there are differential effects between use in primary or secondary prevention.  Secondary aims were to undertake exploratory analyses to (i) assess the impact of time since menopause that treatment was commenced (≥ 10 years versus < 10 years), and where these data were not available, use age of trial participants at baseline as a proxy (≥ 60 years of age versus < 60 years of age); and (ii) assess the effects of length of time on treatment. 
+Search methods
+We searched the following databases on 25 February 2014: Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE and LILACS. We also searched research and trials registers, and conducted reference checking of relevant studies and related systematic reviews to identify additional studies. 
+Selection criteria
+RCTs of women comparing orally administered hormone therapy with placebo or a no treatment control, with a minimum of six months follow‐up. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. We calculated risk ratios (RRs) with 95% confidence intervals (CIs) for each outcome. We combined results using random effects meta‐analyses, and undertook further analyses to assess the effects of treatment as primary or secondary prevention, and whether treatment was commenced more than or less than 10 years after menopause. 

@@ -1,0 +1,10 @@
+Background
+Extensive evidence shows that well over 50% of people prefer to be cared for and to die at home provided circumstances allow choice. Despite best efforts and policies, one‐third or less of all deaths take place at home in many countries of the world. 
+Objectives
+1. To quantify the effect of home palliative care services for adult patients with advanced illness and their family caregivers on patients' odds of dying at home; 2. to examine the clinical effectiveness of home palliative care services on other outcomes for patients and their caregivers such as symptom control, quality of life, caregiver distress and satisfaction with care; 3. to compare the resource use and costs associated with these services; 4. to critically appraise and summarise the current evidence on cost‐effectiveness. 
+Search methods
+We searched 12 electronic databases up to November 2012. We checked the reference lists of all included studies, 49 relevant systematic reviews, four key textbooks and recent conference abstracts. We contacted 17 experts and researchers for unpublished data. 
+Selection criteria
+We included randomised controlled trials (RCTs), controlled clinical trials (CCTs), controlled before and after studies (CBAs) and interrupted time series (ITSs) evaluating the impact of home palliative care services on outcomes for adults with advanced illness or their family caregivers, or both. 
+Data collection and analysis
+One review author assessed the identified titles and abstracts. Two independent reviewers performed assessment of all potentially relevant studies, data extraction and assessment of methodological quality. We carried out meta‐analysis where appropriate and calculated numbers needed to treat to benefit (NNTBs) for the primary outcome (death at home). 

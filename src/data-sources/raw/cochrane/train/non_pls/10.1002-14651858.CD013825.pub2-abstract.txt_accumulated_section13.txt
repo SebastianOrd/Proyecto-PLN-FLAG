@@ -1,0 +1,13 @@
+Background
+Monoclonal antibodies (mAbs) are laboratory‐produced molecules derived from the B cells of an infected host. They are being investigated as a potential therapy for coronavirus disease 2019 (COVID‐19). 
+Objectives
+To assess the effectiveness and safety of SARS‐CoV‐2‐neutralising mAbs for treating patients with COVID‐19, compared to an active comparator, placebo, or no intervention. To maintain the currency of the evidence, we will use a living systematic review approach. 
+A secondary objective is to track newly developed SARS‐CoV‐2‐targeting mAbs from first tests in humans onwards.  
+Search methods
+We searched MEDLINE, Embase, the Cochrane COVID‐19 Study Register, and three other databases on 17 June 2021. We also checked references, searched citations, and contacted study authors to identify additional studies. Between submission and publication, we conducted a shortened randomised controlled trial (RCT)‐only search on 30 July 2021. 
+Selection criteria
+We included studies that evaluated SARS‐CoV‐2‐neutralising mAbs, alone or combined, compared to an active comparator, placebo, or no intervention, to treat people with COVID‐19. We excluded studies on prophylactic use of SARS‐CoV‐2‐neutralising mAbs. 
+Data collection and analysis
+Two authors independently assessed search results, extracted data, and assessed risk of bias using the Cochrane risk of bias tool (RoB2). Prioritised outcomes were all‐cause mortality by days 30 and 60, clinical progression, quality of life, admission to hospital, adverse events (AEs), and serious adverse events (SAEs). We rated the certainty of evidence using GRADE. 
+Main results
+We identified six RCTs that provided results from 17,495 participants with planned completion dates between July 2021 and December 2031. Target sample sizes varied from 1020 to 10,000 participants. Average age was 42 to 53 years across four studies of non‐hospitalised participants, and 61 years in two studies of hospitalised participants. 

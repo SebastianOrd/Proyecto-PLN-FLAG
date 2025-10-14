@@ -1,0 +1,10 @@
+Background
+Most people who receive a kidney transplant die from either cardiovascular disease or cancer before their transplant fails. The most common reason for someone with a kidney transplant to lose the function of their transplanted kidney necessitating return to dialysis is chronic kidney transplant scarring. Immunosuppressant drugs have side effects that increase risks of cardiovascular disease, cancer and chronic kidney transplant scarring. Belatacept may provide sufficient immunosuppression while avoiding unwanted side effects of other immunosuppressant drugs. However, high rates of post‐transplant lymphoproliferative disease (PTLD) have been reported when belatacept is used in particular kidney transplant recipients at high dosage. 
+Objectives
+1) Compare the relative efficacy of belatacept versus any other primary immunosuppression regimen for preventing acute rejection, maintaining kidney transplant function, and preventing death. 2) Compare the incidence of several adverse events: PTLD; other malignancies; chronic transplant kidney scarring (IF/TA); infections; change in blood pressure, lipid and blood sugar control. 3) Assess any variation in effects by study, intervention and recipient characteristics, including: differences in pre‐transplant Epstein Barr virus serostatus; belatacept dosage; and donor‐category (living, standard criteria deceased, or extended criteria deceased). 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register to 1 September 2014 through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+Randomised controlled trials (RCT) that compared belatacept versus any other immunosuppression regimen in kidney transplant recipients were eligible for inclusion. 
+Data collection and analysis
+Two authors independently extracted data for study quality and transplant outcomes and synthesized results using random effects meta‐analysis, expressed as risk ratios (RR) and mean differences (MD), both with 95% confidence intervals (CI).  Subgroup analyses and univariate meta‐regression were used to investigate potential heterogeneity. 

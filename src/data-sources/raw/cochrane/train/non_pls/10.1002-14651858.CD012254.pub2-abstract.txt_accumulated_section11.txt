@@ -1,0 +1,11 @@
+Background
+Medical treatment and detoxification from opiate disorders includes oral administration of opioid agonists. Dihydrocodeine (DHC) substitution treatment is typically low threshold and therefore has the capacity to reach wider groups of opiate users. Decisions to prescribe DHC to patients with less severe opiate disorders centre on its perceived safety, reduced toxicity, shorter half‐life and more rapid onset of action, and potential retention of patients. This review set out to investigate the effects of DHC in comparison to other pharmaceutical opioids and placebos in the detoxification and substitution of individuals with opiate use disorders. 
+Objectives
+To investigate the effectiveness of DHC in reducing illicit opiate use and other health‐related outcomes among adults compared to other drugs or placebos used for detoxification or substitution therapy. 
+Search methods
+In February 2019 we searched Cochrane Drugs and Alcohol's Specialised Register, CENTRAL, PubMed, Embase and Web of Science. We also searched for ongoing and unpublished studies via ClinicalTrials.gov, the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) and Trialsjournal.com. All searches included non‐English language literature. We handsearched references of topic‐related systematic reviews and the included studies. 
+Selection criteria
+We included randomised controlled trials that evaluated the effect of DHC for detoxification and maintenance substitution therapy for adolescent (aged 15 years and older) and adult illicit opiate users. 
+The primary outcomes were abstinence from illicit opiate use following detoxification or maintenance therapy measured by self‐report or urinalysis. The secondary outcomes were treatment retention and other health and behaviour outcomes. 
+Data collection and analysis
+We followed the standard methodological procedures that are outlined by Cochrane. This includes the GRADE approach to appraise the quality of evidence. 

@@ -1,0 +1,10 @@
+Background
+Between 4% and 25% of school‐aged children at some stage complain of recurrent abdominal pain (RAP) of sufficient severity to interfere with their daily lives. When no clear organic cause is found, the children are managed with reassurance and simple measures; a large range of pharmacological interventions have been recommended for use in these children. 
+Objectives
+To determine the effectiveness of pharmacological interventions for RAP in children of school age. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), Ovid MEDLINE, Embase, and eight other electronic databases up to June 2016. We also searched two trials registers and contacted researchers of published studies. 
+Selection criteria
+Randomised controlled trials involving children aged five to 18 years old with RAP or an abdominal pain‐related functional gastrointestinal disorder, as defined by the Rome III criteria (Rasquin 2006). The interventions were any pharmacological intervention compared to placebo, no treatment, waiting list, or standard care. The primary outcome measures were pain intensity, pain duration or pain frequency, and improvement in pain. The secondary outcome measures were school performance, social or psychological functioning, and quality of daily life. 
+Data collection and analysis
+Two review authors independently screened titles, abstracts, and potentially relevant full‐text reports for eligible studies. Two review authors extracted data and performed a 'Risk of bias' assessment. We used the GRADE approach to rate the overall quality of the evidence. We deemed a meta‐analysis to be not appropriate as the studies were significantly heterogeneous. We have consequently provided a narrative summary of the results. 

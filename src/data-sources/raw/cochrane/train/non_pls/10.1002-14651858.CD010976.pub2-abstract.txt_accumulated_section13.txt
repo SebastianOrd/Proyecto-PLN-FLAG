@@ -1,0 +1,13 @@
+Background
+Chorioamnionitis is a common infection that affects both mother and infant. Infant complications associated with chorioamnionitis include early neonatal sepsis, pneumonia, and meningitis. Chorioamnionitis can also result in maternal morbidity such as pelvic infection and septic shock. 
+Clinical chorioamnionitis is estimated to occur in 1% to 2% of term births and in 5% to 10% of preterm births; histologic chorioamnionitis is found in nearly 20% of term births and in 50% of preterm births. Women with chorioamnionitis have a two to three times higher risk for cesarean delivery and a three to four times greater risk for endomyometritis, wound infection, pelvic abscess, bacteremia, and postpartum hemorrhage. 
+Objectives
+To assess the effects of administering antibiotic regimens for intra‐amniotic infection on maternal and perinatal morbidity and mortality and on infection‐related complications. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (1 October 2014), CENTRAL, MEDLINE, Embase, LILACS, and the WHO ICTRP (September 2014). We also searched reference lists of retrieved studies and contacted experts in the field. 
+Selection criteria
+Randomized controlled trials (RCTs) that included women who experienced intra‐amniotic infection. Trials were included if they compared antibiotic treatment with placebo or no treatment (if applicable), treatment with different antibiotic regimens, or timing of antibiotic therapy (intrapartum and/or postpartum). Therefore, this review assesses trials evaluating intrapartum antibiotics, intrapartum and postpartum antibiotic regimens, and postpartum antibiotics. Diagnosis of intra‐amniotic infection was based on standard criteria (clinical/test), and no limit was placed on gestational age. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and trial quality. Two review authors independently extracted data and checked them for accuracy. We assessed the quality of the evidence using the Grades of Recommendation, Assessment, Development and Evaluation (GRADE) approach and included a 'Summary of findings' table. 
+Main results
+Our prespecified primary outcomes were maternal and neonatal mortality, maternal and neonatal severe infection, and duration of maternal and neonatal hospital stay. 

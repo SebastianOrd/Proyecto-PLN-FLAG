@@ -1,0 +1,13 @@
+Background
+Topiramate is an antiepileptic drug with multiple possible mechanisms of action. Antiepileptic drugs are widely used to treat chronic neuropathic pain (pain due to nerve damage) and fibromyalgia, and many guidelines recommend them. 
+Objectives
+To assess the analgesic efficacy and associated adverse events of topiramate for chronic neuropathic pain and fibromyalgia in adults (aged 18 years and above). 
+Search methods
+On 8 May 2013, we searched the Cochrane Neuromuscular Disease Group Specialized Register, CENTRAL, MEDLINE, and EMBASE. We reviewed the bibliographies of all randomised trials identified and review articles, and also searched two clinical trial databases, ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform, to identify additional published or unpublished data. 
+Selection criteria
+We included randomised controlled trials (RCTs) with double‐blind assessment of participant outcomes following two weeks of treatment or longer (though the emphasis of the review was on studies of eight weeks or longer) that used a placebo or active comparator. 
+Data collection and analysis
+We extracted efficacy and adverse event data, and two study authors examined issues of study quality independently. We performed analysis using two tiers of evidence. The first tier used data where studies reported the outcome of at least 50% pain reduction from baseline, lasted at least eight weeks, had a parallel group design, included 200 or more participants in the comparison, and reported an intention‐to‐treat analysis. First tier studies did not use last‐observation‐carried‐forward (LOCF) or other imputation methods for dropouts. The second tier used data that failed to meet this standard; second tier results were therefore subject to potential bias. 
+Main results
+We included four studies with 1684 participants. Three parallel‐group placebo comparisons were in painful diabetic neuropathy (1643 participants), and one cross‐over study with diphenhydramine as an active placebo (41 participants) was in lumbar radiculopathy. Doses of topiramate were titrated up to 200 mg/day or 400 mg/day. All studies had one or more sources of potential major bias, as they either used LOCF imputation or were of small size. 
+No study provided first tier evidence for an efficacy outcome. There was no convincing evidence for efficacy of topiramate at 200 to 400 mg/day over placebo. 

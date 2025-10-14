@@ -1,0 +1,13 @@
+Background
+This is an update of a Cochrane Review first published in 2001.
+Hernias are protrusions of all or part of an organ through the body wall that normally contains it. Groin hernias include inguinal (96%) and femoral (4%) hernias, and are often symptomatic with discomfort. They are extremely common, with an estimated lifetime risk in men of 27%. Occasionally they may present as emergencies with complications such as bowel incarceration, obstruction and strangulation. The definitive treatment of all hernias is surgical repair, inguinal hernia repair being one of the most common surgical procedures performed. Mesh (hernioplasty) and the traditional non‐mesh repairs (herniorrhaphy) are commonly used, with an increasing preference towards mesh repairs in high‐income countries. 
+Objectives
+To evaluate the benefits and harms of different inguinal and femoral hernia repair techniques in adults, specifically comparing closure with mesh versus without mesh. Outcomes include hernia recurrence, complications (including neurovascular or visceral injury, haematoma, seroma, testicular injury, infection, postoperative pain), mortality, duration of operation, postoperative hospital stay and time to return to activities of daily living. 
+Search methods
+We searched the following databases on 9 May 2018: Cochrane Colorectal Cancer Group Specialized Register, Cochrane Central Register of Controlled Trials (Issue 1), Ovid MEDLINE (from 1950), Ovid Embase (from 1974) and Web of Science (from 1900). Furthermore, we checked the WHO International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov for trials. We applied no language or publication restrictions. We also searched the reference lists of included trials and review articles. 
+Selection criteria
+We included randomised controlled trials of mesh compared to non‐mesh inguinal or femoral hernia repairs in adults over the age of 18 years. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Where available, we collected information on adverse effects. We presented dichotomous data as risk ratios, and where possible we calculated the number needed to treat for an additional beneficial outcome (NNTB). We presented continuous data as mean difference. Analysis of missing data was based on intention‐to‐treat principles, and we assessed heterogeneity using an evaluation of clinical and methodological diversity, Chi2 test and I2 statistic. We used GRADE to assess the quality of evidence for each outcome. 
+Main results
+We included 25 studies (6293 participants) in this review. All included studies specified inguinal hernias, and two studies reported that femoral hernias were included. 

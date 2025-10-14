@@ -1,0 +1,12 @@
+Background
+Vitamin E occurs naturally in the diet. It has several biological activities, including functioning as an antioxidant to scavenge toxic free radicals. Evidence that free radicals may contribute to the pathological processes behind cognitive impairment has led to interest in the use of vitamin E supplements to treat mild cognitive impairment (MCI) and Alzheimer's disease (AD). This is an update of a Cochrane Review first published in 2000, and previously updated in 2006 and 2012. 
+Objectives
+To assess the efficacy of vitamin E in the treatment of MCI and dementia due to AD.
+Search methods
+We searched the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group (ALOIS), the Cochrane Library, MEDLINE, Embase, PsycINFO, CINAHL, LILACS as well as many trials databases and grey literature sources on 22 April 2016 using the terms: "Vitamin E", vitamin‐E, alpha‐tocopherol. 
+Selection criteria
+We included all double‐blind, randomised trials in which treatment with any dose of vitamin E was compared with placebo in people with AD or MCI. 
+Data collection and analysis
+We used standard methodological procedures according to the Cochrane Handbook for Systematic Reviews of Interventions. We rated the quality of the evidence using the GRADE approach. Where appropriate we attempted to contact authors to obtain missing information. 
+Main results
+Four trials met the inclusion criteria, but we could only extract outcome data in accordance with our protocol from two trials, one in an AD population (n = 304) and one in an MCI population (n = 516). Both trials had an overall low to unclear risk of bias. It was not possible to pool data across studies owing to a lack of comparable outcome measures. 

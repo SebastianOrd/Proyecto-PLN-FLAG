@@ -1,0 +1,10 @@
+Background
+Ovarian cancer is the leading cause of death from gynaecological cancer in developed countries. Surgery and chemotherapy are considered its mainstay of treatment and the completeness of surgery is a major prognostic factor for survival in these women. Currently, computed tomography (CT) is used to preoperatively assess tumour resectability. If considered feasible, women will be scheduled for primary debulking surgery (i.e. surgical efforts to remove the bulk of tumour with the aim of leaving no visible (macroscopic) tumour). If primary debulking is not considered feasible (i.e. the tumour load is too extensive), women will receive neoadjuvant chemotherapy to reduce tumour load and subsequently undergo (interval) surgery. However, CT is imperfect in assessing tumour resectability, so additional imaging modalities can be considered to optimise treatment selection. 
+Objectives
+To assess the diagnostic accuracy of fluorodeoxyglucose‐18 (FDG) PET/CT, conventional and diffusion‐weighted (DW) MRI as replacement or add‐on to abdominal CT, for assessing tumour resectability at primary debulking surgery in women with stage III to IV epithelial ovarian/fallopian tube/primary peritoneal cancer. 
+Search methods
+We searched MEDLINE and Embase (OVID) for potential eligible studies (1946 to 23 February 2017). Additionally, ClinicalTrials.gov, WHO‐ICTRP and the reference list of all relevant studies were searched. 
+Selection criteria
+Diagnostic accuracy studies addressing the accuracy of preoperative FDG‐PET/CT, conventional or DW‐MRI on assessing tumour resectability in women with advanced stage (III to IV) epithelial ovarian/fallopian tube/primary peritoneal cancer who are scheduled to undergo primary debulking surgery. 
+Data collection and analysis
+Two authors independently screened titles and abstracts for relevance and inclusion, extracted data and performed methodological quality assessment using QUADAS‐2. The limited number of studies did not permit meta‐analyses. 

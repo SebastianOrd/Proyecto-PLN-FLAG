@@ -1,0 +1,15 @@
+Background
+People with non‐cystic fibrosis bronchiectasis commonly experience chronic cough and sputum production, features that may be associated with progressive decline in clinical and functional status. Airway clearance techniques (ACTs) are often prescribed to facilitate expectoration of sputum from the lungs, but the efficacy of these techniques in a stable clinical state or during an acute exacerbation of bronchiectasis is unclear. 
+Objectives
+Primary: to determine effects of ACTs on rates of acute exacerbation, incidence of hospitalisation and health‐related quality of life (HRQoL) in individuals with acute and stable bronchiectasis. 
+Secondary: to determine whether: 
+• ACTs are safe for individuals with acute and stable bronchiectasis; and
+• ACTs have beneficial effects on physiology and symptoms in individuals with acute and stable bronchiectasis. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register of trials from inception to November 2015 and PEDro in March 2015, and we handsearched relevant journals. 
+Selection criteria
+Randomised controlled parallel and cross‐over trials that compared an ACT versus no treatment, sham ACT or directed coughing in participants with bronchiectasis. 
+Data collection and analysis
+We used standard methodological procedures as expected by The Cochrane Collaboration.
+Main results
+Seven studies involving 105 participants met the inclusion criteria of this review, six of which were cross‐over in design. Six studies included adults with stable bronchiectasis; the other study examined clinically stable children with bronchiectasis. Three studies provided single treatment sessions, two lasted 15 to 21 days and two were longer‐term studies. Interventions varied; some control groups received a sham intervention and others were inactive. The methodological quality of these studies was variable, with most studies failing to use concealed allocation for group assignment and with absence of blinding of participants and personnel for outcome measure assessment. Heterogeneity between studies precluded inclusion of these data in the meta‐analysis; the review is therefore narrative. 

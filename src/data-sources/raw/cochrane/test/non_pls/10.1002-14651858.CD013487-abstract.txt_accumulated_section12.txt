@@ -1,0 +1,12 @@
+Background
+Multiple myeloma is a bone marrow‐based hematological malignancy accounting for approximately two per cent of cancers. First‐line treatment for transplant‐ineligible individuals consists of multiple drug combinations of bortezomib (V), lenalidomide (R), or thalidomide (T). However, access to these medicines is restricted in many countries worldwide. 
+Objectives
+To assess and compare the effectiveness and safety of multiple drug combinations of V, R, and T for adults with newly diagnosed transplant‐ineligible multiple myeloma and to inform an application for the inclusion of these medicines into the World Health Organization's (WHO) list of essential medicines. 
+Search methods
+We searched CENTRAL and MEDLINE, conference proceedings and study registries on 14 February 2019 for randomised controlled trials (RCTs) comparing multiple drug combinations of V, R and T for adults with newly diagnosed transplant‐ineligible multiple myeloma. 
+Selection criteria
+We included RCTs comparing combination therapies of V, R, and T, plus melphalan and prednisone (MP) or dexamethasone (D) for first‐line treatment of adults with transplant‐ineligible multiple myeloma. We excluded trials including adults with relapsed or refractory disease, trials comparing drug therapies to other types of therapy and trials including second‐generation novel agents. 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias of included trials. As effect measures we used hazard ratios (HRs) for overall survival (OS) and progression‐free survival (PFS) and risk ratios (RRs) for adverse events. An HR or RR < 1 indicates an advantage for the intervention compared to the main comparator MP. Where available, we extracted quality of life (QoL) data (scores of standardised questionnaires). Results quoted are from network meta‐analysis (NMA) unless stated. 
+Main results
+We included 25 studies (148 references) comprising 11,403 participants and 21 treatment regimens. Treatments were differentiated between restricted treatment duration (treatment with a pre‐specified amount of cycles) and continuous therapy (treatment administered until disease progression, the person becomes intolerant to the drug, or treatment given for a prolonged period). Continuous therapies are indicated with a "c". Risk of bias was generally high across studies due to the open‐label study design. 

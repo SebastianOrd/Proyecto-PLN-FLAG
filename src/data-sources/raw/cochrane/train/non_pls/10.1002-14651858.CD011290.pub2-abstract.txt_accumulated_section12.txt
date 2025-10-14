@@ -1,0 +1,12 @@
+Background
+Acquired brain injury can cause eye movement disorders which may include: strabismus, gaze deficits and nystagmus, causing visual symptoms of double, blurred or 'juddery' vision and reading difficulties. A wide range of interventions exist that have potential to alleviate or ameliorate these symptoms. There is a need to evaluate the effectiveness of these interventions and the timing of their implementation. 
+Objectives
+We aimed to assess the effectiveness of any intervention and determine the effect of timing of intervention in the treatment of strabismus, gaze deficits and nystagmus due to acquired brain injury. We considered restitutive, substitutive, compensatory or pharmacological interventions separately and compared them to control, placebo, alternative treatment or no treatment for improving ocular alignment or motility (or both). 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (containing the Cochrane Eyes and Vision Trials Register) (2017, Issue 5), MEDLINE Ovid, Embase Ovid, CINAHL EBSCO, AMED Ovid, PsycINFO Ovid, Dissertations & Theses (PQDT) database, PsycBITE (Psychological Database for Brain Impairment Treatment Efficacy), ISRCTN registry, ClinicalTrials.gov, Health Services Research Projects in Progress (HSRProj), National Eye Institute Clinical Studies Database and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). The databases were last searched on 26 June 2017. No date or language restrictions were used in the electronic searches for trials. We manually searched the Australian Orthoptic Journal, British and Irish Orthoptic Journal, and ESA, ISA and IOA conference proceedings. We contacted researchers active in this field for information about further published or unpublished studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) of any intervention for ocular alignment or motility deficits (or both) due to acquired brain injury. 
+Data collection and analysis
+Two review authors independently selected studies and extracted data. We used standard methods expected by Cochrane. We employed the GRADE approach to interpret findings and assess the quality of the evidence. 
+Main results
+We found five RCTs (116 participants) that were eligible for inclusion. These trials included conditions of acquired nystagmus, sixth cranial nerve palsy and traumatic brain injury‐induced ocular motility defects. We did not identify any relevant studies of restitutive interventions. 

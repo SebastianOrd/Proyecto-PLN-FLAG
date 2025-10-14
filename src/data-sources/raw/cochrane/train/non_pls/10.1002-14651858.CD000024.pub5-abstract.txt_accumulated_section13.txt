@@ -1,0 +1,13 @@
+Background
+Stroke is the third leading cause of early death worldwide. Most ischaemic strokes are caused by a blood clot blocking an artery in the brain. Patient outcomes might be improved if they are offered anticoagulants that reduce their risk of developing new blood clots and do not increase the risk of bleeding. This is an update of a Cochrane Review first published in 1995, with updates in 2004, 2008, and 2015. 
+Objectives
+To assess the effectiveness and safety of early anticoagulation (within the first 14 days of onset) for people with acute presumed or confirmed ischaemic stroke. 
+Our hypotheses were that, compared with a policy of avoiding their use, early anticoagulation would be associated with: 
+• reduced risk of death or dependence in activities of daily living a few months after stroke onset; 
+• reduced risk of early recurrent ischaemic stroke;
+• increased risk of symptomatic intracranial and extracranial haemorrhage; and
+• reduced risk of deep vein thrombosis and pulmonary embolism.
+Search methods
+We searched the Cochrane Stroke Group Trials Register (August 2021); the Cochrane Database of Systematic Reviews (CDSR); the Cochrane Central Register of Controlled Trials (CENTRAL; 2021, Issue 7), in the Cochrane Library (searched 5 August 2021); MEDLINE (2014 to 5 August 2021); and Embase (2014 to 5 August 2021). In addition, we searched ongoing trials registries and reference lists of relevant papers. For previous versions of this review, we searched the register of the Antithrombotic Trialists' (ATT) Collaboration, consulted MedStrategy (1995), and contacted relevant drug companies. 
+Selection criteria
+Randomised trials comparing early anticoagulant therapy (started within two weeks of stroke onset) with control in people with acute presumed or confirmed ischaemic stroke. 

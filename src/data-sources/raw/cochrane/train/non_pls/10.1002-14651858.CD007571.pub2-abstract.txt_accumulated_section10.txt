@@ -1,0 +1,10 @@
+Background
+Cellular adhesion molecules play an important role in the pathogenesis of ulcerative colitis, making selective blockade of these molecules a promising therapeutic strategy. Vedolizumab, a recombinant humanized IgG1 monoclonal antibody, inhibits adhesion and migration of leukocytes into the gastrointestinal tract by binding the alpha4beta7 integrin. Animal studies have suggested that vedolizumab may be a useful therapy for ulcerative colitis. This updated systematic review summarizes the current evidence on the use of vedolizumab for induction and maintenance of remission in ulcerative colitis. 
+Objectives
+The primary objectives were to determine the efficacy and safety of vedolizumab used for induction and maintenance of remission in ulcerative colitis. 
+Search methods
+A computer‐assisted search for relevant studies (inception to 15 June 2014) was performed using PubMed, MEDLINE, EMBASE and CENTRAL. References from published articles and conference proceedings were searched to identify additional citations. 
+Selection criteria
+Randomized controlled trials comparing vedolizumab to placebo or a control therapy for induction or maintenance of remission in ulcerative colitis were included. 
+Data collection and analysis
+Two authors independently extracted data and assessed the risk of bias for each trial. The primary outcomes were failure to induce clinical remission and relapse. Secondary outcomes included failure to induce a clinical response, failure to induce endoscopic remission, failure to induce an endoscopic response, quality of life, adverse events, serious adverse events and withdrawal due to adverse events. We calculated the relative risk (RR) and 95% confidence intervals (CI) for each outcome. Data were analyzed on an intention‐to‐treat basis. The overall quality of the evidence supporting the outcomes was evaluated using the GRADE criteria. 

@@ -1,0 +1,11 @@
+Background
+Developmental co‐ordination disorder (DCD) is a common childhood disorder, which can persist into adolescence and adulthood. Children with DCD have difficulties in performing the essential motor tasks required for self‐care, academic, social and recreational activities. 
+Objectives
+To assess the effectiveness of task‐oriented interventions on movement performance, psychosocial functions, activity, and participation for children with DCD and to examine differential intervention effects as a factor of age, sex, severity of DCD, intervention intensity, and type of intervention. 
+Search methods
+In March 2017, we searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, 13 other databases, and five trials registers. We also searched reference lists, and contacted members of the mailing list of the International Conference on DCD to identify additional studies. 
+Selection criteria
+We included all randomised controlled trials (RCTs) and quasi‐RCTs that compared the task‐oriented intervention with either an inactive control intervention or an active control intervention in children and adolescents aged four to 18 years with a diagnosis of DCD. 
+Types of outcome measures included changes in motor function, as assessed by standardised performance outcome tests and questionnaires; adverse events; and measures of participation. 
+Data collection and analysis
+All review authors participated in study selection, data extraction, and assessments of risk of bias and quality, and two review authors independently performed all tasks. Specifically, two review authors independently screened titles and abstracts to eliminate irrelevant studies, extracted data from the included studies, assessed risk of bias, and rated the quality of the evidence using the GRADE approach. In cases of ambiguity or information missing from the paper, one review author contacted trial authors. 

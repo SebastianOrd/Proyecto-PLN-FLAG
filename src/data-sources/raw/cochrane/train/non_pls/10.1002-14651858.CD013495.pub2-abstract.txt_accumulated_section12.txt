@@ -1,0 +1,12 @@
+Background
+Depression and anxiety are the most frequent indication for which antidepressants are prescribed. Long‐term antidepressant use is driving much of the internationally observed rise in antidepressant consumption. Surveys of antidepressant users suggest that 30% to 50% of long‐term antidepressant prescriptions had no evidence‐based indication. Unnecessary use of antidepressants puts people at risk of adverse events. However, high‐certainty evidence is lacking regarding the effectiveness and safety of approaches to discontinuing long‐term antidepressants. 
+Objectives
+To assess the effectiveness and safety of approaches for discontinuation versus continuation of long‐term antidepressant use for depressive and anxiety disorders in adults. 
+Search methods
+We searched all databases for randomised controlled trials (RCTs) until January 2020.
+Selection criteria
+We included RCTs comparing approaches to discontinuation with continuation of antidepressants (or usual care) for people with depression or anxiety who are prescribed antidepressants for at least six months. Interventions included discontinuation alone (abrupt or taper), discontinuation with psychological therapy support, and discontinuation with minimal intervention. Primary outcomes were successful discontinuation rate,relapse (as defined by authors of the original study), withdrawal symptoms, and adverse events. Secondary outcomes were depressive symptoms, anxiety symptoms, quality of life, social and occupational functioning, and severity of illness. 
+Data collection and analysis
+We used standard methodological procedures as expected by Cochrane. 
+Main results
+We included 33 studies involving 4995 participants. Nearly all studies were conducted in a specialist mental healthcare service and included participants with recurrent depression (i.e. two or more episodes of depression prior to discontinuation). All included trials were at high risk of bias. The main limitation of the review is bias due to confounding withdrawal symptoms with symptoms of relapse of depression. Withdrawal symptoms (such as low mood, dizziness) may have an effect on almost every outcome including adverse events, quality of life, social functioning, and severity of illness. 

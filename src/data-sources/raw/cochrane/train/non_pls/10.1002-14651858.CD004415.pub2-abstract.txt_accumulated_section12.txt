@@ -1,0 +1,12 @@
+Background
+Actinic keratoses are a skin disease caused by long‐term sun exposure, and their lesions have the potential to develop into squamous cell carcinoma. Treatments for actinic keratoses are sought for cosmetic reasons, for the relief of associated symptoms, or for the prevention of skin cancer development. Detectable lesions are often associated with alteration of the surrounding skin (field) where subclinical lesions might be present. The interventions available for the treatment of actinic keratoses include individual lesion‐based (e.g. cryotherapy) or field‐directed (e.g. topical) treatments. These might vary in terms of efficacy, safety, and cosmetic outcomes. 
+Objectives
+To assess the effects of topical, oral, mechanical, and chemical interventions for actinic keratosis. 
+Search methods
+We searched the following databases up to March 2011: the Cochrane Skin Group Specialised Register, CENTRAL in The Cochrane Library, MEDLINE (from 2005), EMBASE (from 2010), and LILACS (from 1982). We also searched trials registers, conference proceedings, and grey literature sources. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing the treatment of actinic keratoses with either placebo, vehicle, or another active therapy. 
+Data collection and analysis
+At least two authors independently abstracted data, which included adverse events, and assessed the quality of evidence. We performed meta‐analysis to calculate a weighted treatment effect across trials, and we expressed the results as risk ratios (RR) and 95% confidence intervals (CI) for dichotomous outcomes (e.g. participant complete clearance rates), and mean difference (MD) and 95% CI for continuous outcomes (e.g. mean reduction in lesion counts). 
+Main results
+We included 83 RCTs in this review, with a total of 10,036 participants. The RCTs covered 18 topical treatments, 1 oral treatment, 2 mechanical interventions, and 3 chemical interventions, including photodynamic therapy (PDT). Most of the studies lacked descriptions of some methodological details, such as the generation of the randomisation sequence or allocation concealment, and half of the studies had a high risk of reporting bias. Study comparison was difficult because of the multiple parameters used to report efficacy and safety outcomes, as well as statistical limitations. We found no data on the possible reduction of squamous cell carcinoma. 

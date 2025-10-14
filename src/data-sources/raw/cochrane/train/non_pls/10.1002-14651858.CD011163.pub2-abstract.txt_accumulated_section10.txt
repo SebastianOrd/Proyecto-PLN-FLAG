@@ -1,0 +1,10 @@
+Background
+In many low‐ and middle‐income countries (LMICs) morbidity and mortality associated with cardiovascular diseases (CVDs) have grown exponentially over recent years. It is estimated that about 80% of CVD deaths occur in LMICs. People in LMICs are more exposed to cardiovascular risk factors such as tobacco, and often do not have access to effective and equitable healthcare services (including early detection services). Evidence from high‐income countries indicates that multiple risk factor intervention programmes do not result in reductions in CVD events. Given the increasing incidence of CVDs and lower CVD health awareness in LMICs it is possible that such programmes may have beneficial effects. 
+Objectives
+To determine the effectiveness of multiple risk factor interventions (with or without pharmacological treatment) aimed at modifying major cardiovascular risk factors for the primary prevention of CVD in LMICs. 
+Search methods
+We searched (from inception to 27 June 2014) the Cochrane Library (CENTRAL, HTA, DARE, EED), MEDLINE, EMBASE, Global Health and three other databases on 27 June 2014. We also searched two clinical trial registers and conducted reference checking to identify additional studies. We applied no language limits. 
+Selection criteria
+We included randomised controlled trials (RCTs) of health promotion interventions to achieve behaviour change (i.e. smoking cessation, dietary advice, increasing activity levels) with or without pharmacological treatments, which aim to alter more than one cardiovascular risk factor (i.e. diet, reduce blood pressure, smoking, total blood cholesterol or increase physical activity) of at least six months duration of follow‐up conducted in LMICs. 
+Data collection and analysis
+Two authors independently assessed trial eligibility and risk of bias, and extracted data. We combined dichotomous data using risk ratios (RRs) and continuous data using mean differences (MDs), and presented all results with a 95% confidence interval (CI). The primary outcome was combined fatal and non‐fatal cardiovascular disease events. 

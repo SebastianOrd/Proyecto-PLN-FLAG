@@ -1,0 +1,14 @@
+Image‐guided versus blind glucocorticoid injection for shoulder pain
+Background 
+Shoulder pain is most often caused by rotator cuff disease, or adhesive capsulitis (‘frozen shoulder’). The rotator cuff is a group of tendons that holds the shoulder joint in place allowing people to lift their arm. Shoulder pain can be related to wear and tear or inflammation of the shoulder tendons, and pressure on the tendons by the overlying bone when lifting the arm up (impingement). Both conditions cause pain with movement and often pain during the night and sleeping on the affected side; adhesive capsulitis also causes shoulder stiffness. 
+Glucocorticoids injections can relieve shoulder pain but their effect usually wears off after six to eight weeks. Traditionally, injections are given using anatomic landmarks around the shoulder. Sometimes imaging techniques, such as ultrasound, are used to more accurately guide the injections into the shoulder. It is not known if image‐guided injection relieves shoulder pain more effectively than injections delivered without imaging. 
+Study characteristics 
+This Cochrane review is current to 15 February 2021. Nineteen trials (1035 participants) compared ultrasound‐guided injection to ‘blind’ injection. Fourteen trials included participants with rotator cuff disease, four with adhesive capsulitis, and one with mixed shoulder pain. Trials were performed in Korea, Taiwan, Iran, Turkey, Australia, Norway, Spain, Ireland, India and Switzerland. Most participants were female, with a mean age from 31 to 60 years, and mean symptom duration from 2 to 23 months. Six studies reported funding sources. 
+Key results 
+Compared to injection into the shoulder without image guidance, ultrasound‐guided injection resulted in little to no benefit at three to six weeks: 
+Pain (lower scores mean less pain) 
+Improved by 0.5 points more (0.2 more to 0.8 more) on a 0 to 10‐point scale. Differences of 0.5 to 1.0 points are considered slight or small and are unlikely to be clinically important. 
+‐ People who had ultrasound‐guided injection rated their pain as 2.6 points
+‐ People who had injection without image guidance rated their pain as 3.1 points
+Function (higher scores mean better function) 
+Improved by 2.4 points more (0.2 points worse to 5.1 points more) on a 0 to 100‐point scale. Differences below 10 points are considered slight or small and are unlikely to be clinically important. 

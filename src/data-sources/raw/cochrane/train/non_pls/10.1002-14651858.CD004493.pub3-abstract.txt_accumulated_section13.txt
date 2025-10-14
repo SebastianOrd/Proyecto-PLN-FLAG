@@ -1,0 +1,13 @@
+Background
+There is evidence that family and friends influence children's decisions to smoke.
+Objectives
+To assess the effectiveness of interventions to help families stop children starting smoking. 
+Search methods
+We searched 14 electronic bibliographic databases, including the Cochrane Tobacco Addiction Group specialized register, MEDLINE, EMBASE, PsycINFO, CINAHL unpublished material, and key articles' reference lists. We performed free‐text internet searches and targeted searches of appropriate websites, and hand‐searched key journals not available electronically. We consulted authors and experts in the field. The most recent search was 3 April 2014. There were no date or language limitations. 
+Selection criteria
+Randomised controlled trials (RCTs) of interventions with children (aged 5‐12) or adolescents (aged 13‐18) and families to deter tobacco use. The primary outcome was the effect of the intervention on the smoking status of children who reported no use of tobacco at baseline. Included trials had to report outcomes measured at least six months from the start of the intervention. 
+Data collection and analysis
+We reviewed all potentially relevant citations and retrieved the full text to determine whether the study was an RCT and matched our inclusion criteria. Two authors independently extracted study data for each RCT and assessed them for risk of bias. We pooled risk ratios using a Mantel‐Haenszel fixed effect model. 
+Main results
+Twenty‐seven RCTs were included. The interventions were very heterogeneous in the components of the family intervention, the other risk behaviours targeted alongside tobacco, the age of children at baseline and the length of follow‐up. Two interventions were tested by two RCTs, one was tested by three RCTs and the remaining 20 distinct interventions were tested only by one RCT. Twenty‐three interventions were tested in the USA, two in Europe, one in Australia and one in India. 
+The control conditions fell into two main groups: no intervention or usual care; or school‐based interventions provided to all participants. These two groups of studies were considered separately. 

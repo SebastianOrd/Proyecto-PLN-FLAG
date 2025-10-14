@@ -1,0 +1,10 @@
+Background
+Schizophrenia has a lifetime prevalence of less than one per cent. Studies have indicated that early symptoms that are idiosyncratic to the person with schizophrenia (early warning signs) often precede acute psychotic relapse. Early warning signs interventions propose that learning to detect and manage early warning signs of impending relapse might prevent or delay acute psychotic relapse. 
+Objectives
+To compare the effectiveness of early warning signs interventions plus treatment as usual involving and not involving a psychological therapy on time to relapse, hospitalisation, functioning, negative and positive symptomatology. 
+Search methods
+Search databases included the Cochrane Schizophrenia Group Trials Register (July 2007 and May 2012) which is based on regular searches of BIOSIS, CENTRAL, CINAHL, EMBASE, MEDLINE and PsycINFO. References of all identified studies were reviewed for inclusion. We inspected the UK National Research Registe and contacted relevant pharmaceutical companies and authors of trials for additional information. 
+Selection criteria
+We included all randomised clinical trials (RCTs) comparing early warning signs interventions plus treatment as usual to treatment as usual for people with schizophrenia or other non‐affective psychosis 
+Data collection and analysis
+We assessed included studies for quality and extracted data. If more than 50% of participants were lost to follow‐up, the study was excluded. For binary outcomes, we calculated standard estimates of risk ratio (RR) and the corresponding 95% confidence intervals (CI), for continuous outcomes, we calculated mean differences (MD) with standard errors estimated, and for time to event outcomes we calculated Cox proportional hazards ratios (HRs) and associated 95 % CI. We assessed risk of bias for included studies and assessed overall study quality using the GRADE approach. 

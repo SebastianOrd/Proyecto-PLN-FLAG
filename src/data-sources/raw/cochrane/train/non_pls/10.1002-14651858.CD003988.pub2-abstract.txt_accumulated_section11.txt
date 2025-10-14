@@ -1,0 +1,11 @@
+Background
+Postpartum contraception improves the health of mothers and children by lengthening birth intervals. For lactating women, contraception choices are limited by concerns about hormonal effects on milk quality and quantity and passage of hormones to the infant. Ideally, the contraceptive chosen should not interfere with lactation or infant growth. Timing of contraception initiation is also important. Immediately postpartum, most women have contact with a health professional, but many do not return for follow‐up contraceptive counseling. However, immediate initiation of hormonal methods may disrupt the onset of milk production. 
+Objectives
+To determine the effects of hormonal contraceptives on lactation and infant growth
+Search methods
+We searched for eligible trials until 2 March 2015. Sources included the Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, POPLINE, Web of Science, LILACS, ClinicalTrials.gov, and ICTRP. We also examined review articles and contacted investigators. 
+Selection criteria
+We sought randomized controlled trials in any language that compared hormonal contraception versus another form of hormonal contraception, nonhormonal contraception, or placebo during lactation. Hormonal contraception includes combined or progestin‐only oral contraceptives, injectable contraceptives, implants, and intrauterine devices. 
+Trials had to have one of our primary outcomes: breast milk quantity or biochemical composition; lactation initiation, maintenance, or duration; infant growth; or timing of contraception initiation and effect on lactation. Secondary outcomes included contraceptive efficacy while breastfeeding and birth interval. 
+Data collection and analysis
+For continuous variables, we calculated the mean difference (MD) with 95% confidence interval (CI). For dichotomous outcomes, we computed the Mantel‐Haenszel odds ratio (OR) with 95% CI. Due to differing interventions and outcome measures, we did not aggregate the data in a meta‐analysis. 

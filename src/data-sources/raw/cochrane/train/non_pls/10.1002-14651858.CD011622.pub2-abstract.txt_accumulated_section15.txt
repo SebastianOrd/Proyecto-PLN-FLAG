@@ -1,0 +1,15 @@
+Background
+Chorioamnionitis is a leading cause of perinatal morbidity and mortality. Amnioinfusion aims at reducing the adverse effects of chorioamnionitis by dilution of the infective organisms or by an anti‐microbial effect of the fluid infused. 
+Objectives
+The objective of this review was to determine the effect of amnioinfusion on clinical and sub‐clinical chorioamnionitis, fetal well‐being, fetal heart rate characteristics and perinatal and maternal morbidity and mortality. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (6 July 2016), PubMed, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (6 July 2016) and reference lists of retrieved studies. 
+Selection criteria
+Randomised clinical trials (RCTs) of amnioinfusion (treatment group) versus no amnioinfusion in women with chorioamnionitis. 
+We would have also considered trials comparing amnioinfusion with sham amnioinfusion; different types or volumes of amnioinfusion fluid but none were identified. 
+Cluster‐RCTs and quasi‐RCTs were eligible for inclusion but none were identified. We identified one study published in abstract form but it did not contain any numerical data and has therefore been excluded. Studies using a cross‐over design are not an appropriate study design and thus were not eligible for inclusion in this review. 
+Data collection and analysis
+Two review authors independently assessed potential studies for inclusion and assessed trial quality. Both review authors independently extracted data and data were checked for accuracy. 
+Main results
+We included one small trial (with data from 34 participants) comparing transcervical amnioinfusion with no amnioinfusion. The trial was considered to be at a high risk of bias overall, due to small numbers, inconsistency in the reporting and lack of information on blinding. Meta‐analysis was not possible. Transcervical amnioinfusion was with room temperature saline at 10 mL per minute for 60 minutes, then 3 mL per minute until delivery versus no amnioinfusion. All women received intrauterine pressure catheter, acetaminophen and antibiotics (ampicillin or, if receiving Group B beta streptococcal prophylaxis, penicillin and gentamycin). We did not identify any trials that used transabdominal amnioinfusion. 
+Compared to no amnioinfusion, transcervical amnioinfusion had no clear effect on the incidence of postpartum endometritis (risk ratio (RR) 1.50, 95% confidence interval (CI) 0.29 to 7.87; absolute risk 176/1000 (95% CI 34 to 96) versus 118/1000;low‐quality evidence). Nor was there a clear effect in the incidence of neonatal infection (RR 3.00, 95% CI 0.13 to 68.84; absolute risk 0/1000 (95% CI 0 to 0) versus 0/1000; low‐quality evidence). The outcome of perinatal death or severe morbidity (such as neonatal encephalopathy, intraventricular haemorrhage, admission to intensive/high care) was not reported in the included trial. 

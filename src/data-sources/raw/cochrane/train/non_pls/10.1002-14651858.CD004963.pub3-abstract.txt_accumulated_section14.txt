@@ -1,0 +1,14 @@
+Background
+In older adults, diminished balance is associated with reduced physical functioning and an increased risk of falling. This is an update of a Cochrane review first published in 2007. 
+Objectives
+To examine the effects of exercise interventions on balance in older people, aged 60 and over, living in the community or in institutional care. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register, CENTRAL (The Cochrane Library 2011, Issue 1), MEDLINE and EMBASE (to February 2011). 
+Selection criteria
+Randomised controlled studies testing the effects of exercise interventions on balance in older people. The primary outcomes of the review were clinical measures of balance. 
+Data collection and analysis
+Pairs of review authors independently assessed risk of bias and extracted data from studies. Data were pooled where appropriate. 
+Main results
+This update included 94 studies (62 new) with 9,821 participants. Most participants were women living in their own home. 
+Most trials were judged at unclear risk of selection bias, generally reflecting inadequate reporting of the randomisation methods, but at high risk of performance bias relating to lack of participant blinding, which is largely unavoidable for these trials. Most studies only reported outcome up to the end of the exercise programme. 
+There were eight categories of exercise programmes. These are listed below together with primary measures of balance for which there was some evidence of a statistically significant effect at the end of the exercise programme. Some trials tested more than one type of exercise. Crucially, the evidence for each outcome was generally from only a few of the trials for each exercise category.   1. Gait, balance, co‐ordination and functional tasks (19 studies of which 10 provided primary outcome data): Timed Up & Go test (mean difference (MD) ‐0.82 s; 95% CI ‐1.56 to ‐0.08 s, 114 participants, 4 studies); walking speed (standardised mean difference (SMD) 0.43; 95% CI 0.11 to 0.75, 156 participants, 4 studies), and the Berg Balance Scale (MD 3.48 points; 95% CI 2.01 to 4.95 points, 145 participants, 4 studies). 

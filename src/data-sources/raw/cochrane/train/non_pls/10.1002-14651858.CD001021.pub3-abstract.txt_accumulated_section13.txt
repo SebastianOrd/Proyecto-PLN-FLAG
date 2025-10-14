@@ -1,0 +1,13 @@
+Background
+Inhaled antibiotics are commonly used to treat persistent airway infection with Pseudomonas aeruginosa that contributes to lung damage in people with cystic fibrosis. Current guidelines recommend inhaled tobramycin for individuals with cystic fibrosis and persistent Pseudomonas aeruginosa infection who are aged six years or older. The aim is to reduce bacterial load in the lungs so as to reduce inflammation and deterioration of lung function. This is an update of a previously published review. 
+Objectives
+To evaluate the effects long‐term inhaled antibiotic therapy in people with cystic fibrosis on clinical outcomes (lung function, frequency of exacerbations and nutrition), quality of life and adverse events (including drug sensitivity reactions and survival). 
+Search methods
+We searched the Cochrane Cystic Fibrosis Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. We also searched ongoing trials registries. 
+Date of last search: 13 February 2018.
+Selection criteria
+We selected trials if inhaled anti‐pseudomonal antibiotic treatment was used for at least three months in people with cystic fibrosis, treatment allocation was randomised or quasi‐randomised, and there was a control group (either placebo, no placebo or another inhaled antibiotic). 
+Data collection and analysis
+Two authors independently selected trials, judged the risk of bias, extracted data from these trials and judged the quality of the evidence using the GRADE system. 
+Main results
+The searches identified 333 citations to 98 trials; 18 trials (3042 participants aged between five and 56 years) met the inclusion criteria. Limited data were available for meta‐analyses due to the variability of trial design and reporting of results. A total of 11 trials (1130 participants) compared an inhaled antibiotic to placebo or usual treatment for a duration between three and 33 months. Five trials (1255 participants) compared different antibiotics, two trials (585 participants) compared different regimens of tobramycin and one trial (90 participants) compared intermittent tobramycin with continuous tobramycin alternating with aztreonam. One of the trials (18 participants) compared to placebo and a different antibiotic and so fell into both groups. The most commonly studied antibiotic was tobramycin which was studied in 12 trials. 

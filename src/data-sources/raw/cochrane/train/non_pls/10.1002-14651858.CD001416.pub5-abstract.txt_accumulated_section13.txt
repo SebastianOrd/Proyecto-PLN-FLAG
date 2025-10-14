@@ -1,0 +1,13 @@
+Background
+The majority of people with epilepsy have a good prognosis, and their seizures can be well controlled with the use of a single antiepileptic agent, but up to 30% develop dug‐resistant epilepsy, especially those with focal seizures. In this review, we summarised the evidence from randomised controlled trials (RCT) of zonisamide, used as an add‐on treatment for focal epilepsy uncontrolled by one or more concomitant antiepileptic drug. 
+This is an updated version of the Cochrane review previously published in 2018.
+Objectives
+To evaluate the efficacy and tolerability of zonisamide, when used as an add‐on treatment for people with focal epilepsy uncontrolled by one or more concomitant antiepileptic drugs. 
+Search methods
+For the latest update, we searched the Cochrane Register of Studies (CRS Web) and MEDLINE Ovid (September 2019). In addition, we contacted Eisai Limited (makers and licensees of zonisamide) and experts in the field, to seek any ongoing or unpublished studies. 
+Selection criteria
+Randomised controlled trials, in which add‐on zonisamide was compared with placebo or another antiepileptic drug in people with focal epilepsy, uncontrolled by one or more concomitant antiepileptic drugs. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, extracted data, assessed for risk of bias using the Cochrane 'Risk of bias' tool, and assessed the certainty of the evidence, using the GRADE approach. The primary outcome was at least a 50% reduction in total seizure frequency; the secondary outcomes were (1) tolerability; and (2) adverse effects. We used an intention‐to‐treat approach for our primary analyses. We estimated summary risk ratios (RRs) for each outcome. We displayed a summary of the estimates of effects and certainty of the evidence for each outcome in a 'Summary of findings' table. 
+Main results
+We did not find any new studies since the last version of this review. We included eight studies (1636 participants) from previous versions of this review. 

@@ -1,0 +1,12 @@
+Background
+Low vision rehabilitation aims to optimise the use of residual vision after severe vision loss, but also aims to teach skills in order to improve visual functioning in daily life. Other aims include helping people to adapt to permanent vision loss and improving psychosocial functioning. These skills promote independence and active participation in society. Low vision rehabilitation should ultimately improve quality of life (QOL) for people who have visual impairment. 
+Objectives
+To assess the effectiveness of low vision rehabilitation interventions on health‐related QOL (HRQOL), vision‐related QOL (VRQOL) or visual functioning and other closely related patient‐reported outcomes in visually impaired adults. 
+Search methods
+We searched relevant electronic databases and trials registers up to 18 September 2019. 
+Selection criteria
+We included randomised controlled trials (RCTs) investigating HRQOL, VRQOL and related outcomes of adults, with an irreversible visual impairment (World Health Organization criteria). We included studies that compared rehabilitation interventions with active or inactive control. 
+Data collection and analysis
+We used standard methods expected by Cochrane. We assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We included 44 studies (73 reports) conducted in North America, Australia, Europe and Asia. Considering the clinical diversity of low vision rehabilitation interventions, the studies were categorised into four groups of related intervention types (and by comparator): (1) psychological therapies and/or group programmes, (2) methods of enhancing vision, (3) multidisciplinary rehabilitation programmes, (4) other programmes. Comparators were no care or waiting list as an inactive control group, usual care or other active control group. Participants included in the reported studies were mainly older adults with visual impairment or blindness, often as a result of age‐related macular degeneration (AMD). Study settings were often hospitals or low vision rehabilitation services. Effects were measured at the short‐term (six months or less) in most studies. Not all studies reported on funding, but those who did were supported by public or non‐profit funders (N = 31), except for two studies. 

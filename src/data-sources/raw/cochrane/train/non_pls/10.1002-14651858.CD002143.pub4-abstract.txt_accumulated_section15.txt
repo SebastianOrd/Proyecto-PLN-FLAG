@@ -1,0 +1,15 @@
+Background
+Palliative radiotherapy to the chest is often used in patients with lung cancer, but radiotherapy regimens are more often based on tradition than research results. This is an update of a Cochrane review first published in 2001 and previously updated in 2006. 
+Objectives
+The two objectives of this review were:
+1. To assess the effects of different palliative radiotherapy regimens on improving thoracic symptoms in patients with locally advanced or metastatic non‐small cell lung cancer who are not suitable for radical RT given with curative intent. 
+2. To assess the effects of radiotherapy dose on overall survival in patients with locally advanced or metastatic non‐small cell lung cancer who are not suitable for radical RT given with curative intent. 
+Search methods
+The electronic databases MEDLINE (1966 ‐ Jan 2014), EMBASE and the Cochrane Central Register of Controlled Trials, reference lists, handsearching of journals and conference proceedings, and discussion with experts were used to identify potentially eligible trials, published and unpublished. 
+Two authors (FM and RS) independently identified all studies that may be suitable for inclusion in the review. 
+We updated the search up to January 2014.
+Selection criteria
+Randomised controlled clinical trials comparing different regimens of palliative thoracic radiotherapy in patients with non‐small cell lung cancer. 
+Data collection and analysis
+The reviewers assessed search results independently and possible studies were highlighted and the full text obtained. Data were extracted and attempts were made to contact the original authors for missing information. 
+The primary outcome measure was improvement in major thoracic symptoms (degree and duration). Secondary outcome measures were short and long term toxicities, effect on quality of life and overall survival. 

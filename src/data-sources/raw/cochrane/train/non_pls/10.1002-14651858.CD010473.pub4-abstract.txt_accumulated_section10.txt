@@ -1,0 +1,10 @@
+Background
+Acute bronchiolitis is one of the most frequent causes of emergency department visits and hospitalisation in children up to three years of age. There is no specific treatment for bronchiolitis except for supportive treatment, which includes ensuring adequate hydration and oxygen supplementation. Continuous positive airway pressure (CPAP) aims to widen the lungs' peripheral airways, enabling deflation of overdistended lungs in bronchiolitis. Increased airway pressure also prevents the collapse of poorly supported peripheral small airways during expiration. Observational studies report that CPAP is beneficial for children with acute bronchiolitis. This is an update of a review first published in 2015 and updated in 2019. 
+Objectives
+To assess the efficacy and safety of CPAP compared to no CPAP or sham CPAP in infants and children up to three years of age with acute bronchiolitis. 
+Search methods
+We conducted searches of CENTRAL (2021, Issue 7), which includes the Cochrane Acute Respiratory Infections Group Specialised Register, MEDLINE (1946 to August 2021), Embase (1974 to August 2021), CINAHL (1981 to August 2021), and LILACS (1982 to August 2021) in August 2021. We also searched the US National Institutes of Health Ongoing Trials Register ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) for completed and ongoing trials on 26 October 2021. 
+Selection criteria
+We considered randomised controlled trials (RCTs), quasi‐RCTs, cross‐over RCTs, and cluster‐RCTs evaluating the effect of CPAP in children with acute bronchiolitis. 
+Data collection and analysis
+Two review authors independently assessed study eligibility, extracted data using a structured pro forma, analysed data, and performed meta‐analyses. We used the Cochrane risk of bias tool to assess risk of bias in the included studies. We created a summary of the findings table employing GRADEpro GDT software.  

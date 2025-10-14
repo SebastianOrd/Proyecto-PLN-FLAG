@@ -1,0 +1,10 @@
+Background
+Low‐back pain (LBP) is a common condition seen in primary care. A principal aim during a clinical examination is to identify patients with a higher likelihood of underlying serious pathology, such as vertebral fracture, who may require additional investigation and specific treatment. All 'evidence‐based' clinical practice guidelines recommend the use of red flags to screen for serious causes of back pain. However, it remains unclear if the diagnostic accuracy of red flags is sufficient to support this recommendation. 
+Objectives
+To assess the diagnostic accuracy of red flags obtained in a clinical history or physical examination to screen for vertebral fracture in patients presenting with LBP. 
+Search methods
+Electronic databases were searched for primary studies between the earliest date and 7 March 2012. Forward and backward citation searching of eligible studies was also conducted. 
+Selection criteria
+Studies were considered if they compared the results of any aspect of the history or test conducted in the physical examination of patients presenting for LBP or examination of the lumbar spine, with a reference standard (diagnostic imaging). The selection criteria were independently applied by two review authors. 
+Data collection and analysis
+Three review authors independently conducted 'Risk of bias' assessment and data extraction. Risk of bias was assessed using the 11‐item QUADAS tool. Characteristics of studies, patients, index tests and reference standards were extracted. Where available, raw data were used to calculate sensitivity and specificity with 95% confidence intervals (CI). Due to the heterogeneity of studies and tests, statistical pooling was not appropriate and the analysis for the review was descriptive only. Likelihood ratios for each test were calculated and used as an indication of clinical usefulness. 

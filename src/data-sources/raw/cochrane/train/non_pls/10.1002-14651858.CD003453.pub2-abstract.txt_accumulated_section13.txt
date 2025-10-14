@@ -1,0 +1,13 @@
+Background
+Crowded teeth develop when there is not enough space in the jaws into which the teeth can erupt. Crowding can affect baby teeth (deciduous dentititon), adult teeth (permanent dentition), or both, and is a common reason for referral to an orthodontist. Crowded teeth can affect a child's self‐esteem and quality of life. Early loss of baby teeth as a result of tooth decay or trauma, can lead to crowded permanent teeth. Crowding tends to increase with age, especially in the lower jaw. 
+Objectives
+To assess the effects of orthodontic intervention for preventing or correcting crowded teeth in children. 
+To test the null hypothesis that there are no differences in outcomes between different orthodontic interventions for preventing or correcting crowded teeth in children. 
+Search methods
+Cochrane Oral Health's Information Specialist searched four bibliographic databases up to 11 January 2021 and used additional search methods to identify published, unpublished and ongoing studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) that evaluated any active interventions to prevent or correct dental crowding in children and adolescents, such as orthodontic braces or extractions, compared to no or delayed treatment, placebo treatment or another active intervention. The studies had to include at least 80% of participants aged 16 years and under. 
+Data collection and analysis
+Two review authors, independently and in duplicate, extracted information regarding methods, participants, interventions, outcomes, harms and results. We resolved any disagreements by liaising with a third review author. We used the Cochrane risk of bias tool to assess the risk of bias in the studies. We calculated mean differences (MDs) with 95% confidence intervals (CI) for continuous data and odds ratios (ORs) with 95% CIs for dichotomous data. We undertook meta‐analysis when studies of similar comparisons reported comparable outcome measures, using the random‐effects model. We used the I2 statistic as a measure of statistical heterogeneity. 
+Main results
+Our search identified 24 RCTs that included 1512 participants, 1314 of whom were included in analyses. We assessed 23 studies as being at high risk of bias and one as unclear.  

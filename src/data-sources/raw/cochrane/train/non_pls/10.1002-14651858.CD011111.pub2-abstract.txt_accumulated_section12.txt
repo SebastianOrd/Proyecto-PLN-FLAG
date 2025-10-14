@@ -1,0 +1,12 @@
+Background
+Drains are often used in leg wounds after vascular surgery procedures despite uncertainty regarding their benefits. Drains are placed with the aim of reducing the incidence and size of blood or fluid collections. Conversely, drains may predispose patients to infection and may prolong hospitalisation. Surgeons need robust data regarding the effects of drains on complications following lower limb arterial surgery. 
+Objectives
+To determine whether routine placement of wound drains results in fewer complications following lower limb arterial surgery than no drains. 
+Search methods
+In June 2016 we searched: the Cochrane Wounds Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL; the Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE and EBSCO CINAHL. We also searched clinical trial registries for ongoing studies.There were no restrictions with respect to language, date of publication or study setting. 
+Selection criteria
+We considered randomized controlled trials (RCTs) that evaluated the use of any type of drain in lower limb arterial surgery. 
+Data collection and analysis
+Two authors independently determined study eligibility, extracted data and performed an assessment of bias. An effort was made to contact authors for missing data. The methods and results of each eligible study were summarised and we planned to pool data in meta‐analyses when it was considered appropriate, based upon clinical and statistical homogeneity. 
+Main results
+We identified three eligible trials involving a total of 222 participants with 333 groin wounds. Suction drainage was compared with no drainage in all studies. Two studies were parallel‐group, randomized controlled trials, and one was a split‐body, randomized controlled trial. Trial settings were not clearly described. Patients undergoing bypass and endarterectomy procedures were included, but none of the studies provided details on the severity of the underlying arterial disease. 

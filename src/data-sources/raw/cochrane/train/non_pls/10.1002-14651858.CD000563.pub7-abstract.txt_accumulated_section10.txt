@@ -1,0 +1,10 @@
+Background
+The addition of radiotherapy (RT) following breast conserving surgery (BCS) was first shown to reduce the risk of ipsilateral recurrence in the treatment of invasive breast cancer. Ductal carcinoma in situ (DCIS) is a pre‐invasive lesion. Recurrence of ipsilateral disease following BCS can be either DCIS or invasive breast cancer. Randomised controlled trials (RCTs) have shown that RT can reduce the risk of recurrence, but assessment of potential long‐term complications from addition of RT following BSC for DCIS has not been reported for women participating in RCTs. 
+Objectives
+To summarise the data from RCTs testing the addition of RT to BCS for treatment of DCIS to determine the balance between the benefits and harms. 
+Search methods
+We searched the Cochrane Breast Cancer Group Specialised Register (2 June 2011), Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2008, Issue 1), MEDLINE (2 June 2011), EMBASE (2 June 2011) and the World Health Organization's International Clinical Trials Registry Platform (WHO ICTRP; 2 June 2011). Reference lists of articles and handsearching of ASCO (2007), ESMO (2002 to 2007), and St Gallen (2005 to 2007) conferences were performed. 
+Selection criteria
+RCTs of breast conserving surgery with and without radiotherapy in women at first diagnosis of pure ductal carcinoma in situ (no invasive disease present). 
+Data collection and analysis
+Two authors independently assessed each potentially eligible trial for inclusion and its quality. Two authors also independently extracted data from published Kaplan‐Meier analysis (survival curves) and reported summary statistics. Data were extracted and pooled for four trials. Data for planned subgroups were extracted and pooled for analysis.There were insufficient data to pool for long‐term toxicity from radiotherapy. 

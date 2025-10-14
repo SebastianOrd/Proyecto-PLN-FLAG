@@ -1,0 +1,10 @@
+Background
+Diabetic kidney disease (DKD) is associated with increased morbidity and mortality, mostly relating to cardiovascular complications. The relevance of inflammation in the pathogenesis of DKD has been investigated in recent years, and it has been shown that inflammatory markers are higher in people with DKD compared with the wider population. Pentoxifylline is a methylxanthine phosphodiesterase inhibitor with favourable anti‐inflammatory effects and immunoregulatory properties. The anti‐inflammatory effects conferred by pentoxifylline may be beneficial in the management of DKD. 
+Objectives
+To assess the benefits and harms of pentoxifylline for treating people with DKD.
+Search methods
+We searched the Cochrane Renal Group's specialised register (January 2012), CENTRAL (Issue 12, 2011), MEDLINE, EMBASE and four Chinese biomedical literature databases (CBM‐disc, 1979 to July 2009), Chinese Science and Technique Journals Database (VIP, until July 2009), China National Knowledge Infrastructure (CNKI, until July 2009) and WanFang database (until July 2009). 
+Selection criteria
+All randomised controlled trials (RCTs) and quasi‐RCTs studying the benefits and harms of pentoxifylline for DKD. 
+Data collection and analysis
+Data were extracted independently by two authors. Meta‐analyses were performed when more than one study provided data on a comparable outcome in sufficiently similar patients. Results of dichotomous outcomes were expressed as risk ratios (RR) with 95% confidence intervals (CI). Mean differences (MD) were calculated to assess the effects of treatment where outcomes were expressed on continuous scales, and standardised mean differences (SMD) calculated where different scales were used. Data was pooled using the random effects model. Adverse effects were assessed using descriptive techniques and where possible, risk differences (RD) with 95% CI. 

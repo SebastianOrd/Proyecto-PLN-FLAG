@@ -1,0 +1,12 @@
+Background
+Workplace aggression constitutes a serious issue for healthcare workers and organizations. Aggression is tied to physical and mental health issues at an individual level, as well as to absenteeism, decreased productivity or quality of work, and high employee turnover rates at an organizational level. To counteract these negative impacts, organizations have used a variety of interventions, including education and training, to provide workers with the knowledge and skills needed to prevent aggression.  
+Objectives
+To assess the effectiveness of education and training interventions that aim to prevent and minimize workplace aggression directed toward healthcare workers by patients and patient advocates. 
+Search methods
+CENTRAL, MEDLINE, Embase, six other databases and five trial registers were searched from their inception to June 2020 together with reference checking, citation searching and contact with study authors to identify additional studies. 
+Selection criteria
+Randomized controlled trials (RCTs), cluster‐randomized controlled trials (CRCTs), and controlled before and after studies (CBAs) that investigated the effectiveness of education and training interventions targeting aggression prevention for healthcare workers. 
+Data collection and analysis
+Four review authors evaluated and selected the studies resulting from the search. We used standard methodological procedures expected by Cochrane. We assessed the certainty of evidence using the GRADE approach. 
+Main results
+We included nine studies—four CRCTs, three RCTs, and two CBAs—with a total of 1688 participants. Five studies reported episodes of aggression, and six studies reported secondary outcomes. Seven studies were conducted among nurses or nurse aides, and two studies among healthcare workers in general. Three studies took place in long‐term care, two in the psychiatric ward, and four in hospitals or health centers. Studies were reported from the United States, Switzerland, the United Kingdom, Taiwan, and Sweden. 

@@ -1,0 +1,12 @@
+Background
+Telemedicine (TM) is the use of telecommunication systems to deliver health care at a distance. It has the potential to improve patient health outcomes, access to health care and reduce healthcare costs. As TM applications continue to evolve it is important to understand the impact TM might have on patients, healthcare professionals and the organisation of care. 
+Objectives
+To assess the effectiveness, acceptability and costs of interactive TM as an alternative to, or in addition to, usual care (i.e. face‐to‐face care, or telephone consultation). 
+Search methods
+We searched the Effective Practice and Organisation of Care (EPOC) Group's specialised register, CENTRAL, MEDLINE, EMBASE, five other databases and two trials registers to June 2013, together with reference checking, citation searching, handsearching and contact with study authors to identify additional studies. 
+Selection criteria
+We considered randomised controlled trials of interactive TM that involved direct patient‐provider interaction and was delivered in addition to, or substituting for, usual care compared with usual care alone, to participants with any clinical condition. We excluded telephone only interventions and wholly automatic self‐management TM interventions. 
+Data collection and analysis
+For each condition, we pooled outcome data that were sufficiently homogenous using fixed effect meta‐analysis. We reported risk ratios (RR) and 95% confidence intervals (CI) for dichotomous outcomes, and mean differences (MD) for continuous outcomes. 
+Main results
+We included 93 eligible trials (N = 22,047 participants), which evaluated the effectiveness of interactive TM delivered in addition to (32% of studies), as an alternative to (57% of studies), or partly substituted for usual care (11%) as compared to usual care alone. 

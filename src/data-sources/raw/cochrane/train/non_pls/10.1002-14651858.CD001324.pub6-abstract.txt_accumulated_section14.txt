@@ -1,0 +1,14 @@
+Background
+Emergency contraception (EC) is using a drug or copper intrauterine device (Cu‐IUD) to prevent pregnancy shortly after unprotected intercourse. Several interventions are available for EC. Information on the comparative effectiveness, safety and convenience of these methods is crucial for reproductive healthcare providers and the women they serve. This is an update of a review previously published in 2009 and 2012. 
+Objectives
+To determine which EC method following unprotected intercourse is the most effective, safe and convenient to prevent pregnancy. 
+Search methods
+In February 2017 we searched CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, Popline and PubMed, The Chinese biomedical databases and UNDP/UNFPA/WHO/World Bank Special Programme on Human Reproduction (HRP) emergency contraception database. We also searched ICTRP and ClinicalTrials.gov as well as contacting content experts and pharmaceutical companies, and searching reference lists of appropriate papers. 
+Selection criteria
+Randomised controlled trials including women attending services for EC following a single act of unprotected intercourse were eligible. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. The primary review outcome was observed number of pregnancies. Side effects and changes of menses were secondary outcomes. 
+Main results
+We included 115 trials with 60,479 women in this review. The quality of the evidence for the primary outcome ranged from moderate to high, and for other outcomes ranged from very low to high. The main limitations were risk of bias (associated with poor reporting of methods), imprecision and inconsistency. 
+Comparative effectiveness of different emergency contraceptive pills (ECP) 
+Levonorgestrel was associated with fewer pregnancies than Yuzpe (estradiol‐levonorgestrel combination) (RR 0.57, 95% CI 0.39 to 0.84, 6 RCTs, n = 4750, I2 = 23%, high‐quality evidence). This suggests that if the chance of pregnancy using Yuzpe is assumed to be 29 women per 1000, the chance of pregnancy using levonorgestrel would be between 11 and 24 women per 1000. 

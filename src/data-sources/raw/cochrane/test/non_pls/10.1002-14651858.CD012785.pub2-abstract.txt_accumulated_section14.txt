@@ -1,0 +1,14 @@
+Background
+Pulmonary arterial hypertension (PAH) is characterised by pulmonary vascular changes, leads to elevated pulmonary artery pressures, dyspnoea, a reduction in exercise tolerance, right heart failure, and ultimately death. 
+Prostacyclin analogue drugs mimic endogenous prostacyclin which leads to vasodilation, inhibition of platelet aggregation, and reversal of vascular remodelling. Prostacyclin's short half‐life theoretically enhances selectivity for the pulmonary vascular bed by direct (via central venous catheter) administration. Initial continuous infusion prostacyclins were efficacious, but use of intravenous access increases the risk of adverse events. Newer and safer subcutaneous, oral and inhaled preparations are now available, though possibly less potent. 
+Selexipag is an oral selective prostacyclin receptor (IP receptor) agonist that works similarly to prostacyclin, potentially more stable, with less complex administration and titration. 
+Objectives
+To determine the efficacy and safety of prostacyclin, prostacyclin analogues or prostacyclin receptor agonists for PAH in adults and children. 
+Search methods
+We performed searches on CENTRAL, MEDLINE, and Embase up to 16 September 2018. We handsearched review articles, clinical trial registries, and reference lists of retrieved articles. 
+Selection criteria
+We included any randomised controlled trials (RCTs) which compared prostacyclin, prostacyclin analogues or prostacyclin receptor agonists to control (placebo, any other treatment or usual care) for at least six weeks. 
+Data collection and analysis
+We used standard methods specified by Cochrane. Primary outcomes included change in World Health Organization (WHO) functional class, six‐minute walk distance (6MWD), and mortality. 
+Main results
+Seventeen trials with 3765 mostly adult participants were included; median trial duration was 12 weeks. Fifteen trials used prostacyclin analogues: intravenous (N = 4); subcutaneous (N = 1); oral (N = 5); inhaled (N = 5); two used oral prostacyclin receptor agonists. Three intravenous and two inhaled trials were open‐label. 

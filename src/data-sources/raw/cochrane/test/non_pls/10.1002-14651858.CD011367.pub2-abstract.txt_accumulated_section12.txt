@@ -1,0 +1,12 @@
+Background
+Encephalitis is a syndrome of neurological dysfunction due to inflammation of the brain parenchyma, caused by an infection or an exaggerated host immune response, or both. Attenuation of brain inflammation through modulation of the immune response could improve patient outcomes. Biological agents such as immunoglobulin that have both anti‐inflammatory and immunomodulatory properties may therefore be useful as adjunctive therapies for people with encephalitis. 
+Objectives
+To assess the efficacy and safety of intravenous immunoglobulin (IVIG) as add‐on treatment for children with encephalitis. 
+Search methods
+The Cochrane Multiple Sclerosis and Rare Diseases of the CNS group's Information Specialist searched the following databases up to 30 September 2016: CENTRAL, MEDLINE, Embase, CINAHL, ClinicalTrials.gov, and the WHO ICTRP Search Portal. In addition, two review authors searched Science Citation Index Expanded (SCI‐EXPANDED) & Conference Proceedings Citation Index ‐ Science (CPCI‐S) (Web of Science Core Collection, Thomson Reuters) (1945 to January 2016), Global Health Library (Virtual Health Library), and Database of Abstracts of Reviews of Effects (DARE). 
+Selection criteria
+Randomised controlled trials (RCTs) comparing IVIG in addition to standard care versus standard care alone or placebo. 
+Data collection and analysis
+Two review authors independently selected articles for inclusion, extracted relevant data, and assessed quality of trials. We resolved disagreements by discussion among the review authors. Where possible, we contacted authors of included studies for additional information. We presented results as risk ratios (RR) or mean differences (MD) with 95% confidence intervals (CI). 
+Main results
+The search identified three RCTs with 138 participants. All three trials included only children with viral encephalitis, one of these included only children with Japanese encephalitis, a specific form of viral encephalitis. Only the trial of Japanese encephalitis (22 children) contributed to the primary outcome of this review and follow‐up in that study was for three to six months after hospital discharge. There was no follow‐up of participants in the other two studies. We identified one ongoing trial. 

@@ -1,0 +1,10 @@
+Background
+Post‐thrombotic syndrome (PTS) is a long‐term complication of deep vein thrombosis (DVT) that is characterised by chronic pain, swelling, and skin changes in the affected limb. One of every three people with DVT will develop post‐thrombotic complications within five years. Several non‐pharmaceutical measures are used for prevention of post‐thrombotic syndrome during the acute phase of DVT. These include elevation of the legs and compression therapy. Clinicians and guidelines differ in their assessment of the utility of compression therapy for treatment of DVT. This is an update of a review first published in 2003. 
+Objectives
+To determine relative effectiveness and rate of complications when compression therapy is used in people with deep vein thrombosis (DVT) for prevention of post‐thrombotic syndrome (PTS). 
+Search methods
+For this update, the Cochrane Vascular Information Specialist (CIS) searched the Cochrane Vascular Specialised Register (20 March 2017) and CENTRAL (2017, Issue 2). The CIS also searched trial registries for details of ongoing or unpublished studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) and controlled clinical trials (CCTs) of compression therapy, such as bandaging and elastic stockings, in people with clinically confirmed DVT. The primary outcome was the occurrence of PTS. 
+Data collection and analysis
+Two review authors (DK and EvL) identified and assessed titles and abstracts for relevance, and a third review author (DA) verified this assessment independently. Review authors imposed no restrictions on date or language of publications. Three review authors (DA, DK, EvL) used data extraction sheets to independently extract study data. We resolved disagreements by discussion. 

@@ -1,0 +1,14 @@
+Background
+Cerebrolysin is a mixture of low‐molecular‐weight peptides and amino acids derived from porcine brain that has potential neuroprotective properties. It is widely used in the treatment of acute ischaemic stroke in Russia, Eastern Europe, China, and other Asian and post‐Soviet countries. This is an update of a review first published in 2010 and last updated in 2017. 
+Objectives
+To assess the benefits and harms of Cerebrolysin for treating acute ischaemic stroke.
+Search methods
+We searched the Cochrane Stroke Group Trials Register, CENTRAL, MEDLINE, Embase, Web of Science Core Collection, with Science Citation Index, LILACS, OpenGrey, and a number of Russian databases in October 2019. We also searched reference lists, ongoing trials registers, and conference proceedings. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing Cerebrolysin, started within 48 hours of stroke onset and continued for any length of time, with placebo or no treatment in people with acute ischaemic stroke. 
+Data collection and analysis
+Two review authors independently applied the inclusion criteria, assessed trial quality and risk of bias, extracted data, and applied GRADE criteria to the evidence. 
+Main results
+Seven RCTs (1601 participants) met the inclusion criteria of the review.
+In this update we re‐evaluated risk of bias through identification, examination, and evaluation of study protocols and judged it to be low, unclear, or high across studies: unclear for all domains in one study, and unclear for selective outcome reporting across all studies; low for blinding of participants and personnel in four studies and unclear in the remaining three; low for blinding of outcome assessors in three studies and unclear in four studies. We judged risk of bias to be low in two studies and unclear in the remaining five studies for generation of allocation sequence; low in one study and unclear in six studies for allocation concealment; and low in one study, unclear in one study, and high in the remaining five studies for incomplete outcome data. The manufacturer of Cerebrolysin supported four multicentre studies, either totally, or by providing Cerebrolysin and placebo, randomisation codes, research grants, or statisticians. We judged three studies to be at high risk of other bias and the remaining four studies to be at unclear risk of other bias. 
+All‐cause death: we extracted data from six trials (1517 participants). Cerebrolysin probably results in little to no difference in all‐cause death: risk ratio (RR) 0.90, 95% confidence interval (CI) 0.61 to 1.32 (6 trials, 1517 participants, moderate‐quality evidence). 

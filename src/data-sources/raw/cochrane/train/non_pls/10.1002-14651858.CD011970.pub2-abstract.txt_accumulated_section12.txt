@@ -1,0 +1,12 @@
+Background
+Gestational diabetes (GDM) is glucose intolerance, first recognised in pregnancy and usually resolving after birth. GDM is associated with both short‐ and long‐term adverse effects for the mother and her infant. Lifestyle interventions are the primary therapeutic strategy for many women with GDM. 
+Objectives
+To evaluate the effects of combined lifestyle interventions with or without pharmacotherapy in treating women with gestational diabetes. 
+Search methods
+We searched the Pregnancy and Childbirth Group's Trials Register (14 May 2016), ClinicalTrials.gov, WHO International Clinical Trials Registry Platform (ICTRP) (14th May 2016) and reference lists of retrieved studies. 
+Selection criteria
+We included only randomised controlled trials comparing a lifestyle intervention with usual care or another intervention for the treatment of pregnant women with GDM. Quasi‐randomised trials were excluded. Cross‐over trials were not eligible for inclusion. Women with pre‐existing type 1 or type 2 diabetes were excluded. 
+Data collection and analysis
+We used standard methodological procedures expected by the Cochrane Collaboration. All selection of studies, data extraction was conducted independently by two review authors. 
+Main results
+Fifteen trials (in 45 reports) are included in this review (4501 women, 3768 infants). None of the trials were funded by a conditional grant from a pharmaceutical company. The lifestyle interventions included a wide variety of components such as education, diet, exercise and self‐monitoring of blood glucose. The control group included usual antenatal care or diet alone. Using GRADE methodology, the quality of the evidence ranged from high to very low quality. The main reasons for downgrading evidence were inconsistency and risk of bias. We summarised the following data from the important outcomes of this review. 

@@ -1,0 +1,12 @@
+Background
+Medical treatment for subfertility principally involves the use of ovary‐stimulating agents, including selective oestrogen receptor modulators (SERMs), such as clomiphene citrate, gonadotropins, gonadotropin‐releasing hormone (GnRH) agonists and antagonists, as well as human chorionic gonadotropin. Ovary‐stimulating drugs may act directly or indirectly upon the endometrium (lining of the womb). Nulliparity and some causes of subfertility are recognized as risk factors for endometrial cancer. 
+Objectives
+To evaluate the association between the use of ovary‐stimulating drugs for the treatment of subfertility and the risk of endometrial cancer. 
+Search methods
+A search was performed in CENTRAL, MEDLINE (Ovid) and Embase (Ovid) databases up to July 2016, using a predefined search algorithm. A search in OpenGrey, ProQuest, ClinicalTrials.gov, ZETOC and reports of major conferences was also performed. We did not impose language and publication status restrictions. 
+Selection criteria
+Cohort and case‐control studies reporting on the association between endometrial cancer and exposure to ovary‐stimulating drugs for subfertility in adult women were deemed eligible. 
+Data collection and analysis
+Study characteristics and findings were extracted by review authors independently working in pairs. Inconsistency between studies was quantified by estimating I2. Random‐effects (RE) models were used to calculate pooled effect estimates. Separate analyses were performed, comparing treated subfertile women versus general population and/or unexposed subfertile women, to address the superimposition of subfertility as an independent risk factor for endometrial cancer. 
+Main results
+Nineteen studies were eligible for inclusion (1,937,880 participants). Overall, the quality of evidence was very low, due to serious risk of bias and indirectness (non‐randomised studies (NRS), which was reflected on the GRADE assessment. 

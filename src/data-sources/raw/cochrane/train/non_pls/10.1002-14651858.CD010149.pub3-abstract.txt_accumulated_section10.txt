@@ -1,0 +1,10 @@
+Background
+Popliteal artery aneurysm (PAA) is a focal dilatation and weakening of the popliteal artery. If left untreated, the aneurysm may thrombose, rupture or the clot within the aneurysm may embolise causing severe morbidity. PAA may be treated surgically by performing a bypass from the arterial segment proximal to the aneurysm to the arterial segment below the aneurysm, which excludes the aneurysm from the circulation. It may also be treated by a stent graft that is inserted percutaneously or through a small cut in the groin. The success of the procedure is gauged by the ability of the graft to stay patent over an extended duration. While surgical treatment is usually preferred in an emergency, the evidence on first line treatment in a non‐emergency setting is unclear. This is an update of a review first published in 2014. 
+Objectives
+To assess the effectiveness of an endovascular stent graft versus conventional open surgery for the treatment of asymptomatic popliteal artery aneurysms (PAA) on primary and assisted patency rates, hospital stay, length of the procedure and local complications. 
+Search methods
+The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase and CINAHL databases and World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers to 29 January 2019. 
+Selection criteria
+We included all randomised controlled trials (RCTs) comparing endovascular stent grafting versus conventional open surgical repair in patients undergoing unilateral or bilateral prophylactic repair of asymptomatic PAAs. 
+Data collection and analysis
+We collected data on primary and assisted primary patency rates (primary endpoints) as well as operating time, the length of hospital stay, limb salvage and local wound complications (secondary endpoints). We presented results as risk ratio or mean difference with 95% confidence intervals and assessed the certainty of the evidence using GRADE. 

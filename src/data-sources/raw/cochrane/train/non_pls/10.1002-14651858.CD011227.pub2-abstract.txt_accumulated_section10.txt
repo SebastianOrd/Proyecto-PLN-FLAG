@@ -1,0 +1,10 @@
+Background
+A range of health workforce strategies are needed to address health service demands in low‐, middle‐ and high‐income countries. Non‐medical prescribing involves nurses, pharmacists, allied health professionals, and physician assistants substituting for doctors in a prescribing role, and this is one approach to improve access to medicines. 
+Objectives
+To assess clinical, patient‐reported, and resource use outcomes of non‐medical prescribing for managing acute and chronic health conditions in primary and secondary care settings compared with medical prescribing (usual care). 
+Search methods
+We searched databases including CENTRAL, MEDLINE, Embase, and five other databases on 19 July 2016. We also searched the grey literature and handsearched bibliographies of relevant papers and publications. 
+Selection criteria
+Randomised controlled trials (RCTs), cluster‐RCTs, controlled before‐and‐after (CBA) studies (with at least two intervention and two control sites) and interrupted time series analysis (with at least three observations before and after the intervention) comparing: 1. non‐medical prescribing versus medical prescribing in acute care; 2. non‐medical prescribing versus medical prescribing in chronic care; 3. non‐medical prescribing versus medical prescribing in secondary care; 4 non‐medical prescribing versus medical prescribing in primary care; 5. comparisons between different non‐medical prescriber groups; and 6. non‐medical healthcare providers with formal prescribing training versus those without formal prescribing training. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Two review authors independently reviewed studies for inclusion, extracted data, and assessed study quality with discrepancies resolved by discussion. Two review authors independently assessed risk of bias for the included studies according to EPOC criteria. We undertook meta‐analyses using the fixed‐effect model where studies were examining the same treatment effect and to account for small sample sizes. We compared outcomes to a random‐effects model where clinical or statistical heterogeneity existed. 

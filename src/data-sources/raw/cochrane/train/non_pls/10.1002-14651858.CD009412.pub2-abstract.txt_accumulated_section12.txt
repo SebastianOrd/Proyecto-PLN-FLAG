@@ -1,0 +1,12 @@
+Background
+Aggressive, agitated or violent behaviour due to psychosis constitutes an emergency psychiatric treatment where fast‐acting interventions are required. Risperidone is a widely accessible antipsychotic that can be used to manage psychosis‐induced aggression or agitation. 
+Objectives
+To examine whether oral risperidone alone is an effective treatment for psychosis‐induced aggression or agitation. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Study‐Based Register of Trials (up to April 2017); this register is compiled by systematic searches of major resources (including AMED, BIOSIS CINAHL, Embase, MEDLINE, PsycINFO, PubMed, and registries of clinical trials) and their monthly updates, handsearches, grey literature, and conference proceedings. There are no language, date, document type, or publication status limitations for inclusion of records into the register. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing rapid use of risperidone and other drugs, combinations of drugs or placebo for people exhibiting aggression or agitation (or both) thought to be due to psychosis. 
+Data collection and analysis
+We independently inspected all citations from searches, identified relevant abstracts, and independently extracted data from all included studies. For binary data we calculated risk ratio (RR) and for continuous data we calculated mean difference (MD), all with 95% confidence intervals (CI) and used a fixed‐effect model. We assessed risk of bias for the included studies and used the GRADE approach to produce a ’Summary of findings’ tables. 
+Main results
+The review now contains data from nine trials (total n = 582) reporting on five comparisons. Due to risk of bias, small size of trials, indirectness of outcome measures and a paucity of investigated and reported 'pragmatic' outcomes, evidence was graded as very‐low quality. None of the included studies provided useable data on our primary outcome 'tranquillisation or asleep' by 30 minutes, repeated need for tranquillisation or any economic outcomes. Data were available for our other main outcomes of agitation or aggression, needing restraint, and incidence of adverse effects. 

@@ -1,0 +1,14 @@
+Background
+Several comparative randomised controlled trials (RCTs) have been performed including combinations of tyrosine kinase inhibitors (TKIs) and immune checkpoint inhibitors since the publication of a Cochrane Review on targeted therapy for metastatic renal cell carcinoma (mRCC) in 2008. This review represents an update of that original review. 
+Objectives
+To assess the effects of targeted therapies for clear cell mRCC in patients naïve to systemic therapy. 
+Search methods
+We performed a comprehensive search with no restrictions on language or publication status. The date of the latest search was 18 June 2020. 
+Selection criteria
+We included randomised controlled trials, recruiting patients with clear cell mRCC naïve to previous systemic treatment. The index intervention was any TKI‐based targeted therapy. 
+Data collection and analysis
+Two review authors independently assessed the included studies and extracted data for the primary outcomes: progression‐free survival (PFS), overall survival (OS) and serious adverse events (SAEs); and the secondary outcomes: health‐related quality of life (QoL), response rate and minor adverse events (AEs). We performed statistical analyses using a random‐effects model and rated the certainty of evidence according to the GRADE approach. 
+Main results
+We included 18 RCTs reporting on 11,590 participants randomised across 18 comparisons. This abstract focuses on the primary outcomes of select comparisons. 
+1. Pazopanib versus sunitinib 
+Pazopanib may result in little to no difference in PFS as compared to sunitinib (hazard ratio (HR) 1.05, 95% confidence interval (CI) 0.90 to 1.23; 1 study, 1110 participants; low‐certainty evidence). Based on the control event risk of 420 per 1000 in this trial at 12 months, this corresponds to 18 fewer participants experiencing PFS (95% CI 76 fewer to 38 more) per 1000 participants. Pazopanib may result in little to no difference in OS compared to sunitinib (HR 0.92, 95% CI 0.80 to 1.06; 1 study, 1110 participants; low‐certainty evidence). Based on the control event risk of 550 per 1000 in this trial at 12 months, this corresponds to 27 more OSs (95% CI 19 fewer to 70 more) per 1000 participants. Pazopanib may result in little to no difference in SAEs as compared to sunitinib (risk ratio (RR) 1.01, 95% CI 0.94 to 1.09; 1 study, 1102 participants; low‐certainty evidence). Based on the control event risk of 734 per 1000 in this trial, this corresponds to 7 more participants experiencing SAEs (95% CI 44 fewer to 66 more) per 1000 participants. 

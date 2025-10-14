@@ -1,0 +1,12 @@
+Background
+Approximately 3.7 million people died from acute coronary syndrome worldwide in 2012. Acute coronary syndrome, also known as myocardial infarction or unstable angina pectoris, is caused by a sudden blockage of the blood supplied to the heart muscle. Percutaneous coronary intervention is often used for acute coronary syndrome, but previous systematic reviews on the effects of drug‐eluting stents compared with bare‐metal stents have shown conflicting results with regard to myocardial infarction; have not fully taken account of the risk of random and systematic errors; and have not included all relevant randomised clinical trials. 
+Objectives
+To assess the benefits and harms of drug‐eluting stents versus bare‐metal stents in people with acute coronary syndrome. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, LILACS, SCI‐EXPANDED, and BIOSIS from their inception to January 2017. We also searched two clinical trials registers, the European Medicines Agency and the US Food and Drug Administration databases, and pharmaceutical company websites. In addition, we searched the reference lists of review articles and relevant trials. 
+Selection criteria
+Randomised clinical trials assessing the effects of drug‐eluting stents versus bare‐metal stents for acute coronary syndrome. We included trials irrespective of publication type, status, date, or language. 
+Data collection and analysis
+We followed our published protocol and the methodological recommendations of Cochrane. Two review authors independently extracted data. We assessed the risks of systematic error by bias domains. We conducted Trial Sequential Analyses to control the risks of random errors. Our primary outcomes were all‐cause mortality, major cardiovascular events, serious adverse events, and quality of life. Our secondary outcomes were angina, cardiovascular mortality, and myocardial infarction. Our primary assessment time point was at maximum follow‐up. We assessed the quality of the evidence by the GRADE approach. 
+Main results
+We included 25 trials randomising a total of 12,503 participants. All trials were at high risk of bias, and the quality of evidence according to GRADE was low to very low. We included 22 trials where the participants presented with ST‐elevation myocardial infarction, 1 trial where participants presented with non‐ST‐elevation myocardial infarction, and 2 trials where participants presented with a mix of acute coronary syndromes. 

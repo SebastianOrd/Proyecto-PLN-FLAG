@@ -1,0 +1,10 @@
+Background
+Dysarthria is an acquired speech disorder following neurological injury that reduces intelligibility of speech due to weak, imprecise, slow and/or unco‐ordinated muscle control. The impact of dysarthria goes beyond communication and affects psychosocial functioning. This is an update of a review previously published in 2005. The scope has been broadened to include additional interventions, and the title amended accordingly. 
+Objectives
+To assess the effects of interventions to improve dysarthric speech following stroke and other non‐progressive adult‐acquired brain injury such as trauma, infection, tumour and surgery. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (May 2016), CENTRAL (Cochrane Library 2016, Issue 4), MEDLINE, Embase, and CINAHL on 6 May 2016. We also searched Linguistics and Language Behavioral Abstracts (LLBA) (1976 to November 2016) and PsycINFO (1800 to September 2016). To identify further published, unpublished and ongoing trials, we searched major trials registers: WHO ICTRP, the ISRCTN registry, and ClinicalTrials.gov. We also handsearched the reference lists of relevant articles and contacted academic institutions and other researchers regarding other published, unpublished or ongoing trials. We did not impose any language restrictions. 
+Selection criteria
+We selected randomised controlled trials (RCTs) comparing dysarthria interventions with 1) no intervention, 2) another intervention for dysarthria (this intervention may differ in methodology, timing of delivery, duration, frequency or theory), or 3) an attention control. 
+Data collection and analysis
+Three review authors selected trials for inclusion, extracted data, and assessed risk of bias. We attempted to contact study authors for clarification and missing data as required. We calculated standardised mean difference (SMD) and 95% confidence interval (CI), using a random‐effects model, and performed sensitivity analyses to assess the influence of methodological quality. We planned to conduct subgroup analyses for underlying clinical conditions. 

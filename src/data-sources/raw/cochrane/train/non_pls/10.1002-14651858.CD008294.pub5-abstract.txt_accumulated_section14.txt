@@ -1,0 +1,14 @@
+Background
+Pine bark (Pinus spp.) extract is rich in bioflavonoids, predominantly proanthocyanidins, which are antioxidants. Commercially‐available extract supplements are marketed for preventing or treating various chronic conditions associated with oxidative stress. This is an update of a previously published review. 
+Objectives
+To assess the efficacy and safety of pine bark extract supplements for treating chronic disorders. 
+Search methods
+We searched three databases and three trial registries; latest search: 30 September 2019. 
+We contacted the manufacturers of pine bark extracts to identify additional studies and hand‐searched bibliographies of included studies. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating pine bark extract supplements in adults or children with any chronic disorder. 
+Data collection and analysis
+Two authors independently assessed trial eligibility, extracted data and assessed risk of bias. Where possible, we pooled data in meta‐analyses. We used GRADE to evaluate the certainty of evidence. 
+Primary outcomes were participant‐ and investigator‐reported clinical outcomes directly related to each disorder and all‐cause mortality. We also assessed adverse events and biomarkers of oxidative stress. 
+Main results
+This review included 27 RCTs (22 parallel and five cross‐over designs; 1641 participants) evaluating pine bark extract supplements across 10 chronic disorders: asthma (two studies; 86 participants); attention deficit hyperactivity disorder (ADHD) (one study; 61 participants), cardiovascular disease (CVD) and risk factors (seven studies; 338 participants), chronic venous insufficiency (CVI) (two studies; 60 participants), diabetes mellitus (DM) (six studies; 339 participants), erectile dysfunction (three studies; 277 participants), female sexual dysfunction (one study; 83 participants), osteoarthritis (three studies; 293 participants), osteopenia (one study; 44 participants) and traumatic brain injury (one study; 60 participants). 

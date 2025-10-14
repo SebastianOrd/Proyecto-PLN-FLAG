@@ -1,0 +1,10 @@
+Background
+Young children with acute diarrhoea, typically due to infectious gastroenteritis, may temporarily stop producing lactase, the intestinal enzyme that digests lactose. This means they may not digest lactose, the main sugar in milk, and this may worsen or prolong the diarrhoeal illness. However, there is uncertainty whether avoiding lactose‐containing milk or milk products helps young children recover from acute diarrhoea more quickly. 
+Objectives
+To assess if avoiding or reducing intake of lactose‐containing milk or milk products shortens the duration and severity of illness in young children with acute diarrhoea. We also sought other indicators of morbidity and overall mortality. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (14 May 2013), Cochrane Central Register of Controlled Trials (CENTRAL) published in The Cochrane Library (Issue 4, 2013), MEDLINE (1996 to 14 May 2013), EMBASE (1974 to 14 May 2013), and LILACS (1982 to 14 May 2013), and the reference lists of potentially relevant trials, key conference proceedings, and wrote to individuals and organizations in the field. 
+Selection criteria
+Randomized or quasi‐randomized controlled trials that assessed the effects of avoiding or reducing exposure to lactose in young children under five years with acute diarrhoea. 
+Data collection and analysis
+We extracted data using the standard methods of the Cochrane Infectious Diseases Group, and two review authors independently evaluated trial quality and data extraction. Continuous outcomes were compared using mean difference (MD), and dichotomous outcomes using the risk ratio (RR). We presented all results with 95% confidence intervals (CI) and assessed the quality of evidence using the GRADE approach. 

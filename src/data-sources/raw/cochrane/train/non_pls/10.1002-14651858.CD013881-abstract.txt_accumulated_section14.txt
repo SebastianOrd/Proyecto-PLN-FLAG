@@ -1,0 +1,14 @@
+Background
+Interleukin 6 (IL‐6) blocking agents have been used for treating severe coronavirus disease 2019 (COVID‐19). Their immunosuppressive effect might be valuable in patients with COVID‐19 characterised by substantial immune system dysfunction by controlling inflammation and promoting disease tolerance. 
+Objectives
+To assess the effect of IL‐6 blocking agents compared to standard care alone or with placebo on efficacy and safety outcomes in COVID‐19. 
+We will update this assessment regularly.
+Search methods
+We searched the World Health Organization (WHO) International Clinical Trials Registry Platform (up to 11 February 2021) and the L‐OVE platform, and Cochrane COVID‐19 Study Register to identify trials up to 26 February 2021. 
+Selection criteria
+We included randomised controlled trials (RCTs) evaluating IL‐6 blocking agents compared with standard care alone or with placebo for people with COVID‐19, regardless of disease severity. 
+Data collection and analysis
+We followed standard Cochrane methodology. The protocol was amended to reduce the number of outcomes considered. Two review authors independently collected data and assessed the risk of bias with the Cochrane Risk of Bias 2 tool. We rated the certainty of evidence with the GRADE approach for the critical outcomes such as clinical improvement (defined as hospital discharge or improvement on the scale used by trialists to evaluate clinical progression or recovery) (day (D) 28 / ≥ D60); WHO Clinical Progression Score of level 7 or above (i.e. the proportion of participants with mechanical ventilation +/‐ additional organ support OR death) (D28 / ≥ D60); all‐cause mortality (D28 / ≥ D60); incidence of any adverse events; and incidence of serious adverse events. 
+Main results
+We identified 10 RCTs with available data including one platform trial comparing tocilizumab and sarilumab with standard of care. These trials evaluated tocilizumab (nine RCTs including two platform trials; seven were reported as peer‐reviewed articles, two as preprints; 6428 randomised participants); and two sarilumab (one platform trial reported as peer reviewed article, one reported as preprint, 880 randomised participants). 
+All trials included were multicentre trials. They were conducted in Brazil, China, France, Italy, UK, USA, and four were multi‐country trials. The mean age range of participants ranged from 56 to 65 years; 4572 (66.3%) of trial participants were male. Disease severity ranged from mild to critical disease. The reported proportion of participants on oxygen at baseline but not intubated varied from 56% to 100% where reported. Five trials reported the inclusion of intubated patients at baseline. 

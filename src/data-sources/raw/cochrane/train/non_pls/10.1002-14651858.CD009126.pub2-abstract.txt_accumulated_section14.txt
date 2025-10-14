@@ -1,0 +1,14 @@
+Background
+Informal carers of people with dementia can suffer from depressive symptoms, emotional distress and other physiological, social and financial consequences. 
+Objectives
+This review focuses on three main objectives:
+To:
+1) produce a quantitative review of the efficacy of telephone counselling for informal carers of people with dementia; 
+2) synthesize qualitative studies to explore carers’ experiences of receiving telephone counselling and counsellors’ experiences of conducting telephone counselling; and 
+3) integrate 1) and 2) to identify aspects of the intervention that are valued and work well, and those interventional components that should be improved or redesigned. 
+Search methods
+The Cochrane Dementia and Cognitive Improvement Group's Specialized Register, The Cochrane Library, MEDLINE, MEDLINE in Process, EMBASE, CINAHL, PSYNDEX, PsycINFO, Web of Science, DIMDI databases, Springer database, Science direct and trial registers were searched on 3 May 2011 and updated on 25 February 2013. A Forward Citation search was conducted for included studies in Web of Science and Google Scholar. We used the Related Articles service of PubMed for included studies, contacted experts and hand‐searched abstracts of five congresses. 
+Selection criteria
+Randomised controlled trials (RCTs) or cross‐over trials that compared telephone counselling for informal carers of people with dementia against no treatment, usual care or friendly calls for chatting were included evaluation of efficacy. Qualitative studies with qualitative methods of data collection and analysis were also included to address experiences with telephone counselling. 
+Data collection and analysis
+Two authors independently screened articles for inclusion criteria, extracted data and assessed the quantitative trials with the Cochrane 'Risk of bias' tool and the qualitative studies with the Critical Appraisal Skills Program (CASP) tool. The authors conducted meta‐analyses, but reported some results in narrative form due to clinical heterogeneity. The authors synthesised the qualitative data and integrated quantitative RCT data with the qualitative data. 

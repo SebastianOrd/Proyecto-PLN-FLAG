@@ -1,0 +1,15 @@
+Background
+Tibolone is a synthetic steroid used for the treatment of menopausal symptoms, on the basis of short‐term data suggesting its efficacy. We considered the balance between the benefits and risks of tibolone. 
+Objectives
+To evaluate the effectiveness and safety of tibolone for treatment of postmenopausal and perimenopausal women. 
+Search methods
+In October 2015, we searched the Gynaecology and Fertility Group (CGF) Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase and PsycINFO (from inception), the Cumulative Index to Nursing and Allied Health Literature (CINAHL) and clinicaltrials.gov. We checked the reference lists in articles retrieved. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing tibolone versus placebo, oestrogens and/or combined hormone therapy (HT) in postmenopausal and perimenopausal women. 
+Data collection and analysis
+We used standard methodological procedures of The Cochrane Collaboration. Primary outcomes were vasomotor symptoms, unscheduled vaginal bleeding and long‐term adverse events. We evaluated safety outcomes and bleeding in studies including women either with or without menopausal symptoms. 
+Main results
+We included 46 RCTs (19,976 women). Most RCTs evaluated tibolone for treating menopausal vasomotor symptoms. Some had other objectives, such as assessment of bleeding patterns, endometrial safety, bone health, sexuality and safety in women with a history of breast cancer. Two included women with uterine leiomyoma or lupus erythematosus. 
+Tibolone versus placebo  
+Vasomotor symptoms 
+Tibolone was more effective than placebo (standard mean difference (SMD) ‐0.99, 95% confidence interval (CI) ‐1.10 to ‐0.89; seven RCTs; 1657 women; moderate‐quality evidence), but removing trials at high risk of attrition bias attenuated this effect (SMD ‐0.61, 95% CI ‐0.73 to ‐0.49; odds ratio (OR) 0.33, 85% CI 0.27 to 0.41). This suggests that if 67% of women taking placebo experience vasomotor symptoms, between 35% and 45% of women taking tibolone will do so. 

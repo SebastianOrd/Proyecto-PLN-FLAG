@@ -1,0 +1,12 @@
+Background
+Eczema is an inflammatory skin disease that tends to involve skin creases, such as the folds of the elbows or knees; it is an intensely itchy skin condition, which can relapse and remit over time. As many as a third of people with eczema who have a positive test for allergy to house dust mite have reported worsening of eczema or respiratory symptoms when exposed to dust. 
+Objectives
+To assess the effects of all house dust mite reduction and avoidance measures for the treatment of eczema. 
+Search methods
+We searched the following databases up to 14 August 2014: the Cochrane Skin Group Specialised Register, CENTRAL in The Cochrane Library (2014, Issue 8), MEDLINE (from 1946), Embase (from 1974), LILACS (from 1982), and the GREAT database. We also searched five trials registers and checked the reference lists of included and excluded studies for further references to relevant studies. We handsearched abstracts from international eczema and allergy meetings. 
+Selection criteria
+Randomised controlled trials (RCTs) of any of the house dust mite reduction and avoidance measures for the treatment of eczema, which included participants of any age diagnosed by a clinician with eczema as defined by the World Allergy Organization. We included all non‐pharmacological and pharmacological interventions that sought to reduce or avoid exposure to house dust mite and their allergenic faeces. The comparators were any active treatment, no treatment, placebo, or standard care only. 
+Data collection and analysis
+Two authors independently checked the titles and abstracts identified, and there were no disagreements. We contacted authors of included studies for additional information. We assessed the risk of bias using Cochrane methodology. 
+Main results
+We included seven studies of 324 adults and children with eczema. Overall, the included studies had a high risk of bias. Four of the seven trials tested interventions with multiple components, and three tested a single intervention. Two of the seven trials included only children, four included children and adults, and one included only adults. Interventions to reduce or avoid exposure to house dust mite included covers for mattresses and bedding, increased or high‐quality vacuuming of carpets and mattresses, and sprays that kill house dust mites. 

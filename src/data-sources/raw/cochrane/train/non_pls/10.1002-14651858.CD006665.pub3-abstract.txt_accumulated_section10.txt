@@ -1,0 +1,10 @@
+Background
+Tetanus is a severe disease that can be prevented by vaccination. In developing countries vaccination coverage is not always high. Cases still occur also in developed countries, particularly in elderly people owing to their reduced immuno protection. There are about 1 million tetanus cases per year globally. In animal studies, vitamin C has protected against various infections and bacterial toxins. In a study with rats, vitamin C protected against the purified tetanus toxin. 
+Objectives
+To assess the prophylactic and therapeutic effect of vitamin C on tetanus.
+Search methods
+In May 2013 we searched the Cochrane Wounds Group Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations ); and Ovid EMBASE for this third update. 
+Selection criteria
+Controlled trials of vitamin C as a prevention or treatment for tetanus, whether or not these were placebo controlled, in any language, published or unpublished. Two review authors independently made inclusion decisions. 
+Data collection and analysis
+Both review authors independently extracted data from trial reports and assessed methodological quality. Since one of the cells in a 2 × 2 table had no events, we calculated the odds ratio (OR) and its 95% confidence interval (CI) for case fatality rate by using the Peto‐method. Another of the 2 × 2 tables had no empty cells and the inverse‐variance method was used to calculate its risk ratio (RR) estimate and 95% CI. We also used the Fisher's exact test to calculate the exact 95% CI for the OR of the 2 × 2 table with the empty cell. 

@@ -1,0 +1,25 @@
+Background
+This overview reports on interventions for pain relief and for subfertility in pre‐menopausal women with clinically diagnosed endometriosis. 
+Objectives
+The objective of this overview was to summarise the evidence from Cochrane systematic reviews on treatment options for women with pain or subfertility associated with endometriosis. 
+Methods
+Published Cochrane systematic reviews reporting pain or fertility outcomes in women with clinically diagnosed endometriosis were eligible for inclusion in the overview. We also identified Cochrane reviews in preparation (protocols and titles) for future inclusion. The reviews, protocols and titles were identified by searching the Cochrane Database of Systematic Reviews and Archie (the Cochrane information management system) in March 2014. 
+Pain‐related outcomes of the overview were pain relief, clinical improvement or resolution and pain recurrence. Fertility‐related outcomes were live birth, clinical pregnancy, ongoing pregnancy, miscarriage and adverse events. 
+Selection of systematic reviews, data extraction and quality assessment were undertaken in duplicate. Review quality was assessed using the AMSTAR tool. The quality of the evidence for each outcome was assessed using GRADE methods. Review findings were summarised in the text and the data for each outcome were reported in 'Additional tables'. 
+Main results
+Seventeen systematic reviews published in The Cochrane Library were included. All the reviews were high quality. The quality of the evidence for specific comparisons ranged from very low to moderate. Limitations in the evidence included risk of bias in the primary studies, inconsistency between the studies, and imprecision in effect estimates. 
+Pain relief (14 reviews) 
+Gonadotrophin‐releasing hormone (GnRH) analogues 
+One systematic review reported low quality evidence of an overall benefit for GnRH analogues compared with placebo or no treatment. 
+Ovulation suppression 
+Five systematic reviews reported on medical treatment using ovulation suppression. There was moderate quality evidence that the levonorgestrel‐releasing intrauterine system (LNG‐IUD) was more effective than expectant management, and very low quality evidence that danazol was more effective than placebo. There was no consistent evidence of a difference in effectiveness between oral contraceptives and goserelin, estrogen plus progestogen and placebo, or progestogens and placebo, though in all cases the relevant evidence was of low or very low quality. 
+Non‐steroidal anti‐inflammatory drugs (NSAIDS) 
+A review of NSAIDs reported inconclusive evidence of a benefit in symptom relief compared with placebo. 
+Surgical interventions 
+There were two reviews of surgical interventions. One reported moderate quality evidence of a benefit in pain relief following laparoscopic surgery compared to diagnostic laparoscopy only. The other reported very low quality evidence that recurrence rates of endometriomata were lower after excisional surgery than after ablative surgery. 
+Post‐surgical medical interventions 
+Two reviews reported on post‐surgical medical interventions. Neither found evidence of an effect on pain outcomes, though in both cases the evidence was of low or very low quality. 
+Alternative medicine 
+There were two systematic reviews of alternative medicine. One reported evidence of a benefit from auricular acupuncture compared to Chinese herbal medicine, and the other reported no evidence of a difference between Chinese herbal medicine and danazol. In both cases the evidence was of low or very low quality. 
+Anti‐TNF‐α drugs 
+One review found no evidence of a difference in effectiveness between anti‐TNF‐α drugs and placebo. However, the evidence was of low quality. 

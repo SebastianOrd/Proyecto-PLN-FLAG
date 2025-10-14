@@ -1,0 +1,13 @@
+Background
+Stem cell therapy (SCT) has been proposed as an alternative treatment for dilated cardiomyopathy (DCM), nonetheless its effectiveness remains debatable. 
+Objectives
+To assess the effectiveness and safety of SCT in adults with non‐ischaemic DCM.
+Search methods
+We searched CENTRAL in the Cochrane Library, MEDLINE, and Embase for relevant trials in November 2020. We also searched two clinical trials registers in May 2020. 
+Selection criteria
+Eligible studies were randomized controlled trials (RCT) comparing stem/progenitor cells with no cells in adults with non‐ischaemic DCM. We included co‐interventions such as the administration of stem cell mobilizing agents. Studies were classified and analysed into three categories according to the comparison intervention, which consisted of no intervention/placebo, cell mobilization with cytokines, or a different mode of SCT. 
+The first two comparisons (no cells in the control group) served to assess the efficacy of SCT while the third (different mode of SCT) served to complement the review with information about safety and other information of potential utility for a better understanding of the effects of SCT. 
+Data collection and analysis
+Two review authors independently screened all references for eligibility, assessed trial quality, and extracted data. We undertook a quantitative evaluation of data using random‐effects meta‐analyses. We evaluated heterogeneity using the I² statistic. We could not explore potential effect modifiers through subgroup analyses as they were deemed uninformative due to the scarce number of trials available. We assessed the certainty of the evidence using the GRADE approach. We created summary of findings tables using GRADEpro GDT. We focused our summary of findings on all‐cause mortality, safety, health‐related quality of life (HRQoL), performance status, and major adverse cardiovascular events. 
+Main results
+We included 13 RCTs involving 762 participants (452 cell therapy and 310 controls). Only one study was at low risk of bias in all domains. There were many shortcomings in the publications that did not allow a precise assessment of the risk of bias in many domains. Due to the nature of the intervention, the main source of potential bias was lack of blinding of participants (performance bias). Frequently, the format of the continuous data available was not ideal for use in the meta‐analysis and forced us to seek strategies for transforming data in a usable format. 

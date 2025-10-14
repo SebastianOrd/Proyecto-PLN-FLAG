@@ -1,0 +1,11 @@
+Background
+Despite evidence supporting the effectiveness of diabetic retinopathy screening (DRS) in reducing the risk of sight loss, attendance for screening is consistently below recommended levels. 
+Objectives
+The primary objective of the review was to assess the effectiveness of quality improvement (QI) interventions that seek to increase attendance for DRS in people with type 1 and type 2 diabetes. 
+Secondary objectives were: To use validated taxonomies of QI intervention strategies and behaviour change techniques (BCTs) to code the description of interventions in the included studies and determine whether interventions that include particular QI strategies or component BCTs are more effective in increasing screening attendance; To explore heterogeneity in effect size within and between studies to identify potential explanatory factors for variability in effect size; To explore differential effects in subgroups to provide information on how equity of screening attendance could be improved; To critically appraise and summarise current evidence on the resource use, costs and cost effectiveness. 
+Search methods
+We searched the Cochrane Library, MEDLINE, Embase, PsycINFO, Web of Science, ProQuest Family Health, OpenGrey, the ISRCTN, ClinicalTrials.gov, and the WHO ICTRP to identify randomised controlled trials (RCTs) that were designed to improve attendance for DRS or were evaluating general quality improvement (QI) strategies for diabetes care and reported the effect of the intervention on DRS attendance. We searched the resources on 13 February 2017. We did not use any date or language restrictions in the searches. 
+Selection criteria
+We included RCTs that compared any QI intervention to usual care or a more intensive (stepped) intervention versus a less intensive intervention. 
+Data collection and analysis
+We coded the QI strategy using a modification of the taxonomy developed by Cochrane Effective Practice and Organisation of Care (EPOC) and BCTs using the BCT Taxonomy version 1 (BCTTv1). We used Place of residence, Race/ethnicity/culture/language, Occupation, Gender/sex, Religion, Education, Socioeconomic status, and Social capital (PROGRESS) elements to describe the characteristics of participants in the included studies that could have an impact on equity of access to health services. 

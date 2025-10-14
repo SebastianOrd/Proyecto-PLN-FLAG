@@ -1,0 +1,11 @@
+Background
+Cycling is an attractive form of transport. It is beneficial to the individual as a form of physical activity that may fit more readily into an individual’s daily routine, such as for cycling to work and to the shops, than other physical activities such as visiting a gym. Cycling is also beneficial to the wider community and the environment as a result of fewer motorised journeys. Cyclists are seen as vulnerable road users who are frequently in close proximity to larger and faster motorised vehicles. Cycling infrastructure aims to make cycling both more convenient and safer for cyclists. This review is needed to guide transport planning. 
+Objectives
+To:
+1. evaluate the effects of different types of cycling infrastructure on reducing cycling injuries in cyclists, by type of infrastructure; 
+2. evaluate the effects of cycling infrastructure on reducing the severity of cycling injuries in cyclists; 
+3. evaluate the effects of cycling infrastructure on reducing cycling injuries in cyclists with respect to age, sex and social group. 
+Search methods
+We ran the most recent search on 2nd March 2015. We searched the Cochrane Injuries Group Specialised Register, CENTRAL (The Cochrane Library), MEDLINE (OvidSP), Embase Classic + Embase(OvidSP), PubMed and 10 other databases. We searched websites, handsearched conference proceedings, screened reference lists of included studies and previously published reviews and contacted relevant organisations. 
+Selection criteria
+We included randomised controlled trials, cluster randomised controlled trials, controlled before‐after studies, and interrupted time series studies which evaluated the effect of cycling infrastructure (such as cycle lanes, tracks or paths, speed management, roundabout design) on cyclist injury or collision rates. Studies had to include a comparator, that is, either no infrastructure or a different type of infrastructure. We excluded studies that assessed collisions that occurred as a result of competitive cycling. 

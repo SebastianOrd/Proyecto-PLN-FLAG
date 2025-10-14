@@ -1,0 +1,16 @@
+Background
+Cystic fibrosis (CF) is a common life‐shortening genetic condition caused by a variant in the cystic fibrosis transmembrane conductance regulator (CFTR) protein. A class II CFTR variant F508del (found in up to 90% of people with CF (pwCF)) is the commonest CF‐causing variant. The faulty protein is degraded before reaching the cell membrane, where it needs to be to effect transepithelial salt transport. The F508del variant lacks meaningful CFTR function and corrective therapy could benefit many pwCF. Therapies in this review include single correctors and any combination of correctors and potentiators. 
+Objectives
+To evaluate the effects of CFTR correctors (with or without potentiators) on clinically important benefits and harms in pwCF of any age with class II CFTR mutations (most commonly F508del). 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Cystic Fibrosis Trials Register, reference lists of relevant articles and online trials registries. Most recent search: 14 October 2020. 
+Selection criteria
+Randomised controlled trials (RCTs) (parallel design) comparing CFTR correctors to control in pwCF with class II mutations. 
+Data collection and analysis
+Two authors independently extracted data, assessed risk of bias and evidence quality (GRADE); we contacted investigators for additional data. 
+Main results
+We included 19 RCTs (2959 participants), lasting between 1 day and 24 weeks; an extension of two lumacaftor‐ivacaftor studies provided additional 96‐week safety data (1029 participants). We assessed eight monotherapy RCTs (344 participants) (4PBA, CPX, lumacaftor, cavosonstat and FDL169), six dual‐therapy RCTs (1840 participants) (lumacaftor‐ivacaftor or tezacaftor‐ivacaftor) and five triple‐therapy RCTs (775 participants) (elexacaftor‐tezacaftor‐ivacaftor or VX‐659‐tezacaftor‐ivacaftor); below we report only the data from elexacaftor‐tezacaftor‐ivacaftor combination which proceeded to Phase 3 trials. In 14 RCTs participants had F508del/F508del genotypes, in three RCTs F508del/minimal function (MF) genotypes and in two RCTs both genotypes. 
+Risk of bias judgements varied across different comparisons. Results from 11 RCTs may not be applicable to all pwCF due to age limits (e.g. adults only) or non‐standard design (converting from monotherapy to combination therapy). 
+Monotherapy 
+Investigators reported no deaths or clinically‐relevant improvements in quality of life (QoL). There was insufficient evidence to determine any important effects on lung function. 
+No placebo‐controlled monotherapy RCT demonstrated differences in mild, moderate or severe adverse effects (AEs); the clinical relevance of these events is difficult to assess with their variety and small number of participants (all F508del/F508del). 

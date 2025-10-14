@@ -1,0 +1,9 @@
+Background
+Most people with cystic fibrosis (CF) (80% to 90%) need pancreatic enzyme replacement therapy (PERT) to prevent malnutrition. Enzyme preparations need to be taken whenever food is taken, and the dose needs to be adjusted according to the food consumed. A systematic review on the efficacy and safety of PERT is needed to guide clinical practice, as there is variability between centres with respect to assessment of pancreatic function, time of commencing treatment, dose and choice of supplements. This is an updated version of a published review. 
+Objectives
+To evaluate the efficacy and safety of PERT in children and adults with CF and to compare the efficacy and safety of different formulations of PERT and their appropriateness in different age groups. Also, to compare the effects of PERT in CF according to different diagnostic subgroups (e.g. different ages at introduction of therapy and different categories of pancreatic function). 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. Most recent search: 07 November 2019. 
+We also searched an ongoing trials website and the websites of the pharmaceutical companies who manufacture pancreatic enzyme replacements for any additional trials. Most recent search: 26 December 2019. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials in people of any age, with CF and receiving PERT, at any dosage and in any formulation, for a period of not less than four weeks, compared to placebo or other PERT preparations. 

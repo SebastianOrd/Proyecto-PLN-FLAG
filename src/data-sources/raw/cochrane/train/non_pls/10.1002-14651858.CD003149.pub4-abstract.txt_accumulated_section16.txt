@@ -1,0 +1,16 @@
+Background
+Sickle cell disease (SCD) is one of the commonest severe monogenic disorders in the world, due to the inheritance of two abnormal haemoglobin (beta globin) genes. SCD can cause severe pain, significant end‐organ damage, pulmonary complications, and premature death. Surgical interventions are more common in people with SCD, and occur at much younger ages than in the general population. Blood transfusions are frequently used prior to surgery and several regimens are used but there is no consensus over the best method or the necessity of transfusion in specific surgical cases. This is an update of a Cochrane Review. 
+Objectives
+To determine whether there is evidence that preoperative blood transfusion in people with SCD undergoing elective or emergency surgery reduces mortality and perioperative or sickle cell‐related serious adverse events. 
+To compare the effectiveness of different transfusion regimens (aggressive or conservative) if preoperative transfusions are indicated in people with SCD. 
+Search methods
+We searched for relevant trials in the Cochrane Library, MEDLINE (from 1946), Embase (from 1974), the Transfusion Evidence Library (from 1980), and ongoing trial databases; all searches current to 28 January 2020 
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register: 19 September 2019. 
+Selection criteria
+All randomised controlled trials and quasi‐randomised controlled trials comparing preoperative blood transfusion regimens to different regimens or no transfusion in people with SCD undergoing elective or emergency surgery. There was no restriction by outcomes examined, language or publication status. 
+Data collection and analysis
+Two authors independently assessed trial eligibility and the risk of bias and extracted data. 
+Main results
+Three trials with 990 participants were eligible for inclusion in the review. There were no ongoing trials identified. These trials were conducted between 1988 and 2011. The majority of people included had haemoglobin (Hb) SS SCD. The majority of surgical procedures were considered low or intermediate risk for developing sickle cell‐related complications. 
+Aggressive versus simple red blood cell transfusions 
+One trial (551 participants) compared an aggressive transfusion regimen (decreasing sickle haemoglobin to less than 30%) to a simple transfusion regimen (increasing haemoglobin to 100 g/L). This trial re‐randomised participants and therefore quantitative analysis was only possible on two subsets of data: participants undergoing cholecystectomy (230 participants); and participants undergoing tonsillectomy or adenoidectomy surgeries (107 participants). Data were not combined as we do not know if any participant received both surgeries. Overall, the quality of the evidence was very low across different outcomes according to GRADE methodology. This was due to the trial being at high risk of bias primarily due to lack of blinding, indirectness and the outcome estimates being imprecise. Cholecystectomy subgroup results are reported in the abstract. Results for both subgroups were similar. 

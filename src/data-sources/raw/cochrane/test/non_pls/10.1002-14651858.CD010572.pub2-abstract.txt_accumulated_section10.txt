@@ -1,0 +1,10 @@
+Background
+A range of surgical and non‐surgical techniques have received increasing attention in recent years in an effort to reduce the duration of a course of orthodontic treatment. Various surgical techniques have been used; however, uncertainty exists in relation to the effectiveness of these procedures and the possible adverse effects related to them. 
+Objectives
+To assess the effects of surgically assisted orthodontics on the duration and outcome of orthodontic treatment. 
+Search methods
+We searched the following electronic databases: the Cochrane Oral Health Group's Trials Register (to 10 September 2014), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 8), MEDLINE via OVID (1946 to 10 September 2014), EMBASE via OVID (1980 to 10 September 2014), LILACS via BIREME (1980 to 10 September 2014), metaRegister of Controlled Trials (to 10 September 2014), ClinicalTrials.gov (to 10 September 2014), and the World Health Organization (WHO) International Clinical Trials Registry Platform (to 10 September 2014). We checked the reference lists of all trials identified for further studies. There were no restrictions regarding language or date of publication in the electronic searches. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating the effect of surgical adjunctive procedures for accelerating tooth movement compared with conventional treatment (no surgical adjunctive procedure). 
+Data collection and analysis
+At least two review authors independently assessed the risk of bias in the trials and extracted data. We used the fixed‐effect model and expressed results as mean differences (MD) with 95% confidence intervals (CI). We investigated heterogeneity with reference to both clinical and methodological factors. 

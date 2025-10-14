@@ -1,0 +1,10 @@
+Background
+Autism spectrum disorders (ASD) are characterized by impairment in social interaction, impairment in communication and lack of flexibility of thought and behavior. Acupuncture, which involves the use of needles or pressure to specific points on the body, is used widely in Traditional Chinese Medicine and increasingly within a western medical paradigm. It has sometimes been used as a treatment aimed at improving ASD symptoms and outcomes, but its clinical effectiveness and safety has not been rigorously reviewed. 
+Objectives
+To determine the effectiveness of acupuncture for people with ASD in improving core autistic features, as well as communication, cognition, overall functioning and quality of life, and to establish if it has any adverse effects. 
+Search methods
+We searched the following databases on 30 September 2010: CENTRAL (The Cochrane Library, 2010, Issue 3), MEDLINE (1950 to September 2010 Week 2), EMBASE (1980 to 2010 Week 38), PsycINFO, CINAHL, China Journal Full‐text Database, China Master Theses Full‐text Database, China Doctor Dissertation Full‐text Database, China Proceedings of Conference Database, Index to Taiwan Periodical Literature System, metaRegister of Controlled Trials and the Chinese Clinical Trials Registry. We also searched AMED (26 February 2009) and Dissertation Abstracts International (3 March 2009), but these were no longer available to the authors or editorial base at the date of the most recent search. TCMLARS (Traditional Chinese Medical Literature Analysis and Retrieval System) was last searched on 3 March 2009. 
+Selection criteria
+We included randomized and quasi‐randomized controlled trials. We included studies comparing an acupuncture group with at least one control group that used no treatment, placebo or sham acupuncture treatment in people with ASD. We excluded trials that compared different forms of acupuncture or compared acupuncture with another treatment. 
+Data collection and analysis
+Two review authors independently extracted trial data and assessed the risk of bias in the trials. We used relative risk (RR) for dichotomous data and mean difference (MD) for continuous data. 

@@ -1,0 +1,12 @@
+Background
+Malnutrition is common in patients with chronic kidney disease (CKD) on dialysis. Oral protein‐based nutritional supplements are often provided to patients whose oral intake is otherwise insufficient to meet their energy and protein needs. Evidence for the effectiveness of oral protein‐based nutritional supplements in this population is limited. 
+Objectives
+The aims of this review were to determine the benefits and harms of using oral protein‐based nutritional supplements to improve the nutritional state of patients with CKD requiring dialysis. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 12 December 2019 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+Randomised controlled trials (RCTs) of patients with CKD requiring dialysis that compared oral protein‐based nutritional supplements to no oral protein‐based nutritional supplements or placebo. 
+Data collection and analysis
+Two authors independently assessed studies for eligibility, risk of bias, and extracted data from individual studies. Summary estimates of effect were obtained using a random‐effects model, and results were expressed as risk ratios and their 95% confidence intervals (CI) for dichotomous outcomes, and mean difference and 95% CI for continuous outcomes. 
+Main results
+Twenty‐two studies (1278 participants) were included in this review. All participants were adults on maintenance dialysis of whom 79% were on haemodialysis (HD) and 21% peritoneal dialysis. The follow‐up period ranged from one to 12 months. The majority of studies were at unclear risk of selection, performance, and reporting bias. The detection bias was high for self‐reported outcomes. 

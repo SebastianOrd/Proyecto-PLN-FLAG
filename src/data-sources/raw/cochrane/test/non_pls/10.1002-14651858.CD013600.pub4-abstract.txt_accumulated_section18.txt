@@ -1,0 +1,18 @@
+Background
+Convalescent plasma and hyperimmune immunoglobulin may reduce mortality in patients with viral respiratory diseases, and are being investigated as potential therapies for coronavirus disease 2019 (COVID‐19). A thorough understanding of the current body of evidence regarding benefits and risks of these interventions is required.  
+Objectives
+Using a living systematic review approach, to assess whether convalescent plasma or hyperimmune immunoglobulin transfusion is effective and safe in the treatment of people with COVID‐19; and to maintain the currency of the evidence. 
+Search methods
+To identify completed and ongoing studies, we searched the World Health Organization (WHO) COVID‐19 Global literature on coronavirus disease Research Database, MEDLINE, Embase, the Cochrane COVID‐19 Study Register, the Epistemonikos COVID‐19 L*OVE Platform, and trial registries. Searches were done on 17 March 2021. 
+Selection criteria
+We included randomised controlled trials (RCTs) evaluating convalescent plasma or hyperimmune immunoglobulin for COVID‐19, irrespective of disease severity, age, gender or ethnicity. For safety assessments, we also included non‐controlled non‐randomised studies of interventions (NRSIs) if 500 or more participants were included. 
+We excluded studies that included populations with other coronavirus diseases (severe acute respiratory syndrome (SARS) or Middle East respiratory syndrome (MERS)), as well as studies evaluating standard immunoglobulin. 
+Data collection and analysis
+We followed standard Cochrane methodology.
+To assess bias in included studies, we used the Cochrane 'Risk of Bias 2' tool for RCTs, and for NRSIs, the assessment criteria for observational studies, provided by Cochrane Childhood Cancer. We rated the certainty of evidence, using the GRADE approach, for the following outcomes: all‐cause mortality, improvement and worsening of clinical status (for individuals with moderate to severe disease), development of severe clinical COVID‐19 symptoms (for individuals with asymptomatic or mild disease), quality of life (including fatigue and functional independence), grade 3 or 4 adverse events, and serious adverse events. 
+Main results
+We included 13 studies (12 RCTs, 1 NRSI) with 48,509 participants, of whom 41,880 received convalescent plasma. We did not identify any completed studies evaluating hyperimmune immunoglobulin. We identified a further 100 ongoing studies evaluating convalescent plasma or hyperimmune immunoglobulin, and 33 studies reporting as being completed or terminated. 
+Individuals with a confirmed diagnosis of COVID‐19 and moderate to severe disease 
+Eleven RCTs and one NRSI investigated the use of convalescent plasma for 48,349 participants with moderate to severe disease. Nine RCTs compared convalescent plasma to placebo treatment or standard care alone, and two compared convalescent plasma to standard plasma (results not included in abstract). 
+Effectiveness of convalescent plasma 
+We included data on nine RCTs (12,875 participants) to assess the effectiveness of convalescent plasma compared to placebo or standard care alone.  

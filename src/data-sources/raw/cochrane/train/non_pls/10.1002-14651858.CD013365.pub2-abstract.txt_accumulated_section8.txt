@@ -1,0 +1,8 @@
+Background
+Diffuse large B‐cell lymphoma (DLBCL) is an aggressive cancer of the lymphatic system. About 30% to 40% of people with DLBCL experience relapse and 10% are refractory to first‐line treatment usually consisting of R‐CHOP chemotherapy. Of those eligible for second‐line treatment, commonly consisting of salvage chemotherapy followed by autologous stem‐cell transplantation (ASCT), around 50% experience relapse. With a median overall survival of less than six to 12 months, the prognosis of individuals who relapse or are refractory (r/r) to advanced lines of treatment or of those who are ineligible for ASCT, is very poor. With the introduction of chimeric antigen receptor (CAR) T‐cell therapy, a novel treatment option for these people is available. 
+Objectives
+To assess the benefits and harms of chimeric antigen receptor (CAR) T‐cell therapy for people with relapsed or refractory (r/r) DLBCL. 
+Search methods
+An experienced information specialist performed a systematic database search for relevant articles on CENTRAL, MEDLINE and Embase until September 11th, 2020. We also searched trial registries and reference lists of identified studies up to this date. All search results were screened by two authors independently and a third author was involved in case of discrepancies. 
+Selection criteria
+We included prospectively planned trials evaluating CAR T‐cell therapy for people with r/r DLBCL. We had planned to include randomised controlled trials (RCTs) and we flexibly adapted eligibility criteria to the most reliable study designs available. We excluded studies involving fewer than 10 participants with r/r DLBCL and studies with a proportion of participants with r/r DLBCL below 70%, unless data were reported separately for this subgroup. 

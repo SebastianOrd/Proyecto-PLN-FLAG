@@ -1,0 +1,10 @@
+Background
+Pulmonary complications are often seen during the postoperative period following lung resection for patients with lung cancer. Some situations such as intubation, a long stay in the intensive care unit, the high cost of antibiotics and mortality may be avoided with the prevention of postoperative pulmonary complications. Non‐invasive positive pressure ventilation (NIPPV) is widely used in hospitals, and is thought to reduce the number of pulmonary complications and mortality after this type of surgery. Therefore, a systematic review is needed to critically assess the benefits and harms of NIPPV for patients undergoing lung resection. This is an update of a Cochrane review first published in 2015. 
+Objectives
+To assess the effectiveness and safety of NIPPV for preventing complications in patients following pulmonary resection for lung cancer. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, LILACS and PEDro until 21 December 2018, to identify potentially eligible trials. We did not use any date or language restrictions in the electronic searches. We searched the reference lists of relevant papers and contacted experts in the field for information about additional published and unpublished studies. We also searched the Register of Controlled Trials (www.controlled‐trials.com) and ClinicalTrials.gov (clinicaltrials.gov) to identify ongoing studies. 
+Selection criteria
+We considered randomised or quasi‐randomised clinical trials that compared NIPPV in the immediate postoperative period after pulmonary resection with no intervention or conventional respiratory therapy. 
+Data collection and analysis
+Two authors collected data and assessed trial risk of bias. Where possible, we pooled data from the individual studies using a fixed‐effect model (quantitative synthesis), but where this was not possible we tabulated or presented the data in the main text (qualitative synthesis). Where substantial heterogeneity existed, we applied a random‐effects model. 

@@ -1,0 +1,12 @@
+Background
+Knee osteoarthritis (OA) is a major public health issue because it causes chronic pain, reduces physical function and diminishes quality of life. Ageing of the population and increased global prevalence of obesity are anticipated to dramatically increase the prevalence of knee OA and its associated impairments. No cure for knee OA is known, but exercise therapy is among the dominant non‐pharmacological interventions recommended by international guidelines. 
+Objectives
+To determine whether land‐based therapeutic exercise is beneficial for people with knee OA in terms of reduced joint pain or improved physical function and quality of life. 
+Search methods
+Five electronic databases were searched, up until May 2013.
+Selection criteria
+All randomised controlled trials (RCTs) randomly assigning individuals and comparing groups treated with some form of land‐based therapeutic exercise (as opposed to exercise conducted in the water) with a non‐exercise group or a non‐treatment control group. 
+Data collection and analysis
+Three teams of two review authors independently extracted data, assessed risk of bias for each study and assessed the quality of the body of evidence for each outcome using the GRADE (Grades of Recommendation, Assessment, Development and Evaluation) approach. We conducted analyses on continuous outcomes (pain, physical function and quality of life) immediately after treatment and on dichotomous outcomes (proportion of study withdrawals) at the end of the study; we also conducted analyses on the sustained effects of exercise on pain and function (two to six months, and longer than six months). 
+Main results
+In total, we extracted data from 54 studies. Overall, 19 (20%) studies reported adequate random sequence generation and allocation concealment and adequately accounted for incomplete outcome data; we considered these studies to have an overall low risk of bias. Studies were largely free from selection bias, but research results may be vulnerable to performance and detection bias, as only four of the RCTs reported blinding of participants to treatment allocation, and, although most RCTs reported blinded outcome assessment, pain, physical function and quality of life were participant self‐reported. 

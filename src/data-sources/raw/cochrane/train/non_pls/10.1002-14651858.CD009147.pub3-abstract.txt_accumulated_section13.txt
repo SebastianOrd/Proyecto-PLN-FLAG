@@ -1,0 +1,13 @@
+Background
+Despite widespread use, our 2012 Cochrane review did not confirm that use of imaging to guide glucocorticoid injection for people with shoulder pain improves its efficacy. 
+Objectives
+To update our review and assess the benefits and harms of image‐guided glucocorticoid injection compared to non‐image‐guided injection for patients with shoulder pain. 
+Search methods
+We updated the search of the Cochrane Central Register of Controlled Trials (CENTRAL, via Ovid), MEDLINE (Ovid), Embase (Ovid) and clinicaltrials.gov to 15 Feb 2021, and the World Health Organisation International Clinical Trials Registry Platform (http://www.who.int/trialsearch/Default.aspx) to 06 July 2020. We also screened reference lists of retrieved review articles and trials to identify potentially relevant studies. 
+Selection criteria
+We included randomised or quasi‐randomised controlled trials that compared image‐guided glucocorticoid injection to injection without image guidance (either landmark‐guided or intramuscular) in patients with shoulder pain (rotator cuff disease, adhesive capsulitis or mixed or undefined shoulder pain). Major outcomes were pain, function, proportion of participants with treatment success, quality of life, adverse events, serious adverse events and withdrawals due to adverse events. Minor outcomes were shoulder range of motion and proportion of participants requiring surgery or additional injections. There were no restrictions on language or date of publication. 
+Data collection and analysis
+We used standard methodologic procedures expected by Cochrane.
+Main results
+Nineteen trials were included (1035 participants). Fourteen trials included participants with rotator cuff disease, four with adhesive capsulitis, and one with mixed or undefined shoulder pain. Trial size varied from 28 to 256 participants, most participants were female, mean age ranged between 31 and 60 years, and mean symptom duration varied from 2 to 23 months. 
+Two trials were at low risk of bias for all criteria. The most notable sources of bias in the remaining trials included performance bias and detection bias. 

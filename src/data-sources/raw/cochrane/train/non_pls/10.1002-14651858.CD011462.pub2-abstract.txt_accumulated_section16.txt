@@ -1,0 +1,16 @@
+Background
+Using hypofractionation (fewer, larger doses of daily radiation) to treat localized prostate cancer may improve convenience and resource use. For hypofractionation to be feasible, it must be at least as effective for cancer‐related outcomes and have comparable toxicity and quality of life outcomes as conventionally fractionated radiation therapy. 
+Objectives
+To assess the effects of hypofractionated external beam radiation therapy compared to conventionally fractionated external beam radiation therapy for men with clinically localized prostate cancer. 
+Search methods
+We searched CENTRAL, MEDLINE (Ovid), Embase (Ovid) and trials registries from 1946 to 15 March 2019 with reference checking, citation searching and contact with study authors. Searches were not limited by language or publication status. We reran all searches within three months (15th March 2019) prior to publication. 
+Selection criteria
+Randomized controlled comparisons which included men with clinically localized prostate adenocarcinoma where hypofractionated radiation therapy (external beam radiation therapy) to the prostate using hypofractionation (greater than 2 Gy per fraction) compared with conventionally fractionated radiation therapy to the prostate delivered using standard fractionation (1.8 Gy to 2 Gy per fraction). 
+Data collection and analysis
+We used standard Cochrane methodology. Two authors independently assessed trial quality and extracted data. We used Review Manager 5 for data analysis and meta‐analysis. We used the inverse variance method and random‐effects model for data synthesis of time‐to‐event data with hazard ratios (HR) and 95% confidence intervals (CI) reported. For dichotomous data, we used the Mantel‐Haenzel method and random‐effects model to present risk ratios (RR) and 95% CI. We used GRADE to assess evidence quality for each outcome. 
+Main results
+We included 10 studies with 8278 men in our analysis comparing hypofractionation with conventional fractionation to treat prostate cancer. 
+Primary outcomes 
+Hypofractionation may result in little or no difference in prostate cancer‐specific survival [PC‐SS] (HR 1.00, 95% CI 0.72 to 1.39; studies = 8, participants = 7946; median follow‐up 72 months; low‐certainty evidence). For men in the intermediate‐risk group undergoing conventional fractionation this corresponds to 976 per 1000 men alive after 6 years and 0 more (44 fewer to 18 more) alive per 1000 men undergoing hypofractionation. 
+We are uncertain about the effect of hypofractionation on late radiation therapy gastrointestinal (GI) toxicity (RR 1.10, 95% CI 0.68 to 1.78; studies = 4, participants = 3843; very low‐certainty evidence). 
+Hypofractionation probably results in little or no difference to late radiation therapy genitourinary (GU) toxicity (RR 1.05, 95% CI 0.93 to 1.18; studies = 4, participants = 3843; moderate‐certainty evidence). This corresponds to 262 per 1000 late GU radiation therapy toxicity events with conventional fractionation and 13 more (18 fewer to 47 more) per 1000 men when undergoing hypofractionation. 

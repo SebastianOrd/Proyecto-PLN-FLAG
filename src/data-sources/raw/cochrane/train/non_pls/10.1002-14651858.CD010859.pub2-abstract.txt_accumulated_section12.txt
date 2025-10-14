@@ -1,0 +1,12 @@
+Background
+Diabetic macular oedema (DMO) is a complication of diabetic retinopathy and one of the most common causes of visual impairment in people with diabetes. Clinically significant macular oedema (CSMO) is the most severe form of DMO. Intravitreal antiangiogenic therapy is now the standard treatment for DMO involving the centre of the macula, but laser photocoagulation is still used in milder or non‐central DMO. 
+Objectives
+To access the efficacy and safety of laser photocoagulation as monotherapy in the treatment of diabetic macular oedema. 
+Search methods
+We searched CENTRAL, which contains the Cochrane Eyes and Vision Trials Register; MEDLINE; Embase; LILACS; the ISRCTN registry; ClinicalTrials.gov and the WHO ICTRP. The date of the search was 24 July 2018. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing any type of focal/grid macular laser photocoagulation versus another type or technique of laser treatment and no intervention. We did not compare laser versus other interventions as these are covered by other Cochrane Reviews. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Our primary outcomes were gain or loss of 3 lines (0.3 logMAR or 15 ETDRS letters) of best‐corrected visual acuity (BCVA) at one year of follow‐up (plus or minus six months) after treatment initiation. Secondary outcomes included final or mean change in BCVA, resolution of macular oedema, central retinal thickness, quality of life and adverse events, all at one year. We graded the certainty of the evidence for each outcome using the GRADE approach. 
+Main results
+We identified 24 studies (4422 eyes). The trials were conducted in Europe (nine studies), USA (seven), Asia (four) and, Africa (one), Latin America (one), Europe‐Asian (one) and Oceania (one). The methodological quality of the studies was difficult to assess as they were poorly reported, so the predominant classification of bias was unclear. 

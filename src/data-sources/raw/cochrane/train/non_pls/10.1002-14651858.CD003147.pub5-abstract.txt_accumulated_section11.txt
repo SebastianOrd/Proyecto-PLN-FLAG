@@ -1,0 +1,11 @@
+Background
+Chest physiotherapy is widely prescribed to assist the clearance of airway secretions in people with cystic fibrosis (CF). Positive expiratory pressure (PEP) devices provide back pressure to the airways during expiration. This may improve clearance by building up gas behind mucus via collateral ventilation and by temporarily increasing functional residual capacity. The developers of the PEP technique recommend using PEP with a mask in order to avoid air leaks via the upper airways and mouth. In addition, increasing forced residual capacity (FRC) has not been demonstrated using mouthpiece PEP. Given the widespread use of PEP devices, there is a need to determine the evidence for their effect. This is an update of a previously published review. 
+Objectives
+To determine the effectiveness and acceptability of PEP devices compared to other forms of physiotherapy as a means of improving mucus clearance and other outcomes in people with CF. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register comprising of references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. The electronic database CINAHL was also searched from 1982 to 2017. 
+Most recent search of the Group's CF Trials Register: 20 February 2019.
+Selection criteria
+Randomised controlled studies in which PEP was compared with any other form of physiotherapy in people with CF. This included, postural drainage and percussion (PDPV), active cycle of breathing techniques (ACBT), oscillating PEP devices, thoracic oscillating devices, bilevel positive airway pressure (BiPaP) and exercise. 
+Data collection and analysis
+Three authors independently applied the inclusion and exclusion criteria to publications, assessed the risk of bias of the included studies and assessed the quality of the evidence using the GRADE recommendations. 

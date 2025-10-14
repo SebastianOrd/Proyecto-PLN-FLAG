@@ -1,0 +1,13 @@
+Xpert tests for active tuberculosis in children
+Why is improving the diagnosis of pulmonary tuberculosis important? 
+In 2018, at least one million children became ill with tuberculosis and around 200,000 died. When detected early and effectively treated, tuberculosis is largely curable. Xpert MTB/RIF and Xpert Ultra are World Health Organization‐recommended tests that simultaneously detect tuberculosis and rifampicin resistance in adults and children with tuberculosis symptoms. Rifampicin is an important anti‐tuberculosis drug. Not recognizing tuberculosis early may result in delayed diagnosis and treatment, severe illness, and death. A false tuberculosis diagnosis may result in anxiety and unnecessary treatment. 
+What is the aim of this review? 
+To determine the accuracy of tests in symptomatic children for diagnosing pulmonary tuberculosis, tuberculous meningitis, lymph node tuberculosis, and rifampicin resistance. 
+What was studied in this review? 
+Xpert MTB/RIF and Xpert Ultra, with results measured against culture and a composite reference standard (benchmarks), recognizing that neither reference is perfect in children. 
+What are the main results in this review? 
+A total of 49 studies were included. For pulmonary tuberculosis, we analysed 299 data sets including information describing nearly 70,000 children. 
+For a population of 1000 children:
+Xpert MTB/RIF 
+‐ where 100 have pulmonary tuberculosis in sputum (by culture), 74 would be Xpert MTB/RIF‐positive, of whom 9 (12%) would not have tuberculosis (false‐positives); 926 would be Xpert MTB/RIF‐negative; and 35 (4%) would have tuberculosis (false‐negatives) 
+‐ where 100 have tuberculous meningitis (by culture), 86 would be Xpert MTB/RIF‐positive, of whom 59 (69%) would not have tuberculosis (false‐positives); 914 would be Xpert MTB/RIF‐negative; and 23 (3%) would have tuberculosis (false‐negatives) 

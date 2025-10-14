@@ -1,0 +1,12 @@
+Background
+Age‐related macular degeneration (AMD) is one of the leading causes of permanent blindness worldwide. The current mainstay of treatment for neovascular AMD (nAMD) is intravitreal injection of anti‐vascular endothelial growth factor (anti‐VEGF) agents: aflibercept, ranibizumab, and off‐label bevacizumab. Injections can be given monthly, every two or three months ('extended‐fixed'), or as needed (pro re nata (PRN)). A variant of PRN is 'treat‐and‐extend' whereby injections are resumed if recurrence is detected and then delivered with increasing intervals. Currently, injection frequency varies among practitioners, which underscores the need to characterize an optimized approach to nAMD management. 
+Objectives
+To investigate the effects of monthly versus non‐monthly intravitreous injection of an anti‐VEGF agent in people with newly diagnosed nAMD. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, LILACS, and three trials registers from 2004 to October 2019; checked references; handsearched conference abstracts; and contacted pharmaceutical companies to identify additional studies. 
+Selection criteria
+We included randomized controlled trials (RCTs) that compared different treatment regimens for anti‐VEGF agents in people with newly diagnosed nAMD. We considered standard doses only (ranibizumab 0.5 mg, bevacizumab 1.25 mg, aflibercept 2.0 mg, or a combination of these). 
+Data collection and analysis
+We used standard Cochrane methods for trial selection, data extraction, and analysis.
+Main results
+We included 15 RCTs. The total number of participants was 7732, ranging from 37 to 2457 in each trial. The trials were conducted worldwide. Of these, six trials exclusively took place in the US, and three included centers from more than one country. Eight trials were at high risk of bias for at least one domain and all trials had at least one domain at unclear risk of bias. 

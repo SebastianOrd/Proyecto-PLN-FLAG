@@ -1,0 +1,12 @@
+Background
+People with venous thromboembolism (VTE) generally are treated for five days with intravenous unfractionated heparin or subcutaneous low‐molecular‐weight heparin (LMWH), followed by three months of vitamin K antagonists (VKAs). Treatment with VKAs requires regular laboratory measurements and carries risk of bleeding; some patients have contraindications to such treatment. Treatment with LMWH has been proposed to minimise the risk of bleeding complications. This is the second update of a review first published in 2001. 
+Objectives
+The purpose of this review was to evaluate the efficacy and safety of long term treatment (three months) with LMWH versus long term treatment (three months) with VKAs for symptomatic VTE. 
+Search methods
+For this update, the Cochrane Vascular Information Specialist searched the Specialised Register (last searched November 2016) and the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 10), The Cochrane Vascular Information Specialistalso searched clinical trials registries for ongoing studies. 
+Selection criteria
+Randomised controlled trials comparing LMWH versus VKA for long treatment (three months) of symptomatic VTE. Two review authors independently evaluated trials for inclusion and methodological quality. 
+Data collection and analysis
+Review authors independently extracted data and assessed risk of bias. We resolved disagreements by discussion and performed meta‐analysis using fixed‐effect models with Peto odds ratios (Peto ORs) and 95% confidence intervals (CIs). Outcomes of interest were recurrent VTE, major bleeding, and mortality. We used GRADE to assess the overall quality of evidence supporting these outcomes. 
+Main results
+Sixteen trials, with a combined total of 3299 participants fulfilled our inclusion criteria. According to GRADE, the quality of evidence was moderate for recurrent VTE, low for major bleeding, and moderate for mortality. We downgraded the quality of the evidence for imprecision (recurrent VTE, mortality) and for risk of bias and inconsistency (major bleeding). 

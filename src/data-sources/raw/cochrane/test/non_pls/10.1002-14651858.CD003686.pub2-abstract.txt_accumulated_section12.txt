@@ -1,0 +1,12 @@
+Background
+Lateral elbow pain, or tennis elbow, is a common condition that causes pain in the elbow and forearm. Although self‐limiting, it can be associated with significant disability and often results in work absence. It is often treated with topical and oral non‐steroidal anti‐inflammatory drugs (NSAIDs). This is an update of a review first published in 2002 (search date October 11, 2012). 
+Objectives
+To assess the benefits and harms of topical and oral NSAIDs for treating people with lateral elbow pain. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials, MEDLINE, CINAHL, EMBASE and SciSearch up to October 11, 2012. No language restriction was applied. 
+Selection criteria
+Studies were included if they were randomised or quasi‐randomised controlled trials (RCTs or CCTs) that compared topical or oral NSAIDs with placebo or another intervention, or compared two NSAIDs in adults with lateral elbow pain. Outcomes of interest were pain, function, quality of life, pain‐free grip strength, overall treatment success, work loss and adverse effects. 
+Data collection and analysis
+Two review authors independently selected the studies for inclusion, extracted the data, and performed a risk of bias assessment. 
+Main results
+Fifteen trials, involving 759 participants and reporting 17 comparisons, were included in the review. Four new trials identified from the updated search were included, along with 11 of 14 trials included in the original review (three trials included in the previous review were found not to meet inclusion criteria). Of eight trials that studied topical NSAIDs (301 participants), five compared topical NSAIDs with placebo, one compared manipulative therapy and topical NSAIDs with manipulative therapy alone, one compared leech therapy with topical NSAIDs and one compared two different topical NSAIDs. Of seven trials that investigated oral NSAIDs (437 participants), two compared oral NSAIDs with placebo, one compared oral NSAIDs and bandaging with bandaging alone, three compared oral NSAIDs with glucocorticoid injection, one compared oral NSAIDs with a vasodilator and two compared two different oral NSAIDs. No trials directly compared topical NSAIDs with oral NSAIDs. Few trials used intention‐to‐treat analysis, and the sample size of most was small. The median follow‐up was 2 weeks (range 1 week to 1 year). 

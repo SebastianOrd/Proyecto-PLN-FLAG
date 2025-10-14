@@ -1,0 +1,12 @@
+Background
+Bronchopulmonary dysplasia (BPD) remains a major problem for infants born extremely preterm. Persistent inflammation in the lungs is important in its pathogenesis. Systemic corticosteroids have been used to prevent or treat BPD because of their potent anti‐inflammatory effects. 
+Objectives
+To examine the relative benefits and adverse effects of systemic postnatal corticosteroids commenced within the first six days after birth for preterm infants at risk of developing BPD. 
+Search methods
+We ran an updated search of the following databases on 25 September 2020: CENTRAL via CRS Web and MEDLINE via OVID. We also searched clinical trials databases and reference lists of retrieved articles for randomised controlled trials (RCTs). We did not include cluster randomised trials, cross‐over trials, or quasi‐RCTs. 
+Selection criteria
+For this review, we selected RCTs examining systemic (intravenous or oral) postnatal corticosteroid treatment started within the first six days after birth (early) in high‐risk preterm infants. We included studies that evaluated the use of dexamethasone, as well as studies that assessed hydrocortisone, even when the latter was used primarily for management of hypotension, rather than for treatment of lung problems. We did not include trials of inhaled corticosteroids. 
+Data collection and analysis
+We used standard Cochrane methods. We extracted and analysed data regarding clinical outcomes that included mortality, BPD, mortality or BPD, failure to extubate, complications during the primary hospitalisation, and long‐term health and neurodevelopmental outcomes. We used the GRADE approach to assess the certainty of evidence. 
+Main results
+Use of the GRADE approach revealed that the certainty of evidence was high for the major outcomes considered, except for BPD at 36 weeks for all studies combined, which was downgraded one level to moderate because of evidence of publication bias. 

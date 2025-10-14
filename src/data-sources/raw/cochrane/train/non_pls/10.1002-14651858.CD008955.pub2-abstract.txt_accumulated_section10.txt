@@ -1,0 +1,10 @@
+Background
+Interferon alpha is the only agent approved for the postoperative adjuvant treatment of high‐risk cutaneous melanoma. However, the survival advantage associated with this treatment is unclear, especially in terms of overall survival. Thus, adjuvant interferon is not universally considered a gold standard treatment by all oncologists. 
+Objectives
+To assess the disease‐free survival and overall survival effects of interferon alpha as adjuvant treatment for people with high‐risk cutaneous melanoma. 
+Search methods
+We searched the following databases up to August 2012: the Cochrane Skin Group Specialised Register, CENTRAL in The Cochrane Library (2012, issue 8), MEDLINE (from 2005), EMBASE (from 2010), AMED (from 1985), and LILACS (from 1982). We also searched trials databases in 2011, and proceedings of the ASCO annual meeting from 2000 to 2011. We checked the reference lists of selected articles for further references to relevant trials. 
+Selection criteria
+We included only randomised controlled trials (RCTs) comparing interferon alpha to observation (or any other treatment) for the postoperative (adjuvant) treatment of patients with high‐risk skin melanoma, that is, people with regional lymph node metastasis (American Joint Committee on Cancer (AJCC) TNM (tumour, lymph node, metastasis) stage III) undergoing radical lymph node dissection, or people without nodal disease but with primary tumour thickness greater than 1 mm (AJCC TNM stage II). 
+Data collection and analysis
+Two authors extracted data, and a third author independently verified the extracted data. The main outcome measure was the hazard ratio (HR), which is the ratio of the risk of the event occurring in the treatment arm (adjuvant interferon) compared to the control arm (no adjuvant interferon). The survival data were either entered directly into Review Manager (RevMan) or extrapolated from Kaplan‐Meier plots and then entered into RevMan. Based on the presence of between‐study heterogeneity, we applied a fixed‐effect or random‐effects model for calculating the pooled estimates of treatment efficacy. 

@@ -1,0 +1,13 @@
+Background
+This is an update of a Cochrane review that was first published in 2011 of the effects of reducing dietary salt intake, through advice to reduce salt intake or low‐sodium salt substitution, on mortality and cardiovascular events. 
+Objectives
+1. To assess the long‐term effects of advice and salt substitution, aimed at reducing dietary salt, on mortality and cardiovascular morbidity. 
+2. To investigate whether a reduction in blood pressure is an explanatory factor in the effect of such dietary interventions on mortality and cardiovascular outcomes. 
+Search methods
+We updated the searches of CENTRAL (2013, Issue 4), MEDLINE (OVID, 1946 to April week 3 2013), EMBASE (OVID, 1947 to 30 April 2013) and CINAHL (EBSCO, inception to 1 April 2013) and last ran these on 1 May 2013. We also checked the references of included studies and reviews. We applied no language restrictions. 
+Selection criteria
+Trials fulfilled the following criteria: (1) randomised, with follow‐up of at least six months, (2) the intervention was reduced dietary salt (through advice to reduce salt intake or low‐sodium salt substitution), (3) participants were adults and (4) mortality or cardiovascular morbidity data were available. Two review authors independently assessed whether studies met these criteria. 
+Data collection and analysis
+A single author extracted data and assessed study validity, and a second author checked this. We contacted trial authors where possible to obtain missing information. We extracted events and calculated risk ratios (RRs) and 95% confidence intervals (CIs). 
+Main results
+Eight studies met the inclusion criteria: three in normotensives (n = 3518) and five in hypertensives or mixed populations of normo‐ and hypertensives (n = 3766). End of trial follow‐up ranged from six to 36 months and the longest observational follow‐up (after trial end) was 12.7 years. 

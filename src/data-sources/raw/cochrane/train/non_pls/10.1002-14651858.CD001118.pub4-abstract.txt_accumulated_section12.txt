@@ -1,0 +1,12 @@
+Background
+Many smokers give up smoking on their own, but materials that provide a structured programme for smokers to follow may increase the number who quit successfully. 
+Objectives
+The aims of this review were to determine the effectiveness of different forms of print‐based self‐help materials that provide a structured programme for smokers to follow, compared with no treatment and with other minimal contact strategies, and to determine the comparative effectiveness of different components and characteristics of print‐based self‐help, such as computer‐generated feedback, additional materials, tailoring of materials to individuals, and targeting of materials at specific groups. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group Trials Register, ClinicalTrials.gov, and the International Clinical Trials Registry Platform (ICTRP). The date of the most recent search was March 2018. 
+Selection criteria
+We included randomised trials of smoking cessation with follow‐up of at least six months, where at least one arm tested print‐based materials providing self‐help compared with minimal print‐based self‐help (such as a short leaflet) or a lower‐intensity control. We defined 'self‐help' as structured programming for smokers trying to quit without intensive contact with a therapist. 
+Data collection and analysis
+We extracted data in accordance with standard methodological procedures set out by Cochrane. The main outcome measure was abstinence from smoking after at least six months' follow‐up in people smoking at baseline. We used the most rigorous definition of abstinence in each study and biochemically validated rates when available. Where appropriate, we performed meta‐analysis using a random‐effects model. 
+Main results
+We identified 75 studies that met our inclusion criteria. Many study reports did not include sufficient detail to allow judgement of risk of bias for some domains. We judged 30 studies (40%) to be at high risk of bias for one or more domains. 

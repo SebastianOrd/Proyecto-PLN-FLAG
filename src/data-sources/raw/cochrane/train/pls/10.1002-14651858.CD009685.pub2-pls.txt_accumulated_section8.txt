@@ -1,0 +1,8 @@
+Imaging guided surgery for brain tumours
+Background 
+Surgery has a key role in the management of many types of brain tumour. In some types of brain tumour the amount that can be removed by the surgeon is very important in helping patients live longer and feel better. However, sometimes removing a brain tumour can be difficult, because it either looks like normal brain tissue or is near brain tissue that is very important to making people function normally. New methods of visualising tumours during surgery have been developed to help surgeons better identify tumour from normal brain tissue. 
+Question 
+1. Is image guided surgery more effective at removing brain tumours than surgery without image guidance? 
+2. Is one image guidance technology or tool better than another?
+Study characteristics 
+Our search strategy was up to date as of March 2013. We found four trials looking at four different types of tools to help improve the amount of tumour that is removed. The tumour that they looked at was usually high grade glioma but one study also included patients with low grade glioma. Imaging interventions used during surgery included magnetic resonance imaging (iMRI) during surgery to assess the amount of remaining tumour, or a fluorescent dye (5‐aminolevulinic acid (5‐ALA)) to mark out the tumour. Two trials used pre‐operative imaging to map out the location of a tumour, which was then used at the time of surgery to guide the resection (neuronavigation). All the studies were at significant risk of bias and some were small and stopped early. Others were funded by the manufacturers of the image guidance tool involved. 

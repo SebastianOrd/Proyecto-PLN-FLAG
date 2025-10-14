@@ -1,0 +1,13 @@
+Background
+Research shows that administration of prophylactic antibiotics before colorectal surgery prevents postoperative surgical wound infection. The best antibiotic choice, timing of administration and route of administration remain undetermined. 
+Objectives
+To establish the effectiveness of antimicrobial prophylaxis for the prevention of surgical wound infection in patients undergoing colorectal surgery. Specifically to determine: 
+1. whether antimicrobial prophylaxis reduces the risk of surgical wound infection; 2. the target spectrum of bacteria (aerobic or anaerobic bacteria, or both); 3. the best timing and duration of antibiotic administration; 4. the most effective route of antibiotic administration (intravenous, oral or both); 5. whether any antibiotic is clearly more effective than the currently recommended gold standard specified in published guidelines; 6. whether antibiotics should be given before or after surgery. 
+Search methods
+For the original review published in 2009 we searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE (Ovid) and EMBASE (Ovid). For the update of this review we rewrote the search strategies and extended the search to cover from 1954 for MEDLINE and 1974 for EMBASE up to 7 January 2013. We searched CENTRAL on the same date (Issue 12, 2012). 
+Selection criteria
+Randomised controlled trials of prophylactic antibiotic use in elective and emergency colorectal surgery, with surgical wound infection as an outcome. 
+Data collection and analysis
+Data were abstracted and reviewed by one review author and checked by another only for the single, dichotomous outcome of surgical wound infection. Quality of evidence was assessed using GRADE methods. 
+Main results
+This updated review includes 260 trials and 68 different antibiotics, including 24 cephalosporins and 43,451 participants. Many studies had multiple variables that separated the two study groups; these could not be compared to other studies that tested one antibiotic and had a single variable separating the two groups. We did not consider the risk of bias arising from attrition and lack of blinding of outcome assessors to affect the results for surgical wound infection. 

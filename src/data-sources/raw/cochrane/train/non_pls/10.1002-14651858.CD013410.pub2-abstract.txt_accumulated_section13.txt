@@ -1,0 +1,13 @@
+Background
+Hip fractures are a major healthcare problem, presenting a huge challenge and burden to individuals and healthcare systems. The number of hip fractures globally is rising rapidly. The majority of hip fractures are treated surgically. This review evaluates evidence for types of arthroplasty: hemiarthroplasties (HAs), which replace part of the hip joint; and total hip arthroplasties (THAs), which replace all of it. 
+Objectives
+To determine the effects of different designs, articulations, and fixation techniques of arthroplasties for treating hip fractures in adults. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, seven other databases and one trials register in July 2020. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs comparing different arthroplasties for treating fragility intracapsular hip fractures in older adults. We included THAs and HAs inserted with or without cement, and comparisons between different articulations, sizes, and types of prostheses. We excluded studies of people with specific pathologies other than osteoporosis and with hip fractures resulting from high‐energy trauma. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We collected data for seven outcomes: activities of daily living, functional status, health‐related quality of life, mobility (all early: within four months of surgery), early mortality and at 12 months after surgery, delirium, and unplanned return to theatre at the end of follow‐up. 
+Main results
+We included 58 studies (50 RCTs, 8 quasi‐RCTs) with 10,654 participants with 10,662 fractures. All studies reported intracapsular fractures, except one study of extracapsular fractures. The mean age of participants in the studies ranged from 63 years to 87 years, and 71% were women. 
+We report here the findings of three comparisons that represent the most substantial body of evidence in the review. Other comparisons were also reported, but with many fewer participants. 

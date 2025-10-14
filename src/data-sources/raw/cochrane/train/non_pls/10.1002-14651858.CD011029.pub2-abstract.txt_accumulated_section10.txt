@@ -1,0 +1,10 @@
+Background
+Infantile colic is typically defined as full‐force crying for at least three hours per day, on at least three days per week, for at least three weeks. Colic appears to be more frequent in the first six weeks of life (prevalence range of 17% to 25%), depending on the specific location reported and definitions used, and usually resolves by three months. The aetiopathogenesis of infantile colic is unclear but most likely multifactorial. A number of psychological, behavioural and biological components (food hypersensitivity, allergy or both; gut microflora and dysmotility) are thought to contribute to it. The role of diet as a component in infantile colic remains controversial. 
+Objectives
+To assess the effects of dietary modifications for reducing colic in infants less than four months of age. 
+Search methods
+In July 2018 we searched CENTRAL, MEDLINE, Embase, 17 other databases and 2 trials registers. We also searched Google, checked references and contacted study authors. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs evaluating the effects of dietary modifications, alone or in combination, for colicky infants younger than four months of age versus another intervention or placebo. We used specific definitions for colic, age of onset and the methods for performing the intervention. We defined 'modified diet' as any diet altered to include or exclude certain components. 
+Data collection and analysis
+We used standard Cochrane methodological procedures. Our primary outcome was duration of crying, and secondary outcomes were response to intervention, frequency of crying episodes, parental/family quality of life, infant sleep duration, parental satisfaction and adverse effects. 

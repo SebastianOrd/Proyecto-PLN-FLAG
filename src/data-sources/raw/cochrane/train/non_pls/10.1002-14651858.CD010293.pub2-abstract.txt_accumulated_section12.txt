@@ -1,0 +1,12 @@
+Background
+Anophthalmia is the absence of one or both eyes, and it can be congenital (i.e. a birth defect) or acquired later in life. There are two main types of orbital implant: integrated, whereby the implant receives a blood supply from the body that allows for the integration of the prosthesis within the tissue; and non‐integrated, where the implant remains separate. Despite the remarkable progress in anophthalmic socket reconstruction and in the development of various types of implants, there are still uncertainties about the real roles of integrated (hydroxyapatite (HA), porous polyethylene (PP), composites) and non‐integrated (polymethylmethacrylate (PMMA)/acrylic and silicone) orbital implants in anophthalmic socket treatment. 
+Objectives
+To assess the effects of integrated versus non‐integrated orbital implants for treating anophthalmic sockets. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Trials Register) (2016, Issue 7), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to August 2016), Embase (January 1980 to August 2016), Latin American and Caribbean Health Sciences Literature Database (LILACS) (1982 to August 2016), the ISRCTN registry (www.isrctn.com/editAdvancedSearch), ClinicalTrials.gov (www.clinicaltrials.gov), and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 8 August 2016. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs of integrated and non‐integrated orbital implants for treating anophthalmic sockets. 
+Data collection and analysis
+Two authors independently selected relevant trials, assessed methodological quality and extracted data. 
+Main results
+We included three studies with a total of 284 participants (250 included in analysis). The studies were conducted in India, Iran and the Netherlands. The three studies were clinically heterogenous, comparing different materials and using different surgical techniques. None of the included studies used a peg (i.e. a fixing pin used to connect the implant to the prosthesis). In general the trials were poorly reported, and we judged them to be at unclear risk of bias. 

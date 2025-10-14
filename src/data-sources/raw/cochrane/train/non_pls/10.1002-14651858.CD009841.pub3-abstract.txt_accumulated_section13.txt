@@ -1,0 +1,13 @@
+Background
+Cystic fibrosis (CF) is the commonest inherited life‐shortening illness in white populations, caused by a mutation in the gene that codes for the cystic fibrosis transmembrane regulator protein (CFTR), which functions as a salt transporter. This mutation mainly affects the airways where excess salt absorption dehydrates the airway lining leading to impaired mucociliary clearance. Consequently, thick, sticky mucus accumulates making the airway prone to chronic infection and progressive inflammation; respiratory failure often ensues. Other complications include malnutrition, diabetes and subfertility. 
+Increased understanding of the condition has allowed pharmaceutical companies to design mutation‐specific therapies targeting the underlying molecular defect. CFTR potentiators target mutation classes III and IV and aim to normalise airway surface liquid and mucociliary clearance, which in turn impacts on the chronic infection and inflammation. This is an update of a previously published review. 
+Objectives
+To evaluate the effects of CFTR potentiators on clinically important outcomes in children and adults with CF. 
+Search methods
+We searched the Cochrane Cystic Fibrosis Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. We also searched the reference lists of relevant articles, reviews and online clinical trial registries. Last search: 21 November 2018. 
+Selection criteria
+Randomised controlled trials (RCTs) of parallel design comparing CFTR potentiators to placebo in people with CF. A separate review examines trials combining CFTR potentiators with other mutation‐specific therapies. 
+Data collection and analysis
+The authors independently extracted data, assessed the risk of bias in included trials and used GRADE to assess evidence quality. Trial authors were contacted for additional data. 
+Main results
+We included five RCTs (447 participants with different mutations) lasting from 28 days to 48 weeks, all assessing the CFTR potentiator ivacaftor. The quality of the evidence was moderate to low, mainly due to risk of bias (incomplete outcome data and selective reporting) and imprecision of results, particularly where few individuals experienced adverse events. Trial design was generally well‐documented. All trials were industry‐sponsored and supported by other non‐pharmaceutical funding bodies. 

@@ -1,0 +1,13 @@
+Background
+Central venous access (CVA) is widely used. However, its thrombotic, stenotic and infectious complications can be life‐threatening and involve high‐cost therapy. Research revealed that the risk of catheter‐related complications varied according to the site of CVA. It would be helpful to find the preferred site of insertion to minimize the risk of catheter‐related complications. This review was originally published in 2007 and was updated in 2011. 
+Objectives
+1. Our primary objective was to establish whether the jugular, subclavian or femoral CVA routes resulted in a lower incidence of venous thrombosis, venous stenosis or infections related to CVA devices in adult patients. 
+2. Our secondary objective was to assess whether the jugular, subclavian or femoral CVA routes influenced the incidence of catheter‐related mechanical complications in adult patients; and the reasons why patients left the studies early. 
+Search methods
+We searched CENTRAL (The Cochrane Library 2011, Issue 9), MEDLINE, CINAHL, EMBASE (from inception to September 2011), four Chinese databases (CBM, WANFANG DATA, CAJD, VIP Database) (from inception to November 2011), Google Scholar and bibliographies of published reviews. The original search was performed in December 2006. We also contacted researchers in the field. There were no language restrictions. 
+Selection criteria
+We included randomized controlled trials comparing central venous catheter insertion routes. 
+Data collection and analysis
+Three authors assessed potentially relevant studies independently. We resolved disagreements by discussion. Dichotomous data on catheter‐related complications were analysed. We calculated relative risks (RR) and their 95% confidence intervals (CI) based on a random‐effects model. 
+Main results
+We identified 5854 citations from the initial search strategy; 28 references were then identified as potentially relevant. Of these, we Included four studies with data from 1513 participants. We undertook a priori subgroup analysis according to the duration of catheterization, short‐term (< one month) and long‐term (> one month) defined according to the Food and Drug Administration (FDA). 

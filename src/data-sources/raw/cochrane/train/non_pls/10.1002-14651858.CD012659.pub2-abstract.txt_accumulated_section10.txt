@@ -1,0 +1,10 @@
+Background
+Real‐time video communication software such as Skype and FaceTime transmits live video and audio over the Internet, allowing counsellors to provide support to help people quit smoking. There are more than four billion Internet users worldwide, and Internet users can download free video communication software, rendering a video counselling approach both feasible and scalable for helping people to quit smoking. 
+Objectives
+To assess the effectiveness of real‐time video counselling delivered individually or to a group in increasing smoking cessation, quit attempts, intervention adherence, satisfaction and therapeutic alliance, and to provide an economic evaluation regarding real‐time video counselling. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group Specialised Register, CENTRAL, MEDLINE, PubMed, PsycINFO and Embase to identify eligible studies on 13 August 2019. We searched the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov to identify ongoing trials registered by 13 August 2019. We checked the reference lists of included articles and contacted smoking cessation researchers for any additional studies. 
+Selection criteria
+We included randomised controlled trials (RCTs), randomised trials, cluster RCTs or cluster randomised trials of real‐time video counselling for current tobacco smokers from any setting that measured smoking cessation at least six months following baseline. The real‐time video counselling intervention could be compared with a no intervention control group or another smoking cessation intervention, or both. 
+Data collection and analysis
+Two authors independently extracted data from included trials, assessed the risk of bias and rated the certainty of the evidence using the GRADE approach. We performed a random‐effects meta‐analysis for the primary outcome of smoking cessation, using the most stringent measure of smoking cessation measured at the longest follow‐up. Analysis was based on the intention‐to‐treat principle. We considered participants with missing data at follow‐up for the primary outcome of smoking cessation to be smokers. 

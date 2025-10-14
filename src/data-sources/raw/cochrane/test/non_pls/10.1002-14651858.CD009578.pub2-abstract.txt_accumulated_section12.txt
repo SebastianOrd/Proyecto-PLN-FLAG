@@ -1,0 +1,12 @@
+Background
+The early postpartum period is an important time in which to identify the risk of diabetes in women with a history of gestational diabetes mellitus (GDM). Oral glucose tolerance and other tests can help guide lifestyle management and monitoring to reduce the future risk of type 2 diabetes mellitus. 
+Objectives
+To assess whether reminder systems increase the uptake of testing for type 2 diabetes or impaired glucose tolerance in women with a history of GDM. 
+Search methods
+We searched MEDLINE and EMBASE (last searched 1 June 2013) and The Cochrane Library (last searched April 2013). 
+Selection criteria
+We included randomised trials of women who had experienced GDM in the index pregnancy and who were then sent any modality of reminder (or control) to complete a test for type 2 diabetes after giving birth. 
+Data collection and analysis
+Two authors independently screened titles and abstracts for relevance. One author extracted the data, carried out 'Risk of bias' assessments and evaluated the overall study quality according to GRADE (Grading of Recommendations Assessment, Development and Evaluation) criteria; the other author double‐checked these procedures. Meta‐analysis was not possible as only one study was eligible for inclusion. 
+Main results
+Only one trial with an unclear risk of bias in the majority of domains was included in the study; the overall study quality was judged to be low. This factorial trial of 256 women compared three types of postal reminder strategies (in a total of 213 women) with usual care (no postal reminder, 43 women) and reported on the uptake of four possible types of glucose tests. The three strategies investigated were: reminders sent to both the woman and the physician; reminder sent to the woman only; and reminder sent to the physician only, all issued approximately three months after the woman had given birth. 

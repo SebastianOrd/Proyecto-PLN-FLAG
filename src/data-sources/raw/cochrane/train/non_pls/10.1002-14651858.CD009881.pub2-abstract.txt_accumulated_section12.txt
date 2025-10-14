@@ -1,0 +1,12 @@
+Background
+Endometriosis is defined as the presence of endometrial tissue (glands and stroma) outside the uterine cavity. This condition is oestrogen‐dependent and thus is seen primarily during the reproductive years. Owing to their antiproliferative effects in the endometrium, progesterone receptor modulators (PRMs) have been advocated for treatment of endometriosis. 
+Objectives
+To assess the effectiveness and safety of PRMs primarily in terms of pain relief as compared with other treatments or placebo or no treatment in women of reproductive age with endometriosis. 
+Search methods
+We searched the following electronic databases, trial registers, and websites: the Cochrane Gynaecology and Fertility Group (CGFG) Specialised Register of Controlled Trials, the Central Register of Studies Online (CRSO), MEDLINE, Embase, PsycINFO, clinicaltrials.gov, and the World Health Organization (WHO) platform, from inception to 28 November 2016. We handsearched reference lists of articles retrieved by the search. 
+Selection criteria
+We included randomised controlled trials (RCTs) published in all languages that examined effects of PRMs for treatment of symptomatic endometriosis. 
+Data collection and analysis
+We used standard methodological procedures as expected by the Cochrane Collaboration. Primary outcomes included measures of pain and side effects. 
+Main results
+We included 10 randomised controlled trials (RCTs) with 960 women. Two RCTs compared mifepristone versus placebo or versus a different dose of mifepristone, one RCT compared asoprisnil versus placebo, one compared ulipristal versus leuprolide acetate, and four compared gestrinone versus danazol, gonadotropin‐releasing hormone (GnRH) analogues, or a different dose of gestrinone. The quality of evidence ranged from high to very low. The main limitations were serious risk of bias (associated with poor reporting of methods and high or unclear rates of attrition in most studies), very serious imprecision (associated with low event rates and wide confidence intervals), and indirectness (outcome assessed in a select subgroup of participants). 

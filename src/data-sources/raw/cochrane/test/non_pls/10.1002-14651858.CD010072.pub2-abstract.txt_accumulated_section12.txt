@@ -1,0 +1,12 @@
+Background
+A sedentary lifestyle and stress are major risk factors for cardiovascular disease (CVD). Since yoga involves exercise and is thought to help in stress reduction it may be an effective strategy in the primary prevention of CVD. 
+Objectives
+To determine the effect of any type of yoga on the primary prevention of CVD.
+Search methods
+We searched the following electronic databases: the Cochrane Central Register of Controlled Trials (CENTRAL) (2013, Issue 11) in The Cochrane Library; MEDLINE (Ovid) (1946 to November Week 3 2013); EMBASE Classic + EMBASE (Ovid) (1947 to 2013 Week 48); Web of Science (Thomson Reuters) (1970 to 4 December 2013); Database of Abstracts of Reviews of Effects (DARE), Health Technology Assessment Database and Health Economics Evaluations Database (Issue 4 of 4, 2013) in The Cochrane Library. We also searched a number of Asian databases and the Allied and Complementary Medicine Database (AMED) (inception to December 2012). We searched trial registers and reference lists of reviews and articles, and approached experts in the field. We applied no language restrictions. 
+Selection criteria
+Randomised controlled trials lasting at least three months involving healthy adults or those at high risk of CVD. Trials examined any type of yoga and the comparison group was no intervention or minimal intervention. Outcomes of interest were clinical CVD events and major CVD risk factors. We did not include any trials that involved multifactorial lifestyle interventions or weight loss. 
+Data collection and analysis
+Two authors independently selected trials for inclusion, extracted data and assessed the risk of bias. 
+Main results
+We identified 11 trials (800 participants) and two ongoing studies. Style and duration of yoga differed between trials. Half of the participants recruited to the studies were at high risk of CVD. Most of studies were at risk of performance bias, with inadequate details reported in many of them to judge the risk of selection bias. 

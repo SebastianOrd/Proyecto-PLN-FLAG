@@ -1,0 +1,10 @@
+Background
+Atherosclerotic cardiovascular disease (ASCVD) is the leading cause of death and disability worldwide, yet ASCVD risk factor control and secondary prevention rates remain low. A fixed‐dose combination of blood pressure‐ and cholesterol‐lowering and antiplatelet treatments into a single pill, or polypill, has been proposed as one strategy to reduce the global burden of ASCVD. 
+Objectives
+To determine the effect of fixed‐dose combination therapy on all‐cause mortality, fatal and non‐fatal ASCVD events, and adverse events. We also sought to determine the effect of fixed‐dose combination therapy on blood pressure, lipids, adherence, discontinuation rates, health‐related quality of life, and costs. 
+Search methods
+We updated our previous searches in September 2016 of CENTRAL, MEDLINE, Embase, ISI Web of Science, and DARE, HTA, and HEED. We also searched two clinical trials registers in September 2016. We used no language restrictions. 
+Selection criteria
+We included randomised controlled trials of a fixed‐dose combination therapy including at least one blood pressure‐lowering and one lipid‐lowering component versus usual care, placebo, or an active drug comparator for any treatment duration in adults 18 years old or older, with no restrictions on presence or absence of pre‐existing ASCVD. 
+Data collection and analysis
+Three review authors independently selected studies for inclusion and extracted the data for this update. We evaluated risk of bias using the Cochrane 'Risk of bias' assessment tool. We calculated risk ratios (RR) for dichotomous data and mean differences (MD) for continuous data with 95% confidence intervals (CI) using fixed‐effect models when heterogeneity was low (I2 < 50%) and random‐effects models when heterogeneity was high (I2 ≥ 50%). We used the GRADE approach to evaluate the quality of evidence. 

@@ -1,0 +1,13 @@
+Background
+Intermittent catheterisation (IC) is a commonly recommended procedure for people with incomplete bladder emptying. Frequent complications are urinary tract infection (UTI), urethral trauma and discomfort during catheter use. Despite the many designs of intermittent catheter, including different lengths, materials and coatings, it is unclear which catheter techniques, strategies or designs affect the incidence of UTI and other complications, measures of satisfaction/quality of life and cost‐effectiveness. 
+This is an update of a Cochrane Review first published in 2007. 
+Objectives
+To assess the clinical and cost‐effectiveness of different catheterisation techniques, strategies and catheter designs, and their impact, on UTI and other complications, and measures of satisfaction/quality of life among adults and children whose long‐term bladder condition is managed by intermittent catheterisation. 
+Search methods
+We searched the Cochrane Incontinence Specialised Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, MEDLINE In‐Process, MEDLINE Epub Ahead of Print, CINAHL, ClinicalTrials.gov, WHO ICTRP and handsearching of journals and conference proceedings (searched 12 April 2021), the reference lists of relevant articles and conference proceedings, and we attempted to contact other investigators for unpublished data or for clarification. 
+Selection criteria
+Randomised controlled trials (RCTs) or randomised cross‐over trials comparing at least two different catheterisation techniques, strategies or catheter designs. 
+Data collection and analysis
+As per standard Cochrane methodological procedures, two review authors independently extracted data, assessed risk of bias and assessed the certainty of evidence using GRADE. Outcomes included the number of people with symptomatic urinary tract infections, complications such as urethral trauma/bleeding, comfort and ease of use of catheters, participant satisfaction and preference, quality of life measures and economic outcomes. 
+Main results
+We included 23 trials (1339 randomised participants), including twelve RCTs and eleven cross‐over trials. Most were small (fewer than 60 participants completed), although three trials had more than 100 participants. Length of follow‐up ranged from one month to 12 months and there was considerable variation in definitions of UTI. Most of the data from cross‐over trials were not presented in a useable form for this review. 

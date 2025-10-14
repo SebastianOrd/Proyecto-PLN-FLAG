@@ -1,0 +1,15 @@
+Background
+Drug addiction is a chronic, relapsing disease. Primary interventions should aim to reduce first use or to prevent the transition from experimental use to addiction. School is the appropriate setting for preventive interventions. 
+Objectives
+To evaluate the effectiveness of universal school‐based interventions in reducing drug use compared to usual curricular activities or no intervention. 
+Search methods
+We searched the Cochrane Drugs and Alcohol Group's Trials Register (September 2013), the Cochrane Central Register of Controlled Trials (2013, Issue 9), PubMed (1966 to September 2013), EMBASE (1988 to September 2013) and other databases. We also contacted researchers in the field and checked reference lists of articles. 
+Selection criteria
+Randomised controlled trials (RCT) evaluating school‐based interventions designed to prevent illicit drugs use. 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+We included 51 studies, with 127,146 participants. Programmes were mainly delivered in sixth and seventh grade pupils. Most of the trials were conducted in the USA. 
+Social competence approach versus usual curricula or no intervention 
+Marijuana use at < 12 months follow‐up: the results favoured the social competence intervention (risk ratio (RR) 0.90; 95% confidence interval (CI) 0.81 to 1.01, four studies, 9456 participants, moderate quality evidence). Seven studies assessed this outcome (no data for meta‐analysis): two showed a positive significant effect of intervention, three showed a non‐significant effect, one found a significant effect in favour of the control group and one found a trend in favour of the control group. 
+Marijuana use at 12+ months: the results favoured the social competence intervention (RR 0.86; 95% CI 0.74 to 1.00, one study, 2678 participants, high quality evidence). Seven studies assessed this outcome (no data for meta‐analysis): two showed a significant positive effect of intervention, three showed a non‐significant effect, one found a significant effect in favour of the control group and one a trend in favour of the control group. 

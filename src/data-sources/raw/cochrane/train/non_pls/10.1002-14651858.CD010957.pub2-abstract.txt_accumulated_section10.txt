@@ -1,0 +1,10 @@
+Background
+Pulmonary embolism is a potentially life‐threatening condition in which a clot can travel from the deep veins, most commonly in the leg, up to the lungs. Previously, a pulmonary embolism was treated with the anticoagulants heparin and vitamin K antagonists. Recently, however, two forms of direct oral anticoagulants (DOACs) have been developed: oral direct thrombin inhibitors (DTI) and oral factor Xa inhibitors. The new drugs have characteristics that may be favourable over conventional treatment, including oral administration, a predictable effect, lack of frequent monitoring or re‐dosing and few known drug interactions. To date, no Cochrane review has measured the effectiveness and safety of these drugs in the long‐term treatment (minimum duration of three months) of pulmonary embolism. 
+Objectives
+To assess the effectiveness of oral DTIs and oral factor Xa inhibitors for the long‐term treatment of pulmonary embolism. 
+Search methods
+The Cochrane Vascular Trials Search Co‐ordinator searched the Specialised Register (last searched January 2015) and the Cochrane Register of Studies (last searched January 2015). Clinical trials databases were also searched for details of ongoing or unpublished studies. We searched the reference lists of relevant articles retrieved by electronic searches for additional citations. 
+Selection criteria
+We included randomised controlled trials in which patients with a pulmonary embolism confirmed by standard imaging techniques were allocated to receive an oral DTI or an oral factor Xa inhibitor for the long‐term (minimum duration three months) treatment of pulmonary embolism. 
+Data collection and analysis
+Two review authors (LR, JM) independently extracted the data and assessed the risk of bias in the trials. Any disagreements were resolved by discussion with the third author (PK). We used meta‐analyses when we considered heterogeneity low. The two primary outcomes were recurrent venous thromboembolism and pulmonary embolism. Other outcomes included all‐cause mortality and major bleeding. We calculated all outcomes using an odds ratio (OR) with a 95% confidence interval (CI). 

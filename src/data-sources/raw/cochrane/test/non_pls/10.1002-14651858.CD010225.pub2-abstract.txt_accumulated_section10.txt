@@ -1,0 +1,10 @@
+Background
+The use of etomidate for emergency airway interventions in critically ill patients is very common. In one large registry trial, etomidate was the most commonly used agent for this indication. Etomidate is known to suppress adrenal gland function, but it remains unclear whether or not this adrenal gland dysfunction affects mortality. 
+Objectives
+The primary objective was to assess, in populations of critically ill patients, whether a single induction dose of etomidate for emergency airway intervention affects mortality. 
+The secondary objectives were to address, in populations of critically ill patients, whether a single induction dose of etomidate for emergency airway intervention affects adrenal gland function, organ dysfunction, or health services utilization (as measured by intensive care unit (ICU) length of stay (LOS), duration of mechanical ventilation, or vasopressor requirements). 
+We repeated analyses within subgroups defined by the aetiologies of critical illness, timing of adrenal gland function measurement, and the type of comparator drug used. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; CINAHL; EMBASE; LILACS; International Pharmaceutical Abstracts; Web of Science; the Database of Abstracts of Reviews of Effects (DARE); and ISI BIOSIS Citation indexSM on 8 February 2013. We reran the searches in August 2014. We will deal with any studies of interest when we update the review. 
+We also searched the Scopus database of dissertations and conference proceedings and the US Food and Drug Administration Database. We handsearched major emergency medicine, critical care, and anaesthesiology journals. 
+We handsearched the conference proceedings of major emergency medicine, anaesthesia, and critical care conferences from 1990 to current, and performed a grey literature search of the following: Current Controlled Trials; National Health Service – The National Research Register; ClinicalTrials.gov; NEAR website. 

@@ -1,0 +1,10 @@
+Background
+Pre‐cancerous lesions of cervix (cervical intraepithelial neoplasia (CIN)) are usually treated with excisional or ablative procedures. In the UK, the National Health Service (NHS) cervical screening guidelines suggest that over 80% of treatments should be performed in an outpatient setting (colposcopy clinics). Furthermore, these guidelines suggest that analgesia should always be given prior to laser or excisional treatments. Currently various pain relief strategies are employed that may reduce pain during these procedures. 
+Objectives
+To assess whether the administration of pain relief (analgesia) reduces pain during colposcopy treatment and in the postoperative period. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 2), MEDLINE (1950 to March week 3, 2016) and Embase (1980 to week 12, 2016) for studies of any design relating to analgesia for colposcopic management. We also searched registers of clinical trials, abstracts of scientific meetings, reference lists of included studies and contacted experts in the field. 
+Selection criteria
+Randomised controlled trials (RCTs) that compared all types of pain relief before, during or after outpatient treatment to the cervix, in women with CIN undergoing loop excision, laser ablation, laser excision or cryosurgery in an outpatient colposcopy clinic setting. 
+Data collection and analysis
+We independently assessed study eligibility, extracted data and assessed risk of bias. We entered data into Review Manager 5 and double checked it for accuracy. Where possible, we expressed results as mean pain score and standard error of the mean with 95% confidence intervals (CI) and synthesised data in a meta‐analysis. 

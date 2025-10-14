@@ -1,0 +1,10 @@
+Background
+Access to the femoral vessels is necessary for a wide range of vascular procedures, including treatment of thromboembolic disease, arterial grafts (i.e. bifemoral aortic bypass or infrainguinal bypass), endovascular repair of abdominal aortic aneurysm (EVAR), thoracic endovascular aneurysm repair (TEVAR) and transcatheter aortic valve implantation (TAVI). The surgical technique used to access the femoral artery may be a factor in the occurrence of postoperative complications; this will be the focus of our review. We will compare the transverse surgical technique—a cut made parallel to the groin crease—versus the vertical groin incision surgical technique—classic technique: a surgical cut made across the groin crease—to access the femoral artery, in an attempt to determine which technique has the lower rate of complications, is safer and is more effective. 
+Objectives
+To evaluate the efficacy and safety of transverse groin incision compared with vertical groin incision for accessing the femoral artery in endovascular surgical procedures and open surgery. 
+Search methods
+The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase, CINAHL and AMED databases, and the World Health Organization (WHO) International Clinical Trials Registry Platform and ClinicalTrials.gov to 17 February 2020. The review authors searched the IBECS database to 26 March 2020 and reference lists of relevant studies/papers. 
+Selection criteria
+We included randomized controlled trials (RCTs) and quasi‐randomized trials (qRCTs) that compare transverse and vertical groin incision, during either endovascular or open surgery procedures. 
+Data collection and analysis
+Two review authors (MVCRC, FCN) independently selected the studies, assessed risk of bias, extracted data, performed data analysis and graded the certainty of evidence according to GRADE. 

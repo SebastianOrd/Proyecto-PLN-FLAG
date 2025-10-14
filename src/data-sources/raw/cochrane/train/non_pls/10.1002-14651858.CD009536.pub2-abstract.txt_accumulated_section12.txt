@@ -1,0 +1,12 @@
+Background
+Screening for abdominal aortic aneurysm (AAA) in selected groups is now performed in England, the USA and Sweden. Patients with aneurysms over 55 mm in diameter are generally considered for elective surgical repair. Patients with aneurysm diameters below or equal to 55 mm (termed 'small AAAs') are managed with aneurysm surveillance as there is currently insufficient evidence to recommend surgery in these cases. As more patients are screened, there will be an increasing number of small AAAs identified. There is interest in pharmaceutical interventions (for example angiotensin converting enzyme (ACE) inhibitors, antibiotics, beta‐blockers, statins) which could be given to such patients to delay or reverse aneurysm expansion and reduce the need for elective surgical repair. 
+Objectives
+To assess the effects of medical treatment on the expansion rate of small abdominal aortic aneurysms. 
+Search methods
+The Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (May 2012) and CENTRAL (2012, Issue 5). Clinical trials databases were searched for details of ongoing or unpublished studies. The reference lists of articles retrieved by electronic searches were searched for additional citations. 
+Selection criteria
+We selected randomised trials in which patients with small AAAs allocated to medical treatment with the intention of retarding aneurysm expansion were compared to patients allocated to a placebo treatment, alternative medical treatment, a different regimen of the same drug or imaging surveillance alone. 
+Data collection and analysis
+Two authors independently extracted the data and assessed the risk of bias in the trials. Meta‐analyses were used when heterogeneity was considered low. The two primary outcomes were the mean difference (MD) in aneurysm diameter and the odds ratio (OR) calculated to compare the number of individuals referred to AAA surgery in each group over the trial period. 
+Main results
+Seven trials involving 1558 participants were included in this review; 457 were involved in four trials of antibiotic medication, and 1101 were involved in three trials of beta‐blocker medication. Five of the studies were rated at a high risk of bias. 

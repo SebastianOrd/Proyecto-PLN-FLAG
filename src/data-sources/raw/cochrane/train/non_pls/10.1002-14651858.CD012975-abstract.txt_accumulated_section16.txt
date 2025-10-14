@@ -1,0 +1,16 @@
+Background
+Posterior vaginal wall prolapse (also known as 'posterior compartment prolapse') can cause a sensation of bulge in the vagina along with symptoms of obstructed defecation and sexual dysfunction. Interventions for prevention and conservative management include lifestyle measures, pelvic floor muscle training, and pessary use. We conducted this review to assess the surgical management of posterior vaginal wall prolapse. 
+Objectives
+To evaluate the safety and effectiveness of any surgical intervention compared with another surgical intervention for management of posterior vaginal wall prolapse. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register of controlled trials, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP) (searched April 2017). We also searched the reference lists of relevant articles, and we contacted researchers in the field. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing different types of surgery for posterior vaginal wall prolapse. 
+Data collection and analysis
+We used Cochrane methods. Our primary outcomes were subjective awareness of prolapse, repeat surgery for any prolapse, and objectively determined recurrent posterior wall prolapse. 
+Main results
+We identified 10 RCTs evaluating 1099 women. Evidence quality ranged from very low to moderate. The main limitations of evidence quality were risk of bias (associated mainly with performance, detection, and attrition biases) and imprecision (associated with small overall sample sizes and low event rates). 
+Transanal repair versus transvaginal repair (four RCTs; n = 191; six months' to four years' follow‐up)  
+Awareness of prolapse is probably more common after the transanal approach (risk ratio (RR) 2.78, 95% confidence interval (CI) 1.00 to 7.70; 2 RCTs; n = 87; I2 = 0%; low‐quality evidence). If 10% of women are aware of prolapse after transvaginal repair, between 10% and 79% are likely to be aware after transanal repair. 
+Repeat surgery for any prolapse: Evidence is insufficient to show whether there were any differences between groups (RR 2.42, 95% CI 0.75 to 7.88; 1 RCT; n = 57; low‐quality evidence). 
+Recurrent posterior vaginal wall prolapse is probably more likely after transanal repair (RR 4.12, 95% CI 1.56 to 10.88; 2 RCTs; n = 87; I2 = 35%; moderate‐quality evidence). If 10% of women have recurrent prolapse on examination after transvaginal repair, between 16% and 100% are likely to have recurrent prolapse after transanal repair. 

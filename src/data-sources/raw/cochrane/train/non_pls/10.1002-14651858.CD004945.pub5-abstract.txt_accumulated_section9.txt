@@ -1,0 +1,9 @@
+Background
+Risks of stillbirth or neonatal death increase as gestation continues beyond term (around 40 weeks' gestation). It is unclear whether a policy of labour induction can reduce these risks. This Cochrane Review is an update of a review that was originally published in 2006 and subsequently updated in 2012 and 2018. 
+Objectives
+To assess the effects of a policy of labour induction at or beyond 37 weeks' gestation compared with a policy of awaiting spontaneous labour indefinitely (or until a later gestational age, or until a maternal or fetal indication for induction of labour arises) on pregnancy outcomes for the infant and the mother. 
+Search methods
+For this update, we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) (17 July 2019), and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) conducted in pregnant women at or beyond 37 weeks, comparing a policy of labour induction with a policy of awaiting spontaneous onset of labour (expectant management). We also included trials published in abstract form only. Cluster‐RCTs, quasi‐RCTs and trials using a cross‐over design were not eligible for inclusion in this review. 
+We included pregnant women at or beyond 37 weeks' gestation. Since risk factors at this stage of pregnancy would normally require intervention, only trials including women at low risk for complications, as defined by trialists, were eligible. The trials of induction of labour in women with prelabour rupture of membranes at or beyond term were not considered in this review but are considered in a separate Cochrane Review. 

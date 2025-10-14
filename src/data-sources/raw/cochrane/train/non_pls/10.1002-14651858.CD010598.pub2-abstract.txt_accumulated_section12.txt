@@ -1,0 +1,12 @@
+Background
+Zuclopenthixol is an older antipsychotic that has three distinct formulations (zuclopenthixol dihydrochloride, zuclopenthixol acetate or Acuphase and zuclopenthixol decanoate). Although it has been in common use for many years no previous systematic review of its efficacy compared to placebo in schizophrenia has been undertaken. 
+Objectives
+To evaluate the effectiveness of all formulations of zuclopenthixol when compared with a placebo in schizophrenia. 
+Search methods
+On 6 November 2013 and 20 October 2015, we searched the Cochrane Schizophrenia Group Trials Register, which is based on regular searches of MEDLINE, EMBASE, CINAHL, BIOSIS, AMED, PubMed, PsycINFO, and registries of clinical trials. We also checked the references of all included studies and contacted authors of included studies for relevant studies and data. 
+Selection criteria
+We included all randomised controlled trials comparing zuclopenthixol of any form with placebo for treatment of schizophrenia or schizophrenia‐like psychoses. 
+Data collection and analysis
+We extracted and cross‐checked data independently. We identified only a small number of studies so we cross checked all studies. We calculated fixed‐effect relative risks (RR) and 95% confidence intervals (CI) for dichotomous data. We analysed by intention‐to‐treat. Where possible we converted continuous outcomes into dichotomous outcomes. When this was not possible we used mean differences (MD) for continuous variables. We assessed risk of bias for included studies and used GRADE (Grading of Recommendations Assessment, Development and Evaluation) to create a 'Summary of findings' table. 
+Main results
+Only two studies, with a total of 65 participants, were eligible for inclusion in the review. Overall the quality of the two studies was low, with small study populations and significant sources of bias, so we were not able to use all the data in our comparisons. . The studies were old from 1968 and 1972, and would be unlikely to pass modern peer review standard. We were only able to find short‐term data and only trials randomising zuclopenthixol dihydrochloride. We also hoped to identify data for zuclopenthixol acetate versus placebo and zuclopenthixol decanoate versus placebo comparisons. We were unable to identify any studies that included data on these two fairly widely used drugs. 

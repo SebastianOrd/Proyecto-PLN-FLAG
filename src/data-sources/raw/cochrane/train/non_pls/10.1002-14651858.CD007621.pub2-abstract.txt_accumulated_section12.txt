@@ -1,0 +1,12 @@
+Background
+Natalizumab (NTZ) (Tysabri®) is a monoclonal antibody that inhibits leukocyte migration across the blood‐brain barrier, thus reducing inflammation in central nervous system, and has been approved worldwide for the treatment of relapsing‐remitting multiple sclerosis (RRMS). 
+Objectives
+To evaluate the efficacy, tolerability and safety of NTZ in the treatment of patients with RRMS. 
+Search methods
+We searched the Cochrane Multiple Sclerosis Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, 2010, Issue 1), MEDLINE (PubMed) and EMBASE, all up to 19 February 2010, and bibliographies of papers. Handsearching was carried out. Trialists and pharmaceutical companies were contacted. Furthermore, the websites of US Food and Drug Administration (FDA), the European Medicines Evaluation Agency (EMA) and the National Institute for health and Clinical Excellence (NICE) were also checked. 
+Selection criteria
+All double‐blind, randomised, controlled trials analysing more than a single infusion of NTZ (dosage > 3 mg/kg intravenous infusion every 4 weeks), also including its use as add‐on treatment, versus placebo or other drugs in patients with RRMS. No restrictions on the basis of duration of treatment or length of follow up. 
+Data collection and analysis
+Three reviewers independently selected articles which met the inclusion criteria. Disagreements were solved by discussion. Two reviewers independently extracted the data and assessed the methodological quality of each trial. Missing data was sought by contacting principal authors and Biogen Idec, through Biogen‐Dompé Italia. 
+Main results
+Three studies met the inclusion criteria. These included one placebo‐controlled trial (942 patients) and two add‐on placebo‐controlled trials, i.e. one plus glatiramer acetate (110 patients) and the second plus interferon beta‐1a (1171 patients). 

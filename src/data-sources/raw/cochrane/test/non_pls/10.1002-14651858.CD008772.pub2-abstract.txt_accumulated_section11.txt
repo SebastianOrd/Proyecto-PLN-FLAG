@@ -1,0 +1,11 @@
+Background
+Urinary tract infection (UTI) is a common bacterial infection that can lead to significant morbidity including stricture, abscess formation, fistula, bacteraemia, sepsis, pyelonephritis and kidney dysfunction. Mortality rates are reported to be as high as 1% in men and 3% in women due to development of pyelonephritis. Because probiotic therapy is readily available without a prescription, a review of their efficacy in the prevention of UTI may aid consumers in making informed decisions about potential prophylactic therapy. Institutions and caregivers also need evidence‐based synopses of current evidence to make informed patient care decisions. 
+Objectives
+Compared to placebo or no therapy, did probiotics (any formulation) provide a therapeutic advantage in terms of morbidity and mortality, when used to prevent UTI in susceptible patient populations? 
+Compared to other prophylactic interventions, including drug and non‐drug measures (e.g. continuous antibiotic prophylaxis, topical oestrogen, cranberry juice), did probiotics (any formulation) provide a therapeutic advantage in terms of morbidity and mortality when used to prevent UTIs in susceptible patient populations? 
+Search methods
+We searched the Cochrane Kidney and Transplant Specialised Register to 21 September 2015 through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+Randomised controlled trials (RCTs) of susceptible patients (e.g. past history of UTI) or healthy people in which any strain, formulation, dose or frequency of probiotic was compared to placebo or active comparators were included. 
+Data collection and analysis
+All RCTs and quasi‐RCTs (RCTs in which allocation to treatment was obtained by alternation, use of alternate medical records, date of birth or other predictable methods) looking at comparing probiotics to no therapy, placebo, or other prophylactic interventions were included. Summary estimates of effect were obtained using a random‐effects model, and results were expressed as risk ratios (RR) and their 95% confidence intervals (CI) for dichotomous outcomes. 

@@ -1,0 +1,12 @@
+Background
+People with chronic plaque psoriasis often have lesions on the scalp. Hair makes the scalp difficult to treat and the adjacent facial skin is particularly sensitive to topical treatments. 
+Objectives
+To assess the efficacy and safety of topical treatments for scalp psoriasis.
+Search methods
+We searched the following databases up to August 2015: the Cochrane Skin Group Specialised Register, CENTRAL (2015, Issue 7), MEDLINE (from 1946), EMBASE (from 1974) and LILACS (from 1982). We also searched five trials registers, screened abstracts of six psoriasis‐specific conferences and checked the reference lists of included studies for further references to relevant randomised controlled trials. 
+Selection criteria
+Randomised controlled trials (RCTs) with a parallel‐group, cross‐over or within‐patient design of topical treatments for people of all ages with scalp psoriasis. 
+Data collection and analysis
+Two authors independently carried out study selection, data extraction and 'Risk of bias' assessment. Disagreements were settled by reference to a third author. 
+To assess the quality of evidence, we focused on the following outcomes: 'clearance' or 'response' as assessed by the investigator global assessment (IGA), improvement in quality of life, adverse events requiring withdrawal of treatment and 'response' as assessed by the patient global assessment (PGA). 
+We expressed the results of the single studies as risk ratios (RR) with 95% confidence intervals (CI) for dichotomous outcomes, and mean differences (MD) with 95% CI for continuous outcomes. If studies were sufficiently homogeneous, we meta‐analysed the data by using the random‐effects model. Where it was not possible to calculate a point estimate for a single study, we described the data qualitatively. We also presented the number needed to treat to benefit (NNTB). 

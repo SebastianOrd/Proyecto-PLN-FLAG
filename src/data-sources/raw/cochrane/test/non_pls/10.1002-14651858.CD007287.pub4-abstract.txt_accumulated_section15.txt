@@ -1,0 +1,15 @@
+Background
+This is the second update of the review first published in the Cochrane Library (2010, Issue 2) and later updated (2014, Issue 9). 
+Despite advances in chemotherapy, the prognosis of ovarian cancer remains poor. Antigen‐specific active immunotherapy aims to induce tumour antigen‐specific anti‐tumour immune responses as an alternative treatment for ovarian cancer. 
+Objectives
+Primary objective  • To assess the clinical efficacy of antigen‐specific active immunotherapy for the treatment of ovarian cancer as evaluated by tumour response measured by Response Evaluation Criteria In Solid Tumors (RECIST) and/or cancer antigen (CA)‐125 levels, response to post‐immunotherapy treatment, and survival differences 
+◦ In addition, we recorded the numbers of observed antigen‐specific humoral and cellular responses Secondary objective  • To establish which combinations of immunotherapeutic strategies with tumour antigens provide the best immunological and clinical results 
+Search methods
+For the previous version of this review, we performed a systematic search of the Cochrane Central Register of Controlled Trials (CENTRAL; 2009, Issue 3), in the Cochrane Library, the Cochrane Gynaecological Cancer Group Specialised Register, MEDLINE and Embase databases, and clinicaltrials.gov (1966 to July 2009). We also conducted handsearches of the proceedings of relevant annual meetings (1996 to July 2009). 
+For the first update of this review, we extended the searches to October 2013, and for this update, we extended the searches to July 2017. 
+Selection criteria
+We searched for randomised controlled trials (RCTs), as well as non‐randomised studies (NRSs), that included participants with epithelial ovarian cancer, irrespective of disease stage, who were treated with antigen‐specific active immunotherapy, irrespective of type of vaccine, antigen used, adjuvant used, route of vaccination, treatment schedule, and reported clinical or immunological outcomes. 
+Data collection and analysis
+Two reviews authors independently extracted the data. We evaluated the risk of bias for RCTs according to standard methodological procedures expected by Cochrane, and for NRSs by using a selection of quality domains deemed best applicable to the NRS. 
+Main results
+We included 67 studies (representing 3632 women with epithelial ovarian cancer). The most striking observations of this review address the lack of uniformity in conduct and reporting of early‐phase immunotherapy studies. Response definitions show substantial variation between trials, which makes comparison of trial results unreliable. Information on adverse events is frequently limited. Furthermore, reports of both RCTs and NRSs frequently lack the relevant information necessary for risk of bias assessment. Therefore, we cannot rule out serious biases in most of the included trials. However, selection, attrition, and selective reporting biases are likely to have affected the studies included in this review. GRADE ratings were high only for survival; for other primary outcomes, GRADE ratings were very low. 

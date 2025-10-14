@@ -1,0 +1,12 @@
+Background
+A number of treatments can help smokers make a successful quit attempt, but many initially successful quitters relapse over time. Several interventions have been proposed to help prevent relapse. 
+Objectives
+To assess whether specific interventions for relapse prevention reduce the proportion of recent quitters who return to smoking. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group trials register, clinicaltrials.gov, and the ICTRP in May 2019 for studies mentioning relapse prevention or maintenance in their title, abstracts, or keywords. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials of relapse prevention interventions with a minimum follow‐up of six months. We included smokers who quit on their own, were undergoing enforced abstinence, or were participating in treatment programmes. We included studies that compared relapse prevention interventions with a no intervention control, or that compared a cessation programme with additional relapse prevention components with a cessation programme alone. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 81 studies (69,094 participants), five of which are new to this update. We judged 22 studies to be at high risk of bias, 53 to be at unclear risk of bias, and six studies to be at low risk of bias. Fifty studies included abstainers, and 30 studies helped people to quit and then tested treatments to prevent relapse. Twenty‐eight studies focused on special populations who were abstinent because of pregnancy (19 studies), hospital admission (six studies), or military service (three studies). Most studies used behavioural interventions that tried to teach people skills to cope with the urge to smoke, or followed up with additional support. Some studies tested extended pharmacotherapy. 

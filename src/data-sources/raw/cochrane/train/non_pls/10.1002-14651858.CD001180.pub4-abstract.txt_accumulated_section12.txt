@@ -1,0 +1,12 @@
+Background
+Venous leg ulcers are a type of chronic, recurring, complex wound that is more common in people aged over 65 years. Venous ulcers pose a significant burden to patients and healthcare systems. While compression therapy (such as bandages or stockings) is an effective first‐line treatment, ultrasound may have a role to play in healing venous ulcers. 
+Objectives
+To determine whether venous leg ulcers treated with ultrasound heal more quickly than those not treated with ultrasound. 
+Search methods
+We searched the Cochrane Wounds Specialised Register (searched 19 September 2016); the Cochrane Central Register of Controlled Trials (CENTRAL; the Cochrane Library 2016, Issue 8); Ovid MEDLINE (including In‐Process & Other Non‐Indexed Citations, MEDLINE Daily and Epub Ahead of Print) (1946 to 19 September 2016); Ovid Embase (1974 to 19 September 2016); and EBSCO CINAHL Plus (1937 to 19 September 2016). We also searched three clinical trials registries and the references of included studies and relevant systematic reviews. There were no restrictions based on language, date of publication or study setting. 
+Selection criteria
+Randomised controlled trials (RCTs) that compared ultrasound with no ultrasound. Eligible non‐ultrasound comparator treatments included usual care, sham ultrasound and alternative leg ulcer treatments. 
+Data collection and analysis
+Two authors independently assessed the search results and selected eligible studies. Details from included studies were summarised using a data extraction sheet, and double‐checked. We attempted to contact trial authors for missing data. 
+Main results
+Eleven trials are included in this update; 10 of these we judged to be at an unclear or high risk of bias. The trials were clinically heterogeneous with differences in duration of follow‐up, and ultrasound regimens. Nine trials evaluated high frequency ultrasound; seven studies provided data for ulcers healed and two provided data on change in ulcer size only. Two trials evaluated low frequency ultrasound and both reported ulcers healed data. 

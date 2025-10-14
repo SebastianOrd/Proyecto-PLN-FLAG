@@ -1,0 +1,14 @@
+Background
+Many hormonal contraceptives have been associated with changes in carbohydrate metabolism. Alterations may include decreased glucose tolerance and increased insulin resistance, which are risk factors for Type 2 diabetes mellitus and cardiovascular disease. These issues have been raised primarily with contraceptives containing estrogen. 
+Objectives
+To evaluate the effect of hormonal contraceptives on carbohydrate metabolism in healthy women and those at risk for diabetes due to overweight. 
+Search methods
+In April 2014, we searched the computerized databases MEDLINE, POPLINE, CENTRAL, and LILACS for studies of hormonal contraceptives and carbohydrate metabolism. We also searched for clinical trials in ClinicalTrials.gov and ICTRP. The initial search also included EMBASE. 
+Selection criteria
+All randomized controlled trials were considered if they examined carbohydrate metabolism in women without diabetes who used hormonal contraceptives for contraception. Comparisons could be a placebo, a non‐hormonal contraceptive, or another hormonal contraceptive that differed in drug, dosage, or regimen. Interventions included at least three cycles. Outcomes included glucose and insulin measures. 
+Data collection and analysis
+We assessed all titles and abstracts identified during the literature searches. The data were extracted and entered into RevMan. We wrote to researchers for missing data. For continuous variables, the mean difference (MD) was computed with 95% confidence interval (CI) using a fixed‐effect model. For dichotomous outcomes, the Peto odds ratio with 95% CI was calculated. 
+Main results
+We found 31 trials that met the inclusion criteria. No new trials were eligible in 2014. Twenty‐one trials compared combined oral contraceptives (COCs); others examined different COC regimens, progestin‐only pills, injectables, a vaginal ring, and implants. None included a placebo. Of 34 comparisons, eight had any notable difference between the study groups in an outcome. 
+Twelve trials studied desogestrel‐containing COCs, and the few differences from levonorgestrel COCs were inconsistent. A meta‐analysis of two studies showed the desogestrel group had a higher mean fasting glucose (MD 0.20; 95% CI 0.00 to 0.41). Where data could not be combined, single studies showed lower mean fasting glucose (MD ‐0.40; 95% CI ‐0.72 to ‐0.08) and higher means for two‐hour glucose response (MD 1.08; 95% CI 0.45 to 1.71) and insulin area under the curve (AUC) (MD 20.30; 95% CI 4.24 to 36.36). 
+Three trials examined the etonogestrel vaginal ring and one examined an etonogestrel implant. One trial showed the ring group had lower mean AUC insulin than the levonorgestrel‐COC group (MD ‐204.51; 95% CI ‐389.64 to ‐19.38). 

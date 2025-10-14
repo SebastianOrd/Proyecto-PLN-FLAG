@@ -1,0 +1,12 @@
+Background
+Usual‐type vulval intraepithelial neoplasia (uVIN) is a pre‐cancerous condition of the vulval skin. Also known as high‐grade VIN, VIN 2/3 or high‐grade vulval squamous intraepithelial lesion (HSIL), uVIN is associated with high‐risk subtype human papilloma virus (HPV) infection. The condition causes distressing vulval symptoms in the majority of affected women and may progress to vulval cancer, therefore is usually actively managed. There is no consensus on the optimal management of uVIN. High morbidity and recurrence rates associated with surgical treatments make less invasive treatments highly desirable. 
+Objectives
+To determine which interventions are the most effective, safe and tolerable for treating women with uVIN. 
+Search methods
+We searched the Cochrane Gynaecological Cancer Group Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL), Issue 8 2015, MEDLINE and EMBASE (up to 1 September 2015). We also searched registers of clinical trials, abstracts of scientific meetings, reference lists of included studies and contacted experts in the field. 
+Selection criteria
+Randomised controlled trials (RCTs) that assessed medical and surgical interventions in women with uVIN. If no RCTs were available, we included non‐randomised studies (NRSs) with concurrent comparison groups that controlled for baseline case mix in multivariate analysis. 
+Data collection and analysis
+We used Cochrane methodology with two review authors independently extracting data and assessing risk of bias. Where possible, we synthesised data in meta‐analyses using random‐effects methods. Network meta‐analysis was not possible due to insufficient data. 
+Main results
+We included six RCTs involving 327 women and five NRSs involving 648 women. The condition was variously named by investigators as uVIN, VIN2/3 or high‐grade VIN. Five RCTs evaluated medical treatments (imiquimod, cidofovir, indole‐3 carbinol), and six studies (one RCT and five NRSs) evaluated surgical treatments or photodynamic therapy. We judged two RCTs and four NRSs to be at a high or unclear risk of bias; we considered the others at relatively low risk of bias. Types of outcome measures reported in NRSs varied and we were unable to pool NRS data. 

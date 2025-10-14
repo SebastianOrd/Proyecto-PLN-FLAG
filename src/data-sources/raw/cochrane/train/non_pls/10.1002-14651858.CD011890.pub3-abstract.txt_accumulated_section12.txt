@@ -1,0 +1,12 @@
+Background
+Chronic pain, considered to be pain lasting more than three months, is a common and often difficult to treat condition that can significantly impact upon function and quality of life. Treatment typically includes pharmacological and non‐pharmacological approaches. Transcutaneous electrical nerve stimulation (TENS) is an adjunct non‐pharmacological treatment commonly recommended by clinicians and often used by people with pain. 
+Objectives
+To provide an overview of evidence from Cochrane Reviews of the effectiveness of TENS to reduce pain in adults with chronic pain (excluding headache or migraine). 
+To provide an overview of evidence from Cochrane Reviews of the safety of TENS when used to reduce pain in adults with chronic pain (excluding headache or migraine). 
+To identify possible sources of inconsistency in the approaches taken to evaluating the evidence related to TENS for chronic pain (excluding headache or migraine) in the Cochrane Library with a view to recommending strategies to improve consistency in methodology and reporting. 
+To highlight areas of remaining uncertainty regarding the effectiveness of TENS for chronic pain (excluding headache or migraine) with a view to recommending strategies to reduce any uncertainty. 
+Methods
+Search methods 
+We searched the Cochrane Database of Systematic Reviews (CDSR), in the Cochrane Library, across all years up to Issue 11 of 12, 2018. 
+Selection of reviews 
+Two authors independently screened the results of the electronic search by title and abstract against inclusion/exclusion criteria. We included all Cochrane Reviews of randomised controlled trials (RCTs) assessing the effectiveness of TENS in people with chronic pain. We included reviews if they investigated the following: TENS versus sham; TENS versus usual care or no treatment/waiting list control; TENS plus active intervention versus active intervention alone; comparisons between different types of TENS; or TENS delivered using different stimulation parameters. 

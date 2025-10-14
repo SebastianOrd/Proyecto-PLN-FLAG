@@ -1,0 +1,13 @@
+Background
+Peptic ulcer disease is the cause of dyspepsia in about 10% of people. Ninety‐five percent of duodenal and 70% of gastric ulcers are associated with Helicobacter pylori. Eradication of H. pylori reduces the relapse rate of ulcers but the magnitude of this effect is uncertain. This is an update of Ford AC, Delaney B, Forman D, Moayyedi P. Eradication therapy for peptic ulcer disease in Helicobacter pylori‐positive patients. Cochrane Database of Systematic Reviews 2006, Issue 2. Art. No.: CD003840. DOI: 10.1002/14651858.CD003840.pub4. 
+Objectives
+To assess the proportion of peptic ulcers healed and the proportion of participants who remained free from relapse with eradication therapy against placebo or other pharmacological therapies in H. pylori‐positive people. 
+To assess the proportion of participants that achieved complete relief of symptoms and improvement in quality of life scores. 
+To compare the incidence of adverse effects/drop‐outs (total number for each drug) associated with the different treatments. 
+To assess the proportion of participants in whom successful eradication was achieved.
+Search methods
+In this update, we identified trials by searching the Cochrane Central Register of Controlled Trials (CENTRAL), Ovid MEDLINE (1950 to March 2016) and Ovid EMBASE (1980 to March 2016). To identify further relevant trials, we handsearched reference lists from trials selected by electronic searching, and published abstracts from conference proceedings from the United European Gastroenterology Week (published in Gut) and Digestive Disease Week (published in Gastroenterology). The search was last updated in March 2016. We contacted members of Cochrane Upper GI and Pancreatic Diseases, and experts in the field and asked them to provide details of outstanding clinical trials and any relevant unpublished materials. 
+Selection criteria
+We analysed randomised controlled trials of short‐ and long‐term treatment of peptic ulcer disease in H. pylori‐positive adults. Participants received at least one week of H. pylori eradication compared with ulcer healing drug, placebo or no treatment. Trials were included if they reported assessment from two weeks onwards. 
+Data collection and analysis
+We collected data on ulcer healing, recurrence, relief of symptoms and adverse effects. We calculated the risk ratio (RR) with 95% confidence intervals (CI) using both fixed‐effect and random‐effects models with Review Manager software (RevMan 5.3) based on intention‐to‐treat analysis as far as possible. 

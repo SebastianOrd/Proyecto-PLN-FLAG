@@ -1,0 +1,12 @@
+Background
+Insomnia is a major public health issue affecting between 6% to 10% of the adult population in Western countries. Eszopiclone is a hypnotic drug belonging to a newer group of hypnotic agents, known as new generation hypnotics, which was marketed as being just as effective as benzodiazepines for this condition, while being safer and having a lower risk for abuse and dependence. It is the aim of the review to integrate evidence from randomised controlled trials and to draw conclusions on eszopiclone's efficacy and safety profile, while taking methodological features and bias risks into consideration. 
+Objectives
+To assess the efficacy and safety of eszopiclone for the treatment of insomnia compared to placebo or active control. 
+Search methods
+We searched the Cochrane Central Register of Controlled trials (CENTRAL), MEDLINE, Embase, PsycINFO, PSYNDEX and registry databases (WHO trials portal, ClinicalTrials.gov) with results incorporated from searches to 10 February 2016. To identify trials not registered in electronic databases, we contacted key informants and searched reference lists of identified studies. We ran an update search (21 February 2018) and have placed studies of interest in awaiting classification/ongoing studies. These will be incorporated into the next version of the review, as appropriate. 
+Selection criteria
+Parallel group randomised controlled trials (RCTs) comparing eszopiclone with either placebo or active control were included in the review. Participants were adults with insomnia, as diagnosed with a standardised diagnostic system, including primary insomnia and comorbid insomnia. 
+Data collection and analysis
+Two authors independently extracted outcome data; one reviewer assessed trial quality and the second author cross‐checked it. 
+Main results
+A total of 14 RCTs, with 4732 participants, were included in this review covering short‐term (≤ 4 weeks; 6 studies), medium‐term (> 4 weeks ≤ 6 months; 6 studies) and long‐term treatment (> 6 months; 2 studies) with eszopiclone. Most RCTs included in the review included participants aged between 18 and 64 years, three RCTs only included elderly participants (64 to 85 years) and one RCT included participants with a broader age range (35 to 85 years). Seven studies considered primary insomnia; the remaining studies considered secondary insomnia comorbid with depression (2), generalised anxiety (1), back pain (1), Parkinson's disease (1), rheumatoid arthritis (1) and menopausal transition (1). 

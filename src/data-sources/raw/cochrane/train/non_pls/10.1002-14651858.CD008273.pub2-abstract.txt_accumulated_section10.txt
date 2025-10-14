@@ -1,0 +1,10 @@
+Background
+Cancer patients experience distress and anxiety related to their diagnosis, treatment and the unfamiliar cancer centre. Strategies with the aim of orienting patients to a cancer care facility may improve patient outcomes. Although meeting patients' information needs at different stages is important, there is little agreement about the type of information and the timing for information to be given. Orientation interventions aim to address information needs at the start of a person's experience with a cancer care facility. The extent of any benefit of these interventions is unknown. 
+Objectives
+To assess the effects of information interventions which orient patients and their carers/family to a cancer care facility, and to the services available in the facility. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 2); MEDLINE (OvidSP) (1966 to Jun 2011), EMBASE (Ovid SP) (1966 to Jun 2011), CINAHL (EBSCO) (1982 to Jun 2011), PsycINFO (OvidSP) (1966 to Jun 2011), review articles and reference lists of relevant articles. We contacted principal investigators and experts in the field. 
+Selection criteria
+Randomised controlled trials (RCTs), cluster RCTs and quasi‐RCTs evaluating the effects of information interventions that orient patients and their carers/family to a cancer care facility. 
+Data collection and analysis
+Results of searches were reviewed against the pre‐determined criteria for inclusion by two review authors. The primary outcomes were knowledge and understanding; health status and wellbeing, evaluation of care, and harms. Secondary outcomes were communication, skills acquisition, behavioural outcomes, service delivery, and health professional outcomes. We pooled results of RCTs using mean differences (MD) and 95% confidence intervals (CI). 

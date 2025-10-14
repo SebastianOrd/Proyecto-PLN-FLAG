@@ -1,0 +1,10 @@
+Background
+Rupture of an intracranial aneurysm causes aneurysmal subarachnoid haemorrhage, which is one of the most devastating clinical conditions. It can be classified into five Grades using the Hunt‐Hess or World Federation of Neurological Surgeons (WFNS) scale. Grades 4 and 5 predict poor prognosis and are known as 'poor grade', while grade 1, 2, and 3 are known as 'good grade'. Disturbances of intracranial homeostasis and brain metabolism are known to play certain roles in the sequelae. Hypothermia has a long history of being used to reduce metabolic rate, thereby protecting organs where metabolism is disturbed, and may potentially cause harm. 
+Objectives
+To assess the effect of intraoperative mild hypothermia on postoperative death and neurological deficits in people with ruptured or unruptured intracranial aneurysms. 
+Search methods
+We updated the search in the Cochrane Stroke Group Trials Register (August 2015), the Cochrane Central Register of Controlled Trials (CENTRAL 2015, Issue 8), WHO International Clinical Trials Registry Platform (ICTRP; December 2015), MEDLINE (1950 to September 2015), EMBASE (1980 to September 2015), Science Citation Index (1900 to September 2015), and 11 Chinese databases (September 2015). We also searched ongoing trials registers (September 2015) and scanned reference lists of retrieved records. 
+Selection criteria
+We included only randomised controlled trials that compared intraoperative mild hypothermia (32°C to 35°C) with control (no hypothermia) in people with ruptured or unruptured intracranial aneurysms. 
+Data collection and analysis
+Two review authors independently selected trials and assessed the risk of bias for each included study. We presented data as risk ratio (RR) and risk difference (RD) with 95% confidence intervals (CI). 

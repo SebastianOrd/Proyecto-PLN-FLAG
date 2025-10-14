@@ -1,0 +1,12 @@
+Background
+Standard surgical training has traditionally been one of apprenticeship, where the surgical trainee learns to perform surgery under the supervision of a trained surgeon. This is time‐consuming, costly, and of variable effectiveness. Training using a virtual reality simulator is an option to supplement standard training. Virtual reality training improves the technical skills of surgical trainees such as decreased time for suturing and improved accuracy. The clinical impact of virtual reality training is not known. 
+Objectives
+To assess the benefits (increased surgical proficiency and improved patient outcomes) and harms (potentially worse patient outcomes) of supplementary virtual reality training of surgical trainees with limited laparoscopic experience. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE and Science Citation Index Expanded until July 2012. 
+Selection criteria
+We included all randomised clinical trials comparing virtual reality training versus other forms of training including box‐trainer training, no training, or standard laparoscopic training in surgical trainees with little laparoscopic experience. We also planned to include trials comparing different methods of virtual reality training. We included only trials that assessed the outcomes in people undergoing laparoscopic surgery. 
+Data collection and analysis
+Two authors independently identified trials and collected data. We analysed the data with both the fixed‐effect and the random‐effects models using Review Manager 5 analysis. For each outcome we calculated the mean difference (MD) or standardised mean difference (SMD) with 95% confidence intervals based on intention‐to‐treat analysis. 
+Main results
+We included eight trials covering 109 surgical trainees with limited laparoscopic experience. Of the eight trials, six compared virtual reality versus no supplementary training. One trial compared virtual reality training versus box‐trainer training and versus no supplementary training, and one trial compared virtual reality training versus box‐trainer training. There were no trials that compared different forms of virtual reality training. All the trials were at high risk of bias. Operating time and operative performance were the only outcomes reported in the trials. The remaining outcomes such as mortality, morbidity, quality of life (the primary outcomes of this review) and hospital stay (a secondary outcome) were not reported. 

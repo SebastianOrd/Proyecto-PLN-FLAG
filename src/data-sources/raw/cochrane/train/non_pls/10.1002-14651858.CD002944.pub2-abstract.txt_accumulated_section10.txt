@@ -1,0 +1,10 @@
+Background
+Atherosclerotic renal artery stenosis is the most common cause of secondary hypertension. Balloon angioplasty with stenting is widely used for the treatment of hypertensive patients with renal artery stenosis but the effectiveness of this procedure in treating hypertension, improving renal function and preventing adverse cardiovascular and renal events remains uncertain. This is an update, to include the results of recent, important large trials, of a review first published in 2003. 
+Objectives
+To compare the effectiveness of balloon angioplasty (with and without stenting) with medical therapy for the treatment of atherosclerotic renal artery stenosis in patients with hypertension. The following outcomes were compared: blood pressure control, renal function, frequency of cardiovascular and renal adverse events, presence or absence of restenosis of the renal artery, side effects of medical therapy, numbers and defined daily doses of antihypertensive drugs. 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (last searched May 2014) and CENTRAL (2014, Issue 4). Bibliographies were also reviewed and trial authors were contacted for more information. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing balloon angioplasty with medical therapy in hypertensive patients with haemodynamically significant renal artery stenosis (greater than 50% reduction in luminal diameter) and with a minimum follow‐up of six months. 
+Data collection and analysis
+Data were extracted independently on trial design, participants, interventions and outcome measures. A formal meta‐analysis was completed to assess the effect on blood pressure, renal function and cardiovascular and renal adverse events. Peto's odds ratios (ORs) and corresponding 95% confidence intervals (CI) for dichotomous outcomes and mean differences (MD) and corresponding 95% CIs for continuous variables were calculated. 

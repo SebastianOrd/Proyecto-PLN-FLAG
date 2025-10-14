@@ -1,0 +1,12 @@
+Background
+Mortality and morbidity due to neonatal sepsis and necrotizing enterocolitis (NEC) remain high despite the use of potent antimicrobial agents. Agents that modulate inflammation may improve outcomes. Pentoxifylline, a phosphodiesterase inhibitor, is one such agent. 
+Objectives
+Our primary objectives were :
+1.To assess the effect of intravenous pentoxifylline as an adjunct to antibiotic therapy on mortality and morbidity in neonates with suspected or confirmed sepsis. 
+2.To assess the effect of intravenous pentoxifylline as an adjunct to antibiotic therapy on mortality and morbidity in neonates with NEC. 
+Search methods
+We searched the Cochrane Neonatal Review Group Specialized Register, CENTRAL (The Cochrane Library Issue 2, 2014), EMBASE (January 1980 to May 2014), PubMed (January 1966 to May 2014), CINAHL (January 1982 to May 2014), Science Citation Index (January 1990 to May 2014), and BIOSIS (January 1992 May 2014) in May 2014. We checked references and cross‐references from identified studies. We handsearched abstracts from the proceedings of the Pediatric Academic Societies Meetings (from January 1990 to May 2014). We placed no restrictions on language. 
+Selection criteria
+We included randomised or quasi‐randomised trials assessing the efficacy of pentoxifylline as an adjunct to antibiotics for treatment of suspected or confirmed sepsis or NEC in neonates. 
+Data collection and analysis
+We reported typical risk ratio (RR) and risk difference (RD) with 95% confidence intervals (CI) using fixed‐effect model for dichotomous outcomes and mean difference (MD) for continuous outcomes. We calculated the number needed to treat for an additional beneficial outcome (NNTB) if there was a statistically significant reduction in RD. 

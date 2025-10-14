@@ -1,0 +1,12 @@
+Background
+Anterior cruciate ligament (ACL) tears are serious knee injuries that are frequently treated surgically in the form of arthroscopically assisted reconstruction with grafts from the patella or hamstrings tendons. We reviewed the evidence for the choice of arthroscopically assisted ACL reconstruction technique in terms of whether it should involve one incision (femoral tunnel drilled from inside the knee joint under arthroscopic visualisation) or two incisions (femoral tunnel drilled from outside to inside the knee joint). 
+Objectives
+To assess the effects (benefits and harms) of one‐incision versus two‐incision techniques for arthroscopically assisted ACL reconstruction in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, Latin American and Caribbean Health Sciences (LILACS), the World Health Organization International Clinical Trials Registry Platform, ClinicalTrials.gov, reference lists, and conference abstracts. The date of the search was 16 August 2017. 
+Selection criteria
+Randomised and quasi‐randomised controlled clinical trials evaluating one‐incision versus two‐incision techniques for arthroscopically assisted ACL reconstruction in adults. 
+Data collection and analysis
+Two review authors independently searched and selected studies, and extracted data and assessed the risk of bias of the eligible studies. We undertook limited pooling of data using the fixed‐effect model. 
+Main results
+We included five trials (four randomised and one quasi‐randomised) evaluating a total of 320 participants who were mainly in their 20s. All participants underwent ACL reconstruction with patella tendon grafts. All five included trials were at a high risk of bias, particularly performance bias. Based on these limitations and the insufficiency of the available data resulting in imprecision of effect estimates, we judged the quality of the evidence as very low for all outcomes. This means that we are uncertain of the findings of the review. 

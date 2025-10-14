@@ -1,0 +1,10 @@
+Background
+Efficacy and the risk of severe late effects have to be well‐balanced in treatment of Hodgkin lymphoma (HL). Late adverse effects include secondary malignancies which often have a poor prognosis. To synthesise evidence on the risk of secondary malignancies after current treatment approaches comprising chemotherapy and/or radiotherapy, we performed a meta‐analysis based on individual patient data (IPD) from patients treated for newly diagnosed HL. 
+Objectives
+We investigated several questions concerning possible changes in the risk of secondary malignancies when modifying chemotherapy or radiotherapy (omission of radiotherapy, reduction of the radiation field, reduction of the radiation dose, use of fewer chemotherapy cycles, intensification of chemotherapy). We also analysed whether these modifications affect progression‐free survival (PFS) and overall survival (OS). 
+Search methods
+We searched MEDLINE and Cochrane CENTRAL trials databases comprehensively in June 2010 for all randomised trials in HL since 1984. Key international trials registries were also searched. The search was updated in March 2015 without collecting further IPD (one further eligible study found) and again in July 2017 (no further eligible studies). 
+Selection criteria
+We included randomised controlled trials (RCTs) for untreated HL patients which enrolled at least 50 patients per arm, completed recruitment by 2007 and performed a treatment comparison relevant to our objectives. 
+Data collection and analysis
+Study groups submitted IPD, including age, sex, stage and the outcomes secondary malignant neoplasm (SMN), OS and PFS as time‐to‐event data. We meta‐analysed these data using Petos method (SMN) and Cox regression with inverse‐variance pooling (OS, PFS) for each of the five study questions, and performed subgroup and sensitivity analyses to assess the applicability and robustness of the results. 

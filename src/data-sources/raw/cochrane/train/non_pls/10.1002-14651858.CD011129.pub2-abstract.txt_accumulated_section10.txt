@@ -1,0 +1,10 @@
+Background
+Incurable cancer, which often constitutes an enormous challenge for patients, their families, and medical professionals, profoundly affects the patient's physical and psychosocial well‐being. In standard cancer care, palliative measures generally are initiated when it is evident that disease‐modifying treatments have been unsuccessful, no treatments can be offered, or death is anticipated. In contrast, early palliative care is initiated much earlier in the disease trajectory and closer to the diagnosis of incurable cancer. 
+Objectives
+To compare effects of early palliative care interventions versus treatment as usual/standard cancer care on health‐related quality of life, depression, symptom intensity, and survival among adults with a diagnosis of advanced cancer. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), PsycINFO, OpenGrey (a database for grey literature), and three clinical trial registers to October 2016. We checked reference lists, searched citations, and contacted study authors to identify additional studies. 
+Selection criteria
+Randomised controlled trials (RCTs) and cluster‐randomised controlled trials (cRCTs) on professional palliative care services that provided or co‐ordinated comprehensive care for adults at early advanced stages of cancer. 
+Data collection and analysis
+We used standard methodological procedures as expected by Cochrane. We assessed risk of bias, extracted data, and collected information on adverse events. For quantitative synthesis, we combined respective results on our primary outcomes of health‐related quality of life, survival (death hazard ratio), depression, and symptom intensity across studies in meta‐analyses using an inverse variance random‐effects model. We expressed pooled effects as standardised mean differences (SMDs, or Hedges' adjusted g). We assessed certainty of evidence at the outcome level using GRADE (Grading of Recommendations Assessment, Development, and Evaluation) and created a 'Summary of findings' table. 

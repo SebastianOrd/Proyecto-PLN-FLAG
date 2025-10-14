@@ -1,0 +1,12 @@
+Background
+The functional and clinical basis on which to choose whether or not to retain the posterior cruciate ligament during total knee arthroplasty surgery remained unclear after a Cochrane systematic review and meta‐analysis in 2005, which contained eight clinical trials. Several new trials have been conducted since then. Hence, an update of the review was performed. 
+Objectives
+Our aim was to assess the benefits and harms of retention compared to sacrifice of the posterior cruciate ligament in total knee arthroplasty in patients with osteoarthritis of the knee. 
+Search methods
+An extensive search was conducted in CENTRAL, MEDLINE (PubMed), EMBASE, Web of Science, CINAHL, Academic Search Premier, Current Contents Connect and Science Direct. All databases were searched, without any limitations, up to 6 December 2012. References of the articles were checked and citation tracking was performed. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials comparing retention with sacrifice of the posterior cruciate ligament in primary total knee arthroplasty in patients with osteoarthritis of the knee. 
+Data collection and analysis
+Data were collected with a pre‐developed form. Risk of bias was assessed independently by two authors (WV, LB). The level of evidence was graded using the GRADE approach. Meta‐analysis was performed by pooling the results of the selected studies, when possible. Subgroup analyses were performed for posterior cruciate ligament retention versus sacrifice using the same total knee arthroplasty design, and for studies using a posterior cruciate ligament retaining or posterior stabilised design, and when sufficient studies were available subgroup analyses were performed for the same brand. 
+Main results
+Seventeen randomised controlled trials (with 1810 patients and 2206 knees) were found, described in 18 articles. Ten of these were new studies compared to the previous Cochrane Review. One study from the original Cochrane review was excluded. Most new studies compared a posterior cruciate ligament retaining design with a posterior stabilised design, in which the posterior cruciate ligament is sacrificed (a posterior stabilised design has an insert with a central post which can engage on a femoral cam during flexion). 

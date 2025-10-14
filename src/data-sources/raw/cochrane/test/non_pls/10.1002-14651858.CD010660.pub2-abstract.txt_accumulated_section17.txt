@@ -1,0 +1,17 @@
+Background
+Asthma is the most common respiratory disorder complicating pregnancy, and is associated with a range of adverse maternal and perinatal outcomes. There is strong evidence however, that the adequate control of asthma can improve health outcomes for mothers and their babies. Despite known risks of poorly controlled asthma during pregnancy, a large proportion of women have sub‐optimal asthma control, due to concerns surrounding risks of pharmacological agents, and uncertainties regarding the effectiveness and safety of different management strategies. 
+Objectives
+To assess the effects of interventions (pharmacologic and non‐pharmacologic) for managing women's asthma in pregnancy on maternal and fetal/infant outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (2 June 2014) and the Cochrane Airways Group's Trials Register (4 June 2014). 
+Selection criteria
+Randomised and quasi‐randomised controlled trials comparing any intervention used to manage asthma in pregnancy, with placebo, no intervention, or an alternative intervention. We included pharmacological and non‐pharmacological interventions (including combined interventions). Cluster‐randomised trials were eligible for inclusion (but none were identified). Cross‐over trials were not eligible for inclusion. 
+We included multi‐armed trials along with two‐armed trials. We also included studies published as abstracts only. 
+Data collection and analysis
+At least two review authors independently assessed trial eligibility and quality and extracted data. Data were checked for accuracy. 
+Main results
+We included eight trials in this review, involving 1181 women and their babies. Overall we judged two trials to be at low risk of bias, two to be of unclear risk of bias, and four to be at moderate risk of bias. 
+Five trials assessed pharmacological agents, including inhaled corticosteroids (beclomethasone or budesonide), inhaled magnesium sulphate, intravenous theophylline, and inhaled beclomethasone verus oral theophylline. Three trials assessed non‐pharmacological interventions, including a fractional exhaled nitric oxide (FENO)‐based algorithm versus a clinical guideline‐based algorithm to adjust inhaled corticosteroid therapy, a pharmacist‐led multi‐disciplinary approach to management versus standard care, and progressive muscle relaxation (PMR) versus sham training. 
+The eight included trials were assessed under seven separate comparisons.
+Pharmacological interventions 
+Primary outcomes: one trial suggested that inhaled magnesium sulphate in addition to usual treatment could reduce exacerbation frequency in acute asthma (mean difference (MD) ‐2.80; 95% confidence interval (CI) ‐3.21 to ‐2.39; 60 women). One trial assessing the addition of intravenous theophylline to standard care in acute asthma did not report on exacerbations (65 women). No clear difference was shown in the risk of exacerbations with the use of inhaled beclomethasone in addition to usual treatment for maintenance therapy in one trial (risk ratio (RR) 0.36; 95% CI 0.13 to 1.05; 60 women); a second trial also showed no difference, however data were not clearly reported to allow inclusion in a meta‐analysis. No difference was shown when inhaled beclomethasone was compared with oral theophylline for maintenance therapy (RR 0.88; 95% CI 0.59 to 1.33; one trial, 385 women). None of these trials reported on neonatal intensive care admissions. 

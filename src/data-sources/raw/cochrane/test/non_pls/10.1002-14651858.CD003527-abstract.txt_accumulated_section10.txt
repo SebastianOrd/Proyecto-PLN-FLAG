@@ -1,0 +1,10 @@
+Background
+This review is one in a series of reviews of interventions for lateral elbow pain. Lateral elbow pain, or tennis elbow, is a common condition causing pain in the elbow and forearm and lack of strength and function of the elbow and wrist. Acupuncture has long been used to treat lateral elbow pain in China and in Western countries practitioners and consumers are increasingly exploring acupuncture as a first line treatment for musculoskeletal disorders. No previous systematic review of the available evidence has been conducted to determine whether acupuncture is efficacious in the treatment lateral elbow pain. 
+Objectives
+To determine the effectiveness of acupuncture in the treatment of adults with lateral elbow pain with respect to pain reduction, improvement in function, grip strength and adverse effects. 
+Search methods
+We searched MEDLINE, CINAHL, EMBASE and SCISEARCH and the Cochrane Clinical Trials Register and the Musculoskeletal Review Group's specialist trial database from 1966 to June 2001. Identified keywords and authors were searched in an effort to retrieve as many trials as possible. 
+Selection criteria
+Two independent reviewers assessed all identified trials against pre‐determined inclusion criteria. Randomised and pseudo randomised trials in all languages were included in the review provided they were testing acupuncture compared to placebo or another intervention in adults with lateral elbow pain (tennis elbow). Outcomes of interest were pain, function, disability, quality of life, strength, participant satisfaction with treatment and adverse effect. 
+Data collection and analysis
+For continuous variables means and standard deviations were extracted or imputed to allow the analysis of weighted mean difference, while for binary data numbers of events and total population were analysed and interpreted as relative risks. Trial results were combined only in the absence of clinical and statistical heterogeneity. 

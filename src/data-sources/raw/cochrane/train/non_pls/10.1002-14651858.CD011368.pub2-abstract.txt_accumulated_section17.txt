@@ -1,0 +1,17 @@
+Background
+Acne is an inflammatory disorder with a high global burden. It is common in adolescents and primarily affects sebaceous gland‐rich areas. The clinical benefit of the topical acne treatments azelaic acid, salicylic acid, nicotinamide, sulphur, zinc, and alpha‐hydroxy acid is unclear. 
+Objectives
+To assess the effects of topical treatments (azelaic acid, salicylic acid, nicotinamide, zinc, alpha‐hydroxy acid, and sulphur) for acne. 
+Search methods
+We searched the following databases up to May 2019: the Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase, and LILACS. We also searched five trials registers. 
+Selection criteria
+Clinical randomised controlled trials of the six topical treatments compared with other topical treatments, placebo, or no treatment in people with acne. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Key outcomes included participants' global self‐assessment of acne improvement (PGA), withdrawal for any reason, minor adverse events (assessed as total number of participants who experienced at least one minor adverse event), and quality of life. 
+Main results
+We included 49 trials (3880 reported participants) set in clinics, hospitals, research centres, and university settings in Europe, Asia, and the USA. 
+The vast majority of participants had mild to moderate acne, were aged between 12 to 30 years (range: 10 to 45 years), and were female. Treatment lasted over eight weeks in 59% of the studies. Study duration ranged from three months to three years. 
+We assessed 26 studies as being at high risk of bias in at least one domain, but most domains were at low or unclear risk of bias. 
+We grouped outcome assessment into short‐term (less than or equal to 4 weeks), medium‐term (from 5 to 8 weeks), and long‐term treatment (more than 8 weeks). The following results were measured at the end of treatment, which was mainly long‐term for the PGA outcome and mixed length (medium‐term mainly) for minor adverse events. 
+Azelaic acid 
+In terms of treatment response (PGA), azelaic acid is probably less effective than benzoyl peroxide (risk ratio (RR) 0.82, 95% confidence interval (CI) 0.72 to 0.95; 1 study, 351 participants), but there is probably little or no difference when comparing azelaic acid to tretinoin (RR 0.94, 95% CI 0.78 to 1.14; 1 study, 289 participants) (both moderate‐quality evidence). There may be little or no difference in PGA when comparing azelaic acid to clindamycin (RR 1.13, 95% CI 0.92 to 1.38; 1 study, 229 participants; low‐quality evidence), but we are uncertain whether there is a difference between azelaic acid and adapalene (1 study, 55 participants; very low‐quality evidence). 

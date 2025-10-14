@@ -1,0 +1,9 @@
+Background
+Serum monoclonal anti‐myelin‐associated glycoprotein (anti‐MAG) antibodies may be pathogenic in some people with immunoglobulin M (IgM) paraprotein and demyelinating neuropathy. Immunotherapies aimed at reducing the level of these antibodies might be expected to be beneficial. This is an update of a review first published in 2003 and previously updated in 2006 and 2012. 
+Objectives
+To assess the effects of immunotherapy for IgM anti‐MAG paraprotein‐associated demyelinating peripheral neuropathy. 
+Search methods
+On 1 February 2016 we searched the Cochrane Neuromuscular Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and Embase for randomised controlled trials (RCTs). We also checked trials registers and bibliographies, and contacted authors and experts in the field. 
+Selection criteria
+We included randomised controlled trials (RCTs) or quasi‐RCTs involving participants of any age treated with any type of immunotherapy for anti‐MAG antibody‐associated demyelinating peripheral neuropathy with monoclonal gammopathy of undetermined significance and of any severity. 
+Our primary outcome measures were numbers of participants improved in disability assessed with either or both of the Neuropathy Impairment Scale (NIS) or the modified Rankin Scale (mRS) at six months after randomisation. Secondary outcome measures were: mean improvement in disability, assessed with either the NIS or the mRS, 12 months after randomisation; change in impairment as measured by improvement in the 10‐metre walk time, change in a validated linear disability measure such as the Rasch‐built Overall Disability Scale (R‐ODS) at six and 12 months after randomisation, change in subjective clinical scores and electrophysiological parameters at six and 12 months after randomisation; change in serum IgM paraprotein concentration or anti‐MAG antibody titre at six months after randomisation; and adverse effects of treatments. 

@@ -1,0 +1,13 @@
+Background
+Post‐operative management in gastrointestinal (GI) surgery is becoming well established with 'Enhanced Recovery After Surgery' protocols starting 24 hours prior to surgery with carbohydrate loading and early oral or enteral feeding given to patients the first day following surgery. However, whether or not nutritional intervention should be initiated earlier in the preoperative period remains unclear. Poor pre‐operative nutritional status has been linked consistently to an increase in post‐operative complications and poorer surgical outcome. 
+Objectives
+To review the literature on preoperative nutritional support in patients undergoing gastrointestinal surgery (GI). 
+Search methods
+The searches were initially run in March 2011 and subsequently updated in February 2012. Databases including all EBM Reviews (Cochrane DSR, ACP Journal Club, DARE, CCTR, CMR, HTA and NHSEED) MEDLINE, EMBASE, AMED, British Nursing Index Archive using OvidSP were included and a search was run on each database separately after which duplicates were excluded. 
+Selection criteria
+The inclusion criteria were randomised controlled trials that evaluated pre‐operative nutritional support in GI surgical participants using a nutritional formula delivered by a parenteral, enteral or oral route. The primary outcomes included post‐operative complications and length of hospital stay. 
+Data collection and analysis
+Two observers screened the abstracts for inclusion in the review and performed data extraction. Bias was assessed for each of the included studies using the bias assessment tables in the Cochrane Software Review Manager (version 5.1, Cochrane Collaboration). The trials were analysed using risk ratios with Mantel‐Haenszel in fixed effects methods displayed with heterogeneity. Meta‐analyses were undertaken on trials evaluating immune enhancing (IE) nutrition, standard oral supplements, enteral and parenteral nutrition (PN) which were administered pre‐operatively. 
+Study characteristics were summarised in tables. Dichotomous and ratio data were entered into meta‐analyses for the primary outcomes. These were then summarised in tables with assumed and corresponding risk with relative effect giving 95% confidence intervals. 
+Main results
+The searches identified 9900 titles and, after excluding duplicates, 6433 titles were initially screened. After the initial title screen, 6266 were excluded. Abstracts were screened for 167 studies and 33 articles were identified as meeting the inclusion criteria, of which 13 were included in the review after an assessment of the complete manuscripts. 

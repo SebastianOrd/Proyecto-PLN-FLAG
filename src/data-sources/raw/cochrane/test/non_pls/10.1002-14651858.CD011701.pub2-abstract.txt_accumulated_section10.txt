@@ -1,0 +1,10 @@
+Background
+Bacterial vaginosis (BV) is an infection that has a prevalence between 10% to 50% worlwide. BV results in an imbalance of the normal vaginal flora. Microorganisms associated with BV have been isolated from the normal flora of the male genital tract, and their presence could be related to the recurrence of BV after antibiotic treatment. Therefore, the treatment of sexual partners could decrease the recurrence of infection and possibly the burden of the disease. 
+Objectives
+To assess the effectiveness in women and the safety in men of concurrent antibiotic treatment for the sexual partners of women treated for BV. 
+Search methods
+We searched the Cochrane Sexually Transmitted Infections Group Specialized Register (23 July 2016), CENTRAL (1991 to 23 July 2016), MEDLINE (1946 to 23 July 2016), Embase (1974 to 23 July 2016), LILACS (1982 to 23 July 2016), the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (23 July 2016), ClinicalTrials.gov (23 July 2016) and the Web of Science™ (2001 to 23 July 2016). We also handsearched conference proceedings, contacted trial authors and reviewed the reference lists of retrieved studies. 
+Selection criteria
+Randomized controlled trials (RCTs) that compared the concurrent use of any antibiotic treatment with placebo, no intervention or any other intervention by the sexual partners of women treated for BV. 
+Data collection and analysis
+Three review authors independently assessed trials for inclusion, extracted data and assessed the risk of bias in the included studies. We resolved any disagreements through consensus. We assessed the quality of the evidence using the GRADE approach. 

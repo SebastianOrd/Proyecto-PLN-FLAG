@@ -1,0 +1,12 @@
+Background
+Several studies have evaluated the clinical effectiveness of endocrine therapy alone in women aged 70 years or over with operable breast cancer and who are fit for surgery. 
+Objectives
+To systematically review the evidence for the clinical effectiveness of surgery (with or without adjuvant endocrine therapy) in comparison to primary endocrine therapy in the treatment of operable breast cancer in women aged 70 years and over, both in terms of local progression and mortality. 
+Search methods
+We conducted an updated search of the Cochrane Breast Cancer Group's Specialised Register (27th March 2013) and new searches of the Cochrane Central Register of Controlled Trials (CENTRAL, 2013, Issue 3), MEDLINE, EMBASE, the World Health Organization's International Clinical Trials Registry Platform (apps.who.int/trialsearch/) and www.clinicaltrials.gov, using the search terms 'early breast cancer', 'endocrine therapy', 'psychosocial' or 'surgery'. 
+Selection criteria
+Randomised trials comparing surgery, with or without adjuvant endocrine therapy, to primary endocrine therapy in the management of women aged 70 years or over with early breast cancer and who were fit for surgery. 
+Data collection and analysis
+We assessed studies for eligibility and quality, and two review authors independently extracted data from published trials. We derived hazard ratios for time‐to‐event outcomes, where possible, and used a fixed‐effect model for meta‐analysis. We extracted toxicity and quality‐of‐life data, where present. Where outcome data were not available, we contacted trialists and requested unpublished data. 
+Main results
+We identified seven eligible trials, of which six had published time‐to‐event data and one was published only in abstract form with no usable data. The quality of the allocation concealment was adequate in three studies and unclear in the remainder. In each case the endocrine therapy used was tamoxifen. 

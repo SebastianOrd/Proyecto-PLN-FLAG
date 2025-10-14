@@ -1,0 +1,12 @@
+Background
+Critical illness polyneuropathy or myopathy (CIP/CIM) is a frequent complication in the intensive care unit (ICU) and is associated with prolonged mechanical ventilation, longer ICU stay and increased mortality. This is an interim update of a review first published in 2009 (Hermans 2009). It has been updated to October 2011, with further potentially eligible studies from a December 2013 search characterised as awaiting assessment. 
+Objectives
+To systematically review the evidence from RCTs concerning the ability of any intervention to reduce the incidence of CIP or CIM in critically ill individuals. 
+Search methods
+On 4 October 2011, we searched the Cochrane Neuromuscular Disease Group Specialized Register, CENTRAL, MEDLINE, and EMBASE. We checked the bibliographies of identified trials and contacted trial authors and experts in the field. We carried out an additional search of these databases on 6 December 2013 to identify recent studies. 
+Selection criteria
+All randomised controlled trials (RCTs), examining the effect of any intervention on the incidence of CIP/CIM in people admitted to adult medical or surgical ICUs. The primary outcome was the incidence of CIP/CIM in ICU, based on electrophysiological or clinical examination. Secondary outcomes included duration of mechanical ventilation, duration of ICU stay, death at 30 and 180 days after ICU admission and serious adverse events from the treatment regimens. 
+Data collection and analysis
+Two authors independently extracted the data and assessed the risk of bias in included studies. 
+Main results
+We identified five trials that met our inclusion criteria. Two trials compared intensive insulin therapy (IIT) to conventional insulin therapy (CIT). IIT significantly reduced CIP/CIM in the screened (n = 825; risk ratio (RR) 0.65, 95% confidence interval (CI) 0.55 to 0.77) and total (n = 2748; RR 0.70, 95% CI 0.60 to 0.82) population randomised. IIT reduced duration of mechanical ventilation, ICU stay and 180‐day mortality, but not 30‐day mortality compared with CIT. Hypoglycaemia increased with IIT but did not cause early deaths. 

@@ -1,0 +1,12 @@
+Background
+Conversion and dissociative disorders are conditions where people experience unusual neurological symptoms or changes in awareness or identity. However, symptoms and clinical signs cannot be explained by a neurological disease or other medical condition. Instead, a psychological stressor or trauma is often present. The symptoms are real and can cause significant distress or problems with functioning in everyday life for the people experiencing them. 
+Objectives
+To assess the beneficial and harmful effects of psychosocial interventions of conversion and dissociative disorders in adults. 
+Search methods
+We conducted database searches between 16 July and 16 August 2019. We searched Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, and eight other databases, together with reference checking, citation searching and contact with study authors to identify additional studies.  
+Selection criteria
+We included all randomised controlled trials that compared psychosocial interventions for conversion and dissociative disorders with standard care, wait list or other interventions (pharmaceutical, somatic or psychosocial).  
+Data collection and analysis
+We selected, quality assessed and extracted data from the identified studies. Two review authors independently performed all tasks. We used standard Cochrane methodology. For continuous data, we calculated mean differences (MD) and standardised mean differences (SMD) with 95% confidence interval (CI). For dichotomous outcomes, we calculated risk ratio (RR) with 95% CI. We assessed and downgraded the evidence according to the GRADE system for risk of bias, imprecision, indirectness, inconsistency and publication bias. 
+Main results
+We included 17 studies (16 with parallel‐group designs and one with a cross‐over design), with 894 participants aged 18 to 80 years (female:male ratio 3:1).  

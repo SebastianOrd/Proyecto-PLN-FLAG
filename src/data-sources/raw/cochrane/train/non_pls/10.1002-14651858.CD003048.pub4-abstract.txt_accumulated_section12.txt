@@ -1,0 +1,12 @@
+Background
+Probiotics may be effective in reducing the duration of acute infectious diarrhoea.
+Objectives
+To assess the effects of probiotics in proven or presumed acute infectious diarrhoea.
+Search methods
+We searched the trials register of the Cochrane Infectious Diseases Group, MEDLINE, and Embase from inception to 17 December 2019, as well as the Cochrane Controlled Trials Register (Issue 12, 2019), in the Cochrane Library, and reference lists from studies and reviews. We included additional studies identified during external review. 
+Selection criteria
+Randomized controlled trials comparing a specified probiotic agent with a placebo or no probiotic in people with acute diarrhoea that is proven or presumed to be caused by an infectious agent. 
+Data collection and analysis
+Two review authors independently applied inclusion criteria, assessed risk of bias, and extracted data. Primary outcomes were measures of diarrhoea duration (diarrhoea lasting ≥ 48 hours; duration of diarrhoea). Secondary outcomes were number of people hospitalized in community studies, duration of hospitalization in inpatient studies, diarrhoea lasting ≥ 14 days, and adverse events. 
+Main results
+We included 82 studies with a total of 12,127 participants. These studies included 11,526 children (age < 18 years) and 412 adults (three studies recruited 189 adults and children but did not specify numbers in each age group). No cluster‐randomized trials were included. Studies varied in the definitions used for "acute diarrhoea" and "end of the diarrhoeal illness" and in the probiotic(s) tested. A total of 53 trials were undertaken in countries where both child and adult mortality was low or very low, and 26 where either child or adult mortality was high. 

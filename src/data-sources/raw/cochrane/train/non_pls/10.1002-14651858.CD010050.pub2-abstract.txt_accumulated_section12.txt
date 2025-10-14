@@ -1,0 +1,12 @@
+Background
+Glutamine is a non‐essential amino acid which is abundant in the healthy human body. There are studies reporting that plasma glutamine levels are reduced in patients with critical illness or following major surgery, suggesting that glutamine may be a conditionally essential amino acid in situations of extreme stress. In the past decade, several clinical trials examining the effects of glutamine supplementation in patients with critical illness or receiving surgery have been done, and the systematic review of this clinical evidence has suggested that glutamine supplementation may reduce infection and mortality rates in patients with critical illness. However, two recent large‐scale randomized clinical trials did not find any beneficial effects of glutamine supplementation in patients with critical illness. 
+Objectives
+The objective of this review was to:
+1. assess the effects of glutamine supplementation in critically ill adults and in adults after major surgery on infection rate, mortality and other clinically relevant outcomes; 
+2. investigate potential heterogeneity across different patient groups and different routes for providing nutrition. 
+Search methods
+We searched the Cochrane Anaesthesia Review Group (CARG) Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (2013, Issue 5); MEDLINE (1950 to May 2013); EMBASE (1980 to May 2013) and Web of Science (1945 to May 2013). 
+Selection criteria
+We included controlled clinical trials with random or quasi‐random allocation that examined glutamine supplementation versus no supplementation or placebo in adults with a critical illness or undergoing elective major surgery. We excluded cross‐over trials. 
+Data collection and analysis
+Two authors independently extracted the relevant information from each included study using a standardized data extraction form. For infectious complications and mortality and morbidity outcomes we used risk ratio (RR) as the summary measure with the 95% confidence interval (CI). We calculated, where appropriate, the number needed to treat to benefit (NNTB) and the number needed to treat to harm (NNTH). We presented continuous data as the difference between means (MD) with the 95% CI. 

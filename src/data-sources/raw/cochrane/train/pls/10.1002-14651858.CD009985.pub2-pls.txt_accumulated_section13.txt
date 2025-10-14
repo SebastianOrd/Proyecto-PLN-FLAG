@@ -1,0 +1,13 @@
+Interventions for reducing medication errors in adults in hospital settings
+Background to the question 
+An adverse drug event (ADE) is an injury resulting from a medical intervention related to a drug. ADEs are sometimes associated with medication errors. ADEs and medication errors may cause important harm, costs and even death. 
+Interventions for reducing medication errors include medication reconciliation, which is the process of comparing a patient's medication orders to the medications that the patient has been taking. Medication reconciliation can be performed jointly with other interventions, such as electronic prescribing systems, barcoding for a correct administering of medications, organisational changes, feedback on medication errors, education of professionals and improved medication dispensing systems. 
+Review question 
+What is the effectiveness of interventions to reduce medication errors for adults in hospital settings? 
+We included inpatient care settings (secondary or tertiary units, intensive care units, operating theatres), outpatient care settings, and accident and emergency departments. 
+Study characteristics 
+We searched databases of scientific studies. We included 65 studies, 51 of which were randomised trials, involving 23,182 adults in hospital settings. The remaining 14 studies were large interrupted time‐series that concern long‐term period before and after a point of intervention to assess the intervention's effects, involving more than 87,000 participants. 
+Certainty of the evidence 
+We assessed the included evidence to establish how certain we are that the effects are true and would not be altered with the addition of more evidence. In general, we judged the certainty of the evidence to be low to moderate, but it was very low for some outcomes. 
+Key results 
+Medication reconciliation compared with no medication reconciliation probably reduce ADEs and may reduce medication errors. It may have little to no effect on length of stay or quality of life. However, the effect of medication reconciliation on these latter outcomes is imprecise; it is not clear if the effects are beneficial or detrimental (low‐ to moderate‐certainty evidence). 

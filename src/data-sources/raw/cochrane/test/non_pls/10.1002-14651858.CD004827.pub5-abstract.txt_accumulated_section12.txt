@@ -1,0 +1,12 @@
+Background
+Antibiotics alter the microbial balance commonly resulting in antibiotic‐associated diarrhea (AAD). Probiotics may prevent AAD via providing gut barrier, restoration of the gut microflora, and other potential mechanisms of action. 
+Objectives
+The primary objectives were to assess the efficacy and safety of probiotics (any specified strain or dose) used for the prevention of AAD in children. 
+Search methods
+MEDLINE, Embase, CENTRAL, CINAHL, and the Web of Science (inception to 28 May 2018) were searched along with registers including the ISRCTN and Clinicaltrials.gov. We also searched the NICE Evidence Services database as well as reference lists from relevant articles. 
+Selection criteria
+Randomized, parallel, controlled trials in children (0 to 18 years) receiving antibiotics, that compare probiotics to placebo, active alternative prophylaxis, or no treatment and measure the incidence of diarrhea secondary to antibiotic use were considered for inclusion. 
+Data collection and analysis
+Study selection, data extraction, and risk of bias assessment were conducted independently by two authors. Dichotomous data (incidence of AAD, adverse events) were combined using a pooled risk ratio (RR) or risk difference (RD), and continuous data (mean duration of diarrhea) as mean difference (MD), along with corresponding 95% confidence interval (95% CI). We calculated the number needed to treat for an additional beneficial outcome (NNTB) where appropriate. For studies reporting on microbiome characteristics using heterogeneous outcomes, we describe the results narratively. The certainty of the evidence was evaluated using GRADE. 
+Main results
+Thirty‐three studies (6352 participants) were included. Probiotics assessed included Bacillus spp., Bifidobacterium spp., Clostridium butyricum, Lactobacilli spp., Lactococcus spp., Leuconostoc cremoris, Saccharomyces spp., orStreptococcus spp., alone or in combination. The risk of bias was determined to be high in 20 studies and low in 13 studies. Complete case (patients who did not complete the studies were not included in the analysis) results from 33 trials reporting on the incidence of diarrhea show a precise benefit from probiotics compared to active, placebo or no treatment control. 

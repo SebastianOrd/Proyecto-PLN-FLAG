@@ -1,0 +1,10 @@
+Background
+Maintaining care for ill persons in the community is heavily dependent on support from unpaid caregivers. Many caregivers, however, find themselves in a caring role for which they are ill prepared and may require professional support. The telephone is an easily accessible method of providing support irrespective of geographical location. 
+Objectives
+The objective of this review was to evaluate the effectiveness of telephone support interventions, delivered by healthcare professionals, when compared to usual care or non‐telephone‐based support interventions for providing education and psychosocial support for informal caregivers of people with acute and chronic diagnosed illnesses, and to evaluate the cost‐effectiveness of telephone interventions in this population. 
+Search methods
+We searched the following databases from inception to 16 November 2018: the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; Embase; PsycINFO; ProQuest Dissertations and Theses A&I; and CINAHL Complete. We also searched 11 caregiver‐specific websites, three conference links, and two clinical trial registries. 
+Selection criteria
+We included randomised controlled trials (RCTs) (including cluster‐RCTs) and quasi‐RCTs. We excluded cross‐over trials because of the high risk of carry‐over effects from one intervention to another. 
+Data collection and analysis
+Two authors independently screened citations against the review's inclusion criteria, extracted data, and assessed the included studies using the Cochrane 'Risk of bias' tool. The review's prespecified primary (quality of life and burden) and secondary outcomes (skill acquisition, psychological health, knowledge, health status and well‐being, family functioning, satisfaction, and economic outcomes), where reported, were assessed at the end of intervention delivery and at short‐term (≤ 3 months), medium‐term (> 3 to ≤ 6 months) and longer‐term time points (> 6 to 12 months) following the intervention. Where possible, meta‐analyses were conducted, otherwise results were reported narratively. 

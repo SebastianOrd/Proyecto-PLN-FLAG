@@ -1,0 +1,13 @@
+Background
+Experiencing anxiety and depression is very common in people living with dementia and mild cognitive impairment (MCI). There is uncertainty about the best treatment approach. Drug treatments may be ineffective and associated with adverse effects. Guidelines recommend psychological treatments. In this updated systematic review, we investigated the effectiveness of different psychological treatment approaches. 
+Objectives
+Primary objective 
+To assess the clinical effectiveness of psychological interventions in reducing depression and anxiety in people with dementia or MCI. 
+Secondary objectives 
+To determine whether psychological interventions improve individuals' quality of life, cognition, activities of daily living (ADL), and reduce behavioural and psychological symptoms of dementia, and whether they improve caregiver quality of life or reduce caregiver burden. 
+Search methods
+We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group's register, MEDLINE, Embase, four other databases, and three trials registers on 18 February 2021. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared a psychological intervention for depression or anxiety with treatment as usual (TAU) or another control intervention in people with dementia or MCI. 
+Data collection and analysis
+A minimum of two authors worked independently to select trials, extract data, and assess studies for risk of bias. We classified the included psychological interventions as cognitive behavioural therapies (cognitive behavioural therapy (CBT), behavioural activation (BA), problem‐solving therapy (PST)); 'third‐wave' therapies (such as mindfulness‐based cognitive therapy (MBCT)); supportive and counselling therapies; and interpersonal therapies. We compared each class of intervention with control. We expressed treatment effects as standardised mean differences or risk ratios. Where possible, we pooled data using a fixed‐effects model. We used GRADE methods to assess the certainty of the evidence behind each result. 

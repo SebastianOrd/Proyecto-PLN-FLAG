@@ -1,0 +1,12 @@
+Background
+Thyroid nodules are very common in general medical practice, but rarely turn out to be a medullary thyroid carcinoma (MTC). Calcitonin is a sensitive tumour marker for the detection of MTC (basal calcitonin). Sometimes a stimulation test is used to improve specificity (stimulated calcitonin). Although the European Thyroid Association's guideline advocates calcitonin determination in people with thyroid nodules, the role of routine calcitonin testing in individuals with thyroid nodules is still questionable. 
+Objectives
+The objective of this review was to determine the diagnostic accuracy of basal and/or stimulated calcitonin as a triage or add‐on test for detection of MTC in people with thyroid nodules. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and Web of Science from inception to June 2018. 
+Selection criteria
+We included all retrospective and prospective cohort studies in which all participants with thyroid nodules had undergone determination of basal calcitonin levels (and stimulated calcitonin, if performed). 
+Data collection and analysis
+Two review authors independently scanned all retrieved records. We extracted data using a standard data extraction form. We assessed risk of bias and applicability using the QUADAS‐2 tool. Using the hierarchical summary receiver operating characteristic (HSROC) model, we estimated summary curves across different thresholds and also obtained summary estimates of sensitivity and specificity at a common threshold when possible. 
+Main results
+In 16 studies, we identified 72,368 participants with nodular thyroid disease in whom routinely calcitonin testing was performed. All included studies performed the calcitonin test as a triage test. Median prevalence of MTC was 0.32%. Sensitivity in these studies ranged between 83% and 100% and specificity ranged between 94% and 100%. 

@@ -1,0 +1,13 @@
+Background
+Measles outbreaks continue to occur in countries with high vaccination coverage. Passive immunisation is generally considered to prevent measles in someone who is not immune and has been exposed to infection. Estimates of effectiveness have varied and no minimum effective dose has been determined. 
+Objectives
+To assess the effectiveness and safety of intramuscular injection or intravenous infusion of immunoglobulins (passive immunisation) for preventing measles when administered to exposed susceptible people before the onset of symptoms. 
+Search methods
+We searched CENTRAL (2013, Issue 7), MEDLINE (1946 to July week 5, 2013), CINAHL (1981 to August 2013) and EMBASE (1974 to August 2013). 
+Selection criteria
+We included randomised controlled trials (RCTs), quasi‐RCTs and prospective, controlled (cohort) studies if: participants were susceptible and exposed to measles, polyclonal immunoglobulins derived from human sera or plasma were administered intramuscularly or intravenously as the only intervention in at least one group and the number of subsequent measles cases was measured. We excluded studies of other sources of immunoglobulins. 
+Data collection and analysis
+Two authors independently extracted data and critically appraised the included studies. We attempted to contact study authors for missing information. We described the results of studies not included in meta‐analyses. 
+Main results
+We included one RCT, two quasi‐RCTs and 10 cohort studies (3925 participants). No studies were rated as low risk of bias for all criteria. Critical appraisal was constrained by a lack of information in most studies. The overall quality of the evidence was moderate. 
+Seven studies (1432 participants) assessed cases of measles after immunoglobulin versus no treatment. Heterogeneity was explained by subgrouping according to the blood product used as an approximation of dose of immunoglobulin. When given within seven days of exposure, immunoglobulins were effective at preventing measles: gamma globulin (risk ratio (RR) 0.17, 95% confidence interval (CI) 0.08 to 0.36), convalescent serum (RR 0.21, 95% CI 0.15 to 0.29 to RR 0.49, 95% CI 0.44 to 0.54) and adult serum (RR 0.52, 95% CI 0.45 to 0.59). The differences in the effectiveness of different blood products were supported by studies not included in the meta‐analysis and by two studies (702 participants) that found gamma globulin more effective than serum (RR 0.56, 95% CI 0.46 to 0.69). 

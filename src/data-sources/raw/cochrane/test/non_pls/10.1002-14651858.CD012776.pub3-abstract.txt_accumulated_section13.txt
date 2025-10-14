@@ -1,0 +1,13 @@
+Background
+Pyrethroid long‐lasting insecticidal nets (LLINs) have been important in the large reductions in malaria cases in Africa, but insecticide resistance in Anopheles mosquitoes threatens their impact. Insecticide synergists may help control insecticide‐resistant populations. Piperonyl butoxide (PBO) is such a synergist; it has been incorporated into pyrethroid‐LLINs to form pyrethroid‐PBO nets, which are currently produced by five LLIN manufacturers and, following a recommendation from the World Health Organization (WHO) in 2017, are being included in distribution campaigns. This review examines epidemiological and entomological evidence on the addition of PBO to pyrethroid nets on their efficacy. 
+Objectives
+To compare effects of pyrethroid‐PBO nets currently in commercial development or on the market with effects of their non‐PBO equivalent in relation to: 
+1. malaria parasite infection (prevalence or incidence); and2. entomological outcomes. 
+Search methods
+We searched the Cochrane Infectious Diseases Group (CIDG) Specialized Register, CENTRAL, MEDLINE, Embase, Web of Science, CAB Abstracts, and two clinical trial registers (ClinicalTrials.gov and WHO International Clinical Trials Registry Platform) up to 25 September 2020. We contacted organizations for unpublished data. We checked the reference lists of trials identified by these methods. 
+Selection criteria
+We included experimental hut trials, village trials, and randomized controlled trials (RCTs) with mosquitoes from the Anopheles gambiae complex or the Anopheles funestus group. 
+Data collection and analysis
+Two review authors assessed each trial for eligibility, extracted data, and determined the risk of bias for included trials. We resolved disagreements through discussion with a third review author. We analysed data using Review Manager 5 and assessed the certainty of evidence using the GRADE approach. 
+Main results
+Sixteen trials met the inclusion criteria: 10 experimental hut trials, four village trials, and two cluster‐RCTs (cRCTs). Three trials are awaiting classification, and four trials are ongoing.  

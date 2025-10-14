@@ -1,0 +1,12 @@
+Background
+It is unclear whether blood pressure should be altered actively during the acute phase of stroke. This is an update of a Cochrane review first published in 1997, and previously updated in 2001 and 2008. 
+Objectives
+To assess the clinical effectiveness of altering blood pressure in people with acute stroke, and the effect of different vasoactive drugs on blood pressure in acute stroke. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched in February 2014), the Cochrane Database of Systematic reviews (CDSR) and the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 2), MEDLINE (Ovid) (1966 to May 2014), EMBASE (Ovid) (1974 to May 2014), Science Citation Index (ISI, Web of Science, 1981 to May 2014) and the Stroke Trials Registry (searched May 2014). 
+Selection criteria
+Randomised controlled trials of interventions that aimed to alter blood pressure compared with control in participants within one week of acute ischaemic or haemorrhagic stroke. 
+Data collection and analysis
+Two review authors independently applied the inclusion criteria, assessed trial quality and extracted data. The review authors cross‐checked data and resolved discrepancies by discussion to reach consensus. We obtained published and unpublished data where available. 
+Main results
+We included 26 trials involving 17,011 participants (8497 participants were assigned active therapy and 8514 participants received placebo/control). Not all trials contributed to each outcome. Most data came from trials that had a wide time window for recruitment; four trials gave treatment within six hours and one trial within eight hours. The trials tested alpha‐2 adrenergic agonists (A2AA), angiotensin converting enzyme inhibitors (ACEI), angiotensin receptor antagonists (ARA), calcium channel blockers (CCBs), nitric oxide (NO) donors, thiazide‐like diuretics, and target‐driven blood pressure lowering. One trial tested phenylephrine. 

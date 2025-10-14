@@ -1,0 +1,14 @@
+Background
+Plasmodium vivax is an important cause of malaria in many parts of Asia and South America, and parasite resistance to the standard treatment (chloroquine) is now high in some parts of Oceania. This review aims to assess the current treatment options in the light of increasing chloroquine resistance. 
+Objectives
+To compare artemisinin‐based combination therapies (ACTs) with alternative antimalarial regimens for treating acute uncomplicated P. vivax malaria. 
+Search methods
+We searched the Cochrane Infectious Disease Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; LILACS; and the metaRegister of Controlled Trials (mRCT) up to 28 March 2013 using  “vivax” and “arte* OR dihydroarte*” as search terms. 
+Selection criteria
+Randomized controlled trials comparing ACTs versus standard therapy, or comparing alternative ACTs, in adults and children with uncomplicated P. vivax malaria. 
+Data collection and analysis
+Two authors independently assessed trials for eligibility and risk of bias, and extracted data. We used recurrent parasitaemia prior to day 28 as a proxy for effective treatment of the blood stage parasite, and compared drug treatments using risk ratios (RR) and 95% confidence intervals (CIs). We used trials following patients for longer than 28 days to assess the duration of the post‐treatment prophylactic effect of ACTs. We assessed the quality of the evidence using the GRADE approach. 
+Main results
+We included 14 trials, that enrolled 2592 participants, and were all conducted in Asia and Oceania between 2002 and 2011. 
+ACTs versus chloroquine 
+ACTs clear parasites from the peripheral blood quicker than chloroquine monotherapy (parasitaemia after 24 hours of treatment: RR 0.42, 95% CI 0.36 to 0.50, four trials, 1652 participants, high quality evidence). 

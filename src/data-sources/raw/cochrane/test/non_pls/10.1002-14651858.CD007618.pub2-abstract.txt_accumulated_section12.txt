@@ -1,0 +1,12 @@
+Background
+Despite substantial improvements in the success of treatments through assisted reproduction technologies (ART), live birth rates remain constantly low, and practitioners are seeking aetiologic treatments to improve the outcomes. 
+Local inflammatory response is believed to contribute to implantation failure, where prostaglandins may increase uterine contractions and decrease uterine receptivity, decreasing the possibility of an IVF cycle leading to successful embryo transfer. In this context, nonsteroidal anti‐inflammatory drugs (NSAIDs) have been employed to inhibit the negative prostaglandin effect. They are often offered in clinical practice to improve ART outcomes, but current robust evidence on their efficacy is lacking. 
+Objectives
+To evaluate the effectiveness and safety of nonsteroidal anti‐inflammatory drugs as co‐treatments in infertile women undergoing assisted reproduction, in terms of improving live birth and miscarriage rates. 
+Search methods
+We designed the search using standard Cochrane methods and performed it on databases from their inception to 20 February 2019. 
+We searched the Cochrane Gynaecology and Fertility Group Specialised Register of controlled trials, CENTRAL via the Cochrane Central Register of Studies Online, MEDLINE, Embase, CINAHL, and the trial registers for ongoing and registered trials, grey literature and treatment guidelines. We handsearched reference lists of relevant systematic reviews and RCTs, and PubMed and Google for any recent trials. There were no restrictions by language or country of origin. 
+Selection criteria
+All RCTs on the use of NSAIDs as co‐treatment during an ART cycle compared with no use or the use of placebo or any other similar drug, along with the comparison of any NSAID to another. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. Our primary outcomes were live birth/ongoing pregnancy and miscarriage. We performed statistical analysis using Review Manager 5. We assessed evidence quality using GRADE methods. 

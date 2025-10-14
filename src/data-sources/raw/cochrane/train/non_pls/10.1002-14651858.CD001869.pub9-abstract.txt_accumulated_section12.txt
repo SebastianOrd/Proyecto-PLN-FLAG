@@ -1,0 +1,12 @@
+Background
+Corticosteroids are widely used in the treatment of idiopathic facial paralysis (Bell's palsy), but the effectiveness of additional treatment with an antiviral agent is uncertain. This review was first published in 2001 and most recently updated in 2015. Since a significant benefit of corticosteroids for the early management of Bell's palsy has been demonstrated, the main focus of this update, as in the previous version, was to determine the effect of adding antivirals to corticosteroid treatment. We undertook this update to integrate additional evidence and to better assess the robustness of findings, taking risk of bias fully into account. 
+Objectives
+To assess the effects of antiviral treatments alone or in combination with any other therapy for Bell's palsy. 
+Search methods
+We searched the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, Embase, and LILACS in July 2019. We reviewed the bibliographies of the identified trials and contacted trial authors to identify additional published or unpublished data. We searched clinical trials registries for ongoing studies. 
+Selection criteria
+We considered randomised controlled trials (RCTs) or quasi‐RCTs of antivirals with and without corticosteroids versus control therapies for the treatment of Bell's palsy. We excluded trials that followed‐up participants for less than three months. 
+Data collection and analysis
+We independently assessed trials for relevance, eligibility, and risk of bias, using standard Cochrane procedures. We performed sensitivity analyses excluding trials at high or unclear risk of bias in at least five domains, and reported these data as the primary analyses. 
+Main results
+Fourteen trials, including 2488 participants, met the inclusion criteria. Most were small, and most were at high or unclear risk of bias in multiple domains. We included four new studies at this update. 

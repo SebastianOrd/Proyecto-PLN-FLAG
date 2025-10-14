@@ -1,0 +1,12 @@
+Background
+Dementia is a chronic condition which progressively affects memory and other cognitive functions, social behaviour, and ability to carry out daily activities. To date, no treatment is clearly effective in preventing progression of the disease, and most treatments are symptomatic, often aiming to improve people's psychological symptoms or behaviours which are challenging for carers. A range of new therapeutic strategies has been evaluated in research, and the use of trained animals in therapy sessions, termed animal‐assisted therapy (AAT), is receiving increasing attention. 
+Objectives
+To evaluate the efficacy and safety of animal‐assisted therapy for people with dementia.
+Search methods
+We searched ALOIS: the Cochrane Dementia and Cognitive Improvement Group's Specialised Register on 5 September 2019. ALOIS contains records of clinical trials identified from monthly searches of major healthcare databases, trial registries, and grey literature sources. We also searched MEDLINE (OvidSP), Embase (OvidSP), PsycINFO (OvidSP), CINAHL (EBSCOhost), ISI Web of Science, ClinicalTrials.gov, and the WHO's trial registry portal. 
+Selection criteria
+We included randomised controlled trials (RCTs), cluster‐randomised trials, and randomised cross‐over trials that compared AAT versus no AAT, AAT using live animals versus alternatives such as robots or toys, or AAT versus any other active intervention. 
+Data collection and analysis
+We extracted data using the standard methods of Cochrane Dementia. Two review authors independently assessed the eligibility and risk of bias of the retrieved records. We expressed our results using mean difference (MD), standardised mean difference (SMD), and risk ratio (RR) with their 95% confidence intervals (CIs) where appropriate. 
+Main results
+We included nine RCTs from 10 reports. All nine studies were conducted in Europe and the US. Six studies were parallel‐group, individually randomised RCTs; one was a randomised cross‐over trial; and two were cluster‐RCTs that were possibly related where randomisation took place at the level of the day care and nursing home. We identified two ongoing trials from trial registries. 

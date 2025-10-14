@@ -1,0 +1,12 @@
+Background
+Steroid‐sparing strategies have been attempted in recent decades to avoid morbidity from long‐term steroid intake among kidney transplant recipients. Previous systematic reviews of steroid withdrawal after kidney transplantation have shown a significant increase in acute rejection. There are various protocols to withdraw steroids after kidney transplantation and their possible benefits or harms are subject to systematic review. This is an update of a review first published in 2009. 
+Objectives
+To evaluate the benefits and harms of steroid withdrawal or avoidance for kidney transplant recipients. 
+Search methods
+We searched the Cochrane Kidney and Transplant Specialised Register to 15 February 2016 through contact with the Information Specialist using search terms relevant to this review. 
+Selection criteria
+All randomised and quasi‐randomised controlled trials (RCTs) in which steroids were avoided or withdrawn at any time point after kidney transplantation were included. 
+Data collection and analysis
+Assessment of risk of bias and data extraction was performed by two authors independently and disagreement resolved by discussion. Statistical analyses were performed using the random‐effects model and dichotomous outcomes were reported as relative risk (RR) and continuous outcomes as mean difference (MD) with 95% confidence intervals. 
+Main results
+We included 48 studies (224 reports) that involved 7803 randomised participants. Of these, three studies were conducted in children (346 participants). The 2009 review included 30 studies (94 reports, 5949 participants). Risk of bias was assessed as low for sequence generation in 19 studies and allocation concealment in 14 studies. Incomplete outcome data were adequately addressed in 22 studies and 37 were free of selective reporting. 

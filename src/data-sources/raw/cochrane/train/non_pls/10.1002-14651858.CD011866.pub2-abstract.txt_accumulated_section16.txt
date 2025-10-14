@@ -1,0 +1,16 @@
+Background
+Psychostimulant misuse is a continuously growing medical and social burden. There is no evidence proving the efficacy of pharmacotherapy. Psychosocial interventions could be a valid approach to help patients in reducing or ceasing drug consumption. 
+Objectives
+To assess the effects of psychosocial interventions for psychostimulant misuse in adults. 
+Search methods
+We searched the Cochrane Drugs and Alcohol Group Specialised Register (via CRSLive); Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; CINAHL; Web of Science and PsycINFO, from inception to November 2015. We also searched for ongoing and unpublished studies via ClinicalTrials.gov (www.clinicaltrials.gov) and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (apps.who.int/trialsearch/). 
+All searches included non‐English language literature. We handsearched references of topic‐related systematic reviews and the included studies. 
+Selection criteria
+We included randomised controlled trials comparing any psychosocial intervention with no intervention, treatment as usual (TAU) or a different intervention in adults with psychostimulant misuse or dependence. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane.
+Main results
+We included a total of 52 trials (6923 participants).
+The psychosocial interventions considered in the studies were: cognitive behavioural therapy (19 studies), contingency management (25 studies), motivational interviewing (5 studies), interpersonal therapy (3 studies), psychodynamic therapy (1 study), 12‐step facilitation (4 studies). 
+We judged most of the studies to be at unclear risk of selection bias; blinding of personnel and participants was not possible for the type of intervention, so all the studies were at high risk of performance bias with regard to subjective outcomes; the majority of studies did not specify whether the outcome assessors were blind. We did not consider it likely that the objective outcomes were influenced by lack of blinding. 
+The comparisons made were: any psychosocial intervention versus no intervention (32 studies), any psychosocial intervention versus TAU (6 studies), and one psychosocial intervention versus an alternative psychosocial intervention (13 studies). Five of included studies did not provide any useful data for inclusion in statistical synthesis. 

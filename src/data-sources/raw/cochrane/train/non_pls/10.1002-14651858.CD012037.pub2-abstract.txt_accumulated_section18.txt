@@ -1,0 +1,18 @@
+Background
+Gestational diabetes mellitus (GDM) is associated with short‐ and long‐term complications for the mother and her infant. Women who are unable to maintain their blood glucose concentration within pre‐specified treatment targets with diet and lifestyle interventions will require anti‐diabetic pharmacological therapies. This review explores the safety and effectiveness of insulin compared with oral anti‐diabetic pharmacological therapies, non‐pharmacological interventions and insulin regimens. 
+Objectives
+To evaluate the effects of insulin in treating women with gestational diabetes.
+Search methods
+We searched Pregnancy and Childbirth's Trials Register (1 May 2017), ClinicalTrials.gov, WHO International Clinical Trials Registry Platform (ICTRP) (1 May 2017) and reference lists of retrieved studies. 
+Selection criteria
+We included randomised controlled trials (including those published in abstract form) comparing: 
+a) insulin with an oral anti‐diabetic pharmacological therapy;
+b) with a non‐pharmacological intervention;
+c) different insulin analogues;
+d) different insulin regimens for treating women with diagnosed with GDM.
+We excluded quasi‐randomised and trials including women with pre‐existing type 1 or type 2 diabetes. Cross‐over trials were not eligible for inclusion. 
+Data collection and analysis
+Two review authors independently assessed study eligibility, risk of bias, and extracted data. Data were checked for accuracy. 
+Main results
+We included 53 relevant studies (103 publications), reporting data for 7381 women. Forty‐six of these studies reported data for 6435 infants but our analyses were based on fewer number of studies/participants. 
+Overall, the risk of bias was unclear; 40 of the 53 included trials were not blinded. Overall, the quality of the evidence ranged from moderate to very low quality. The primary reasons for downgrading evidence were imprecision, risk of bias and inconsistency. We report the results for our maternal and infant GRADE outcomes for the main comparison. 

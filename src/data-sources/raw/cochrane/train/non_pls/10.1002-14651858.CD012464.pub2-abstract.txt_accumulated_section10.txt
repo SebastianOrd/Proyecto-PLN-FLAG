@@ -1,0 +1,10 @@
+Background
+The presence of deleterious mutations in breast cancer 1 gene (BRCA1) or breast cancer 2 gene (BRCA2) significantly increases the risk of developing some cancers, such as breast and high‐grade serous cancer (HGSC) of ovarian, tubal and peritoneal origin. Risk‐reducing salpingo‐oophorectomy (RRSO) is usually recommended to BRCA1 or BRCA2 carriers after completion of childbearing. Despite prior systematic reviews and meta‐analyses on the role of RRSO in reducing the mortality and incidence of breast, HGSC and other cancers, RRSO is still an area of debate and it is unclear whether RRSO differs in effectiveness by type of mutation carried. 
+Objectives
+To assess the benefits and harms of RRSO in women with BRCA1 or BRCA2 mutations.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 7) in The Cochrane Library, MEDLINE Ovid, Embase Ovid and trial registries, with no language restrictions up to July 2017. We handsearched abstracts of scientific meetings and other relevant publications. 
+Selection criteria
+We included non‐randomised trials (NRS), prospective and retrospective cohort studies, and case series that used statistical adjustment for baseline case mix using multivariable analyses comparing RRSO versus no RRSO in women without a previous or coexisting breast, ovarian or fallopian tube malignancy, in women with or without hysterectomy, and in women with a risk‐reducing mastectomy (RRM) before, with or after RRSO. 
+Data collection and analysis
+We extracted data and performed meta‐analyses of hazard ratios (HR) for time‐to‐event variables and risk ratios (RR) for dichotomous outcomes, with 95% confidence intervals (CI). To assess bias in the studies, we used the ROBINS‐I 'Risk of bias' assessment tool. We quantified inconsistency between studies by estimating the I2 statistic. We used random‐effects models to calculate pooled effect estimates. 

@@ -1,0 +1,14 @@
+Background
+Early discharge hospital at home is a service that provides active treatment by healthcare professionals in the patient's home for a condition that otherwise would require acute hospital inpatient care. This is an update of a Cochrane review. 
+Objectives
+To determine the effectiveness and cost of managing patients with early discharge hospital at home compared with inpatient hospital care. 
+Search methods
+We searched the following databases to 9 January 2017: the Cochrane Effective Practice and Organisation of Care Group (EPOC) register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, and EconLit. We searched clinical trials registries. 
+Selection criteria
+Randomised trials comparing early discharge hospital at home with acute hospital inpatient care for adults. We excluded obstetric, paediatric and mental health hospital at home schemes.   
+Data collection and analysis
+We followed the standard methodological procedures expected by Cochrane and EPOC. We used the GRADE approach to assess the certainty of the body of evidence for the most important outcomes. 
+Main results
+We included 32 trials (N = 4746), six of them new for this update, mainly conducted in high‐income countries. We judged most of the studies to have a low or unclear risk of bias. The intervention was delivered by hospital outreach services (17 trials), community‐based services (11 trials), and was co‐ordinated by a hospital‐based stroke team or physician in conjunction with community‐based services in four trials. 
+Studies recruiting people recovering from stroke
+Early discharge hospital at home probably makes little or no difference to mortality at three to six months (risk ratio (RR) 0.92, 95% confidence interval (CI) 0.57 to 1.48, N = 1114, 11 trials, moderate‐certainty evidence) and may make little or no difference to the risk of hospital readmission (RR 1.09, 95% CI 0.71 to 1.66, N = 345, 5 trials, low‐certainty evidence). Hospital at home may lower the risk of living in institutional setting at six months (RR 0.63, 96% CI 0.40 to 0.98; N = 574, 4 trials, low‐certainty evidence) and might slightly improve patient satisfaction (N = 795, low‐certainty evidence). Hospital at home probably reduces hospital length of stay, as moderate‐certainty evidence found that people assigned to hospital at home are discharged from the intervention about seven days earlier than people receiving inpatient care (95% CI 10.19 to 3.17 days earlier, N = 528, 4 trials). It is uncertain whether hospital at home has an effect on cost (very low‐certainty evidence). 

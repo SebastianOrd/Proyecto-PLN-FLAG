@@ -1,0 +1,12 @@
+Background
+Fetal movement counting is a method by which a woman quantifies the movements she feels to assess the condition of her baby. The purpose is to try to reduce perinatal mortality by alerting caregivers when the baby might be compromised. This method may be used routinely, or only in women who are considered at increased risk of complications affecting the baby. Fetal movement counting may allow the clinician to make appropriate interventions in good time to improve outcomes. On the other hand, fetal movement counting may cause unnecessary anxiety to pregnant women, or elicit unnecessary interventions. 
+Objectives
+To assess outcomes of pregnancy where fetal movement counting was done routinely, selectively or was not done at all; and to compare different methods of fetal movement counting. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 May 2015) and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) and cluster‐RCTs where fetal movement counting was assessed as a method of monitoring fetal wellbeing. 
+Data collection and analysis
+Two review authors assessed studies for eligibility, assessed the methodological quality of included studies and independently extracted data from studies. Where possible the effects of interventions were compared using risk ratios (RR), and presented with 95% confidence intervals (CI). For some outcomes, the quality of the evidence was assessed using the GRADE approach. 
+Main results
+Five studies (71,458 women) were included in this review; 68,654 in one cluster‐RCT. None of these five trials were assessed as having low risk of bias on all seven risk of bias criteria. All included studies except for one (which included high‐risk women as participants) included women with uncomplicated pregnancies.Two studies compared fetal movement counting with standard care, as defined by trial authors. Two included studies compared two types of fetal movement counting; once a day fetal movement counting (Cardiff count‐to‐10) with more than once a day fetal movement counting methods. One study compared fetal movement counting with hormone assessment. 

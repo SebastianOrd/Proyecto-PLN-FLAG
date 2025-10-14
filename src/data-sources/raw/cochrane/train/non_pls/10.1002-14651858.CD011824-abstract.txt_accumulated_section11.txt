@@ -1,0 +1,11 @@
+Background
+This is an updated version of the original Cochrane review published in Issue 12, 2012. That review considered both fibromyalgia and neuropathic pain, but the efficacy of amitriptyline for neuropathic pain is now dealt with in a separate review. 
+Amitriptyline is a tricyclic antidepressant that is widely used to treat fibromyalgia, and is recommended in many guidelines. It is usually used at doses below those at which the drugs act as antidepressants. 
+Objectives
+To assess the analgesic efficacy of amitriptyline for relief of fibromyalgia, and the adverse events associated with its use in clinical trials. 
+Search methods
+We searched CENTRAL, MEDLINE, and EMBASE to March 2015, together with reference lists of retrieved papers, previous systematic reviews and other reviews, and two clinical trial registries. We also used our own hand searched database for older studies. 
+Selection criteria
+We included randomised, double‐blind studies of at least four weeks' duration comparing amitriptyline with placebo or another active treatment in fibromyalgia. 
+Data collection and analysis
+We extracted efficacy and adverse event data, and two study authors examined issues of study quality independently. We performed analysis using three tiers of evidence. First tier evidence derived from data meeting current best standards and subject to minimal risk of bias (outcome equivalent to substantial pain intensity reduction, intention‐to‐treat analysis without imputation for dropouts; at least 200 participants in the comparison, 8 to 12 weeks duration, parallel design), second tier from data that failed to meet one or more of these criteria and were considered at some risk of bias but with adequate numbers in the comparison, and third tier from data involving small numbers of participants that were considered very likely to be biased or used outcomes of limited clinical utility, or both. 

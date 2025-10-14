@@ -1,0 +1,12 @@
+Background
+Benzodiazepines (BZDs) have a sedative and hypnotic effect upon people. Short term use can be beneficial but long term BZD use is common, with several risks in addition to the potential for dependence in both opiate and non‐opiate dependent patients. 
+Objectives
+To evaluate the effectiveness of psychosocial interventions for treating BZD harmful use, abuse or dependence compared to pharmacological interventions, no intervention, placebo or a different psychosocial intervention on reducing the use of BZDs in opiate dependent and non‐opiate dependent groups. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL‐ the Cochrane Library issue 12, 2014) which includes the Cochrane Drugs and Alcohol Group Specialized Register; PubMed (from 1966 to December 2014); EMBASE (from 1988 to December 2014); CINAHL Cumulative Index to Nursing and Allied Health Literature (1982 to September 2013); PsychINFO (1872 to December 2014); ERIC (Education Resources Information Centre, (January 1966 to September 2013); All EBM Reviews (1991 to September 2013, Ovid Interface); AMED (Allied & Alternative Medicine) 1985 to September 2013); ASSIA (Applied Social Sciences Index & Abstracts (1960 to September 2013); LILACS (January 1982 to September 2013); Web of Science (1900 to December 2014); Electronic Grey Literature Databases: Dissertation Abstract; Index to Theses. 
+Selection criteria
+Randomised controlled trials examining the use of a psychosocial intervention to treat BZDs versus pharmacological interventions, no intervention, placebo or a different psychosocial intervention on reducing the use of BZDs in opiate dependent and non‐opiate dependent groups. 
+Data collection and analysis
+We used the standard methodological procedures outlined in Cochrane Guidelines.
+Main results
+Twenty‐five studies including 1666 people met the inclusion criteria. The studies tested many different psychosocial interventions including cognitive behavioural therapy (CBT) (some studies with taper, other studies with no taper), motivational interviewing (MI), letters to patients advising them to reduce or quit BZD use, relaxation studies, counselling delivered electronically and advice provided by a general practitioner (GP). Based on the data obtained, we performed two meta‐analyses in this Cochrane review: one assessing the effectiveness of CBT plus taper versus taper only (575 participants), and one assessing MI versus treatment as usual (TAU) (80 participants). 

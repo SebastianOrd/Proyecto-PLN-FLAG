@@ -1,0 +1,11 @@
+Background
+Gestational diabetes is a type of diabetes that occurs during pregnancy. Women with gestational diabetes are more likely to experience adverse health outcomes such as pre‐eclampsia or polyhydramnios (excess amniotic fluid). Their babies are also more likely to have health complications such as macrosomia (birthweight > 4000 g) and being large‐for‐gestational age (birthweight above the 90th percentile for gestational age). Current clinical guidelines support elective birth, at or near term in women with gestational diabetes to minimise perinatal complications, especially those related to macrosomia. 
+This review replaces a review previously published in 2001 that included "diabetic pregnant women", which has now been split into two reviews. This current review focuses on pregnant women with gestational diabetes and a sister review focuses on women with pre‐existing diabetes (Type 1 or Type 2). 
+Objectives
+To assess the effect of planned birth (either by induction of labour or caesarean birth), at or near term (37 to 40 weeks' gestation) compared with an expectant approach for improving health outcomes for women with gestational diabetes and their infants. The primary outcomes relate to maternal and perinatal mortality and morbidity. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) (15 August 2017), and reference lists of retrieved studies. 
+Selection criteria
+We included randomised trials comparing planned birth, at or near term (37 to 40 weeks' gestation), with an expectant approach, for women with gestational diabetes. Cluster‐randomised and non‐randomised trials (e.g. quasi‐randomised trials using alternate allocation) were also eligible for inclusion but none were identified. 
+Data collection and analysis
+Two of the review authors independently assessed study eligibility, extracted data and assessed the risk of bias of the included study. The quality of the evidence was assessed using the GRADE approach. 

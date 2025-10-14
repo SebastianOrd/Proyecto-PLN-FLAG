@@ -1,0 +1,11 @@
+Background
+Tobacco control is a top public health priority around the globe due to the high prevalence of cigarette smoking and its associated morbidity and mortality. Much effort has been focused on establishing the effectiveness of different smoking cessation strategies. This review, however, aims to address the initial challenge faced by smoking cessation programmes: recruitment of smokers. 
+Objectives
+The primary objective of this review was to determine the effectiveness of different strategies for recruiting smokers into cessation programmes. The secondary objective was to determine the impact that these strategies had on smoking cessation rates at least six months after enrolment into a cessation programme. 
+Search methods
+We searched the specialised register of the Cochrane Tobacco Addiction Group using a search strategy which included the terms ('recruit$', 'invit$', 'enter', 'entry', 'enrolment') combined with ('smok$', 'cigarette', 'smoking cessation', 'tobacco') in the title, abstract or keyword fields. We searched MEDLINE, EMBASE, the Cochrane Central Register of Controlled Trials (CENTRAL), and registers of current and ongoing trials. We also searched the reference lists of included studies. 
+Selection criteria
+We included randomised controlled trials and cluster randomised controlled trials that compared at least two different methods of recruiting current smokers into a smoking cessation programme. We also included those studies which focused on the effectiveness of a smoking cessation programme as long as the study involved multiple recruitment methods and reported results of the recruitment phase. 
+Data collection and analysis
+From each included study, we extracted data on the type of participants, type of recruitment strategies (i.e., setting, mode of communication used, intensity and duration) and comparisons, and on randomisation, allocation concealment, and blinding procedures. 
+Our primary outcome was the proportion of smokers successfully recruited to each cessation programme compared to alternative modalities of recruitment. Our secondary outcome was smoking cessation for at least six months. Given the substantial heterogeneity across recruitment interventions and participants, we adopted a narrative synthesis approach for summarising results. 

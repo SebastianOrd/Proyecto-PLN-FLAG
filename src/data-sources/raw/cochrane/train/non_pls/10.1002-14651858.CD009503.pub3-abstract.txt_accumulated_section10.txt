@@ -1,0 +1,10 @@
+Background
+Primary percutaneous coronary intervention (PPCI) is the preferred treatment for ST‐segment elevation myocardial infarction. Although coronary flow is restored after PPCI, impaired myocardial perfusion (known as no‐reflow) related to poor clinical outcomes is frequently observed. To overcome this phenomenon, drugs, such as atorvastatin, abciximab and others, have been tried as adjunctive treatment to PPCI. Among these drugs, verapamil and adenosine are among the most promising. No other systematic reviews have examined use of these two drugs in people with acute myocardial infarction (AMI) undergoing PPCI. This is an update of the version previously published (2013, Issue 6), for which the people of interest in the review were those treated with PPCI ‐ not those given fibrinolytic therapy. 
+Objectives
+To study the impact of adenosine and verapamil on no‐reflow during PPCI in people with AMI. 
+Search methods
+We updated searches of the following databases in June 2014 without language restriction: the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, Web of Science and BIOSIS, China National Knowledge Infrastructure and clinical trials registers (ClinicalTrials.gov, Current Controlled Trials, Australian and New Zealand Clinical Trials Registry, the World Health Organization (WHO) International Clinical Trials Registry Platform). We also handsearched The American Journal of Cardiology. 
+Selection criteria
+We selected randomised controlled trials (RCTs) in which adenosine or verapamil was the primary intervention. Participants were individuals diagnosed with AMI who were undergoing PPCI. 
+Data collection and analysis
+Two review authors collected studies and extracted data. When necessary, we contacted trial authors to obtain relevant information. We calculated risk ratios (RRs), P values and 95% confidence intervals (CIs) of dichotomous data. 

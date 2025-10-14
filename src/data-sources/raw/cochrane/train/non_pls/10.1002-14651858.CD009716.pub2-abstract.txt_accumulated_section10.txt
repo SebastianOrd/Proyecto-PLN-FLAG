@@ -1,0 +1,10 @@
+Background
+Stroke is a leading cause of morbidity and mortality worldwide. Antiplatelet agents are considered to be the cornerstone for secondary prevention of stroke, but the role of using multiple antiplatelet agents early after stroke or transient ischaemic attack (TIA) to improve outcomes has not been established. 
+Objectives
+To determine the effectiveness and safety of initiating, within 72 hours after an ischaemic stroke or TIA, multiple antiplatelet agents versus fewer antiplatelet agents to prevent stroke recurrence. The analysis explores the evidence for different drug combinations. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched 6 July 2020), the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 7 of 12, 2020) (last searched 6 July 2020), MEDLINE Ovid (from 1946 to 6 July 2020), Embase (1980 to 6 July 2020), ClinicalTrials.gov, and the WHO ICTRP. We also searched the reference lists of identified studies and reviews and used the Science Citation Index Cited Reference search for forward tracking of included studies. 
+Selection criteria
+We selected all randomised controlled trials (RCTs) that compared the use of multiple versus fewer antiplatelet agents initiated within 72 hours after stroke or TIA. 
+Data collection and analysis
+We extracted data from eligible studies for the primary outcomes of stroke recurrence and vascular death, and secondary outcomes of myocardial infarction; composite outcome of stroke, myocardial infarction, and vascular death; intracranial haemorrhage; extracranial haemorrhage; ischaemic stroke; death from all causes; and haemorrhagic stroke. We computed an estimate of treatment effect and performed a test for heterogeneity between trials. We analysed data on an intention‐to‐treat basis and assessed bias for all studies. We rated the certainty of the evidence using the GRADE approach. 

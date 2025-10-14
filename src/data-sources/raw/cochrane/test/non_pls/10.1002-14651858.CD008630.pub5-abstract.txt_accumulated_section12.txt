@@ -1,0 +1,12 @@
+Background
+Plasma exchange and intravenous immunoglobulin, but not corticosteroids, are beneficial in Guillain‐Barré syndrome (GBS). The efficacy of other pharmacological agents is unknown. This review was first published in 2011 and previously updated in 2013, and 2016. 
+Objectives
+To assess the effects of pharmacological agents other than plasma exchange, intravenous immunoglobulin and corticosteroids for GBS. 
+Search methods
+On 28 October 2019, we searched the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, and Embase for treatments for GBS. We also searched clinical trials registries. 
+Selection criteria
+We included all randomised controlled trials (RCTs) or quasi‐RCTs of acute GBS (within four weeks from onset) of all types and degrees of severity, and in individuals of all ages. We discarded trials that investigated only corticosteroids, intravenous immunoglobulin or plasma exchange. We included other pharmacological treatments or combinations of treatments compared with no treatment, placebo or another treatment. 
+Data collection and analysis
+We followed standard Cochrane methodology.
+Main results
+We found six trials of five different interventions eligible for inclusion in this review. The trials were conducted in hospitals in Canada, China, Germany, Japan and the UK, and included 151 participants in total. All trials randomised participants aged 16 years and older (mean or median age in the trials ranged from 36 to 57 years in the intervention groups and 34 to 60 years in the control groups) with severe GBS, defined by the inability to walk unaided. One trial also randomised patients with mild GBS who were still able to walk unaided. We identified two new trials at this update.The primary outcome measure for this review was improvement in disability grade four weeks after randomisation. Four of six trials had a high risk of bias in at least one respect. 

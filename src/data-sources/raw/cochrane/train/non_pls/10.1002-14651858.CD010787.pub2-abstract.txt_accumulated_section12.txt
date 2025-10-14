@@ -1,0 +1,12 @@
+Background
+Bilateral neck exploration (BNE) is the traditional approach to sporadic primary hyperparathyroidism. With the availability of the preoperative imaging techniques and intraoperative parathyroid hormone assays, minimally invasive parathyroidectomy (MIP) is fast becoming the favoured surgical approach. 
+Objectives
+To assess the effects of minimally invasive parathyroidectomy (MIP) guided by preoperative imaging and intraoperative parathyroid hormone monitoring versus bilateral neck exploration (BNE) for the surgical management of primary hyperparathyroidism. 
+Search methods
+We searched CENTRAL, MEDLINE, WHO ICTRP and ClinicalTrials.gov. The date of the last search of all databases was 21 October 2019. There were no language restrictions applied. 
+Selection criteria
+We included randomised controlled trials comparing MIP to BNE for the treatment of sporadic primary hyperparathyroidism in persons undergoing surgery for the first time. 
+Data collection and analysis
+Two review authors independently screened titles and abstracts for relevance. Two review authors independently screened for inclusion, extracted data and carried out risk of bias assessment. The content expert senior author resolved conflicts. We assessed studies for overall certainty of the evidence using the GRADE instrument. We conducted meta‐analyses using a random‐effects model and performed statistical analyses according to the guidelines in the latest version of the Cochrane Handbook for Systematic Reviews of Interventions. 
+Main results
+We identified five eligible studies, all conducted in European university hospitals. They included 266 adults, 136 participants were randomised to MIP and 130 participants to BNE. Data were available for all participants post‐surgery up to one year, with the exception of missing data for two participants in the MIP group and for one participant in the BNE group at one year. Nine participants in the MIP group and 11 participants in the BNE group had missing data at five years. No study had a low risk of bias in all risk of bias domains. 

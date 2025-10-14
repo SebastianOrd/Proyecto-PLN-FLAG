@@ -1,0 +1,10 @@
+Background
+Over 35 million people are estimated to be living with dementia in the world and the societal costs are very high. Case management is a widely used and strongly promoted complex intervention for organising and co‐ordinating care at the level of the individual, with the aim of providing long‐term care for people with dementia in the community as an alternative to early admission to a care home or hospital. 
+Objectives
+To evaluate the effectiveness of case management approaches to home support for people with dementia, from the perspective of the different people involved (patients, carers, and staff) compared with other forms of treatment, including ‘treatment as usual’, standard community treatment and other non‐case management interventions. 
+Search methods
+We searched the following databases up to 31 December 2013: ALOIS, the Specialised Register of the Cochrane Dementia and Cognitive Improvement Group,The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS, Web of Science (including Science Citation Index Expanded (SCI‐EXPANDED) and Social Science Citation Index), Campbell Collaboration/SORO database and the Specialised Register of the Cochrane Effective Practice and Organisation of Care Group. We updated this search in March 2014 but results have not yet been incorporated. 
+Selection criteria
+We include randomised controlled trials (RCTs) of case management interventions for people with dementia living in the community and their carers. We screened interventions to ensure that they focused on planning and co‐ordination of care. 
+Data collection and analysis
+We used standard methodological procedures as required by The Cochrane Collaboration. Two review authors independently extracted data and made 'Risk of bias' assessments using Cochrane criteria. For continuous outcomes, we used the mean difference (MD) or standardised mean difference (SMD) between groups along with its confidence interval (95% CI). We applied a fixed‐ or random‐effects model as appropriate. For binary or dichotomous data, we generated the corresponding odds ratio (OR) with 95% CI. We assessed heterogeneity by the I² statistic. 

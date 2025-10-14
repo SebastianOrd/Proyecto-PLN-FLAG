@@ -1,0 +1,10 @@
+Background
+People with diabetes are at high risk for developing foot ulcers, which often become infected. These wounds, especially when infected, cause substantial morbidity. Wound treatments should aim to alleviate symptoms, promote healing, and avoid adverse outcomes, especially lower extremity amputation. Topical antimicrobial therapy has been used on diabetic foot ulcers, either as a treatment for clinically infected wounds, or to prevent infection in clinically uninfected wounds. 
+Objectives
+To evaluate the effects of treatment with topical antimicrobial agents on: the resolution of signs and symptoms of infection; the healing of infected diabetic foot ulcers; and preventing infection and improving healing in clinically uninfected diabetic foot ulcers. 
+Search methods
+We searched the Cochrane Wounds Specialised Register, CENTRAL, Ovid MEDLINE, Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations), Ovid Embase, and EBSCO CINAHL Plus in August 2016. We also searched clinical trials registries for ongoing and unpublished studies, and checked reference lists to identify additional studies. We used no restrictions with respect to language, date of publication, or study setting. 
+Selection criteria
+We included randomised controlled trials conducted in any setting (inpatient or outpatient) that evaluated topical treatment with any type of solid or liquid (e.g., cream, gel, ointment) antimicrobial agent, including antiseptics, antibiotics, and antimicrobial dressings, in people with diabetes mellitus who were diagnosed with an ulcer or open wound of the foot, whether clinically infected or uninfected. 
+Data collection and analysis
+Two review authors independently performed study selection, 'Risk of bias' assessment, and data extraction. Initial disagreements were resolved by discussion, or by including a third review author when necessary. 

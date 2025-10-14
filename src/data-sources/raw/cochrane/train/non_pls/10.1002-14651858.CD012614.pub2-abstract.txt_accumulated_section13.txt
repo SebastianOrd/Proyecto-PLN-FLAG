@@ -1,0 +1,13 @@
+Background
+Tinnitus affects up to 21% of the adult population with an estimated 1% to 3% experiencing severe problems. Cognitive behavioural therapy (CBT) is a collection of psychological treatments based on the cognitive and behavioural traditions in psychology and often used to treat people suffering from tinnitus. 
+Objectives
+To assess the effects and safety of CBT for tinnitus in adults.
+Search methods
+The Cochrane ENT Information Specialist searched the ENT Trials Register; CENTRAL (2019, Issue 11); Ovid MEDLINE; Ovid Embase; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 25 November 2019. 
+Selection criteria
+Randomised controlled trials (RCTs) of CBT versus no intervention, audiological care, tinnitus retraining therapy or any other active treatment in adult participants with tinnitus. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. Our primary outcomes were the impact of tinnitus on disease‐specific quality of life and serious adverse effects. Our secondary outcomes were: depression, anxiety, general health‐related quality of life, negatively biased interpretations of tinnitus and other adverse effects. We used GRADE to assess the certainty of evidence for each outcome. 
+Main results
+We included 28 studies (mostly from Europe) with a total of 2733 participants. All participants had had tinnitus for at least three months and their average age ranged from 43 to 70 years. The duration of the CBT ranged from 3 to 22 weeks and it was mostly conducted in hospitals or online. 
+There were four comparisons and we were interested in outcomes at end of treatment, and 6 and 12 months follow‐up. The results below only refer to outcomes at end of treatment due to an absence of evidence at the other follow‐up time points. 

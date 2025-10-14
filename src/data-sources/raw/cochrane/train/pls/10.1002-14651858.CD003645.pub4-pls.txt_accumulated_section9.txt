@@ -1,0 +1,9 @@
+Positioning for hospitalised infants and children with acute respiratory distress
+Review question 
+We investigated whether there was a difference in the outcomes for infants and young children with acute respiratory distress syndrome (ARDS) on artificial ventilation who were positioned lying on their abdomen (the prone position), compared to lying on their back (the supine position), or on their side. 
+Background 
+ARDS is one of the most frequent causes of hospitalisation and death in infants and young children globally. When children with severe respiratory distress are hospitalised, treatment may include additional oxygen, with or without assisted ventilation. These attempts to increase oxygenation may damage the lungs. Infants and children with respiratory distress placed in particular positions may be more comfortable, breathe more easily, and have better outcomes. However, different positions may also increase the risk of adverse outcomes, such as obstruction of the endotracheal tube (the tube that connects the person to a ventilator), and accidental extubation (removal of the tube). To find out if this was the case, we searched the literature to identify randomised controlled trials (RCTs) and quasi‐RCTs comparing two or more body positions for managing infants and children hospitalised with ARDS. 
+Search date 
+Our evidence is current to 26 July 2021.
+Study characteristics 
+We included six trials, with a total of 198 participants aged from four weeks to 16 years. The majority were on mechanical ventilators. The timing of interventions ranged from 15 minutes after the child had been settled in a hospital bed, to a maximum of seven days over the duration of the intervention. Only a small number (n = 15) of the children did not have their breathing supported by a ventilator. 

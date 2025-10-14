@@ -1,0 +1,12 @@
+Background
+Symptomatic peripheral arterial disease (PAD) has several treatment options, including angioplasty, stenting, exercise therapy, and bypass surgery. Atherectomy is an alternative procedure, in which atheroma is cut or ground away within the artery. This is the first update of a Cochrane Review published in 2014. 
+Objectives
+To evaluate the effectiveness of atherectomy for peripheral arterial disease compared to other established treatments. 
+Search methods
+The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, Cumulative Index to Nursing and Allied Health Literature (CINAHL) and Allied and Complementary Medicine (AMED) databases, and the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers to 12 August 2019. 
+Selection criteria
+We included all randomised controlled trials that compared atherectomy with other established treatments. All participants had symptomatic PAD with either claudication or critical limb ischaemia and evidence of lower limb arterial disease. 
+Data collection and analysis
+Two review authors screened studies for inclusion, extracted data, assessed risk of bias and used GRADE criteria to assess the certainty of the evidence. We resolved any disagreements through discussion. Outcomes of interest were: primary patency (at six and 12 months), all‐cause mortality, fatal and non‐fatal cardiovascular events, initial technical failure rates, target vessel revascularisation rates (TVR; at six and 12 months); and complications. 
+Main results
+We included seven studies, with a total of 527 participants and 581 treated lesions. We found two comparisons: atherectomy versus balloon angioplasty (BA) and atherectomy versus BA with primary stenting. No studies compared atherectomy with bypass surgery. Overall, the evidence from this review was of very low certainty, due to a high risk of bias, imprecision and inconsistency. 

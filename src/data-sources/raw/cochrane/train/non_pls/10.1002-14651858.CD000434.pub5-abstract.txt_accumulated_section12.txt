@@ -1,0 +1,12 @@
+Background
+Fractures of the proximal humerus, often termed shoulder fractures, are common injuries, especially in older people. The management of these fractures varies widely, including in the use of surgery. This is an update of a Cochrane Review first published in 2001 and last updated in 2015. 
+Objectives
+To assess the effects (benefits and harms) of treatment and rehabilitation interventions for proximal humeral fractures in adults. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, trial registries, and bibliographies of trial reports and systematic reviews to September 2020. We updated this search in November 2021, but have not yet incorporated these results. 
+Selection criteria
+We included randomised and quasi‐randomised controlled trials that compared non‐pharmacological interventions for treating acute proximal humeral fractures in adults.  
+Data collection and analysis
+Pairs of review authors independently selected studies, assessed risk of bias and extracted data. We pooled data where appropriate and used GRADE for assessing the certainty of evidence for each outcome. We prepared a brief economic commentary for one comparison. 
+Main results
+We included 47 trials (3179 participants, mostly women and mainly aged 60 years or over) that tested one of 26 comparisons. Six comparisons were tested by 2 to 10 trials, the others by small single‐centre trials only. Twelve studies evaluated non‐surgical treatments, 10 compared surgical with non‐surgical treatments, 23 compared two methods of surgery, and two tested timing of mobilisation after surgery. Most trials were at high risk of bias, due mainly to lack of blinding. We summarise the findings for four key comparisons below. 

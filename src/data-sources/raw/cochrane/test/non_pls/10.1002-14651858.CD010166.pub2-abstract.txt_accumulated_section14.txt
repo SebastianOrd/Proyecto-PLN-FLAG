@@ -1,0 +1,14 @@
+Background
+Excess dietary sodium consumption is a risk factor for high blood pressure, stroke and cardiovascular disease. Currently, dietary sodium consumption in almost every country is too high. Excess sodium intake is associated with high blood pressure, which is common and costly and accounts for significant burden of disease. A large number of jurisdictions worldwide have implemented population‐level dietary sodium reduction initiatives. No systematic review has examined the impact of these initiatives. 
+Objectives
+• To assess the impact of population‐level interventions for dietary sodium reduction in government jurisdictions worldwide. 
+• To assess the differential impact of those initiatives by social and economic indicators.
+Search methods
+We searched the following electronic databases from their start date to 5 January 2015: the Cochrane Central Register of Controlled Trials (CENTRAL); Cochrane Public Health Group Specialised Register; MEDLINE; MEDLINE In Process & Other Non‐Indexed Citations; EMBASE; Effective Public Health Practice Project Database; Web of Science; Trials Register of Promoting Health Interventions (TRoPHI) databases; and Latin American Caribbean Health Sciences Literature (LILACS). We also searched grey literature, other national sources and references of included studies. 
+This review was conducted in parallel with a comprehensive review of national sodium reduction efforts under way worldwide (Trieu 2015), through which we gained additional information directly from country contacts. 
+We imposed no restrictions on language or publication status.
+Selection criteria
+We included population‐level initiatives (i.e. interventions that target whole populations, in this case, government jurisdictions, worldwide) for dietary sodium reduction, with at least one pre‐intervention data point and at least one post‐intervention data point of comparable jurisdiction. We included populations of all ages and the following types of study designs: cluster‐randomised, controlled pre‐post, interrupted time series and uncontrolled pre‐post. We contacted study authors at different points in the review to ask for missing information. 
+Data collection and analysis
+Two review authors extracted data, and two review authors assessed risk of bias for each included initiative. 
+We analysed the impact of initiatives by using estimates of sodium consumption from dietary surveys or urine samples. All estimates were converted to a common metric: salt intake in grams per day. We analysed impact by computing the mean change in salt intake (grams per day) from pre‐intervention to post‐intervention. 

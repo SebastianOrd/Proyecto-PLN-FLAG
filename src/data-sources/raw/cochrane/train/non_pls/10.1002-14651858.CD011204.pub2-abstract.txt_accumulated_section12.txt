@@ -1,0 +1,12 @@
+Background
+Cardiovascular (CV) disease is the leading cause of death in dialysis patients, and strongly associated with fluid overload and hypertension. It is plausible that low dialysate [Na+] may decrease total body sodium content, thereby reducing fluid overload and hypertension, and ultimately reducing CV morbidity and mortality. 
+Objectives
+This review evaluated harms and benefits of using a low (< 138 mM) dialysate [Na+] for maintenance haemodialysis (HD) patients. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 7 August 2018 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+Randomised controlled trials (RCTs), both parallel and cross‐over, of low (< 138 mM) versus neutral (138 to 140 mM) or high (> 140 mM) dialysate [Na+] for maintenance HD patients were included. 
+Data collection and analysis
+Two investigators independently screened studies for inclusion and extracted data. Statistical analyses were performed using random effects models, and results expressed as risk ratios (RR) for dichotomous outcomes, and mean differences (MD) or standardised MD (SMD) for continuous outcomes, with 95% confidence intervals (CI). Confidence in the evidence was assessed using GRADE. 
+Main results
+We included 12 studies randomising 310 patients, with data available for 266 patients after dropout. All but one study evaluated a fixed concentration of low dialysate [Na+], and one profiled dialysate [Na+]. Three studies were parallel group, and the remaining nine cross‐over. Of the latter, only two used a washout between intervention and control periods. Most studies were short‐term with a median (interquartile range) follow‐up of 3 (3, 8.5) weeks. Two were of a single HD session, and two of a single week's HD. Half of the studies were conducted prior to 2000, and five reported use of obsolete HD practices. Risks of bias in the included studies were often high or unclear, lowering confidence in the results. 

@@ -1,0 +1,9 @@
+Partial removal of skull (decompressive craniectomy) to lower treatment‐resistant high pressure in the skull and brain after traumatic brain injury 
+Review question 
+This Cochrane Review investigated the effects of a surgical procedure, decompressive craniectomy (DC), on survival and neurological (functional) outcomes for people who have a traumatic brain injury (TBI) that does not penetrate the skull, and high pressure inside the skull that does not respond to medical treatment. In DC part of the skull is removed so the brain has room to expand, and pressure inside the skull can decrease. We compared DC to conventional medical treatments in patients over 12 months old. 
+Background 
+The skull is a rigid bone 'box' that protects the brain. Consequently, if an injury causes the brain to swell, this leads to an increase in pressure within the skull. This excess pressure is known as high intracranial pressure (ICP), and is a frequent cause of death and disability in brain‐injured people. If ICP cannot be controlled using standard medical measures, then DC may be tried. DC is the surgical removal of a portion of the skull to relieve pressure on the brain. Clinicians are uncertain how effective it is, and do not agree on its role in treatment of TBI. 
+Search date 
+This evidence is current to December 2019.
+Study characteristics 
+We identified three relevant trials. One included 27 children (under 18 years); another trial was conducted in multiple sites and recruited 155 adults; and the third was conducted in 24 countries and recruited 408 participants (adolescents and adults). Each compared DC plus standard medical care against standard medical care alone. 

@@ -1,0 +1,10 @@
+Background
+Concerns regarding the safety of transfused blood have led to the development of a range of interventions to minimise blood loss during major surgery. Anti‐fibrinolytic drugs are widely used, particularly in cardiac surgery, and previous reviews have found them to be effective in reducing blood loss, the need for transfusion, and the need for re‐operation due to continued or recurrent bleeding. In the last few years questions have been raised regarding the comparative performance of the drugs. The safety of the most popular agent, aprotinin, has been challenged, and it was withdrawn from world markets in May 2008 because of concerns that it increased the risk of cardiovascular complications and death. 
+Objectives
+To assess the comparative effects of the anti‐fibrinolytic drugs aprotinin, tranexamic acid (TXA), and epsilon aminocaproic acid (EACA) on blood loss during surgery, the need for red blood cell (RBC) transfusion, and adverse events, particularly vascular occlusion, renal dysfunction, and death. 
+Search methods
+We searched: the Cochrane Injuries Group's Specialised Register (July 2010), Cochrane Central Register of Controlled Trials (The Cochrane Library 2010, Issue 3), MEDLINE (Ovid SP) 1950 to July 2010, EMBASE (Ovid SP) 1980 to July 2010. References in identified trials and review articles were checked and trial authors were contacted to identify any additional studies. The searches were last updated in July 2010. 
+Selection criteria
+Randomised controlled trials (RCTs) of anti‐fibrinolytic drugs in adults scheduled for non‐urgent surgery. Eligible trials compared anti‐fibrinolytic drugs with placebo (or no treatment), or with each other. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. This version of the review includes a sensitivity analysis excluding trials authored by Prof. Joachim Boldt. 

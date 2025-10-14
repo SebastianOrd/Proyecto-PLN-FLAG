@@ -1,0 +1,12 @@
+Background
+People experiencing psychosis may become aggressive. Antipsychotics, such as aripiprazole in intramuscular form, can be used in such situations. 
+Objectives
+To evaluate the effects of intramuscular aripiprazole in the treatment of psychosis‐induced aggression or agitation (rapid tranquillisation). 
+Search methods
+On 11 December 2014 and 11 April 2017, we searched the Cochrane Schizophrenia Group’s Study‐based Register of Trials which is based on regular searches of CINAHL, BIOSIS, AMED, Embase, PubMed, MEDLINE, PsycINFO, and registries of clinical trials. 
+Selection criteria
+All randomised controlled trials (RCTs) that randomised people with psychosis‐induced aggression or agitation to receive either intramuscular aripiprazole or another intramuscular intervention. 
+Data collection and analysis
+We independently inspected citations and, where possible, abstracts, ordered papers and re‐inspected and quality assessed these. We included studies that met our selection criteria. At least two review authors independently extracted data from the included studies. We chose a fixed‐effect model. We analysed dichotomous data using risk ratio (RR) and the 95% confidence intervals (CI). We analysed continuous data using mean differences (MD) and their CIs. We assessed risk of bias for included studies and used GRADE to create 'Summary of findings' tables. 
+Main results
+Searching found 63 records referring to 21 possible trials. We could only include three studies, all completed over the last decade, with 885 participants, of which 707 were included for quantitative analyses in this systematic review. Due to limited comparisons, small size of trials and a paucity of investigated and reported 'pragmatic' outcomes, evidence was mostly graded as low or very low quality. No trials reported useful data for one of our primary outcomes of tranquil or asleep by 30 minutes. Economic outcomes were also not reported in the trials. 

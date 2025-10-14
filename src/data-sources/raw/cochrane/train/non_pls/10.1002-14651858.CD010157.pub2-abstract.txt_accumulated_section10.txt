@@ -1,0 +1,10 @@
+Background
+Respiratory hazards are common in the workplace. Depending on the hazard and exposure, the health consequences may include: mild to life‐threatening illnesses from infectious agents, acute effects ranging from respiratory irritation to chronic lung conditions, or even cancer from exposure to chemicals or toxins. Use of respiratory protective equipment (RPE) is an important preventive measure in many occupational settings. RPE only offers protection when worn properly, when removed safely and when it is either replaced or maintained regularly. The effectiveness of behavioural interventions either directed at employers or organisations or directed at individual workers to promote RPE use in workers remains an important unanswered question. 
+Objectives
+To assess the effects of any behavioural intervention either directed at organisations or at individual workers on observed or self‐reported RPE use in workers when compared to no intervention or an alternative intervention. 
+Search methods
+We searched the Cochrane Work Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 07), MEDLINE (1980 to 12 August 2016), EMBASE (1980 to 20 August 2016) and CINAHL (1980 to 12 August 2016). 
+Selection criteria
+We included randomised controlled trials (RCTs), controlled before and after (CBA) studies and interrupted time‐series (ITS) comparing behavioural interventions versus no intervention or any other behavioural intervention to promote RPE use in workers. 
+Data collection and analysis
+Four authors independently selected relevant studies, assessed risk of bias and extracted data. We contacted investigators to clarify information. We pooled outcome data from included studies where the studies were sufficiently similar. 

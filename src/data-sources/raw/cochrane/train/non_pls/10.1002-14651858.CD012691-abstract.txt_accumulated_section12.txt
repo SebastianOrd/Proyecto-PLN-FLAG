@@ -1,0 +1,12 @@
+Background
+Adolescent overweight and obesity has increased globally, and can be associated with short‐ and long‐term health consequences. Modifying known dietary and behavioural risk factors through behaviour changing interventions (BCI) may help to reduce childhood overweight and obesity. This is an update of a review published in 2009. 
+Objectives
+To assess the effects of diet, physical activity and behavioural interventions for the treatment of overweight or obese adolescents aged 12 to 17 years. 
+Search methods
+We performed a systematic literature search in: CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, LILACS, and the trial registers ClinicalTrials.gov and ICTRP Search Portal. We checked references of identified studies and systematic reviews. There were no language restrictions. The date of the last search was July 2016 for all databases. 
+Selection criteria
+We selected randomised controlled trials (RCTs) of diet, physical activity and behavioural interventions for treating overweight or obesity in adolescents aged 12 to 17 years. 
+Data collection and analysis
+Two review authors independently assessed risk of bias, evaluated the overall quality of the evidence using the GRADE instrument and extracted data following the guidelines of the Cochrane Handbook for Systematic Reviews of Interventions. We contacted trial authors for additional information. 
+Main results
+We included 44 completed RCTs (4781 participants) and 50 ongoing studies. The number of participants in each trial varied (10 to 521) as did the length of follow‐up (6 to 24 months). Participants ages ranged from 12 to 17.5 years in all trials that reported mean age at baseline. Most of the trials used a multidisciplinary intervention with a combination of diet, physical activity and behavioural components. The content and duration of the intervention, its delivery and the comparators varied across trials. The studies contributing most information to outcomes of weight and body mass index (BMI) were from studies at a low risk of bias, but studies with a high risk of bias provided data on adverse events and quality of life. 

@@ -1,0 +1,10 @@
+Background
+Approximately half of people with heart failure have chronic kidney disease (CKD). Pharmacological interventions for heart failure in people with CKD have the potential to reduce death (any cause) or hospitalisations for decompensated heart failure. However, these interventions are of uncertain benefit and may increase the risk of harm, such as hypotension and electrolyte abnormalities, in those with CKD. 
+Objectives
+This review aims to look at the benefits and harms of pharmacological interventions for HF (i.e., antihypertensive agents, inotropes, and agents that may improve the heart performance indirectly) in people with HF and CKD. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies through 12 September 2019 in consultation with an Information Specialist and using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+We included randomised controlled trials of any pharmacological intervention for acute or chronic heart failure, among people of any age with chronic kidney disease of at least three months duration. 
+Data collection and analysis
+Two authors independently screened the records to identify eligible studies and extracted data on the following dichotomous outcomes: death, hospitalisations, worsening heart failure, worsening kidney function, hyperkalaemia, and hypotension. We used random effects meta‐analysis to estimate treatment effects, which we expressed as a risk ratio (RR) with 95% confidence intervals (CI). We assessed the risk of bias using the Cochrane tool. We applied the GRADE methodology to rate the certainty of evidence. 

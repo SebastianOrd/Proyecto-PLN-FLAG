@@ -1,0 +1,10 @@
+Background
+Medication‐related adverse events in primary care represent an important cause of hospital admissions and mortality. Adverse events could result from people experiencing adverse drug reactions (not usually preventable) or could be due to medication errors (usually preventable). 
+Objectives
+To determine the effectiveness of professional, organisational and structural interventions compared to standard care to reduce preventable medication errors by primary healthcare professionals that lead to hospital admissions, emergency department visits, and mortality in adults. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, three other databases, and two trial registries on 4 October 2016, together with reference checking, citation searching and contact with study authors to identify additional studies. We also searched several sources of grey literature. 
+Selection criteria
+We included randomised trials in which healthcare professionals provided community‐based medical services. We also included interventions in outpatient clinics attached to a hospital where people are seen by healthcare professionals but are not admitted to hospital. We only included interventions that aimed to reduce medication errors leading to hospital admissions, emergency department visits, or mortality. We included all participants, irrespective of age, who were prescribed medication by a primary healthcare professional. 
+Data collection and analysis
+Three review authors independently extracted data. Each of the outcomes (hospital admissions, emergency department visits, and mortality), are reported in natural units (i.e. number of participants with an event per total number of participants at follow‐up). We presented all outcomes as risk ratios (RRs) with 95% confidence intervals (CIs). We used the GRADE tool to assess the certainty of evidence. 

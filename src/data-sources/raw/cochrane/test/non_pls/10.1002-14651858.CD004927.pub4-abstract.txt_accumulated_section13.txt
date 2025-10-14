@@ -1,0 +1,13 @@
+Background
+The most common type of functional bladder outlet obstruction in patients with neurogenic bladder is detrusor‐sphincter dyssynergia (DSD). The lack of co‐ordination between the bladder and the external urethral sphincter muscle (EUS) in DSD can result in poor bladder emptying and high bladder pressures, which may eventually lead to progressive renal damage. 
+Objectives
+To assess the effectiveness of different surgical therapies for the treatment of functional bladder outlet obstruction (i.e. DSD) in adults with neurogenic bladder dysfunction. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, MEDLINE In‐Process, and handsearching of journals and conference proceedings (searched 20 February 2014), and the reference lists of relevant articles. 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs comparing a surgical treatment of DSD in adults suffering from neurogenic bladder dysfunction, with no treatment, placebo, non‐surgical treatment, or other surgical treatment, alone or in combination. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data.
+Main results
+We included five trials (total of 199 participants, average age of 40 years). The neurological diseases causing DSD were traumatic spinal cord injury (SCI), multiple sclerosis (MS), or congenital malformations. 
+One trial compared placement of sphincteric stent prosthesis with sphincterotomy. For urodynamic measurements, results for postvoid residual urine volume (PVR) and cystometric bladder capacity were inconclusive and consistent with benefit of either sphincteric stent prosthesis or sphincterotomy at three, six, 12, and 24 months. Results for maximum detrusor pressure (Pdet.max) were also inconclusive at three, six, and 12 months; however, after two years, the Pdet.max after sphincterotomy was lower than after stent placement (mean difference (MD) ‐30 cmH2O, 95% confidence interval (CI) 8.99 to 51.01). 

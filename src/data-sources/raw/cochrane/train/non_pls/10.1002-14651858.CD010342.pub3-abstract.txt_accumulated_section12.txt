@@ -1,0 +1,12 @@
+Background
+Acquired adult‐onset hearing loss is a common long‐term condition for which the most common intervention is hearing aid fitting. However, up to 40% of people fitted with a hearing aid either fail to use it or may not gain optimal benefit from it. This is an update of a review first published in The Cochrane Library in 2014. 
+Objectives
+To assess the long‐term effectiveness of interventions to promote the use of hearing aids in adults with acquired hearing loss fitted with at least one hearing aid. 
+Search methods
+The Cochrane ENT Information Specialist searched the Cochrane ENT Trials Register; Central Register of Controlled Trials (CENTRAL 2016, Issue 5); PubMed; EMBASE; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 13 June 2016. 
+Selection criteria
+We included randomised controlled trials (RCTs) of interventions designed to improve or promote hearing aid use in adults with acquired hearing loss compared with usual care or another intervention. We excluded interventions that compared hearing aid technology. We classified interventions according to the 'chronic care model' (CCM). The primary outcomes were hearing aid use (measured as adherence or daily hours of use) and adverse effects (inappropriate advice or clinical practice, or patient complaints). Secondary patient‐reported outcomes included quality of life, hearing handicap, hearing aid benefit and communication. Outcomes were measured over the short (</= 12 weeks), medium (> 12 to < 52 weeks) and long term (one year plus). 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane.
+Main results
+We included 37 studies involving a total of 4129 participants. Risk of bias across the included studies was variable. We judged the GRADE quality of evidence to be very low or low for the primary outcomes where data were available. 

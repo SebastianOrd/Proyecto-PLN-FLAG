@@ -1,0 +1,12 @@
+Background
+Hysteroscopy done in an outpatient setting is the 'gold standard' method for evaluating the uterine cavity. Media used to distend the uterine cavity include gas as carbon dioxide and liquid as saline that can be used at room temperature or warmed to body temperature. Both media offer advantages as well as disadvantages. 
+Objectives
+The objective of this review is to compare the effectiveness, tolerability, and safety of gas (carbon dioxide) and liquid (normal saline) used for uterine distension during outpatient hysteroscopy. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility (CGF) Group Specialised Register, CENTRAL, MEDLINE, Embase and PsycINFO on 28 April 2021. We checked references of relevant trials and contacted study authors and experts in the field to identify additional studies. CINAHL records and ongoing trials from the trial registries were included in the CENTRAL search. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing saline with carbon dioxide, as well as RCTs comparing saline at different temperatures, for uterine distension in outpatient hysteroscopy done for any indication. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. Primary review outcomes were patient tolerability and adverse events or complications related to the distending medium. Secondary outcomes were quality of the hysteroscopic view and duration of the procedure. 
+Main results
+We included 12 RCTs (1946 women). The quality of evidence ranged from very low to moderate: the main limitations were risk of bias due to absence of blinding due to the nature of the procedure, imprecision, and inconsistency. 

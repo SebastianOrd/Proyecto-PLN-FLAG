@@ -1,0 +1,12 @@
+Background
+Mechanical chest compression devices have been proposed to improve the effectiveness of cardiopulmonary resuscitation (CPR). 
+Objectives
+To assess the effectiveness of resuscitation strategies using mechanical chest compressions versus resuscitation strategies using standard manual chest compressions with respect to neurologically intact survival in patients who suffer cardiac arrest. 
+Search methods
+On 19 August 2017 we searched the Cochrane Central Register of Controlled Studies (CENTRAL), MEDLINE, Embase, Science Citation Index‐Expanded (SCI‐EXPANDED) and Conference Proceedings Citation Index–Science databases. Biotechnology and Bioengineering Abstracts and Science Citation abstracts had been searched up to November 2009 for prior versions of this review. We also searched two clinical trials registries for any ongoing trials not captured by our search of databases containing published works: Clinicaltrials.gov (August 2017) and the World Health Organization International Clinical Trials Registry Platform portal (January 2018). We applied no language restrictions. We contacted experts in the field of mechanical chest compression devices and manufacturers. 
+Selection criteria
+We included randomised controlled trials (RCTs), cluster‐RCTs and quasi‐randomised studies comparing mechanical chest compressions versus manual chest compressions during CPR for patients with cardiac arrest. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included five new studies in this update. In total, we included 11 trials in the review, including data from 12,944 adult participants, who suffered either out‐of‐hospital cardiac arrest (OHCA) or in‐hospital cardiac arrest (IHCA). We excluded studies explicitly including patients with cardiac arrest caused by trauma, drowning, hypothermia and toxic substances. These conditions are routinely excluded from cardiac arrest intervention studies because they have a different underlying pathophysiology, require a variety of interventions specific to the underlying condition and are known to have a prognosis different from that of cardiac arrest with no obvious cause. The exclusions were meant to reduce heterogeneity in the population while maintaining generalisability to most patients with sudden cardiac death. 

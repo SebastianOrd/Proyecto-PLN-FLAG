@@ -1,0 +1,18 @@
+Background
+Schizophrenia is a mental illness causing disordered beliefs, ideas and sensations. Many people with schizophrenia smoke cannabis, and it is unclear why a large proportion do so and if the effects are harmful or beneficial. It is also unclear what the best method is to allow people with schizophrenia to alter their cannabis intake. 
+Objectives
+To assess the effects of specific psychological treatments for cannabis reduction in people with schizophrenia. To assess the effects of antipsychotics for cannabis reduction in people with schizophrenia. To assess the effects of cannabinoids (cannabis related chemical compounds derived from cannabis or manufactured) for symptom reduction in people with schizophrenia. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register, 12 August 2013, which is based on regular searches of BIOSIS, CINAHL, EMBASE, MEDLINE, PUBMED and PsycINFO. 
+We searched all references of articles selected for inclusion for further relevant trials. We contacted the first author of included studies for unpublished trials or data. 
+Selection criteria
+We included all randomised controlled trials involving cannabinoids and schizophrenia/schizophrenia‐like illnesses, which assessed: 
+1) treatments to reduce cannabis use in people with schizophrenia;
+2) the effects of cannabinoids on people with schizophrenia.
+Data collection and analysis
+We independently inspected citations, selected papers and then re‐inspected the studies if there were discrepancies, and extracted data. For dichotomous data we calculated risk ratios (RR) and for continuous data, we calculated mean differences (MD), both with 95% confidence intervals (CI) on an intention‐to‐treat basis, based on a fixed‐effect model. We excluded data if loss to follow‐up was greater than 50%. We assessed risk of bias for included studies and used GRADE to rate the quality of the evidence. 
+Main results
+We identified eight randomised trials, involving 530 participants, which met our selection criteria. 
+For the cannabis reduction studies no one treatment showed superiority for reduction in cannabis use. Overall, data were poorly reported for many outcomes of interest. Our main outcomes of interest were medium‐term data for cannabis use, global state, mental state, global functioning, adverse events, leaving the study early and satisfaction with treatment. 
+1. Reduction in cannabis use: adjunct psychological therapies (specifically about cannabis and psychosis) versus treatment as usual 
+Results from one small study showed people receiving adjunct psychological therapies specifically about cannabis and psychosis were no more likely to reduce their intake than those receiving treatment as usual (n = 54, 1 RCT, MD ‐0.10, 95% CI ‐2.44 to 2.24, moderate quality evidence). Results for other main outcomes at medium term were also equivocal. No difference in mental state measured on the PANSS positive were observed between groups (n = 62, 1 RCT, MD ‐0.30 95% CI ‐2.55 to 1.95, moderate quality evidence). Nor for the outcome of general functioning measured using the World Health Organization Quality of Life BREF (n = 49, 1 RCT, MD 0.90 95% CI ‐1.15 to 2.95, moderate quality evidence). No data were reported for the other main outcomes of interest 

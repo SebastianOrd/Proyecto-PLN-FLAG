@@ -1,0 +1,10 @@
+Background
+The role of chemotherapy in the treatment of patients with non‐small cell lung cancer was not clear. A systematic review and quantitative meta‐analysis was therefore undertaken to evaluate the available evidence from all relevant randomised trials. 
+Objectives
+To evaluate the effect of cytotoxic chemotherapy on survival in patients with non‐small cell lung cancer. To investigate whether or not pre‐defined patient sub‐groups benefit more or less from chemotherapy. 
+Search methods
+MEDLINE and CANCERLIT searches (1963‐june 1992) were supplemented by information from trial registers and by hand searching relevant meeting proceedings and by discussion with relevant trialists and organisations. 
+Selection criteria
+Trials comparing primary treatments of surgery, surgery + radiotherapy, radical radiotherapy or supportive care versus the same primary treatment, plus chemotherapy were eligible for inclusion provided that they randomised non‐small cell lung cancer patients using a method which precluded prior knowledge of treatment assignment. 
+Data collection and analysis
+A quantitative meta‐analysis using updated information from individual patients from all available randomised trials was carried out. Data from all patients randomised in all eligible trials were sought directly from those responsible. Updated information on survival, and date of last follow up were obtained, as were details of treatment allocated, date of randomisation, age, sex, histological cell type, stage and performance status. To avoid potential bias, information was requested for all randomised patients including those who had been excluded from the investigators' original analyses. All analyses were done on intention to treat on the endpoint of survival. For trials using cisplatin‐based regimens, subgroup analyses by age, sex, histological cell type, tumour stage and performance status were also done. 

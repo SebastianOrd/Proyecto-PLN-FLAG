@@ -1,0 +1,12 @@
+Background
+Stress urinary incontinence constitutes a significant health and economic burden to society. Traditional suburethral slings are surgical operations used to treat women with symptoms of stress urinary incontinence. 
+Objectives
+To assess the effectiveness of traditional suburethral sling procedures for treating stress urinary incontinence in women; and summarise the principal findings of relevant economic evaluations. 
+Search methods
+We searched the Cochrane Incontinence Specialised Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), as well as MEDLINE, MEDLINE In‐Process, MEDLINE Epub Ahead of Print, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP); we handsearched journals and conference proceedings (searched 27 February 2017) and the reference lists of relevant articles. On 23 January 2019, we updated this search; as a result, several additional reports of studies are awaiting classification. 
+Selection criteria
+Randomised or quasi‐randomised trials that assessed traditional suburethral slings for treating stress or mixed urinary incontinence. 
+Data collection and analysis
+At least two review authors independently extracted data from included trials and assessed risk of bias. When appropriate, a summary statistic was calculated: risk ratio (RR) for dichotomous data, odds ratio (OR) for continence and cure rates that were expected to be high, and mean difference (MD) for continuous data. We adopted the GRADE approach to assess the quality of evidence. 
+Main results
+A total of 34 trials involving 3244 women were included. Traditional slings were compared with 10 other treatments and with each other. 

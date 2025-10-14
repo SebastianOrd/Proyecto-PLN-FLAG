@@ -1,0 +1,12 @@
+Background
+Measurement of cervical length by ultrasound is predictive of preterm birth (PTB). There are three methods of ultrasound cervical assessment: transvaginal (TVU), transabdominal (TAU), and transperineal (TPU, also called translabial). Cervical length measured by TVU is a relatively new screening test, and has been associated with better prediction of PTB than previously available tests. It is unclear if cervical length measured by ultrasound is effective for preventing PTB. This is an update of a review last published in 2013. 
+Objectives
+To assess the effectiveness of antenatal management based on transvaginal, transabdominal, and transperineal (also called translabial) ultrasound screening of cervical length for preventing preterm birth. 
+Search methods
+For this update, we searched the Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, and the WHO International Clinical Trials Registry Platform (ICTRP) to 30 August 2018; reviewed the reference lists of all articles, and contacted experts in the field for additional and ongoing trials. 
+Selection criteria
+We included published and unpublished randomised controlled trials (RCT) including pregnant women between the gestational ages of 14 to 32 weeks, for whom the cervical length was screened for risk of PTB with TVU, TAU, or TPU. This review focused on studies based on knowledge versus no knowledge of cervical length results, or ultrasound versus no ultrasound for cervical length. We excluded studies based on interventions (e.g. progesterone, cerclage) for short cervical length. 
+Data collection and analysis
+We followed standard Cochrane methods.
+Main results
+We included seven RCTs (N = 923): one examined asymptomatic women with twin pregnancies; four included women with singleton pregnancies and symptoms of preterm labour (PTL); one included women with singleton pregnancies and symptoms of preterm premature rupture of membranes (PPROM); and one included asymptomatic singletons. All trials used TVU for screening. 

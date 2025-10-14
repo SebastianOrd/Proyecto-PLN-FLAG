@@ -1,0 +1,12 @@
+Background
+The prevalence of opiate use among pregnant women can range from 1% to 2% to as high as 21%. Just in the United States alone, among pregnant women with hospital delivery, a fourfold increase in opioid use is reported from 1999 to 2014 (Haight 2018). Heroin crosses the placenta, and pregnant, opiate‐dependent women experience a six‐fold increase in maternal obstetric complications such as low birth weight, toxaemia, third trimester bleeding, malpresentation, puerperal morbidity, fetal distress and meconium aspiration. Neonatal complications include narcotic withdrawal, postnatal growth deficiency, microcephaly, neuro‐behavioural problems, increased neonatal mortality and a 74‐fold increase in sudden infant death syndrome. This is an updated version of the original Cochrane Review first published in 2008 and last updated in 2013. 
+Objectives
+To assess the effectiveness of any maintenance treatment alone or in combination with a psychosocial intervention compared to no intervention, other pharmacological intervention or psychosocial interventions alone for child health status, neonatal mortality, retaining pregnant women in treatment, and reducing the use of substances. 
+Search methods
+We updated our searches of the following databases to February 2020: the Cochrane Drugs and Alcohol Group Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, and Web of Science. We also searched two trials registers and checked the reference lists of included studies for further references to relevant randomised controlled trials (RCTs). 
+Selection criteria
+Randomised controlled trials which assessed the efficacy of any pharmacological maintenance treatment for opiate‐dependent pregnant women. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane.
+Main results
+We found four trials with 271 pregnant women. Three compared methadone with buprenorphine and one methadone with oral slow‐release morphine. Three out of four studies had adequate allocation concealment and were double‐blind. The major flaw in the included studies was attrition bias: three out of four had a high dropout rate (30% to 40%), and this was unbalanced between groups. 

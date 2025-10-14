@@ -1,0 +1,11 @@
+Background
+Selenium is a trace mineral essential to health and has an important role in immunity, defence against tissue damage and thyroid function. Improving selenium status could help protect against overwhelming tissue damage and infection in critically ill adults. This Cochrane review was originally published in 2004 updated in 2007 and again 2015. 
+Objectives
+The primary objective was to examine the effect of nutrition supplemented with selenium or ebselen on mortality in critically ill patients. 
+The secondary objective was to examine the relationship between selenium or ebselen supplementation and number of infections, duration of mechanical ventilation, length of intensive care unit stay and length of hospital stay. 
+Search methods
+In this update, we searched the current issue of the Cochrane Central Register of Controlled Trials, the Cochrane Library (2014, Issue 5); MEDLINE (Ovid SP, to May 20, 2014), EMBASE (Ovid SP, to May 20, 2014), CAB, BIOSIS and CINAHL. We handsearched the reference lists of the newest reviews and cross‐checked with our search in MEDLINE. We contacted the main authors of included studies to request any missed, unreported or ongoing studies. The latest search was performed up to 21 May 2014. The search is now from inception until 21 May 2014. 
+Selection criteria
+We included randomized controlled trials (RCTs) irrespective of publication status, date of publication, blinding status, outcomes published or language. We contacted the trial investigators and authors in order to retrieve relevant and missing data. 
+Data collection and analysis
+Two review authors independently extracted data and we resolved any disagreements by discussion. Our primary outcome measure was all‐cause mortality. We performed several subgroup and sensitivity analyses to assess the effects of selenium in critically ill patients. We presented pooled estimates of the effects of intervention as risk ratios (RRs) with 95% confidence intervals (CIs). We assessed the risk of bias through assessment of trial methodological components and the risk of random error through trial sequential analysis. 

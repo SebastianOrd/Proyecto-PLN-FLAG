@@ -1,0 +1,14 @@
+Background
+Electrical cardioversion is an effective procedure for restoring normal sinus rhythm in the hearts of patients with irregular heart rhythms. It is important that the patient is not fully conscious during the procedure, as it can be painful and distressing. The drug used to make patients unaware of the procedure should rapidly achieve the desired level of sedation, should wear off quickly and should not cause cardiovascular or respiratory side effects. 
+Objectives
+We aimed to compare the safety, effectiveness and adverse events associated with various anaesthetic or sedative agents used in direct current cardioversion for cardiac arrhythmia in both elective and emergency settings. 
+We sought answers to the following specific questions.
+• Which drugs deliver the best outcomes for patients undergoing electrical cardioversion?
+• Does using a particular agent confer advantages or disadvantages?
+• Is additional analgesic necessary to prevent pain?
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) on 27 March 2014. Our search terms were relevant to the review question and were not limited by outcomes. We also carried out searches of clinical trials registers and forward and backward citation tracking. 
+Selection criteria
+We considered all randomized controlled trials and quasi‐randomized and cluster‐randomized studies with adult participants undergoing electrical cardioversion procedures in the elective or emergency setting. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data, consulting with a third review author for disagreements. We used standard Cochrane methodological procedures, including assessment of risk of bias for all studies. 

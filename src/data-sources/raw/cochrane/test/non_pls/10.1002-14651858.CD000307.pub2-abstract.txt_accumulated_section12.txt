@@ -1,0 +1,12 @@
+Background
+Intramuscular injections (depot preparations) offer an advantage over oral medication for treating schizophrenia by reducing poor compliance. The benefits gained by long‐acting preparations, however, may be offset by a higher incidence of adverse effects. 
+Objectives
+To assess the effects of fluphenazine decanoate and enanthate versus oral anti‐psychotics and other depot neuroleptic preparations for individuals with schizophrenia in terms of clinical, social and economic outcomes. 
+Search methods
+We searched the Cochrane Schizophrenia Group’s Trials Register (February 2011 and October 16, 2013), which is based on regular searches of CINAHL, BIOSIS, AMED, EMBASE, PubMed, MEDLINE, PsycINFO, and registries of clinical trials. 
+Selection criteria
+We considered all relevant randomised controlled trials (RCTs) focusing on people with schizophrenia comparing fluphenazine decanoate or enanthate with placebo or oral anti‐psychotics or other depot preparations. 
+Data collection and analysis
+We reliably selected, assessed the quality, and extracted data of the included studies. For dichotomous data, we estimated risk ratio (RR) with 95% confidence intervals (CI). Analysis was by intention‐to‐treat. We used the mean difference (MD) for normal continuous data. We excluded continuous data if loss to follow‐up was greater than 50%. Tests of heterogeneity and for publication bias were undertaken. We used a fixed‐effect model for all analyses unless there was high heterogeneity. For this update. we assessed risk of bias of included studies and used the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach to create a 'Summary of findings' table. 
+Main results
+This review now includes 73 randomised studies, with 4870 participants. Overall, the quality of the evidence is low to very low. 

@@ -1,0 +1,10 @@
+Background
+Pain is very common in patients with cancer. Opioid analgesics, including codeine, play a significant role in major guidelines on the management of cancer pain, particularly for mild to moderate pain. Codeine is widely available and inexpensive, which may make it a good choice, especially in low‐resource settings. Its use is controversial, in part because codeine is not effective in a minority of patients who cannot convert it to its active metabolite (morphine), and also because of concerns about potential abuse, and safety in children. 
+Objectives
+To determine the efficacy and safety of codeine used alone or in combination with paracetamol for relieving cancer pain. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; The Cochrane Library 2014, Issue 2), MEDLINE and EMBASE from inception to 5 March 2014, supplemented by searches of clinical trial registries and screening of the reference lists of the identified studies and reviews in the field. 
+Selection criteria
+We sought randomised, double‐blind, controlled trials using single or multiple doses of codeine, with or without paracetamol, for the treatment of cancer pain. Trials could have either parallel or cross‐over design, with at least 10 participants per treatment group. Studies in children or adults reporting on any type, grade, and stage of cancer were eligible. We accepted any formulation, dosage regimen, and route of administration of codeine, and both placebo and active controls. 
+Data collection and analysis
+Two review authors independently read the titles and abstracts of all studies identified by the searches and excluded those that clearly did not meet the inclusion criteria. For the remaining studies, two authors read the full manuscripts and assessed them for inclusion. We resolved discrepancies between review authors by discussion. Included studies were described qualitatively, since no meta‐analysis was possible because of the small amount of data identified, and clinical and methodological between‐study heterogeneity. 

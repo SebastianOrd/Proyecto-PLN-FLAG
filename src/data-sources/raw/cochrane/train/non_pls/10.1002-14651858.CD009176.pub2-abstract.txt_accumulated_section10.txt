@@ -1,0 +1,10 @@
+Background
+Daily sedation interruption (DSI) is thought to limit drug bioaccumulation, promote a more awake state, and thereby reduce the duration of mechanical ventilation. Available evidence has shown DSI to either reduce, not alter, or prolong the duration of mechanical ventilation. 
+Objectives
+The primary objective of this review was to compare the total duration of invasive mechanical ventilation for critically ill adult patients requiring intravenous sedation who were managed with DSI versus those with no DSI. Our other objectives were to determine whether DSI influenced mortality, intensive care unit (ICU) and hospital lengths of stay, adverse events, the total doses of sedative drug administered, and quality of life. 
+Search methods
+We searched, from database inception to February 2014, the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 1); MEDLINE (OvidSP); EMBASE (OvidSP); CINAHL (EBSCOhost); Latin American and Caribbean Health Sciences Literature (LILACS); Web of Science Science Citation Index; Database of Abstracts of Reviews of Effects (DARE); the Health Technology Assessment Database (HTA Database); trial registration websites, and reference lists of relevant articles. We did not apply language restrictions. The reference lists of all retrieved articles were reviewed for additional, potentially relevant studies. 
+Selection criteria
+We included randomized controlled trials that compared DSI with sedation strategies that did not include DSI in mechanically ventilated, critically ill adults. 
+Data collection and analysis
+Two authors independently extracted data and three authors assessed risk of bias. We contacted study authors for additional information as required. We combined data in forest plots using random‐effects modelling. A priori subgroups and sensitivity analyses were performed. 

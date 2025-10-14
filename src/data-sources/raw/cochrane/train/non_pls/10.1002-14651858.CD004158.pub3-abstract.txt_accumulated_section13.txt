@@ -1,0 +1,13 @@
+Background
+Various rehabilitation treatments may be offered following carpal tunnel syndrome (CTS) surgery. The effectiveness of these interventions remains unclear. This is the first update of a review first published in 2013. 
+Objectives
+To review the effectiveness and safety of rehabilitation interventions following CTS surgery compared with no treatment, placebo, or another intervention. 
+Search methods
+On 29 September 2015, we searched the Cochrane Neuromuscular Specialised Register, the Cochrane Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL Plus, AMED, LILACS, and PsycINFO. We also searched PEDro (3 December 2015) and clinical trials registers (3 December 2015). 
+Selection criteria
+Randomised or quasi‐randomised clinical trials that compared any postoperative rehabilitation intervention with either no intervention, placebo, or another postoperative rehabilitation intervention in individuals who had undergone CTS surgery. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, extracted data, assessed risk of bias, and assessed the quality of the body of evidence for primary outcomes using the GRADE (Grades of Recommendation, Assessment, Development and Evaluation) approach according to standard Cochrane methodology. 
+Main results
+In this review we included 22 trials with a total of 1521 participants. Two of the trials were newly identified at this update. We studied different rehabilitation treatments including immobilisation using a wrist orthosis, dressings, exercise, controlled cold therapy, ice therapy, multi‐modal hand rehabilitation, laser therapy, electrical modalities, scar desensitisation, and arnica. Three trials compared a rehabilitation treatment to a placebo, four compared rehabilitation to a no treatment control, three compared rehabilitation to standard care, and 15 compared various rehabilitation treatments to one another. 
+Overall, the included studies were very low in quality. Thirteen trials explicitly reported random sequence generation; of these, five adequately concealed the allocation sequence. Four trials achieved blinding of both participants and outcome assessors. Five were at high risk of bias from incompleteness of outcome data at one or more time intervals, and eight had high risk of selective reporting bias. 

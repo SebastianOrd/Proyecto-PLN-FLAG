@@ -1,0 +1,13 @@
+Background
+Chagas disease‐related cardiomyopathy is a major cause of morbidity and mortality in Latin America. Despite the substantial burden to the healthcare system, there is uncertainty regarding the efficacy and safety of pharmacological interventions for treating heart failure in people with Chagas disease. This is an update of a Cochrane review published in 2012. 
+Objectives
+To assess the clinical benefits and harms of current pharmacological interventions for treating heart failure in people with Chagas cardiomyopathy. 
+Search methods
+We updated the searches in the Cochrane Central Register of Controlled Trials (CENTRAL; The Cochrane Library 2016, Issue 1), MEDLINE (Ovid; 1946 to to February Week 1 2016), EMBASE (Ovid; 1947 to 2016 Week 07), LILACS (1982 to 15 February 2016), and Web of Science (Thomson Reuters; 1970 to 15 February 2016). We checked the reference lists of included papers. We applied no language restrictions. 
+Selection criteria
+We included randomised clinical trials (RCTs) that assessed the effects of pharmacological interventions to treat heart failure in adult patients (18 years or older) with symptomatic heart failure (New York Heart Association classes II to IV), regardless of the left ventricular ejection fraction stage (reduced or preserved), with Chagas cardiomyopathy. We did not apply limits to the length of follow‐up. Primary outcomes were all‐cause mortality, cardiovascular mortality at 30 days, time‐to‐heart decompensation, disease‐free period (at 30, 60, and 90 days), and adverse events. 
+Data collection and analysis
+Two authors independently performed study selection, 'Risk of bias' assessment and data extraction. We estimated relative risk (RR) and 95% confidence intervals (CIs) for dichotomous outcomes. We measured statistical heterogeneity using the I² statistic. We used a fixed‐effect model to synthesize the findings. We contacted authors for additional data. We developed 'Summary of findings' (SoF) tables and used GRADE methodology to assess the quality of the evidence. 
+Main results
+In this update, we identified one new trial. Therefore, this version includes three trials (108 participants). Two trials compared carvedilol against placebo and another assessed rosuvastatin versus placebo. All trials had a high risk of bias. 
+Meta‐analysis of two trials showed a lower proportion of all‐cause mortality in the carvedilol groups compared with the placebo groups (RR 0.69; 95% CI 0.12 to 3.88, I² = 0%; 69 participants; very low‐quality evidence). Neither of the trials reported on cardiovascular mortality, time‐to‐heart decompensation, or disease‐free periods. 

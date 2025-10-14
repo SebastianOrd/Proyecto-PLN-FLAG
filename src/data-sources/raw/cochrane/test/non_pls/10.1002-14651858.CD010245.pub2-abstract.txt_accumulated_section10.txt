@@ -1,0 +1,10 @@
+Background
+Emergency or urgent surgery, which can be defined as surgery which must be done promptly to save life, limb or functional capacity, is associated with a high risk of bleeding and death. Antifibrinolytic agents, such as tranexamic acid, inhibit blood clot breakdown (fibrinolysis) and can reduce perioperative bleeding. Tranexamic acid has been shown to reduce the need for a blood transfusion in adult patients undergoing elective surgery but its effects in patients undergoing emergency or urgent surgery are unclear.   
+Objectives
+To assess the effects of tranexamic acid on mortality, blood transfusion and thromboembolic events in adults undergoing emergency or urgent surgery. 
+Search methods
+We searched the following electronic databases: the Cochrane Injuries Group Specialised Register (22 August 2012); Cochrane Central Register of Controlled Trials (2012, Issue 8 of 12); MEDLINE (OvidSP) (1950 to week 2 August 2012); PubMed (1 June 2012 to 22 August 2012); EMBASE (OvidSP) (1980 to Week 33 2012); ISI Web of Science: Conference Proceedings Citation Index‐Science (CPCI‐S) (1990 to 22 August 2012); ISI Web of Science: Science Citation Index Expanded (SCI‐EXPANDED) (1970 to 22 August 2012). We also searched online trials registers on 22 August 2012 to identify unpublished studies. 
+Selection criteria
+Randomised controlled trials comparing tranexamic acid with no tranexamic acid or placebo in adults undergoing emergency or urgent surgery. 
+Data collection and analysis
+Two authors examined titles, abstracts and keywords of citations from the electronic databases for eligibility and extracted data for analysis and risk of bias assessment. Outcome measures of interest were mortality, receipt of a blood transfusion, units of blood transfused, reoperation, seizures and thromboembolic events (myocardial infarction, stroke, deep vein thrombosis and pulmonary embolism). 

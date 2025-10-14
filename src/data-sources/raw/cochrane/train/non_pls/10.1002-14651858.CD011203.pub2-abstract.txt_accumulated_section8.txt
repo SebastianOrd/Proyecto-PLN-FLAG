@@ -1,0 +1,8 @@
+Background
+Multiple sclerosis (MS) is an autoimmune, T‐cell‐dependent, inflammatory, demyelinating disease of the central nervous system, with an unpredictable course. Current MS therapies focus on treating exacerbations, preventing new exacerbations and avoiding the progression of disability. However, at present there is no effective treatment that is capable of safely and effectively reaching these objectives. This has led to the development and investigation of new drugs. Recent clinical trials suggest that alemtuzumab, a humanised monoclonal antibody against cell surface CD52, could be a promising option for MS. 
+Objectives
+To assess the safety and effectiveness of alemtuzumab used alone or associated with other treatments to decrease disease activity in patients with any form of MS. 
+Search methods
+We searched the Trials Register of the Cochrane Multiple Sclerosis and Rare Diseases of the CNS Group (30 April 2015), which contains trials from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, LILACS and the trial registry databases ClinicalTrials.gov and WHO International Clinical Trials Registry Platform. There was no restriction on the source, publication date or language. 
+Selection criteria
+All randomised clinical trials (RCTs) involving adults diagnosed with any form of MS according to the McDonald criteria, comparing alemtuzumab alone or associated with other medications, at any dose and for any duration, versus placebo or any other active drug therapy or alemtuzumab in other dose, regimen or duration. The co‐primary outcomes were relapse‐free survival, sustained disease progression and number of participants with at least one of any adverse events, including serious adverse events. 

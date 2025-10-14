@@ -1,0 +1,17 @@
+Are medicines that block interleukin‐1 (a protein involved in immune responses) effective treatments for COVID‐19 and do they cause unwanted effects? 
+Key messages 
+• Overall, we did not find sufficient evidence to show that medicines that block interleukin‐1 (a protein involved in immune responses) are effective treatments for people with COVID‐19, or whether they cause unwanted effects. 
+• We found 16 studies with unpublished results. We will update this review when new data are available. 
+• In future, we need high‐quality studies to evaluate medicines that block interleukin‐1 to treat COVID‐19.  
+What is interleukin‐1 and what is its role in COVID‐19? 
+Interleukin‐1 (IL‐1) is a type of protein called a cytokine, which helps to regulate the body’s immune system. In particular, IL‐1 triggers inflammation to help fight infection. In COVID‐19, as the immune system fights the virus, the lungs and airways become inflamed, causing breathing difficulties. However, in some people, the immune system can over‐react (called a ‘cytokine storm’) and produce dangerously high levels of inflammation and tissue damage. This can lead to severe breathing difficulties, organ failure and death. 
+What are interleukin‐1 ‘blockers’? 
+IL‐1 blockers are medicines that stop IL‐1 from working by blocking signals from IL‐1 to other parts of the immune system. This reduces inflammation and may help the immune system to fight COVID‐19. In turn, this may reduce the need for breathing support with a ventilator (a machine that breathes for a patient) and reduce the number of deaths from COVID‐19. Three IL‐1 blockers are available: anakinra, canakinumab and rilonacept. 
+What did we want to find out? 
+We wanted to know if IL‐1 blockers are effective treatments for people with COVID‐19, compared with standard care alone or with placebo (a dummy treatment that appears identical to the medicine being tested but without any active medicine). We were particularly interested in the effects of IL‐1 blockers on: 
+•  whether people’s symptoms got better or worse;
+•  how many people died; and
+•  any unwanted effects and serious unwanted effects.
+What did we do? 
+We searched for studies that assessed the effects of IL‐1 blockers to treat people with COVID‐19 compared with standard care alone or with placebo. People in the studies could have suspected or confirmed COVID‐19 of any severity (mild, moderate or severe), and be any age or sex. 
+We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes. 

@@ -1,0 +1,11 @@
+Background
+Loss of olfactory function is well recognised as a symptom of COVID‐19 infection, and the pandemic has resulted in a large number of individuals with abnormalities in their sense of smell. For many, the condition is temporary and resolves within two to four weeks. However, in a significant minority the symptoms persist. At present, it is not known whether early intervention with any form of treatment (such as medication or olfactory training) can promote recovery and prevent persisting olfactory disturbance. This is an update of the 2021 review with four studies added. 
+Objectives
+1) To evaluate the benefits and harms of any intervention versus no treatment for people with acute olfactory dysfunction due to COVID‐19 infection.  
+2) To keep the evidence up‐to‐date, using a living systematic review approach. 
+Search methods
+The Cochrane ENT Information Specialist searched the Cochrane ENT Register; Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE; Ovid Embase; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the latest search was 20 October 2021. 
+Selection criteria
+We included randomised controlled trials (RCTs) in people with COVID‐19 related olfactory disturbance, which had been present for less than four weeks. We included any intervention compared to no treatment or placebo.  
+Data collection and analysis
+We used standard Cochrane methods. Our primary outcomes were the presence of normal olfactory function, serious adverse effects and change in sense of smell. Secondary outcomes were the prevalence of parosmia, change in sense of taste, disease‐related quality of life and other adverse effects (including nosebleeds/bloody discharge). We used GRADE to assess the certainty of the evidence for each outcome.  

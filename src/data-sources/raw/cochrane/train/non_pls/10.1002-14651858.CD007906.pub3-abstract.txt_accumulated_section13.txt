@@ -1,0 +1,13 @@
+Background
+Intensive Case Management (ICM) is a community‐based package of care aiming to provide long‐term care for severely mentally ill people who do not require immediate admission. Intensive Case Management evolved from two original community models of care, Assertive Community Treatment (ACT) and Case Management (CM), where ICM emphasises the importance of small caseload (fewer than 20) and high‐intensity input. 
+Objectives
+To assess the effects of ICM as a means of caring for severely mentally ill people in the community in comparison with non‐ICM (caseload greater than 20) and with standard community care. We did not distinguish between models of ICM. In addition, to assess whether the effect of ICM on hospitalisation (mean number of days per month in hospital) is influenced by the intervention's fidelity to the ACT model and by the rate of hospital use in the setting where the trial was conducted (baseline level of hospital use). 
+Search methods
+We searched the Cochrane Schizophrenia Group's Trials Register (last update search 10 April 2015). 
+Selection criteria
+All relevant randomised clinical trials focusing on people with severe mental illness, aged 18 to 65 years and treated in the community care setting, where ICM is compared to non‐ICM or standard care. 
+Data collection and analysis
+At least two review authors independently selected trials, assessed quality, and extracted data. For binary outcomes, we calculated risk ratio (RR) and its 95% confidence interval (CI), on an intention‐to‐treat basis. For continuous data, we estimated mean difference (MD) between groups and its 95% CI. We employed a random‐effects model for analyses. 
+We performed a random‐effects meta‐regression analysis to examine the association of the intervention's fidelity to the ACT model and the rate of hospital use in the setting where the trial was conducted with the treatment effect. We assessed overall quality for clinically important outcomes using the GRADE approach and investigated possible risk of bias within included trials. 
+Main results
+The 2016 update included two more studies (n = 196) and more publications with additional data for four already included studies. The updated review therefore includes 7524 participants from 40 randomised controlled trials (RCTs). We found data relevant to two comparisons: ICM versus standard care, and ICM versus non‐ICM. The majority of studies had a high risk of selective reporting. No studies provided data for relapse or important improvement in mental state. 

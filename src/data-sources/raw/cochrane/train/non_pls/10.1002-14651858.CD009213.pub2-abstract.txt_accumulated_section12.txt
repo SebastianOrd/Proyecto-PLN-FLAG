@@ -1,0 +1,12 @@
+Background
+People admitted to intensive care units and those with chronic health care problems often require long‐term vascular access. Central venous access devices (CVADs) are used for administering intravenous medications and blood sampling. CVADs are covered with a dressing and secured with an adhesive or adhesive tape to protect them from infection and reduce movement. Dressings are changed when they become soiled with blood or start to come away from the skin. Repeated removal and application of dressings can cause damage to the skin. The skin is an important barrier that protects the body against infection. Less frequent dressing changes may reduce skin damage, but it is unclear whether this practice affects the frequency of catheter‐related infections. 
+Objectives
+To assess the effect of the frequency of CVAD dressing changes on the incidence of catheter‐related infections and other outcomes including pain and skin damage. 
+Search methods
+In June 2015 we searched: The Cochrane Wounds Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE and EBSCO CINAHL. We also searched clinical trials registries for registered trials. There were no restrictions with respect to language, date of publication or study setting. 
+Selection criteria
+All randomised controlled trials (RCTs) evaluating the effect of the frequency of CVAD dressing changes on the incidence of catheter‐related infections on all patients in any healthcare setting. 
+Data collection and analysis
+We used standard Cochrane review methodology. Two review authors independently assessed studies for inclusion, performed risk of bias assessment and data extraction. We undertook meta‐analysis where appropriate or otherwise synthesised data descriptively when heterogeneous. 
+Main results
+We included five RCTs (2277 participants) that compared different frequencies of CVAD dressing changes. The studies were all conducted in Europe and published between 1995 and 2009. Participants were recruited from the intensive care and cancer care departments of one children's and four adult hospitals. The studies used a variety of transparent dressings and compared a longer interval between dressing changes (5 to15 days; intervention) with a shorter interval between changes (2 to 5 days; control). In each study participants were followed up until the CVAD was removed or until discharge from ICU or hospital. 

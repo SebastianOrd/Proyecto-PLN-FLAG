@@ -1,0 +1,13 @@
+Background
+Bacterial folliculitis and boils are globally prevalent bacterial infections involving inflammation of the hair follicle and the perifollicular tissue. Some folliculitis may resolve spontaneously, but others may progress to boils without treatment. Boils, also known as furuncles, involve adjacent tissue and may progress to cellulitis or lymphadenitis. A systematic review of the best evidence on the available treatments was needed. 
+Objectives
+To assess the effects of interventions (such as topical antibiotics, topical antiseptic agents, systemic antibiotics, phototherapy, and incision and drainage) for people with bacterial folliculitis and boils. 
+Search methods
+We searched the following databases up to June 2020: the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, and Embase. We also searched five trials registers up to June 2020. We checked the reference lists of included studies and relevant reviews for further relevant trials.  
+Selection criteria
+We included randomised controlled trials (RCTs) that assessed systemic antibiotics; topical antibiotics; topical antiseptics, such as topical benzoyl peroxide; phototherapy; and surgical interventions in participants with bacterial folliculitis or boils. Eligible comparators were active intervention, placebo, or no treatment. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Our primary outcomes were 'clinical cure' and 'severe adverse events leading to withdrawal of treatment'; secondary outcomes were 'quality of life', 'recurrence of folliculitis or boil following completion of treatment', and 'minor adverse events not leading to withdrawal of treatment'. We used GRADE to assess the certainty of the evidence. 
+Main results
+We included 18 RCTs (1300 participants). The studies included more males (332) than females (221), although not all studies reported these data. Seventeen trials were conducted in hospitals, and one was conducted in clinics. The participants included both children and adults (0 to 99 years). The studies did not describe severity in detail; of the 232 participants with folliculitis, 36% were chronic. At least 61% of participants had furuncles or boils, of which at least 47% were incised. Duration of oral and topical treatments ranged from 3 days to 6 weeks, with duration of follow‐up ranging from 3 days to 6 months. The study sites included Asia, Europe, and America. Only three trials reported funding, with two funded by industry. 
+Ten studies were at high risk of 'performance bias', five at high risk of 'reporting bias', and three at high risk of 'detection bias'. 

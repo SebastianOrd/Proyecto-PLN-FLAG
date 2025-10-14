@@ -1,0 +1,12 @@
+Background
+The success of digital replantation is highly dependent on the patency of the repaired vessels after microvascular anastomosis. Antithrombotic agents are frequently used for preventing vascular occlusion. Low molecular weight heparin (LMWH) has been reported to be as effective as unfractionated heparin (UFH) in peripheral vascular surgery, but with fewer adverse effects. Its benefit in microvascular surgery such as digital replantation is unclear. This is an update of the review first published in 2013. 
+Objectives
+To assess if treatment with subcutaneous LMWH improves the salvage rate of the digits in patients with digital replantation after traumatic amputation. 
+Search methods
+The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase, AMED and CINAHL databases, and the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers, to 17 March 2020. The authors searched PubMed, China National Knowledge Infrastructure (CNKI) and Chinese Electronic Periodical Services (CEPS) on 17 March 2020 and sought additional trials from reference lists of relevant publications. 
+Selection criteria
+We included randomised or quasi‐randomised controlled trials comparing treatment with LMWH versus any other treatment in participants who received digital replantation following traumatic digital amputation. 
+Data collection and analysis
+Two review authors (PL, CC) independently extracted data and assessed the risk of bias of the included trials using Cochrane's 'Risk of bias' tool. Disagreements were resolved by discussion. We assessed the certainty of evidence using the GRADE approach. 
+Main results
+We included two new randomised trials in this update, bringing the total number of included trials to four. They included a total of 258 participants, with at least 273 digits, from hospitals in China. Three studies compared LMWH versus UFH, and one compared LMWH versus no LMWH. The mean age of participants ranged from 24.5 to 37.6 years. In the studies reporting the sex of participants, there were a total of 145 men and 59 women. The certainty of the evidence was downgraded to low or very low because all studies were at high risk of performance or reporting bias (or both) and there was imprecision in the results due to the small numbers of participants. 

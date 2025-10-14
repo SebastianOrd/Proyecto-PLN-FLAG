@@ -1,0 +1,12 @@
+Background
+Lung transplantation has become a valuable and well‐accepted treatment option for most end‐stage lung diseases. Lung transplant recipients are at risk of transplanted organ rejection, and life‐long immunosuppression is necessary. Clear evidence is essential to identify an optimal, safe and effective immunosuppressive treatment strategy for lung transplant recipients. Consensus has not yet been achieved concerning use of immunosuppressive antibodies against T‐cells for induction following lung transplantation. 
+Objectives
+We aimed to assess the benefits and harms of immunosuppressive T‐cell antibody induction with ATG, ALG, IL‐2RA, alemtuzumab, or muromonab‐CD3 for lung transplant recipients. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register to 4 March 2013 through contact with the Trials Search Co‐ordinator using search terms relevant to this review. Studies contained in the Specialised Register are identified through search strategies specifically designed for CENTRAL, MEDLINE and EMBASE. 
+Selection criteria
+We included all randomised controlled trials (RCTs) that compared immunosuppressive monoclonal and polyclonal T‐cell antibody induction for lung transplant recipients. An inclusion criterion was that all participants must have received the same maintenance immunosuppressive therapy within each study. 
+Data collection and analysis
+Three authors extracted data. We derived risk ratios (RR) for dichotomous data and mean differences (MD) for continuous data with 95% confidence intervals (CI). Methodological risk of bias was assessed using the Cochrane risk of bias tool and trial sequential analyses were undertaken to assess the risk of random errors (play of chance). 
+Main results
+Our review included six RCTs (representing a total of 278 adult lung transplant recipients) that assessed the use of T‐cell antibody induction. Evaluation of the included studies found all to be at high risk of bias. 

@@ -1,0 +1,13 @@
+Background
+Idiopathic scoliosis is a three‐dimensional deformity of the spine. The most common form is diagnosed in adolescence. While adolescent idiopathic scoliosis (AIS) can progress during growth and cause a surface deformity, it is usually not symptomatic. However, in adulthood, if the final spinal curvature surpasses a certain critical threshold, the risk of health problems and curve progression is increased. 
+Objectives
+To evaluate the efficacy of bracing for adolescents with AIS versus no treatment or other treatments, on quality of life, disability, pulmonary disorders, progression of the curve, and psychological and cosmetic issues. 
+Search methods
+We searched CENTRAL, MEDLINE, EMBASE, five other databases, and two trials registers up to February 2015 for relevant clinical trials. We also checked the reference lists of relevant articles and conducted an extensive handsearch of grey literature. 
+Selection criteria
+Randomized controlled trials (RCTs) and prospective controlled cohort studies comparing braces with no treatment, other treatment, surgery, and different types of braces for adolescent with AIS. 
+Data collection and analysis
+We used standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+We included seven studies (662 participants). Five were planned as RCTs and two as prospective controlled trials. One RCT failed completely, another was continued as an observational study, reporting also the results of the participants that had been randomized. 
+There was very low quality evidence from one small RCT (111 participants) that quality of life (QoL) during treatment did not differ significantly between rigid bracing and observation (mean difference (MD) ‐2.10, 95% confidence interval (CI) ‐7.69 to 3.49). There was very low quality evidence from a subgroup of 77 adolescents from one prospective cohort study showing that QoL, back pain, psychological, and cosmetic issues did not differ significantly between rigid bracing and observation in the long term (16 years). 

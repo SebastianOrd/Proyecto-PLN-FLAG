@@ -1,0 +1,16 @@
+Background
+Alcohol is consumed by over 2 billion people worldwide. It is a common substance of abuse and its use can lead to more than 200 disorders including hypertension. Alcohol has both acute and chronic effects on blood pressure. This review aimed to quantify the acute effects of different doses of alcohol over time on blood pressure and heart rate in an adult population. 
+Objectives
+Primary objective  
+To determine short‐term dose‐related effects of alcohol versus placebo on systolic blood pressure and diastolic blood pressure in healthy and hypertensive adults over 18 years of age. 
+Secondary objective  
+To determine short‐term dose‐related effects of alcohol versus placebo on heart rate in healthy and hypertensive adults over 18 years of age. 
+Search methods
+The Cochrane Hypertension Information Specialist searched the following databases for randomised controlled trials up to March 2019: the Cochrane Hypertension Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 2), in the Cochrane Library; MEDLINE (from 1946); Embase (from 1974); the World Health Organization International Clinical Trials Registry Platform; and ClinicalTrials.gov. We also contacted authors of relevant articles regarding further published and unpublished work. These searches had no language restrictions. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing effects of a single dose of alcohol versus placebo on blood pressure (BP) or heart rate (HR) in adults (≥ 18 years of age). 
+Data collection and analysis
+Two review authors (ST and CT) independently extracted data and assessed the quality of included studies. We also contacted trial authors for missing or unclear information. Mean difference (MD) from placebo with 95% confidence interval (CI) was the outcome measure, and a fixed‐effect model was used to combine effect sizes across studies.  
+Main results
+We included 32 RCTs involving 767 participants. Most of the study participants were male (N = 642) and were healthy. The mean age of participants was 33 years, and mean body weight was 78 kilograms. 
+Low‐dose alcohol (< 14 g) within six hours (2 RCTs, N = 28) did not affect BP but did increase HR by 5.1 bpm (95% CI 1.9 to 8.2) (moderate‐certainty evidence). 

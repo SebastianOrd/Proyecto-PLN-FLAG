@@ -1,0 +1,11 @@
+Background
+Carbamazepine (CBZ) is a commonly used drug for epilepsy that is associated with troublesome adverse events including dizziness, double vision, drowsiness, poor co‐ordination and unsteadiness. These adverse events often occur during peaks in drug plasma concentration. These adverse events may limit the daily dose of CBZ that can be tolerated and reduce the chances of seizure control in patients who require high doses. A controlled‐release formulation of CBZ delivers the same dose over a longer period of time when compared to a standard immediate‐release formulation, thereby reducing post‐dose peaks in CBZ plasma concentration and potentially reducing adverse events. 
+This is an updated version of the original Cochrane review published in Issue 12, 2014. 
+Objectives
+To determine the efficacy of immediate‐release CBZ (IR CBZ) versus controlled‐release CBZ (CR CBZ) in patients diagnosed with epilepsy. 
+The following review questions were investigated. (1) For newly diagnosed patients commencing CBZ, how do IR and CR formulations compare for efficacy and tolerability? (2) For patients on established treatment with IR CBZ but experiencing unacceptable adverse events, what is the effect on seizure control and the tolerability of a switch to a CR formulation versus remaining on the IR formulation? 
+Search methods
+We searched the Cochrane Epilepsy Group Specialized Register, CENTRAL, and MEDLINE (Ovid) from inception to 30 August 2016. 
+Selection criteria
+Randomised controlled trials comparing IR CBZ to CR CBZ in patients commencing monotherapy and patients presently treated with IR CBZ but experiencing unacceptable adverse events. 
+Primary outcome measures included measures of seizure frequency, incidence of adverse events, proportion of patients with treatment failure and quality of life measures. 

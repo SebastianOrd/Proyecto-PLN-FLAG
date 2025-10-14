@@ -1,0 +1,12 @@
+Background
+Approximately 10% of all newborns require resuscitation at birth. Training healthcare providers in standardised formal neonatal resuscitation training (SFNRT) programmes may improve neonatal outcomes. Substantial healthcare resources are expended on SFNRT. 
+Objectives
+To determine whether SFNRT programmes reduce neonatal mortality and morbidity, improve acquisition and retention of knowledge and skills, or change teamwork and resuscitation behaviour. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, PREMEDLINE, EMBASE, CINAHL, Web of Science and the Oxford Database of Perinatal Trials, ongoing trials and conference proceedings in April 2014 and updated in March 2015. 
+Selection criteria
+Randomised or quasi‐randomised trials including cluster‐randomised trials, comparing a SFNRT with no SFNRT, additions to SFNRT or types of SFNRT, and reporting at least one of our specified outcomes. 
+Data collection and analysis
+Two authors extracted data independently and performed statistical analyses including typical risk ratio (RR), risk difference (RD), mean difference (MD), and number needed to treat for an additional beneficial outcome (NNTB) or an additional harmful outcome (NNTH) (all with 95% confidence intervals (CI)). We analysed cluster‐randomised trials using the generic inverse variance and the approximate analysis methods. 
+Main results
+We identified two community‐based and three manikin‐based trials that assessed the effect of SFNRT compared with no SFNRT. Very low quality evidence from one study suggested improvement in acquisition of knowledge (RR 5.96, 95% CI 3.60 to 9.87) and skills (RR 170, 95% CI 10.8 to 2711) and retention of knowledge (RR 3.60, 95% CI 2.43 to 5.35) and the other study suggested improvement in resuscitation and behavioural scores. 

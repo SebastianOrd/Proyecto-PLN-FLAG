@@ -1,0 +1,10 @@
+Background
+Risk of methicillin‐resistant Staphylococcus aureus (MRSA) infection after surgery is generally low, but affects up to 33% of patients after certain types of surgery. Postoperative MRSA infection can occur as surgical site infections (SSIs), chest infections, or bloodstream infections (bacteraemia). The incidence of MRSA SSIs varies from 1% to 33% depending upon the type of surgery performed and the carrier status of the individuals concerned. The optimal prophylactic antibiotic regimen for the prevention of MRSA after surgery is not known. 
+Objectives
+To compare the benefits and harms of all methods of antibiotic prophylaxis in the prevention of postoperative MRSA infection and related complications in people undergoing surgery. 
+Search methods
+In March 2013 we searched the following databases: The Cochrane Wounds Group Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL); Database of Abstracts of Reviews of Effects (DARE) (The Cochrane Library); NHS Economic Evaluation Database (The Cochrane Library); Health Technology Assessment (HTA) Database (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE; and EBSCO CINAHL. 
+Selection criteria
+We included only randomised controlled trials (RCTs) that compared one antibiotic regimen used as prophylaxis for SSIs (and other postoperative infections) with another antibiotic regimen or with no antibiotic, and that reported the methicillin resistance status of the cultured organisms. We did not limit our search for RCTs by language, publication status, publication year, or sample size. 
+Data collection and analysis
+Two review authors independently identified the trials for inclusion in the review, and extracted data. We calculated the risk ratio (RR) with 95% confidence intervals (CI) for comparing binary outcomes between the groups and planned to calculated the mean difference (MD) with 95% CI for comparing continuous outcomes. We planned to perform meta‐analysis using both a fixed‐effect model and a random‐effects model. We performed intention‐to‐treat analysis whenever possible. 

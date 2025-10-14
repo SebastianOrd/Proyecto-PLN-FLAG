@@ -1,0 +1,10 @@
+Background
+Acute anterior shoulder dislocation, which is the most common type of dislocation, usually results from an injury. Subsequently, the shoulder is less stable and is more susceptible to re‐dislocation or recurrent instability (e.g. subluxation), especially in active young adults. After closed reduction, most of these injuries are treated with immobilisation of the injured arm in a sling or brace for a few weeks, followed by exercises. This is an update of a Cochrane Review first published in 2006 and last updated in 2014. 
+Objectives
+To assess the effects (benefits and harms) of conservative interventions after closed reduction of traumatic anterior dislocation of the shoulder. These might include immobilisation, rehabilitative interventions or both. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register, the Cochrane Central Register of Controlled Trials, MEDLINE, Embase, CINAHL, PEDro and trial registries. We also searched conference proceedings and reference lists of included studies. Date of last search: May 2018. 
+Selection criteria
+We included randomised or quasi‐randomised controlled trials comparing conservative interventions with no treatment, a different intervention or a variant of the intervention (e.g. a different duration) for treating people after closed reduction of a primary traumatic anterior shoulder dislocation. Inclusion was regardless of age, sex or mechanism of injury. Primary outcomes were re‐dislocation, patient‐reported shoulder instability measures and return to pre‐injury activities. Secondary outcomes included participant satisfaction, health‐related quality of life, any instability and adverse events. 
+Data collection and analysis
+Both review authors independently selected studies, assessed risk of bias and extracted data. We contacted study authors for additional information. We pooled results of comparable groups of studies. We assessed risk of bias with the Cochrane 'Risk of bias' tool and the quality of the evidence with the GRADE approach. 

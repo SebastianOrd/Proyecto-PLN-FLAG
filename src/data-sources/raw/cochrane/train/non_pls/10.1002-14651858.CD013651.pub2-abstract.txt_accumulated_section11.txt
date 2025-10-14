@@ -1,0 +1,11 @@
+Background
+Within the context of heavy menstrual bleeding, pandemics impact upon women's assessment and treatment by healthcare providers. 
+Objectives
+To summarise the evidence from Cochrane Reviews evaluating interventions for heavy menstrual bleeding that are commonly available during pandemics. 
+Methods
+We sought published Cochrane Reviews, evaluating interventions that can continue during pandemics for women with heavy menstrual bleeding with no known underlying cause. We identified Cochrane Reviews by searching the Cochrane Database of Systematic Reviews in June 2020. The primary outcome was menstrual bleeding. Secondary outcomes included quality of life, patient satisfaction, side effects, and serious adverse events. 
+We undertook the selection of systematic reviews, data extraction, and quality assessment in duplicate. We resolved any disagreements by discussion. We assessed review quality using the Assessing the Methodological Quality of Systematic Reviews (AMSTAR) 2 tool, and the certainty of the evidence for each outcome using GRADE methods. 
+Main results
+We included four Cochrane Reviews, with 11 comparisons, data from 44 randomised controlled trials (RCTs), and 3196 women. We assessed all the reviews to be high quality. 
+Non‐steroidal anti‐inflammatory drugs (NSAIDs) 
+NSAIDs may be more effective in reducing heavy menstrual bleeding than placebo (mean difference (MD) ‐124 mL per cycle, 95% confidence interval (CI) ‐186 to ‐62 mL per cycle; 1 RCT, 11 women; low‐certainty evidence). Mefenamic acid may be similar to naproxen (MD 21 mL per cycle, 95% CI ‐6 to 48 mL per cycle; 2 RCTs, 61 women; low‐certainty evidence), and NSAIDs may be similar to combined hormonal contraceptives for heavy menstrual bleeding (MD 25 mL per cycle, 95% CI ‐22 to 73 mL per cycle; 1 RCT, 26 women; low‐certainty evidence). NSAIDs may be be less effective in reducing menstrual bleeding than antifibrinolytics (relative risk (RR) 0.70, 95% CI 0.58 to 0.85; 2 RCTs, 161 women; low‐certainty evidence). We are uncertain whether NSAIDs reduce menstrual blood loss more than short‐cycle progestogens (RR 0.80, 95% CI 0.49 to 1.32; 1 RCT 32 women; very low‐certainty evidence). 

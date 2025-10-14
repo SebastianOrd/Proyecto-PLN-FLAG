@@ -1,0 +1,10 @@
+Background
+The management of postoperative pain and recovery is still unsatisfactory in a number of cases in clinical practice. Opioids used for postoperative analgesia are frequently associated with adverse effects, including nausea and constipation, preventing smooth postoperative recovery. Not all patients are suitable for, and benefit from, epidural analgesia that is used to improve postoperative recovery. The non‐opioid, lidocaine, was investigated in several studies for its use in multimodal management strategies to reduce postoperative pain and enhance recovery. This review was published in 2015 and updated in January 2017. 
+Objectives
+To assess the effects (benefits and risks) of perioperative intravenous (IV) lidocaine infusion compared to placebo/no treatment or compared to epidural analgesia on postoperative pain and recovery in adults undergoing various surgical procedures. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL, and reference lists of articles in January 2017. We searched one trial registry contacted researchers in the field, and handsearched journals and congress proceedings. We updated this search in February 2018, but have not yet incorporated these results into the review. 
+Selection criteria
+We included randomized controlled trials comparing the effect of continuous perioperative IV lidocaine infusion either with placebo, or no treatment, or with thoracic epidural analgesia (TEA) in adults undergoing elective or urgent surgery under general anaesthesia. The IV lidocaine infusion must have been started intraoperatively, prior to incision, and continued at least until the end of surgery. 
+Data collection and analysis
+We used Cochrane's standard methodological procedures. Our primary outcomes were: pain score at rest; gastrointestinal recovery and adverse events. Secondary outcomes included: postoperative nausea and postoperative opioid consumption. We used GRADE to assess the quality of evidence for each outcome. 

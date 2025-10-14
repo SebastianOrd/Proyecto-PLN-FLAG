@@ -1,0 +1,12 @@
+Background
+Shock wave therapy has seen widespread use since the 1990s to treat various musculoskeletal disorders including rotator cuff disease, but evidence of its efficacy remains equivocal. 
+Objectives
+To determine the benefits and harms of shock wave therapy for rotator cuff disease, with or without calcification, and to establish its usefulness in the context of other available treatment options. 
+Search methods
+We searched Ovid MEDLINE, Ovid Embase, CENTRAL, ClinicalTrials.gov and the WHO ICTRP up to November 2019, with no restrictions on language. We reviewed the reference lists of retrieved trials to identify potentially relevant trials. 
+Selection criteria
+We included randomised controlled trials (RCTs) and controlled clinical trials (CCTs) that used quasi‐randomised methods to allocate participants, investigating participants with rotator cuff disease with or without calcific deposits. We included trials of comparisons of extracorporeal or radial shock wave therapy versus any other intervention. Major outcomes were pain relief greater than 30%, mean pain score, function, patient‐reported global assessment of treatment success, quality of life, number of participants experiencing adverse events and number of withdrawals due to adverse events. 
+Data collection and analysis
+Two review authors independently selected studies for inclusion, extracted data and assessed the certainty of evidence using GRADE. The primary comparison was shock wave therapy compared to placebo. 
+Main results
+Thirty‐two trials (2281 participants) met our inclusion criteria. Most trials (25) included participants with rotator cuff disease and calcific deposits, five trials included participants with rotator cuff disease and no calcific deposits, and two trials included a mixed population of participants with and without calcific deposits. 

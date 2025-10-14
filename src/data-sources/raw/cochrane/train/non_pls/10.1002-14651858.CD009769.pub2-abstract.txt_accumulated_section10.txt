@@ -1,0 +1,10 @@
+Background
+Chronic obstructive pulmonary disease (COPD) is a chronic obstructive lung condition, diagnosed in patients with dyspnoea, chronic cough or sputum production and/or a history of risk factor exposure, if their postbronchodilator forced expiratory lung volume in 1 second (FEV1)/forced vital lung capacity (FVC) ratio is less than 0.70, according to the international GOLD (Global Initiative for Obstructive Lung Disease) criteria. 
+Inhaled corticosteroid (ICS) medications are now recommended for COPD only in combination treatment with long‐acting beta2‐agonists (LABAs), and only for patients of GOLD stage 3 and stage 4 severity, for both GOLD groups C and D. 
+ICS are expensive and how effective they are is a topic of controversy, particularly in relation to their adverse effects (pneumonia), which may be linked to more potent ICS. It is unclear whether beclometasone dipropionate (BDP), an unlicensed but widely used inhaled steroid, is a safe and effective alternative to other ICS. 
+Objectives
+To determine the effectiveness and safety in COPD of inhaled beclometasone alone compared with placebo, and of inhaled beclometasone in combination with LABAs compared with LABAs alone. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register of trials (CAGR) (includes Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED and PsycINFO, and handsearching of respiratory journals and meeting abstracts) (February 2013), conference abstracts, ongoing studies and reference lists of articles. We contacted pharmaceutical companies and drug marketing authorisation bodies/ethics committees in 49 countries and obtained licensing information. 
+Selection criteria
+Randomised controlled trials of BDP compared with placebo, or BDP/LABA compared with LABA, in stable COPD. Minimum trial duration is 12 weeks. 

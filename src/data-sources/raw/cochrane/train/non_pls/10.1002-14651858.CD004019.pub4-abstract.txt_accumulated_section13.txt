@@ -1,0 +1,13 @@
+Background
+Patients with unicompartmental osteoarthritis of the knee can be treated with an osteotomy. The goal of an osteotomy is to unload the diseased compartment of the knee. This is the second update of the original review published in The Cochrane Library, Issue 1, 2005. 
+Objectives
+To assess the benefits and harms of an osteotomy for treating patients with knee osteoarthritis, including the following main outcomes scores: treatment failure, pain and function scores, health‐related quality of life, serious adverse events, mortality and reoperation rate. 
+Search methods
+The Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and EMBASE (Current Contents, HealthSTAR) were searched until November 2013 for this second update. 
+Selection criteria
+Randomised and controlled clinical trials comparing an osteotomy with other treatments for patients with unicompartmental osteoarthritis of the knee. 
+Data collection and analysis
+Two review authors independently selected trials, extracted data and assessed risk of bias using the domains recommended in the 'Risk of bias' tool of The Cochrane Collaboration. The quality of the results was analysed by performing overall grading of evidence by outcome using the GRADE (Grades of Recommendation, Assessment, Development and Evaluation) approach. 
+Main results
+Eight new studies were included in this update, for a total of 21 included studies involving 1065 people. 
+In four studies, the randomised sequence was adequately generated and clearly described. In eight studies, allocation concealment was adequately generated and described. In four studies, the blinding procedures were sufficient. In six studies, incomplete outcome data were not adequately addressed. Furthermore, in 11 studies, the selective outcome reporting item was unclear because no study protocol was provided. 

@@ -1,0 +1,14 @@
+Background
+People with dementia who are being cared for in long‐term care settings are often not engaged in meaningful activities. Offering them activities which are tailored to their individual interests and preferences might improve their quality of life and reduce challenging behaviour. 
+Objectives
+∙ To assess the effects of personally tailored activities on psychosocial outcomes for people with dementia living in long‐term care facilities. 
+∙ To describe the components of the interventions.
+∙ To describe conditions which enhance the effectiveness of personally tailored activities in this setting. 
+Search methods
+We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group’s Specialized Register, on 16 June 2017 using the terms: personally tailored OR individualized OR individualised OR individual OR person‐centred OR meaningful OR personhood OR involvement OR engagement OR engaging OR identity. We also performed additional searches in MEDLINE (Ovid SP), Embase (Ovid SP), PsycINFO (Ovid SP), CINAHL (EBSCOhost), Web of Science (ISI Web of Science), ClinicalTrials.gov, and the World Health Organization (WHO) ICTRP, to ensure that the search for the review was as up to date and as comprehensive as possible. 
+Selection criteria
+We included randomised controlled trials and controlled clinical trials offering personally tailored activities. All interventions included an assessment of the participants' present or past preferences for, or interests in, particular activities as a basis for an individual activity plan. Control groups received either usual care or an active control intervention. 
+Data collection and analysis
+Two authors independently checked the articles for inclusion, extracted data and assessed the methodological quality of included studies. For all studies, we assessed the risk of selection bias, performance bias, attrition bias and detection bias. In case of missing information, we contacted the study authors. 
+Main results
+We included eight studies with 957 participants. The mean age of participants in the studies ranged from 78 to 88 years and in seven studies the mean MMSE score was 12 or lower. Seven studies were randomised controlled trials (three individually randomised, parallel group studies, one individually randomised cross‐over study and three cluster‐randomised trials) and one study was a non‐randomised clinical trial. Five studies included a control group receiving usual care, two studies an active control intervention (activities which were not personally tailored) and one study included both an active control and usual care. Personally tailored activities were mainly delivered directly to the participants; in one study the nursing staff were trained to deliver the activities. The selection of activities was based on different theoretical models but the activities did not vary substantially. 

@@ -1,0 +1,10 @@
+Background
+Subfertile women are highly motivated to try different adjunctive therapies to have a baby, and the widespread perception is that dietary supplements such as myo‐inositol (MI) and D‐chiro‐insoitol (DCI) are associated with only benefit, and not with harm. Many fertility clinicians currently prescribe MI for subfertile women with polycystic ovary syndrome (PCOS) as pre‐treatment to in vitro fertilisation (IVF) or for ovulation induction; however no high‐quality evidence is available to support this practice. This review assessed the evidence for the effectiveness of inositol in subfertile women with a diagnosis of PCOS. 
+Objectives
+To evaluate the effectiveness and safety of oral supplementation of inositol for reproductive outcomes among subfertile women with PCOS who are trying to conceive. 
+Search methods
+We searched the following databases (to July 2018): Cochrane Gynaecology and Fertility Group (CGFG) Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, and AMED. We also checked reference lists and searched the clinical trials registries. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared any type, dose, or combination of oral inositol versus placebo, no treatment/standard treatment, or treatment with another antioxidant, or with a fertility agent, or with another type of inositol, among subfertile women with PCOS. 
+Data collection and analysis
+Two review authors independently selected eligible studies, extracted data, and assessed risk of bias. The primary outcomes were live birth and adverse effects; secondary outcomes included clinical pregnancy rates and ovulation rates. We pooled studies using a fixed‐effect model, and we calculated odds ratios (ORs) with 95% confidence intervals (CIs). We assessed the overall quality of the evidence by applying GRADE criteria. 

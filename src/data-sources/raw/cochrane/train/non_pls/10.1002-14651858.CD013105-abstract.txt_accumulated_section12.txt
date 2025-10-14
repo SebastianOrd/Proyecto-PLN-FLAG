@@ -1,0 +1,12 @@
+Background
+Pelvic organ prolapse (POP) affects as many as 50% of parous women, with 14% to 19% of women undergoing a surgical correction. Although surgery for the treatment of POP is common, limited supportive data can be found in the literature regarding the preoperative and postoperative interventions related to these procedures. The main goal of perioperative interventions is to reduce the rate of adverse events while improving women's outcomes following surgical intervention for prolapse. A broad spectrum of perioperative interventions are available, and although the benefits of interventions such as prophylactic antibiotics before abdominal surgery are well established, others are unique to women undergoing POP surgeries and as such need to be investigated separately. 
+Objectives
+The aim of this review is to compare the safety and effectiveness of a range of perioperative interventions versus other interventions or no intervention (control group) at the time of surgery for pelvic organ prolapse. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, MEDLINE In Process, ClinicalTrials.gov, WHO ICTRP, handsearching of journals and conference proceedings (searched 30 November 2017), and reference lists of relevant articles. We also contacted researchers in the field. 
+Selection criteria
+We included randomised controlled trials (RCTs) of women undergoing surgical treatment for symptomatic pelvic organ prolapse that compared a perioperative intervention related to pelvic organ prolapse surgery versus no treatment or another intervention. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. Our primary outcomes were objective failure at any site and subjective postoperative prolapse symptoms. We also measured adverse effects, focusing on intraoperative blood loss and blood transfusion, intraoperative ureteral injury, and postoperative urinary tract infection. 
+Main results
+We included 15 RCTs that compared eight different interventions versus no treatment for 1992 women in five countries. Most interventions were assessed by only one RCT with evidence quality ranging from very low to moderate. The main limitation was imprecision, associated with small sample sizes and low event rates. 

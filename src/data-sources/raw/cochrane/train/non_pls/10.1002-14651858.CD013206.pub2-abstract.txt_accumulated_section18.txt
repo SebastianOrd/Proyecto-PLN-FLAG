@@ -1,0 +1,18 @@
+Background
+Eczema is a common and chronic, relapsing, inflammatory skin disorder. It seriously impacts quality of life and economic outcomes, especially for those with moderate to severe eczema. Various treatments allow sustained control of the disease; however, their relative benefit remains unclear due to the limited number of trials directly comparing treatments. 
+Objectives
+To assess the comparative efficacy and safety of different types of systemic immunosuppressive treatments for moderate to severe eczema using NMA and to generate rankings of available systemic immunosuppressive treatments for eczema according to their efficacy and safety. 
+Search methods
+We searched the following databases up to August 2019: the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, and Embase. 
+Selection criteria
+All randomised controlled trials (RCTs) of systemic immunosuppressive agents for moderate to severe atopic eczema when compared against placebo or any other eligible eczema treatment. 
+Data collection and analysis
+We synthesised data using pair‐wise analysis and NMA to compare treatments and rank them according to their effectiveness. 
+Effectiveness was assessed primarily by determining the proportion of participants who achieved at least 75% improvement in the Eczema Area and Severity Index (EASI75) and improvement in the Patient‐Oriented Eczema Measure (POEM). Safety was evaluated primarily by considering the proportion of participants with serious adverse events (SAEs) and infection. 
+We deemed short‐term follow‐up as ≤ 16 weeks and long‐term follow‐up as > 16 weeks.
+We assessed the certainty of the body of evidence from the NMA for these primary outcomes using six domains of CiNEMA grading. 
+Main results
+We included a total of 74 studies, with 8177 randomised participants. Approximately 55% of participants were male, with average age of 32 years (range 2 to 84 years), although age and gender were unreported for 419 and 902 participants, respectively. Most of the included trials were placebo controlled (65%), 34% were head‐to‐head studies (15% assessed the effects of different doses of the same drug), and 1% were multi‐armed studies with both an active comparator and a placebo. 
+All trials included participants with moderate to severe eczema, but 62% of studies did not separate data by severity; 38% of studies assessed only severe eczema. The total duration of included trials ranged from 2 weeks to 60 months, whereas treatment duration varied from a single dose (CIM331, KPL‐716) to 60 months (methotrexate (MTX)). 
+Seventy studies were available for quantitative synthesis; this review assessed 29 immunosuppressive agents from three classes of interventions. These included (1) conventional treatments, with ciclosporin assessed most commonly; (2) small molecule treatments, including phosphodiesterase (PDE)‐4 inhibitors, tyrosine kinase inhibitors, and Janus kinase (JAK) inhibitors; and (3) biological treatments, including anti‐CD31 receptors, anti‐interleukin (IL)‐22, anti‐IL‐31, anti‐IL‐13, anti‐IL‐12/23p40, anti‐OX40, anti‐TSLP, anti‐CRTH2, and anti‐immunoglobulin E (IgE) monoclonal antibodies, but most commonly dupilumab. 
+Most trials (73) assessed outcomes at a short‐term duration ranging from 2 to 16 weeks, whereas 33 trials assessed long‐term outcomes, with duration ranging from 5 to 60 months. All participants were from a hospital setting. Fifty‐two studies declared a source of funding, and of these, pharmaceutical companies funded 88%. We rated 37 studies as high risk; 21, unclear risk, and 16, low risk of bias, with studies most commonly at high risk of attrition bias. 

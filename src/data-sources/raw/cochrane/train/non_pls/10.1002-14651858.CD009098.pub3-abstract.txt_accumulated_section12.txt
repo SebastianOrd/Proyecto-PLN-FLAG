@@ -1,0 +1,12 @@
+Background
+In patients with acute lung injury (ALI) and acute respiratory distress syndrome (ARDS), mortality remains high. These patients require mechanical ventilation, which has been associated with ventilator‐induced lung injury. High levels of positive end‐expiratory pressure (PEEP) could reduce this condition and improve patient survival. This is an updated version of the review first published in 2013. 
+Objectives
+To assess the benefits and harms of high versus low levels of PEEP in adults with ALI and ARDS. 
+Search methods
+For our previous review, we searched databases from inception until 2013. For this updated review, we searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, LILACS, and the Web of Science from inception until May 2020. We also searched for ongoing trials (www.trialscentral.org; www.clinicaltrial.gov; www.controlled-trials.com), and we screened the reference lists of included studies. 
+Selection criteria
+We included randomised controlled trials that compared high versus low levels of PEEP in ALI and ARDS participants who were intubated and mechanically ventilated in intensive care for at least 24 hours. 
+Data collection and analysis
+Two review authors assessed risk of bias and extracted data independently. We contacted investigators to identify additional published and unpublished studies. We used standard methodological procedures expected by Cochrane. 
+Main results
+We included four new studies (1343 participants) in this review update. In total, we included 10 studies (3851 participants). We found evidence of risk of bias in six studies, and the remaining studies fulfilled all criteria for low risk of bias. In eight studies (3703 participants), a comparison was made between high and low levels of PEEP, with the same tidal volume in both groups. In the remaining two studies (148 participants), the tidal volume was different between high‐ and low‐level groups. 

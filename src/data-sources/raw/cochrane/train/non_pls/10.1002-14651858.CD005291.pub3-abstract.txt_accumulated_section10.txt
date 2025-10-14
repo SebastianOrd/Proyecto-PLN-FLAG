@@ -1,0 +1,10 @@
+Background
+In in vitro fertilisation (IVF) with or without intracytoplasmic sperm injection (ICSI), selection of the most competent embryo(s) for transfer is based on morphological criteria. However, many women do not achieve a pregnancy even after 'good quality' embryo transfer. One of the presumed causes is that such morphologically normal embryos have an abnormal number of chromosomes (aneuploidies). Preimplantation genetic testing for aneuploidies (PGT‐A), formerly known as preimplantation genetic screening (PGS), was therefore developed as an alternative method to select embryos for transfer in IVF. In PGT‐A, the polar body or one or a few cells of the embryo are obtained by biopsy and tested. Only polar bodies and embryos that show a normal number of chromosomes are transferred. 
+The first generation of PGT‐A, using cleavage‐stage biopsy and fluorescence in situ hybridisation (FISH) for the genetic analysis, was demonstrated to be ineffective in improving live birth rates. Since then, new PGT‐A methodologies have been developed that perform the biopsy procedure at other stages of development and use different methods for genetic analysis. 
+Whether or not PGT‐A improves IVF outcomes and is beneficial to patients has remained controversial. 
+Objectives
+To evaluate the effectiveness and safety of PGT‐A in women undergoing an IVF treatment.
+Search methods
+We searched the Cochrane Gynaecology and Fertility (CGF) Group Trials Register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, and two trials registers in September 2019 and checked the references of appropriate papers. 
+Selection criteria
+All randomised controlled trials (RCTs) reporting data on clinical outcomes in participants undergoing IVF with PGT‐A versus IVF without PGT‐A were eligible for inclusion. 

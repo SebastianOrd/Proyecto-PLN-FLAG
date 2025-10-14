@@ -1,0 +1,10 @@
+Background
+Interferons (IFNs) are cytokines which possess immunoregulatory properties and have been used to successfully treat a number of chronic inflammatory disorders. It has been postulated that Type I IFNs may be able to re‐establish the Th1/Th2 balance in Th2 predominant diseases like ulcerative colitis. 
+Objectives
+To systematically evaluate the efficacy and safety of type I IFN therapy for induction of remission in ulcerative colitis. 
+Search methods
+We searched MEDLINE, EMBASE, CENTRAL, the Cochrane IBD/FBD group specialised register, and ClinicalTrials.gov from inception to August 8, 2014. Reference lists of trials and review articles, as well as recent proceedings from major gastroenterology meetings were manually searched. 
+Selection criteria
+Randomised controlled trials of type I IFNs for induction of remission in UC were included. The study population included patients of any age with active ulcerative colitis. There were no exclusions based on type, dose or duration of IFN treatment. 
+Data collection and analysis
+Two independent authors reviewed studies for eligibility, extracted the data and assessed study quality using the Cochrane risk of bias tool. The overall quality of the evidence supporting the outcomes was evaluated using the GRADE criteria. The primary outcome was induction of remission of ulcerative colitis. Secondary outcomes included: time to remission, mean change in disease activity index score, clinical, histological or endoscopic improvement, improvement in quality of life, and adverse events. We calculated the risk ratio (RR) and corresponding 95% confidence interval (CI) for dichotomous outcomes. We calculated the mean difference and corresponding 95% confidence interval for continuous outcomes. Meta‐analysis was performed using RevMan 5.3.5 software. 

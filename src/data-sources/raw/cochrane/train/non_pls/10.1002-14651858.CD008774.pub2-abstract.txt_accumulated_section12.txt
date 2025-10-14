@@ -1,0 +1,12 @@
+Background
+Specific allergen immunotherapy (SIT) is a treatment that may improve disease severity in people with atopic eczema (AE) by inducing immune tolerance to the relevant allergen. A high quality systematic review has not previously assessed the efficacy and safety of this treatment. 
+Objectives
+To assess the effects of specific allergen immunotherapy (SIT), including subcutaneous, sublingual, intradermal, and oral routes, compared with placebo or a standard treatment in people with atopic eczema. 
+Search methods
+We searched the following databases up to July 2015: the Cochrane Skin Group Specialised Register, CENTRAL in the Cochrane Library (Issue 7, 2015), MEDLINE (from 1946), EMBASE (from 1974), LILACS (from 1982), Web of Science™ (from 2005), the Global Resource of EczemA Trials (GREAT database), and five trials databases. We searched abstracts from recent European and North American allergy meetings and checked the references of included studies and review articles for further references to relevant trials. 
+Selection criteria
+Randomised controlled trials (RCTs) of specific allergen immunotherapy that used standardised allergen extracts in people with AE. 
+Data collection and analysis
+Two authors independently undertook study selection, data extraction (including adverse effects), assessment of risk of bias, and analyses. We used standard methodological procedures expected by Cochrane. 
+Main results
+We identified 12 RCTs for inclusion in this review; the total number of participants was 733. The interventions included SIT in children and adults allergic to either house dust mite (10 trials), grass pollen, or other inhalant allergens (two trials). They were administered subcutaneously (six trials), sublingually (four trials), orally, or intradermally (two trials). Overall, the risk of bias was moderate, with high loss to follow up and lack of blinding as the main methodological concern. 

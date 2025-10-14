@@ -1,0 +1,14 @@
+Background
+This is the second update of this Cochrane Review. Some studies have suggested a protective effect of antioxidant nutrients and higher dietary levels of fruits and vegetables on lung cancer. 
+Objectives
+To determine whether vitamins and minerals and other potential agents, alone or in combination, reduce lung cancer incidence and lung cancer mortality in healthy populations. 
+Search methods
+We searched CENTRAL, MEDLINE and Embase from 1974 to May 2019 and screened references included in published studies and reviews. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing vitamins or mineral supplements with placebo, administered to healthy people with the aim of preventing lung cancer. 
+Data collection and analysis
+Four review authors independently selected the trials to be included in the review, assessed their methodological quality and extracted data. For dichotomous outcomes we calculated risk ratios (RRs) and 95% confidence intervals (CIs) and pooled results using the random‐effects model. We assessed the risk of bias using Cochrane's 'Risk of bias' assessment tool and certainty of evidence using the GRADE approach. 
+Main results
+In this update, we identified three new trials for a total of 12 studies. Six analysed vitamin A, three vitamin C, three combined vitamin D3 + calcium, four vitamin E combined with other products, one selenium supplements and nine studied combinations of two or more products. Four studies included only men and five only women. 
+Vitamin A results in little to no difference in lung cancer incidence (RR 1.09, 95% CI 1.00 to 1.19; 5 RCTs, 212314 participants; high‐certainty evidence) and lung cancer mortality (RR 1.06, 95% CI 0.81 to 1.38; 3 RCTs, 190118 participants; high‐certainty evidence). But in smokers or asbestos workers vitamin A increases the risk of lung cancer incidence (RR 1.10, 95% CI 1.01 to 1.20; 3 RCTs, 43995 participants; high‐certainty evidence), lung cancer mortality (RR 1.18, 95% CI 1.01 to 1.38; 2 RCTs, 29426 participants; high‐certainty evidence) and all‐cause mortality (RR 1.09, 95% CI 1.05 to 1.13; 2 RCTs, 32883 participants; high‐certainty evidence). Vitamin A increases the risk of minor side effects, such as yellowing of the skin and minor gastrointestinal symptoms (high‐certainty evidence). 
+Vitamin C likely results in little to no difference in lung cancer incidence (RR 1.29, 95% CI 0.67 to 2.49; 2 RCTs, 14953 participants; moderate‐certainty evidence). In women, vitamin C increases the risk of lung cancer incidence (RR 1.84, 95% CI 1.14 to 2.95; 1 RCT, 7627 participants; high‐certainty evidence). In men, vitamin C results in little to no difference in mortality for lung cancer (RR 0.81, 95% CI 0.53 to 1.23; 1 RCT, 7326 participants; high‐certainty evidence). 

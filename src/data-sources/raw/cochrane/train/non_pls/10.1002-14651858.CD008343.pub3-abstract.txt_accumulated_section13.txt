@@ -1,0 +1,13 @@
+Background
+Risky consumption of alcohol is a global problem. More than 3.3 million deaths annually are associated with risky use of alcohol, and global alcohol consumption continues to increase. People who have high alcohol consumption often require planned and emergency surgical procedures. 
+Risky drinking is associated with increased postoperative complications such as infections, cardiopulmonary complications, and bleeding episodes. Alcohol causes disorders of the liver, pancreas, and nervous system. Stopping consumption of alcohol can normalize these organ systems to some degree and may reduce the occurrence of complications after surgery. 
+This review was first published in 2012 and was updated in 2018.
+Objectives
+To assess the effects of perioperative alcohol cessation interventions on rates of postoperative complications and alcohol consumption. 
+Search methods
+We searched the following databases up until 21 September 2018: Cochrane Central Register of Controlled Trials (CENTRAL), in the Cochrane Library; MEDLINE; Embase; CINAHL via EBSCOhost; and two trials registers. We scanned the reference lists and citations of included trials and any identified relevant systematic reviews for further references to additional trials. When necessary, we contacted trial authors to ask for additional information. 
+Selection criteria
+We included all randomized controlled trials (RCTs) that evaluated the effects of perioperative alcohol cessation interventions on postoperative complications and alcohol consumption. We included participants with risky consumption of alcohol who were undergoing all types of elective or acute surgical procedures under general or regional anaesthesia or sedation, who were offered a perioperative alcohol cessation intervention or no intervention. 
+We defined 'risky drinking' as alcohol consumption equivalent to more than 3 alcoholic units (AU)/d or 21 AU/week (with 1 AU containing 12 grams of ethanol) with or without symptoms of alcohol abuse or dependency. This corresponds to the amount of alcohol associated with increased postoperative complication rates in most clinical studies. 
+Data collection and analysis
+We used guidance provided in the Cochrane Handbook for Systematic Reviews of Interventions. We presented main outcomes as dichotomous variables in a meta‐analysis. When data were available, we conducted subgroup and sensitivity analyses to explore the risk of bias. Primary outcome measures were postoperative complications and in‐hospital and 30‐day mortality. Secondary outcomes were successful quitting at the end of the programme, postoperative alcohol use, and length of hospital stay. We assessed the quality of evidence using the GRADE approach. 

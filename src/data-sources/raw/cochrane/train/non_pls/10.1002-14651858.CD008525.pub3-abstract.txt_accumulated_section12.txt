@@ -1,0 +1,12 @@
+Background
+Rates of major depression among people living with HIV (PLWH) are substantially higher than those seen in the general population and this may adversely affect antiretroviral treatment outcomes. Several unique clinical and psychosocial factors may contribute to the development and persistence of depression in PLWH. Given these influences, it is unclear if antidepressant therapy is as effective for PLWH as the general population. 
+Objectives
+To assess the efficacy of antidepressant therapy for treatment of depression in PLWH.
+Search methods
+We searched The Cochrane Common Mental Disorders Group's specialised register (CCMD‐CTR), the Cochrane Library, PubMed, Embase and ran a cited reference search on the Web of Science for reports of all included studies. We conducted additional searches of the international trial registers including; ClinicalTrials.gov, World Health Organization Trials Portal (ICTRP), and the HIV and AIDS ‐ Clinical trials register. We searched grey literature and reference lists to identify additional studies and contacted authors to obtain missing data. We applied no restrictions on date, language or publication status to the searches, which included studies conducted between 1 January 1980 and 18 April 2017. 
+Selection criteria
+We included randomized controlled trials of antidepressant drug therapy compared to placebo or another antidepressant drug class. Participants eligible for inclusion had to be aged 18 years and older, from any setting, and have both HIV and depression. Depression was defined according to Diagnostic and Statistical Manual of Mental Disorders or International Statistical Classification of Diseases criteria. 
+Data collection and analysis
+Two review authors independently applied the inclusion criteria and extracted data. We presented categorical outcomes as risk ratios (RR) with 95% confidence intervals (CIs). Continuous outcomes were presented mean (MD) or standardized mean differences (SMD) with standard deviations (SD). We assessed quality of evidence using the GRADE approach. 
+Main results
+We included 10 studies with 709 participants in this review. Of the 10 studies, eight were conducted in high income countries (USA and Italy), seven were conducted prior to 2000 and seven had predominantly men. Seven studies assessed antidepressants versus placebo, two compared different antidepressant classes and one had three arms comparing two antidepressant classes with placebo. 

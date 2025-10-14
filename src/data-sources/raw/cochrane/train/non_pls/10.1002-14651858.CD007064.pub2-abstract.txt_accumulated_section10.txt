@@ -1,0 +1,10 @@
+Background
+A cancer diagnosis may lead to significant psychological distress in up to 75% of cases. There is a lack of clarity about the most effective ways to address this psychological distress. 
+Objectives
+To assess the effects of psychosocial interventions to improve quality of life (QoL) and general psychological distress in the 12‐month phase following an initial cancer diagnosis. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2010, Issue 4), MEDLINE, EMBASE, and PsycINFO up to January 2011. We also searched registers of clinical trials, abstracts of scientific meetings and reference lists of included studies. Electronic searches were carried out across all primary sources of peer‐reviewed publications using detailed criteria. No language restrictions were imposed. 
+Selection criteria
+Randomised controlled trials of psychosocial interventions involving interpersonal dialogue between a 'trained helper' and individual newly diagnosed cancer patients were selected. Only trials measuring QoL and general psychological distress were included. Trials involving a combination of pharmacological therapy and interpersonal dialogue were excluded, as were trials involving couples, family members or group formats. 
+Data collection and analysis
+Trial data were examined and selected by two authors in pairs with mediation from a third author where required. Where possible, outcome data were extracted for combining in a meta‐analyses. Continuous outcomes were compared using standardised mean differences and 95% confidence intervals, using a random‐effects model. The primary outcome, QoL, was examined in subgroups by outcome measurement, cancer site, theoretical basis for intervention, mode of delivery and discipline of trained helper. The secondary outcome, general psychological distress (including anxiety and depression), was examined according to specified outcome measures. 

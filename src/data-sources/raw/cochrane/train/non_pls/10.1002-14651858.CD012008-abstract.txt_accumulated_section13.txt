@@ -1,0 +1,13 @@
+Background
+Child and adolescent overweight and obesity have increased globally, and are associated with short‐ and long‐term health consequences. 
+Objectives
+To assess the efficacy of diet, physical activity and behavioural interventions delivered to parents only for the treatment of overweight and obesity in children aged 5 to 11 years. 
+Search methods
+We performed a systematic literature search of databases including the Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL and LILACS as well trial registers. We checked references of identified trials and systematic reviews. We applied no language restrictions. The date of the last search was March 2015 for all databases. 
+Selection criteria
+We selected randomised controlled trials (RCTs) of diet, physical activity and behavioural interventions delivered to parents only for treating overweight or obesity in children aged 5 to 11 years. 
+Data collection and analysis
+Two review authors independently assessed trials for risk of bias and evaluated overall study quality using the GRADE instrument. Where necessary, we contacted authors for additional information. 
+Main results
+We included 20 RCTs, including 3057 participants. The number of participants ranged per trial between 15 and 645. Follow‐up ranged between 24 weeks and two years. Eighteen trials were parallel RCTs and two were cluster RCTs. Twelve RCTs had two comparisons and eight RCTs had three comparisons. The interventions varied widely; the duration, content, delivery and follow‐up of the interventions were heterogeneous. The comparators also differed. This review categorised the comparisons into four groups: parent‐only versus parent‐child, parent‐only versus waiting list controls, parent‐only versus minimal contact interventions and parent‐only versus other parent‐only interventions. 
+Trial quality was generally low with a large proportion of trials rated as high risk of bias on individual risk of bias criteria. 

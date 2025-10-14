@@ -1,0 +1,10 @@
+Background
+Emotional and behavioural problems in children are common. Research suggests that parenting has an important role to play in helping children to become well‐adjusted, and that the first few months and years are especially important. Parenting programmes may have a role to play in improving the emotional and behavioural adjustment of infants and toddlers, and this review examined their effectiveness with parents and carers of young children. 
+Objectives
+1. To establish whether group‐based parenting programmes are effective in improving the emotional and behavioural adjustment of young children (maximum mean age of three years and 11 months); and 2. To assess whether parenting programmes are effective in the primary prevention of emotional and behavioural problems. 
+Search methods
+In July 2015 we searched CENTRAL (the Cochrane Library), Ovid MEDLINE, Embase (Ovid), and 10 other databases. We also searched two trial registers and handsearched reference lists of included studies and relevant systematic reviews. 
+Selection criteria
+Two reviewers independently assessed the records retrieved by the search. We included randomised controlled trials (RCTs) and quasi‐RCTs of group‐based parenting programmes that had used at least one standardised instrument to measure emotional and behavioural adjustment in children. 
+Data collection and analysis
+One reviewer extracted data and a second reviewer checked the extracted data. We presented the results for each outcome in each study as standardised mean differences (SMDs) with 95% confidence intervals (CIs). Where appropriate, we combined the results in a meta‐analysis using a random‐effects model. We used the GRADE (Grades of Recommendations, Assessment, Development, and Evaluation) approach to assess the overall quality of the body of evidence for each outcome. 

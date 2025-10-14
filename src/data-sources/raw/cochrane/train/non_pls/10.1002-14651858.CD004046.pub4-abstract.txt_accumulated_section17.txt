@@ -1,0 +1,17 @@
+Background
+Depression is recognised as a major public health problem that has a substantial impact on individuals and on society. People with depression may consider using complementary therapies such as acupuncture, and an increasing body of research has been undertaken to assess the effectiveness of acupuncture for treatment of individuals with depression. This is the second update of this review. 
+Objectives
+To examine the effectiveness and adverse effects of acupuncture for treatment of individuals with depression. 
+To determine:
+• Whether acupuncture is more effective than treatment as usual/no treatment/wait list control for treating and improving quality of life for individuals with depression. 
+• Whether acupuncture is more effective than control acupuncture for treating and improving quality of life for individuals with depression. 
+• Whether acupuncture is more effective than pharmacological therapies for treating and improving quality of life for individuals with depression. 
+• Whether acupuncture plus pharmacological therapy is more effective than pharmacological therapy alone for treating and improving quality of life for individuals with depression. 
+• Whether acupuncture is more effective than psychological therapies for treating and improving quality of life for individuals with depression. 
+• Adverse effects of acupuncture compared with treatment as usual/no treatment/wait list control, control acupuncture, pharmacological therapies, and psychological therapies for treatment of individuals with depression. 
+Search methods
+We searched the following databases to June 2016: Cochrane Common Mental Disorders Group Controlled Trials Register (CCMD‐CTR), Korean Studies Information Service System (KISS), DBPIA (Korean article database website), Korea Institute of Science and Technology Information, Research Information Service System (RISS), Korea Med, Korean Medical Database (KM base), and Oriental Medicine Advanced Searching Integrated System (OASIS), as well as several Korean medical journals. 
+Selection criteria
+Review criteria called for inclusion of all published and unpublished randomised controlled trials comparing acupuncture versus control acupuncture, no treatment, medication, other structured psychotherapies (cognitive‐behavioural therapy, psychotherapy, or counselling), or standard care. Modes of treatment included acupuncture, electro‐acupuncture, and laser acupuncture. Participants included adult men and women with depression diagnosed by Diagnostic and Statistical Manual of Mental Disorders Fourth Edition (DSM‐IV), Research Diagnostic Criteria (RDC), International Statistical Classification of Diseases and Related Health Problems (ICD), or Chinese Classification of Mental Disorders Third Edition Revised (CCMD‐3‐R). If necessary, we used trial authors' definitions of depressive disorder. 
+Data collection and analysis
+We performed meta‐analyses using risk ratios (RRs) for dichotomous outcomes and standardised mean differences (SMDs) for continuous outcomes, with 95% confidence intervals (CIs). Primary outcomes were reduction in the severity of depression, measured by self‐rating scales or by clinician‐rated scales, and improvement in depression, defined as remission versus no remission. We assessed evidence quality using the GRADE method. 

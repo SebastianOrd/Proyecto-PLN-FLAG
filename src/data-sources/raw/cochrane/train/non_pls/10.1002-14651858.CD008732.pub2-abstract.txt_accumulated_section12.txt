@@ -1,0 +1,12 @@
+Background
+Branch retinal vein occlusion (BRVO) is the second most common cause of retinal vascular abnormality after diabetic retinopathy. Persistent macular oedema develops in 60% of eyes with a BRVO. Untreated, only 14% of eyes with chronic macular oedema will have a visual acuity (VA) of 20/40 or better. Macular grid laser photocoagulation is used for chronic non‐ischaemic macular oedema following BRVO and has been the mainstay of treatment for over 20 years. New treatments are available and a systematic review is necessary to ensure that the most up‐to‐date evidence is considered objectively. 
+Objectives
+To examine the effects of macular grid laser photocoagulation in the treatment of macular oedema following BRVO. 
+Search methods
+We searched CENTRAL, Ovid MEDLINE, EMBASE, Web of Science Conference Proceedings Citation Index, the metaRegister of Controlled Trials (mRCT), ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform. We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 21 August 2014. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing macular grid laser photocoagulation treatment to another treatment, sham treatment or no treatment. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included five studies conducted in Europe and North America. Four separate trials compared grid laser to no treatment, sham treatment, intravitreal bevacizumab and intravitreal triamcinolone. One further trial compared subthreshold to threshold laser. Two of these trials were judged to be at high risk of bias in one or more domains. 

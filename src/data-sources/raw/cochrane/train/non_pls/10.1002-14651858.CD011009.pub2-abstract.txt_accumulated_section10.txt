@@ -1,0 +1,10 @@
+Background
+Thyroid disease is the second most common endocrine disorder affecting women of reproductive age. Subclinical hypothyroidism is diagnosed by an elevated thyroid‐stimulating hormone concentration with a normal concentration of free thyroxine hormone. Autoimmune thyroid disease (ATD) is diagnosed by the presence of thyroid autoantibodies, regardless of thyroid hormone levels. Thyroxine may be a useful treatment for subfertile women with these two specific types of thyroid disease for improving pregnancy outcomes during assisted reproduction. 
+Objectives
+To evaluate the efficacy and harms of levothyroxine replacement in subfertile women with subclinical hypothyroidism or with normal thyroid function and thyroid autoimmunity (euthyroid autoimmune thyroid disease, or euthyroid ATD) undergoing assisted reproduction. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility (CGF) Group specialised register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL and two trials registers together with reference checking and contact with study authors and experts in the field to identify studies. We searched for all published and unpublished randomised controlled trials (RCTs) comparing thyroxine with no treatment or placebo, without language restrictions, from inception to 8 April 2019, and in consultation with the Cochrane CGF Information Specialist. 
+Selection criteria
+We included women undergoing assisted reproduction treatment, meaning both in vitro fertilisation and intracytoplasmic sperm injection, with a history of subfertility and with subclinical hypothyroidism or with euthyroid ATD. We excluded women with a previously known clinical hypothyroidism or already taking thyroxine or tri‐iodothyronine. RCTs compared thyroxine (levothyroxine) with either placebo or no treatment. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Our primary review outcomes were live birth and adverse events of thyroxine; our secondary outcomes were clinical pregnancy, multiple pregnancy and miscarriage. 

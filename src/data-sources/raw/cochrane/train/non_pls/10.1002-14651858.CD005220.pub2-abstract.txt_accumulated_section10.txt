@@ -1,0 +1,10 @@
+Background
+Numerous medications are available for the acute treatment of migraine in adults, and some have now been approved for use in children and adolescents in the ambulatory setting. A systematic review of acute treatment of migraine medication trials in children and adolescents will help clinicians make evidence‐informed management choices. 
+Objectives
+To assess the effects of pharmacological interventions by any route of administration versus placebo for migraine in children and adolescents 17 years of age or less. For the purposes of this review, children were defined as under 12 years of age and adolescents 12 to 17 years of age. 
+Search methods
+We searched seven bibliographic databases and four clinical trial registers as well as gray literature for studies through February 2016. 
+Selection criteria
+We included prospective randomized controlled clinical trials of children and adolescents with migraine, comparing acute symptom relieving migraine medications with placebo in the ambulatory setting. 
+Data collection and analysis
+Two reviewers screened titles and abstracts and reviewed the full text of potentially eligible studies. Two independent reviewers extracted data for studies meeting inclusion criteria. We calculated the risk ratios (RRs) and number needed to treat for an additional beneficial outcome (NNTB) for dichotomous data. We calculated the risk difference (RD) and number needed to treat for an additional harmful outcome (NNTH) for proportions of adverse events. The percentage of pain‐free patients at two hours was the primary efficacy outcome measure. We used adverse events to evaluate safety and tolerability. Secondary outcome measures included headache relief, use of rescue medication, headache recurrence, presence of nausea, and presence of vomiting. We assessed the evidence using GRADE (Grading of Recommendations Assessment, Development and Evaluation) and created 'Summary of findings' tables. 

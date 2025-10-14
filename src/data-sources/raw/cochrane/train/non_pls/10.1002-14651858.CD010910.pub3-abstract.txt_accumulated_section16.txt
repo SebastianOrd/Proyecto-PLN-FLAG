@@ -1,0 +1,16 @@
+Background
+This review represents one in a family of three reviews focusing on the effectiveness of interventions in reducing drug use and criminal activity for offenders. 
+Objectives
+To assess the effectiveness of interventions for female drug‐using offenders in reducing criminal activity, or drug use, or both. 
+Search methods
+We searched 12 electronic bibliographic databases up to February 2019.
+Selection criteria
+We included randomised controlled trials (RCTs).
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 13 trials with 2560 participants. Interventions were delivered in prison (7/13 studies, 53%) and community (6/13 studies, 47%) settings. The rating of bias was affected by the lack of clear reporting by authors, and we rated many items as 'unclear'. 
+In two studies (190 participants) collaborative case management in comparison to treatment as usual did not reduce drug use (risk ratio (RR) 0.65, 95% confidence interval (CI) 0.20 to 2.12; 1 study, 77 participants; low‐certainty evidence), reincarceration at nine months (RR 0.71, 95% CI 0.32 to 1.57; 1 study, 77 participants; low‐certainty evidence), and number of subsequent arrests at 12 months (RR 1.11, 95% CI 0.83 to 1.49; 1 study, 113 participants; low‐certainty evidence). 
+One study (36 participants) comparing buprenorphine to placebo showed no significant reduction in self‐reported drug use at end of treatment (RR 0.57, 95% CI 0.27 to 1.20) and three months (RR 0.58, 95% CI 0.25 to 1.35); very low‐certainty evidence. No adverse events were reported. 
+One study (38 participants) comparing interpersonal psychotherapy to a psychoeducational intervention did not find reduction in drug use at three months (RR 0.67, 95% CI 0.30 to 1.50; low‐certainty evidence). 
+One study (31 participants) comparing acceptance and commitment therapy (ACT) to a waiting list showed no significant reduction in self‐reported drug use using the Addiction Severity Index (mean difference (MD) ‐0.04, 95% CI ‐0.37 to 0.29) and abstinence from drug use at six months (RR 2.89, 95% CI 0.73 to 11.43); low‐certainty evidence. 

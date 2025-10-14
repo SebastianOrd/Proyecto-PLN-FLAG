@@ -1,0 +1,15 @@
+Background
+Cardiogenic shock (CS) is a state of critical end‐organ hypoperfusion due to a primary cardiac disorder. For people with refractory CS despite maximal vasopressors, inotropic support and intra‐aortic balloon pump, mortality approaches 100%. Mechanical assist devices provide mechanical circulatory support (MCS) which has the ability to maintain vital organ perfusion, to unload the failing ventricle thus reduce intracardiac filling pressures which reduces pulmonary congestion, myocardial wall stress and myocardial oxygen consumption. This has been hypothesised to allow time for myocardial recovery (bridge to recovery) or allow time to come to a decision as to whether the person is a candidate for a longer‐term ventricular assist device (VAD) either as a bridge to heart transplantation or as a destination therapy with a long‐term VAD. 
+Objectives
+To assess whether mechanical assist devices improve survival in people with acute cardiogenic shock. 
+Search methods
+We searched CENTRAL, MEDLINE (Ovid), Embase (Ovid) and Web of Science Core Collection in November 2019. In addition, we searched three trials registers in August 2019. We scanned reference lists and contacted experts in the field to obtain further information. There were no language restrictions. 
+Selection criteria
+Randomised controlled trials on people with acute CS comparing mechanical assist devices with best current intensive care management, including intra‐aortic balloon pump and inotropic support. 
+Data collection and analysis
+We performed data collection and analysis according to the published protocol.
+Primary outcomes were survival to discharge, 30 days, 1 year and secondary outcomes included, quality of life, major adverse cardiovascular events (30 days/end of follow‐up), dialysis‐dependent (30 days/end of follow‐up), length of hospital stay and length of intensive care unit stay and major adverse events. 
+We used the five GRADE considerations (study limitations, consistency of effect, imprecision, indirectness, and publication bias) to assess the quality of a body of evidence as it relates to the studies which contribute data to the meta‐analyses for the prespecified outcomes 
+Summary statistics for the primary endpoints were risk ratios (RR), hazard ratios (HRs) and odds ratios (ORs) with 95% confidence intervals (CIs). 
+Main results
+The search identified five studies from 4534 original citations reviewed. Two studies included acute CS of all causes randomised to treatment using TandemHeart percutaneous VAD and three studies included people with CS secondary to acute myocardial infarction who were randomised to Impella CP or best medical management. Meta‐analysis was performed only to assess the 30‐day survival as there were insufficient data to perform any further meta‐analyses. The results from the five studies with 162 participants showed mechanical assist devices may have little or no effect on 30‐day survival (RR of 1.01 95% CI 0.76 to 1.35) but the evidence is very uncertain. 

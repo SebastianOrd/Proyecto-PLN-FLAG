@@ -1,0 +1,13 @@
+Background
+Ophthalmia neonatorum is an infection of the eyes in newborns that can lead to blindness, particularly if the infection is caused by Neisseria gonorrhoeae. Antiseptic or antibiotic medication is dispensed into the eyes of newborns, or dispensed systemically, soon after delivery to prevent neonatal conjunctivitis and potential vision impairment. 
+Objectives
+1. To determine if any type of systemic or topical eye medication is better than placebo or no prophylaxis in preventing ophthalmia neonatorum. 
+2. To determine if any one systemic or topical eye medication is better than any other medication in preventing ophthalmia neonatorum. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, LILACS, and three trials registers, date of last search 4 October 2019. We also searched references of included studies and contacted pharmaceutical companies.  
+Selection criteria
+We included randomised and quasi‐randomised controlled trials of any topical, systemic, or combination medical interventions used to prevent ophthalmia neonatorum in newborns compared with placebo, no prophylaxis, or with each other. 
+Data collection and analysis
+We used standard methods expected by Cochrane. Outcomes were: blindness or any adverse visual outcome at 12 months, conjunctivitis at 1 month (gonococcal (GC), chlamydial (CC), bacterial (BC), any aetiology (ACAE), or unknown aetiology (CUE)), and adverse effects.  
+Main results
+We included 30 trials with a total of 79,198 neonates. Eighteen studies were conducted in high‐income settings (the USA, Europe, Israel, Canada), and 12 were conducted in low‐ and middle‐income settings (Africa, Iran, China, Indonesia, Mexico). Fifteen of the 30 studies were quasi‐randomised. We judged every study to be at high risk of bias in at least one domain. Ten studies included a comparison arm with no prophylaxis. There were 14 different prophylactic regimens and 12 different medications in the 30 included studies. 

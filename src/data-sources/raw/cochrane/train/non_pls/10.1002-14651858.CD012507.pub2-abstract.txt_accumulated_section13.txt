@@ -1,0 +1,13 @@
+Background
+Children with motor disorders can have difficulties in producing accurate and consistent movements for speech, gesture or facial expression (or a combination of these), making their communication difficult to understand. Parents may be offered training to help recognise and interpret their child's signals and to stimulate their children's development of new communication skills. 
+Objectives
+To assess the effectiveness of parent‐mediated communication interventions, compared to no intervention, treatment as usual or clinician‐mediated interventions, for improving the communication skills of preschool children up to five years of age who have non‐progressive motor disorders. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL, PsycINFO, 12 other databases and three trials registers in July 2017. We also searched the reference lists of relevant papers and reviews, and contacted experts working in the field to find unpublished studies. 
+Selection criteria
+We included studies that used randomised or quasi‐randomised designs; compared a parent‐mediated communication intervention with no treatment, treatment as usual or clinician‐mediated therapy; and included children with non‐progressive motor disorders up to five years of age. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane.
+Main results
+This review included two randomised controlled trials involving 38 children (20 boys, 18 girls), aged 15 to 96 months, and their mothers. All children had developmental disabilities; 10 had motor disorders, but it was unclear if these motor disorders affected their gestural, vocal or verbal communication. Mothers attended eight group training sessions over 11 to 12 weeks and received two or three home visits. Outcomes were assessed immediately after training. We found no report of longer‐term follow‐up. One study took place at an intervention centre in Canada and the other in South Korea. 
+Both studies recruited small numbers of participants from single centres. Since it is not possible to blind participants attending or therapists providing training to group allocation, we considered both studies to be at high risk of performance bias. We also rated one study at high risk of attrition bias, and both studies at low risk of reporting bias. 

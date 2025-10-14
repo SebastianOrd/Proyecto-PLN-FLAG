@@ -1,0 +1,11 @@
+Background
+Several school‐based interventions are effective in improving child diet and physical activity, and preventing excessive weight gain, and tobacco or harmful alcohol use. However, schools are frequently unsuccessful in implementing such evidence‐based interventions. 
+Objectives
+1. To evaluate the benefits and harms of strategies aiming to improve school implementation of interventions to address student diet, physical activity, tobacco or alcohol use, and obesity. 
+2. To evaluate the benefits and harms of strategies to improve intervention implementation on measures of student diet, physical activity, obesity, tobacco use or alcohol use; describe their cost or cost‐effectiveness; and any harms of strategies on schools, school staff or students. 
+Search methods
+We used standard, extensive Cochrane search methods. The latest search was between 1 September 2016 and 30 April 2021 to identify any relevant trials published since the last published review. 
+Selection criteria
+We defined 'Implementation' as the use of strategies to adopt and integrate evidence‐based health interventions and to change practice patterns within specific settings. We included any trial (randomised controlled trial (RCT) or non‐randomised controlled trial (non‐RCT)) conducted at any scale, with a parallel control group that compared a strategy to implement policies or practices to address diet, physical activity, overweight or obesity, tobacco or alcohol use by students to 'no intervention', 'usual' practice or a different implementation strategy. 
+Data collection and analysis
+We used standard Cochrane methods. Given the large number of outcomes reported, we selected and included the effects of a single outcome measure for each trial for the primary (implementation) and secondary (student health behaviour and obesity) outcomes using a decision hierarchy. Where possible, we calculated standardised mean differences (SMDs) to account for variable outcome measures with 95% confidence intervals (CI). For RCTs, we conducted meta‐analyses of primary and secondary outcomes using a random‐effects model, or in instances where there were between two and five studies, a fixed‐effect model. The synthesis of the effects for non‐randomised studies followed the 'Synthesis without meta‐analysis' (SWiM) guidelines. 

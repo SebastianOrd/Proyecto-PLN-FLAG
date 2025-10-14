@@ -1,0 +1,12 @@
+Background
+This is an updated version of the original review published in Issue 4, 2004 of The Cochrane Library. Lung cancer is one of the leading causes of death globally. Despite advances in treatment, the outlook for the majority of patients remains grim and most face a pessimistic future accompanied by sometimes devastating effects on emotional and psychological health. Although chemotherapy is accepted as an effective treatment for advanced lung cancer, the high prevalence of treatment‐related side effects as well the symptoms of disease progression highlight the need for high‐quality palliative and supportive care to minimise symptom distress and to promote quality of life. 
+Objectives
+To assess the effectiveness of non‐invasive interventions delivered by healthcare professionals in improving symptoms, psychological functioning and quality of life in patients with lung cancer. 
+Search methods
+We ran a search in February 2011 to update the original completed review. We searched the Cochrane Central Register of Controlled Trials (The Cochrane Library 2011, Issue 2), MEDLINE (accessed through PubMed), EMBASE, PsycINFO, AMED, British Nursing Index and Archive (accessed through Ovid) and reference lists of relevant articles; we also contacted authors. 
+Selection criteria
+Randomised or quasi‐randomised clinical trials assessing the effects of non‐invasive interventions in improving well‐being and quality of life in patients diagnosed with lung cancer. 
+Data collection and analysis
+Two authors independently assessed relevant studies for inclusion. Data extraction and risk of bias assessment of relevant studies was performed by one author and checked by a second author. 
+Main results
+Fifteen trials were included, six of which were added in this update. Three trials of a nursing intervention to manage breathlessness showed benefit in terms of symptom experience, performance status and emotional functioning. Four trials assessed structured nursing programmes and found positive effects on delay in clinical deterioration, dependency and symptom distress, and improvements in emotional functioning and satisfaction with care. 

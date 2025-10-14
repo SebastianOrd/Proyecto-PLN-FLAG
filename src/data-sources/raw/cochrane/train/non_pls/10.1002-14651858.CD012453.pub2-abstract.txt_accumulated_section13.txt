@@ -1,0 +1,13 @@
+Background
+This review adds to a series of reviews looking at primary medical management options for patients with chronic rhinosinusitis. 
+Chronic rhinosinusitis is common and characterised by inflammation of the lining of the nose and paranasal sinuses leading to nasal blockage, nasal discharge, facial pressure/pain and loss of sense of smell. The condition can occur with or without nasal polyps. Antifungals have been suggested as a treatment for chronic rhinosinusitis. 
+Objectives
+To assess the effects of systemic and topical antifungal agents in patients with chronic rhinosinusitis, including those with allergic fungal rhinosinusitis (AFRS) and, if possible, AFRS exclusively. 
+Search methods
+The Cochrane ENT Information Specialist searched the Cochrane ENT Trials Register; Cochrane Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE; Ovid Embase; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 17 November 2017. 
+Selection criteria
+Randomised controlled trials (RCTs) with at least a two‐week follow‐up period comparing topical or systemic antifungals with (a) placebo, (b) no treatment, (c) other pharmacological interventions or (d) a different antifungal agent. We did not include post‐surgical antifungal use. 
+Data collection and analysis
+We used the standard Cochrane methodological procedures. Our primary outcomes were disease‐specific health‐related quality of life (HRQL), patient‐reported disease severity and the significant adverse effects of hepatic toxicity (systemic antifungals). Secondary outcomes included general HRQL, endoscopic nasal polyp score, computerised tomography (CT) scan score and the adverse effects of gastrointestinal disturbance (systemic antifungals) and epistaxis, headache or local discomfort (topical antifungals). We used GRADE to assess the quality of the evidence for each outcome; this is indicated in italics. 
+Main results
+We included eight studies (490 adult participants). The presence of nasal polyps on examination was an inclusion criterion in three studies, an exclusion criterion in one study and the remaining studies included a mixed population. No studies specifically investigated the effect of antifungals in patients with AFRS. 

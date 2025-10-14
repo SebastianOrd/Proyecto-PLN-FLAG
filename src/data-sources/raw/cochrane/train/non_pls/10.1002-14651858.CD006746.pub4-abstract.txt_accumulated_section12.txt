@@ -1,0 +1,12 @@
+Background
+In at least a third of primary angle closure cases, appositional angle closure persists after laser peripheral iridotomy, and further intervention may be considered. Laser peripheral iridoplasty (LPIp) can be used in treating chronic angle closure when angle closure persists after laser peripheral iridotomy. Previous reviews have found insufficient data to determine its clinical effectiveness, compared to other interventions. This is an update of a Cochrane Review first published in 2008 and updated in 2012. It examines all studies to date to establish whether LPIp shows any effectiveness over other available treatment options. 
+Objectives
+To assess the effectiveness of laser peripheral iridoplasty in the treatment of people with chronic angle closure, when compared to laser peripheral iridotomy, medical therapy or no further treatment. 
+Search methods
+We searched various electronic databases. The date of the search was 20 December 2020.
+Selection criteria
+We included only randomised controlled trials (RCTs) assessing the use of LPIp in cases of suspected primary angle closure (PACS), confirmed primary angle closure (PAC), or primary chronic angle‐closure glaucoma (PACG). We applied no restrictions with respect to gender, age or ethnicity of participants. Trials evaluating LPIp for acute attacks of angle closure were not eligible. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Two authors independently assessed studies for risk of bias using Cochrane’s 'risk of bias' tool. We collected adverse effects information from the trials. 
+Main results
+We included four RCTs involving 252 participants (276 eyes). In total, three different methods of intervention were used and 15 outcomes reported, with different time points. We used narrative synthesis to describe the majority of the findings, as meta‐analysis was only possible for a limited number of outcomes due to the variation in study design and outcomes assessed. 

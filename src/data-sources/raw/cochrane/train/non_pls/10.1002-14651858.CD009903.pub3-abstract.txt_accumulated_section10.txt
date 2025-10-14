@@ -1,0 +1,10 @@
+Background
+Multiple sclerosis (MS) is a leading cause of neurological disability in young adults. The most widely accepted hypothesis regarding its pathogenesis is that it is an immune‐mediated disease. It has been hypothesised that intraluminal defects, compression, or hypoplasia in the internal jugular or azygos veins may be important factors in the pathogenesis of MS. This condition has been named 'chronic cerebrospinal venous insufficiency' (CCSVI). It has been suggested that these intraluminal defects restrict the normal blood flow from the brain and spinal cord, causing the deposition of iron in the brain and the eventual triggering of an auto‐immune response. The proposed treatment for CCSVI is venous percutaneous transluminal angioplasty (PTA), which is claimed to improve the blood flow in the brain thereby alleviating some of the symptoms of MS. This is an update of a review first published in 2012. 
+Objectives
+To assess the benefit and safety of venous PTA in people with MS and CCSVI.
+Search methods
+We searched the Cochrane Multiple Sclerosis and Rare Diseases of the Central Nervous System Group's Specialised Register up to 30 August 2018, CENTRAL (in the Cochrane Library 2018, issue 8), MEDLINE up to 30 August 2018, Embase up to 30 August 2018, metaRegister of Controlled Trials, ClinicalTrials.gov., the Australian New Zealand Clinical Trials Registry, and the World Health Organization (WHO) International Clinical Trials Registry platform. We examined the bibliographies of the included and excluded studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) in which PTA and sham interventions were compared in adults with MS and CCSVI. 
+Data collection and analysis
+Two authors independently assessed study eligibility and risk of bias, and extracted data. We reported results as risk ratios (RR) with 95% confidence intervals (CI). We performed statistical analyses using the random‐effects model; and we assessed the certainty of the evidence using GRADE. 

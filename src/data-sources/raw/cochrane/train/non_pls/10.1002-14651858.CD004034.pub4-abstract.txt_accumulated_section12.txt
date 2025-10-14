@@ -1,0 +1,12 @@
+Background
+This is an update of a Cochrane Review first published in 2006 (McGuinness 2006), and previously updated in 2009 (McGuinness 2009). Hypertension is a risk factor for dementia. Observational studies suggest antihypertensive treatment is associated with lower incidences of cognitive impairment and dementia. There is already clear evidence to support the treatment of hypertension after stroke. 
+Objectives
+To assess whether pharmacological treatment of hypertension can prevent cognitive impairment or dementia in people who have no history of cerebrovascular disease. 
+Search methods
+We searched the Specialised Register of the Cochrane Dementia and Cognitive Improvement Group, CENTRAL, MEDLINE, Embase, three other databases, as well as many trials registries and grey literature sources, most recently on 7 July 2020. 
+Selection criteria
+We included randomised controlled trials (RCTs) in which pharmacological interventions to treat hypertension were given for at least 12 months. We excluded trials of pharmacological interventions to lower blood pressure in non‐hypertensive participants. We also excluded trials conducted solely in people with stroke. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We contacted study authors for additional information. We collected information regarding incidence of dementia, cognitive decline, change in blood pressure, adverse effects and quality of life. We assessed the certainty of evidence using GRADE. 
+Main results
+We included 12 studies, totaling 30,412 participants, in this review. Eight studies compared active treatment with placebo. Of the four non‐placebo‐controlled studies, two compared intensive versus standard blood pressure reduction. The two final included studies compared different classes of antihypertensive drug. Study durations varied from one to five years. 

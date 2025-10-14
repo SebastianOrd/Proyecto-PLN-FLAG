@@ -1,0 +1,8 @@
+Background
+Fuchs endothelial dystrophy (FED) is a condition in which there is premature degeneration of corneal endothelial cells. When the number of endothelial cells is reduced to a significant degree, fluid begins to accumulate within the cornea. As a result, the cornea loses its transparency and the individual suffers a reduction in vision. The only successful surgical treatment for this condition is replacement of part or all of the cornea with healthy tissue from a donor. The established procedure, penetrating keratoplasty (PKP), has been used for many years and its safety and efficacy are well known. Endothelial keratoplasty (EK) techniques are relatively new surgical procedures and their safety and efficacy relative to PKP are uncertain. 
+Objectives
+The objective of this review was to compare the benefits and complications related to two surgical methods (EK and PKP) of replacing the diseased endothelial layer of the cornea with a healthy layer in people with FED. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2014, Issue 1), MEDLINE (January 1950 to January 2014), EMBASE (January 1980 to January 2014), Latin American and Caribbean Health Sciences Literature Database (LILACS) (January 1982 to January 2014), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com) and ClinicalTrials.gov (www.clinicaltrials.gov). There were no date or language restrictions in the electronic searches for trials. The electronic databases were last searched on 27 January 2014. 
+Selection criteria
+We included all randomised controlled trials (RCTs) comparing EK versus PKP for people (of any age and gender) who had been clinically diagnosed with FED. 

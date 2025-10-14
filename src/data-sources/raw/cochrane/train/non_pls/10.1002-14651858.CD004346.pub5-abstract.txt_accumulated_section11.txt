@@ -1,0 +1,11 @@
+Background
+There is ongoing debate about the frequency with which patients should attend for a dental check‐up and the effects on oral health of the interval between check‐ups. Recommendations regarding optimal recall intervals vary between countries and dental healthcare systems, but 6‐month dental check‐ups have traditionally been advocated by general dental practitioners in many high‐income countries. 
+This review updates a version first published in 2005, and updated in 2007 and 2013.
+Objectives
+To determine the optimal recall interval of dental check‐up for oral health in a primary care setting. 
+Search methods
+Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 17 January 2020), the Cochrane Central Register of Controlled Trials (CENTRAL; in the Cochrane Library, 2019, Issue 12), MEDLINE Ovid (1946 to 17 January 2020), and Embase Ovid (1980 to 17 January 2020). We also searched the US National Institutes of Health Trials Registry (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform for ongoing trials. We placed no restrictions on the language or date of publication when searching. 
+Selection criteria
+We included randomised controlled trials (RCTs) assessing the effects of different dental recall intervals in a primary care setting. 
+Data collection and analysis
+Two review authors screened search results against inclusion criteria, extracted data and assessed risk of bias, independently and in duplicate. We contacted study authors for clarification or further information where necessary and feasible. We expressed the estimate of effect as mean difference (MD) with 95% confidence intervals (CIs) for continuous outcomes and risk ratios (RR) with 95% CIs for dichotomous outcomes. We assessed the certainty of the evidence using GRADE. 

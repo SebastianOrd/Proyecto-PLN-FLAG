@@ -1,0 +1,10 @@
+Background
+Gastrectomy remains the primary therapeutic method for resectable gastric cancer. Thought of as an important measure to reduce post‐operative complications and mortality, abdominal drainage has been used widely after gastrectomy for gastric cancer in previous decades. The benefits of abdominal drainage have been questioned by researchers in recent years. 
+Objectives
+The objectives of this review were to assess the benefits and harms of routine abdominal drainage post‐gastrectomy for gastric cancer. 
+Search methods
+We searched the Cochrane Upper Gastrointestinal and Pancreatic Diseases (UGPD) Group Specialised Register and the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (2014, Issue 11); MEDLINE (via PubMed) (1950 to November 2014); EMBASE (1980 to November 2014); and the Chinese National Knowledge Infrastructure (CNKI) Database (1979 to November 2014). 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing an abdominal drain versus no drain in patients who had undergone gastrectomy (not considering the scale of gastrectomy and the extent of lymphadenectomy); irrespective of language, publication status, and the type of drain. We excluded RCTs comparing one drain with another. 
+Data collection and analysis
+We adhered to the standard methodological procedures of The Cochrane Collaboration. From each included trial, we extracted the data on the methodological quality and characteristics of the participants, mortality (30‐day mortality), re‐operations, post‐operative complications (pneumonia, wound infection, intra‐abdominal abscess, anastomotic leak, drain‐related complications), operation time, length of post‐operative hospital stay, and initiation of a soft diet. For dichotomous data, we calculated the risk ratio (RR) and 95% confidence interval (CI). For continuous data, we calculated mean difference (MD) and 95% CI. We tested heterogeneity using the Chi2 test. We used a fixed‐effect model for data analysis with RevMan software, but we used a random‐effects model if the P value of the Chi2 test was less than 0.1. 

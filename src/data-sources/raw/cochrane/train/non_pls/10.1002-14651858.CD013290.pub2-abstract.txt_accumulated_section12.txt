@@ -1,0 +1,12 @@
+Background
+Breast surgery encompasses oncologic, reconstructive, and cosmetic procedures. With the recent focus on the over‐prescribing of opioids in the literature, it is important to assess the effectiveness and safety of non‐opioid pain medication regimens including nonsteroidal anti‐inflammatory drugs (NSAIDs) or NSAID pain medications. Clinicians have differing opinions on the safety of perioperative (relating to, occurring in, or being the period around the time of a surgical operation) NSAIDs for breast surgery given the unclear risk/benefit ratio. NSAIDs have been shown to decrease inflammation, pain, and fever, while potentially increasing the risks of bleeding complications. 
+Objectives
+To assess the effects of perioperative NSAID use versus non‐NSAID analgesics (other pain medications) in women undergoing any form of breast surgery. 
+Search methods
+The Cochrane Breast Information Specialist searched the Cochrane Breast Cancer Group (CBCG) Specialized Register, CENTRAL (the Cochrane Library), MEDLINE, Embase, The WHO International Clinical Trials Registry Platform (ICTRP) and Clinicaltrials.gov registries to 21 September 2020. Full articles were retrieved for potentially eligible trials. 
+Selection criteria
+We considered all randomized controlled trials (RCTs) looking at perioperative NSAID use in women undergoing breast surgery. 
+Data collection and analysis
+Two review authors independently screened studies, extracted data and assessed risk of bias, and certainty of the evidence using the GRADE approach. The main outcomes were incidence of breast hematoma within 90 days (requiring reoperation, interventional drainage, or no treatment) of breast surgery and pain intensity 24 hours following surgery, incidence rate or severity of postoperative nausea, vomiting or both, bleeding from any location within 90 days, need for blood transfusion, other side effects of NSAID use, opioid use within 24 hours of surgery, length of hospital stay, breast cancer recurrence, and non‐prescribed NSAID use. Data were presented as risk ratios (RRs) for dichotomous outcomes and standardized mean differences (SMDs) for continuous outcomes. 
+Main results
+We included 12 RCTs with a total of 1596 participants. Seven studies compared NSAIDs (ketorolac, diclofenac, flurbiprofen, parecoxib and celecoxib) to placebo. Four studies compared NSAIDs (ketorolac, flurbiprofen, ibuprofen, and celecoxib) to other analgesics (morphine, hydrocodone, hydromorphone, fentanyl). One study compared NSAIDs (diclofenac) to no intervention. 

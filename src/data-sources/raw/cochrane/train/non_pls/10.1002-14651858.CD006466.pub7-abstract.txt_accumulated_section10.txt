@@ -1,0 +1,10 @@
+Background
+Oral anticoagulants may improve the survival of people with cancer through an antithrombotic effect, yet increase the risk of bleeding. 
+Objectives
+To evaluate the efficacy and safety of oral anticoagulants in ambulatory people with cancer undergoing chemotherapy, targeted therapy, immunotherapy, or radiotherapy (either alone or in combination), with no standard therapeutic or prophylactic indication for anticoagulation. 
+Search methods
+We conducted comprehensive searches on 14 June 2021, following the original electronic searches performed in February 2016 (last major search). We electronically searched the following databases: CENTRAL, MEDLINE, Embase. In addition, we handsearched conference proceedings, checked references of included studies, and searched for ongoing studies. As part of the living systematic review approach, we are running continual searches and will incorporate new evidence rapidly after it is identified. 
+Selection criteria
+We included randomised controlled trials (RCTs) assessing the benefits and harms of vitamin K antagonists (VKAs) or direct oral anticoagulants (DOACs) in ambulatory people with cancer (i.e., not hospital inpatients during the time of their participation in trials) These people are typically undergoing systemic anticancer therapy, possibly including chemotherapy, targeted therapy, immunotherapy, or radiotherapy, but otherwise have no standard therapeutic or prophylactic indication for anticoagulation. 
+Data collection and analysis
+Using a standardised form, two review authors independently extracted data on study design, participants, intervention outcomes of interest, and risk of bias. Outcomes of interest included all‐cause mortality, pulmonary embolism, symptomatic deep vein thrombosis (DVT), major bleeding, minor bleeding and health‐related quality of life. We assessed the certainty of evidence for each outcome using the GRADE approach. 

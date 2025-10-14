@@ -1,0 +1,10 @@
+Background
+Social interaction and social communication are among the central areas of difficulty for autistic people. Music therapy uses music experiences and the relationships that develop through them to enable communication and expression, thus attempting to address some of the core problems of autistic people. Music therapy has been applied in autism since the early 1950s, but its availability to autistic individuals varies across countries and settings. The application of music therapy requires specialised academic and clinical training which enables therapists to tailor the intervention to the specific needs of the individual. The present version of this review on music therapy for autistic people is an update of the previous Cochrane review update published in 2014 (following the original Cochrane review published in 2006). 
+Objectives
+To review the effects of music therapy, or music therapy added to standard care, for autistic people. 
+Search methods
+In  August 2021, we searched  CENTRAL, MEDLINE, Embase, eleven other databases and two trials registers. We also ran citation searches, checked reference lists, and contacted study authors to identify additional studies. 
+Selection criteria
+All randomised controlled trials (RCTs), quasi‐randomised trials and controlled clinical trials comparing music therapy (or music therapy alongside standard care) to 'placebo' therapy, no treatment, or standard care for people with a diagnosis of autism spectrum disorder were considered for inclusion. 
+Data collection and analysis
+We used standard Cochrane methodological procedures. Four authors independently selected studies and extracted data from all included studies. We synthesised the results of included studies in meta‐analyses. Four authors independently assessed risk of bias (RoB) of each included study using the original RoB tool as well as the certainty of evidence using GRADE.   

@@ -1,0 +1,10 @@
+Background
+Childbirth may cause the most severe pain some women experience in their lifetime. Epidural analgesia is an effective form of pain relief during labour and is considered to be the reference standard. Traditionally epidural analgesia has been delivered as a continuous infusion via a catheter in the epidural space, with or without the ability for the patient to supplement the analgesia received by activating a programmable pump to deliver additional top‐up doses, known as patient‐controlled epidural analgesia (PCEA). There has been interest in delivering maintenance analgesic medication via bolus dosing (automated mandatory bolus ‐ AMB) instead of the traditional continuous basal infusion (BI); recent randomized controlled trials (RCTs) have shown that the AMB technique leads to improved analgesia and maternal satisfaction. 
+Objectives
+To assess the effects of automated mandatory bolus versus basal infusion for maintaining epidural analgesia in labour. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, the World Health Organization International Clinial Trials Registry Platform (WHO‐ICTRP) and ClinicalTrials.gov on 16 January 2018. We screened the reference lists of all eligible trials and reviews. We also contacted authors of included studies in this field in order to identify unpublished research and trials still underway, and we screened the reference lists of the included articles for potentially relevant articles. 
+Selection criteria
+We included all RCTs that compared the use of bolus dosing AMB with continuous BI for providing pain relief during epidural analgesia for labour in women. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. Our primary outcomes were: risk of breakthrough pain with the need for anaesthetic intervention; risk of caesarean delivery; risk of instrumental delivery. Secondary outcomes included: duration of labour; local anaesthetic consumption. We used GRADE to assess the certainty of evidence for each outcome. 

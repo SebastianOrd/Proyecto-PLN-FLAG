@@ -1,0 +1,10 @@
+Background
+Malaria is an important cause of illness and death in people living in many parts of the world, especially sub‐Saharan Africa. Long‐lasting insecticide treated bed nets (LLINs) and indoor residual spraying (IRS) reduce malaria transmission by targeting the adult mosquito vector and are key components of malaria control programmes. However, mosquito numbers may also be reduced by larval source management (LSM), which targets mosquito larvae as they mature in aquatic habitats. This is conducted by permanently or temporarily reducing the availability of larval habitats (habitat modification and habitat manipulation), or by adding substances to standing water that either kill or inhibit the development of larvae (larviciding). 
+Objectives
+To evaluate the effectiveness of mosquito LSM for preventing malaria.
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; CABS Abstracts; and LILACS up to 24 October 2012. We handsearched the Tropical Diseases Bulletin from 1900 to 2010, the archives of the World Health Organization (up to 11 February 2011), and the literature database of the Armed Forces Pest Management Board (up to 2 March 2011). We also contacted colleagues in the field for relevant articles. 
+Selection criteria
+We included cluster randomized controlled trials (cluster‐RCTs), controlled before‐and‐after trials with at least one year of baseline data, and randomized cross‐over trials that compared LSM with no LSM for malaria control. We excluded trials that evaluated biological control of anopheline mosquitoes with larvivorous fish. 
+Data collection and analysis
+At least two authors assessed each trial for eligibility. We extracted data and at least two authors independently determined the risk of bias in the included studies. We resolved all disagreements through discussion with a third author. We analyzed the data using Review Manager 5 software. 

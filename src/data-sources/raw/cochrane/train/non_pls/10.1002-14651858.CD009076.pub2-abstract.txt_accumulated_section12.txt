@@ -1,0 +1,12 @@
+Background
+Fractures of the femoral shaft in children are relatively uncommon but serious injuries that disrupt the lives of children and their carers and can result in significant long‐term disability. Treatment involves either surgical fixation, such as intramedullary nailing or external fixation, or conservative treatment involving prolonged immobilisation, often in hospital. 
+Objectives
+To assess the effects (benefits and harms) of interventions for treating femoral shaft fractures in children and adolescents. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma (BJMT) Group Specialised Register (accessed 16 August 2013), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2013 Issue 7), MEDLINE (1946 to August Week 1 2013), EMBASE (1980 to 2012 week 9), CINAHL (16 August 2013), clinical trials registries, conference proceedings and reference lists; and contacted trial authors and experts in the field. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials comparing conservative and surgical interventions for diaphyseal fractures of the femur in children under 18 years of age. Our primary outcomes were functional outcome measures, unacceptable malunion, and serious adverse events. 
+Data collection and analysis
+Two authors independently screened and selected trials, assessed risk of bias and extracted data. We assessed the overall quality of the evidence for each outcome for each comparison using the GRADE approach. We pooled data using a fixed‐effect model. 
+Main results
+We included 10 trials (six randomised and four quasi‐randomised) involving a total of 527 children (531 fractures). All trials were at some risk of bias, including performance bias as care provider blinding was not practical, but to a differing extent. Just one trial was at low risk of selection bias. Reflecting both the risk of bias and the imprecision of findings, we judged the quality of evidence to be 'low' for most outcomes, meaning that we are unsure about the estimates of effect. Most trials failed to report on self‐assessed function or when children resumed their usual activities. The trials evaluated 10 different comparisons, belonging to three main categories. 

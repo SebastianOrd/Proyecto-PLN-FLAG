@@ -1,0 +1,13 @@
+Background
+This updated Cochrane Review of reminiscence therapy (RT) for dementia was first published in 1998, and last updated in 2005. RT involves the discussion of memories and past experiences with other people using tangible prompts such as photographs or music to evoke memories and stimulate conversation. RT is implemented widely in a range of settings using a variety of formats. 
+Objectives
+To assess the effects of RT on people living with dementia and their carers, taking into account differences in its implementation, including setting (care home, community) and modality (group, individual). 
+Search methods
+We searched ALOIS (the Cochrane Dementia and Cognitive Improvement Group's Specialized Register) on 6 April 2017 using the search term 'reminiscence.' 
+Selection criteria
+We included all randomised controlled trials of RT for dementia in which the duration of the intervention was at least four weeks (or six sessions) and that had a 'no treatment' or passive control group. Outcomes of interest were quality of life (QoL), cognition, communication, behaviour, mood and carer outcomes. 
+Data collection and analysis
+Two authors (LOP and EF) independently extracted data and assessed risk of bias. Where necessary, we contacted study authors for additional information. We pooled data from all sufficiently similar studies reporting on each outcome. We undertook subgroup analysis by setting (community versus care home) and by modality (individual versus group). We used GRADE methods to assess the overall quality of evidence for each outcome. 
+Main results
+We included 22 studies involving 1972 people with dementia. Meta‐analyses included data from 16 studies (1749 participants). Apart from six studies with risk of selection bias, the overall risk of bias in the studies was low. 
+Overall, moderate quality evidence indicated RT did not have an important effect on QoL immediately after the intervention period compared with no treatment (standardised mean difference (SMD) 0.11, 95% confidence interval (CI) ‐0.12 to 0.33; I2 = 59%; 8 studies; 1060 participants). Inconsistency between studies mainly related to the study setting. There was probably a slight benefit in favour of RT in care homes post‐treatment (SMD 0.46, 95% CI 0.18 to 0.75; 3 studies; 193 participants), but little or no difference in QoL in community settings (867 participants from five studies). 

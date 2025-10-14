@@ -1,0 +1,12 @@
+Background
+Allopurinol, a xanthine oxidase inhibitor, is considered one of the most effective urate‐lowering drugs and is frequently used in the treatment of chronic gout. 
+Objectives
+To assess the efficacy and safety of allopurinol compared with placebo and other urate‐lowering therapies for treating chronic gout. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and EMBASE on 14 January 2014. We also handsearched the 2011 to 2012 American College of Rheumatology (ACR) and European League against Rheumatism (EULAR) abstracts, trial registers and regulatory agency drug safety databases. 
+Selection criteria
+All randomised controlled trials (RCTs) or quasi‐randomised controlled clinical trials (CCTs) that compared allopurinol with a placebo or an active therapy in adults with chronic gout. 
+Data collection and analysis
+We extracted and analysed data using standard methods for Cochrane reviews. The major outcomes of interest were frequency of acute gout attacks, serum urate normalisation, pain, function, tophus regression, study participant withdrawal due to adverse events (AE) and serious adverse events (SAE). We assessed the quality of the body of evidence for these outcomes using the GRADE approach. 
+Main results
+We included 11 trials (4531 participants) that compared allopurinol (various doses) with placebo (two trials); febuxostat (four trials); benzbromarone (two trials); colchicine (one trial); probenecid (one trial); continuous versus intermittent allopurinol (one trial) and different doses of allopurinol (one trial). Only one trial was at low risk of bias in all domains. We deemed allopurinol versus placebo the main comparison, and allopurinol versus febuxostat and versus benzbromarone as the most clinically relevant active comparisons and restricted reporting to these comparisons here. 

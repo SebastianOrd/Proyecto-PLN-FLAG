@@ -1,0 +1,12 @@
+Background
+Refractive amblyopia is a common cause of reduced visual acuity in childhood, but optimal treatment is not well defined. This review examined the treatment effect from spectacles and conventional occlusion. 
+Objectives
+Evaluation of the evidence of the effectiveness of spectacles, occlusion or both in the treatment of unilateral and bilateral refractive amblyopia. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2012, Issue 1), MEDLINE (January 1950 to January 2012), EMBASE (January 1980 to January 2012), Latin American and Caribbean Health Sciences Literature Database (LILACS) (January 1982 to January 2012), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). There were no date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 24 January 2012. We manually searched relevant conference proceedings. 
+Selection criteria
+Randomised controlled trials of treatment for unilateral and bilateral refractive amblyopia by spectacles, with or without occlusion, were eligible. We included studies with participants of any age. 
+Data collection and analysis
+Two authors independently assessed abstracts identified by the searches. We obtained full‐text copies and contacted study authors where necessary. Eleven trials were eligible for inclusion. We extracted data from eight. Insufficient data were present for the remaining three trials so data extraction was not possible. We identified no trials as containing participants with bilateral amblyopia. We performed no meta‐analysis as there were insufficient trials for each outcome. 
+Main results
+For all studies mean acuity (standard deviation (SD)) in the amblyopic eye post‐treatment was reported. All included trials reported treatment for unilateral refractive amblyopia. 

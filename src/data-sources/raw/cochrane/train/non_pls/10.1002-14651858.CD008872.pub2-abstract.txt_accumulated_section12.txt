@@ -1,0 +1,12 @@
+Background
+Methotrexate is routinely used in the treatment of inflammatory arthritis. There have been concerns regarding the safety of using concurrent non‐steroidal anti‐inflammatory drugs (NSAIDs), including aspirin, or paracetamol (acetaminophen), or both, in these people. 
+Objectives
+To systematically appraise and summarise the scientific evidence on the safety of using NSAIDs, including aspirin, or paracetamol, or both, with methotrexate in inflammatory arthritis; and to identify gaps in the current evidence, assess the implications of those gaps and to make recommendations for future research to address these deficiencies. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, second quarter 2010); MEDLINE (from 1950); EMBASE (from 1980); the Cochrane Database of Systematic Reviews (CDSR) and the Database of Abstracts of Reviews of Effects (DARE). We also handsearched the conference proceedings for the American College of Rheumatology (ACR) and European League against Rheumatism (EULAR) (2008 to 2009) and checked the websites of regulatory agencies for reported adverse events, labels and warnings. 
+Selection criteria
+Randomised controlled trials and non‐randomised studies comparing the safety of methotrexate alone to methotrexate with concurrent NSAIDs, including aspirin, or paracetamol, or both, in people with inflammatory arthritis. 
+Data collection and analysis
+Two authors independently assessed the search results, extracted data and assessed the risk of bias of the included studies. 
+Main results
+Seventeen publications out of 8681 identified studies were included in the review, all of which included people with rheumatoid arthritis using various NSAIDs, including aspirin. There were no identified studies for other forms of inflammatory arthritis. 

@@ -1,0 +1,12 @@
+Background
+People who have had a transient ischaemic attack (TIA) or non‐disabling ischaemic stroke have an annual risk of major vascular events of between 4% and 11%. Aspirin reduces this risk by 20% at most. Secondary prevention trials after myocardial infarction indicate that treatment with vitamin K antagonists is associated with a risk reduction approximately twice that of treatment with antiplatelet therapy. 
+Objectives
+To compare the efficacy and safety of vitamin K antagonists and antiplatelet therapy in the secondary prevention of vascular events after cerebral ischaemia of presumed arterial origin. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched 15 September 2011), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 3), MEDLINE (2008 to September 2011) and EMBASE (2008 to September 2011). In an effort to identify further relevant trials we searched ongoing trials registers and reference lists. We also contacted authors of published trials for further information and unpublished data. 
+Selection criteria
+Randomised trials of oral anticoagulant therapy with vitamin K antagonists (warfarin, phenprocoumon or acenocoumarol) versus antiplatelet therapy for long‐term secondary prevention after recent transient ischaemic attack or minor ischaemic stroke of presumed arterial origin. 
+Data collection and analysis
+Two review authors independently selected trials, assessed trial quality and extracted data. 
+Main results
+We included eight trials with a total of 5762 participants. The data showed that anticoagulants (in any intensity) are not more efficacious in the prevention of recurrent ischaemic stroke than antiplatelet therapy (medium intensity anticoagulation: relative risk (RR) 0.80, 95% confidence interval (CI) 0.56 to 1.14; high intensity anticoagulation: RR 1.02, 95% CI 0.49 to 2.13). 

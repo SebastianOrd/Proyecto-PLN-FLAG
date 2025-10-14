@@ -1,0 +1,10 @@
+Background
+Preterm infants often start milk feeds by gavage tube. As they mature, sucking feeds are gradually introduced. Women with preterm infants may not always be in hospital to breastfeed their baby and need an alternative approach to feeding. Most commonly, milk (expressed breast milk or formula) is given by bottle. Whether using bottles during establishment of breastfeeds is detrimental to breastfeeding success is a topic of ongoing debate. 
+Objectives
+To identify the effects of avoidance of bottle feeds during establishment of breastfeeding on the likelihood of successful breastfeeding, and to assess the safety of alternatives to bottle feeds. 
+Search methods
+A new search strategy was developed for this update. Searches were conducted without date or language limits in September 2021 in: MEDLINE, CENTRAL, and CINAHL.  We also searched the ISRCTN trial registry and the reference lists of retrieved articles for randomised controlled trials (RCTs) and quasi‐RCTs.  
+Selection criteria
+We included RCTs and quasi‐RCTs comparing avoidance of bottles with use of bottles for preterm infants where their mothers planned to breastfeed. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. When appropriate, we contacted study authors for additional information. We used the GRADE approach to assess the certainty of evidence. Outcomes included full breastfeeding and any breastfeeding on discharge home and at three and six months after discharge, as well as length of hospital stay and episodes of infant infection. We synthesised data using risk ratios (RR), risk differences (RD) and mean differences (MD), with 95% confidence intervals (CI). We used the GRADE approach to assess the certainty of the evidence. 

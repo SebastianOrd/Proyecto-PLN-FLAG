@@ -1,0 +1,10 @@
+Background
+Muscle soreness typically occurs after intense exercise, unaccustomed exercise or actions that involve eccentric contractions where the muscle lengthens while under tension. It peaks between 24 and 72 hours after the initial bout of exercise. Many people take antioxidant supplements or antioxidant‐enriched foods before and after exercise in the belief that these will prevent or reduce muscle soreness after exercise. 
+Objectives
+To assess the effects (benefits and harms) of antioxidant supplements and antioxidant‐enriched foods for preventing and reducing the severity and duration of delayed onset muscle soreness following exercise. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register, the Cochrane Central Register of Controlled Trials, MEDLINE, Embase, SPORTDiscus, trial registers, reference lists of articles and conference proceedings up to February 2017. 
+Selection criteria
+We included randomised and quasi‐randomised controlled trials investigating the effects of all forms of antioxidant supplementation including specific antioxidant supplements (e.g. tablets, powders, concentrates) and antioxidant‐enriched foods or diets on preventing or reducing delayed onset muscle soreness (DOMS). We excluded studies where antioxidant supplementation was combined with another supplement. 
+Data collection and analysis
+Two review authors independently screened search results, assessed risk of bias and extracted data from included trials using a pre‐piloted form. Where appropriate, we pooled results of comparable trials, generally using the random‐effects model. The outcomes selected for presentation in the 'Summary of findings' table were muscle soreness, collected at times up to 6 hours, 24, 48, 72 and 96 hours post‐exercise, subjective recovery and adverse effects. We assessed the quality of the evidence using GRADE. 

@@ -1,0 +1,9 @@
+Background
+Currently hydergine is used almost exclusively for treating patients with either dementia, or 'age‐related' cognitive symptoms. Since the early 1980s there have been over a dozen more clinical trials, yet hydergine's efficacy remains uncertain. Although previous reviews offer generally favourable support for hydergine's efficacy, they were, however, limited by a bias with respect to the particular clinical studies chosen (e.g., the inclusion of case reports, and uncontrolled trials), and by authors' impressionistic assessments of results. Not surprisingly, there has been a lack of consensus among reviewers with regard to the efficacy of hydergine. 
+In 1994, a meta‐analysis was published by the present reviewers who reported that overall, hydergine was more effective than placebo. However they also observed that the statistical evidence for efficacy in 'possible or probable Alzheimer's disease' patients was so modest that one additional statistically non‐significant trial would have reduced the results to non‐significance. 
+Objectives
+Because of uncertainty surrounding the efficacy of hydergine, the goals of this overview were to assess its overall effect in patients with possible dementia, and to investigate potential moderators of an effect. 
+Search methods
+The trials were identified from a searches of the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group, The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS, clinical trials registries and grey literature sources on 2 March 2009 using the terms hydergin*, ergoloid* and dihydroergo*. Two proprietary databases were also searched. Published reviews were inspected for further sources. 
+Selection criteria
+Trials to be included must be randomized, double‐blind, parallel‐group, and unconfounded comparisons of hydergine with placebo for a treatment duration of greater than one week in subjects with dementia or symptoms consistent with dementia. 

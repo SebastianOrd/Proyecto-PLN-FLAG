@@ -1,0 +1,12 @@
+Background
+Screening hysteroscopy in infertile women with unexplained infertility, or prior to intrauterine insemination (IUI) or in vitro fertilisation (IVF) may reveal intrauterine pathology that may not be detected by routine transvaginal ultrasound. Hysteroscopy, whether purely diagnostic or operative may improve reproductive outcomes. 
+Objectives
+To assess the effectiveness and safety of screening hysteroscopy in subfertile women undergoing evaluation for infertility, and subfertile women undergoing IUI or IVF. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL CRSO, MEDLINE, Embase, ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform (September 2018). We searched reference lists of relevant articles and handsearched relevant conference proceedings. 
+Selection criteria
+Randomised controlled trials comparing screening hysteroscopy versus no intervention in subfertile women wishing to conceive spontaneously, or before undergoing IUI or IVF. 
+Data collection and analysis
+We independently screened studies, extracted data, and assessed the risk of bias. The primary outcomes were live birth rate and complications following hysteroscopy. We analysed data using risk ratio (RR) and a fixed‐effect model. We assessed the quality of the evidence by using GRADE criteria. 
+Main results
+We retrieved 11 studies. We included one trial that evaluated screening hysteroscopy versus no hysteroscopy, in women with unexplained subfertility, who were trying to conceive spontaneously. We are uncertain whether ongoing pregnancy rate improves following a screening hysteroscopy in women with at least two years of unexplained subfertility (RR 4.30, 95% CI 2.29 to 8.07; 1 RCT; participants = 200; very low‐quality evidence). For a typical clinic with a 10% ongoing pregnancy rate without hysteroscopy, performing a screening hysteroscopy would be expected to result in ongoing pregnancy rates between 23% and 81%. The included study reported no adverse events in either treatment arm. We are uncertain whether clinical pregnancy rate is improved (RR 3.80, 95% CI 2.31 to 6.24; 1 RCT; participants = 200; very low‐quality evidence), or miscarriage rate increases (RR 2.80, 95% CI 1.05 to 7.48; 1 RCT; participants = 200; very low‐quality evidence), following screening hysteroscopy in women with at least two years of unexplained subfertility. 

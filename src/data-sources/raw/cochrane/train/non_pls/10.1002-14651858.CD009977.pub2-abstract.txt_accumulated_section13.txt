@@ -1,0 +1,13 @@
+Background
+Diagnosing acute appendicitis (appendicitis) based on clinical evaluation, blood testing, and urinalysis can be difficult. Therefore, in persons with suspected appendicitis, abdominopelvic computed tomography (CT) is often used as an add‐on test following the initial evaluation to reduce remaining diagnostic uncertainty. The aim of using CT is to assist the clinician in discriminating between persons who need surgery with appendicectomy and persons who do not. 
+Objectives
+Primary objective  
+Our primary objective was to evaluate the accuracy of CT for diagnosing appendicitis in adults with suspected appendicitis. 
+Secondary objectives  
+Our secondary objectives were to compare the accuracy of contrast‐enhanced versus non‐contrast‐enhanced CT, to compare the accuracy of low‐dose versus standard‐dose CT, and to explore the influence of CT‐scanner generation, radiologist experience, degree of clinical suspicion of appendicitis, and aspects of methodological quality on diagnostic accuracy. 
+Search methods
+We searched MEDLINE, Embase, and Science Citation Index until 16 June 2017. We also searched references lists. We did not exclude studies on the basis of language or publication status. 
+Selection criteria
+We included prospective studies that compared results of CT versus outcomes of a reference standard in adults (> 14 years of age) with suspected appendicitis. We excluded studies recruiting only pregnant women; studies in persons with abdominal pain at any location and with no particular suspicion of appendicitis; studies in which all participants had undergone ultrasonography (US) before CT and the decision to perform CT depended on the US outcome; studies using a case‐control design; studies with fewer than 10 participants; and studies that did not report the numbers of true‐positives, false‐positives, false‐negatives, and true‐negatives. Two review authors independently screened and selected studies for inclusion. 
+Data collection and analysis
+Two review authors independently collected the data from each study and evaluated methodological quality according to the Quality Assessment of Studies of Diagnostic Accuracy ‐ Revised (QUADAS‐2) tool. We used the bivariate random‐effects model to obtain summary estimates of sensitivity and specificity. 

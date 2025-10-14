@@ -1,0 +1,10 @@
+Idarubicin for treatment of newly diagnosed acute myeloid leukaemia
+Background 
+Acute myeloid leukaemia (AML) is a type of cancer that mainly affects bone marrow and peripheral blood. Although 40% to 45% of AML patients enjoy long‐term disease‐free survival, most patients will die of the disease. Induction therapy is the first phase of treatment of newly diagnosed AML which is essential for prolonging survival. An anthracycline (a class of chemotherapy drugs derived from the Streptomyces bacterium Streptomyces peucetius var. caesius) combined with cytarabine (a chemotherapy drug used mainly in treatment of haematological malignancies) has remained the standard of induction therapy for several decades. Nowadays there are several kinds of anthracyclines available, among which idarubicin (IDA) draws more attention because of its theoretical advantages in improving efficacy and reducing side effects. However, clinical trials comparing IDA with other anthracyclines have conflicting results. 
+Objectives 
+To clarify the role of IDA in induction therapy of newly diagnosed AML.
+Methods 
+Data from available randomised controlled trials (RCTs) that compared IDA with other anthracyclines in induction therapy of newly diagnosed AML were meta‐analysed. The data collected are up to 3 August 2014. 
+Results 
+Twenty‐seven RCTs involving 9549 patients were included. The consolidation treatments adopted in the included studies were comparable and had no impact on the results. 
+Eighteen RCTs assessed IDA versus daunorubicin (DNR; a chemotherapy drug in the anthracycline family). Results showed that IDA compared to DNR prolongs overall survival and disease‐free survival, increases complete remission rate, and reduces relapse rate, although increases the risks of death on induction therapy and grade 3/4 mucositis (a kind of painful inflammation and ulceration of mucous membranes lining the digestive tract). No difference in other various grade 3/4 adverse events was found. 

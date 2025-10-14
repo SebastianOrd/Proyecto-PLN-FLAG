@@ -1,0 +1,10 @@
+Background
+Phosphate binders are used to reduce positive phosphate balance and to lower serum phosphate levels for people with chronic kidney disease (CKD) with the aim to prevent progression of chronic kidney disease‐mineral and bone disorder (CKD‐MBD). This is an update of a review first published in 2011. 
+Objectives
+The aim of this review was to assess the benefits and harms of phosphate binders for people with CKD with particular reference to relevant biochemical end‐points, musculoskeletal and cardiovascular morbidity, hospitalisation, and death. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 12 July 2018 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+We included randomised controlled trials (RCTs) or quasi‐RCTs of adults with CKD of any GFR category comparing a phosphate binder to another phosphate binder, placebo or usual care to lower serum phosphate. Outcomes included all‐cause and cardiovascular death, myocardial infarction, stroke, adverse events, vascular calcification and bone fracture, and surrogates for such outcomes including serum phosphate, parathyroid hormone (PTH), and FGF23. 
+Data collection and analysis
+Two authors independently selected studies for inclusion and extracted study data. We applied the Cochrane 'Risk of Bias' tool and used the GRADE process to assess evidence certainty. We estimated treatment effects using random‐effects meta‐analysis. Results were expressed as risk ratios (RR) for dichotomous outcomes together with 95% confidence intervals (CI) or mean differences (MD) or standardised MD (SMD) for continuous outcomes. 

@@ -1,0 +1,8 @@
+Background
+Jet lag commonly affects air travellers who cross several time zones. It results from the body's internal rhythms being out of step with the day‐night cycle at the destination. Melatonin is a pineal hormone that plays a central part in regulating bodily rhythms and has been used as a drug to re‐align them with the outside world. 
+Objectives
+To assess the effectiveness of oral melatonin taken in different dosage regimens for alleviating jet lag after air travel across several time zones. 
+Search methods
+We searched the Cochrane Controlled Trials Register, MEDLINE, EMBASE, PsychLit and Science Citation Index electronically, and the journals 'Aviation, Space and Environmental Medicine' and 'Sleep' by hand. We searched citation lists of relevant studies for other relevant trials. We asked principal authors of relevant studies to tell us about unpublished trials. Reports of adverse events linked to melatonin use outside randomised trials were searched for systematically in 'Side Effects of Drugs' (SED) and SED Annuals, 'Reactions Weekly', MEDLINE, and the adverse drug reactions databases of the WHO Uppsala Monitoring Centre (UMC) and the US Food & Drug Administration. An updating search was carried out on 12/2/2008 but no new studies were identified. 
+Selection criteria
+Randomised trials in airline passengers, airline staff or military personnel given oral melatonin, compared with placebo or other medication. Outcome measures should consist of subjective rating of jet lag or related components, such as subjective well being, daytime tiredness, onset and quality of sleep, psychological functioning, duration of return to normal, or indicators of circadian rhythms. 

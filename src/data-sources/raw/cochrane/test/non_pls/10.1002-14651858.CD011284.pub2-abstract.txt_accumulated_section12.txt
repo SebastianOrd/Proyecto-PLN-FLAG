@@ -1,0 +1,12 @@
+Background
+Low back pain is costly and disabling. Prognostic factor evidence can help healthcare providers and patients understand likely prognosis, inform the development of prediction models to identify subgroups, and may inform new treatment strategies. Recent studies have suggested that people who have poor expectations for recovery experience more back pain disability, but study results have differed. 
+Objectives
+To synthesise evidence on the association between recovery expectations and disability outcomes in adults with low back pain, and explore sources of heterogeneity. 
+Search methods
+The search strategy included broad and focused electronic searches of MEDLINE, Embase, CINAHL, and PsycINFO to 12 March 2019, reference list searches of relevant reviews and included studies, and citation searches of relevant expectation measurement tools. 
+Selection criteria
+We included low back pain prognosis studies from any setting assessing general, self‐efficacy, and treatment expectations (measured dichotomously and continuously on a 0 ‐ 10 scale), and their association with work participation, clinically important recovery, functional limitations, or pain intensity outcomes at short (3 months), medium (6 months), long (12 months), and very long (> 16 months) follow‐up. 
+Data collection and analysis
+We extracted study characteristics and all reported estimates of unadjusted and adjusted associations between expectations and related outcomes. Two review authors independently assessed risks of bias using the Quality in Prognosis Studies (QUIPS) tool. We conducted narrative syntheses and meta‐analyses when appropriate unadjusted or adjusted estimates were available. Two review authors independently graded and reported the overall quality of evidence. 
+Main results
+We screened 4635 unique citations to include 60 studies (30,530 participants). Thirty‐five studies were conducted in Europe, 21 in North America, and four in Australia. Study populations were mostly chronic (37%), from healthcare (62%) or occupational settings (26%). General expectation was the most common type of recovery expectation measured (70%); 16 studies measured more than one type of expectation. 

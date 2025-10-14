@@ -1,0 +1,10 @@
+Background
+Benign prostatic hyperplasia (BPH) is a nonmalignant enlargement of the prostate, which can lead to obstructive and irritative lower urinary tract symptoms (LUTS). The pharmacologic use of plants and herbs (phytotherapy) for the treatment of LUTS associated with BPH is common. The extract of the berry of the American saw palmetto, or dwarf palm plant, Serenoa repens (SR), which is also known by its botanical name of Sabal serrulatum, is one of several phytotherapeutic agents available for the treatment of BPH. 
+Objectives
+This systematic review aimed to assess the effects and harms of Serenoa repens in the treatment of men with LUTS consistent with BPH. 
+Search methods
+We searched for trials in general and in specialized databases, including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE®, EMBASE, CINAHL®, Web of Science, SCOPUS, BIOSIS Previews®, LILACS, ClinicalTrials.gov, Controlled‐Trials.com, World Health Organization (WHO), and Google Scholar. We also handsearched systematic reviews, references, and clinical practice guidelines. There were no language restrictions. 
+Selection criteria
+Trials were eligible if they randomized men with symptomatic BPH to receive preparations of SR (alone or in combination) for at least four weeks in comparison with placebo or other interventions, and included clinical outcomes, such as urologic symptom scales, symptoms, and urodynamic measurements. Eligibility was assessed by at least two independent observers (JT, RM). 
+Data collection and analysis
+One review author (JT) extracted Information on patients, interventions, and outcomes which was then checked by another review author (RM). The main outcome measure for comparing the effectiveness of SR with active or inert controls was change in urologic symptom‐scale scores, with validated scores taking precedence over non validated ones. Secondary outcomes included changes in nocturia and urodynamic measures. The main outcome measure for harms was the number of men reporting side effects. 

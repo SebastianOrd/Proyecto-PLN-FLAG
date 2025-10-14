@@ -1,0 +1,10 @@
+Background
+Colorectal cancer is the third most frequent cancer in the world. As the sojourn time for this cancer is several years and a good prognosis is associated with early stage diagnosis, screening has been implemented in a number of countries. Both screening with faecal occult blood test and flexible sigmoidoscopy have been shown to reduce mortality from colorectal cancer in randomised controlled trials. The comparative effectiveness of these tests on colorectal cancer mortality has, however, never been evaluated, and controversies exist over which test to choose. 
+Objectives
+To compare the effectiveness of screening for colorectal cancer with flexible sigmoidoscopy to faecal occult blood testing. 
+Search methods
+We searched MEDLINE and EMBASE (November 16, 2012), the Cochrane Central Register of Controlled Trials (CENTRAL) (2012, Issue 11) and reference lists for eligible studies. 
+Selection criteria
+Randomised controlled trials comparing screening with flexible sigmoidoscopy or faecal occult blood testing to each other or to no screening. Only studies reporting mortality from colorectal cancer were included. Faecal occult blood testing had to be repeated (annually or biennially). 
+Data collection and analysis
+Data retrieval and assessment of risk of bias were performed independently by two review authors. Standard meta‐analyses using a random‐effects model were conducted for flexible sigmoidoscopy and faecal occult blood testing (FOBT) separately and we calculated relative risks with 95% confidence intervals (CI). We used a Bayesian approach (a contrast‐based network meta‐analysis method) for indirect analyses and presented the results as posterior median relative risk with 95% credibility intervals. We assessed the quality of evidence using GRADE. 

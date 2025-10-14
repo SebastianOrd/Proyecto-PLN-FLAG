@@ -1,0 +1,13 @@
+Background
+Induction of general anaesthesia can be distressing for children. Non‐pharmacological methods for reducing anxiety and improving co‐operation may avoid the adverse effects of preoperative sedation. 
+Objectives
+To assess the effects of non‐pharmacological interventions in assisting induction of anaesthesia in children by reducing their anxiety, distress or increasing their co‐operation. 
+Search methods
+In this updated review we searched CENTRAL (the Cochrane Library 2012, Issue 12) and searched the following databases from inception to 15 January 2013: MEDLINE, EMBASE, PsycINFO and Web of Science. We reran the search in August 2014. We will deal with the single study found to be of interest when we next update the review. 
+Selection criteria
+We included randomized controlled trials of a non‐pharmacological intervention implemented on the day of surgery or anaesthesia. 
+Data collection and analysis
+At least two review authors independently extracted data and assessed risk of bias in trials. 
+Main results
+We included 28 trials (2681 children) investigating 17 interventions of interest; all trials were conducted in high‐income countries. Overall we judged the trials to be at high risk of bias. Except for parental acupuncture (graded low), all other GRADE assessments of the primary outcomes of comparisons were very low, indicating a high degree of uncertainty about the overall findings. 
+Parental presence: In five trials (557 children), parental presence at induction of anaesthesia did not reduce child anxiety compared with not having a parent present (standardized mean difference (SMD) 0.03, 95% confidence interval (CI) ‐0.14 to 0.20). In a further three trials (267 children) where we were unable to pool results, we found no clear differences in child anxiety, whether a parent was present or not. In a single trial, child anxiety showed no significant difference whether one or two parents were present, although parental anxiety was significantly reduced when both parents were present at the induction. Parental presence was significantly less effective than sedative premedication in reducing children's anxiety at induction in three trials with 254 children (we could not pool results). 

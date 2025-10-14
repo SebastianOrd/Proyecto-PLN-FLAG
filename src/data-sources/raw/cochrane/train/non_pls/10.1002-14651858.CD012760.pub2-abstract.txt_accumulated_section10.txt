@@ -1,0 +1,10 @@
+Background
+Parents and carers have a major influence on children's learning and development from birth, through the school years, and into adulthood. Parental contributions to education include providing a secure environment in which to learn, providing intellectual stimulation, transmitting social norms and values, shaping the child’s resilience through fostering literacy and problem‐solving, and encouraging personal and social aspiration. Increasingly, providers of formalised education are recognising the primary role of parents, carers, and the wider family, as well as peers and the environment, in shaping children's education, health, and life experiences. 
+Objectives
+To assess the effectiveness of the Families and Schools Together (FAST) programme in improving outcomes among children and their families. 
+Search methods
+Between October 2018 and December 2018, we searched CENTRAL, MEDLINE, Embase, PsycINFO, 11 additional databases, and three trial registers. We handsearched the reference lists of included studies and relevant reports and reviews, contacted the programme developer and independent researchers, and searched relevant websites to identify other eligible studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs examining the effects of FAST, relative to waiting list, usual or alternative services, or no intervention, on outcomes for children (aged from birth to completion of compulsory education) and their families. 
+Data collection and analysis
+At least two review authors independently evaluated the records retrieved from the search for relevance. One review author (JV) extracted data from eligible studies with a second independent review author (AF, DK, or SL). Review authors consulted with one another to resolve disagreements. We used a fixed‐effect model for meta‐analysis. We presented results as standardised mean differences (SMDs) because all outcomes were continuously scaled, and we accompanied these with 95% confidence intervals (CIs). We used the GRADE approach to assess the certainty of evidence for each outcome. 

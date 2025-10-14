@@ -1,0 +1,8 @@
+What are clients' experiences and perceptions of receiving health information via their mobile phones? 
+What is the aim of this synthesis? 
+The aim of this Cochrane qualitative evidence synthesis was to explore clients' views and experiences of being communicated with by the health system through their mobile phone. Our synthesis looked at communication about pregnancy, newborn, and child health, sexual health, and family planning. By synthesis we mean the bringing together and synthesising of results from primary qualitative studies into a larger whole. We collected all relevant studies and included 35 studies in the synthesis. 
+This synthesis links to other Cochrane Reviews that assess the effectiveness of this type of targeted digital health communication. 
+Key messages 
+Many clients like receiving messages from the health services by mobile phone. However, some clients have problems receiving messages due to lack of network access, internet, or phone, or language, reading, or privacy issues. Clients' experiences are also influenced by message timing, frequency, content, and sender. 
+What did we study in the synthesis? 
+Governments and health systems are starting to use mobile phones to communicate with clients. When the information is targeted at particular people or groups of people, and when the health system decides when and what to communicate, this is called 'digital targeted client communication.' Common types of digital targeted client communication are text messages that remind people to go to appointments or to take their medicines. Other types include phone calls or video messages that offer healthcare information, advice, monitoring, and support. 

@@ -1,0 +1,12 @@
+Background
+Despite multi‐modal analgesic techniques, acute postoperative pain remains an unmet health need, with up to three quarters of people undergoing surgery reporting significant pain. Liposomal bupivacaine is an analgesic consisting of bupivacaine hydrochloride encapsulated within multiple, non‐concentric lipid bi‐layers offering a novel method of sustained‐release analgesia. 
+Objectives
+To assess the analgesic efficacy and adverse effects of liposomal bupivacaine infiltration at the surgical site for the management of postoperative pain. 
+Search methods
+On 13 January 2016 we searched CENTRAL, MEDLINE, MEDLINE In‐Process, Embase, ISI Web of Science and reference lists of retrieved articles. We obtained clinical trial reports and synopses of published and unpublished studies from Internet sources, and searched clinical trials databases for ongoing trials. 
+Selection criteria
+Randomised, double‐blind, placebo‐ or active‐controlled clinical trials in people aged 18 years or over undergoing elective surgery, at any surgical site, were included if they compared liposomal bupivacaine infiltration at the surgical site with placebo or other type of analgesia. 
+Data collection and analysis
+Two review authors independently considered trials for inclusion, assessed risk of bias, and extracted data. We performed data analysis using standard statistical techniques as described in the Cochrane Handbook for Systematic Reviews of Interventions, using Review Manager 5.3. We planned to perform a meta‐analysis and produce a 'Summary of findings' table for each comparison however there were insufficient data to ensure a clinically meaningful answer. As such we have produced two 'Summary of findings' tables in a narrative format. Where possible we assessed the quality of evidence using GRADE. 
+Main results
+We identified nine studies (10 reports, 1377 participants) that met inclusion criteria. Four Phase II dose‐escalating/de‐escalating trials, designed to evaluate and demonstrate efficacy and safety, presented pooled data that we could not use. Of the remaining five parallel‐arm studies (965 participants), two were placebo controlled and three used bupivacaine hydrochloride local anaesthetic infiltration as a control. Using the Cochrane tool, we judged most studies to be at unclear risk of bias overall; however, two studies were at high risk of selective reporting bias and four studies were at high risk of bias due to size (fewer than 50 participants per treatment arm). 

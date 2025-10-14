@@ -1,0 +1,14 @@
+Background
+Acne vulgaris, a chronic inflammatory disease of the pilosebaceous unit associated with socialisation and mental health problems, may affect more than 80% of teenagers. Isotretinoin is widely recognised as a very effective treatment for severe acne; however, it may cause adverse effects. 
+Objectives
+To assess efficacy and safety of oral isotretinoin for acne vulgaris.
+Search methods
+We searched the following databases up to July 2017: the Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO and LILACS. We updated this search in March 2018, but these results have not yet been incorporated in the review. We also searched five trial registries, checked the reference lists of retrieved studies for further references to relevant trials, and handsearched dermatology conference proceedings. A separate search for adverse effects of oral isotretinoin was undertaken in MEDLINE and Embase up to September 2013. 
+Selection criteria
+Randomised clinical trials (RCTs) of oral isotretinoin in participants with clinically diagnosed acne compared against placebo, any other systemic or topical active therapy, and itself in different formulation, doses, regimens, or course duration. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 31 RCTs, involving 3836 participants (12 to 55 years) with mild to severe acne. There were twice as many male participants as females. 
+Most studies were undertaken in Asia, Europe, and North America. Outcomes were generally measured between eight to 32 weeks (mean 19.7) of therapy. 
+Assessed comparisons included oral isotretinoin versus placebo or other treatments such as antibiotics. In addition, different doses, regimens, or formulations of oral isotretinoin were assessed, as well as oral isotretinoin with the addition of topical agents. 

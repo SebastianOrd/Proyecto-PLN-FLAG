@@ -1,0 +1,10 @@
+Background
+Our March 2021 edition of this review showed thoracic imaging computed tomography (CT) to be sensitive and moderately specific in diagnosing COVID‐19 pneumonia. This new edition is an update of the review. 
+Objectives
+Our objectives were to evaluate the diagnostic accuracy of thoracic imaging in people with suspected COVID‐19; assess the rate of positive imaging in people who had an initial reverse transcriptase polymerase chain reaction (RT‐PCR) negative result and a positive RT‐PCR result on follow‐up; and evaluate the accuracy of thoracic imaging for screening COVID‐19 in asymptomatic individuals. The secondary objective was to assess threshold effects of index test positivity on accuracy. 
+Search methods
+We searched the COVID‐19 Living Evidence Database from the University of Bern, the Cochrane COVID‐19 Study Register, The Stephen B. Thacker CDC Library, and repositories of COVID‐19 publications through to 17 February 2021. We did not apply any language restrictions. 
+Selection criteria
+We included diagnostic accuracy studies of all designs, except for case‐control, that recruited participants of any age group suspected to have COVID‐19. Studies had to assess chest CT, chest X‐ray, or ultrasound of the lungs for the diagnosis of COVID‐19, use a reference standard that included RT‐PCR, and report estimates of test accuracy or provide data from which we could compute estimates. We excluded studies that used imaging as part of the reference standard and studies that excluded participants with normal index test results. 
+Data collection and analysis
+The review authors independently and in duplicate screened articles, extracted data and assessed risk of bias and applicability concerns using QUADAS‐2. We presented sensitivity and specificity per study on paired forest plots, and summarized pooled estimates in tables. We used a bivariate meta‐analysis model where appropriate. 

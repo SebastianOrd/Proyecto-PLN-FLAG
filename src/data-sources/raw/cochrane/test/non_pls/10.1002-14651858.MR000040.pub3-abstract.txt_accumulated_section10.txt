@@ -1,0 +1,10 @@
+Background
+Treatment and diagnostic recommendations are often made in clinical guidelines, reports from advisory committee meetings, opinion pieces such as editorials, and narrative reviews. Quite often, the authors or members of advisory committees have industry ties or particular specialty interests which may impact on which interventions are recommended. Similarly, clinical guidelines and narrative reviews may be funded by industry sources resulting in conflicts of interest. 
+Objectives
+To investigate to what degree financial and non‐financial conflicts of interest are associated with favourable recommendations in clinical guidelines, advisory committee reports, opinion pieces, and narrative reviews. 
+Search methods
+We searched PubMed, Embase, and the Cochrane Methodology Register for studies published up to February 2020. We also searched reference lists of included studies, Web of Science for studies citing the included studies, and grey literature sources. 
+Selection criteria
+We included studies comparing the association between conflicts of interest and favourable recommendations of drugs or devices (e.g. recommending a particular drug) in clinical guidelines, advisory committee reports, opinion pieces, or narrative reviews. 
+Data collection and analysis
+Two review authors independently included studies, extracted data, and assessed risk of bias. When a meta‐analysis was considered meaningful to synthesise our findings, we used random‐effects models to estimate risk ratios (RRs) with 95% confidence intervals (CIs), with RR > 1 indicating that documents (e.g. clinical guidelines) with conflicts of interest more often had favourable recommendations. We analysed associations for financial and non‐financial conflicts of interest separately, and analysed the four types of documents both separately (pre‐planned analyses) and combined (post hoc analysis). 

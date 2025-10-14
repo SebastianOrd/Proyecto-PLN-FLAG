@@ -1,0 +1,13 @@
+Background
+This is an updated version of the Cochrane Review first published in 2014, and last updated in 2018. 
+For nearly 30% of people with epilepsy, seizures are not controlled by current treatments. Stiripentol is an antiepileptic drug (AED) that was developed in France and was approved by the European Medicines Agency (EMA) in 2007 for the treatment of Dravet syndrome as an adjunctive therapy with valproate and clobazam. 
+Objectives
+To evaluate the efficacy and tolerability of stiripentol as add‐on treatment for people with drug‐resistant focal epilepsy who are taking AEDs. 
+Search methods
+For the latest update, we searched the following databases on 27 February 2020: Cochrane Register of Studies (CRS Web); and MEDLINE (Ovid, 1946 to 26 February 2020). CRS Web includes randomised or quasi‐randomised controlled trials from the Specialized Registers of Cochrane Review Groups including Epilepsy, Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, Embase, ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform (ICTRP). We contacted Biocodex (the manufacturer of stiripentol) and epilepsy experts to identify published, unpublished and ongoing trials. 
+Selection criteria
+Randomised, controlled, add‐on trials of stiripentol in people with drug‐resistant focal epilepsy. 
+Data collection and analysis
+Review authors independently selected trials for inclusion and extracted data. We investigated outcomes including 50% or greater reduction in seizure frequency, seizure freedom, adverse effects, treatment withdrawal and changes in quality of life. 
+Main results
+On the basis of our selection criteria, we included no new studies in the present review update. We included only one study from the earlier review (32 children with focal epilepsy). This study adopted a responder‐enriched design and found no clear evidence of a reduction in seizure frequency (≥ 50% seizure reduction) (risk ratio (RR) 1.51, 95% confidence interval (CI) 0.81 to 2.82; low‐certainty evidence) or evidence of seizure freedom (RR 1.18, 95% CI 0.31 to 4.43; low‐certainty evidence) when add‐on stiripentol was compared with placebo. 

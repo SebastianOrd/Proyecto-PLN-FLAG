@@ -1,0 +1,10 @@
+Background
+Experimental animal data and uncontrolled, observational studies in human infants have suggested that hyperventilation and hypocapnia may be associated with increased pulmonary and neurodevelopmental morbidity. Protective ventilatory strategies allowing higher levels of arterial CO2 (permissive hypercapnia) are now widely used in adult critical care. The aggressive pursuit of normocapnia in ventilated newborn infants may contribute to the already present burden of lung disease. However, the safe or ideal range for PCO2 in this vulnerable population has not been established. 
+Objectives
+To assess whether, in mechanically ventilated neonates, a strategy of permissive hypercapnia improves short and long term outcomes (esp. mortality, duration of respiratory support, incidence of chronic lung disease and neurodevelopmental outcome). 
+Search methods
+Standard strategies of the Cochrane Neonatal Review Group were used. Searches were made of the Oxford Database of Perinatal Trials, MEDLINE, CINAHL, and Current Contents. Searches were also made of previous reviews including cross‐referencing, abstracts, and conference and symposia proceedings published in Pediatric Research. 
+Selection criteria
+All randomised controlled trials in which a strategy of permissive hypercapnia was compared with conventional strategies aimed at achieving normocapnia (or lower levels of hypercapnia) in newborn infants who are mechanically ventilated were eligible. 
+Data collection and analysis
+Standard methods of the Cochrane Neonatal Review Group were used. Trials identified by the search strategy were independently reviewed by each author and assessed for eligibility and trial quality. Data were extracted separately. Differences were compared and resolved. Additional information was requested from trial authors. Only published data were available for review. Results are expressed as relative risk and risk difference for dichotomous outcomes, and weighted mean difference for continuous variables. 

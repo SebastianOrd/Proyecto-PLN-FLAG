@@ -1,0 +1,14 @@
+Background
+Thalassaemia major is a genetic disease characterised by a reduced ability to produce haemoglobin. Management of the resulting anaemia is through red blood cell transfusions. 
+Repeated transfusions result in an excessive accumulation of iron in the body (iron overload), removal of which is achieved through iron chelation therapy. Desferrioxamine mesylate (desferrioxamine) is one of the most widely used iron chelators. Substantial data have shown the beneficial effects of desferrioxamine, although adherence to desferrioxamine therapy is a challenge. Alternative oral iron chelators, deferiprone and deferasirox, are now commonly used. Important questions exist about whether desferrioxamine, as monotherapy or in combination with an oral iron chelator, is the best treatment for iron chelation therapy. 
+Objectives
+To determine the effectiveness (dose and method of administration) of desferrioxamine in people with transfusion‐dependent thalassaemia. 
+To summarise data from trials on the clinical efficacy and safety of desferrioxamine for thalassaemia and to compare these with deferiprone and deferasirox. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group's Haemoglobinopathies Trials Register. We also searched MEDLINE, EMBASE, CENTRAL (The Cochrane Library), LILACS and other international medical databases, plus ongoing trials registers and the Transfusion Evidence Library (www.transfusionevidencelibrary.com). All searches were updated to 5 March 2013. 
+Selection criteria
+Randomised controlled trials comparing desferrioxamine with placebo, with another iron chelator, or comparing two schedules or doses of desferrioxamine, in people with transfusion‐dependent thalassaemia. 
+Data collection and analysis
+Six authors working independently were involved in trial quality assessment and data extraction. For one trial, investigators supplied additional data upon request. 
+Main results
+A total of 22 trials involving 2187 participants (range 11 to 586 people) were included. These trials included eight comparisons between desferrioxamine alone and deferiprone alone; five comparisons between desferrioxamine combined with deferiprone and deferiprone alone; eight comparisons between desferrioxamine alone and desferrioxamine combined with deferiprone; two comparisons of desferrioxamine with deferasirox; and two comparisons of different routes of desferrioxamine administration (bolus versus continuous infusion). Overall, few trials measured the same or long‐term outcomes. Seven trials reported cardiac function or liver fibrosis as measures of end organ damage; none of these included a comparison with deferasirox. 

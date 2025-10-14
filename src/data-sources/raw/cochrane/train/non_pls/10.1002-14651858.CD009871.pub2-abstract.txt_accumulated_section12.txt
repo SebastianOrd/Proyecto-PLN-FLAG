@@ -1,0 +1,12 @@
+Background
+Following traumatic brain injury (TBI) there is an increased prevalence of depression compared to the general population. It is unknown whether non‐pharmacological interventions for depression are effective for people with TBI. 
+Objectives
+To investigate the effectiveness of non‐pharmacological interventions for depression in adults and children with TBI at reducing the diagnosis and severity of symptoms of depression. 
+Search methods
+We ran the most recent search on 11 February 2015. We searched the Cochrane Injuries Group Specialised Register, The Cochrane Library, MEDLINE (OvidSP), Embase (OvidSP), three other databases and clinical trials registers. Relevant conference proceedings and journals were handsearched, as were the reference lists of identified studies. 
+Selection criteria
+Randomised controlled trials (RCTs) of non‐pharmacological interventions for depression in adults and children who had a TBI. 
+Data collection and analysis
+Two authors independently selected trials from the search results, then assessed risk of bias and extracted data from the included trials. The authors contacted trial investigators to obtain missing information. We rated the overall quality of the evidence of the primary outcomes using the GRADE approach. 
+Main results
+Six studies met the inclusion criteria, with a total of 334 adult participants. We identified no studies that included children as participants. All studies were affected by high risk of bias due to a lack of blinding of participants and personnel; five studies were affected by high risk of bias for lack of blinding of outcome assessors. There was high or unclear risk of biases affecting some studies across all the Cochrane risk of bias measures. 

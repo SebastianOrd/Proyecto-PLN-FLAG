@@ -1,0 +1,12 @@
+Background
+The inability to have children affects 10% to 15% of couples worldwide. A male factor is estimated to account for up to half of the infertility cases with between 25% to 87% of male subfertility considered to be due to the effect of oxidative stress. Oral supplementation with antioxidants is thought to improve sperm quality by reducing oxidative damage. Antioxidants are widely available and inexpensive when compared to other fertility treatments, however most antioxidants are uncontrolled by regulation and the evidence for their effectiveness is uncertain. We compared the benefits and risks of different antioxidants used for male subfertility. 
+Objectives
+To evaluate the effectiveness and safety of supplementary oral antioxidants in subfertile men. 
+Search methods
+The Cochrane Gynaecology and Fertility (CGF) Group trials register, CENTRAL, MEDLINE, Embase, PsycINFO, AMED, and two trial registers were searched on 15 February 2021, together with reference checking and contact with experts in the field to identify additional trials. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared any type, dose or combination of oral antioxidant supplement with placebo, no treatment, or treatment with another antioxidant, among subfertile men of a couple attending a reproductive clinic. We excluded studies comparing antioxidants with fertility drugs alone and studies that included men with idiopathic infertility and normal semen parameters or fertile men attending a fertility clinic because of female partner infertility. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. The primary review outcome was live birth. Clinical pregnancy, adverse events and sperm parameters were secondary outcomes. 
+Main results
+We included 90 studies with a total population of 10,303 subfertile men, aged between 18 and 65 years, part of a couple who had been referred to a fertility clinic and some of whom were undergoing medically assisted reproduction (MAR). Investigators compared and combined 20 different oral antioxidants. The evidence was of 'low' to 'very low' certainty: the main limitation was that out of the 67 included studies in the meta‐analysis only 20 studies reported clinical pregnancy, and of those 12 reported on live birth. The evidence is current up to February 2021. 

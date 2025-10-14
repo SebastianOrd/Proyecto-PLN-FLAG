@@ -1,0 +1,12 @@
+Background
+This is an updated version of a review first published in theCochrane Database of Systematic Reviews, Issue 4, in 2011. Vulval intraepithelial neoplasia (VIN) is a pre‐cancerous condition of the vulval skin and its incidence is increasing in women under 50 years. High‐grade VIN (also called usual‐type VIN (uVIN) or VIN 2/3 or high‐grade vulval intraepithelial lesion) is associated with human papilloma virus (HPV) infection and may progress to vulval cancer, therefore is usually actively managed. There is no consensus on the optimal management of high‐grade VIN; and the high morbidity and relapse rates associated with surgical interventions make less invasive interventions highly desirable. 
+Objectives
+To evaluate the effectiveness and safety of medical (non‐surgical) interventions for high‐grade VIN. 
+Search methods
+We searched the Cochrane Gynaecological Cancer Group Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2015, Issue 3), MEDLINE and EMBASE (up to 30 March 2015). We also searched registers of clinical trials, abstracts of scientific meetings, reference lists of included studies and contacted experts in the field. 
+Selection criteria
+Randomised controlled trials (RCTs) that assessed non‐surgical interventions in women diagnosed with high‐grade VIN. 
+Data collection and analysis
+We used Cochrane methodology with two review authors independently abstracting data and assessing risk of bias. Where possible, we synthesised data in meta‐analyses using random effects methods. 
+Main results
+Five trials involving 297 women with high‐grade VIN (defined by trial investigators as VIN 2/3 or VIN 3 or 'high‐grade' lesions) met our inclusion criteria: three trials assessed the effectiveness of topical imiquimod versus placebo; one assessed topical cidofovir versus topical imiquimod; and one assessed low‐ versus high‐dose indole‐3‐carbinol in similar types of participants. Three trials were at a moderate to low risk of bias, two were at a potentially high risk of bias. 

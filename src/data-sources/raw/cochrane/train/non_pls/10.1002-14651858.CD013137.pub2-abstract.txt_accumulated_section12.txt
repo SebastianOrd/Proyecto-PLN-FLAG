@@ -1,0 +1,12 @@
+Background
+Clinical practice guidelines suggest that magnetic resonance imaging (MRI) of the brain should be performed at certain time points or intervals distant from diagnosis (interval or surveillance imaging) of cerebral glioma, to monitor or follow up the disease; it is not known, however, whether these imaging strategies lead to better outcomes among patients than triggered imaging in response to new or worsening symptoms. 
+Objectives
+To determine the effect of different imaging strategies (in particular, pre‐specified interval or surveillance imaging, and symptomatic or triggered imaging) on health and economic outcomes for adults with glioma (grades 2 to 4) in the brain. 
+Search methods
+The Cochrane Gynaecological, Neuro‐oncology and Orphan Cancers (CGNOC) Group Information Specialist searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and Embase up to 18 June 2019 and the NHS Economic Evaluation Database (EED) up to December 2014 (database closure). 
+Selection criteria
+We included randomised controlled trials, non‐randomised controlled trials, and controlled before‐after studies with concurrent comparison groups comparing the effect of different imaging strategies on survival and other health outcomes in adults with cerebral glioma; and full economic evaluations (cost‐effectiveness analyses, cost‐utility analyses and cost‐benefit analyses) conducted alongside any study design, and any model‐based economic evaluations on pre‐ and post‐treatment imaging in adults with cerebral glioma. 
+Data collection and analysis
+We used standard Cochrane review methodology with two authors independently performing study selection and data collection, and resolving disagreements through discussion. We assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We included one retrospective, single‐institution study that compared post‐operative imaging within 48 hours (early post‐operative imaging) with no early post‐operative imaging among 125 people who had surgery for glioblastoma (GBM: World Health Organization (WHO) grade 4 glioma). Most patients in the study underwent maximal surgical resection followed by combined radiotherapy and temozolomide treatment. Although patient characteristics in the study arms were comparable, the study was at high risk of bias overall. 

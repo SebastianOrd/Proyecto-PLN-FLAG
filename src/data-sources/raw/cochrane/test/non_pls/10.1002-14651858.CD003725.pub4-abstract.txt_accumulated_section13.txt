@@ -1,0 +1,13 @@
+Background
+Duchenne muscular dystrophy (DMD) is the most common muscular dystrophy of childhood. Untreated, this incurable disease, which has an X‐linked recessive inheritance, is characterised by muscle wasting and loss of walking ability, leading to complete wheelchair dependence by 13 years of age. Prolongation of walking is a major aim of treatment. Evidence from randomised controlled trials (RCTs) indicates that corticosteroids significantly improve muscle strength and function in boys with DMD in the short term (six months), and strength at two years (two‐year data on function are very limited). Corticosteroids, now part of care recommendations for DMD, are largely in routine use, although questions remain over their ability to prolong walking, when to start treatment, longer‐term balance of benefits versus harms, and choice of corticosteroid or regimen. 
+We have extended the scope of this updated review to include comparisons of different corticosteroids and dosing regimens. 
+Objectives
+To assess the effects of corticosteroids on prolongation of walking ability, muscle strength, functional ability, and quality of life in DMD; to address the question of whether benefit is maintained over the longer term (more than two years); to assess adverse events; and to compare efficacy and adverse effects of different corticosteroid preparations and regimens. 
+Search methods
+On 16 February 2016 we searched the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, EMBASE, CINAHL Plus, and LILACS. We wrote to authors of published studies and other experts. We checked references in identified trials, handsearched journal abstracts, and searched trials registries. 
+Selection criteria
+We considered RCTs or quasi‐RCTs of corticosteroids (e.g. prednisone, prednisolone, and deflazacort) given for a minimum of three months to patients with a definite DMD diagnosis. We considered comparisons of different corticosteroids, regimens, and corticosteroids versus placebo. 
+Data collection and analysis
+The review authors followed standard Cochrane methodology.
+Main results
+We identified 12 studies (667 participants) and two new ongoing studies for inclusion. Six RCTs were newly included at this update and important non‐randomised cohort studies have also been published. Some important studies remain unpublished and not all published studies provide complete outcome data. 

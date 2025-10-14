@@ -1,0 +1,16 @@
+Background
+Lower urinary tract symptoms caused by benign prostatic obstruction (LUTS/BPO) represents one of the most common clinical complaints in men. Physical activity might represent a viable first‐line intervention for treating LUTS/BPO. 
+Objectives
+To assess the effects of physical activity for lower urinary tract symptoms caused by benign prostatic obstruction (LUTS/BPO). 
+Search methods
+We performed a comprehensive search of multiple databases (CENTRAL, MEDLINE, Embase, Web of Science, LILACS, ClinicalTrials.gov, and WHO ICTRP); checked the reference lists of retrieved articles; and handsearched abstract proceedings of conferences with no restrictions on the language of publication or publication status from database inception to 6 November 2018. 
+Selection criteria
+We included published and unpublished randomised controlled and controlled clinical trials that included men diagnosed with LUTS/BPO. We excluded studies in which medical history suggested non‐BPO causes of LUTS or prior invasive therapies to physical activity or that used electrical stimulation. 
+Data collection and analysis
+Two review authors independently assessed study eligibility, extracted data, and assessed the risk of bias of included studies. We assessed primary outcomes (symptom score for LUTS; response rate, defined as 20% improvement in symptom score; withdrawal due to adverse events) and secondary outcomes (change of medication use; need for an invasive procedure; postvoid residual urine). We assessed the quality of the evidence using the GRADE approach. 
+Main results
+We included six studies that randomised 652 men over 40 years old with moderate or severe LUTS. The four different comparisons were as follows: 
+Physical activity versus watchful waiting 
+Two RCTs randomised 119 participants. The interventions included tai chi and pelvic floor exercise. The evidence was overall of very low quality, and we are uncertain about the effects of physical activity on symptom score for LUTS (mean difference (MD) ‐8.1, 95% confidence interval (CI) ‐13.2 to ‐3.1); response rate (risk ratio (RR) 1.80, 95% CI 0.81 to 4.02; 286 more men per 1000, 95% CI 68 fewer to 1079 more); and withdrawal due to adverse events (RR 1.00, 95% CI 0.59 to 1.69; 0 fewer men per 1000, 95% CI 205 fewer to 345 more). 
+Physical activity as part of self‐management programme versus watchful waiting 
+Two RCTs randomised 362 participants. Pelvic floor exercise was one of multiple intervention components. The evidence was of very low quality, and we are uncertain about the effects of physical activity for symptom score for LUTS (MD ‐6.2, 95% CI ‐9.9 to ‐2.5); response rate (RR 2.36, 95% CI 1.32 to 4.21; 424 more men per 1000, 95% CI 100 more to 1000 more); and withdrawal due to adverse events (risk difference 0.00, 95% CI ‐0.05 to 0.06; 65 fewer men per 1000, 95% CI 65 fewer to 65 fewer). 

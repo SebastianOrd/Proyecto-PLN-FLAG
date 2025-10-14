@@ -1,0 +1,10 @@
+Background
+Complete (full‐thickness) rectal prolapse is a lifestyle‐altering disability that commonly affects older people. The range of surgical methods available to correct the underlying pelvic floor defects in full‐thickness rectal prolapse reflects the lack of consensus regarding the best operation. 
+Objectives
+To assess the effects of different surgical repairs for complete (full‐thickness) rectal prolapse. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register up to 3 February 2015; it contains trials from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, MEDLINE in process, ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) as well as trials identified through handsearches of journals and conference proceedings. We also searched EMBASE and EMBASE Classic (1947 to February 2015) and PubMed (January 1950 to December 2014), and we specifically handsearched theBritish Journal of Surgery (January 1995 to June 2014), Diseases of the Colon and Rectum (January 1995 to June 2014) and Colorectal Diseases (January 2000 to June 2014), as well as the proceedings of the Association of Coloproctology meetings (January 2000 to December 2014). Finally, we handsearched reference lists of all relevant articles to identify additional trials. 
+Selection criteria
+All randomised controlled trials (RCTs) of surgery for managing full‐thickness rectal prolapse in adults. 
+Data collection and analysis
+Two reviewers independently selected studies from the literature searches, assessed the methodological quality of eligible trials and extracted data. The four primary outcome measures were the number of patients with recurrent rectal prolapse, number of patients with residual mucosal prolapse, number of patients with faecal incontinence and number of patients with constipation. 

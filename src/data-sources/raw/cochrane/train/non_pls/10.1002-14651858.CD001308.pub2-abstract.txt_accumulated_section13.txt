@@ -1,0 +1,13 @@
+Background
+Urinary incontinence is a common and distressing problem. Bladder training aims to increase the interval between voids and is widely used for the treatment of urinary incontinence. 
+Objectives
+To assess the effects of bladder training for the treatment of urinary incontinence.
+Search methods
+We searched the Cochrane Incontinence Group Specialised Trials Register (searched 15 March 2006). The reference lists of relevant articles were searched, and trialists contacted for details of other trials. 
+Selection criteria
+Randomised or quasi‐randomised trials of bladder training for the treatment of any type of urinary incontinence. 
+Data collection and analysis
+Two reviewers assessed trial quality and independently extracted data. Five primary outcomes were prespecified: participant's perception of cure of urinary incontinence; participant's perception of improvement of urinary incontinence; number of incontinent episodes; number of micturitions; and quality of life. Adverse events were also noted. Three comparisons were made: bladder training compared to no bladder training; bladder training compared to other treatments; and combining bladder training with another treatment compared to that other treatment alone. 
+Main results
+We assessed 109 reports of 60 potentially relevant trials; 31 reports of 12 trials were eligible for inclusion with a total of 1473, predominantly female, participants. In four trials not all participants with overactive bladder, in four trials had urinary incontinence. Data from eight trials with 858 participants with urinary incontinence at baseline, mostly female, are therefore included in the review. The quality of trials was variable. Few data describing long term follow up are available. 
+Bladder training compared to no bladder training: Data were available for 172 women from three trials comparing bladder training with no bladder training. These described only a limited number of prespecified outcomes, which varied across the three trials. Point estimates of effect favoured bladder training; however, confidence intervals were wide and no statistically significant differences were found for primary outcome variables. 

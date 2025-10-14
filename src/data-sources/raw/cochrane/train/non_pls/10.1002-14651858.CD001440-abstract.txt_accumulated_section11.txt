@@ -1,0 +1,11 @@
+Background
+This is an updated version of the original Cochrane review published in Issue 1, 1999. Patient surveys have shown that postoperative pain is often not managed well, and there is a need to assess the efficacy and safety of commonly used analgesics as newer treatments become available. Dextropropoxyphene is one example of an opioid analgesic that used to be widely prescribed for pain relief in combination with paracetamol under names such as Co‐proxamol and Distalgesic. This drug is now only available on a named patient basis in the UK. For this group there is a provision for the supply of unlicensed co‐proxamol on the responsibility of the prescriber. 
+Objectives
+To determine the analgesic efficacy and adverse effects of single dose oral dextropropoxyphene alone and in combination with paracetamol (acetaminophen) for moderate to severe postoperative pain. 
+Search methods
+Published studies were identified from: MEDLINE, EMBASE, Cochrane CENTRAL up to December 2007, and the Oxford Pain Relief Database (1954 to 1994). 
+Selection criteria
+The inclusion criteria used were: full journal publication, postoperative pain, postoperative oral administration, adult participants, baseline pain of moderate to severe intensity, double‐blind design, and random allocation to treatment groups which included dextropropoxyphene and placebo or a combination of dextropropoxyphene plus paracetamol and placebo. 
+Data collection and analysis
+Data were extracted by two review authors, and studies were quality scored.
+Summed pain intensity and pain relief data were extracted and converted into dichotomous information to yield the number of participants with at least 50% pain relief. This was used to calculate the relative benefit and number‐needed‐to‐treat‐to‐benefit (NNT) for one participant to achieve at least 50% pain relief. 

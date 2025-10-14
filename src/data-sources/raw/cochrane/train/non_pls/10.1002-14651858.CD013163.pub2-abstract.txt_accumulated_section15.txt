@@ -1,0 +1,15 @@
+Background
+Conventionally used soybean oil‐based lipid emulsion (S‐LE) have high polyunsaturated fatty acid (PUFA) content and phytosterols that may contribute to adverse effects in preterm infants. The newer lipid emulsions (LE) from different lipid sources are currently available for use in preterm infants. 
+Objectives
+To compare the safety and efficacy of all LE for parenteral nutrition (PN) in preterm infants (less than 37 weeks' gestation) including preterm infants with surgical conditions or parenteral nutrition‐associated liver disease (PNALD)/cholestasis using direct comparisons and pair‐wise meta‐analyses. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2018, Issue 5), MEDLINE (1946 to 18 June 2018), Embase (1974 to 18 July 2018), CINAHL (1982 to 18 June 2018), MIDRIS (1971 to 31 May 2018), conference proceedings, trial registries (ClinicalTrials.gov and WHO's Trials Registry and Platform), and reference lists of retrieved articles. 
+Selection criteria
+Randomised or quasi‐randomised controlled studies in preterm infants with or without surgical conditions or PNALD within the first six months of life. 
+Data collection and analysis
+Data collection and analysis conformed to the methods of Cochrane Neonatal. We used the GRADE approach to assess the quality of evidence for important outcomes in addition to reporting statistical significance of results. 
+Main results
+We included 29 studies (n = 2037) in this review. LE were classified in three broad groups: 1. all fish oil‐containing LE including pure fish oil‐LE (F‐LE) and multisource LE (e.g. medium‐chain triglycerides (MCT)‐olive‐fish‐soybean oil‐LE (MOFS‐LE), MCT‐fish‐soybean oil‐LE (MFS‐LE) and olive‐fish‐soybean oil‐LE (OFS‐LE); 2. conventional S‐LE; 3. alternative‐LE (e.g. MCT‐soybean oil‐LE (MS‐LE), olive‐soybean oil‐LE and borage oil‐based LE). 
+We considered the following broad comparisons: fish oil LE versus non‐fish oil LE; fish oil LE versus another fish oil LE; alternative‐LE versus S‐LE; alternative‐LE versus another alternative‐LE in preterm infants less than 37 weeks' gestation, preterm infants with surgical conditions and preterm infants with PNALD/cholestasis. Separate subgroup comparisons of each LE preparation were included within these broader groups. 
+Most studies in preterm infants used PN for mean duration of four weeks or less and for longer duration in infants with cholestasis or surgical conditions. 
+We defined the primary outcome of PNALD/cholestasis as conjugated bilirubin (Cbil) 2 mg/dL or greater and resolution of PNALD/cholestasis as Cbil less than 2 mg/dL. There was heterogeneity in definitions used by the included studies with Cbil cut‐offs ranging from 17.1 μmol/L (1 mg/dL) up to 50 μmol/L (about 3 mg/dL). 

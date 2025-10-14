@@ -1,0 +1,16 @@
+Background
+The Cystic Fibrosis Foundation recommends both short‐term and long‐acting insulin therapy when cystic fibrosis‐related diabetes (CFRD) has been diagnosed. Diagnosis is based on: an elevated fasting blood glucose level greater than 6.94 mmol/L (125 mg/dL); or oral glucose tolerance tests greater than 11.11 mmol/L (200 mg/dL) at two hours; or symptomatic diabetes for random glucose levels greater than 11.11 mmol/L (200 mg/dL); or glycated hemoglobin levels of at least 6.5%. This is an update of a previously published review. 
+Objectives
+To establish the effectiveness of insulin and oral agents for managing diabetes in people with cystic fibrosis in relation to blood sugar levels, lung function and weight management. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group's Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. We also handsearched abstracts from pulmonary symposia and the North American Cystic Fibrosis Conferences. 
+Date of most recent register search: 10 September 2020.
+We searched online trials registries; date of most recent searches: 21 March 2020.
+Selection criteria
+Randomized controlled trials comparing all methods of pharmacological diabetes therapy in people with diagnosed CFRD. 
+Data collection and analysis
+Two authors independently extracted data and assessed the risk of bias in the included studies. Authors also used GRADE to assess the quality of the evidence. 
+Main results
+The searches identified 29 trials (45 references). Four included trials provide results: one short‐term single‐center cross‐over trial (seven adults) comparing insulin with oral repaglinide and no medication in adults with CFRD and normal fasting glucose; one long‐term multicenter trial (61 adults with CFRD) comparing insulin with oral repaglinide and placebo; one long‐term multicenter trial (67 adults) comparing insulin with oral repaglinide; and one 12‐week single‐center cross‐over trial (20 adults) comparing the long‐acting insulin glargine to short‐term neutral protamine Hagedorn insulin. Two ongoing trials of newly approved incretin mimics have been noted for possible future inclusion. 
+Downgrading of the quality of the evidence was mainly due to risks of bias across all domains, but particularly due to concerns surrounding allocation concealment and selective reporting. There were also some concerns due to imprecision from small sample sizes and low event rates. Finally, there may be some bias due to the amounts of insulin and repaglinide given not being comparable. 
+Data from one trial comparing insulin to placebo (39 participants) did not show any difference between groups for the primary outcomes of blood glucose levels (very low‐quality evidence), lung function (low‐quality evidence) or nutritional status (low‐quality evidence). Similarly, no differences between groups were seen for the secondary outcomes of number of hypoglycemic episodes (low‐quality evidence), secondary infection complications or quality of life (QoL). These results were mirrored in the narrative reports for the second trial in this comparison (seven participants). 

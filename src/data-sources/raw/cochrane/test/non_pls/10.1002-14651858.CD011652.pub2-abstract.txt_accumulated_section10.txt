@@ -1,0 +1,10 @@
+Background
+Survival rates for women with a diagnosis of breast cancer continue to improve. However, some women may experience physical, psychological and emotional effects post diagnosis, throughout treatment and beyond. Support groups can provide opportunities for people to share their experiences and learn from others. As the number of online support groups increases, more and more women with breast cancer will likely access them. 
+Objectives
+To assess effects of online support groups on the emotional distress, uncertainty, anxiety, depression and quality of life (QoL) of women with breast cancer. 
+Search methods
+We searched for trials in the Cochrane Breast Cancer Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 4), MEDLINE, Embase and PsycINFO on 2 May 2016, and we handsearched journals and reference lists. We also searched the World Health Organization's International Clinical Trials Registry Platform (WHO ICTRP) search portal and clinicaltrials.gov on 2 May 2016. 
+Selection criteria
+We included randomised controlled trials (RCTs) assessing effects of online support groups on women with a diagnosis of breast cancer and women who have completed breast cancer treatment. We included studies comparing online support groups with a usual care group, and studies comparing two or more types of online support groups (without a usual care group). 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias. We presented outcome data using mean differences (MDs) and standardised mean differences (SMDs) along with 95% confidence intervals (CIs), and we used the fixed‐effect model when appropriate. We assessed the quality of the body of evidence using the GRADE approach. 

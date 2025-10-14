@@ -1,0 +1,11 @@
+Background
+Wilson's disease, first described by Samuel Wilson in 1912, is an autosomal recessive metabolic disorder resulting from mutations in the ATP7B gene. The disease develops as a consequence of copper accumulating in affected tissues. 
+There is no gold standard for the diagnosis of Wilson's disease, which is often delayed due to the non‐specific clinical features and the need for a combination of clinical and laboratory tests for diagnosis. This delay may in turn affect clinical outcome and has implications for other family members in terms of diagnosis. The Leipzig criteria were established to help standardise diagnosis and management. However, it should be emphasised that these criteria date from 2003, and many of these have not been formally evaluated; this review examines the evidence behind biochemical testing for Wilson's disease. 
+Objectives
+To determine the diagnostic accuracy of three biochemical tests at specified cut‐off levels for Wilson's disease. The index tests covered by this Cochrane Review are caeruloplasmin, 24‐hour urinary copper and hepatic copper content. These tests were evaluated in those with suspected Wilson's disease and appropriate controls (either healthy or those with chronic liver disease other than Wilson's). In the absence of a gold standard for diagnosing Wilson's disease, we have used the Leipzig criteria as a clinical reference standard. 
+To investigate whether index tests should be performed in all individuals who have been recommended for testing for Wilson's disease, or whether these tests should be limited to subgroups of individuals. 
+Search methods
+We identified studies by extensive searching of, e.g. the Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, Embase, the Web of Science and clinical trial registries (29 May 2019). 
+Date of the most recent search of the Cochrane Cystic Fibrosis and Genetic Disorders Inborn Errors of Metabolism Register: 29 May 2019. 
+Selection criteria
+We included prospective and retrospective cohort studies that assessed the diagnostic accuracy of an index test using the Leipzig criteria as a clinical reference standard for the diagnosis of Wilson's disease. 

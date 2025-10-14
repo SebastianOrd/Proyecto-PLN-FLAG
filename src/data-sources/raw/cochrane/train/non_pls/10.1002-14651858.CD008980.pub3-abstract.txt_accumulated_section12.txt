@@ -1,0 +1,12 @@
+Background
+Factor Xa inhibitors and vitamin K antagonists (VKAs) are now recommended in treatment guidelines for preventing stroke and systemic embolic events in people with atrial fibrillation (AF). This is an update of a Cochrane review previously published in 2013. 
+Objectives
+To assess the effectiveness and safety of treatment with factor Xa inhibitors versus VKAs for preventing cerebral or systemic embolic events in people with AF. 
+Search methods
+We searched the trials registers of the Cochrane Stroke Group and the Cochrane Heart Group (September 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) (August 2017), MEDLINE (1950 to April 2017), and Embase (1980 to April 2017). We also contacted pharmaceutical companies, authors and sponsors of relevant published trials. We used outcome data from marketing authorisation applications of apixaban, edoxaban and rivaroxaban that were submitted to regulatory authorities in Europe and the USA. 
+Selection criteria
+We included randomised controlled trials (RCTs) that directly compared the effects of long‐term treatment (lasting more than four weeks) with factor Xa inhibitors versus VKAs for preventing cerebral and systemic embolism in people with AF. 
+Data collection and analysis
+The primary efficacy outcome was the composite endpoint of all strokes and systemic embolic events. Two review authors independently extracted data, and assessed the quality of the trials and the risk of bias. We calculated a weighted estimate of the typical treatment effect across trials using the odds ratio (OR) with 95% confidence interval (CI) by means of a fixed‐effect model. In case of moderate or high heterogeneity of treatment effects, we used a random‐effects model to compare the overall treatment effects. We also performed a pre‐specified sensitivity analysis excluding any open‐label studies. 
+Main results
+We included data from 67,688 participants randomised into 13 RCTs. The included trials directly compared dose‐adjusted warfarin with either apixaban, betrixaban, darexaban, edoxaban, idraparinux, idrabiotaparinux, or rivaroxaban. The majority of the included data (approximately 90%) was from apixaban, edoxaban, and rivaroxaban. 

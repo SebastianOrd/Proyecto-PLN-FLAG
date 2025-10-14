@@ -1,0 +1,13 @@
+Background
+Although highly effective in the treatment of obstructive sleep apnoea (OSA), continuous positive airway pressure (CPAP) is not universally accepted by users. Educational, supportive and behavioural interventions may help people with OSA initiate and maintain regular and continued use of CPAP. 
+Objectives
+To assess the effectiveness of educational, supportive, behavioural, or mixed (combination of two or more intervention types) strategies that aim to encourage adults who have been prescribed CPAP to use their devices. 
+Search methods
+Searches were conducted on the Cochrane Airways Group Specialised Register of trials. Searches are current to 29 April 2019. 
+Selection criteria
+We included randomised controlled trials (RCTs) that assessed intervention(s) designed to inform participants about CPAP/OSA, to support them in using CPAP, or to modify their behaviour to increase use of CPAP devices. 
+Data collection and analysis
+We assessed studies to determine their suitability for inclusion in the review. Data were extracted independently and were entered into RevMan for analysis. 'Risk of bias' assessments were performed, using the updated 'Risk of bias 2' tool, for the primary outcome, CPAP usage. Study‐level 'Risk of bias' assessments were performed using the original 'Risk of bias' tool. GRADE assessment was performed using GRADEpro. 
+Main results
+Forty‐one studies (9005 participants) are included in this review; 16 of these studies are newly identified with updated searches. Baseline Epworth Sleepiness Scale (ESS) scores indicate that most participants suffered from excessive daytime sleepiness. The majority of recruited participants had not used CPAP previously. When examining risk of bias for the primary outcome of hourly machine usage/night, 58.3% studies have high overall risk (24/41 studies), 39.0% have some concerns (16/41 studies), and 2.4% have low overall risk (1/41 studies). 
+We are uncertain whether educational interventions improve device usage, as the certainty of evidence was assessed as very low. We were unable to perform meta‐analyses for number of withdrawals and symptom scores due to high study heterogeneity. 

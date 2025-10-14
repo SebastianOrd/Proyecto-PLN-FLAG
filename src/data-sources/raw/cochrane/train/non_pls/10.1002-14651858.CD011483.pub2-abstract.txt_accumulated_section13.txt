@@ -1,0 +1,13 @@
+Background
+Stroke is a major health issue and cause of long‐term disability and has a major emotional and socioeconomic impact. There is a need to explore options for long‐term sustainable interventions that support stroke survivors to engage in meaningful activities to address life challenges after stroke. Rehabilitation focuses on recovery of function and cognition to the maximum level achievable, and may include a wide range of complementary strategies including yoga. 
+Yoga is a mind‐body practice that originated in India, and which has become increasingly widespread in the Western world. Recent evidence highlights the positive effects of yoga for people with a range of physical and psychological health conditions. A recent non‐Cochrane systematic review concluded that yoga can be used as self‐administered practice in stroke rehabilitation. 
+Objectives
+To assess the effectiveness of yoga, as a stroke rehabilitation intervention, on recovery of function and quality of life (QoL). 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched July 2017), Cochrane Central Register of Controlled Trials (CENTRAL) (last searched July 2017), MEDLINE (to July 2017), Embase (to July 2017), CINAHL (to July 2017), AMED (to July 2017), PsycINFO (to July 2017), LILACS (to July 2017), SciELO (to July 2017), IndMED (to July 2017), OTseeker (to July 2017) and PEDro (to July 2017). We also searched four trials registers, and one conference abstracts database. We screened reference lists of relevant publications and contacted authors for additional information. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared yoga with a waiting‐list control or no intervention control in stroke survivors. 
+Data collection and analysis
+Two review authors independently extracted data from the included studies. We performed all analyses using Review Manager (RevMan). One review author entered the data into RevMan; another checked the entries. We discussed disagreements with a third review author until consensus was reached. We used the Cochrane 'Risk of bias' tool. Where we considered studies to be sufficiently similar, we conducted a meta‐analysis by pooling the appropriate data. For outcomes for which it was inappropriate or impossible to pool quantitatively, we conducted a descriptive analysis and provided a narrative summary. 
+Main results
+We included two RCTs involving 72 participants. Sixty‐nine participants were included in one meta‐analysis (balance). Both trials assessed QoL, along with secondary outcomes measures relating to movement and psychological outcomes; one also measured disability. 

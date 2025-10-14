@@ -1,0 +1,12 @@
+Background
+Fractures of the distal femur (the part of the thigh bone nearest the knee) are a considerable cause of morbidity. Various different surgical and non‐surgical treatments have been used in the management of these injuries but the best treatment remains controversial. 
+Objectives
+To assess the effects (benefits and harms) of interventions for treating fractures of the distal femur in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (9 September 2014); the Cochrane Central Register of Controlled Trials (The Cochrane Library, 2014, Issue 8); MEDLINE (1946 to August week 4 2014); EMBASE (1980 to 2014 week 36); World Health Organization (WHO) International Clinical Trials Registry Platform (January 2015); conference proceedings and reference lists without language restrictions. 
+Selection criteria
+Randomised and quasi‐randomised controlled clinical trials comparing interventions for treating fractures of the distal femur in adults. Our primary outcomes were patient‐reported outcome measures (PROMs) of knee function and adverse events, including re‐operations. 
+Data collection and analysis
+Two review authors independently selected studies and performed data extraction and risk of bias assessment. We assessed treatment effects using risk ratios (RR) or mean differences (MD) and, where appropriate, we pooled data using a fixed‐effect model. 
+Main results
+We included seven studies that involved a total of 444 adults with distal femur fractures. Each of the included studies was small and assessed to be at substantial risk of bias, with four studies being quasi‐randomised and none of the studies using blinding in outcome assessment. All studies provided an incomplete picture of outcome. Based on GRADE criteria, we assessed the quality of the evidence as very low for all reported outcomes, which means we are very uncertain of the reliability of these results. 

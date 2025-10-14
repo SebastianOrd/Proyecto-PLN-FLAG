@@ -1,0 +1,11 @@
+Background
+Parent‐infant psychotherapy (PIP) is a dyadic intervention that works with parent and infant together, with the aim of improving the parent‐infant relationship and promoting infant attachment and optimal infant development. PIP aims to achieve this by targeting the mother’s view of her infant, which may be affected by her own experiences, and linking them to her current relationship to her child, in order to improve the parent‐infant relationship directly. 
+Objectives
+1. To assess the effectiveness of PIP in improving parental and infant mental health and the parent‐infant relationship. 
+2. To identify the programme components that appear to be associated with more effective outcomes and factors that modify intervention effectiveness (e.g. programme duration, programme focus). 
+Search methods
+We searched the following electronic databases on 13 January 2014: Cochrane Central Register of Controlled Trials (CENTRAL, 2014, Issue 1), Ovid MEDLINE, EMBASE, CINAHL, PsycINFO, BIOSIS Citation Index, Science Citation Index, ERIC, and Sociological Abstracts. We also searched the metaRegister of Controlled Trials, checked reference lists, and contacted study authors and other experts. 
+Selection criteria
+Two review authors assessed study eligibility independently. We included randomised controlled trials (RCT) and quasi‐randomised controlled trials (quasi‐RCT) that compared a PIP programme directed at parents with infants aged 24 months or less at study entry, with a control condition (i.e. waiting‐list, no treatment or treatment‐as‐usual), and used at least one standardised measure of parental or infant functioning. We also included studies that only used a second treatment group. 
+Data collection and analysis
+We adhered to the standard methodological procedures of The Cochrane Collaboration. We standardised the treatment effect for each outcome in each study by dividing the mean difference (MD) in post‐intervention scores between the intervention and control groups by the pooled standard deviation. We presented standardised mean differences (SMDs) and 95% confidence intervals (CI) for continuous data, and risk ratios (RR) for dichotomous data. We undertook meta‐analysis using a random‐effects model. 

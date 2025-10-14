@@ -1,0 +1,11 @@
+Background
+Managing hemophilia is challenging both in terms of medical treatment and its broad impact on many aspects of the individual's life, including self‐perception. Several psychosocial issues are potentially relevant in the clinical management of hemophilia, including it being a chronic and incurable condition; e.g. people with hemophilia must adapt to optimally interact with peers and to practice sports ‐ even choosing a sport represents an issue for perceived limitations, expectations and cultural influences on the individual and their family. People with hemophilia can react by denying their condition and its manifestations and not adhering to treatment. Due to the complexity of relationships surrounding genetic diseases, parents and relatives may have their own issues that contribute to making life easier or more difficult for the person with hemophilia. Anxiety, sadness and depression resulting in mental health disorders are reported in this population and may influence quality of life (QoL) depending on cultural background, religious beliefs, family support and other variables. 
+Objectives
+Primarily to assess the effectiveness of psychological therapies for improving the ability of people with hemophilia to cope with their chronic condition. 
+Search methods
+We aimed to identify trials from the Cochrane Cystic Fibrosis and Genetic Disorders Group's Coagulopathies Trials Register, Embase and PsycINFO, CINAHL, MEDLINE and trial registries. We searched reference lists of included publications. 
+Most recent search of the Group's register: 13 June 2019.
+Selection criteria
+Randomized controlled trials (RCTs) and quasi‐RCTs in people with hemophilia of any age or gender, type A or B, any severity, with or without inhibitors, with or without HIV or hepatitis C virus. All psychological interventions for promoting emotional, intellectual and spiritual wellness. Individual, group or family group therapy interventions were eligible. 
+Data collection and analysis
+We independently assessed trials, extracted data and assessed the risk of bias and assessed the quality of the evidence using GRADE. 

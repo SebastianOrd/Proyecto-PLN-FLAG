@@ -1,0 +1,12 @@
+Background
+Abstracts of presentations at scientific meetings are usually available only in conference proceedings. If subsequent full publication of results reported in these abstracts is based on the magnitude or direction of the results, publication bias may result. Publication bias creates problems for those conducting systematic reviews or relying on the published literature for evidence about health and social care. 
+Objectives
+To systematically review reports of studies that have examined the proportion of meeting abstracts and other summaries that are subsequently published in full, the time between meeting presentation and full publication, and factors associated with full publication. 
+Search methods
+We searched MEDLINE, Embase, the Cochrane Library, Science Citation Index, reference lists, and author files. The most recent search was done in February 2016 for this substantial update to our earlier Cochrane Methodology Review (published in 2007). 
+Selection criteria
+We included reports of methodology research that examined the proportion of biomedical results initially presented as abstracts or in summary form that were subsequently published. Searches for full publications had to be at least two years after meeting presentation. 
+Data collection and analysis
+Two review authors extracted data and assessed risk of bias. We calculated the proportion of abstracts published in full using a random‐effects model. Dichotomous variables were analyzed using risk ratio (RR), with multivariable models taking into account various characteristics of the reports. We assessed time to publication using Kaplan‐Meier survival analyses. 
+Main results
+Combining data from 425 reports (307,028 abstracts) resulted in an overall full publication proportion of 37.3% (95% confidence interval (CI), 35.3% to 39.3%) with varying lengths of follow‐up. This is significantly lower than that found in our 2007 review (44.5%. 95% CI, 43.9% to 45.1%). Using a survival analyses to estimate the proportion of abstracts that would be published in full by 10 years produced proportions of 46.4% for all studies; 68.7% for randomized and controlled trials and 44.9% for other studies. Three hundred and fifty‐three reports were at high risk of bias on one or more items, but only 32 reports were considered at high risk of bias overall. 

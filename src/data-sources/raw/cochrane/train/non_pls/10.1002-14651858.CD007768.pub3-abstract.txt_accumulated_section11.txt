@@ -1,0 +1,11 @@
+Background
+Many systematic reviews exist on interventions to improve safe and effective medicines use by consumers, but research is distributed across diseases, populations and settings. The scope and focus of such reviews also vary widely, creating challenges for decision‐makers seeking to inform decisions by using the evidence on consumers’ medicines use. 
+This is an update of a 2011 overview of systematic reviews, which synthesises the evidence, irrespective of disease, medicine type, population or setting, on the effectiveness of interventions to improve consumers' medicines use. 
+Objectives
+To assess the effects of interventions which target healthcare consumers to promote safe and effective medicines use, by synthesising review‐level evidence. 
+Methods
+Search methods: We included systematic reviews published on the Cochrane Database of Systematic Reviews and the Database of Abstracts of Reviews of Effects. We identified relevant reviews by handsearching databases from their start dates to March 2012. 
+Selection criteria: We screened and ranked reviews based on relevance to consumers’ medicines use, using criteria developed for this overview. 
+Data collection and analysis: We used standardised forms to extract data, and assessed reviews for methodological quality using the AMSTAR tool. We used standardised language to summarise results within and across reviews; and gave bottom‐line statements about intervention effectiveness. Two review authors screened and selected reviews, and extracted and analysed data. We used a taxonomy of interventions to categorise reviews and guide syntheses. 
+Main results
+We included 75 systematic reviews of varied methodological quality. Reviews assessed interventions with diverse aims including support for behaviour change, risk minimisation and skills acquisition. No reviews aimed to promote systems‐level consumer participation in medicines‐related activities. Medicines adherence was the most frequently‐reported outcome, but others such as knowledge, clinical and service‐use outcomes were also reported. Adverse events were less commonly identified, while those associated with the interventions themselves, or costs, were rarely reported. 

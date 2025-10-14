@@ -1,0 +1,11 @@
+Background
+Helminth infections, such as soil‐transmitted helminths, schistosomiasis, onchocerciasis, and lymphatic filariasis, are prevalent in many countries where human immunodeficiency virus (HIV) infection is also common. There is some evidence from observational studies that HIV and helminth co‐infection may be associated with higher viral load and lower CD4+ cell counts. Treatment of helminth infections with antihelminthics (deworming drugs) may have benefits for people living with HIV beyond simply clearance of worm infections. 
+This is an update of a Cochrane Review published in 2009 and we have expanded it to include outcomes of anaemia and adverse events. 
+Objectives
+To evaluate the effects of deworming drugs (antihelminthic therapy) on markers of HIV disease progression, anaemia, and adverse events in children and adults. 
+Search methods
+In this review update, we searched online for published and unpublished studies in the Cochrane Library, MEDLINE, EMBASE, CENTRAL, the World Health Organization (WHO) International Clinical Trials Registry Platform (ICRTP), ClinicalTrials.gov, and the WHO Global Health Library up to 29 September 2015. We also searched databases listing conference abstracts, scanned reference lists of articles, and contacted the authors of included studies. 
+Selection criteria
+We searched for randomized controlled trials (RCTs) that compared antihelminthic drugs with placebo or no intervention in HIV‐positive people. 
+Data collection and analysis
+Two review authors independently extracted data and assessed trials for eligibility and risk of bias. The primary outcomes were changes in HIV viral load and CD4+ cell count, and secondary outcomes were anaemia, iron deficiency, adverse events, and mortality events. We compared the effects of deworming using mean differences, risk ratios (RR), and 95% confidence intervals (CIs). We assessed the quality of evidence using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. 

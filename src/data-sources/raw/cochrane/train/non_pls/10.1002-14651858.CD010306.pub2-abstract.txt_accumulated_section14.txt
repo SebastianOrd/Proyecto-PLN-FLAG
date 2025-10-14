@@ -1,0 +1,14 @@
+Background
+The teaching profession is an occupation with a high prevalence of work‐related stress. This may lead to sustained physical and mental health problems in teachers. It can also negatively affect the health, wellbeing and educational attainment of children, and impose a financial burden on the public budget in terms of teacher turnover and sickness absence. Most evaluated interventions for the wellbeing of teachers are directed at the individual level, and so do not tackle the causes of stress in the workplace. Organisational‐level interventions are a potential avenue in this regard. 
+Objectives
+To evaluate the effectiveness of organisational interventions for improving wellbeing and reducing work‐related stress in teachers. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, PsycINFO, ASSIA, AEI, BEI, BiblioMap, DARE, DER, ERIC, IBSS, SSCI, Sociological Abstracts, a number of specialist occupational health databases, and a number of trial registers and grey literature sources from the inception of each database until January 2015. 
+Selection criteria
+Randomised controlled trials (RCTs), cluster‐RCTs, and controlled before‐and‐after studies of organisational‐level interventions for the wellbeing of teachers. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+Four studies met the inclusion criteria. They were three cluster‐randomised controlled trials and one with a stepped‐wedge design. 
+Changing task characteristics
+One study with 961 teachers in eight schools compared a task‐based organisational change intervention along with stress management training to no intervention. It found a small reduction at 12 months in 10 out of 14 of the subscales in the Occupational Stress Inventory, with a mean difference (MD) varying from ‐3.84 to 0.13, and a small increase in the Work Ability Index (MD 2.27; 95% confidence interval (CI) 1.64 to 2.90; 708 participants, low‐quality evidence). 

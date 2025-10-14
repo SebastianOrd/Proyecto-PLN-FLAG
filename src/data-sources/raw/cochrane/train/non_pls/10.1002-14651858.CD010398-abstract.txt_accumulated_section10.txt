@@ -1,0 +1,10 @@
+Background
+The role of pharmacists has expanded beyond dispensing and packaging over the past two decades, and now includes ensuring rational use of drugs, improving clinical outcomes and promoting health status by working with the public and other healthcare professionals. 
+Objectives
+To examine the effect of pharmacist‐provided non‐dispensing services on patient outcomes, health service utilisation and costs in low‐ and middle‐income countries. 
+Search methods
+Studies were identified by electronically searching the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (February 2010), MEDLINE (1949 to February 2010), Scopus (1960 to March 2010) and International Pharmaceutical Abstracts (1970 to January 2010) databases. An update of this review is currently ongoing. The search was re‐run September 2012 and the potentially relevant studies are awaiting classification. 
+Selection criteria
+Randomised controlled trials, non‐randomised controlled trials, controlled before‐after studies and interrupted time series analyses comparing 1. pharmacist‐provided non‐dispensing services targeted at patients versus (a) the same services provided by other healthcare professionals, (b) the same services provided by untrained health workers, and (c) usual care; and 2. pharmacist‐provided non‐dispensing services targeted at healthcare professionals versus (a) the same services provided by other healthcare professionals, (b) the same services provided by untrained health workers, and (c) usual care in low‐ and middle‐income countries. The research sites must have been located in low or middle income countries according to World Bank Group 2009 at the time of the study, regardless of the location or the origin of the researchers.             
+Data collection and analysis
+Two authors independently reviewed studies for inclusion in the review. Two review authors independently extracted data for each study. Risk of bias of the included studies was also assessed independently by two authors. 

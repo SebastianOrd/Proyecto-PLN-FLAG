@@ -1,0 +1,12 @@
+Background
+People with fragile X syndrome (FXS) have an intellectual dysfunction that can range from very mild to severe. Symptoms can include speech and language delays and behavioural difficulties such as aggression or self injurious behaviours, emotional lability, and anxiety‐related problems (for example obsessive‐compulsive symptoms and perseverative behaviours). In some cases, affected people may have an additional diagnosis of attention deficit hyperactivity disorder or an autism spectrum disorder. 
+Objectives
+To review the efficacy and safety of L‐acetylcarnitine in improving the psychological, intellectual, and social performance of people with FXS. 
+Search methods
+In May 2015 we searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, PsycINFO, Web of Science, and two other databases. We also searched three trials registers, four theses databases, and the reference lists of relevant studies and reviews. 
+Selection criteria
+Randomised controlled trials (RCTs) that assessed the efficacy of L‐acetylcarnitine, at any dose, in people of any age diagnosed with FXS compared with placebo. 
+Data collection and analysis
+For each trial, two review authors independently extracted data on the children included and interventions compared, and assessed the risk of bias of the studies across the following domains: randomisation sequence generation, allocation concealment, blinding (of participants, personnel, and outcome assessors), incomplete outcome data, selective outcome reporting, and other potential sources of bias. 
+Main results
+We found only two RCTs that compared oral L‐acetylcarnitine (LAC) with oral placebo in children with FXS. The studies included a total of 83 participants, all of them male, who were treated and followed for one year. The age of participants at the start of treatment ranged from 6 to 13 years, with a mean age of 9 years. Neither study provided information on randomisation, allocation concealment procedures, or blinding of outcome assessment, and we received no responses from the authors we emailed for clarification. We therefore rated studies as being at unclear risk of bias on these domains. We judged both studies to be at low risk of bias for blinding of participants and personnel, incomplete outcome data, and selective reporting, but to be at high risk of other bias, as at least one study was funded by a drug company, and in both studies people working for the company were part of the research team. 

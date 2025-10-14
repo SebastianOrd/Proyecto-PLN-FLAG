@@ -1,0 +1,10 @@
+Background
+Mass media interventions can be used as a way of delivering preventive health messages. They have the potential to reach and modify the knowledge, attitudes and behaviour of a large proportion of the community. 
+Objectives
+To assess the effects of mass media interventions on preventing smoking in young people, and whether it can reduce smoking uptake among youth (under 25 years), improve smoking attitudes, intentions and knowledge, improve self‐efficacy/self‐esteem, and improve perceptions about smoking, including the choice to follow positive role models. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group Specialized Register, with additional searches of MEDLINE and Embase in June 2016. This is an update of a review first published in 1998. 
+Selection criteria
+Randomized trials, controlled trials without randomization and interrupted time‐series studies that assessed the effect of mass media campaigns (defined as channels of communication such as television, radio, newspapers, social media, billboards, posters, leaflets or booklets intended to reach large numbers of people and which are not dependent on person‐to‐person contact) in influencing the smoking behaviour (either objective or self‐reported) of young people under the age of 25 years. We define smoking behaviour as the presence or absence of tobacco smoking or other tobacco use, or both, and the frequency of tobacco use. Eligible comparators included education or no intervention. 
+Data collection and analysis
+Two review authors independently extracted information relating to the characteristics and the content of media interventions, participants, outcomes, methods of the study and risks of bias. We combined studies using qualitative narrative synthesis. We assessed the risks of bias for each study using the Cochrane 'Risk of bias' tool, alongside additional domains to account for the nature of the intervention. We assessed the quality of evidence contributing to outcomes using GRADE. 

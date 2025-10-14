@@ -1,0 +1,13 @@
+Background
+This is an update of a review that was first published in 2002. Female sterilisation is the most popular contraceptive method worldwide. Several techniques exist for interrupting the patency of fallopian tubes, including cutting and tying the tubes, damaging the tube using electric current, applying clips or silicone rubber rings, and blocking the tubes with chemicals or tubal inserts. 
+Objectives
+To compare the different tubal occlusion techniques in terms of major and minor morbidity, failure rates (pregnancies), technical failures and difficulties, and women's and surgeons' satisfaction. 
+Search methods
+For the original review published in 2002 we searched MEDLINE and the Cochrane Central Register of Controlled Trials (CENTRAL). For this 2015 update, we searched POPLINE, LILACS, PubMed and CENTRAL on 23 July 2015. We used the related articles feature of PubMed and searched reference lists of newly identified trials. 
+Selection criteria
+All randomized controlled trials (RCTs) comparing different techniques for tubal sterilisation, irrespective of the route of fallopian tube access or the method of anaesthesia. 
+Data collection and analysis
+For the original review, two review authors independently selected studies, extracted data and assessed risk of bias. For this update, data extraction was performed by one author (TL) and checked by another (RK). We grouped trials according to the type of comparison evaluated. Results are reported as odds ratios (OR) or mean differences (MD) using fixed‐effect methods, unless heterogeneity was high, in which case we used random‐effects methods. 
+Main results
+We included 19 RCTs involving 13,209 women. Most studies concerned interval sterilisation; three RCTs involving 1632 women, concerned postpartum sterilisation. Comparisons included tubal rings versus clips (six RCTs, 4232 women); partial salpingectomy versus electrocoagulation (three RCTs, 2019 women); tubal rings versus electrocoagulation (two RCTs, 599 women); partial salpingectomy versus clips (four RCTs, 3627 women); clips versus electrocoagulation (two RCTs, 206 women); and Hulka versus Filshie clips (two RCTs, 2326 women). RCTs of clips versus electrocoagulation contributed no data to the review. 
+One year after sterilisation, failure rates were low (< 5/1000) for all methods.There were no deaths reported with any method, and major morbidity related to the occlusion technique was rare. 

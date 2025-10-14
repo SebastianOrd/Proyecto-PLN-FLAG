@@ -1,0 +1,16 @@
+Background
+Fetal malposition (occipito‐posterior and persistent occipito‐transverse) in labour is associated with adverse maternal and infant outcomes. Whether use of maternal postures can improve these outcomes is unclear. This Cochrane Review of maternal posture in labour is one of two new reviews replacing a 2007 review of maternal postures in pregnancy and labour. 
+Objectives
+To assess the effect of specified maternal postures for women with fetal malposition in labour on maternal and infant morbidity compared to other postures.  
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (13 July 2021), and reference lists of retrieved studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) or cluster‐RCTs conducted among labouring women with a fetal malposition confirmed by ultrasound or clinical examination, comparing a specified maternal posture with another posture. Quasi‐RCTs and cross‐over trials were not eligible for inclusion. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion, risk of bias, and performed data extraction. We used mean difference (MD) for continuous variables, and risk ratios (RRs) for dichotomous variables, with 95% confidence intervals (CIs). We assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We included eight eligible studies with 1766 women. 
+All studies reported some form of random sequence generation but were at high risk of performance bias due to lack of blinding. There was a high risk of selection bias in one study, detection bias in two studies, attrition bias in two studies, and reporting bias in two studies. 
+Hands and knees 
+The use of hands and knees posture may have little to no effect on operative birth (average RR 1.14, 95% CI 0.87 to 1.50; 3 trials, 721 women; low‐certainty evidence) and caesarean section (RR 1.34, 95% CI 0.96 to 1.87; 3 trials, 721 women; low‐certainty evidence) but the evidence is uncertain; and very uncertain for epidural use (average RR 0.74, 95% CI 0.41 to 1.31; 2 trials, 282 women; very low‐certainty evidence), instrumental vaginal birth (average RR 1.04, 95% CI 0.57 to 1.90; 3 trials, 721 women; very low‐certainty evidence), severe perineal tears (average RR 0.88, 95% CI 0.03 to 22.30; 2 trials, 586 women; very low‐certainty evidence), maternal satisfaction (average RR 1.02, 95% CI 0.68 to 1.54; 3 trials, 350 women; very low‐certainty evidence), and Apgar scores less than seven at five minutes (RR 0.71, 95% CI 0.21 to 2.34; 2 trials, 586 babies; very low‐certainty evidence).  
+No data were reported for the hands and knees comparisons for postpartum haemorrhage, serious neonatal morbidity, death (stillbirth or death of liveborn infant), admission to neonatal intensive care, neonatal encephalopathy, need for respiratory support, and neonatal jaundice requiring phototherapy.  

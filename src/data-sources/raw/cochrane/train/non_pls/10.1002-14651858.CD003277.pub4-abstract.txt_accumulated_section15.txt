@@ -1,0 +1,15 @@
+Background
+Lennox‐Gastaut syndrome (LGS) is an age‐specific epilepsy syndrome characterised by multiple seizure types. LGS has a characteristic electroencephalogram, an onset before age eight years, and drug resistance. 
+This is an updated version of the Cochrane Review published in 2013.
+Objectives
+To assess the efficacy and tolerability of anti‐seizure medications (ASMs) for LGS.
+Search methods
+We searched the Cochrane Register of Studies (CRS Web) and MEDLINE (Ovid, 1946 to 28 February 2020) on 2 March 2020. CRS Web includes randomised controlled trials (RCTs) or quasi‐RCTs from the Cochrane Central Register of Controlled Trials (CENTRAL); the Specialised Registers of Cochrane Review Groups, including Cochrane Epilepsy; PubMed; Embase; ClinicalTrials.gov; and the World Health Organization's International Clinical Trials Registry Platform (ICTRP). We imposed no language restrictions. We contacted pharmaceutical companies and colleagues in the field to seek any unpublished or ongoing studies. 
+Selection criteria
+We considered RCTs, including cross‐over trials, of ASMs for LGS in children and adults. We included studies of ASMs used as either monotherapy or as add‐on (adjunctive) therapy. We excluded studies comparing different doses of the same ASM. 
+Data collection and analysis
+We used standard Cochrane methodological procedures, including independent, dual assessment for risk of bias, and applying the GRADE approach to rate the evidence certainty for outcomes. 
+Main results
+We found no trials of ASM monotherapy. The review included 11 trials (1277 participants; approximately 11 weeks to 112 weeks follow‐up after randomisation) using add‐on ASMs for LGS in children, adolescents, and adults. 
+Two studies compared add‐on cannabidiol (two doses) with add‐on placebo in children, adolescents, and adults. Insufficient information was provided for calculation of different response rate proportions in all seizures. We found high‐certainty evidence that 82 more people per 1000 (confidence interval (CI) 19 more to 350 more) had adverse events (AE) leading to study discontinuation with add‐on cannabidiol, compared to add‐on placebo (two studies; 396 participants; risk ratio (RR) 6.62, 95% CI 1.56 to 28.15). 
+One study compared add‐on cinromide with add‐on placebo in children and adolescents only. We found very low‐certainty evidence that 35 more people per 1000 (CI 123 fewer to 434 more) had 50% or greater average reduction of overall seizures with add‐on cinromide compared to add‐on placebo (one study; 56 participants; RR 1.15, 95% CI 0.47 to 2.86). This study did not report participants with AE leading to study discontinuation. 

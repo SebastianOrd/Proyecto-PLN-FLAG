@@ -1,0 +1,12 @@
+Background
+Iatrogenic injury of the inferior alveolar or lingual nerve or both is a known complication of oral and maxillofacial surgery procedures. Injury to these two branches of the mandibular division of the trigeminal nerve may result in altered sensation associated with the ipsilateral lower lip or tongue or both and may include anaesthesia, paraesthesia, dysaesthesia, hyperalgesia, allodynia, hypoaesthesia and hyperaesthesia. Injury to the lingual nerve may also affect taste perception on the affected side of the tongue. The vast majority (approximately 90%) of these injuries are temporary in nature and resolve within eight weeks. However, if the injury persists beyond six months it is deemed to be permanent. Surgical, medical and psychological techniques have been used as a treatment for such injuries, though at present there is no consensus on the preferred intervention, or the timing of the intervention. 
+Objectives
+To evaluate the effects of different interventions and timings of interventions to treat iatrogenic injury of the inferior alveolar or lingual nerves. 
+Search methods
+We searched the following electronic databases: the Cochrane Oral Health Group's Trial Register (to 9 October 2013), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2013, Issue 9), MEDLINE via OVID (1946 to 9 October 2013) and EMBASE via OVID (1980 to 9 October 2013). No language restrictions were placed on the language or date of publication when searching the electronic databases. 
+Selection criteria
+Randomised controlled trials (RCTs) involving interventions to treat patients with neurosensory defect of the inferior alveolar or lingual nerve or both as a sequela of iatrogenic injury. 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration. We performed data extraction and assessment of the risk of bias independently and in duplicate. We contacted authors to clarify the inclusion criteria of the studies. 
+Main results
+Two studies assessed as at high risk of bias, reporting data from 26 analysed participants were included in this review. The age range of participants was from 17 to 55 years. Both trials investigated the effectiveness of low‐level laser treatment compared to placebo laser therapy on inferior alveolar sensory deficit as a result of iatrogenic injury. 

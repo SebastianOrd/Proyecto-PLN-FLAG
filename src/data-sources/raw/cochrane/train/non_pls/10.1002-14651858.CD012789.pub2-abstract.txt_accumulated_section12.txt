@@ -1,0 +1,12 @@
+Background
+Trigger finger is a common hand condition that occurs when movement of a finger flexor tendon through the first annular (A1) pulley is impaired by degeneration, inflammation, and swelling. This causes pain and restricted movement of the affected finger. Non‐surgical treatment options include activity modification, oral and topical non‐steroidal anti‐inflammatory drugs (NSAIDs), splinting, and local injections with anti‐inflammatory drugs. 
+Objectives
+To review the benefits and harms of non‐steroidal anti‐inflammatory drugs (NSAIDs) versus placebo, glucocorticoids, or different NSAIDs administered by the same route for trigger finger. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL, CNKI (China National Knowledge Infrastructure), ProQuest Dissertations and Theses, www.ClinicalTrials.gov, and the WHO trials portal until 30 September 2020. We applied no language or publication status restrictions. 
+Selection criteria
+We searched for randomised controlled trials (RCTs) and quasi‐randomised trials of adult participants with trigger finger that compared NSAIDs administered topically, orally, or by injection versus placebo, glucocorticoid, or different NSAIDs administered by the same route. 
+Data collection and analysis
+Two or more review authors independently screened the reports, extracted data, and assessed risk of bias and GRADE certainty of evidence. The seven major outcomes were resolution of trigger finger symptoms, persistent moderate or severe symptoms, recurrence of symptoms, total active range of finger motion, residual pain, patient satisfaction, and adverse events. Treatment effects were reported as risk ratios (RRs) and mean differences (MDs) with 95% confidence intervals (CIs). 
+Main results
+Two RCTs conducted in an outpatient hospital setting were included (231 adult participants, mean age 58.6 years, 60% female, 95% to 100% moderate to severe disease). Both studies compared a single injection of a non‐selective NSAID (12.5 mg diclofenac or 15.0 mg ketorolac) given at lower than normal doses with a single injection of a glucocorticoid (triamcinolone 20 mg or 5 mg), with maximum follow‐up duration of 12 weeks or 24 weeks. 

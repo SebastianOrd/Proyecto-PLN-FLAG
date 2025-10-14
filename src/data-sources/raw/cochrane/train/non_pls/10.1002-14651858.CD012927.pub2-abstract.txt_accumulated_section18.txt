@@ -1,0 +1,18 @@
+Background
+The widespread use of mobile technologies can potentially expand the use of telemedicine approaches to facilitate communication between healthcare providers, this might increase access to specialist advice and improve patient health outcomes. 
+Objectives
+To assess the effects of mobile technologies versus usual care for supporting communication and consultations between healthcare providers on healthcare providers' performance, acceptability and satisfaction, healthcare use, patient health outcomes, acceptability and satisfaction, costs, and technical difficulties. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and three other databases from 1 January 2000 to 22 July 2019. We searched clinical trials registries, checked references of relevant systematic reviews and included studies, and contacted topic experts. 
+Selection criteria
+Randomised trials comparing mobile technologies to support healthcare provider to healthcare provider communication and consultations compared with usual care. 
+Data collection and analysis
+We followed standard methodological procedures expected by Cochrane and EPOC. We used the GRADE approach to assess the certainty of the evidence. 
+Main results
+We included 19 trials (5766 participants when reported), most were conducted in high‐income countries. The most frequently used mobile technology was a mobile phone, often accompanied by training if it was used to transfer digital images. Trials recruited participants with different conditions, and interventions varied in delivery, components, and frequency of contact. We judged most trials to have high risk of performance bias, and approximately half had a high risk of detection, attrition, and reporting biases. Two studies reported data on technical problems, reporting few difficulties. 
+Mobile technologies used by primary care providers to consult with hospital specialists 
+We assessed the certainty of evidence for this group of trials as moderate to low.
+Mobile technologies:
+‐ probably make little or no difference to primary care providers following guidelines for people with chronic kidney disease (CKD; 1 trial, 47 general practices, 3004 participants); 
+‐ probably reduce the time between presentation and management of individuals with skin conditions, people with symptoms requiring an ultrasound, or being referred for an appointment with a specialist after attending primary care (4 trials, 656 participants); 
+‐ may reduce referrals and clinic visits among people with some skin conditions, and increase the likelihood of receiving retinopathy screening among people with diabetes, or an ultrasound in those referred with symptoms (9 trials, 4810 participants when reported); 

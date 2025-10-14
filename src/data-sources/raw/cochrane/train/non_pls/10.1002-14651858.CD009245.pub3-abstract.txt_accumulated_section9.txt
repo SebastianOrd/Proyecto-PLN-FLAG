@@ -1,0 +1,9 @@
+Background
+This is an updated version of the original Cochrane Review published in Issue 10, 2013. 
+Extramammary Paget's disease is a rare form of superficial skin cancer. The most common site of involvement is the vulva. It is seen mainly in postmenopausal white women. Paget's disease of the vulva often spreads in an occult fashion, with margins extending beyond the apparent edges of the lesion. There is a range of interventions from surgical to non‐invasive techniques or treatments. The challenges of interventions are to remove or treat disease that may not be visible, without overtreatment and with minimisation of morbidity from radical surgery. There is little consensus regarding treatment. Surgery, by default, is the most common treatment, but it is challenging to excise the disease adequately, and recurrence is common, leading to repeated operations, and destruction of anatomy. Alternative treatments of photodynamic therapy, laser therapy, radiotherapy, topical treatments or even chemotherapy have been mooted, and it is important to evaluate the available evidence. It is essential to assess whether newer cell‐specific treatments, such as photodynamic therapy and imiquimod, can reduce the need for radical surgery. 
+Objectives
+To evaluate the benefits and harms of different treatment modalities for the management of Paget's disease of the vulva. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (via Ovid) and Embase (via Ovid) up to 8 May 2018. We also searched registers of clinical trials, abstracts of scientific meetings and reference lists of review articles. 
+Selection criteria
+We searched for randomised controlled trials (RCTs) and well‐designed non‐randomised studies that compared different interventions in women with Paget's disease of the vulva, 

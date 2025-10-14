@@ -1,0 +1,10 @@
+Background
+Achieving and maintaining high levels of medication adherence are required to achieve the full benefits of antiretroviral therapy (ART), yet suboptimal adherence among children is common in both developed and developing countries. 
+Objectives
+To conduct a systematic review of the literature of evaluations of interventions for improving paediatric ART adherence. 
+Search methods
+We created a comprehensive search strategy in order to identify all studies relevant to this topic. In July 2010, we searched the following electronic databases: EMBASE, MEDLINE, PsycINFO, Cochrane Central Register of Controlled Trials (CENTRAL), CINAHL, LILACS, Web of Science, Web of Social Science, NLM Gateway (supplemented by a manual search of the most recent abstracts not included in the Gateway database). We searched abstracts from the International AIDS Conference from 2002 to 2010, the International AIDS Society Conference on Pathogenesis, Treatment and Prevention from 2003 to 2009, and from the Conference on Retroviruses and Opportunistic Infections from 1997 to 2010. We used search strategies determined by the Cochrane Review Group on HIV/AIDS. We also contacted researchers who work in this field and checked reference lists of related systematic reviews and of all included studies. 
+Selection criteria
+Randomised and non‐randomised controlled trials of interventions to improve adherence to ART among children and adolescents (age ≤18 years) were included. Studies had to report adherence to ART as an outcome. 
+Data collection and analysis
+After one author performed an initial screening to exclude citations that did not meet the inclusion criteria, two authors did a second screening of those citations that likely met the criteria. For all articles that passed the second screening, full articles were pulled in order to make a final determination. Two authors then extracted data and graded methodological quality independently. Differences were resolved through discussion. 

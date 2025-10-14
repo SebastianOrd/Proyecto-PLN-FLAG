@@ -1,0 +1,12 @@
+Background
+Laser‐assisted in‐situ keratomileusis (LASIK) is a surgical procedure that corrects refractive errors. This technique creates a flap of the outermost parts of the cornea (epithelium, bowman layer, and anterior stroma) to expose the middle part of the cornea (stromal bed) and reshape it with excimer laser using photoablation. The flaps can be created by a mechanical microkeratome or a femtosecond laser. 
+Objectives
+To compare the effectiveness and safety of mechanical microkeratome versus femtosecond laser in LASIK for adults with myopia. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Trials Register) (2019, Issue 2); Ovid MEDLINE; Embase; PubMed; LILACS; ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We used no date or language restrictions. We searched the reference lists of included trials. We searched the electronic databases on 22 February 2019. 
+Selection criteria
+We included randomized controlled trials (RCTs) of LASIK with a mechanical microkeratome compared to a femtosecond laser in people aged 18 years or older with more than 0.5 diopters of myopia or myopic astigmatism. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 16 records from 11 trials enrolling 943 adults (1691 eyes) with spherical or spherocylindrical myopia, who were suitable candidates for LASIK. Five hundred and forty‐seven participants (824 eyes) received LASIK with a mechanical microkeratome and 588 participants (867 eyes) with a femtosecond laser. Each trial included between nine and 360 participants. In six trials, the same participants received both interventions. Overall, the trials were at an uncertain risk of bias for most domains. 

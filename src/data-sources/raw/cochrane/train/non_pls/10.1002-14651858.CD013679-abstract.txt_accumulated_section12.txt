@@ -1,0 +1,12 @@
+Background
+The global burden of poor maternal, neonatal, and child health (MNCH) accounts for more than a quarter of healthy years of life lost worldwide. Targeted client communication (TCC) via mobile devices (MD) (TCCMD) may be a useful strategy to improve MNCH. 
+Objectives
+To assess the effects of TCC via MD on health behaviour, service use, health, and well‐being for MNCH. 
+Search methods
+In July/August 2017, we searched five databases including The Cochrane Central Register of Controlled Trials, MEDLINE and Embase. We also searched two trial registries. A search update was carried out in July 2019 and potentially relevant studies are awaiting classification. 
+Selection criteria
+We included randomised controlled trials that assessed TCC via MD to improve MNCH behaviour, service use, health, and well‐being. Eligible comparators were usual care/no intervention, non‐digital TCC, and digital non‐targeted client communication. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane, although data extraction and risk of bias assessments were carried out by one person only and cross‐checked by a second. 
+Main results
+We included 27 trials (17,463 participants). Trial populations were: pregnant and postpartum women (11 trials conducted in low‐, middle‐ or high‐income countries (LMHIC); pregnant and postpartum women living with HIV (three trials carried out in one lower middle‐income country); and parents of children under the age of five years (13 trials conducted in LMHIC). Most interventions (18) were delivered via text messages alone, one was delivered through voice calls only, and the rest were delivered through combinations of different communication channels, such as multimedia messages and voice calls. 

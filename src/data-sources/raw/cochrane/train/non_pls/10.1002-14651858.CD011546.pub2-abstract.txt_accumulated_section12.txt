@@ -1,0 +1,12 @@
+Background
+People with Down syndrome are vulnerable to developing dementia at an earlier age than the general population. Alzheimer's disease and cognitive decline in people with Down syndrome can place a significant burden on both the person with Down syndrome and their family and carers. Various pharmacological interventions, including donepezil, galantamine, memantine and rivastigmine, appear to have some effect in treating cognitive decline in people without Down syndrome, but their effectiveness for those with Down syndrome remains unclear. 
+Objectives
+To assess the effectiveness of anti‐dementia pharmacological interventions and nutritional supplements for treating cognitive decline in people with Down syndrome. 
+Search methods
+In January 2015, we searched CENTRAL, ALOIS (the Specialised Register of the Cochrane Dementia and Cognitive Improvement Group), Ovid MEDLINE, Embase, PsycINFO, seven other databases, and two trials registers. In addition, we checked the references of relevant reviews and studies and contacted study authors, other researchers and relevant drug manufacturers to identify additional studies. 
+Selection criteria
+Randomised controlled trials (RCTs) of anti‐dementia pharmacological interventions or nutritional supplements for adults (aged 18 years and older) with Down syndrome, in which treatment was administered and compared with either placebo or no treatment. 
+Data collection and analysis
+Two review authors independently assessed the risk of bias of included trials and extracted the relevant data. Review authors contacted study authors to obtain missing information where necessary. 
+Main results
+Only nine studies (427 participants) met the inclusion criteria for this review. Four of these (192 participants) assessed the effectiveness of donepezil, two (139 participants) assessed memantine, one (21 participants) assessed simvastatin, one study (35 participants) assessed antioxidants, and one study (40 participants) assessed acetyl‐L‐carnitine. 

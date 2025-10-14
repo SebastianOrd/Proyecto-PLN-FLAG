@@ -1,0 +1,14 @@
+Background
+Medical professionals routinely carry out surgical hand antisepsis before undertaking invasive procedures to destroy transient micro‐organisms and inhibit the growth of resident micro‐organisms. Antisepsis may reduce the risk of surgical site infections (SSIs) in patients. 
+Objectives
+To assess the effects of surgical hand antisepsis on preventing surgical site infections (SSIs) in patients treated in any setting. The secondary objective is to determine the effects of surgical hand antisepsis on the numbers of colony‐forming units (CFUs) of bacteria on the hands of the surgical team. 
+Search methods
+In June 2015 for this update, we searched: The Cochrane Wounds Group Specialized Register; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations) and EBSCO CINAHL. There were no restrictions with respect to language, date of publication or study setting. 
+Selection criteria
+Randomised controlled trials comparing surgical hand antisepsis of varying duration, methods and antiseptic solutions. 
+Data collection and analysis
+Three authors independently assessed studies for inclusion and trial quality and extracted data. 
+Main results
+Fourteen trials were included in the updated review. Four trials reported the primary outcome, rates of SSIs, while 10 trials reported number of CFUs but not SSI rates. In general studies were small, and some did not present data or analyses that could be easily interpreted or related to clinical outcomes. These factors reduced the quality of the evidence. 
+SSIs 
+One study randomised 3317 participants to basic hand hygiene (soap and water) versus an alcohol rub plus additional hydrogen peroxide. There was no clear evidence of a difference in the risk of SSI (risk ratio (RR) 0.97, 95% CI 0.77 to 1.23, moderate quality evidence downgraded for imprecision). 

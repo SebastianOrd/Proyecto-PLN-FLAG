@@ -1,0 +1,14 @@
+Background
+Olanzapine as an antiemetic represents a new use of an antipsychotic drug. People with cancer may experience nausea and vomiting whilst receiving chemotherapy or radiotherapy, or whilst in the palliative phase of illness. 
+Objectives
+To assess the efficacy and safety of olanzapine when used as an antiemetic in the prevention and treatment of nausea and vomiting related to cancer in adults. 
+Search methods
+We searched CENTRAL, MEDLINE and Embase for published data on 20th September 2017, as well as ClinicalTrials.gov and World Health Organization International Clinical Trials Registry Platform for unpublished trials. We checked reference lists, and contacted experts in the field and study authors. 
+Selection criteria
+We included randomised controlled trials (RCTs) of olanzapine versus any comparator with or without adjunct therapies for the prevention or treatment, or both, of nausea or vomiting in people with cancer aged 18 years or older, in any setting, of any duration, with at least 10 participants per treatment arm. 
+Data collection and analysis
+We used standard Cochrane methodology. We used GRADE to assess quality of evidence for each main outcome. We extracted data for absence of nausea or vomiting and frequency of serious adverse events as primary outcomes. We extracted data for patient perception of treatment, other adverse events, somnolence and fatigue, attrition, nausea or vomiting severity, breakthrough nausea and vomiting, rescue antiemetic use, and nausea and vomiting as secondary outcomes at specified time points. 
+Main results
+We included 14 RCTs (1917 participants) from high‐, middle‐ and low‐income countries, representing over 24 different cancers. Thirteen studies were in chemotherapy‐induced nausea and vomiting. Oral olanzapine was administered during highly emetogenic (HEC) or moderately emetogenic (MEC) chemotherapy (12 studies); chemoradiotherapy (one study); or palliation (one study). Eight studies await classification and 13 are ongoing. 
+The main comparison was olanzapine versus placebo/no treatment. Other comparisons were olanzapine versus NK1 antagonist, prokinetic, 5‐HT3 antagonist or dexamethasone. 
+We assessed all but one study as having one or more domains that were at high risk of bias. Eight RCTs with fewer than 50 participants per treatment arm, and 10 RCTs with issues related to blinding, were at high risk of bias. We downgraded GRADE assessments due to imprecision, inconsistency and study limitations. 

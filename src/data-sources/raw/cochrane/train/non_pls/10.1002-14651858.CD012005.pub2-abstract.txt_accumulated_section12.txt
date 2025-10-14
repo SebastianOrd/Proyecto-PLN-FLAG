@@ -1,0 +1,12 @@
+Background
+Inflammatory bowel disease (IBD) is an umbrella term used to describe a group of chronic, progressive inflammatory disorders of the digestive tract. Crohn's disease and ulcerative colitis are the two main types. Fatigue is a common, debilitating and burdensome symptom experienced by individuals with IBD. The subjective, complex nature of fatigue can often hamper its management. The efficacy and safety of pharmacological or non‐pharmacological treatments for fatigue in IBD is not yet established through systematic review of studies. 
+Objectives
+To assess the efficacy and safety of pharmacological and non‐pharmacological interventions for managing fatigue in IBD compared to no treatment, placebo or active comparator. 
+Search methods
+A systematic search of the databases Embase, MEDLINE, Cochrane Library, CINAHL, PsycINFO was undertaken from inception to July 2018. A top‐up search was run in October 2019. We also searched the Cochrane IBD Group Specialized Register, the Cochrane Central Register of Controlled Trials, ongoing trials and research registers, conference abstracts and reference lists for potentially eligible studies. 
+Selection criteria
+Randomised controlled trials of pharmacological and non‐pharmacological interventions in children or adults with IBD, where fatigue was assessed as a primary or secondary outcome using a generic or disease‐specific fatigue measure, a subscale of a larger quality of life scale or as a single‐item measure, were included. 
+Data collection and analysis
+Two authors independently screened search results and four authors extracted and assessed bias independently using the Cochrane 'Risk of bias' tool. The primary outcome was fatigue and the secondary outcomes included quality of life, adverse events (AEs), serious AEs and withdrawal due to AEs. Standard methodological procedures were used. 
+Main results
+We included 14 studies (3741 participants): nine trials of pharmacological interventions and five trials of non‐pharmacological interventions. Thirty ongoing studies were identified, and five studies are awaiting classification. Data on fatigue were available from nine trials (1344 participants). In only four trials was managing fatigue the primary intention of the intervention (electroacupuncture, physical activity advice, cognitive behavioural therapy and solution‐focused therapy). 

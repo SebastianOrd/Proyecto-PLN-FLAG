@@ -1,0 +1,12 @@
+Background
+Follicular lymphoma (FL) is the most common indolent and second most common Non‐Hodgkin`s lymphoma (NHL) in the Western world. Standard treatment usually includes rituximab and chemotherapy. High‐dose therapy (HDT) followed by autologous stem cell transplantation (ASCT) is an option for patients in advanced stages or for second‐line therapy, leading to improved progression‐free survival (PFS) rates. However, the impact of HDT and ASCT remains unclear, as there are hints of an increased risk of second cancers. 
+Objectives
+We performed a systematic review with meta‐analysis of randomised controlled trials (RCTs) comparing HDT plus ASCT with chemotherapy or immuno‐chemotherapy in patients with FL with respect to overall survival (OS), PFS, treatment‐related mortality (TRM), adverse events and secondary malignancies. 
+Search methods
+We searched CENTRAL, MEDLINE, and EMBASE as well as conference proceedings from January 1985 to September 2011 for RCTs. Two review authors independently screened search results. 
+Selection criteria
+Randomised controlled trials comparing chemotherapy or immuno‐chemotherapy with HDT followed by ASCT in adults with previously untreated or relapsed FL. 
+Data collection and analysis
+We used hazard ratios (HR) as effect measures used for OS and PFS as well as relative risks for response rates. Two review authors independently extracted data and assessed the quality of trials. 
+Main results
+Our search strategies led to 3046 potentially relevant references. Of these, five RCTs involving 1093 patients were included; four trials in previously untreated patients and one trial in relapsed patients. Overall, the quality of the five trials is judged to be moderate. All trials were reported as randomised and judged to be open‐label studies, because usually trials evaluating stem cell transplantation are not blinded. Due to the small number of studies in each analysis (four or less), the quantification of heterogeneity was not reliable and not evaluated in further detail. A potential source of bias are uncertainties in the HR calculation. For OS, the HR had to be calculated for three trials from survival curves, for PFS for two trials. 

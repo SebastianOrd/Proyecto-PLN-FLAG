@@ -1,0 +1,11 @@
+Background
+Skeletal muscle cramps are common and often occur in association with pregnancy, advanced age, exercise or motor neuron disorders (such as amyotrophic lateral sclerosis). Typically, such cramps have no obvious underlying pathology, and so are termed idiopathic. Magnesium supplements are marketed for the prophylaxis of cramps but the efficacy of magnesium for this purpose remains unclear. 
+This is an update of a Cochrane Review first published in 2012, and performed to identify and incorporate more recent studies. 
+Objectives
+To assess the effects of magnesium supplementation compared to no treatment, placebo control or other cramp therapies in people with skeletal muscle cramps.   
+Search methods
+On 9 September 2019, we searched the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, Embase, LILACS, CINAHL Plus, AMED, and SPORTDiscus. We also searched WHO‐ICTRP and ClinicalTrials.gov for registered trials that might be ongoing or unpublished, and ISI Web of Science for studies citing the studies included in this review. 
+Selection criteria
+Randomized controlled trials (RCTs) of magnesium supplementation (in any form) to prevent skeletal muscle cramps in any patient group (i.e. all clinical presentations of cramp). We considered comparisons of magnesium with no treatment, placebo control, or other therapy. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion and extracted data. Two review authors assessed risk of bias. We attempted to contact all study authors when questions arose and obtained participant‐level data for four of the included trials, one of which was unpublished. We collected all data on adverse effects from the included RCTs. 

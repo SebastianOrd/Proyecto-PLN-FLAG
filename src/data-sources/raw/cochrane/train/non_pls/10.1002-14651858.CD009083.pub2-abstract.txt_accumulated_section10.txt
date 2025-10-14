@@ -1,0 +1,10 @@
+Background
+Panic disorder (PD) is a common type of anxiety disorder, characterized by unexpected and repeated panic attacks or fear of future panic attacks, or both. Individuals with PD are often resistant to pharmacological or psychological treatments and this can lead to the disorder becoming a chronic and disabling illness. Repetitive transcranial magnetic stimulation (rTMS) can deliver sustained and spatially selective current to suppress or induce cortical excitability, and its therapeutic effect on pathological neuronal activity in people with PD has already been examined in case studies and clinical trials. However, a systematic review is necessary to assess the efficacy and safety of rTMS for PD. 
+Objectives
+To assess the effects of repetitive transcranial magnetic stimulation (rTMS) for panic disorder (PD) in adults aged 18 to 65 years, either as a monotherapy or as an augmentation strategy. 
+Search methods
+An electronic search of the Cochrane Depression, Anxiety and Neurosis Review Group Controlled Trials Register (CCDANCTR) was conducted to 19 February 2014. The CCDANCTR includes reports of relevant randomised controlled trials (RCTs) from MEDLINE (1950 to date), EMBASE (1974 to date), PsycINFO (1967 to date) and the Cochrane Central Register of Controlled Trials (CENTRAL) (all years). Additional searches were conducted in Psyndex and the main Chinese medical databases. 
+Selection criteria
+RCTs or quasi‐randomised trials evaluating rTMS for PD in people aged between 18 and 65 years, either as a monotherapy or as an augmentation strategy. 
+Data collection and analysis
+Two review authors independently selected studies and extracted data and verified the data by cross‐checking. Disagreements were resolved by discussion. For binary data, we calculated fixed‐effect model risk ratio (RR) and its 95% confidence interval (CI). For continuous data, we calculated fixed‐effect model standardized mean difference (SMD) and its 95% CI. 

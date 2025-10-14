@@ -1,0 +1,13 @@
+Which school‐based measures designed to contain the COVID‐19 pandemic have been evaluated to date, and how were they evaluated? 
+Why is this question important? 
+To combat the spread of SARS‐CoV‐2 and the impact of COVID‐19, countries worldwide have taken a variety of public health measures. In many countries, shutting schools was one of the earliest responses. By mid‐April 2020, 192 countries had closed schools, affecting more than 90% of the world’s student population. This severely disrupted school, family and work life, with likely negative impacts including: 
+‐ a worsening of children’s and adolescents’ health and well‐being;‐ increases in inequalities between children and adolescents from disadvantaged and more privileged backgrounds;‐ possible decreased parental income and job security;‐ possible loss of parental economic productivity. 
+Given the potential negative consequences of school closures, many countries have since reopened schools. To avoid disease transmission among students, between staff and students, and beyond, a range of school‐based measures have been put in place. These include: 
+‐ students and staff wearing face masks and regularly washing their hands;‐ adapting school activities (for example, not singing in music classes);‐ improving ventilation systems; and‐ screening suspected cases of infection. 
+To date, we know little about which school‐based measures designed to contain COVID‐19 have been evaluated, and how they have been evaluated. It is important to find this out, so that, in time, we can compare the effectiveness of different measures and inform future policy guidelines. 
+We set out to identify and map the evidence on school‐based measures to contain COVID‐19. This work is intended to form the basis of a future review about the effectiveness of these measures. This review will inform guidelines issued by the World Health Organization (WHO). 
+How did we identify and map the evidence? 
+First, we searched for studies that evaluated any intervention set in schools designed to prevent the spread of COVID‐19. We considered all types of studies, and a broad range of outcomes, including: 
+‐ infectious disease transmission;‐ other harmful or beneficial effects on health;‐ wider implications for society, the economy, and the population. 
+We then grouped studies according to how similar or different they were. This allowed us to gauge: 
+‐ which types of study have been used to evaluate measures to date;‐ where studies have been conducted;‐ which types of intervention have been evaluated; and‐ which outcomes have been studied. 

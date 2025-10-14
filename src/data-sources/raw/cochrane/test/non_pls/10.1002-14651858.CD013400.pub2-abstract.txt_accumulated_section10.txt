@@ -1,0 +1,10 @@
+Background
+Congenital heart disease (ConHD) affects approximately 1% of all live births. People with ConHD are living longer due to improved medical intervention and are at risk of developing non‐communicable diseases. Cardiorespiratory fitness (CRF) is reduced in people with ConHD, who deteriorate faster compared to healthy people. CRF is known to be prognostic of future mortality and morbidity: it is therefore important to assess the evidence base on physical activity interventions in this population to inform decision making. 
+Objectives
+To assess the effectiveness and safety of all types of physical activity interventions versus standard care in individuals with congenital heart disease. 
+Search methods
+We undertook a systematic search on 23 September 2019 of the following databases: CENTRAL, MEDLINE, Embase, CINAHL, AMED, BIOSIS Citation Index, Web of Science Core Collection, LILACS and DARE. We also searched ClinicalTrials.gov and we reviewed the reference lists of relevant systematic reviews. 
+Selection criteria
+We included randomised controlled trials (RCT) that compared any type of physical activity intervention against a 'no physical activity' (usual care) control. We included all individuals with a diagnosis of congenital heart disease, regardless of age or previous medical interventions.  
+Data collection and analysis
+Two review authors (CAW and CW) independently screened all the identified references for inclusion. We retrieved and read all full papers; and we contacted study authors if we needed any further information. The same two independent reviewers who extracted the data then processed the included papers, assessed their risk of bias using RoB 2 and assessed the certainty of the evidence using the GRADE approach. The primary outcomes were: maximal cardiorespiratory fitness (CRF) assessed by peak oxygen consumption; health‐related quality of life (HRQoL) determined by a validated questionnaire; and device‐worn ‘objective’ measures of physical activity. 

@@ -1,0 +1,10 @@
+Background
+Modern immunosuppressive regimens after kidney transplantation usually use a combination of two or three agents of different classes to prevent rejection and maintain graft function. Most frequently, calcineurin‐inhibitors (CNI) are combined with corticosteroids and a proliferation‐inhibitor, either azathioprine (AZA) or mycophenolic acid (MPA). MPA has largely replaced AZA as a first line agent in primary immunosuppression, as MPA is believed to be of stronger immunosuppressive potency than AZA. However, treatment with MPA is more costly, which calls for a comprehensive assessment of the comparative effects of the two drugs. 
+Objectives
+This review of randomised controlled trials (RCTs) aimed to look at the benefits and harms of MPA versus AZA in primary immunosuppressive regimens after kidney transplantation. Both agents were compared regarding their efficacy for maintaining graft and patient survival, prevention of acute rejection, maintaining graft function, and their safety, including infections, malignancies and other adverse events. Furthermore, we investigated potential effect modifiers, such as transplantation era and the concomitant immunosuppressive regimen in detail. 
+Search methods
+We searched Cochrane Kidney and Transplant's Specialised Register (to 21 September 2015) through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+All RCTs about MPA versus AZA in primary immunosuppression after kidney transplantation were included, without restriction on language or publication type. 
+Data collection and analysis
+Two authors independently determined study eligibility, assessed risk of bias and extracted data from each study. Statistical analyses were performed using the random‐effects model and the results were expressed as risk ratio (RR) for dichotomous outcomes and mean difference (MD) for continuous outcomes with 95% confidence intervals (CI). 

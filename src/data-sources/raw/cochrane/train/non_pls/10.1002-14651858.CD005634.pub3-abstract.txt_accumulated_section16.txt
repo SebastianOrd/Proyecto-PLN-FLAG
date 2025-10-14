@@ -1,0 +1,16 @@
+Background
+Interventions by specialist breast cancer nurses (SBCNs) aim to support women and help them cope with the impact of the disease on their quality of life. 
+Objectives
+To assess the effects of individual interventions carried out by SBCNs on indicators of quality of life, anxiety, depression, and participant satisfaction. 
+Search methods
+In June 2020, we searched MEDLINE, Embase, CENTRAL (Trials only), Cochrane Breast Cancer Group's Specialist Register (CBCG SR), CINAHL, PsycINFO, World Health Organization International Clinical Trials Registry Platform (WHO ICTRP) and Clinicaltrials.gov. 
+Selection criteria
+We selected randomised controlled trials (RCTs) of interventions carried out by SBCNs for women with breast cancer, which reported indicators of quality of life, anxiety, depression, and participant satisfaction. 
+Data collection and analysis
+The certainty of the evidence was evaluated using the GRADE approach. A narrative description of the results including structured tabulation was carried out. 
+Main results
+We included 14 RCTs involving 2905 women. With the exception of one study (women with advanced breast cancer), all the women were diagnosed with primary breast cancer. Mean age ranged from 48 to 64 years. 
+Psychosocial nursing interventions compared with standard care for women with primary breast cancer 
+Eight studies (1328 women, low‐quality evidence) showed small improvements in general health‐related quality of life or no difference in effect between nine weeks and 18 months. Six studies (897 women, low‐quality evidence) showed small improvements in cancer‐specific quality of life or no difference in effect between nine weeks and 18 months. Six studies (951 women, low‐quality evidence) showed small improvements in anxiety and depression between nine weeks and 18 months. Two studies (320 women, low‐quality evidence) measured satisfaction during survivorship; one study measured satisfaction only in the intervention group and showed high levels of satisfaction with care; the second study showed equal satisfaction with care in both groups at six months. 
+Psychosocial nursing interventions compared with other supportive care interventions for women with primary breast cancer 
+Two studies (351 women, very‐low quality evidence) measured general health‐related quality of life. One study reported that psychological morbidity reduced over the 12‐month period; scores were consistently lower in women supported by SBCNs alone compared to support from a voluntary organisation. The other study reported that at six months, women receiving psychosocial support by either SBCNs or psychologists clinically improved from "higher levels of distress" to "lower levels of distress". 

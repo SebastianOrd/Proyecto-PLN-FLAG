@@ -1,0 +1,12 @@
+Background
+Primary membranous nephropathy (PMN) is a common cause of nephrotic syndrome in adults. Without treatment, approximately 30% of patients will experience spontaneous remission and one third will have persistent proteinuria. Approximately one‐third of patients progress toward end‐stage kidney disease (ESKD) within 10 years. Immunosuppressive treatment aims to protect kidney function and is recommended for patients who do not show improvement of proteinuria by supportive therapy, and for patients with severe nephrotic syndrome at presentation due to the high risk of developing ESKD. The efficacy and safety of different immunosuppressive regimens are unclear. This is an update of a Cochrane review, first published in 2004 and updated in 2013. 
+Objectives
+The aim was to evaluate the safety and efficacy of different immunosuppressive treatments for adult patients with PMN and nephrotic syndrome. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 1 April 2021 with support from the Cochrane Kidney and Transplant Information Specialist using search terms relevant to this review. Studies in the Register were identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+Randomised controlled trials (RCTs) investigating effects of immunosuppression in adults with PMN and nephrotic syndrome were included. 
+Data collection and analysis
+Study selection, data extraction, quality assessment, and data synthesis were performed using Cochrane‐recommended methods. Summary estimates of effect were obtained using a random‐effects model, and results were expressed as risk ratios (RR) and their 95% confidence intervals (CI) for dichotomous outcomes, and mean difference (MD) and 95% CI for continuous outcomes. Confidence in the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. 
+Main results
+Sixty‐five studies (3807 patients) were included. Most studies exhibited a high risk of bias for the domains, blinding of study personnel, participants and outcome assessors, and most studies were judged unclear for randomisation sequence generation and allocation concealment. 

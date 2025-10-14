@@ -1,0 +1,10 @@
+Background
+The treatment of multiple sclerosis has changed over the last 20 years. The advent of disease‐modifying drugs in the mid‐1990s heralded a period of rapid progress in the understanding and management of multiple sclerosis. With the support of magnetic resonance imaging early diagnosis is possible, enabling treatment initiation at the time of the first clinical attack. As most of the disease‐modifying drugs are associated with adverse events, patients and clinicians need to weigh the benefit and safety of the various early treatment options before taking informed decisions. 
+Objectives
+1. to estimate the benefit and safety of disease‐modifying drugs that have been evaluated in all studies (randomised or non‐randomised) for the treatment of a first clinical attack suggestive of MS compared either with placebo or no treatment; 
+2. to assess the relative efficacy and safety of disease‐modifying drugs according to their benefit and safety; 
+3. to estimate the benefit and safety of disease‐modifying drugs that have been evaluated in all studies (randomised or non‐randomised) for treatment started after a first attack ('early treatment') compared with treatment started after a second attack or at another later time point ('delayed treatment'). 
+Search methods
+We searched the Cochrane Multiple Sclerosis and Rare Diseases of the CNS Group Trials Register, MEDLINE, Embase, CINAHL, LILACS, clinicaltrials.gov, the WHO trials registry, and US Food and Drug Administration (FDA) reports, and searched for unpublished studies (until December 2016). 
+Selection criteria
+We included randomised and observational studies that evaluated one or more drugs as monotherapy in adult participants with a first clinical attack suggestive of MS. We considered evidence on alemtuzumab, azathioprine, cladribine, daclizumab, dimethyl fumarate, fingolimod, glatiramer acetate, immunoglobulins, interferon beta‐1b, interferon beta‐1a (Rebif®, Avonex®), laquinimod, mitoxantrone, natalizumab, ocrelizumab, pegylated interferon beta‐1a, rituximab and teriflunomide. 

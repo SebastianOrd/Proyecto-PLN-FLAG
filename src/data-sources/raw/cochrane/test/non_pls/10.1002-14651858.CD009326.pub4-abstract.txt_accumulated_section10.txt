@@ -1,0 +1,10 @@
+Background
+Maternal complications, including psychological/mental health problems and neonatal morbidity, have commonly been observed in the postpartum period. Home visits by health professionals or lay supporters in the weeks following birth may prevent health problems from becoming chronic, with long‐term effects. This is an update of a review last published in 2017. 
+Objectives
+The primary objective of this review is to assess the effects of different home‐visiting schedules on maternal and newborn mortality during the early postpartum period. The review focuses on the frequency of home visits (how many home visits in total), the timing (when visits started, e.g. within 48 hours of the birth), duration (when visits ended), intensity (how many visits per week), and different types of home‐visiting interventions. 
+Search methods
+For this update, we searched the Cochrane Pregnancy and Childbirth Group's Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (19 May 2021), and checked reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) (including cluster‐, quasi‐RCTs and studies available only as abstracts) comparing different home‐visiting interventions that enrolled participants in the early postpartum period (up to 42 days after birth) were eligible for inclusion. We excluded studies in which women were enrolled and received an intervention during the antenatal period (even if the intervention continued into the postnatal period), and studies recruiting only women from specific high‐risk groups (e.g. women with alcohol or drug problems). 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. We used the GRADE approach to assess the certainty of the evidence. 

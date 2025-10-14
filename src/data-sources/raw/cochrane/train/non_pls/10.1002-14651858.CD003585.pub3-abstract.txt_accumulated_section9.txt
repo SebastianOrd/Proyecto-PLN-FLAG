@@ -1,0 +1,9 @@
+Background
+A stroke occurs when the blood supply to part of the brain is cut off. Activities of daily living (ADL) are daily home‐based activities that people carry out to maintain health and well‐being. ADLs include the ability to: eat and drink unassisted, move, go to the toilet, carry out personal hygiene tasks, dress unassisted, and groom. Stroke causes impairment‐related functional limitations that may result in difficulties participating in ADLs independent of supervision, direction, or physical assistance. 
+For adults with stroke, the goal of occupational therapy is to improve their ability to carry out activities of daily living. Strategies used by occupational therapists include assessment, treatment, adaptive techniques, assistive technology, and environmental adaptations. This is an update of the Cochrane review first published in 2006. 
+Objectives
+To assess the effects of occupational therapy interventions on the functional ability of adults with stroke in the domain of activities of daily living, compared with no intervention or standard care/practice. 
+Search methods
+For this update, we searched the Cochrane Stroke Group Trials Register (last searched 30 January 2017), the Cochrane Controlled Trials Register (The Cochrane Library, January 2017), MEDLINE (1946 to 5 January 2017), Embase (1974 to 5 January 2017), CINAHL (1937 to January 2017), PsycINFO (1806 to 2 November 2016), AMED (1985 to 1 November 2016), and Web of Science (1900 to 6 January 2017). We also searched grey literature and clinical trials registers. 
+Selection criteria
+We identified randomised controlled trials of an occupational therapy intervention (compared with no intervention or standard care/practice) where people with stroke practiced activities of daily living, or where performance in activities of daily living was the focus of the occupational therapy intervention. 

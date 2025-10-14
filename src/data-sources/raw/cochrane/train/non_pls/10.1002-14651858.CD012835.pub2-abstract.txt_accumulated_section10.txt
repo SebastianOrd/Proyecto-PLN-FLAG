@@ -1,0 +1,10 @@
+Background
+Diabetic foot ulceration (DFU) can be defined as a full‐thickness wound below the ankle and is a major complication of diabetes mellitus. Despite best practice, many wounds fail to heal, and when they do, the risk of recurrence of DFU remains high. Beliefs about personal control, or influence, on ulceration are associated with better engagement with self‐care in DFU. Psychological interventions aim to reduce levels of psychological distress and empower people to engage in self‐care, and there is some evidence to suggest that they can impact positively on the rate of wound healing. 
+Objectives
+To evaluate the effects of psychological interventions on healing and recurrence of DFU. 
+Search methods
+In September 2019, we searched the Cochrane Wounds Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL), Ovid MEDLINE (including In‐Process & Other Non‐Indexed Citations), Ovid Embase, Ovid PsycINFO and EBSCO CINAHL Plus. We also searched clinical trials registries for ongoing and unpublished studies, and reviewed reference lists of relevant included studies as well as reviews, meta‐analyses and health technology reports to identify additional studies. There were no restrictions with respect to language, date of publication or study setting. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs that evaluated psychological interventions compared with standard care, education or another psychological intervention. Our primary outcomes were the proportion of wounds completely healed; time to complete wound healing; time to recurrence and number of recurrences. 
+Data collection and analysis
+Four review authors independently screened titles and abstracts of the studies identified by the search strategy for eligibility. Three authors independently screened all potentially relevant studies using the inclusion criteria and carried out data extraction, assessment of risk of bias and GRADE assessment of the certainty of the evidence. 

@@ -1,0 +1,12 @@
+Background
+Tuberculosis (TB) requires at least six months of treatment. If treatment is incomplete, patients may not be cured and drug resistance may develop. Directly Observed Therapy (DOT) is a specific strategy, endorsed by the World Health Organization, to improve adherence by requiring health workers, community volunteers or family members to observe and record patients taking each dose. 
+Objectives
+To evaluate DOT compared to self‐administered therapy in people on treatment for active TB or on prophylaxis to prevent active disease. We also compared the effects of different forms of DOT. 
+Search methods
+We searched the following databases up to 13 January 2015: the Cochrane Infectious Diseases Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL), published in the Cochrane Library; MEDLINE; EMBASE; LILACS and mRCT. We also checked article reference lists and contacted relevant researchers and organizations. 
+Selection criteria
+Randomized controlled trials (RCTs) and quasi‐RCTs comparing DOT with routine self‐administration of treatment or prophylaxis at home. 
+Data collection and analysis
+Two review authors independently assessed risk of bias of each included trial and extracted data. We compared interventions using risk ratios (RR) with 95% confidence intervals (CI). We used a random‐effects model if meta‐analysis was appropriate but heterogeneity present (I2 statistic > 50%). We assessed the quality of the evidence using the GRADE approach. 
+Main results
+Eleven trials including 5662 participants met the inclusion criteria. DOT was performed by a range of people (nurses, community health workers, family members or former TB patients) in a variety of settings (clinic, the patient's home or the home of a community volunteer). 

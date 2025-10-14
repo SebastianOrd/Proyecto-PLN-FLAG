@@ -1,0 +1,15 @@
+Background
+Elective hysterectomy is commonly performed for benign gynaecological conditions. Hysterectomy can be performed abdominally, laparoscopically, or vaginally, with or without laparoscopic assistance. Antibiotic prophylaxis consists of administration of antibiotics to reduce the rate of postoperative infection, which otherwise affects 40%‐50% of women after vaginal hysterectomy, and more than 20% after abdominal hysterectomy. No Cochrane review has systematically assessed evidence on this topic. 
+Objectives
+To determine the effectiveness and safety of antibiotic prophylaxis in women undergoing elective hysterectomy. 
+Search methods
+We searched electronic databases to November 2016 (including the Cochrane Gynaecology and Fertility Group Specialised Register, the Cochrane Central Register of Studies (CRSO), MEDLINE, Embase, PsycINFO, and the Cumulative Index to Nursing and Allied Health Literature (CINAHL), as well as clinical trials registers, conference abstracts, and reference lists of relevant articles. 
+Selection criteria
+All randomised controlled trials (RCTs) comparing use of antibiotics versus placebo or other antibiotics as prophylaxis in women undergoing elective hysterectomy. 
+Data collection and analysis
+We used Cochrane standard methodological procedures.
+Main results
+We included in this review 37 RCTs, which performed 20 comparisons of various antibiotics versus placebo and versus one another (6079 women). The quality of the evidence ranged from very low to moderate. The main limitations of study findings were risk of bias due to poor reporting of methods, imprecision due to small samples and low event rates, and inadequate reporting of adverse effects. 
+Any antibiotic versus placebo 
+Vaginal hysterectomy 
+Low‐quality evidence shows that women who received antibiotic prophylaxis had fewer total postoperative infections (risk ratio (RR) 0.28, 95% confidence interval (CI) 0.19 to 0.40; four RCTs, N = 293; I2 = 85%), less urinary tract infection (UTI) (RR 0.58, 95% CI 0.43 to 0.77; eight RCTs, N = 1473; I2 = 44%), fewer pelvic infections (RR 0.28, 95% CI 0.20 to 0.39; 11 RCTs, N = 1693; I2 = 57%), and fewer postoperative fevers (RR 0.43, 95% CI 0.34 to 0.54; nine RCTs, N = 1562; I2 = 47%) than women who did not receive such prophylaxis. This suggests that antibiotic prophylaxis reduces the average risk of postoperative infection from about 34% to 7% to 14%. Whether this treatment has led to differences in rates of other serious infection remains unclear (RR 0.20, 95% CI 0.01 to 4.10; one RCT, N = 146; very low‐quality evidence). 

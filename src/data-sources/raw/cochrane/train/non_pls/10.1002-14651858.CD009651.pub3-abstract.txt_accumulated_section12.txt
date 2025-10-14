@@ -1,0 +1,12 @@
+Background
+Fractures of the patella (kneecap) account for around 1% of all human fractures. The treatment of these fractures can be surgical or conservative (such as immobilisation with a cast or brace). There are many different surgical and conservative interventions for treating fractures of the patella in adults. This is an update of a Cochrane Review first published in 2015. 
+Objectives
+To assess the effects (benefits and harms) of interventions (surgical and conservative) for treating fractures of the patella in adults. 
+Search methods
+We searched CENTRAL (2020, Issue 1), MEDLINE, Embase, LILACS, trial registers and references lists of articles to January 2020. 
+Selection criteria
+We included randomised controlled trials (RCTs) or quasi‐RCTs that evaluated any surgical or conservative intervention for treating adults with fractures of the patella. The primary outcomes were patient‐rated knee function, knee pain and major adverse outcomes. 
+Data collection and analysis
+At least two review authors independently selected eligible trials, assessed risk of bias and cross‐checked data extraction. Where appropriate, we pooled results of comparable trials. 
+Main results
+We included 11 small trials involving 564 adults (aged 16 to 76 years) with patella fractures. There were 340 men and 212 women; the gender of 12 participants was not reported. Seven trials were conducted in China and one each in Finland, Mexico, Pakistan and Turkey. All 11 trials compared different surgical interventions for patella fractures. All trials had design flaws, such as lack of assessor blinding, which put them at high risk of bias, potentially limiting the reliability of their findings. No trial reported on health‐related quality of life, return to previous activity or cosmetic appearance. The trials tested one of seven comparisons. In the following, we report those of the main outcomes for which evidence was available for the three most important comparisons. 

@@ -1,0 +1,10 @@
+Background
+Essential tremor is one of the most common movement disorders. Treatment primarily consists of pharmacological agents. While primidone and propranolol are well‐established treatments in clinical practice, they may be ineffective in 25% to 55% of patients and can produce serious adverse events in a large percentage of them. For these reasons, it is worth evaluating the treatment alternatives for essential tremor. Some specialists have suggested that pregabalin could be a potentially useful agent, but there is uncertainty about its efficacy and safety. 
+Objectives
+To assess the effects of pregabalin versus placebo or other treatment for essential tremor in adults. 
+Search methods
+We performed a systematic search without language restrictions to identify all relevant trials up to December 2015. We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, NICE, ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform (ICTRP). We handsearched grey literature and examined the reference lists of identified studies and reviews. 
+Selection criteria
+We included all randomised controlled trials (RCTs) of pregabalin versus placebo or any other treatments. We included studies in which the diagnosis of ET was made according to accepted and validated diagnostic criteria. We excluded studies conducted in patients presenting secondary forms of tremor or reporting only neurophysiological parameters to assess outcomes. 
+Data collection and analysis
+Two reviewers independently collected and extracted data using a data collection form. We assessed the risk of bias of the body of evidence, and we used inverse variance methods to analyse continuous outcomes and measurement scales. We compared the mean difference between treatment groups, and we combined results for dichotomous outcomes using Mantel‐Haenszel methods and risk differences We used Review Manager software for data management and analysis. 

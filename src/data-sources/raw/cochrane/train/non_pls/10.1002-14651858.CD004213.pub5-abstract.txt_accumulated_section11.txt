@@ -1,0 +1,11 @@
+Background
+Patent ductus arteriosus (PDA) complicates the clinical course of preterm infants and increases the risk of adverse outcomes. Indomethacin has been the standard treatment to close a PDA but is associated with renal, gastrointestinal, and cerebral side effects. Ibuprofen has less effect on blood flow velocity to important organs. 
+Objectives
+Primary objectives 
+To determine the effectiveness and safety of ibuprofen compared to placebo/no intervention, or other cyclo‐oxygenase inhibitor drugs in the prevention of PDA in preterm infants. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 10), MEDLINE via PubMed (1966 to 17 October 2018), Embase (1980 to 17 October 2018), and CINAHL; 1982 to 17 October 2018). We searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials comparing ibuprofen with placebo/no intervention or other cyclo‐oxygenase inhibitor drugs to prevent PDA in preterm or low birth weight infants. 
+Data collection and analysis
+We extracted outcomes data including presence of PDA on day three or four of life (after 72 hours of treatment), need for surgical ligation or rescue treatment with cyclo‐oxygenase inhibitors, mortality, cerebral, renal, pulmonary, and gastrointestinal complications. We performed meta‐analyses and reported treatment estimates as typical mean difference (MD), risk ratio (RR), risk difference (RD) and, if statistically significant, number needed to treat to benefit (NNTB) or to harm (NNTH), along with their 95% confidence intervals (CI). We assessed between‐study heterogeneity by the I‐squared test (I²). We used the GRADE approach to assess the quality of evidence. 

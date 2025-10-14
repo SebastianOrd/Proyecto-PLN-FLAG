@@ -1,0 +1,10 @@
+Background
+Tripterygium wilfordii Hook F (TwHF), a traditional Chinese herbal medicine used as an immunosuppressive agent, has been prescribed in China for patients with primary nephrotic syndrome (NS) for more than two decades. Although patients with primary NS in China have benefited from TwHF treatment, its properties have not yet been fully understood. 
+Objectives
+To assess the benefits and harms of TwHF for patients with primary NS.
+Search methods
+We searched the Cochrane Renal Group's specialised register (August 2012), Cochrane Register of Controlled Trials (CENTRAL, The Cochrane Library 2012, Issue 8), EMBASE (1966 to August 2012), and MEDLINE (1966 to August 2012). We also searched CBM (Chinese Biological Medical Database) (1978 to November 2010), CNKI (Chinese National Knowledge Infrastructure) (1979 to November 2010), VIP (ChongQing WeiPu Chinese Science and Technology Periodical Database) (1989 to November 2010), WanFang Database (1980 to November 2010), and reference lists of articles (6 November 2010). 
+Selection criteria
+Only randomised controlled trials (RCTs) were included. Two standardised preparations of TwHF were investigated: ethanol‐ethyl acetate extract and chloroform‐methanol extract. All other TwHF preparations were excluded because of reported toxicities. Other traditional Chinese herbal medicines were also excluded. All included RCTs had a follow‐up of at least three months. 
+Data collection and analysis
+Data extraction and risk of bias assessment were undertaken independently by two authors. Where details of randomised sequence generation and allocation concealment were absent or inadequately reported, we contacted original study investigators for verification and details of the procedure. For dichotomous outcomes (remission and drug‐related adverse events) we used risk ratio (RR) with 95% confidence intervals (95% CI) and mean difference (MD) for continuous outcomes (urinary protein excretion, serum albumin and serum creatinine). 

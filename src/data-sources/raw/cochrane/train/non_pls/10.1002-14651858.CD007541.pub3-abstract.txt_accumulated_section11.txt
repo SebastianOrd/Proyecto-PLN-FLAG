@@ -1,0 +1,11 @@
+Background
+The introduction of a new progestin‐only oral contraceptive in Europe has renewed interest in this class of oral contraceptives. Unlike the more widely used combined oral contraceptives containing an estrogen plus progestin, these pills contain only a progestin (progestogen) and are taken without interruption. How these pills compare to others in their class or to combined oral contraceptives is not clear. 
+Objectives
+This review examined randomized controlled trials of progestin‐only pills for differences in efficacy, acceptability, and continuation rates. 
+Search methods
+Through October 2013, we searched the computerized databases MEDLINE, Cochrane Central Register of Controlled Trials (CENTRAL), POPLINE, and LILACS for studies of progestin‐only pills. We also searched for current trials via ClinicalTrials.gov and ICTRP. Previous searches also included EMBASE. 
+Selection criteria
+We included all randomized controlled trials in any language that included progestin‐only pills for contraception.  We incorporated any comparison with a progestin‐only pill; this could include different doses, other progestin‐only pills, combined oral contraceptives, or other contraceptives. 
+Data collection and analysis
+The first author abstracted the data and entered the information into RevMan 5. Another author performed a second, independent data abstraction to verify the initial data entry. 
+We attempted to extract life‐table rates (actuarial or continuous) and used the rate difference as the effect measure. Where life‐table rates were not published, we used the incidence rate ratio (ratio of Pearl rates). Where only the crude number of events was published, we calculated the Peto odds ratio with 95% confidence interval (CI) using a fixed‐effect model. For continuous variables, the mean difference (MD) was computed with 95% CI. Because of disparate exposures, we were not able to combine studies in meta‐analysis. 

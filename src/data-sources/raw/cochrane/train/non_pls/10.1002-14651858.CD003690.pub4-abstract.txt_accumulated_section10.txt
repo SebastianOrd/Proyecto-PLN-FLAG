@@ -1,0 +1,10 @@
+Background
+Antidepressants may be useful in the treatment of abnormal crying associated with stroke. This is an update of a Cochrane Review first published in 2004 and last updated in 2010. 
+Objectives
+To determine whether pharmaceutical treatment reduces the frequency of emotional displays in people with emotionalism after stroke. 
+Search methods
+We searched the trial register of Cochrane Stroke (last searched May 2018). In addition, we searched the Cochrane Central Register of Controlled Trials (CENTRAL; to May 2018), MEDLINE (1966 to 14 May 2018), Embase (1980 to 14 May 2018), CINAHL (1982 to 14 May 2018), PsycINFO (1967 to 14 May 2018), BIOSIS Previews (2002 to 14 May 2018), Web of Science (2002 to 14 May 2018), WHO ICTRP (to 14 May 2018), ClinicalTrials.gov (to 14 May 2018), and ProQuest Dissertations and Theses Database (to 14 May 2018). 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs comparing psychotropic medication to placebo in people with stroke and emotionalism (also known as emotional lability, pathological crying or laughing, emotional incontinence, involuntary emotional expression disorder, and pseudobulbar affect). 
+Data collection and analysis
+Two review authors independently selected studies, assessed risk of bias, extracted data from all included studies, and used GRADE to assess the quality of the body of evidence. We calculated mean difference (MD) or standardised mean difference (SMD) for continuous data and risk ratio (RR) for dichotomous data with 95% confidence intervals (CIs). We assessed heterogeneity using the I2 statistic. The primary emotionalism measures were the proportion of participants achieving at least a 50% reduction in abnormal emotional behaviour at the end of treatment, improved score on Center for Neurologic Study ‐ Lability Scale (CNS‐LS), Clinician Interview‐Based Impression of Change (CIBIC) or diminished tearfulness. 

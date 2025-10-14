@@ -1,0 +1,10 @@
+Background
+Pancreatic cancer is the fourth‐leading cause of cancer death for both, men and women. The standard treatment for resectable tumours consists of a classic Whipple (CW) operation or a pylorus‐preserving pancreaticoduodenectomy (PPW). It is unclear which of these procedures is more favourable in terms of survival, postoperative mortality, complications, and quality of life. 
+Objectives
+The objective of this systematic review was to compare the effectiveness of CW and PPW techniques for surgical treatment of cancer of the pancreatic head and the periampullary region. 
+Search methods
+We conducted searches on 28 March 2006, 11 January 2011, 9 January 2014, and 18 August 2015 to identify all randomised controlled trials (RCTs), while applying no language restrictions. We searched the following electronic databases on 18 August 2015: the Cochrane Central Register of Controlled Trials (CENTRAL), the Cochrane Database of Systematic Reviews (CDSR) and the Database of Abstracts of Reviews of Effects (DARE) from the Cochrane Library (2015, Issue 8); MEDLINE (1946 to August 2015); and EMBASE (1980 to August 2015). We also searched abstracts from Digestive Disease Week and United European Gastroenterology Week (1995 to 2010); we did not update this part of the search for the 2014 and 2015 updates because the prior searches did not contribute any additional information. We identified two additional trials through the updated search in 2015. 
+Selection criteria
+RCTs comparing CW versus PPW including participants with periampullary or pancreatic carcinoma. 
+Data collection and analysis
+Two review authors independently extracted data from the included trials. We used a random‐effects model for pooling data. We compared binary outcomes using odds ratios (ORs), pooled continuous outcomes using mean differences (MDs), and used hazard ratios (HRs) for meta‐analysis of survival. Two review authors independently evaluated the methodological quality and risk of bias of included trials according to the standards of The Cochrane Collaboration. 

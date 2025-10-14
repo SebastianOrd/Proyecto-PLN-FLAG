@@ -1,0 +1,13 @@
+Background
+Pimozide, formulated in the 1960s, continues to be marketed for the care of people with schizophrenia or related psychoses such as delusional disorder. It has been associated with cardiotoxicity and sudden unexplained death. Electrocardiogram monitoring is now required before and during use. 
+Objectives
+To review the effects of pimozide for people with schizophrenia or related psychoses in comparison with placebo, no treatment or other antipsychotic medication. 
+A secondary objective was to examine the effects of pimozide for people with delusional disorder. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Register (28 January 2013).
+Selection criteria
+We sought all relevant randomised clinical trials (RCTs) comparing pimozide with other treatments. 
+Data collection and analysis
+Working independently, we inspected citations, ordered papers and then re‐inspected and assessed the quality of the studies and of extracted data. For homogeneous dichotomous data, we calculated the relative risk (RR), the 95% confidence interval (CI) and mean differences (MDs) for continuous data. We excluded data if loss to follow‐up was greater than 50%. We assessed risk of bias for included studies and used GRADE to rate the quality of the evidence. 
+Main results
+We included 32 studies in total: Among the five studies that compared pimozide versus placebo, only one study provided data for global state relapse, for which no difference between groups was noted at medium term (1 RCT n = 20, RR 0.22 CI 0.03 to 1.78, very low quality of evidence). None of the five studies provided data for no improvement or first‐rank symptoms in mental state. Data for extrapyramidal symptoms demonstrate no difference between groups for Parkinsonism (rigidity) at short term (1 RCT, n = 19, RR 5.50 CI 0.30 to 101.28, very low quality of evidence) or at medium term (1 RCT n = 25, RR 1.33 CI 0.14 to 12.82, very low quality of evidence), or for Parkinsonism (tremor) at medium term (1 RCT n = 25, RR 1 CI 0.2 to 4.95, very low quality of evidence). No data were reported for quality of life at medium term. 

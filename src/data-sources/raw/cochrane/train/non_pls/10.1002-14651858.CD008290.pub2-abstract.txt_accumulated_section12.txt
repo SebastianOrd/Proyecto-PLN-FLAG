@@ -1,0 +1,12 @@
+Background
+Land‐based exercise training improves exercise capacity and quality of life in people with chronic obstructive pulmonary disease (COPD). Water‐based exercise training is an alternative mode of physical exercise training that may appeal to the older population attending pulmonary rehabilitation programmes, those who are unable to complete land‐based exercise programmes and people with COPD with comorbid physical and medical conditions. 
+Objectives
+To assess the effects of water‐based exercise training in people with COPD.
+Search methods
+A search of the Cochrane Airways Group Specialised Register of trials, which is derived from systematic searches of bibliographic databases, including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED and PsycINFO, was conducted (from inception to August 2013). Handsearching was done to identify further qualifying studies from reference lists of relevant studies. 
+Selection criteria
+Review authors included randomised or quasi‐randomised controlled trials in which water‐based exercise training of at least four weeks' duration was compared with no exercise training or any other form of exercise training in people with COPD. Swimming was excluded. 
+Data collection and analysis
+We used standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+Five studies were included with a total of 176 participants (71 people participated in water‐based exercise training and 54 in land‐based exercise training; 51 completed no exercise training). All studies compared supervised water‐based exercise training versus land‐based exercise training and/or no exercise training in people with COPD (with average forced expiratory volume in one second (FEV1) %predicted ranging from 39% to 62%). Sample sizes ranged from 11 to 53 participants. The exercise training programmes lasted from four to 12 weeks, and the mean age of participants ranged from 57 to 73 years. A moderate risk of bias was due to lack of reporting of randomisation, allocation and blinding procedures in some studies, as well as small sample sizes. 

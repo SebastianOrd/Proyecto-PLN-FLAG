@@ -1,0 +1,13 @@
+Background
+Chronic excessive alcohol consumption may lead to dependence, and to alcohol withdrawal syndrome (AWS) in case of abrupt drinking cessation. Gamma‐hydroxybutyric acid (GHB) can prevent and suppress withdrawal symptoms, and improve the medium‐term abstinence rate. However, clear estimates of its beneficial and harmful effects have not been yet established. 
+Objectives
+To evaluate the efficacy and safety of GHB for the treatment of AWS and the prevention of relapse. 
+Search methods
+We searched the Cochrane Drugs and Alcohol Group's Register of Trials (October 2008), PubMed, EMBASE, CINAHL (January 2005 to October 2008), EconLIT (1969 to February 2008), and reference lists of retrieved articles. 
+Selection criteria
+Randomized controlled trials (RCT) and Controlled Prospective Studies (CPS) evaluating the efficacy and the safety of GHB versus placebo or other pharmacological treatments. 
+Data collection and analysis
+Three authors independently extracted data and assessed the methodological quality of the studies. 
+Main results
+Thirteen RCTs were included, 11 of which had been conducted in Italy.
+For alcohol withdrawal syndrome, comparing GHB 50mg versus placebo, results from 1 study (23 participants) favour GHB for withdrawal symptoms: MD ‐12.1 (95% CI ‐15.9 to ‐8.29), but tolerated side effects were more frequent in the GHB group: RR 16.2 (95% CI 1.04 to 254.9; based on 7 of 11 patients in the GHB group developing transitory vertigo compared to none in the placebo group). In the comparison of GHB 50mg versus Clomethiazole, results from 1 study (21 participants) favour GHB for withdrawal symptoms: MD ‐3.40 (95% CI ‐5.09 to ‐1.71). For GHB 100mg versus Clomethiazole, results from 1 study (98 participants) favour Clomethiazole for side effects: RR 1.84 (95% CI 1.19 to 2.85). 

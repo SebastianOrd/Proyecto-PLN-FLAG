@@ -1,0 +1,10 @@
+Background
+Enteral feeding for very preterm or very low birth weight (VLBW) infants is often delayed for several days after birth due to concern that early introduction of feeding may not be tolerated and may increase the risk of necrotising enterocolitis. Concerns exist, however, that delaying enteral feeding may diminish the functional adaptation of the gastrointestinal tract and prolong the need for parenteral nutrition with its attendant infectious and metabolic risks. 
+Objectives
+To determine the effects of delayed introduction of progressive enteral feeds on the risk of necrotising enterocolitis, mortality and other morbidities in very preterm or VLBW infants. 
+Search methods
+Search strategies were developed by an information specialist in consultation with the review authors. The following databases were searched in October 2021 without date or language restrictions: CENTRAL (2021, Issue 10), MEDLINE via OVID (1946 to October 2021), Embase via OVID (1974 to October 2021), Maternity and Infant Care via OVID (1971 to October 2021), CINAHL (1982 to October 2021). We also searched for eligible trials in clinical trials databases, conference proceedings, previous reviews, and reference lists of retrieved articles. 
+Selection criteria
+Randomised controlled trials that assessed the effects of delayed (four or more days after birth) versus earlier introduction of progressive enteral feeds on necrotising enterocolitis, mortality and other morbidities in very preterm or VLBW infants. 
+Data collection and analysis
+Two review authors separately evaluated trial risk of bias, extracted data, and synthesised effect estimates using risk ratio (RR), risk difference (RD), and mean difference. We used the GRADE approach to assess the certainty of evidence for effects on necrotising enterocolitis, mortality,  feed intolerance, and invasive infection. 

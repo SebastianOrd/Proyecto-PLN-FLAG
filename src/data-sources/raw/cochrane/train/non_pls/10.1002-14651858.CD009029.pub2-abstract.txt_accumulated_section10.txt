@@ -1,0 +1,10 @@
+Background
+Infection with enterotoxigenic Escherichia coli (ETEC) bacteria is a common cause of diarrhoea in adults and children in developing countries and is a major cause of 'travellers' diarrhoea' in people visiting or returning from endemic regions. A killed whole cell vaccine (Dukoral®), primarily designed and licensed to prevent cholera, has been recommended by some groups to prevent travellers' diarrhoea in people visiting endemic regions. This vaccine contains a recombinant B subunit of the cholera toxin that is antigenically similar to the heat labile toxin of ETEC. This review aims to evaluate the clinical efficacy of this vaccine and other vaccines designed specifically to protect people against diarrhoea caused by ETEC infection. 
+Objectives
+To evaluate the efficacy, safety, and immunogenicity of vaccines for preventing ETEC diarrhoea. 
+Search methods
+We searched the Cochrane Infectious Disease Group Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, LILACS, and http://clinicaltrials.gov up to December 2012. 
+Selection criteria
+Randomized controlled trials (RCTs) and quasi‐RCTs comparing use of vaccines to prevent ETEC with use of no intervention, a control vaccine (either an inert vaccine or a vaccine normally given to prevent an unrelated infection), an alternative ETEC vaccine, or a different dose or schedule of the same ETEC vaccine in healthy adults and children living in endemic regions, intending to travel to endemic regions, or volunteering to receive an artificial challenge of ETEC bacteria. 
+Data collection and analysis
+Two authors independently assessed each trial for eligibility and risk of bias. Two independent reviewers extracted data from the included studies and analyzed the data using Review Manager (RevMan) software. We reported outcomes as risk ratios (RR) with 95% confidence intervals (CI). We assessed the quality of the evidence using the GRADE approach. 

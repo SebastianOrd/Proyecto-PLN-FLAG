@@ -1,0 +1,12 @@
+Background
+Traditionally, radical prostatectomy and radiotherapy with or without androgen deprivation therapy have been the main treatment options to attempt to cure men with localised or locally advanced prostate cancer. Cryotherapy is an alternative option for treatment of prostate cancer that involves freezing of the whole prostate (whole gland therapy) or only the cancer (focal therapy), but it is unclear how effective this is in comparison to other treatments. 
+Objectives
+To assess the effects of cryotherapy (whole gland or focal) compared with other interventions for primary treatment of clinically localised (cT1‐T2) or locally‐advanced (cT3) non‐metastatic prostate cancer. 
+Search methods
+We updated a previously published Cochrane Review by performing a comprehensive search of multiple databases (CENTRAL, MEDLINE, EMBASE), clinical trial registries (ClinicalTrials.gov, World Health Organization International Clinical Trials Registry Platform) and a grey literature repository (Grey Literature Report) up to 6 March 2018. We also searched the reference lists of other relevant publications and conference proceedings. We applied no language restrictions. 
+Selection criteria
+We included randomised or quasi‐randomised trials comparing cryotherapy to other interventions for the primary treatment of prostate cancer. 
+Data collection and analysis
+Two independent reviewers screened the literature, extracted data, and assessed risk of bias. We performed statistical analyses using a random‐effects model and interpreted them according to the Cochrane Handbook for Systematic Reviews of Interventions. We rated the quality of evidence (QoE) according to the GRADE approach. 
+Main results
+We included only one comparison of whole gland cryotherapy versus external beam radiotherapy, which was informed by two trials with a total of 307 randomised participants. The median age of the included studies was around 70 years. The median follow‐up of included studies ranged from 100 to 105 months. 

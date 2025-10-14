@@ -1,0 +1,10 @@
+Background
+Attention deficit hyperactivity disorder (ADHD) is a chronic neurodevelopmental disorder of childhood onset, which may persist into adulthood. ADHD has a significant impact on a child's daily life, affecting relationships and academic performance. Its core symptoms include developmentally inappropriate levels of inattention, hyperactivity, and impulsive behaviour. Tricyclic antidepressants (TCAs) are sometimes used as second line of treatment in the reduction of ADHD symptoms in children and adolescents with ADHD. However, their efficacy is not yet known. 
+Objectives
+To assess the efficacy of TCAs in the reduction of ADHD symptoms within the broad categories of hyperactivity, impulsivity, and inattentiveness in young people aged 6 to 18 years with established diagnoses of ADHD. 
+Search methods
+On 26 September 2013, we searched CENTRAL, Ovid MEDLINE, Embase, PsycINFO, CINAHL, seven other databases, and two trials registers. We also searched the reference lists of relevant articles, and contacted manufacturers and known experts in the field to determine if there were any ongoing trials or unpublished studies available. 
+Selection criteria
+Randomised controlled trials (RCTs), including both parallel group and cross‐over study designs, of any dose of TCA compared with placebo or active medication in children or adolescents with ADHD, including those with comorbid conditions.  
+Data collection and analysis
+Working in pairs, three review authors independently screened records, extracted data, and assessed trial quality. We calculated the standardised mean differences (SMD) for continuous data, the odds ratio (OR) for dichotomous data, and 95% confidence intervals (CIs) for both. We conducted the meta‐analyses using a random‐effects model throughout. We used the Cochrane 'Risk of bias' tool to assess the risk of bias of each included trial and the GRADE approach to assess the quality of the body evidence. 

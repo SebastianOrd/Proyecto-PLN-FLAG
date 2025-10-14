@@ -1,0 +1,10 @@
+Background
+Tinnitus is the perception of sound without external acoustic stimuli. Patients with severe tinnitus may have physical and psychological complaints and their tinnitus can cause deterioration in their quality of life. At present no specific therapy for tinnitus has been found to be satisfactory in all patients. In recent decades, a number of reports have suggested that oral zinc supplementation may be effective in the management of tinnitus. Since zinc has a role in cochlear physiology and in the synapses of the auditory system, there is a plausible mechanism of action for this treatment. 
+Objectives
+To evaluate the effectiveness and safety of oral zinc supplementation in the management of patients with tinnitus. 
+Search methods
+The Cochrane ENT Information Specialist searched the ENT Trials Register; Central Register of Controlled Trials (CENTRAL 2016, Issue 6); PubMed; EMBASE; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 14 July 2016. 
+Selection criteria
+Randomised controlled trials comparing zinc supplementation versus placebo in adults (18 years and over) with tinnitus. 
+Data collection and analysis
+We used the standard methodological procedures recommended by Cochrane. Our primary outcome measures were improvement in tinnitus severity and disability, measured by a validated tinnitus‐specific questionnaire, and adverse effects. Secondary outcomes were quality of life, change in socioeconomic impact associated with work, change in anxiety and depression disorders, change in psychoacoustic parameters, change in tinnitus loudness, change in overall severity of tinnitus and change in thresholds on pure tone audiometry. We used GRADE to assess the quality of the evidence for each outcome; this is indicated in italics. 

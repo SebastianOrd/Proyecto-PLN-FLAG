@@ -1,0 +1,12 @@
+Background
+The surgical stress response plays an important role on the pathogenesis of perioperative cardiac complications. Alpha‐2 adrenergic agonists attenuate this response and may help prevent postoperative cardiac complications. 
+Objectives
+To determine the efficacy and safety of α‐2 adrenergic agonists for reducing mortality and cardiac complications in adults undergoing cardiac surgery and non‐cardiac surgery. 
+Search methods
+We searched CENTRAL (2017, Issue 4), MEDLINE (1950 to April Week 4, 2017), Embase (1980 to May 2017), the Science Citation Index, clinical trial registries, and reference lists of included articles. 
+Selection criteria
+We included randomized controlled trials that compared α‐2 adrenergic agonists (i.e. clonidine, dexmedetomidine or mivazerol) against placebo or non‐α‐2 adrenergic agonists. Included trials had to evaluate the efficacy and safety of α‐2 adrenergic agonists for preventing perioperative mortality or cardiac complications (or both), or measure one or more relevant outcomes (i.e. death, myocardial infarction, heart failure, acute stroke, supraventricular tachyarrhythmia and myocardial ischaemia). 
+Data collection and analysis
+Two authors independently assessed trial quality, extracted data and independently performed computer entry of abstracted data. We contacted study authors for additional information. Adverse event data were gathered from the trials. We evaluated included studies using the Cochrane 'Risk of bias' tool, and the quality of the evidence underlying pooled treatment effects using GRADE methodology. Given the clinical heterogeneity between cardiac and non‐cardiac surgery, we analysed these subgroups separately. We expressed treatment effects as pooled risk ratios (RR) with 95% confidence intervals (CI). 
+Main results
+We included 47 trials with 17,039 participants. Of these studies, 24 trials only included participants undergoing cardiac surgery, 23 only included participants undergoing non‐cardiac surgery and eight only included participants undergoing vascular surgery. The α‐2 adrenergic agonist studied was clonidine in 21 trials, dexmedetomidine in 24 trials and mivazerol in two trials. 

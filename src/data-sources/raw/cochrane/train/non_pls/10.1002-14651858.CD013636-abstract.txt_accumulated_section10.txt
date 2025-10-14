@@ -1,0 +1,10 @@
+Background
+The ideal proportion of energy from fat in our food and its relation to body weight is not clear. In order to prevent overweight and obesity in the general population, we need to understand the relationship between the proportion of energy from fat and resulting weight and body fatness in the general population. 
+Objectives
+To assess the effects of proportion of energy intake from fat on measures of body fatness (including body weight, waist circumference, percentage body fat and body mass index) in people not aiming to lose weight, using all appropriate randomised controlled trials (RCTs) of at least six months duration. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, Clinicaltrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) to October 2019. We did not limit the search by language. 
+Selection criteria
+Trials fulfilled the following criteria: 1) randomised intervention trial, 2) included adults aged at least 18 years, 3) randomised to a lower fat versus higher fat diet, without the intention to reduce weight in any participants, 4) not multifactorial and 5) assessed a measure of weight or body fatness after at least six months. We duplicated inclusion decisions and resolved disagreement by discussion or referral to a third party. 
+Data collection and analysis
+We extracted data on the population, intervention, control and outcome measures in duplicate. We extracted measures of body fatness (body weight, BMI, percentage body fat and waist circumference) independently in duplicate at all available time points. We performed random‐effects meta‐analyses, meta‐regression, subgrouping, sensitivity, funnel plot analyses and GRADE assessment. 

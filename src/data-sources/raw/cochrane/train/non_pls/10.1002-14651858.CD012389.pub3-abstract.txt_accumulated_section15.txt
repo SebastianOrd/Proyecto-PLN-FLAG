@@ -1,0 +1,15 @@
+Background
+Sickle cell disease (SCD) is one of the commonest severe monogenic disorders in the world, due to the inheritance of two abnormal haemoglobin (beta globin) genes. SCD can cause severe pain, significant end‐organ damage, pulmonary complications, and premature death. Silent cerebral infarcts are the commonest neurological complication in children and probably adults with SCD. Silent cerebral infarcts also affect academic performance, increase cognitive deficits and may lower intelligence quotient. 
+Objectives
+To assess the effectiveness of interventions to reduce or prevent silent cerebral infarcts in people with SCD. 
+Search methods
+We searched for relevant trials in the Cochrane Library, MEDLINE (from 1946), Embase (from 1974), the Transfusion Evidence Library (from 1980), and ongoing trial databases; all searches current to 14 November 2019. We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register: 07 October 2019. 
+Selection criteria
+Randomised controlled trials comparing interventions to prevent silent cerebral infarcts in people with SCD. There were no restrictions by outcomes examined, language or publication status. 
+Data collection and analysis
+We used standard Cochrane methodological procedures.
+Main results
+We included five trials (660 children or adolescents) published between 1998 and 2016. Four of the five trials were terminated early. The vast majority of participants had the haemoglobin (Hb)SS form of SCD. One trial focused on preventing silent cerebral infarcts or stroke; three trials were for primary stroke prevention and one trial dealt with secondary stroke prevention. 
+Three trials compared the use of regular long‐term red blood cell transfusions to standard care. Two of these trials included children with no previous long‐term transfusions: one in children with normal transcranial doppler (TCD) velocities; and one in children with abnormal TCD velocities. The third trial included children and adolescents on long‐term transfusion. 
+Two trials compared the drug hydroxyurea and phlebotomy to long‐term transfusions and iron chelation therapy: one in primary prevention (children), and one in secondary prevention (children and adolescents). 
+The quality of the evidence was moderate to very low across different outcomes according to GRADE methodology. This was due to trials being at high risk of bias because they were unblinded; indirectness (available evidence was only for children with HbSS); and imprecise outcome estimates. 

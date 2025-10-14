@@ -1,0 +1,14 @@
+Background
+This is an update of our previous 2013 review. Several recent trials and systematic reviews of the impact of exercise on people with dementia are reporting promising findings. 
+Objectives
+Primary objective 
+Do exercise programs for older people with dementia improve their cognition, activities of daily living (ADLs), neuropsychiatric symptoms, depression, and mortality? 
+Secondary objectives 
+Do exercise programs for older people with dementia have an indirect impact on family caregivers’ burden, quality of life, and mortality? 
+Do exercise programs for older people with dementia reduce the use of healthcare services (e.g. visits to the emergency department) by participants and their family caregivers? 
+Search methods
+We identified trials for inclusion in the review by searching ALOIS (www.medicine.ox.ac.uk/alois), the Cochrane Dementia and Cognitive Improvement Group’s Specialised Register, on 4 September 2011, on 13 August 2012, and again on 3 October 2013. 
+Selection criteria
+In this review, we included randomized controlled trials in which older people, diagnosed with dementia, were allocated either to exercise programs or to control groups (usual care or social contact/activities) with the aim of improving cognition, ADLs, neuropsychiatric symptoms, depression, and mortality. Secondary outcomes related to the family caregiver(s) and included caregiver burden, quality of life, mortality, and use of healthcare services. 
+Data collection and analysis
+Independently, at least two authors assessed the retrieved articles for inclusion, assessed methodological quality, and extracted data. We analysed data for summary effects. We calculated mean differences or standardized mean difference (SMD) for continuous data, and synthesized data for each outcome using a fixed‐effect model, unless there was substantial heterogeneity between studies, when we used a random‐effects model. We planned to explore heterogeneity in relation to severity and type of dementia, and type, frequency, and duration of exercise program. We also evaluated adverse events. 

@@ -1,0 +1,10 @@
+Background
+Poor or inequitable access to oral health care is commonly reported in high‐, middle‐ and low‐income countries. Although the severity of these problems varies, a lack of supply of dentists and their uneven distribution are important factors. Delegating care to dental auxiliaries could ease this problem, extend services to where they are unavailable and liberate time for dentists to do more complex work. Before such an approach can be advocated, it is important to know the relative effectiveness of dental auxiliaries and dentists. 
+Objectives
+To assess the effectiveness, costs and cost effectiveness of dental auxiliaries in providing care traditionally provided by dentists. 
+Search methods
+We searched the following electronic databases from their inception dates up to November 2013: the Cochrane Effective Practice and Organisation of Care (EPOC) Group's Specialised Register; Cochrane Oral Health Group's Specialised Register; the Cochrane Central Register of Controlled Trials (Issue 11, 2013); MEDLINE; EMBASE; CINAHL; Cochrane Database of Systematic Reviews; Database of Abstracts of Reviews of Effectiveness; five other databases and two trial registries. We also undertook a grey literature search and searched the reference list of included studies and contacted authors of relevant papers. 
+Selection criteria
+We included randomised controlled trials (RCTs), non‐randomised controlled clinical trials (NRCTs), interrupted time series (ITSs) and controlled before and after studies (CBAs) evaluating the effectiveness of dental auxiliaries compared with dentists in undertaking clinical tasks traditionally performed by a dentist. 
+Data collection and analysis
+Three review authors independently applied eligibility criteria, extracted data and assessed the risk of bias of each included study and two review authors assessed the quality of the evidence from the included studies, according to The Cochrane Collaboration's procedures. Since meta‐analysis was not possible, we gave a narrative description of the results. 

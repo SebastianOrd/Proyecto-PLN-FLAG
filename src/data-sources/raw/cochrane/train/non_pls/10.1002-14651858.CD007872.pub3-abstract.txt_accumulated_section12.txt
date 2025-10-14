@@ -1,0 +1,12 @@
+Background
+Postpartum haemorrhage (PPH) is a common and potentially life‐threatening complication of labour. Several options for preventing PPH are available, but further advances in this field are important, especially the identification of safe, easy to use and cost‐effective regimens. Tranexamic acid (TA), which is an antifibrinolytic agent that is used widely to prevent and treat haemorrhage, merits evaluation to assess whether it meets these criteria. 
+Objectives
+To determine, from the best available evidence, whether TA is effective and safe for preventing PPH in comparison to placebo or no treatment (with or without uterotonic co‐treatment), or to uterotonic agents. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group’s Trials Register (28 January 2015) and reference lists of retrieved studies. 
+Selection criteria
+All published, unpublished and ongoing randomised controlled trials (RCTs) evaluating the use of TA alone or in addition to uterotonics in the third stage of labour or during caesarean section (CS) to prevent PPH. 
+Data collection and analysis
+Two review authors independently assessed for inclusion all the potential studies identified as a result of the search strategy. We entered the data into Review Manager software and checked for accuracy. 
+Main results
+Twelve trials involving 3285 healthy women at low risk of excessive bleeding undergoing elective CS (nine trials, 2453 participants) or spontaneous birth (three trials, 832 participants) satisfied inclusion criteria and contributed data to the analysis. All participants received routine prophylactic uterotonics in accordance with the local guideline in addition to TA or placebo or no intervention. Overall, included studies had moderate risk of bias for random sequence generation, allocation concealment, blinding, selective reporting and low risk of bias for incomplete data. The quality of evidence was also as assessed using GRADE. 

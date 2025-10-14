@@ -1,0 +1,20 @@
+How accurate are rapid antigen tests for diagnosing COVID‐19?
+Key messages 
+• Rapid antigen tests are most accurate when they are used in people who have signs or symptoms of COVID‐19, especially during the first week of illness. People who test negative may still be infected. 
+• Rapid antigen tests are considerably less accurate when they are used in people with no signs or symptoms of infection, but do perform better in people who have been in contact with someone who has confirmed COVID‐19. 
+• The accuracy of rapid antigen tests varies between tests that are produced by different manufacturers and there is a lack of evidence for many commercially available tests. 
+What are rapid point‐of‐care antigen tests for COVID‐19? 
+Rapid point‐of‐care tests aim to confirm or rule out COVID‐19 infection in people with or without COVID‐19 symptoms. They: 
+• are portable, so they can be used wherever the patient is (at the point‐of‐care) or in non‐healthcare settings such as in the home; 
+• are easy to perform, with a minimum amount of extra equipment or complicated preparation steps; 
+• are less expensive than standard laboratory tests;
+• do not require a specialist operator or setting; and
+• provide results ‘while you wait’.
+For this review we were interested in rapid antigen tests, sometimes referred to as ‘lateral flow tests’. These tests identify proteins on the virus in samples taken from the nose or throat. They come in disposable plastic cassettes, similar to over‐the‐counter pregnancy tests. 
+Why is this question important? 
+People with suspected COVID‐19 need to know quickly whether they are infected, so that they can self‐isolate, receive treatment, and inform close contacts. Currently, COVID‐19 infection is confirmed by a laboratory test called RT‐PCR, which uses specialist equipment and often takes at least 24 hours to produce a result. 
+In many places, rapid antigen tests have opened access to testing for many more people, with and without symptoms, and in locations other than healthcare settings. Faster diagnosis of COVID‐19 infection could allow people to take appropriate action more quickly, with the potential to reduce the spread of COVID‐19, but it is important to understand how accurate they are and the best way to use them. 
+What did we want to find out? 
+We wanted to know whether commercially available, rapid point‐of‐care antigen tests are accurate enough to diagnose COVID‐19 infection reliably, and to find out if accuracy differs in people with and without symptoms. 
+What did we do? 
+We looked for studies that measured the accuracy of any commercially produced rapid antigen test in people who were also tested for COVID‐19 using RT‐PCR. People could be tested in hospital, in the community or in their own homes. Studies could test people with or without symptoms. 

@@ -1,0 +1,13 @@
+Background
+Cervical priming before first‐trimester surgical abortion is recommended in certain groups of women. Nitric oxide (NO) donors induce cervical ripening without uterine contractions, but the efficacy and side effects are of concern. 
+Objectives
+To evaluate NO donors for cervical ripening before first‐trimester surgical abortion, in terms of efficacy, side effects, and reduction of complications. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, and POPLINE. We also searched reference lists of retrieved papers. We contacted experts in the field for information on both published and unpublished trials. 
+Selection criteria
+Randomised controlled trials comparing NO donors alone or in combination with other methods for cervical ripening in first‐trimester surgical abortion. 
+Data collection and analysis
+Two review authors independently selected and extracted the data onto a data extraction form. We processed the data using Review Manager (RevMan 5) software. 
+Main results
+We included 9 studies involving 766 participants. There were no serious complications (infection requiring antibiotic treatment, blood transfusion, complications requiring unintended operation, cervical injury, uterine perforation, death or serious morbidity) in the included trials. 
+NO donors were more effective in cervical ripening when compared with placebo or no treatment. Baseline cervical dilatation before the procedure was higher in NO donors group (mean difference (MD) 0.30, 95% confidence interval (CI) 0.01 to 0.58) The cumulative force required to dilate the cervix to 8 mm (MD ‐4.29, 95% CI ‐9.92 to 1.35), headache (risk ratio (RR) 1.73, 95% CI 0.86 to 3.46), abdominal pain (RR 0.87, 95% CI 0.50 to 1.50), or patient satisfaction (RR 0.95, 95% CI 0.84 to 1.07) were not different. More nausea and vomiting occurred in the women who received a NO donor (RR 2.62, 95% CI 1.07 to 6.45). 

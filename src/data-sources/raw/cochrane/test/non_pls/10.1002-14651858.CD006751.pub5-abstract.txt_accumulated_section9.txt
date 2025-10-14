@@ -1,0 +1,9 @@
+Background
+People with cystic fibrosis (CF) and pancreatic insufficiency are at risk of a deficiency in fat‐soluble vitamins, including vitamin A. Vitamin A deficiency predominantly causes eye and skin problems, while excessive levels of vitamin A can harm the respiratory and skeletal systems in children and interfere with the metabolism of other fat‐soluble vitamins. Most CF centres administer vitamin A as supplements to reduce the frequency of vitamin A deficiency in people with CF and to improve clinical outcomes such as growth, although the recommended dose varies between different guidelines. Thus, a systematic review on vitamin A and vitamin A‐like supplementation (carotenes or other retinoids) in people with CF would help guide clinical practice. This is an update of an earlier Cochrane Review. 
+Objectives
+To determine if supplementation with vitamin A, carotenes or other retinoid supplements in children and adults with CF reduces the frequency of vitamin A deficiency disorders, improves general and respiratory health and affects the frequency of vitamin A toxicity. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Cystic Fibrosis Trials Register compiled from electronic database searches and handsearching of journals and conference abstract books. Additionally we searched several ongoing trials registries, including ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform and the International Standard Randomised Controlled Trial Number Registry. 
+Most recent database searches: 01 June 2018.
+Selection criteria
+All randomised or quasi‐randomised controlled studies comparing all preparations of oral vitamin A, carotenes or retinoids (or in combination), used as a supplement compared to placebo at any dose, for at least three months, in people with CF (diagnosed by sweat tests or genetic testing) with and without pancreatic insufficiency. 

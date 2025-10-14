@@ -1,0 +1,10 @@
+Background
+Age‐related decline in bone mass increases the risk of skeletal fractures, especially those of the hip, spine, and wrist. Steroidal contraceptives have been associated with changes in bone mineral density in women. Whether such changes affect the risk of fractures later in life is unclear. Hormonal contraceptives are among the most effective and most widely‐used contraceptives. Concern about fractures may limit the use of these effective contraceptives. Observational studies can collect data on premenopausal contraceptive use as well as fracture incidence later in life. 
+Objectives
+We systematically reviewed the evidence from observational studies of hormonal contraceptive use for contraception and the risk of fracture in women. 
+Search methods
+Through June 2015, we searched for observational studies. The databases included PubMed, POPLINE, Cochrane Central Register of Controlled Trials (CENTRAL), LILACS, EMBASE, CINAHL, and Web of Science. We also searched for recent clinical trials through ClinicalTrials.gov and the ICTRP. For other studies, we examined reference lists of relevant articles and wrote to investigators for additional reports. 
+Selection criteria
+We included cohort and case‐control studies of hormonal contraceptive use. Interventions included comparisons of a hormonal contraceptive with a non‐hormonal contraceptive, no contraceptive, or another hormonal contraceptive. The primary outcome was the risk of fracture. 
+Data collection and analysis
+Two authors independently extracted the data. One author entered the data into RevMan, and a second author verified accuracy. We examined the quality of evidence using the Newcastle‐Ottawa Quality Assessment Scale (NOS), developed for case‐control and cohort studies. Sensitivity analysis included studies of moderate or high quality based on our assessment with the NOS. 

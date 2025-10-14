@@ -1,0 +1,14 @@
+Background
+The role of gefitinib for the treatment of advanced non‐small cell lung cancer (NSCLC) is evolving. We undertook a systematic review to evaluate the available evidence from all randomised trials. 
+Objectives
+To determine the effectiveness and safety of gefitinib as first‐line, second‐line or maintenance treatment for advanced NSCLC. 
+Search methods
+We performed searches in CENTRAL, MEDLINE and Embase from inception to 17 February 2017. We handsearched relevant conference proceedings, clinical trial registries and references lists of retrieved articles. 
+Selection criteria
+We included trials assessing gefitinib, alone or in combination with other treatment, compared to placebo or other treatments in the first‐ or successive‐line treatment of patients with NSCLC, excluding compassionate use. 
+Data collection and analysis
+We used the standard Cochrane methodology. Two authors independently assessed the search results to select those with sound methodological quality. We carried out all analyses on an intention‐to‐treat basis. We recorded the following outcome data: overall survival, progression‐free survival, toxicity, tumour response and quality of life. We also collected data for the following subgroups: Asian ethnicity and positive epidermal growth factor receptor (EGFR) mutation. 
+Main results
+We included 35 eligible randomised controlled trials (RCTs), which examined 12,089 patients. 
+General population 
+Gefitinib did not statistically improve overall survival when compared with placebo or chemotherapy in either first‐ or second‐line settings. Second‐line gefitinib prolonged time to treatment failure (TTF) (hazard ratio (HR) 0.82, 95% confidence interval (CI) 0.75 to 0.90, P < 0.0001) when compared with placebo. Maintenance gefitinib improved progression‐free survival (HR 0.70, 95% CI 0.53 to 0.91, P = 0.007) after first‐line therapy. 

@@ -1,0 +1,16 @@
+Background
+Cystic fibrosis is caused by a defective gene encoding a protein called the cystic fibrosis transmembrane conductance regulator (CFTR), and is characterised by chronic lung infection resulting in inflammation and progressive lung damage that results in a reduced life expectancy. 
+Objectives
+To determine whether topical CFTR gene replacement therapy to the lungs in people with cystic fibrosis is associated with improvements in clinical outcomes, and to assess any adverse effects. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register comprising references identified from comprehensive electronic database searches, handsearching relevant journals and abstract books of conference proceedings. 
+Date of most recent search: 05 May 2016.
+An additional search of the National Institutes for Health (NIH) Genetic Modification Clinical Research Information System (GeMCRIS) was also performed for the years 1992 to 2015. 
+Date of most recent search: 20 April 2016.
+Selection criteria
+Randomised controlled studies comparing topical CFTR gene delivery to the lung, using either viral or non‐viral delivery systems, with placebo or an alternative delivery system in people with confirmed cystic fibrosis. 
+Data collection and analysis
+The authors independently extracted data and assessed study quality. Authors of included studies were contacted and asked for any available additional data. Meta‐analysis was limited due to differing study designs. 
+Main results
+Four randomised controlled studies met the inclusion criteria for this review, involving a total of 302 participants lasting from 29 days to 13 months; 14 studies were excluded. The included studies differed in terms of CFTR gene replacement agent and study design, which limited the meta‐analysis. One study only enrolled adult males, the remaining studies included both males and females aged 12 years and over. 
+Risk of bias in the studies was moderate. Random sequence generation and allocation concealment was only described in the more recent study; the remaining three studies were judged to have an unclear risk of bias. All four studies documented double‐blinding to the intervention, but there is some uncertainty with regards to participant blinding in one study. Some outcome data were missing from all four studies. 

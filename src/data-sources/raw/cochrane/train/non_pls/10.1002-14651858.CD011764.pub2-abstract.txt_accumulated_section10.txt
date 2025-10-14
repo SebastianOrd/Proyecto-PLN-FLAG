@@ -1,0 +1,10 @@
+Background
+Venous thromboembolism (VTE) is a serious but preventable cause of morbidity and mortality. Neuromuscular electrical stimulation systems (NMES) for the prevention of VTE may be beneficial for patients in whom pharmacological or standard mechanical prophylaxis methods are contraindicated or are regarded as unsafe or impractical. Although findings of experimental studies suggest that NMES reduce venous stasis, the clinical utility and effectiveness of NMES in VTE prevention remain controversial. 
+Objectives
+To assess the effectiveness of neuromuscular electrical stimulation in the prevention of venous thromboembolism. 
+Search methods
+The Cochrane Vascular Group Information Specialist (CIS) searched the Specialised Register (22 March 2017) and the Cochrane Central Register of Controlled Studies (CENTRAL (2017, Issue 2)). The CIS also searched trial registries for details of ongoing and unpublished studies. The review authors searched the bibliographic lists of relevant articles and reviews to look further for potentially eligible trials. 
+Selection criteria
+We planned to include randomised controlled trials (RCTs) and quasi‐randomised trials that compared any form of neuromuscular electrical stimulation as an intervention for VTE prophylaxis (alone or combined with pharmacological or other mechanical methods) versus no prophylaxis and other mechanical or pharmacological methods of VTE prophylaxis. 
+Data collection and analysis
+At least two independent review authors were involved in study selection, data extraction, methodological quality assessment of included studies, and data analysis. We resolved disagreements by discussion between the two review authors. If no agreement could be reached, a third review author acted as an adjudicator. The main outcomes of the review were total deep vein thrombosis (DVT), symptomatic and asymptomatic DVT, pulmonary embolism (PE), total VTE and bleeding (major and minor). The quality of evidence was assessed using the GRADE approach and is indicated in italics. 

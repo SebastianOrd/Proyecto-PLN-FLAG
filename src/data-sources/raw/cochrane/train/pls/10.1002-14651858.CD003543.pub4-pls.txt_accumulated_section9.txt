@@ -1,0 +1,9 @@
+Improving how physicians working in hospital settings prescribe antibiotics
+Review aim 
+The aim of this Cochrane review was to learn of ways to improve how physicians working in hospital settings prescribe antibiotics. We collected and analysed all relevant studies to answer this question and found 221 studies. 
+Key messages 
+The use of an antibiotic policy leads to improved prescribing practices and decreases in the duration of antibiotic treatment. 
+Interventions that are directed to physicians to improve their antibiotic prescribing practices reduced participant length of stay in hospitals by 1.12 days (based on findings from 15 studies) and did not increase the risk of death (based on findings from 29 studies). Interventions providing advice or feedback to physicians were more effective in improving prescribing practices than those interventions that did not provide this information to physicians. Evidence from seven studies raised concerns that with interventions applying rules to make physicians prescribe properly there were delays in treatment and a breakdown in trust between infection specialists and clinical teams. 
+What was studied in the review? 
+Antibiotics are used to treat bacterial infections such as pneumonia. Many bacteria have become resistant to antibiotics over time. Antibiotic resistance is a serious problem for patients and healthcare systems because infections caused by antibiotic‐resistant bacteria can lead to higher rates of death and longer hospital stays. Bacterial resistance often occurs because antibiotics are used when they are not needed. Studies have shown that in about half of cases physicians in hospital are not prescribing antibiotics properly. 
+We investigated the effectiveness and safety of interventions to help physicians prescribe antibiotics properly and what techniques of behaviour change could influence the success of the interventions. 

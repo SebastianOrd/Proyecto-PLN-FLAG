@@ -1,0 +1,14 @@
+Background
+Acute diarrhoea is one of the main causes of morbidity and mortality among children in low‐income countries. Glucose‐based oral rehydration solution (ORS) helps replace fluid and prevent further dehydration from acute diarrhoea. Since 2004, the World Health Organization (WHO) has recommended the osmolarity of less than 270 mOsm/L (ORS ≤ 270) versus greater than 310 mOsm/L formulation (ORS ≥ 310). Polymer‐based ORS (for example, prepared using rice or wheat) slowly releases glucose and may be superior to glucose‐based ORS. 
+Objectives
+To compare polymer‐based oral rehydration solution (polymer‐based ORS) with glucose‐based oral rehydration solution (glucose‐based ORS) for treating acute watery diarrhoea. 
+Search methods
+We searched the following sources up to 5 September 2016: the Cochrane Infectious Diseases Group (CIDG) Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library 2016, Issue 9), MEDLINE (1966 to 5 September 2016), EMBASE (1974 to 5 September 2016), LILACS (1982 to 5 September 2016), and mRCT (2007 to 5 September 2016). We also contacted researchers, organizations, and pharmaceutical companies, and searched reference lists. 
+Selection criteria
+We included randomized controlled trials (RCTs) of people with acute watery diarrhoea (cholera and non‐cholera associated) that compared polymer‐based and glucose‐based ORS (with identical electrolyte contents). 
+Data collection and analysis
+Two review authors independently assessed the search results and risk of bias, and extracted data. In multiple‐treatment arms with two or more treatment groups, we combined outcomes as appropriate and compared collectively with the control group. 
+Main results
+Thirty‐five trials that included 4284 participants met the inclusion criteria: 28 trials exclusively included children, five included adults, and two included both adults and children. 
+Polymer‐based ORS versus glucose‐based ORS (osmolarity ≤ 270) 
+Eight trials (752 participants) evaluated this comparison, and seven trials used rice as a polymer source. Polymer‐based ORS may decrease mean stool output in the first 24 hours by 24 mL/kg (mean difference (MD) −24.60 mL/kg, 95% CI −40.69 to −8.51; one trial, 99 participants, low quality evidence). The average duration of diarrhoea may be reduced by eight hours (MD −8.24 hours, 95% CI −13.17 to −3.30; I² statistic = 86%, five trials, 364 participants, low quality evidence) with polymer ORS but results are heterogeneous. Limited trials showed no observed difference in the risk of unscheduled use of intravenous fluid (RR 0.66, 95% CI 0.43 to 1.02; I² statistic = 30%; four trials, 376 participants, very low quality evidence), vomiting (very low quality evidence), and hyponatraemia (very low quality evidence). 

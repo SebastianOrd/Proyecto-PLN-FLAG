@@ -1,0 +1,10 @@
+Background
+Uterine fibroids are smooth muscle tumours arising from the uterus. These tumours, although benign, are commonly associated with abnormal uterine bleeding, bulk symptoms and reproductive dysfunction. The importance of progesterone in fibroid pathogenesis supports selective progesterone receptor modulators (SPRMs) as effective treatment. Both biochemical and clinical evidence suggests that SPRMs may reduce fibroid growth and ameliorate symptoms. SPRMs can cause unique histological changes to the endometrium that are not related to cancer, are not precancerous and have been found to be benign and reversible. This review summarises randomised trials conducted to evaluate the effectiveness of SPRMs as a class of medication for treatment of individuals with fibroids. 
+Objectives
+To evaluate the effectiveness and safety of SPRMs for treatment of premenopausal women with uterine fibroids. 
+Search methods
+We searched the Specialised Register of the Cochrane Gynaecology and Fertility Group, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, PsycINFO, the Cumulative Index to Nursing and Allied Health Literature (CINAHL) and clinical trials registries from database inception to May 2016. We handsearched the reference lists of relevant articles and contacted experts in the field to request additional data. 
+Selection criteria
+Included studies were randomised controlled trials (RCTs) of premenopausal women with fibroids who were treated for at least three months with a SPRM. 
+Data collection and analysis
+Two review authors independently reviewed all eligible studies identified by the search. We extracted data and assessed risk of bias independently using standard forms. We analysed data using mean differences (MDs) or standardised mean differences (SMDs) for continuous data and odds ratios (ORs) for dichotomous data. We performed meta‐analyses using the random‐effects model. Our primary outcome was change in fibroid‐related symptoms. 

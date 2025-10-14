@@ -1,0 +1,10 @@
+Background
+Brain radionecrosis (tissue death caused by radiation) can occur following high‐dose radiotherapy to brain tissue and can have a significant impact on a person's quality of life (QoL) and function. The underlying pathophysiological mechanism remains unclear for this condition, which makes establishing effective treatments challenging. 
+Objectives
+To assess the effectiveness of interventions used for the treatment of brain radionecrosis in adults over 18 years old. 
+Search methods
+In October 2017, we searched the Cochrane Register of Controlled Trials (CENTRAL), MEDLINE, Embase and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) for eligible studies. We also searched unpublished data through Physicians Data Query, www.controlled‐trials.com/rct, www.clinicaltrials.gov, and www.cancer.gov/clinicaltrials for ongoing trials and handsearched relevant conference material. 
+Selection criteria
+We included randomised controlled trials (RCTs) of any intervention directed to treat brain radionecrosis in adults over 18 years old previously treated with radiation therapy to the brain. We anticipated a limited number of RCTs, so we also planned to include all comparative prospective intervention trials and quasi‐randomised trials of interventions for brain radionecrosis in adults as long as these studies had a comparison group that reflects the standard of care (i.e. placebo or corticosteroids). Selection bias was likely to be an issue in all the included non‐randomised studies therefore results are interpreted with caution. 
+Data collection and analysis
+Two review authors (CC, PB) independently extracted data from selected studies and completed a 'Risk of bias' assessment. For dichotomous outcomes, the odds ratio (OR) for the outcome of interest was reported. For continuous outcomes, treatment effect was reported as mean difference (MD) between treatment arms with 95% confidence intervals (CIs). 

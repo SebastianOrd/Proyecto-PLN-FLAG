@@ -1,0 +1,10 @@
+Background
+Asthma guidelines aim to guide health practitioners to optimise treatment for patients so as to minimise symptoms, improve or maintain good lung function, and prevent acute exacerbations or flare‐ups. The principle of asthma guidelines is based on a step‐up or step‐down regimen of asthma medications to maximise good health outcomes using minimum medications. Asthma maintenance therapies reduce airway inflammation that is usually eosinophilic. Tailoring asthma medications in accordance with airway eosinophilic levels may improve asthma outcomes such as indices of control or reduce exacerbations or both. Fractional exhaled nitric oxide (FeNO) is a marker of eosinophilic inflammation, and as it is easy to measure, has an advantage over other measurements of eosinophilic inflammation (for example sputum eosinophils). 
+Objectives
+To evaluate the efficacy of tailoring asthma interventions based on exhaled nitric oxide (FeNO), in comparison to not using FeNO, that is management based on clinical symptoms (with or without spirometry/peak flow) or asthma guidelines or both, for asthma‐related outcomes in adults. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register of Trials, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, and reference lists of articles. The last searches were undertaken in June 2016. 
+Selection criteria
+All randomised controlled trials (RCTs) comparing adjustment of asthma medications based on exhaled nitric oxide levels compared to not using FeNO, that is management based on clinical symptoms (with or without spirometry/peak flow) or asthma guidelines or both. 
+Data collection and analysis
+We reviewed results of searches against predetermined criteria for inclusion. We independently selected relevant studies in duplicate. Two review authors independently assessed trial quality and extracted data. We contacted study authors for further information, receiving responses from four. 

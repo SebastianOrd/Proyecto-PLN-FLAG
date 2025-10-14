@@ -1,0 +1,9 @@
+Background
+Trachoma remains a major cause of avoidable blindness among underprivileged populations in many developing countries. It is estimated that about 146 million people have active trachoma and nearly six million people are blind due to complications associated with repeat infections. 
+Objectives
+The objective of this review was to assess the effects of face washing promotion for the prevention of active trachoma in endemic communities. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (2015, Issue 1), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to January 2015), EMBASE (January 1980 to January 2015), PubMed (January 1948 to January 2015), Latin American and Caribbean Health Sciences Literature Database (LILACS) (January 1982 to January 2015), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com) (accessed 10 January 2014), ClinicalTrials.gov (www.clinicaltrials.gov) and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 26 January 2015. 
+To identify further relevant trials we checked the reference lists of the included trials. Also, we used the Science Citation Index to search for references to publications that cited the trials included in the review. We contacted investigators and experts in the field to identify additional trials. 
+Selection criteria
+We included randomized controlled trials (RCTs) or quasi‐RCTs that compared face washing with no treatment or face washing combined with antibiotics against antibiotics alone. Trial participants were residents of endemic trachoma communities. 

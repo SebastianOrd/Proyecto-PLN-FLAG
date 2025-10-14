@@ -1,0 +1,10 @@
+Background
+Epilepsy is one of the most common neurological disorders. Many people with epilepsy are drug‐resistant and require add‐on therapy, meaning that they concomitantly take multiple antiepileptic drugs. Carisbamate is a drug which is taken orally and inhibits voltage‐gated sodium channels. Carisbamate may be useful for drug‐resistant focal epilepsy. 
+Objectives
+To evaluate the efficacy and tolerability of carisbamate when used as an add‐on therapy for drug‐resistant focal epilepsy. 
+Search methods
+We searched the following databases on 8 April 2021: Cochrane Register of Studies (CRS Web) and MEDLINE (Ovid) 1946 to April 07, 2021. CRS Web includes randomised or quasi‐randomised controlled trials from PubMed, Embase, ClinicalTrials.gov, WHO ICTRP, the Cochrane Central Register of Controlled Trials (CENTRAL), and the specialised registers of Cochrane review groups including Epilepsy. We also searched ongoing trials registers, checked reference lists, and contacted authors of the included trials. 
+Selection criteria
+Double‐blind randomised controlled trials (RCTs) comparing carisbamate versus placebo or another antiepileptic drug, as add‐on therapy for drug‐resistant focal epilepsy. Trials could have a parallel‐group or cross‐over design. 
+Data collection and analysis
+Two review authors independently selected the trials for inclusion, assessed trial quality, and extracted data. The primary outcome was 50% or greater reduction in seizure frequency (responder rate). The secondary outcomes were: seizure freedom, treatment withdrawal (for any reason and due to adverse events); adverse events, and quality of life. We analysed data using the Mantel‐Haenszel statistical method and according to the intention‐to‐treat population. We presented results as risk ratios (RRs) with 95% confidence intervals (CIs). 

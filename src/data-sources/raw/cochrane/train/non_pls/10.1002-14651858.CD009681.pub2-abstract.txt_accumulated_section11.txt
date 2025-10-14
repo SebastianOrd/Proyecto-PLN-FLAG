@@ -1,0 +1,11 @@
+Background
+Essential tremor (ET) is one of the most common movement disorders. Treatment is based primarily on pharmacological agents. On this basis, although primidone and propranolol are well‐established treatments in clinical practice, they could be ineffective in 25% to 55% of patients and can produce serious adverse events (AEs) in a large percentage of individuals. For these reasons, evaluating treatment alternatives for ET may be a worthwhile pursuit. Alprazolam has been suggested as a potentially useful agent for treatment of individuals with ET, but its efficacy and safety are uncertain. 
+Objectives
+Primary 
+To assess the efficacy and safety of alprazolam in the treatment of individuals with ET. 
+Secondary 
+To examine effects of alprazolam treatment on the quality of life of people with ET.
+Search methods
+We carried out a systematic search without language restrictions to identify all relevant trials. We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (January 1966 to September 2019), EMBASE (January 1988 to September 2019), the National Institute for Health and Care Excellence (NICE) (1999 to September 2019), ClinicalTrials.gov (1997 to September 2019) and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (2004 to September 2019). We handsearched grey literature and examined the reference lists of identified studies and reviews. 
+Selection criteria
+We included all randomised controlled trials (RCTs) of alprazolam versus placebo or any other treatment. We included studies in which ET was diagnosed according to accepted and validated diagnostic criteria. We excluded studies that included patients presenting with secondary forms of tremor or reporting only neurophysiological parameters for the purpose of assessing outcomes. 

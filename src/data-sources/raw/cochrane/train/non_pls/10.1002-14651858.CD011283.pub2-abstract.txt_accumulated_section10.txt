@@ -1,0 +1,10 @@
+Background
+Postoperative delirium (POD) and postoperative cognitive dysfunction (POCD) may complicate a patient's postoperative recovery in several ways. Monitoring of processed electroencephalogram (EEG) or evoked potential (EP) indices may prevent or minimize POD and POCD, probably through optimization of anaesthetic doses. 
+Objectives
+To assess whether the use of processed EEG or auditory evoked potential (AEP) indices (bispectral index (BIS), narcotrend index, cerebral state index, state entropy and response entropy, patient state index, index of consciousness, A‐line autoregressive index, and auditory evoked potentials (AEP index)) as guides to anaesthetic delivery can reduce the risk of POD and POCD in non‐cardiac surgical or non‐neurosurgical adult patients undergoing general anaesthesia compared with standard practice where only clinical signs are used. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and clinical trial registry databases up to 28 March 2017. We updated this search in February 2018, but these results have not been incorporated in the review. 
+Selection criteria
+We included randomized or quasi‐randomized controlled trials comparing any method of processed EEG or evoked potential techniques (entropy, BIS, AEP etc.) against a control group where clinical signs were used to guide doses of anaesthetics in adults aged 18 years or over undergoing general anaesthesia for non‐cardiac or non‐neurosurgical elective operations. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. Our primary outcomes were: occurrence of POD; and occurrence of POCD. Secondary outcomes included: all‐cause mortality; any postoperative complications; and postoperative length of stay. We used GRADE to assess the quality of evidence for each outcome. 

@@ -1,0 +1,11 @@
+Background
+Disease activity can be determined using clinical, endoscopic or histologic criteria in patients with ulcerative colitis (UC). Persistent disease activity is associated with poor outcomes. Histologic disease activity has been shown to be associated with relapse, colectomy and colorectal cancer. The ability to objectively evaluate microscopic disease activity using histology is important for both clinical practice and clinical trials. However, the operating properties of the currently available histologic indices remain unclear. 
+Objectives
+A systematic review was undertaken to identify and evaluate the development and operating characteristics of histologic disease activity indices used to assess disease activity in people with ulcerative colitis. 
+Search methods
+We searched MEDLINE, EMBASE, PubMed, CENTRAL and the Cochrane IBD Review Group Specialized Trials Register from inception to 2 December 2016 for applicable studies. There were no language or document type restrictions. 
+Selection criteria
+Any study design (e.g. randomized controlled trials, cohort studies, case series) that evaluated a histologic index in patients with UC were considered for inclusion. Eligible patients were adults (> 18 years), diagnosed with UC using conventional clinical, radiographic, endoscopic and histologic criteria. 
+Data collection and analysis
+Two authors (MHM and CEP) independently reviewed the titles and abstracts of the studies identified from the literature search. A standardized form was used to assess eligibility of trials for inclusion and for data extraction. 
+Two authors (MHM and CEP) independently extracted and recorded data, which included the number of patients enrolled, number of patients per treatment arm, patient characteristics including age and gender distribution, and the name of the histologic index. Outcomes (i.e. intra‐rater reliability, inter‐rater reliability, internal consistency, content validity, criterion validity, construct validity, responsiveness, and feasibility) were recorded for each trial. 

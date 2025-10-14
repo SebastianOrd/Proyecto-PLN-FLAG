@@ -1,0 +1,12 @@
+Background
+Most people with Parkinson’s disease (PD) experience at least one fall during the course of their disease. Several interventions designed to reduce falls have been studied. An up‐to‐date synthesis of evidence for interventions to reduce falls in people with PD will assist with informed decisions regarding fall‐prevention interventions for people with PD. 
+Objectives
+To assess the effects of interventions designed to reduce falls in people with PD.
+Search methods
+CENTRAL, MEDLINE, Embase, four other databases and two trials registers were searched on 16 July 2020, together with reference checking, citation searching and contact with study authors to identify additional studies. We also conducted a top‐up search on 13 October 2021. 
+Selection criteria
+We included randomised controlled trials (RCTs) of interventions that aimed to reduce falls in people with PD and reported the effect on falls. We excluded interventions that aimed to reduce falls due to syncope. 
+Data collection and analysis
+We used standard Cochrane Review procedures. Primary outcomes were rate of falls and number of people who fell at least once. Secondary outcomes were the number of people sustaining one or more fall‐related fractures, quality of life, adverse events and economic outcomes. The certainty of the evidence was assessed using GRADE. 
+Main results
+This review includes 32 studies with 3370 participants randomised. We included 25 studies of exercise interventions (2700 participants), three studies of medication interventions (242 participants), one study of fall‐prevention education (53 participants) and three studies of exercise plus education (375 participants). Overall, participants in the exercise trials and the exercise plus education trials had mild to moderate PD, while participants in the medication trials included those with more advanced disease. All studies had a high or unclear risk of bias in one or more items. Illustrative risks demonstrating the absolute impact of each intervention are presented in the summary of findings tables. 

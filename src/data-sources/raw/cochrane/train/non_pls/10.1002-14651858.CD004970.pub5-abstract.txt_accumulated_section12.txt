@@ -1,0 +1,12 @@
+Background
+One of the key factors for the long‐term success of oral implants is the maintenance of healthy tissues around them. Bacterial plaque accumulation induces inflammatory changes in the soft tissues surrounding oral implants and it may lead to their progressive destruction (peri‐implantitis) and ultimately to implant failure. Different treatment strategies for peri‐implantitis have been suggested, however it is unclear which are the most effective. 
+Objectives
+To identify the most effective interventions for treating peri‐implantitis around osseointegrated dental implants. 
+Search methods
+We searched Cochrane Oral Health's Trials Register, CENTRAL, MEDLINE and EMBASE. Handsearching included several dental journals. We checked the bibliographies of the identified randomised controlled trials (RCTs) and relevant review articles for studies outside the handsearched journals. We wrote to authors of all identified RCTs, to more than 55 dental implant manufacturers and an Internet discussion group to find unpublished or ongoing RCTs. No language restrictions were applied. The last electronic search was conducted on 9 June 2011. 
+Selection criteria
+All RCTs comparing agents or interventions for treating peri‐implantitis around dental implants. 
+Data collection and analysis
+Screening of eligible studies, assessment of the methodological quality of the trials and data extraction were conducted in duplicate and independently by two review authors. We contacted the authors for missing information. Results were expressed as random‐effects models using mean differences for continuous outcomes and risk ratios for dichotomous outcomes with 95% confidence intervals (CI). Heterogeneity was to be investigated including both clinical and methodological factors. 
+Main results
+Fifteen eligible trials were identified, but six were excluded. The following interventions were compared in the nine included studies: different non‐surgical interventions (five trials); adjunctive treatments to non‐surgical interventions (one trial); different surgical interventions (two trials); adjunctive treatments to surgical interventions (one trial). Follow‐up ranged from 3 months to 4 years. No study was judged to be at low risk of bias. 

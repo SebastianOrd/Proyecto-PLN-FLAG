@@ -1,0 +1,13 @@
+Background
+Faecal incontinence (FI) and constipation are both socially‐embarrassing and physically‐disabling conditions that impair quality of life. For both, surgery may be required in a minority of people when more conservative measures fail. However, the invasiveness and irreversible nature of direct surgery on bowel and sphincter muscles, poor long‐term outcomes and well‐established compIications makes such procedures unappealing for these benign conditions. A less‐invasive surgical option to treat faecal incontinence and constipation is direct, low‐voltage stimulation of the sacral nerve roots, termed sacral nerve stimulation (SNS). SNS has become the first line surgical treatment for FI in people failing conservative therapies. Its value in the treatment of constipation is less clear. 
+Objectives
+To assess the effects of sacral nerve stimulation using implanted electrodes for the treatment of faecal incontinence and constipation in adults. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, MEDLINE In‐Process, ClinicalTrials.gov, the World Health Organization (WHO) ICTRP and handsearched journals and conference proceedings (searched 5 February 2015), EMBASE (1 January 1947 to 2015 Week 5), and the reference lists of retrieved relevant articles. 
+Selection criteria
+All randomised or quasi‐randomised trials assessing the effects of SNS for faecal incontinence or constipation in adults. 
+Data collection and analysis
+Two review authors independently screened the search results, assessed the methodological quality of the included trials, and undertook data extraction. 
+Main results
+Six crossover trials and two parallel group trials were included.
+Six trials assessed the effects of SNS for FI. In the parallel group trial conducted by Tjandra, 53 participants with severe FI in the SNS group experienced fewer episodes of faecal incontinence compared to the control group who received optimal medical therapy (mean difference (MD) −5.20, 95% confidence interval (CI) −9.15 to −1.25 at 3 months; MD −6.30, 95% CI −10.34 to −2.26 at 12 months). Adverse events were reported in a proportion of participants: pain at implant site (6%), seroma (2%) and excessive tingling in the vaginal region (9%). 

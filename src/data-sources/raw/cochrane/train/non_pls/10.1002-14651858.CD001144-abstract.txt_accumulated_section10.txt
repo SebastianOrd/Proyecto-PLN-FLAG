@@ -1,0 +1,10 @@
+Background
+Corticosteroids have been used late in the neonatal period to treat chronic lung disease (CLD) in preterm babies, and early to try to prevent it. CLD is likely to be the result of persisting inflammation in the lung and the use of powerful anti‐inflammatory drugs like dexamethasone has some rationale. Early use tends to be associated with increased adverse effects so that studies of moderately early treatment (7‐14 days postnatal) might have the dual benefits of fewer side effects and onset of action before chronic inflammation is established. 
+Objectives
+To determine if moderately early (7‐14 days) postnatal corticosteroid treatment vs control (placebo or nothing) is of benefit in the prevention and/or treatment of early chronic lung disease in the preterm infant. 
+Search methods
+Randomised controlled trials of postnatal corticosteroid therapy were sought from the Oxford Database of Perinatal Trials, Cochrane Database of Controlled Trials, MEDLINE (1966 ‐ October 2002), hand searching paediatric and perinatal journals, examining previous review articles and information received from practicing neonatologists. Authors of all studies were contacted, where possible, to confirm details of reported follow‐up studies, or to obtain any information about long‐term follow‐up where none had been reported. 
+Selection criteria
+Randomised controlled trials of postnatal corticosteroid treatment from 7‐14 days of birth in high risk preterm infants were selected for this review. 
+Data collection and analysis
+Data regarding clinical outcomes including mortality, CLD (including late rescue with corticosteroids, or need for home oxygen therapy), death or CLD, failure to extubate, complications during the primary hospitalisation (including infection, hyperglycaemia, hypertension, hypertrophic cardiomyopathy, pneumothorax, severe intraventricular haemorrhage (IVH), necrotizing enterocolitis (NEC), gastrointestinal bleeding, and severe retinopathy of prematurity (ROP)), and long term outcome (including blindness, deafness, cerebral palsy and major neurosensory disability), were abstracted and analysed using RevMan 4.1. 

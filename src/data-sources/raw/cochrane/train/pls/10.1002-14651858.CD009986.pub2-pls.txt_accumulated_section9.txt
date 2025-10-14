@@ -1,0 +1,9 @@
+Elevation of the head during intensive care management in people with severe traumatic brain injury 
+Review question 
+How does the position of the backrest of the bed (and therefore the position of the head) affect people who have had an injury to the head that caused serious brain damage? 
+Background 
+Raised pressure within the skull (intracranial hypertension) because of swelling is the most common cause of death and disability in brain‑injured people. How well someone with intracranial hypertension recovers often depends on how they are treated. Some people think that some positions of the backrest of the bed (called the 'head‐of‐bed elevation' or HBE) might affect this pressure and improve the person's recovery. The position of the backrest of the bed is a simple and cheap intervention. This is important as most brain injury happens in low‐ and middle‐income countries with relatively undeveloped health systems and few resources to deal with brain injury. 
+Search date 
+In March 2017 the review authors searched for randomised studies.
+Study characteristics 
+We found three small studies, with a total of 20 people (11 adults and 9 children). The studies had a cross‐over design (participants received the study interventions in a random order, and served as their own control) and looked at the effect of different head positions. Researchers measured the pressure inside the skull (intracranial pressure (ICP)) and the pressure gradient causing blood flow to the brain (cerebral perfusion pressure (CPP)). Two studies were funded by research grants from the national Department of Health, and one study received no funding. 

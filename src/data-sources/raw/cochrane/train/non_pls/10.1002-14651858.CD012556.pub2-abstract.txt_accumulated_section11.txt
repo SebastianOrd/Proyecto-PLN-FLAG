@@ -1,0 +1,11 @@
+Background
+Hodgkin's lymphoma (HL) is a cancer of the lymphatic system, and involves the lymph nodes, spleen and other organs such as the liver, lung, bone or bone marrow, depending on the tumour stage. With cure rates of up to 90%, HL is one of the most curable cancers worldwide. Approximately 10% of people with HL will be refractory to initial treatment or will relapse; this is more common in people with advanced stage or bulky disease. Standard of care for these people is high‐dose chemotherapy and autologous stem cell transplantation (ASCT), but only 55% of participants treated with high‐dose chemotherapy and ASCT are free from treatment failure at three years, with an overall survival (OS) of about 80% at three years. 
+Checkpoint inhibitors that target the interaction of the programmed death (PD)‐1 immune checkpoint receptor, and its ligands PD‐L1 and PD‐L2, have shown remarkable activity in a wide range of malignancies. Nivolumab is an anti‐(PD)‐1 monoclonal antibody and currently approved by the US Food and Drug Administration (FDA) for the treatment of melanoma, non‐small cell lung cancer, renal cell carcinoma and, since 2016, for classical Hodgkin's lymphoma (cHL) after treatment with ASCT and brentuximab vedotin. 
+Objectives
+To assess the benefits and harms of nivolumab in adults with HL (irrespective of stage of disease). 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, International Pharmaceutical Abstracts, conference proceedings and six study registries from January 2000 to May 2018 for prospectively planned trials evaluating nivolumab. 
+Selection criteria
+We included prospectively planned trials evaluating nivolumab in adults with HL. We excluded trials in which less than 80% of participants had HL, unless the trial authors provided the subgroup data for these participants in the publication or after we contacted the trial authors. 
+Data collection and analysis
+Two review authors independently extracted data and assessed potential risk of bias. We used the software RobotReviewer to extract data and compared results with our findings. As we did not identify any randomised controlled trials (RCTs) or non‐RCTs, we did not meta‐analyse data. 

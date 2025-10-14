@@ -1,0 +1,14 @@
+Background
+Allogeneic haematopoietic stem cell transplantation (HSCT) is an established treatment for many malignant and non‐malignant haematological disorders. Graft‐versus‐host disease (GVHD), a condition frequently occurring after HSCT, is the result of host tissues being attacked by donor immune cells. One strategy for the prevention of GVHD is the administration of anti‐thymocyte globulins (ATG), a set of polyclonal antibodies directed against a variety of immune cell epitopes, leading to immunosuppression and immunomodulation. 
+Objectives
+To assess the effect of ATG used for the prevention of graft‐versus‐host disease (GVHD) in patients undergoing allogeneic HSCT with regard to overall survival, incidence and severity of acute and chronic GVHD, incidence of relapse, incidence of infectious complications, non‐relapse mortality, early mortality within 100 days of transplantation, progression‐free survival, quality of life and adverse events. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 3), MEDLINE (January 1950 to February 2012), trials registries and conference proceedings. The search was conducted in October 2010 and was updated in July 2011 and February 2012. We did not apply any language restrictions. 
+Selection criteria
+We included randomised controlled trials (RCTs) investigating the impact of ATG on GVHD prophylaxis in adults suffering from haematological diseases and undergoing allogeneic HSCT. Treatment arms had to differ only in the addition of ATG to the standard GVHD prophylaxis regimen. 
+Data collection and analysis
+Two review authors screened abstracts, extracted data and analysed the data independently. We contacted study authors for additional information. 
+Main results
+We included in the meta‐analysis six RCTs which met the pre‐defined selection criteria, involving a total of 568 participants. Quality of data reporting was heterogeneous among these studies with a lack of detailed information in the early studies. 
+The primary outcome of overall survival was not significantly changed by the addition of ATG for the prophylaxis of GVHD (harms ratio (HR) 0.88; 95% CI 0.67 to 1.15, P = 0.33). 
+The incidence of treatment‐requiring or severe acute GVHD (grade II to IV) was significantly lower in patients who received ATG (risk ratio (RR) 0.68; 95% CI 0.55 to 0.85, P = 0.009; number needed to treat (NNT) 8). Also, the incidence of severe acute GVHD (grade III to IV) was significantly reduced (HR 0.53; 95% CI 0.33 to 0.85, P = 0.0005; NNT 7) but comparable data were available for rabbit ATG only. However, pooled study results regarding the incidence of acute GVHD of all grades (I to IV) showed no significant benefit of ATG treatment (RR 0.89; 95% CI 0.74 to 1.06, P = 0.20). 

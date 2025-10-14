@@ -1,0 +1,12 @@
+Background
+Routine outcome monitoring of common mental health disorders (CMHDs), using patient reported outcome measures (PROMs), has been promoted across primary care, psychological therapy and multidisciplinary mental health care settings, but is likely to be costly, given the high prevalence of CMHDs. There has been no systematic review of the use of PROMs in routine outcome monitoring of CMHDs across these three settings. 
+Objectives
+To assess the effects of routine measurement and feedback of the results of PROMs during the management of CMHDs in 1) improving the outcome of CMHDs; and 2) in changing the management of CMHDs. 
+Search methods
+We searched the Cochrane Depression Anxiety and Neurosis group specialised controlled trials register (CCDANCTR‐Studies and CCDANCTR‐References), the Oxford University PROMS Bibliography (2002‐5), Ovid PsycINFO, Web of Science, The Cochrane Library, and International trial registries, initially to 30 May 2014, and updated to 18 May 2015. 
+Selection criteria
+We selected cluster and individually randomised controlled trials (RCTs) including participants with CMHDs aged 18 years and over, in which the results of PROMs were fed back to treating clinicians, or both clinicians and patients. We excluded RCTs in child and adolescent treatment settings, and those in which more than 10% of participants had diagnoses of eating disorders, psychoses, substance use disorders, learning disorders or dementia. 
+Data collection and analysis
+At least two authors independently identified eligible trials, assessed trial quality, and extracted data. We conducted meta‐analysis across studies, pooling outcome measures which were sufficiently similar to each other to justify pooling. 
+Main results
+We included 17 studies involving 8787 participants: nine in multidisciplinary mental health care, six in psychological therapy settings, and two in primary care. Pooling of outcome data to provide a summary estimate of effect across studies was possible only for those studies using the compound Outcome Questionnaire (OQ‐45) or Outcome Rating System (ORS) PROMs, which were all conducted in multidisciplinary mental health care or psychological therapy settings, because both primary care studies identified used single symptom outcome measures, which were not directly comparable to the OQ‐45 or ORS. 

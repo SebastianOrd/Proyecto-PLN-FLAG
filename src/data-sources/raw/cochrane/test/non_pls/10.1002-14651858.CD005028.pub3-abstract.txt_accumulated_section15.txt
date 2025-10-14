@@ -1,0 +1,15 @@
+Background
+Chronic plaque psoriasis is the most common type of psoriasis, and it is characterised by redness, thickness, and scaling. First‐line management of chronic plaque psoriasis is with topical treatments, including vitamin D analogues, topical corticosteroids, tar‐based preparations, dithranol, salicylic acid, and topical retinoids. 
+Objectives
+To compare the effectiveness, tolerability, and safety of topical treatments for chronic plaque psoriasis, relative to placebo, and to similarly compare vitamin D analogues (used alone or in combination) with other topical treatments. 
+Search methods
+We updated our searches of the following databases to February 2011: the Cochrane Skin Group Specialised Register, CENTRAL in The Cochrane Library (2011, Issue 2), MEDLINE (from 1948), EMBASE (from 1980), Science Citation Index (from 2008), Conference Proceedings Citation Index ‐ Science (from 2008), BIOSIS (from 1993), Dissertation Abstracts via DialogClassic (all publication years), and Inside Conferences (all publication years). 
+We identified ongoing and unpublished studies from the UK Clinical Research Network Study Portfolio and the metaRegister of Controlled Trials. We checked the bibliographies of published studies and reviews for further references to relevant trials, and we contacted trialists and companies for information about newly published studies. 
+A separate search for adverse effects was undertaken in February 2011 using MEDLINE and EMBASE (from 2005). 
+Final update searches for both RCTs and adverse effects were undertaken in August 2012. Although it has not been possible to incorporate RCTs and adverse effects studies identified through these final searches within this review, we will incorporate these into the next update. 
+Selection criteria
+Randomised trials comparing active topical treatments against placebo or against vitamin D analogues (used alone or in combination) in people with chronic plaque psoriasis. 
+Data collection and analysis
+One author extracted study data and assessed study quality. A second author checked these data. We routinely contacted trialists and companies for missing data. We also extracted data on withdrawals and on local and systemic adverse events. We defined long‐term trials as those with a duration of at least 24 weeks. 
+Main results
+This update added 48 trials and provided evidence on 7 new active treatments. In total, the review included 177 randomised controlled trials, with 34,808 participants, including 26 trials of scalp psoriasis and 6 trials of inverse psoriasis, facial psoriasis, or both. The number of included studies counted by Review Manager (RevMan) is higher than these figures (190) because we entered each study reporting a placebo and an active comparison into the 'Characteristics of included studies' table as 2 studies. 

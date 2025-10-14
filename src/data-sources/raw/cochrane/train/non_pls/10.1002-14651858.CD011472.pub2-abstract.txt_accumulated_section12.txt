@@ -1,0 +1,12 @@
+Background
+The prevention of cardiovascular disease (CVD) is a key public health priority. A number of dietary factors have been associated with modifying CVD risk factors. One such factor is dietary fibre which may have a beneficial association with CVD risk factors. There is a need to review the current evidence from randomised controlled trials (RCTs) in this area. 
+Objectives
+The primary objective of this systematic review was to determine the effectiveness of dietary fibre for the primary prevention of CVD. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, Ovid MEDLINE (1946 to January 2015), Ovid EMBASE (1947 to January 2015) and Science Citation Index Expanded (1970 to January 2015) as well as two clinical trial registers in January 2015. We also checked reference lists of relevant articles. No language restrictions were applied. 
+Selection criteria
+We selected RCTs that assessed the effects of dietary fibre compared with no intervention or a minimal intervention on CVD and related risk factors. Participants included adults who are at risk of CVD or those from the general population. 
+Data collection and analysis
+Two authors independently selected studies, extracted data and assessed risk of bias; a third author checked any differences. A different author checked analyses. 
+Main results
+We included 23 RCTs (1513 participants randomised) examining the effect of dietary fibre. The risk of bias was unclear for most studies and studies had small sample sizes. Few studies had an intervention duration of longer than 12 weeks. There was a wide variety of fibre sources used, with little similarity between groups in the choice of intervention. 

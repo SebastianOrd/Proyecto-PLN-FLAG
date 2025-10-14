@@ -1,0 +1,10 @@
+Background
+Recently conducted randomised controlled trials (RCTs) suggest that late commencement of parenteral nutrition (PN) may have clinical benefits in critically ill adults and children. However, there is currently limited evidence regarding the optimal timing of commencement of PN in critically ill term and late preterm infants. 
+Objectives
+To evaluate the benefits and safety of early versus late PN in critically ill term and late preterm infants. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (5 April 2019), MEDLINE Ovid (1966 to 5 April 2019), Embase Ovid (1980 to 5 April 2019), EMCare (1995 to 5 April 2019) and MEDLINE via PubMed (1966 to 5 April 2019). We searched for ongoing or recently completed clinical trials, and also searched the grey literature and reference lists of relevant publications. 
+Selection criteria
+We included RCTs comparing early versus late initiation of PN in term and late preterm infants. We defined early PN as commencing within 72 hours of admission, and late PN as commencing after 72 hours of admission. Infants born at 37 weeks' gestation or more were defined as term, and infants born between 34 and 36+6 weeks' gestation were defined as late preterm. 
+Data collection and analysis
+Two review authors independently selected the trials, extracted the data and assessed the risk of bias. Treatment effects were expressed using risk ratio (RR) and risk difference (RD) for dichotomous outcomes and mean difference (MD) for continuous data. The quality of the evidence was assessed using the GRADE approach. 

@@ -1,0 +1,14 @@
+Background
+A variety of minimally invasive surgical approaches are available as an alternative to transurethral resection of the prostate (TURP) for management of lower urinary tract symptoms (LUTS) in men with benign prostatic hyperplasia (BPH). Prostatic arterial embolization (PAE) is a relatively new, minimally invasive treatment approach. 
+Objectives
+To assess the effects of PAE compared to other procedures for treatment of LUTS in men with BPH. 
+Search methods
+We performed a comprehensive search the Cochrane Library, MEDLINE, Embase, three other databases, trials registries, other sources of grey literature, and conference proceedings with no restrictions on language of publication or publication status, up to 8 November 2021. 
+Selection criteria
+We included parallel‐group randomized controlled trials (RCTs), as well as non‐randomized studies (NRS, limited to prospective cohort studies with concurrent comparison groups) enrolling men over the age of 40 years with LUTS attributed to BPH undergoing PAE versus TURP or other surgical interventions.  
+Data collection and analysis
+Two review authors independently classified studies for inclusion or exclusion and abstracted data from the included studies. We performed statistical analyses by using a random‐effects model and interpreted them according to the Cochrane Handbook for Systematic Reviews of Interventions. We used GRADE guidance to rate the certainty of evidence of RCTs and NRSs.  
+Main results
+We found data to inform two comparisons: PAE versus TURP (six RCTs and two NRSs), and PAE versus sham (one RCT). Mean age was 66 years, International Prostate Symptom Score (IPSS) was 22.8, and prostate volume of participants was 72.8 mL. This abstract focuses on the comparison of PAE versus TURP as the primary topic of interest. 
+Prostatic arterial embolization versus transurethral resection of the prostate  
+We included six RCTs and two NRSs with short‐term (up to 12 months) follow‐up, and two RCTs and one NRS with long‐term follow‐up (13 to 24 months).  

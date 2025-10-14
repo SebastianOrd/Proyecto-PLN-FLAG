@@ -1,0 +1,16 @@
+Background
+Tubal disease accounts for 20% of infertility cases. Hydrosalpinx, caused by distal tubal occlusion leading to fluid accumulation in the tube(s), is a particularly severe form of tubal disease negatively affecting the outcomes of assisted reproductive technology (ART). It is thought that tubal surgery may improve the outcome of ART in women with hydrosalpinges. 
+Objectives
+To assess the effectiveness and safety of tubal surgery in women with hydrosalpinges prior to undergoing conventional in vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI). 
+Search methods
+We searched the Cochrane Gynaecology and Fertility (CGF) Group trials register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, DARE, and two trial registers on 8 January 2020, together with reference checking and contact with study authors and experts in the field to identify additional trials. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing surgical treatment versus no surgical treatment, or comparing surgical interventions head‐to‐head, in women with tubal disease prior to undergoing IVF. 
+Data collection and analysis
+We used Cochrane's standard methodological procedures. The primary outcomes were live birth rate (LBR) and surgical complication rate per woman randomised. Secondary outcomes included clinical, multiple and ectopic pregnancy rates, miscarriage rates and mean numbers of oocytes retrieved and of embryos obtained. 
+Main results
+We included 11 parallel‐design RCTs, involving a total of 1386 participants. The included trials compared different types of tubal surgery (salpingectomy, tubal occlusion or transvaginal aspiration of hydrosalpingeal fluid) to no tubal surgery, or individual interventions to one another. We assessed no studies as being at low risk of bias across all domains, with the main limitations being lack of blinding, wide confidence intervals and low event and sample sizes. We used GRADE methodology to rate the quality of the evidence. Apart from one moderate‐quality result in one review comparison, the evidence provided by these 11 trials ranged between very low‐ to low‐quality. 
+Salpingectomy versus no tubal surgery 
+No included study reported on LBR for this comparison. We are uncertain of the effect of salpingectomy on surgical complications such as the rate of conversion to laparotomy (Peto odds ratio (OR) 5.80, 95% confidence interval (CI) 0.11 to 303.69; one RCT; n = 204; very low‐quality evidence) and pelvic infection (Peto OR 5.80, 95% CI 0.11 to 303.69; one RCT; n = 204; very low‐quality evidence). Salpingectomy probably increases clinical pregnancy rate (CPR) versus no surgery (risk ratio (RR) 2.02, 95% CI 1.44 to 2.82; four RCTs; n = 455; I2 = 42.5%; moderate‐quality evidence). This suggests that in women with a CPR of approximately 19% without tubal surgery, the rate with salpingectomy lies between 27% and 52%. 
+Proximal tubal occlusion versus no surgery 
+No study reported on LBR and surgical complication rate for this comparison. Tubal occlusion may increase CPR compared to no tubal surgery (RR 3.21, 95% CI 1.72 to 5.99; two RCTs; n = 209; I2 = 0%; low‐quality evidence). This suggests that with a CPR of approximately 12% without tubal surgery, the rate with tubal occlusion lies between 21% and 74%. 

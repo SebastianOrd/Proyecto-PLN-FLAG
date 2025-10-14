@@ -1,0 +1,14 @@
+Background
+Preventing active tuberculosis (TB) from developing in people with latent tuberculosis infection (LTBI) is important for global TB control. Isoniazid (INH) for six to nine months has 60% to 90% protective efficacy, but the treatment period is long, liver toxicity is a problem, and completion rates outside trials are only around 50%. Rifampicin or rifamycin‐combination treatments are shorter and may result in higher completion rates. 
+Objectives
+To compare the effects of rifampicin monotherapy or rifamycin‐combination therapy versus INH monotherapy for preventing active TB in HIV‐negative people at risk of developing active TB. 
+Search methods
+We searched the Cochrane Infectious Disease Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; LILACS; clinical trials registries; regional databases; conference proceedings; and references, without language restrictions to December 2012; and contacted experts for relevant published, unpublished and ongoing trials. 
+Selection criteria
+Randomized controlled trials (RCTs) of HIV‐negative adults and children at risk of active TB treated with rifampicin, or rifamycin‐combination therapy with or without INH (any dose or duration), compared with INH for six to nine months. 
+Data collection and analysis
+At least two authors independently screened and selected trials, assessed risk of bias, and extracted data. We sought clarifications from trial authors. We pooled relative risks (RRs) with their 95% confidence intervals (CIs), using a random‐effects model if heterogeneity was significant. We assessed overall evidence quality using the GRADE approach. 
+Main results
+Ten trials are included, enrolling 10,717 adults and children, mostly HIV‐negative (2% HIV‐positive), with a follow‐up period ranging from two to five years. 
+Rifampicin (three/four months) vs. INH (six months) 
+Five trials published between 1992 to 2012 compared these regimens, and one small 1992 trial in adults with silicosis did not detect a difference in the occurrence of TB over five years of follow up (one trial, 312 participants; very low quality evidence). However, more people in these trials completed the shorter course (RR 1.19, 95% CI 1.01 to 1.30; five trials, 1768 participants; moderate quality evidence). Treatment‐limiting adverse events were not significantly different (four trials, 1674 participants; very low quality evidence), but rifampicin caused less hepatotoxicity (RR 0.12, 95% CI 0.05 to 0.30; four trials, 1674 participants; moderate quality evidence). 

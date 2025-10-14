@@ -1,0 +1,12 @@
+Background
+Respiratory viruses are the leading cause of lower respiratory tract infection (LRTI) and hospitalisation in infants and young children. Respiratory syncytial virus (RSV) is the main infectious agent in this population. Palivizumab is administered intramuscularly every month during five months in the first RSV season to prevent serious RSV LRTI in children. Given its high cost, it is essential to know if palivizumab continues to be effective in preventing severe RSV disease in children. 
+Objectives
+To assess the effects of palivizumab for preventing severe RSV infection in children.
+Search methods
+We searched CENTRAL, MEDLINE, three other databases and two trials registers to 14 October 2021, together with reference checking, citation searching and contact with study authors to identify additional studies. We searched Embase to October 2020, as we did not have access to this database for 2021. 
+Selection criteria
+We included randomised controlled trials (RCTs), including cluster‐RCTs, comparing palivizumab given at a dose of 15 mg/kg once a month (maximum five doses) with placebo, no intervention or standard care in children 0 to 24 months of age from both genders, regardless of RSV infection history.  
+Data collection and analysis
+We used Cochrane’s Screen4Me workflow to help assess the search results. Two review authors screened studies for selection, assessed risk of bias and extracted data. We used standard Cochrane methods. We used GRADE to assess the certainty of the evidence. The primary outcomes were hospitalisation due to RSV infection, all‐cause mortality and adverse events. Secondary outcomes were hospitalisation due to respiratory‐related illness, length of hospital stay, RSV infection, number of wheezing days, days of supplemental oxygen, intensive care unit length of stay and mechanical ventilation days. 
+Main results
+We included five studies with  a total of 3343 participants. All studies were parallel RCTs, assessing the effects of 15 mg/kg of palivizumab every month up to five months compared to placebo or no intervention in an outpatient setting, although one study also included hospitalised infants. Most of the included studies were conducted in children with a high risk of RSV infection due to comorbidities like bronchopulmonary dysplasia and congenital heart disease. The risk of bias of outcomes across all studies was similar and predominately low.  

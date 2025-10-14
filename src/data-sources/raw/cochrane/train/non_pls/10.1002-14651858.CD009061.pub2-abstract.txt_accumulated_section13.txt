@@ -1,0 +1,13 @@
+Background
+Foot infection is the most common cause of non‐traumatic amputation in people with diabetes. Most diabetic foot infections (DFIs) require systemic antibiotic therapy and the initial choice is usually empirical. Although there are many antibiotics available, uncertainty exists about which is the best for treating DFIs. 
+Objectives
+To determine the effects and safety of systemic antibiotics in the treatment of DFIs compared with other systemic antibiotics, topical foot care or placebo. 
+Search methods
+In April 2015 we searched the Cochrane Wounds Group Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL; The Cochrane Library); Ovid MEDLINE, Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE, and EBSCO CINAHL. We also searched in the Database of Abstracts of Reviews of Effects (DARE; The Cochrane Library), the Health Technology Assessment database (HTA; The Cochrane Library), the National Health Service Economic Evaluation Database (NHS‐EED; The Cochrane Library), unpublished literature in OpenSIGLE and ProQuest Dissertations and on‐going trials registers. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating the effects of systemic antibiotics (oral or parenteral) in people with a DFI. Primary outcomes were clinical resolution of the infection, time to its resolution, complications and adverse effects. 
+Data collection and analysis
+Two review authors independently selected studies, assessed the risk of bias, and extracted data. Risk ratios (RR) were estimated for dichotomous data and, when sufficient numbers of comparable trials were available, trials were pooled in a meta‐analysis. 
+Main results
+We included 20 trials with 3791 participants. Studies were heterogenous in study design, population, antibiotic regimens, and outcomes. We grouped the sixteen different antibiotic agents studied into six categories: 1) anti‐pseudomonal penicillins (three trials); 2) broad‐spectrum penicillins (one trial); 3) cephalosporins (two trials); 4) carbapenems (four trials); 5) fluoroquinolones (six trials); 6) other antibiotics (four trials). 
+Only 9 of the 20 trials protected against detection bias with blinded outcome assessment. Only one‐third of the trials provided enough information to enable a judgement about whether the randomisation sequence was adequately concealed. Eighteen out of 20 trials received funding from pharmaceutical industry‐sponsors. 

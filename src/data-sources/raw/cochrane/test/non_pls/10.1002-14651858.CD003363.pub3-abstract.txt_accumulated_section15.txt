@@ -1,0 +1,15 @@
+Background
+Community interventions to promote condom use are considered to be a valuable tool to reduce the transmission of human immunodeficiency virus (HIV) and other sexually transmitted infections (STIs). In particular, special emphasis has been placed on implementing such interventions through structural changes, a concept that implies public health actions that aim to improve society's health through modifications in the context wherein health‐related risk behavior takes place. This strategy attempts to increase condom use and in turn lower the transmission of HIV and other STIs. 
+Objectives
+To assess the effects of structural and community‐level interventions for increasing condom use in both general and high‐risk populations to reduce the incidence of HIV and STI transmission by comparing alternative strategies, or by assessing the effects of a strategy compared with a control. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, from 2007, Issue 1), as well as MEDLINE, EMBASE, AEGIS and ClinicalTrials.gov, from January 1980 to April 2014. We also handsearched proceedings of international acquired immunodeficiency syndrome (AIDS) conferences, as well as major behavioral studies conferences focusing on HIV/AIDS and STIs. 
+Selection criteria
+Randomized control trials (RCTs) featuring all of the following.
+1. Community interventions ('community' defined as a geographical entity, such as cities, counties, villages). 
+2. One or more structural interventions whose objective was to promote condom use. These type of interventions can be defined as those actions improving accessibility, availability and acceptability of any given health program/technology. 
+3. Trials that confirmed biological outcomes using laboratory testing.
+Data collection and analysis
+Two authors independently screened and selected relevant studies, and conducted further risk of bias assessment. We assessed the effect of treatment by pooling trials with comparable characteristics and quantified its effect size using risk ratio. The effect of clustering at the community level was addressed through intra‐cluster correlation coefficients (ICCs), and sensitivity analysis was carried out with different design effect values. 
+Main results
+We included nine trials (plus one study that was a subanalysis) for quantitative assessment. The studies were conducted in Tanzania, Zimbabwe, South Africa, Uganda, Kenya, Peru, China, India and Russia, comprising 75,891 participants, mostly including the general population (not the high‐risk population). The main intervention was condom promotion, or distribution, or both. In general, control groups did not receive any active intervention. The main risk of bias was incomplete outcome data. 

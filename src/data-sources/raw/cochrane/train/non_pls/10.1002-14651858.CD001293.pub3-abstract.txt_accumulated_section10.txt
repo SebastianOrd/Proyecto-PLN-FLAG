@@ -1,0 +1,10 @@
+Background
+Helping young people to avoid starting smoking is a widely endorsed public health goal, and schools provide a route to communicate with nearly all young people. School‐based interventions have been delivered for close to 40 years. 
+Objectives
+The primary aim of this review was to determine whether school smoking interventions prevent youth from starting smoking. Our secondary objective was to determine which interventions were most effective. This included evaluating the effects of theoretical approaches; additional booster sessions; programme deliverers; gender effects; and multifocal interventions versus those focused solely on smoking. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), the Cochrane Tobacco Addiction Group's Specialised Register, MEDLINE, EMBASE, PsyclNFO, ERIC, CINAHL, Health Star, and Dissertation Abstracts for terms relating to school‐based smoking cessation programmes. In addition, we screened the bibliographies of articles and ran individual MEDLINE searches for 133 authors who had undertaken randomised controlled trials in this area. The most recent searches were conducted in October 2012. 
+Selection criteria
+We selected randomised controlled trials (RCTs) where students, classes, schools, or school districts were randomised to intervention arm(s) versus a control group, and followed for at least six months. Participants had to be youth (aged 5 to 18). Interventions could be any curricula used in a school setting to deter tobacco use, and outcome measures could be never smoking, frequency of smoking, number of cigarettes smoked, or smoking indices. 
+Data collection and analysis
+Two reviewers independently assessed studies for inclusion, extracted data and assessed risk of bias. Based on the type of outcome, we placed studies into three groups for analysis: Pure Prevention cohorts (Group 1), Change in Smoking Behaviour over time (Group 2) and Point Prevalence of Smoking (Group 3). 

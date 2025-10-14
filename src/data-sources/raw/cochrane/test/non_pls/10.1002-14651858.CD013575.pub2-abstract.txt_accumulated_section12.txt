@@ -1,0 +1,12 @@
+Background
+Bipolar disorder is a chronic mental disorder with repetitive mania/hypomania as well as depressive episodes, which eventually results in marked impairment in overall functioning and health‐related quality of life.  A worldwide prevalence rate of 2.4% has been reported. The risk of suicide is higher in people with bipolar disorder than those with other mental disorders. Therefore, effective management of bipolar disorder in the maintenance period is warranted to minimize the risk of relapse or recurrence. Although lithium has been the standard treatment of bipolar disorder for many years, it is associated with adverse effects and teratogenicity. Lamotrigine is approved to be expected for prevention of recurrence for the maintenance treatment of bipolar disorder. In addition, lamotrigine is as effective as lithium. Therefore, we performed a systematic review to confirm the efficacy and safety of lamotrigine in the maintenance treatment of bipolar disorder. 
+Objectives
+To assess the efficacy and tolerability of lamotrigine in the maintenance treatment of bipolar disorder. 
+Search methods
+We searched Ovid MEDLINE, Embase, PsycINFO, the Cochrane Common Mental Disorders Group's Specialized Register (CCMDCTR) and the Cochrane Central Register of Controlled Trials (CENTRAL) from inception to 21 May 2021. We also searched international trial registries and contacted experts in the field. 
+Selection criteria
+We included randomized controlled trials enrolling adults with bipolar disorder who were treated with lamotrigine, placebo or lithium. 
+Data collection and analysis
+Two reviews authors independently checked the eligibility of studies and extracted data using a standardized form. Data extracted included study characteristics, participant characteristics, intervention details, settings, and outcome measures in the term of efficacy and tolerability. Study information were then entered into RevMan web. 
+Main results
+We included 11 studies with a total of 2314 participants in this review; 1146 were randomized to lamotrigine, 869 were randomized to placebo and, 299 to lithium. 

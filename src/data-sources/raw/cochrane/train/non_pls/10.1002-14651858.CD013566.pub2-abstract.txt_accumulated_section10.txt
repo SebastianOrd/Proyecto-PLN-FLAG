@@ -1,0 +1,10 @@
+Background
+Medical abortion is usually offered in a clinic or hospital, but could potentially be offered in other settings such as pharmacies. In many countries, pharmacies are a common first point of access for women seeking reproductive health information and services. Offering medical abortion through pharmacies is a potential strategy to improve access to abortion. 
+Objectives
+To compare the effectiveness and safety of medical abortion offered in pharmacy settings with clinic‐based medical abortion. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, four other databases, two trials registries and grey literature websites in November 2020. We also handsearched key references and contacted authors to locate unpublished studies or studies not identified in the database searches. 
+Selection criteria
+We identified studies that compared women receiving the same regimen of medical abortion or post‐abortion care in either a clinic or pharmacy setting. Studies published in any language employing the following designs were included: randomized trials and non‐randomized studies including a comparative group. 
+Data collection and analysis
+Two review authors independently reviewed both retrieved abstracts and full‐text publications. A third author was consulted in case of disagreement. We intended to use the Cochrane risk of bias tool, RoB 2, for randomized studies and used the ROBINS‐I tool (Risk Of Bias In Non‐randomized Studies of Interventions) to assess risk of bias in non‐randomized studies. GRADE methodology was used to assess the certainty of the evidence. The primary outcomes were completion of abortion without additional intervention, need for blood transfusion, and presence of uterine or systemic infection within 30 days of medical abortion. 

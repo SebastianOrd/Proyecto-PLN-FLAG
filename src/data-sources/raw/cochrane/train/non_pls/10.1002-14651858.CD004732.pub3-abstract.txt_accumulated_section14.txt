@@ -1,0 +1,14 @@
+Background
+Caesarean section is a common operation. Techniques vary depending on both the clinical situation and the preferences of the operator. 
+Objectives
+To compare the effects of 1) different types of uterine incision, 2) methods of performing the uterine incision, 3) suture materials and technique of uterine closure (including single versus double layer closure of the uterine incision) on maternal health, infant health, and healthcare resource use. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (1 September 2013) and reference lists of all identified papers. 
+Selection criteria
+All published, unpublished, and ongoing randomised controlled trials comparing various types and closure of uterine incision during caesarean section. 
+Data collection and analysis
+Two review authors evaluated trials for inclusion and methodological quality without consideration of their results according to the stated eligibility criteria and extracted data independently. 
+Main results
+Our search strategy identified 60 studies for consideration, of which 27 randomised trials involving 17,808 women undergoing caesarean section were included in the review. Overall, the methodological quality of the trials was variable, with 12 of the 27 included trials adequately describing the randomisation sequence, with less than half describing adequately methods of allocation concealment, and only six trials indicating blinding of outcome assessors. 
+Two trials compared auto‐suture devices with traditional hysterotomy involving 300 women. No statistically significant difference in febrile morbidity between the stapler and conventional incision groups was apparent (risk ratio (RR) 0.92; 95% confidence interval (CI) 0.38 to 2.20). 
+Five studies were included in the review that compared blunt versus sharp dissection when performing the uterine incision involving 2141 women. There were no statistically significant differences identified for the primary outcome febrile morbidity following blunt or sharp extension of the uterine incision (four studies; 1941 women; RR 0.86; 95% CI 0.70 to 1.05). Mean blood loss (two studies; 1145 women; average mean difference (MD) ‐55.00 mL; 95% CI ‐79.48 to ‐30.52), and the need for blood transfusion (two studies; 1345 women; RR 0.24; 95% CI 0.09 to 0.62) were significantly lower following blunt extension. 

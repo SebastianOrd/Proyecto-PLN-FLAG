@@ -1,0 +1,14 @@
+Background
+Disease‐modifying pharmacological agents for transthyretin (TTR)‐related familial amyloid polyneuropathy (FAP) have become available in the last decade, but evidence on their efficacy and safety is limited. This review focuses on disease‐modifying pharmacological treatment for TTR‐related and other FAPs, encompassing amyloid kinetic stabilisers, amyloid matrix solvents, and amyloid precursor inhibitors. 
+Objectives
+To assess and compare the efficacy, acceptability, and tolerability of disease‐modifying pharmacological agents for familial amyloid polyneuropathies (FAPs). 
+Search methods
+On 18 November 2019, we searched the Cochrane Neuromuscular Specialised Register, the Cochrane Central Register of Controlled Trials, MEDLINE, and Embase. We reviewed reference lists of articles and textbooks on peripheral neuropathies. We also contacted experts in the field. We searched clinical trials registries and manufacturers' websites. 
+Selection criteria
+We included randomised clinical trials (RCTs) or quasi‐RCTs investigating any disease‐modifying pharmacological agent in adults with FAPs. 
+Disability due to FAP progression was the primary outcome. Secondary outcomes were severity of peripheral neuropathy, change in modified body mass index (mBMI), quality of life, severity of depression, mortality, and adverse events during the trial. 
+Data collection and analysis
+We followed standard Cochrane methodology.
+Main results
+The review included four RCTs involving 655 people with TTR‐FAP. The manufacturers of the drugs under investigation funded three of the studies. The trials investigated different drugs versus placebo and we did not conduct a meta‐analysis. 
+One RCT compared tafamidis with placebo in early‐stage TTR‐FAP (128 randomised participants). The trial did not explore our predetermined disability outcome measures. After 18 months, tafamidis might reduce progression of peripheral neuropathy slightly more than placebo (Neuropathy Impairment Score (NIS) in the lower limbs; mean difference (MD) ‐3.21 points, 95% confidential interval (CI) ‐5.63 to ‐0.79; P = 0.009; low‐certainty evidence). However, tafamidis might lead to little or no difference in the change of quality of life between groups (Norfolk Quality of Life‐Diabetic Neuropathy (Norfolk QOL‐DN) total score; MD ‐4.50 points, 95% CI ‐11.27 to 2.27; P = 0.19; very low‐certainty evidence). No clear between‐group difference was found in the numbers of participants who died (risk ratio (RR) 0.65, 95% CI 0.11 to 3.74; P = 0.63; very low‐certainty evidence), who dropped out due to adverse events (RR 1.29, 95% CI 0.30 to 5.54; P = 0.73; very low‐certainty evidence), or who experienced at least one severe adverse event during the trial (RR 1.16, 95% CI 0.37 to 3.62; P = 0.79; very low‐certainty evidence). 

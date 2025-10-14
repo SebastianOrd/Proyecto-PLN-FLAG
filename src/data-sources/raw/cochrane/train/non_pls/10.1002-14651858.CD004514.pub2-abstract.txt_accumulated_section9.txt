@@ -1,0 +1,9 @@
+Background
+Folate deficiency can result in congenital neural tube defects and megaloblastic anaemia. Low folate levels may be due to insufficient dietary intake or inefficient absorption, but impaired metabolic utilization also occurs. 
+Because B12 deficiency can produce a similar anaemia to folate deficiency, there is a risk that folate supplementation can delay the diagnosis of B12 deficiency, which can cause irreversible neurological damage.  Folic acid supplements may sometimes therefore include vitamin B12 supplements with simultaneous administration of vitamin B12. 
+Lesser degrees of folate inadequacy are associated with high blood levels of the amino acid homocysteine which has been linked with the risk of arterial disease, dementia and Alzheimer's disease. There is therefore interest in whether dietary supplementation can improve cognitive function in the elderly. 
+However, any apparent benefit from folic acid which was given in combination with B12 needs to be "corrected" for any effect of vitamin B12 alone. A separate Cochrane review of vitamin B12 and cognitive function has therefore been published. 
+Objectives
+To examine the effects of folic acid supplementation, with or without vitamin B12, on elderly healthy or demented people, in preventing cognitive impairment or retarding its progress. 
+Search methods
+Trials were identified from a search of the Cochrane Dementia and Cognitive Improvement Group's Specialized Register on 10 October 2007 using the terms: folic acid, folate, vitamin B9, leucovorin, methyltetrahydrofolate, vitamin B12, cobalamin and cyanocobalamin. This Register contains references from all major health care databases and many ongoing trials databases. In addition MEDLINE, EMBASE, CINAHL, PsychINFO and LILACS were searched (years 2003‐2007) for additional trials of folate with or without vitamin B12 on healthy elderly people. 

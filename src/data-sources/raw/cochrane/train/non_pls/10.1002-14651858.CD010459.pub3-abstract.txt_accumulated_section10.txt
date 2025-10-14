@@ -1,0 +1,10 @@
+Background
+Insomnia is a common problem in modern society. It is associated with reduced quality of life and impairments in physical and mental health. Listening to music is widely used as a sleep aid, but it remains unclear if it can actually improve insomnia in adults. This Cochrane Review is an update of a review published in 2015. 
+Objectives
+To assess the effects of listening to music on sleep in adults with insomnia and to assess the influence of specific variables that may moderate the effect. 
+Search methods
+For this update, we searched CENTRAL, MEDLINE, Embase, nine other databases and two trials registers up to December 2021. In addition, we handsearched reference lists of included studies, and contacted authors of published studies to identify additional studies eligible for inclusion, including any unpublished or ongoing trials. 
+Selection criteria
+Randomised controlled trials comparing the effects of listening to music with no treatment or treatment as usual (TAU) in adults complaining of sleep difficulties. 
+Data collection and analysis
+Two review authors independently screened records for eligibility, selected studies for inclusion, extracted data and assessed risk of bias of the included studies. We assessed the certainty of the evidence using GRADE. The primary outcomes were sleep quality, insomnia severity, sleep‐onset latency, total sleep time, sleep interruption, sleep efficiency and adverse events. Data on the predefined outcome measures were included in meta‐analyses when consistently reported by at least two studies that were homogeneous in terms of participants, interventions and outcomes. We undertook meta‐analyses using random‐effects models. 

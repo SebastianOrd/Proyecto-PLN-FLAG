@@ -1,0 +1,14 @@
+Background
+Cerebral palsy (CP) is the most common cause of physical disabilities in children in high‐income countries. Spasticity is the most common motor disturbance in CP. Botulinum toxin type A (BoNT‐A) is considered the first‐line treatment for focal spasticity in people with CP. 
+Objectives
+To evaluate the effectiveness and safety of BoNT‐A compared to other treatments used in the management of lower limb spasticity in children with CP. 
+Search methods
+We searched CENTRAL, PubMed, four other databases, and two trial registers in October 2018. We also searched the reference lists of relevant studies and reviews and contacted experts in the field. We did not apply any date or language restrictions. 
+Selection criteria
+Randomised controlled trials of children with CP, aged between birth and 19 years, treated with BoNT‐A injections in the lower limb muscles compared to other interventions. The primary outcomes were gait analysis and function. The secondary outcomes were joint range of motion, quality of life, satisfaction, spasticity, and adverse events. 
+Data collection and analysis
+Two review authors independently selected studies, extracted data, assessed risk of bias, and rated the quality of the evidence using GRADE. A third review author arbitrated in case of disagreements. We conducted meta‐analyses of available data whenever possible, analysing dichotomous data with risk ratios (RR), and continuous data with mean differences (MD) or standardised mean differences (SMD), with 95% confidence intervals (CI). We considered a 5% significance level for all analyses. 
+Whenever possible, we analysed outcomes at the time points at which they were assessed: short term (2 to 8 weeks); medium term (12 to 16 weeks); and long term (> 24 weeks). 
+Main results
+We included 31 randomised controlled trials assessing 1508 participants. Most studies included ambulatory patients with more than one motor type of CP, and with a mean age of between three and seven years. There was a slight predominance of males. 
+Studies compared BoNT‐A in the lower limb muscles to usual care or physiotherapy (14 studies), placebo or sham (12 studies), serial casting (4 studies), or orthoses (1 study). 

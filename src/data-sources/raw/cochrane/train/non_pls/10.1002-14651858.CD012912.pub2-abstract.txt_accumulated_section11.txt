@@ -1,0 +1,11 @@
+Background
+Dysmenorrhoea (period pain) is a common condition with a substantial impact on the well‐being and productivity of women. Primary dysmenorrhoea is defined as recurrent, cramping pelvic pain that occurs with periods, in the presence of a normal uterus, ovaries and fallopian tubes. It is thought to be caused by uterine contractions (cramps) associated with a high level of production of local chemicals such as prostaglandins. The muscle of the uterus (the myometrium) responds to these high levels of prostaglandins by contracting forcefully, causing low oxygen levels and consequently pain. Nifedipine is a calcium channel blocker in widespread clinical use for preterm labour due to its ability to inhibit uterine contractions in that setting. This review addresses whether this effect of nifedipine also helps with relief of the uterine contractions during menstruation 
+Objectives
+To assess the effectiveness and safety of nifedipine for primary dysmenorrhoea.
+Search methods
+We searched for all published and unpublished randomised controlled trials (RCTs) of nifedipine for dysmenorrhoea, without language restriction and in consultation with the Cochrane Gynaecology and Fertility Group (CGF) Information Specialist. 
+The following databases were searched to 25 November 2021: the Cochrane Gynaecology and Fertility Group (CGF) Specialised Register of Controlled Trials, CENTRAL, MEDLINE, Embase, PsycINFO, and CINAHL. Also searched were the international trial registers: ClinicalTrials.gov, and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) search portal, the Web of Science, OpenGrey, LILACS database, PubMed and Google Scholar. We checked the reference lists of relevant articles. 
+Selection criteria
+We included RCTs comparing nifedipine with placebo for the treatment of primary dysmenorrhoea.
+Data collection and analysis
+The primary outcomes to be assessed were pain, and health‐related quality of life. Secondary outcomes were adverse effects, satisfaction, and need for additional medication. The two review authors independently assessed the included trials. There were insufficient data to allow meaningful meta‐analysis. 

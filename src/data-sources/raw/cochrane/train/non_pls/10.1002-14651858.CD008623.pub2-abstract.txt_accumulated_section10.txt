@@ -1,0 +1,10 @@
+Background
+Non‐alcoholic fatty liver disease (NAFLD) and non‐alcoholic steatohepatitis (NASH) are common causes of elevated liver enzymes in the general population. NASH and to some extent NAFLD have been associated with increased liver‐related and all‐cause mortality. No effective treatment is yet available. Recent reports have shown that the use of hydroxymethylglutaryl‐coenzyme A (HMG‐CoA) reductase inhibitors (statins) in patients with elevated plasma aminotransferases may result in normalisation of these liver enzymes. Whether this is a consistent effect or whether it can lead to improved clinical outcomes beyond normalisation of abnormal liver enzymes is not clear. 
+Objectives
+To assess the beneficial and harmful effects of statins (that is, lovastatin, atorvastatin, simvastatin, pravastatin, rosuvastatin, and fluvastatin) on all‐cause and liver‐related mortality, adverse events, and histological, biochemical, and imaging responses in patients with NAFLD or NASH. 
+Search methods
+We performed a computerised literature search in the Cochrane Hepato‐Biliary Group Controlled Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded up to March 2013. We did fully recursive searches from the reference lists of all retrieved relevant publications to ensure a complete and comprehensive search of the published literature. We did not apply any restrictions regarding language of publication or publication date. 
+Selection criteria
+All randomised clinical trials using statins as the primary treatment for NAFLD or NASH versus no treatment, placebo, or other hypolipidaemic agents. 
+Data collection and analysis
+Data were extracted, and risk of bias of each trial was assessed independently by two or more review authors. Meta‐analyses were performed whenever possible. Review Manager 5.2 was used. 

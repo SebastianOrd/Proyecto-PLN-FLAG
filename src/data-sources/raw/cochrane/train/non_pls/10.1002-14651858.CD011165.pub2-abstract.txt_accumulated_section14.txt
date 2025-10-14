@@ -1,0 +1,14 @@
+Background
+Obstructive sleep‐disordered breathing (oSDB) is a condition that encompasses breathing problems when asleep, due to an obstruction of the upper airways, ranging in severity from simple snoring to obstructive sleep apnoea syndrome (OSAS). It affects both children and adults. In children, hypertrophy of the tonsils and adenoid tissue is thought to be the commonest cause of oSDB. As such, tonsillectomy ‐ with or without adenoidectomy ‐ is considered an appropriate first‐line treatment for most cases of paediatric oSDB. 
+Objectives
+To assess the benefits and harms of tonsillectomy with or without adenoidectomy compared with non‐surgical management of children with oSDB. 
+Search methods
+We searched the Cochrane Register of Studies Online, PubMed, EMBASE, CINAHL, Web of Science, Clinicaltrials.gov, ICTRP and additional sources for published and unpublished trials. The date of the search was 5 March 2015. 
+Selection criteria
+Randomised controlled trials comparing the effectiveness and safety of (adeno)tonsillectomy with non‐surgical management in children with oSDB aged 2 to 16 years. 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+Three trials (562 children) met our inclusion criteria. Two were at moderate to high risk of bias and one at low risk of bias. We did not pool the results because of substantial clinical heterogeneity. They evaluated three different groups of children: those diagnosed with mild to moderate OSAS by polysomnography (PSG) (453 children aged five to nine years; low risk of bias; CHAT trial), those with a clinical diagnosis of oSDB but with negative PSG recordings (29 children aged two to 14 years; moderate to high risk of bias; Goldstein) and children with Down syndrome or mucopolysaccharidosis (MPS) diagnosed with mild to moderate OSAS by PSG (80 children aged six to 12 years; moderate to high risk of bias; Sudarsan). Moreover, the trials included two different comparisons: adenotonsillectomy versus no surgery (CHAT trial and Goldstein) or versus continuous positive airway pressure (CPAP) (Sudarsan). 
+Disease‐specific quality of life and/or symptom score (using a validated instrument): first primary outcome 
+In the largest trial with lowest risk of bias (CHAT trial), at seven months, mean scores for those instruments measuring disease‐specific quality of life and/or symptoms were lower (that is, better quality of life or fewer symptoms) in children receiving adenotonsillectomy than in those managed by watchful waiting: 

@@ -1,0 +1,11 @@
+Background
+Pain is a common symptom with cancer, and 30% to 50% of all people with cancer will experience moderate to severe pain that can have a major negative impact on their quality of life. Non‐opioid drugs are commonly used to treat cancer pain, and are recommended for this purpose in the World Health Organization (WHO) cancer pain treatment ladder, either alone or in combination with opioids. 
+A previous Cochrane review that examined the evidence for nonsteroidal anti‐inflammatory drugs (NSAIDs) or paracetamol, alone or combined with opioids, for cancer pain was withdrawn in 2015 because it was out of date; the date of the last search was 2005. This review, and another on paracetamol, updates the evidence. 
+Objectives
+To assess the efficacy of oral NSAIDs for cancer pain in adults, and the adverse events reported during their use in clinical trials. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and Embase from inception to April 2017, together with reference lists of retrieved papers and reviews, and two online study registries. 
+Selection criteria
+We included randomised, double‐blind, single‐blind, or open‐label studies of five days' duration or longer, comparing any oral NSAID alone with placebo or another NSAID, or a combination of NSAID plus opioid with the same dose of the opioid alone, for cancer pain of any pain intensity. The minimum study size was 25 participants per treatment arm at the initial randomisation. 
+Data collection and analysis
+Two review authors independently searched for studies, extracted efficacy and adverse event data, and examined issues of study quality and potential bias. We did not carry out any pooled analyses. We assessed the quality of the evidence using GRADE and created a 'Summary of findings' table. 

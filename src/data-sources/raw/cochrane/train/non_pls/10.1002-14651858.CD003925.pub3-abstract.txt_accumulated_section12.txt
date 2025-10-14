@@ -1,0 +1,12 @@
+Background
+Orientation and mobility (O&M) training is provided to people who are visually impaired to help them maintain travel independence. It teaches them new orientation and mobility skills to compensate for reduced visual information. 
+Objectives
+The objective of this review was to assess the effects of O&M training, with or without associated devices, for adults with low vision. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library, 2010, Issue 3), MEDLINE (January 1950 to March 2010), EMBASE (January 1980 to March 2010), Latin American and Caribbean Literature on Health Sciences (LILACS) (January 1982 to March 2010), System for Information on Grey Literature in Europe (OpenSIGLE) (March 2010), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com) (March 2010), ClinicalTrials.gov (http://clinicaltrials.gov) (March 2010), ZETOC (March 2010) and the reference lists of retrieved articles. There were no language or date restrictions in the search for trials. The electronic databases were last searched on 31 March 2010. 
+Selection criteria
+We planned to include randomised or quasi‐randomised trials comparing O&M training with no training in adults with low vision. 
+Data collection and analysis
+Two authors independently assessed the search results for eligibility, evaluated study quality and extracted the data. 
+Main results
+Two small studies satisfied the inclusion criteria. They were consecutive phases of development of the same training curriculum and assessment tool. The intervention was administered by a volunteer on the basis of written and oral instruction. In both studies the randomisation technique was inadequate, being based on alternation, and masking was not achieved. Training had no effect in the first study but tended to be beneficial in the second but not to a statistically significant extent. Reasons for differences between studies may have been: the high scores obtained in the first study, suggestive of little need for training and small room for further improvement (a ceiling effect), and the refinement of the curriculum allowing better tailoring to patients' specific needs and characteristics, in the second study. 

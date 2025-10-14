@@ -1,0 +1,12 @@
+Background
+This review is an update of a previously published review in the Cochrane Database of Systematic Reviews (2009, Issue 3).Tea is one of the most commonly consumed beverages worldwide. Teas from the plant Camellia sinensis can be grouped into green, black and oolong tea, and drinking habits vary cross‐culturally. C sinensis contains polyphenols, one subgroup being catechins. Catechins are powerful antioxidants, and laboratory studies have suggested that these compounds may inhibit cancer cell proliferation. Some experimental and nonexperimental epidemiological studies have suggested that green tea may have cancer‐preventative effects. 
+Objectives
+To assess possible associations between green tea consumption and the risk of cancer incidence and mortality as primary outcomes, and safety data and quality of life as secondary outcomes. 
+Search methods
+We searched eligible studies up to January 2019 in CENTRAL, MEDLINE, Embase, ClinicalTrials.gov, and reference lists of previous reviews and included studies. 
+Selection criteria
+We included all epidemiological studies, experimental (i.e. randomised controlled trials (RCTs)) and nonexperimental (non‐randomised studies, i.e. observational studies with both cohort and case‐control design) that investigated the association of green tea consumption with cancer risk or quality of life, or both. 
+Data collection and analysis
+Two or more review authors independently applied the study criteria, extracted data and assessed methodological quality of studies. We summarised the results according to diagnosis of cancer type. 
+Main results
+In this review update, we included in total 142 completed studies (11 experimental and 131 nonexperimental) and two ongoing studies. This is an additional 10 experimental and 85 nonexperimental studies from those included in the previous version of the review. 

@@ -1,0 +1,13 @@
+Background
+Children who are securely attached to at least one parent are able to be comforted by that parent when they are distressed and explore the world confidently by using that parent as a 'secure base'. Research suggests that a secure attachment enables children to function better across all aspects of their development. Promoting secure attachment, therefore, is a goal of many early interventions. Attachment is mediated through parental sensitivity to signals of distress from the child. One means of improving parental sensitivity is through video feedback, which involves showing a parent brief moments of their interaction with their child, to strengthen their sensitivity and responsiveness to their child's signals. 
+Objectives
+To assess the effects of video feedback on parental sensitivity and attachment security in children aged under five years who are at risk for poor attachment outcomes. 
+Search methods
+In November 2018 we searched CENTRAL, MEDLINE, Embase, CINAHL, PsycINFO, nine other databases and two trials registers. We also handsearched the reference lists of included studies, relevant systematic reviews, and several relevant websites 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs that assessed the effects of video feedback versus no treatment, inactive alternative intervention, or treatment as usual for parental sensitivity, parental reflective functioning, attachment security and adverse effects in children aged from birth to four years 11 months. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+This review includes 22 studies from seven countries in Europe and two countries in North America, with a total of 1889 randomised parent‐child dyads or family units. Interventions targeted parents of children aged under five years, experiencing a wide range of difficulties (such as deafness or prematurity), or facing challenges that put them at risk of attachment issues (for example, parental depression). Nearly all studies reported some form of external funding, from a charitable organisation (n = 7) or public body, or both (n = 18). 
+We considered most studies as being at low or unclear risk of bias across the majority of domains, with the exception of blinding of participants and personnel, where we assessed all studies as being at high risk of performance bias. For outcomes where self‐report measures were used, such as parental stress and anxiety, we rated all studies at high risk of bias for blinding of outcome assessors. 

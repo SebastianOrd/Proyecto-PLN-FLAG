@@ -1,0 +1,10 @@
+Background
+Posterior blepharitis is common and causes ocular surface and lid damage as well as discomfort. It affects 37% to 47% of all ophthalmology patients; its incidence increasing with age. It is a multifactorial disease associated with multiple other pathologies, such as rosacea, meibomianitis, and infections. Treatment usually focuses on reliefing the symptoms by using artificial tears, lid scrubs, and warm compresses. The condition may be notoriously difficult to manage adequately once it becomes chronic. One such management approach for chronic blepharitis is the use of oral antibiotics for both their antibacterial as well as anti‐inflammatory properties. There are currently no guidelines regarding the use of oral antibiotics, including antibiotic type, dosage, and treatment duration, for the treatment of chronic blepharitis. 
+Objectives
+To assess the benefits and harms of oral antibiotic use for people with chronic blepharitis.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2020, Issue 8); Ovid MEDLINE; Embase.com; PubMed; Latin American and Caribbean Health Sciences Literature Database (LILACS); ClinicalTrials.gov, and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We did not use any date or language restrictions in the electronic search for trials. We last searched the electronic databases on 29 August 2020. 
+Selection criteria
+We included randomized controlled trials (RCTs) comparing oral antibiotics with placebo in adult participants with chronic blepharitis (including staphylococcal, seborrhoeic, or Meibomian Gland Dysfunction (MGD)). 
+Data collection and analysis
+We used standard Cochrane methodology and graded the certainty of the body of evidence for six outcomes using the GRADE classification. 

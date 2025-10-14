@@ -1,0 +1,12 @@
+Background
+The dystrophinopathies include Duchenne muscular dystrophy (DMD), Becker muscular dystrophy (BMD), and X‐linked dilated cardiomyopathy (XLDCM). In recent years, co‐ordinated multidisciplinary management for these diseases has improved the quality of care, with early corticosteroid use prolonging independent ambulation, and the routine use of non‐invasive ventilation signficantly increasing survival. The next target to improve outcomes is optimising treatments to delay the onset or slow the progression of cardiac involvement and so prolong survival further. 
+Objectives
+To assess the effects of interventions for preventing or treating cardiac involvement in DMD, BMD, and XLDCM, using measures of change in cardiac function over six months. 
+Search methods
+On 16 October 2017 we searched the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE and Embase, and on 12 December 2017, we searched two clinical trials registries. We also searched conference proceedings and bibliographies. 
+Selection criteria
+We considered only randomised controlled trials (RCTs), quasi‐RCTs and randomised cross‐over trials for inclusion. In the Discussion, we reviewed open studies, longitudinal observational studies and individual case reports but only discussed studies that adequately described the diagnosis, intervention, pretreatment, and post‐treatment states and in which follow‐up lasted for at least six months. 
+Data collection and analysis
+Two authors independently reviewed the titles and abstracts identified from the search and performed data extraction. All three authors assessed risk of bias independently, compared results, and decided which trials met the inclusion criteria. They assessed the certainty of evidence using GRADE criteria. 
+Main results
+We included five studies (N = 205) in the review; four studies included participants with DMD only, and one study included participants with DMD or BMD. All studied different interventions, and meta‐analysis was not possible. We found no studies for XLDCM. None of the trials reported cardiac function as improved or stable cardiac versus deteriorated. 

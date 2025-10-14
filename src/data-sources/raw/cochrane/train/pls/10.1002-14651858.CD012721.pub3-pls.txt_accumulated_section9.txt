@@ -1,0 +1,9 @@
+Beta‐blockers and inhibitors of the renin‐angiotensin aldosterone system for chronic heart failure with preserved ejection fraction 
+Review question 
+We investigated the effects of beta‐blockers (BBs), mineralocorticoid receptor antagonists (MRAs), angiotensin converting enzyme inhibitors (ACEIs), angiotensin receptor blockers (ARBs) and angiotensin receptor neprilysin inhibitors (ARNIs) on survival, hospital admissions for heart failure, quality of life and potassium levels in people with heart failure with preserved ejection fraction (HFpEF). 
+Background 
+Heart failure is a common condition that occurs when the function of the heart muscle is impaired, being associated with symptoms of breathlessness and fatigue, and a reduction in survival. In around half of cases of heart failure, where the left ventricular ejection fraction is reduced to less than 40% (reflecting significant impairment of contractile function), several drug treatments are known to be effective at improving survival and reducing hospitalisation. In the remaining cases, where the ejection fraction is normal or only mildly reduced (HFpEF), it is not clear whether the same drug treatments are effective at improving outcomes. 
+Selection criteria 
+We sought to investigate whether treatments for heart failure with reduced ejection fraction are also effective in HFpEF. We conducted a comprehensive search for all trials investigating BBs, MRAs, ACEIs, ARBs or ARNIs (evidence current to 14 May 2020). 
+Results and conclusions 
+We included 10 studies with 3087 randomised participants for BBs, 13 studies with 4459 randomised participants for MRAs, eight studies with 2061 randomised participants for ACEIs, eight studies with 8755 randomised participants for ARBs and three studies with 7702 randomised participants for ARNIs. We combined the evidence in a pooled analysis for each drug class and for each of the outcomes assessed. Not all included studies are part of each analysis. 

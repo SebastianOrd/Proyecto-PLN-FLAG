@@ -1,0 +1,18 @@
+Background
+Abortion is common worldwide and increasingly abortions are performed at less than 14 weeks’ gestation using medical methods, specifically using a combination of mifepristone and misoprostol. Medical abortion is known to be a painful process, but the optimal method of pain management is unclear. We sought to identify and compare pain management regimens for medical abortion before 14 weeks’ gestation.  
+Objectives
+Primary objective 
+To determine if there is evidence of superiority of any particular pain relief regimen in the management of combination medical abortion (mifepristone + misoprostol) under 14 weeks' gestation (i.e. up to 13 + 6 weeks or 97 days). 
+Secondary objectives 
+To compare the rate of gastrointestinal side effects resulting from different methods of analgesia 
+To compare the rate of complete abortion resulting from different methods of analgesia during medical abortion 
+To determine if the induction‐to‐abortion interval is associated with different methods of analgesia 
+To determine if any method of analgesia is associated with unscheduled contact with the care provider in relation to pain. 
+Search methods
+On 21 August 2019 we searched CENTRAL, MEDLINE, Embase, CINAHL, LILACs, PsycINFO, the World Health Organization International Clinical Trials Registry and ClinicalTrials.gov together with reference checking and handsearching of conference abstracts of relevant learned societies and professional organisations to identify further studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) and observational studies (non‐randomised studies of interventions (NRSIs)) of any pain relief intervention (pharmacological and non‐pharmacological) for mifepristone‐misoprostol combination medical abortion of pregnancies less than 14 weeks’ gestation. 
+Data collection and analysis
+Two review authors (JRW and MA) independently assessed all identified papers for inclusion and risks of bias, resolving any discrepancies through discussion with a third and fourth author as required (CM and SC). Two review authors independently conducted data extraction, including calculations of pain relief scores, and checked for accuracy. We assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We included four RCTs and one NRSI. Due to the heterogeneity of study designs, interventions and outcome reporting, we were unable to perform meta‐analysis for any of the primary or secondary outcomes in this review. 

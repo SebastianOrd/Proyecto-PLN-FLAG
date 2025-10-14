@@ -1,0 +1,12 @@
+Background
+Acute bronchiolitis is a significant burden on children, their families and healthcare facilities. It mostly affects children younger than two years of age. Treatment involves adequate hydration, humidified oxygen supplementation, and nebulisation of medications, such as salbutamol, epinephrine, and hypertonic saline. The effectiveness of magnesium sulphate for acute bronchiolitis is unclear. 
+Objectives
+To assess the effects of magnesium sulphate in acute bronchiolitis in children up to two years of age. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, LILACS, CINAHL, and two trials registries to 30 April 2020. We contacted trial authors to identify additional studies. We searched conference proceedings and reference lists of retrieved articles. Unpublished and published studies were eligible for inclusion. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs, comparing magnesium sulphate, alone or with another treatment, with placebo or another treatment, in children up to two years old with acute bronchiolitis. Primary outcomes were time to recovery, mortality, and adverse events. Secondary outcomes were duration of hospital stay, clinical severity score at 0 to 24 hours and 25 to 48 hours after treatment, pulmonary function test, hospital readmission within 30 days, duration of mechanical ventilation, and duration of intensive care unit stay. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We used GRADE methods to assess the certainty of the evidence. 
+Main results
+We included four RCTs (564 children). One study received funding from a hospital and one from a university; two studies did not report funding sources. Comparator interventions differed among all four trials. Studies were conducted in Qatar, Turkey, Iran, and India. We assessed two studies to be at an overall low risk of bias, and two to be at unclear risk of bias, overall. The certainty of the evidence for all outcomes and comparisons was very low except for one: hospital re‐admission rate within 30 days of discharge for magnesium sulphate versus placebo. None of the studies measured time to recovery, duration of mechanical ventilation, duration of intensive care unit stay, or pulmonary function. 

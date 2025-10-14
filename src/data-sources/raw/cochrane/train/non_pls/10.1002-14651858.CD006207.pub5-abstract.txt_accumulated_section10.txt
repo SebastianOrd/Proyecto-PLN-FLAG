@@ -1,0 +1,10 @@
+Background
+Viral epidemics or pandemics of acute respiratory infections (ARIs) pose a global threat. Examples are influenza (H1N1) caused by the H1N1pdm09 virus in 2009, severe acute respiratory syndrome (SARS) in 2003, and coronavirus disease 2019 (COVID‐19) caused by SARS‐CoV‐2 in 2019. Antiviral drugs and vaccines may be insufficient to prevent their spread. This is an update of a Cochrane Review published in 2007, 2009, 2010, and 2011. The evidence summarised in this review does not include results from studies from the current COVID‐19 pandemic. 
+Objectives
+To assess the effectiveness of physical interventions to interrupt or reduce the spread of acute respiratory viruses. 
+Search methods
+We searched CENTRAL, PubMed, Embase, CINAHL on 1 April 2020. We searched ClinicalTrials.gov, and the WHO ICTRP on 16 March 2020. We conducted a backwards and forwards citation analysis on the newly included studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) and cluster‐RCTs of trials investigating physical interventions (screening at entry ports, isolation, quarantine, physical distancing, personal protection, hand hygiene, face masks, and gargling) to prevent respiratory virus transmission. In previous versions of this review we also included observational studies. However, for this update, there were sufficient RCTs to address our study aims.   
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We used GRADE to assess the certainty of the evidence. Three pairs of review authors independently extracted data using a standard template applied in previous versions of this review, but which was revised to reflect our focus on RCTs and cluster‐RCTs for this update. We did not contact trialists for missing data due to the urgency in completing the review. We extracted data on adverse events (harms) associated with the interventions. 

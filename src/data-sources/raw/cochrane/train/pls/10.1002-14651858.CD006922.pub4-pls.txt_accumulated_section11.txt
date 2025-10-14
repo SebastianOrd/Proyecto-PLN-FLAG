@@ -1,0 +1,11 @@
+Inhaled steroids with and without regular salmeterol for asthma: serious adverse events
+Review question 
+Is it safe to add regular salmeterol to inhaled corticosteroid (ICS) for adults or children with asthma? 
+Background 
+Another Cochrane Review found that using regular salmeterol without regular ICS for adults with asthma led to an increase in serious adverse events (death or admission to hospital). We wanted to find out if more adverse (harmful) effects occur when people take regular salmeterol in addition to ICS. We looked only at adverse effects ‐ deaths, being admitted to hospital and life‐threatening effects. We did not look at the benefits of taking salmeterol for other outcomes. We updated this review in 2018 because of new evidence from large randomised trials of salmeterol in combination with ICS, in 11,679 adults and 6208 children with asthma. 
+Study characteristics 
+In total, we have included 41 studies in 27,951 adults and eight studies in 8453 children. Almost all studies used a combination inhaler to deliver salmeterol with ICS and compared this with the same dose of ICS for an average of six months. 
+Key results 
+We did not find a difference in the risk of death or serious adverse events in either adults or children. 
+Eleven of a total of 14,233 adults taking regular salmeterol and ICS died, as did 13 of 13,718 adults taking regular ICS at the same dose. For every 1000 adults treated for 25 weeks, researchers reported one death on ICS alone and a corresponding risk on salmeterol and ICS of one death (95% confidence Interval (CI) 0 to 2 deaths). No deaths in any studies were attributed to asthma, and researchers reported no deaths at all among children. 
+A non‐fatal serious adverse event of any cause occurred in 332 adults on regular salmeterol with ICS compared to 282 adults on regular ICS alone. For every 1000 adults treated for 25 weeks, 21 serious adverse events occurred on ICS alone, and the corresponding risk on salmeterol and ICS was 23 adults (95% CI 20 to 27). 

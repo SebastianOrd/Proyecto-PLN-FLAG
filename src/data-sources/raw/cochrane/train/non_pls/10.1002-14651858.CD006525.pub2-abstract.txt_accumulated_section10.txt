@@ -1,0 +1,10 @@
+Background
+Common mental health problems, such as depression and anxiety, are estimated to affect up to 15% of the UK population at any one time, and health care systems worldwide need to implement interventions to reduce the impact and burden of these conditions. Collaborative care is a complex intervention based on chronic disease management models that may be effective in the management of these common mental health problems. 
+Objectives
+To assess the effectiveness of collaborative care for patients with depression or anxiety. 
+Search methods
+We searched the following databases to February 2012: The Cochrane Collaboration Depression, Anxiety and Neurosis Group (CCDAN) trials registers (CCDANCTR‐References and CCDANCTR‐Studies) which include relevant randomised controlled trials (RCTs) from MEDLINE (1950 to present), EMBASE (1974 to present), PsycINFO (1967 to present) and the Cochrane Central Register of Controlled Trials (CENTRAL, all years); the World Health Organization (WHO) trials portal (ICTRP); ClinicalTrials.gov; and CINAHL (to November 2010 only). We screened the reference lists of reports of all included studies and published systematic reviews for reports of additional studies. 
+Selection criteria
+Randomised controlled trials (RCTs) of collaborative care for participants of all ages with depression or anxiety. 
+Data collection and analysis
+Two independent researchers extracted data using a standardised data extraction sheet. Two independent researchers made 'Risk of bias' assessments using criteria from The Cochrane Collaboration. We combined continuous measures of outcome using standardised mean differences (SMDs) with 95% confidence intervals (CIs). We combined dichotomous measures using risk ratios (RRs) with 95% CIs. Sensitivity analyses tested the robustness of the results. 

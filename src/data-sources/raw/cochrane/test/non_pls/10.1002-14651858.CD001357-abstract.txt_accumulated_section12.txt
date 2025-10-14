@@ -1,0 +1,12 @@
+Background
+The treatment of schizophrenia with old, 'typical' antipsychotic drugs such as haloperidol can be problematic, because many people treated with these drugs will suffer from movement disorders. Amisulpride is said to be an "atypical" antipsychotic which induces less movement disorder and which is effective for the negative symptoms of schizophrenia. 
+Objectives
+To evaluate the effects of amisulpride as compared with placebo, typical and atypical antipsychotic drugs for schizophrenia. 
+Search methods
+The authors carried out electronic searches of Biological Abstracts (1982‐1999), CINAHL (1982‐1999), Cochrane Library (Issue 4, 1999), Cochrane Schizophrenia Group's Register (November 2000), EMBASE (1980‐1999), LILACS(1982‐1999), MEDLINE (1966‐1999) and PsycLIT (1974‐1999). They checked all identified studies for further trial citations, and sought these studies in the Science Citation Index. They also contacted authors of trials and the manufacturer of amisulpride. 
+Selection criteria
+All randomised controlled trials comparing amisulpride to placebo, typical or atypical antipsychotic drugs for schizophrenia or other non‐affective serious mental illnesses. 
+Data collection and analysis
+Data were independently extracted and analysed on an intention‐to‐treat basis. The relative risk (RR) and 95% confidence intervals (CI) of dichotomous data were calculated using a random effects model, and, where possible, the number needed to treat was calculated. Weighted mean differences (WMD) were calculated for continuous data. 
+Main results
+This review currently includes 19 randomised studies with a total of 2443 participants. Most trials were of short duration. Data from 4 trials with 514 participants with predominantly negative symptoms suggest that low‐dose (up to 300mg/day) amisulpride was a more acceptable treatment than placebo (n=514, RR 0.6 CI 0.5 to 0.8, NNT 3 CI 3 to 7), it was superior in the improvement of the participants' global state (n=242, RR 0.6 CI 0.5 to 0.8, NNT 3 CI 2 to 6) and in the treatment of negative symptoms (n=167, WMD ‐10.00 CI ‐17.16 to ‐2.84). 

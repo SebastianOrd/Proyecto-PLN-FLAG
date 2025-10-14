@@ -1,0 +1,13 @@
+Background
+Miscarriage occurs in 10% to 15% of pregnancies. The traditional treatment, after miscarriage, has been to perform surgery to remove any remaining placental tissues in the uterus ('evacuation of uterus'). However, medical treatments, or expectant care (no treatment), may also be effective, safe, and acceptable. 
+Objectives
+To assess the effectiveness, safety, and acceptability of any medical treatment for incomplete miscarriage (before 24 weeks). 
+Search methods
+We searched Cochrane Pregnancy and Childbirth's Trials Register (13 May 2016) and reference lists of retrieved papers. 
+Selection criteria
+We included randomised controlled trials comparing medical treatment with expectant care or surgery, or alternative methods of medical treatment. We excluded quasi‐randomised trials. 
+Data collection and analysis
+Two review authors independently assessed the studies for inclusion, assessed risk of bias, and carried out data extraction. Data entry was checked. We assessed the quality of the evidence using the GRADE approach. 
+Main results
+We included 24 studies (5577 women). There were no trials specifically of miscarriage treatment after 13 weeks' gestation. 
+Three trials involving 335 women compared misoprostol treatment (all vaginally administered) with expectant care. There was no difference in complete miscarriage (average risk ratio (RR) 1.23, 95% confidence interval (CI) 0.72 to 2.10; 2 studies, 150 women, random‐effects; very low‐quality evidence), or in the need for surgical evacuation (average RR 0.62, 95% CI 0.17 to 2.26; 2 studies, 308 women, random‐effects; low‐quality evidence). There were few data on 'deaths or serious complications'. For unplanned surgical intervention, we did not identify any difference between misoprostol and expectant care (average RR 0.62, 95% CI 0.17 to 2.26; 2 studies, 308 women, random‐effects; low‐quality evidence). 

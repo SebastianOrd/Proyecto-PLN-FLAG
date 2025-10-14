@@ -1,0 +1,13 @@
+Background
+Glycaemic control is a key component in diabetes mellitus (diabetes) management. Periodontitis is the inflammation and destruction of the underlying supporting tissues of the teeth. Some studies have suggested a bidirectional relationship between glycaemic control and periodontitis.  
+Treatment for periodontitis involves subgingival instrumentation, which is the professional removal of plaque, calculus, and debris from below the gumline using hand or ultrasonic instruments. This is known variously as scaling and root planing, mechanical debridement, or non‐surgical periodontal treatment. Subgingival instrumentation is sometimes accompanied by local or systemic antimicrobials, and occasionally by surgical intervention to cut away gum tissue when periodontitis is severe. 
+This review is part one of an update of a review published in 2010 and first updated in 2015, and evaluates periodontal treatment versus no intervention or usual care.  
+Objectives
+To investigate the effects of periodontal treatment on glycaemic control in people with diabetes mellitus and periodontitis. 
+Search methods
+An information specialist searched six bibliographic databases up to 7 September 2021 and additional search methods were used to identify published, unpublished, and ongoing studies.  
+Selection criteria
+We searched for randomised controlled trials (RCTs) of people with type 1 or type 2 diabetes mellitus and a diagnosis of periodontitis that compared subgingival instrumentation (sometimes with surgical treatment or adjunctive antimicrobial therapy or both) to no active intervention or 'usual care' (oral hygiene instruction, education or support interventions, and/or supragingival scaling (also known as PMPR, professional mechanical plaque removal)). To be included, the RCTs had to have lasted at least 3 months and have measured HbA1c (glycated haemoglobin). 
+Data collection and analysis
+At least two review authors independently examined the titles and abstracts retrieved by the search, selected the included trials, extracted data from included trials, and assessed included trials for risk of bias. Where necessary and possible, we attempted to contact study authors. 
+Our primary outcome was blood glucose levels measured as glycated (glycosylated) haemoglobin assay (HbA1c), which can be reported as a percentage of total haemoglobin or as millimoles per mole (mmol/mol). 

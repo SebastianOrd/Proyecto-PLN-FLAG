@@ -1,0 +1,10 @@
+Background
+Intentional endometrial injury is being proposed as a technique to improve the probability of pregnancy in women undergoing assisted reproductive technologies (ART) such as in vitro fertilisation (IVF). Endometrial injury is often performed by pipelle biopsy and is a common gynaecological procedure with established safety. However, it causes a moderate degree of discomfort/pain and requires an additional pelvic examination. The effectiveness of this procedure outside of ART, in women or couples attempting to conceive via sexual intercourse or with intrauterine insemination (IUI), remains unclear. 
+Objectives
+To assess the effectiveness and safety of intentional endometrial injury performed in infertile women or couples attempting to conceive through sexual intercourse or intrauterine insemination (IUI). 
+Search methods
+The Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, LILACS, ISI Web of Knowledge, and clinical trial registries were searched from inception to 21 May 2020, as were conference abstracts and reference lists of relevant reviews and included studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) that evaluated any kind of intentional endometrial injury in women planning to undergo IUI or attempting to conceive spontaneously (with or without ovarian stimulation (OS)) compared to no intervention, a mock intervention, or intentional endometrial injury performed at a different time or to a higher/lower degree. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. Primary outcomes were live birth/ongoing pregnancy and pain experienced during the procedure. Due to high risk of bias associated with many of the studies, primary analyses of all review outcomes were restricted to studies at low risk of bias. Sensitivity analysis including all studies was then performed. 

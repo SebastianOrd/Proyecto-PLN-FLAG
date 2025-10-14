@@ -1,0 +1,10 @@
+Background
+Anxiety disorders are the most common mental health problems. They are chronic and unremitting. Effective treatments are available, but access to services is limited. Media‐delivered behavioural and cognitive behavioural interventions (self‐help) aim to deliver treatment with less input from professionals compared with traditional therapies. 
+Objectives
+To assess the effects of media‐delivered behavioural and cognitive behavioural therapies for anxiety disorders in adults. 
+Search methods
+Published and unpublished studies were considered without restriction by language or date. The Cochrane Depression, Anxiety and Neurosis Review Group's Specialized Register (CCDANCTR) was searched all years to 1 January 2013. The CCDANCTR includes relevant randomised controlled trials from the following bibliographic databases: The Cochrane Library (all years), EMBASE (1974 to date), MEDLINE (1950 to date) and PsycINFO (1967 to date). Complementary searches were carried out on Ovid MEDLINE (1950 to 23 February 2013) and PsycINFO (1987 to February, Week 2, 2013), together with International trial registries (the trials portal of the World Health Organization (ICTRP) and ClinicalTrials.gov). Reference lists from previous meta‐analyses and reports of randomised controlled trials were checked, and authors were contacted for unpublished data. 
+Selection criteria
+Randomised controlled trials of media‐delivered behavioural or cognitive behavioural therapy in adults with anxiety disorders (other than post‐traumatic stress disorder) compared with no intervention (including attention/relaxation controls) or compared with face‐to‐face therapy. 
+Data collection and analysis
+Both review authors independently screened titles and abstracts. Study characteristics and outcomes were extracted in duplicate. Outcomes were combined using random‐effects models, and tests for heterogeneity and for small study bias were conducted. We examined subgroup differences by type of disorder, type of intervention provided, type of media, and recruitment methods used. 

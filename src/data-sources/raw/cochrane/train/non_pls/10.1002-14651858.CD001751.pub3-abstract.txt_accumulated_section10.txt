@@ -1,0 +1,10 @@
+Background
+Dysmenorrhoea is a common gynaecological problem consisting of painful cramps accompanying menstruation, which in the absence of any underlying abnormality is known as primary dysmenorrhoea. Research has shown that women with dysmenorrhoea have high levels of prostaglandins, hormones known to cause cramping abdominal pain. Nonsteroidal anti‐inflammatory drugs (NSAIDs) are drugs that act by blocking prostaglandin production. They inhibit the action of cyclooxygenase (COX), an enzyme responsible for the formation of prostaglandins. The COX enzyme exists in two forms, COX‐1 and COX‐2. Traditional NSAIDs are considered 'non‐selective' because they inhibit both COX‐1 and COX‐2 enzymes. More selective NSAIDs that solely target COX‐2 enzymes (COX‐2‐specific inhibitors) were launched in 1999 with the aim of reducing side effects commonly reported in association with NSAIDs, such as indigestion, headaches and drowsiness. 
+Objectives
+To determine the effectiveness and safety of NSAIDs in the treatment of primary dysmenorrhoea.
+Search methods
+We searched the following databases in January 2015: Cochrane Menstrual Disorders and Subfertility Group Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL, November 2014 issue), MEDLINE, EMBASE and Web of Science. We also searched clinical trials registers (ClinicalTrials.gov and ICTRP). We checked the abstracts of major scientific meetings and the reference lists of relevant articles. 
+Selection criteria
+All randomised controlled trial (RCT) comparisons of NSAIDs versus placebo, other NSAIDs or paracetamol, when used to treat primary dysmenorrhoea. 
+Data collection and analysis
+Two review authors independently selected the studies, assessed their risk of bias and extracted data, calculating odds ratios (ORs) for dichotomous outcomes and mean differences for continuous outcomes, with 95% confidence intervals (CIs). We used inverse variance methods to combine data. We assessed the overall quality of the evidence using GRADE methods. 

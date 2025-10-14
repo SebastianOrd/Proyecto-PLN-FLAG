@@ -1,0 +1,12 @@
+Background
+General anaesthesia is usually associated with unconsciousness. 'Awareness' is when patients have postoperative recall of events or experiences during surgery. 'Wakefulness' is when patients become conscious during surgery, but have no postoperative recollection of the period of consciousness. 
+Objectives
+To evaluate the efficacy of two types of anaesthetic interventions in reducing clinically significant awareness: 
+‐ anaesthetic drug regimens; and ‐ intraoperative anaesthetic depth monitors. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, ISSUE 4 2016); PubMed from 1950 to April 2016; MEDLINE from 1950 to April 2016; and Embase from 1980 to April 2016. We contacted experts to identify additional studies. We performed a handsearch of the citations in the review. We did not search trial registries. 
+Selection criteria
+We included randomized controlled trials (RCTs) of either anaesthetic regimens or anaesthetic depth monitors. We excluded volunteer studies, studies of patients prior to skin incision, intensive care unit studies, and studies that only randomized different word presentations for memory tests (not anaesthetic interventions). 
+Anaesthetic drug regimens included studies of induction or maintenance, or both. Anaesthetic depth monitors included the Bispectral Index monitor, M‐Entropy, Narcotrend monitor, cerebral function monitor, cerebral state monitor, patient state index, and lower oesophageal contractility monitor. The use of anaesthetic depth monitors allows the titration of anaesthetic drugs to maintain unconsciousness. 
+Data collection and analysis
+At least two authors independently scanned abstracts, extracted data from the studies, and evaluated studies for risk of bias. We made attempts to contact all authors for additional clarification. We performed meta‐analysis statistics in packages of the R language. 

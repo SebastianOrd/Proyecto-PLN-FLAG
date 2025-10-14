@@ -1,0 +1,11 @@
+Background
+The use of a mesh in primary ventral or incisional hernia repair lowers the recurrence rate  and is the accepted standard of care for larger defects. In laparoscopic primary ventral or incisional hernia repair the insertion of a mesh is indispensable. Different mesh fixation techniques have been used and refined over the years. The type of fixation technique is claimed to have a major impact on recurrence rates, chronic pain, health‐related quality of life (HRQOL) and complication rates. 
+Objectives
+To determine the impact of different mesh fixation techniques for primary and incisional ventral hernia repair on hernia recurrence, chronic pain, HRQOL and complications. 
+Search methods
+On 2 October 2020 we searched CENTRAL, MEDLINE (Ovid MEDLINE(R)) Epub Ahead of Print, In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE(R) Daily and Ovid MEDLINE(R)), Ovid Embase, and two trials registries. We also performed handsearches, and contacted experts from the European Hernia Society (EHS). 
+Selection criteria
+We included randomised controlled trials (RCTs) including adults with primary ventral or incisional hernia that compared different types of mesh fixation techniques (absorbable/nonabsorbable sutures, absorbable/nonabsorbable tacks, fibrin glue, and combinations of these techniques). 
+Data collection and analysis
+We extracted data in standardised piloted tables, or if necessary, directly into Review Manager 5. We assessed risks of bias with the Cochrane 'Risk of bias' tool. Two review authors independently selected the publications, and extracted data on results. We calculated risk ratios (RRs) for binary outcomes and mean differences (MDs) for continuous outcomes. For pooling we used an inverse‐variance random‐effects meta‐analysis or the Peto method in the case of rare events. We prepared GRADE 'Summary of findings' tables. 
+For laparoscopic repair we considered absorbable tacks compared to nonabsorbable tacks, and nonabsorbable tacks compared to nonabsorbable sutures as key comparisons. 

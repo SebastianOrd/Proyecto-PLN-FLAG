@@ -1,0 +1,12 @@
+Background
+Currently, little evidence is available on the length and type of anticoagulation used for extended treatment for prevention of recurrent venous thromboembolism (VTE) in patients with unprovoked VTE who have completed initial oral anticoagulation therapy. 
+Objectives
+To compare the efficacy and safety of available oral therapeutic options (aspirin, warfarin, direct oral anticoagulants (DOACs)) for extended thromboprophylaxis in adults with a first unprovoked VTE, to prevent VTE recurrence after completion of an acceptable initial oral anticoagulant treatment period, as defined in individual studies. 
+Search methods
+For this review, the Cochrane Vascular Information Specialist (CIS) searched the Specialised Register (March 2017) as well as the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 2). We also searched trials registries (March 2017) and reference lists of relevant articles. 
+Selection criteria
+We included randomised controlled trials in which patients with a first, symptomatic, objectively confirmed, unprovoked VTE, who had been initially treated with anticoagulants, were randomised to extended prophylaxis (vitamin K antagonists (VKAs), antiplatelet agents, or DOACs) versus no prophylaxis or placebo. We also included trials that compared one type of extended prophylaxis versus another type of extended prophylaxis. 
+Data collection and analysis
+Two review authors independently selected studies, assessed quality, and extracted data. We resolved disagreements by discussion. 
+Main results
+Six studies with a combined total of 3436 participants met the inclusion criteria. Five studies compared extended prophylaxis versus placebo: three compared warfarin versus placebo, and two compared aspirin versus placebo. One study compared one type of extended prophylaxis (rivaroxaban) versus another type of extended prophylaxis (aspirin). For extended prophylaxis versus placebo, we downgraded the quality of the evidence for recurrent VTE and all‐cause mortality to moderate owing to concerns arising from risks of selection and performance bias in individual studies. For all other outcomes in this review, we downgraded the quality of the evidence to low owing to concerns arising from risk of bias for the studies stated above, combined with concerns over imprecision. For extended prophylaxis versus other extended prophylaxis, we downgraded the quality of the evidence for recurrent VTE and major bleeding to moderate owing to concerns over imprecision. Risk of bias in the individual study was low. 

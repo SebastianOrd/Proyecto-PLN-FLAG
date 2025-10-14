@@ -1,0 +1,18 @@
+Background
+ Apical vaginal prolapse is a descent of the uterus or vaginal vault (post‐hysterectomy). Various surgical treatments are available and there are no guidelines to recommend which is the best. 
+Objectives
+To evaluate the safety and efficacy of any surgical intervention compared to another intervention for the management of apical vaginal prolapse. 
+Search methods
+We searched the Cochrane Incontinence Group's Specialised Register of controlled trials, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, ClinicalTrials.gov, WHO ICTRP and handsearching of journals and conference proceedings (searched July 2015) and ClinicalTrials.gov (searched January 2016). 
+Selection criteria
+We included randomised controlled trials (RCTs).
+Data collection and analysis
+We used Cochrane methods. Our primary outcomes were awareness of prolapse, repeat surgery and recurrent prolapse (any site). 
+Main results
+We included 30 RCTs (3414 women) comparing surgical procedures for apical vaginal prolapse. Evidence quality ranged from low to moderate. Limitations included imprecision, poor methodological reporting and inconsistency. 
+Vaginal procedures versus sacral colpopexy (six RCTs, n = 583; one to four‐year review). 
+Awareness of prolapse was more common after vaginal procedures (risk ratio (RR) 2.11, 95% confidence interval (CI) 1.06 to 4.21, 3 RCTs, n = 277, I2 = 0%, moderate‐quality evidence). If 7% of women are aware of prolapse after sacral colpopexy, 14% (7% to 27%) are likely to be aware after vaginal procedures. 
+Repeat surgery for prolapse was more common after vaginal procedures (RR 2.28, 95% CI 1.20 to 4.32; 4 RCTs, n = 383, I2 = 0%, moderate‐quality evidence). The confidence interval suggests that if 4% of women require repeat prolapse surgery after sacral colpopexy, between 5% and 18% would require it after vaginal procedures. 
+We found no conclusive evidence that vaginal procedures increaserepeat surgery for stress urinary incontinence (SUI) (RR 1.87, 95% CI 0.72 to 4.86; 4 RCTs, n = 395; I2 = 0%, moderate‐quality evidence). If 3% of women require repeat surgery for SUI after sacral colpopexy, between 2% and 16% are likely to do so after vaginal procedures. 
+Recurrent prolapse is probably more common after vaginal procedures (RR 1.89, 95% CI 1.33 to 2.70; 4 RCTs, n = 390; I2 = 41%, moderate‐quality evidence). If 23% of women have recurrent prolapse after sacral colpopexy, about 41% (31% to 63%) are likely to do so after vaginal procedures. 
+The effect of vaginal procedures on bladder injury was uncertain (RR 0.57, 95% CI 0.14 to 2.36; 5 RCTs, n = 511; I2 = 0%, moderate‐quality evidence). 

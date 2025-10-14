@@ -1,0 +1,12 @@
+Background
+Exchange blood transfusion (EBT) is a form of whole blood transfusion in which the total blood volume is replaced within a few hours. In perinatal and neonatal medicine, EBT is most often used in the management of severe anaemia or severe hyperbilirubinaemia in the first week of life. Hypocalcaemia, one of the common morbidities associated with EBT, is thought to arise from the chelating effects of the citrate commonly used as an anticoagulant in the donor's blood. This disorder manifests with muscular and nervous irritability and cardiac arrhythmias. 
+Objectives
+To determine whether the use of prophylactic calcium reduces the risk of hypocalcaemia‐related morbidities and death among newborn infants receiving EBT. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review group to search the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 5), MEDLINE via PubMed (1966 to 29 June 2016), Embase (1980 to 29 June 2016), and CINAHL (1982 to 29 June 2016). We also searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+All randomised and quasi‐randomised trials of prophylactic intravenous calcium in EBT for newborns. 
+Data collection and analysis
+Two review authors independently assessed and extracted data on methods, participants, interventions, and outcomes (mean total and ionised serum calcium before and after EBT and the presence of adverse events such as hypoglycaemia, apnoea, cardiac arrest, and death immediately after EBT). We reported results as means difference (MD) with 95% confidence intervals (CI) for continuous outcomes and risk ratio (RR) and risk differences (RD) and 95% CIs for dichotomous outcomes. We assessed quality using the Cochrane 'Risk of bias' assessment tool and the GRADE system. 
+Main results
+We found only one quasi‐randomised trial with 30 participants that met our inclusion criteria. In the small trial, total and ionised serum calcium levels were measured immediately before and immediately after EBT. All the participants were included in the final analysis and all the important outcomes were reported. 

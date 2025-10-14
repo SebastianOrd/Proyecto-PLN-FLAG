@@ -1,0 +1,10 @@
+Background
+At the end of 2016, 145 countries reported to the World Health Organization (WHO) over 173,000 new cases of leprosy worldwide. In the past 20 years, over 16 million people have been treated for leprosy globally. The condition's main complications are injuries and ulceration caused by sensory loss from nerve damage. In this review we explored interventions to prevent or treat secondary damage to the skin in people affected by leprosy (Hansen's disease). This is an update of a Cochrane Review published in 2008. 
+Objectives
+To assess the effects of education, information, self‐care programmes, dressings, skin care, footwear and other measures for preventing and healing secondary damage to the skin in persons affected by leprosy. 
+Search methods
+We updated our searches of the following databases up to July 2018: the Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase, AMED, LILACS, and CINAHL. We also searched five trial registers, three grey literature databases, and the reference lists of included studies for further references to relevant randomised controlled trials (RCTs). 
+Selection criteria
+RCTs or quasi‐RCTs or randomised cross‐over trials involving anyone with leprosy and potential damage to peripheral nerves who was treated with any intervention designed to prevent damage, heal existing ulcers, and prevent development of new ulcers. Eligible comparisons were usual care, no interventions, or other interventions (e.g. other types of dressings or footwear). 
+Data collection and analysis
+We adhered to standard methodological procedures expected by Cochrane. Primary outcomes were prevention of ulcer(s), healing of existing ulcer(s) and adverse events. We used GRADE to assess the certainty of evidence for each outcome. 

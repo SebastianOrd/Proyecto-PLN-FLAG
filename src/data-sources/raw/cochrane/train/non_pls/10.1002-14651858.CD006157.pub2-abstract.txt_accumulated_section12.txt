@@ -1,0 +1,12 @@
+Background
+The role of pre‐operative chemotherapy in the treatment of patients with non‐small cell lung cancer (NSCLC) was not clear. A systematic review and quantitative meta‐analysis were therefore undertaken to evaluate the available evidence from randomised trials. 
+Objectives
+To evaluate the effect of pre‐operative chemotherapy on survival in patients with non‐small cell lung cancer. If adequate data are available, to investigate whether or not pre‐defined patient subgroups benefit more or less from pre‐operative chemotherapy. 
+Search methods
+MEDLINE and CANCERLIT searches for randomised controlled trials (RCTs) were supplemented by information from trial registers and by handsearching relevant meeting proceedings and by discussion with relevant trialists and organisations. 
+Selection criteria
+RCTs were eligible for inclusion provided the patients had been randomised between chemotherapy followed by surgery versus surgery alone and that the method of randomisation precluded prior knowledge of the treatment to be assigned. 
+Data collection and analysis
+A systematic review and meta‐analysis based on aggregate data extracted from trial publications was carried out to assess the effectiveness of pre‐operative chemotherapy in NSCLC. This involved identifying eligible RCTs and extracting aggregate data from the abstracts or reports of these RCTs. Hazard ratios were calculated from published summary statistics and then combined to give pooled estimates of treatment efficacy. 
+Main results
+Twelve eligible RCTs were identified. Data were available from seven RCTs including 988 patients (75% of eligible patients). Pre‐operative chemotherapy increased survival with a hazard ratio of 0.82 (95%CI 0.69‐0.97) P = 0.022. This is equivalent to an absolute benefit of 6%, increasing overall survival across all stages of disease from 14% to 20% at 5 years. There was no evidence of statistical heterogeneity (P = 0.980, I2 = 0). 

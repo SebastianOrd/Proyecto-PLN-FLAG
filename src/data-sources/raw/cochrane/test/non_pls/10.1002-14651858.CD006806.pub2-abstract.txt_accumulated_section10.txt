@@ -1,0 +1,10 @@
+Background
+Surgical site infections (SSIs) are associated with significant morbidity, mortality, and resource utilization and are potentially preventable. Peri‐operative hyperglycaemia has been associated with increased SSIs and previous recommendations have been to treat glucose levels above 200 mg/dL. However, recent studies have questioned the optimal glycaemic control regimen to prevent SSIs. Whether the benefits of strict or intensive glycaemic control with insulin infusion as compared to conventional management outweigh the risks remains controversial. 
+Objectives
+To summarise the evidence for the impact of glycaemic control in the peri‐operative period on the incidence of surgical site infections, hypoglycaemia, level of glycaemic control, all‐cause and infection‐related mortality, and hospital length of stay and to investigate for differences of effect between different levels of glycaemic control. 
+Search methods
+A search strategy was developed to search the following databases: Cochrane Wounds Group Specialised Register (searched 25 March 2009), The Cochrane Central Register of Controlled Trials, The Cochrane Library 2009, Issue 1; Ovid MEDLINE (1950 to March Week 2 2009); Ovid EMBASE (1980 to 2009 Week 12) and EBSCO CINAHL (1982 to March Week 3 2009). The search was not limited by language or publication status. 
+Selection criteria
+Randomised controlled trials (RCTs) were eligible for inclusion if they evaluated two (or more) glycaemic control regimens in the peri‐operative period (within one week pre‐, intra‐, and/or post‐operative) and reported surgical site infections as an outcome. 
+Data collection and analysis
+The standard method for conducting a systematic review in accordance with the Cochrane Wounds Group was used. Two review authors independently reviewed the results from the database searches and identified relevant studies. Two review authors extracted study data and outcomes from each study and reviewed each study for methodological quality. Any disagreement was resolved by discussion or by referral to a third review author. 

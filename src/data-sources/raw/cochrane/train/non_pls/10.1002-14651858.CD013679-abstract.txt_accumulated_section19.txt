@@ -1,0 +1,19 @@
+Background
+The global burden of poor maternal, neonatal, and child health (MNCH) accounts for more than a quarter of healthy years of life lost worldwide. Targeted client communication (TCC) via mobile devices (MD) (TCCMD) may be a useful strategy to improve MNCH. 
+Objectives
+To assess the effects of TCC via MD on health behaviour, service use, health, and well‐being for MNCH. 
+Search methods
+In July/August 2017, we searched five databases including The Cochrane Central Register of Controlled Trials, MEDLINE and Embase. We also searched two trial registries. A search update was carried out in July 2019 and potentially relevant studies are awaiting classification. 
+Selection criteria
+We included randomised controlled trials that assessed TCC via MD to improve MNCH behaviour, service use, health, and well‐being. Eligible comparators were usual care/no intervention, non‐digital TCC, and digital non‐targeted client communication. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane, although data extraction and risk of bias assessments were carried out by one person only and cross‐checked by a second. 
+Main results
+We included 27 trials (17,463 participants). Trial populations were: pregnant and postpartum women (11 trials conducted in low‐, middle‐ or high‐income countries (LMHIC); pregnant and postpartum women living with HIV (three trials carried out in one lower middle‐income country); and parents of children under the age of five years (13 trials conducted in LMHIC). Most interventions (18) were delivered via text messages alone, one was delivered through voice calls only, and the rest were delivered through combinations of different communication channels, such as multimedia messages and voice calls. 
+Pregnant and postpartum women 
+TCCMD versus standard care 
+For behaviours, TCCMD may increase exclusive breastfeeding in settings where rates of exclusive breastfeeding are less common (risk ratio (RR) 1.30, 95% confidence intervals (CI) 1.06 to 1.59; low‐certainty evidence), but have little or no effect in settings where almost all women breastfeed (low‐certainty evidence). For use of health services, TCCMD may increase antenatal appointment attendance (odds ratio (OR) 1.54, 95% CI 0.80 to 2.96; low‐certainty evidence); however, the CI encompasses both benefit and harm. The intervention may increase skilled attendants at birth in settings where a lack of skilled attendants at birth is common (though this differed by urban/rural residence), but may make no difference in settings where almost all women already have a skilled attendant at birth (OR 1.00, 95% CI 0.34 to 2.94; low‐certainty evidence). There were uncertain effects on maternal and neonatal mortality and morbidity because the certainty of the evidence was assessed as very low. 
+TCCMD versus non‐digital TCC (e.g. pamphlets) 
+TCCMD may have little or no effect on exclusive breastfeeding (RR 0.92, 95% CI 0.79 to 1.07; low‐certainty evidence). TCCMD may reduce 'any maternal health problem' (RR 0.19, 95% CI 0.04 to 0.79) and 'any newborn health problem' (RR 0.52, 95% CI 0.25 to 1.06) reported up to 10 days postpartum (low‐certainty evidence), though the CI for the latter includes benefit and harm. The effect on health service use is unknown due to a lack of studies. 
+TCCMD versus digital non‐targeted communication 
+No studies reported behavioural, health, or well‐being outcomes for this comparison. For use of health services, there are uncertain effects for the presence of a skilled attendant at birth due to very low‐certainty evidence, and the intervention may make little or no difference to attendance for antenatal influenza vaccination (RR 1.05, 95% CI 0.71 to 1.58), though the CI encompasses both benefit and harm (low‐certainty evidence). 

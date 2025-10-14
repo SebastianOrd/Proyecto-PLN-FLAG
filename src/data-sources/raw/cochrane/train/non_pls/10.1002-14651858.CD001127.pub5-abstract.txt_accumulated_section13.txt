@@ -1,0 +1,13 @@
+Background
+Dornase alfa is currently used as a mucolytic to treat pulmonary disease (the major cause of morbidity and mortality) in cystic fibrosis. It reduces mucus viscosity in the lungs, promoting improved clearance of secretions. This is an update of a previously published review. 
+Objectives
+To determine whether the use of dornase alfa in cystic fibrosis is associated with improved mortality and morbidity compared to placebo or other medications that improve airway clearance, and to identify any adverse events associated with its use. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register which comprises references identified from comprehensive electronic database searches, handsearching relevant journals and abstracts from conferences. Date of the most recent search of the Group's Cystic Fibrosis Register: 12 October 2020. 
+Clinicaltrials.gov and the International Clinical Trials Registry Platform were also searched to identify unpublished or ongoing trials. Date of most recent search: 08 February 2021. 
+Selection criteria
+All randomised and quasi‐randomised controlled trials comparing dornase alfa to placebo, standard therapy or other medications that improve airway clearance. 
+Data collection and analysis
+Authors independently assessed trials against the inclusion criteria; two authors carried out analysis of methodological quality and data extraction. GRADE was used to assess the level of evidence. 
+Main results
+The searches identified 74 trials, of which 19 (2565 participants) met our inclusion criteria. 15 trials compared dornase alfa to placebo or no dornase alfa (2447 participants); two compared daily dornase to hypertonic saline (32 participants); one compared daily dornase alfa to hypertonic saline and alternate day dornase alfa (48 participants); one compared dornase alfa to mannitol and the combination of both drugs (38 participants). Trial duration varied from six days to three years. 

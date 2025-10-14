@@ -1,0 +1,10 @@
+Background
+Functional Abdominal Pain Disorders (FAPDs) present a considerable burden to paediatric patients, impacting quality of life, school attendance and causing higher rates of anxiety and depression disorders. There are no international guidelines for the management of this condition. A previous Cochrane Review in 2011 found no evidence to support the use of antidepressants in this context. 
+Objectives
+To evaluate the current evidence for the efficacy and safety of antidepressants for FAPDs in children and adolescents. 
+Search methods
+In this updated review, we searched The Cochrane Library, PubMed, MEDLINE, EMBASE, PsycINFO and two clinical trial registers from inception until February 3th, 2020. We also updated our search of databases of ongoing research, reference lists and 'grey literature' from inception to February 3th, 2020. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing antidepressants to placebo, to no treatment or to any other intervention, in children aged 4 to 18 years with a FAPD diagnosis as per the Rome or any other defined criteria (as defined by the authors). The primary outcomes of interest included treatment success (as defined by the authors), pain severity, pain frequency and withdrawal due to adverse events. 
+Data collection and analysis
+All citations were reviewed independently by two authors, with disagreement solved with a third‐party arbiter. All potential studies had full texts reviewed, and once again, independent decisions made, with disagreement solved by consensus. Data extraction and risk of bias assessment was completed independently following Cochrane standards. Where homogenous data was available, meta‐analysis was performed using a random effects model. GRADE assessement of the certainty of the evidence was performed. 

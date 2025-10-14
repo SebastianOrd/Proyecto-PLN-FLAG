@@ -1,0 +1,12 @@
+Background
+Chlorpromazine is an aliphatic phenothiazine, which is one of the widely‐used typical antipsychotic drugs. Chlorpromazine is reliable for its efficacy and one of the most tested first generation antipsychotic drugs. It has been used as a ‘gold standard’ to compare the efficacy of older and newer antipsychotic drugs. Expensive new generation drugs are heavily marketed worldwide as a better treatment for schizophrenia, but this may not be the case and an unnecessary drain on very limited resources. 
+Objectives
+To compare the effects of chlorpromazine with atypical or second generation antipsychotic drugs, for the treatment of people with schizophrenia. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Trials Register up to 23 September 2013. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared chlorpromazine with any other atypical antipsychotic drugs for treating people with schizophrenia. Adults (as defined in each trial) diagnosed with schizophrenia, including schizophreniform, schizoaffective and delusional disorders were included in this review. 
+Data collection and analysis
+At least two review authors independently screened the articles identified in the literature search against the inclusion criteria and extracted data from included trials. For homogeneous dichotomous data, we calculated the risk ratio (RR) and the 95% confidence intervals (CIs). For continuous data, we determined the mean difference (MD) values and 95% CIs. We assessed the risk of bias in included studies and rated the quality of the evidence using the GRADE approach. 
+Main results
+This review includes 71 studies comparing chlorpromazine to olanzapine, risperidone or quetiapine. None of the included trials reported any data on economic costs. 

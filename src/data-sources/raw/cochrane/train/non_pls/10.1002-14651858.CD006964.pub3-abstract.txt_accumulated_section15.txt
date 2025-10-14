@@ -1,0 +1,15 @@
+Background
+Knowledge of contraceptive effectiveness is crucial to making an informed choice. The consumer has to comprehend the pros and cons of the contraceptive methods being considered. Choice may be influenced by understanding the likelihood of pregnancy with each method and factors that influence effectiveness. 
+Objectives
+To review all randomized controlled trials comparing strategies for communicating to consumers the effectiveness of contraceptives in preventing pregnancy. 
+Search methods
+Through February 2013, we searched the computerized databases of MEDLINE, POPLINE, CENTRAL, PsycINFO and CINAHL, ClinicalTrials.gov, and ICTRP. Previous searches also included EMBASE. We also examined references lists of relevant articles. For the initial review, we wrote to known investigators for information about other published or unpublished trials. 
+Selection criteria
+We included randomized controlled trials that compared methods for communicating contraceptive effectiveness to consumers. The comparison could be usual practice or an alternative to the experimental intervention. 
+Outcome measures were knowledge of contraceptive effectiveness, attitude about contraception or toward any particular contraceptive, and choice or use of contraceptive method. 
+Data collection and analysis
+For the initial review, two authors independently extracted the data. One author entered the data into RevMan, and a second author verified accuracy. For the update, an author and a research associate extracted, entered, and checked the data. 
+For dichotomous variables, we calculated the Mantel‐Haenszel odds ratio with 95% confidence intervals (CI). For continuous variables, we computed the mean difference (MD) with 95% CI. 
+Main results
+Seven trials met the inclusion criteria and had a total of 4526 women. Five were multi‐site studies. Four trials were conducted in the USA, while Nigeria and Zambia were represented by one study each, and one trial was done in both Jamaica and India. 
+Two trials provided multiple sessions for participants. In one study that examined contraceptive choice, women in the expanded program were more likely to choose sterilization (OR 4.26; 95% CI 2.46 to 7.37) or use a modern contraceptive method (OR 2.35; 95% CI 1.82 to 3.03), i.e., sterilization, pills, injectable, intrauterine device or barrier method. For the other study, the groups received educational interventions with differing format and intensity. Both groups reportedly had increases in contraceptive use, but they did not differ significantly by six months in consistent use of an effective contraceptive, i.e., sterilization, IUD, injectable, implant, and consistent use of oral contraceptives, diaphragm, or male condoms. 

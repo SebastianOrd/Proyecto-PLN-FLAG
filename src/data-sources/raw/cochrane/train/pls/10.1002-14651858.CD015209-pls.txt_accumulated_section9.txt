@@ -1,0 +1,9 @@
+Are systemic Janus kinase inhibitors an effective treatment for people with COVID‐19?
+Key messages 
+We found moderate‐ to high‐certainty evidence from 6 studies to conclude that systemic Janus kinase (JAK) inhibitors are an effective treatment for coronavirus disease 2019 (COVID‐19) in hospitalised people, because they resulted in fewer deaths and a lower rate of clinical deterioration. Evaluation of systemic JAK inhibitors is ongoing in 13 studies whilst the results of 9 further studies are awaiting publication. We will update this review and may adapt our conclusions when their results become available. 
+What are JAK inhibitors? 
+JAK inhibitors are medicines that block the activity of certain parts of the immune system that are sometimes problematic. They are taken orally (systemic) and usually are taken by people who suffer from autoimmune diseases, where the immune system attacks the body itself. JAK inhibitors might also be administered by inhalation but since this was not our focus, we refer to 'systemic JAK inhibitors' throughout the review. 
+How might JAK inhibitors treat COVID‐19? 
+In COVID‐19, the immune system sometimes overreacts, which can lead to a severe course of disease. JAK inhibitors can block parts of the immune system and counteract any clinical deteriorations. 
+What did we want to find out? 
+We wanted to know whether systemic JAK inhibitors, in addition to usual care, are effective for people with COVID‐19 when compared to usual care with or without a placebo (a treatment that looks and tastes the same as the study drug but with no active ingredient), and whether they cause unwanted effects. We were particularly interested in:• number of deaths from any cause up to 60 days after treatment, or longer if reported;• whether people got better or worse after treatment, based on their need for breathing support;• unwanted effects of the treatment and infections acquired in hospital. 

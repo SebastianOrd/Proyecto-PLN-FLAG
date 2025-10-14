@@ -1,0 +1,12 @@
+Background
+Intrahepatic cholestasis of pregnancy (ICP) is a liver disorder that can develop in pregnancy. It occurs when there is a build‐up of bile acids in the maternal blood. It has been linked to adverse maternal and fetal/neonatal outcomes. As the pathophysiology is poorly understood, therapies have been largely empiric. As ICP is an uncommon condition (incidence less than 2% a year), many trials have been small. Synthesis, including recent larger trials, will provide more evidence to guide clinical practice. This review is an update of a review first published in 2001 and last updated in 2013. 
+Objectives
+To assess the effects of pharmacological interventions to treat women with intrahepatic cholestasis of pregnancy, on maternal, fetal and neonatal outcomes. 
+Search methods
+For this update, we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (13 December 2019), and reference lists of retrieved studies. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials, including cluster‐randomised trials and trials published in abstract form only, that compared any drug with placebo or no treatment, or two drug intervention strategies, for women with a clinical diagnosis of intrahepatic cholestasis of pregnancy. 
+Data collection and analysis
+The review authors independently assessed trials for eligibility and risks of bias. We independently extracted data and checked these for accuracy. We assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We included 26 trials involving 2007 women. They were mostly at unclear to high risk of bias. They assessed nine different pharmacological interventions, resulting in 14 different comparisons. We judged two placebo‐controlled trials of ursodeoxycholic acid (UDCA) in 715 women to be at low risk of bias. 

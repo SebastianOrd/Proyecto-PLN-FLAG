@@ -1,0 +1,14 @@
+Background
+Progesterone prepares the endometrium for pregnancy by stimulating proliferation in response to human chorionic gonadotropin (hCG) produced by the corpus luteum in the luteal phase of the menstrual cycle. In assisted reproduction techniques (ART), progesterone and/or hCG levels are low, so the luteal phase is supported with progesterone, hCG or gonadotropin‐releasing hormone (GnRH) agonists to improve implantation and pregnancy rates. 
+Objectives
+To determine the relative effectiveness and safety of methods of luteal phase support provided to subfertile women undergoing assisted reproduction. 
+Search methods
+We searched databases including the Cochrane Menstrual Disorders and Subfertility Group (MDSG) Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, PsycINFO and trial registers up to November 2014. Further searches were undertaken in August 2015. 
+Selection criteria
+Randomised controlled trials (RCTs) of luteal phase support using progesterone, hCG or GnRH agonist supplementation in ART cycles. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Our primary outcome was live birth or ongoing pregnancy. The overall quality of the evidence was assessed using GRADE methods. 
+Main results
+Ninety‐four RCTs (26,198 women) were included. Most studies had unclear or high risk of bias in most domains. The main limitations in the evidence were poor reporting of study methods and imprecision due to small sample sizes. 
+1. hCG vs placebo/no treatment (five RCTs, 746 women) 
+Findings suggested benefit for the hCG group in live birth or ongoing pregnancy rates when data were analysed with a fixed‐effect model (OR 1.76, 95% CI 1.08 to 2.86, three RCTs, 527 women, I2 = 24%, very low‐quality evidence) but there was no clear evidence of a difference using a random‐effects model (OR 1.67, 95% CI 0.90 to 3.12). hCG may increase ovarian hyperstimulation syndrome (OHSS) rates (OR 4.28, 95% CI 1.91 to 9.6, one RCT, 387 women, low‐quality evidence). 

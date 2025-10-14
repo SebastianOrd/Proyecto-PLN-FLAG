@@ -1,0 +1,10 @@
+Background
+Hepatic encephalopathy is a common complication of cirrhosis which results in poor brain functioning. The spectrum of changes associated with hepatic encephalopathy ranges from the clinically 'indiscernible' or minimal hepatic encephalopathy to the clinically 'obvious' or overt hepatic encephalopathy. Flumazenil is a synthetic benzodiazepine antagonist with high affinity for the central benzodiazepine recognition site. Flumazenil may benefit people with hepatic encephalopathy through an indirect negative allosteric modulatory effect on gamma‐aminobutyric acid receptor function. The previous version of this review, which included 13 randomised clinical trials, found no effect of flumazenil on all‐cause mortality, based on an analysis of 10 randomised clinical trials, but found a beneficial effect on hepatic encephalopathy, based on an analysis of eight randomised clinical trials. 
+Objectives
+To evaluate the beneficial and harmful effects of flumazenil versus placebo or no intervention for people with cirrhosis and hepatic encephalopathy. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, CENTRAL, MEDLINE, Embase, Science Citation Index Expanded, and LILACS; meeting and conference proceedings; and bibliographies in May 2017. 
+Selection criteria
+We included randomised clinical trials regardless of publication status, blinding, or language in the analyses of benefits and harms, and observational studies in the assessment of harms. 
+Data collection and analysis
+Two review authors extracted data independently. We undertook meta‐analyses and presented results using risk ratios (RR) with 95% confidence intervals (CI) and I2 values as a marker of heterogeneity. We assessed bias control using the Cochrane Hepato‐Biliary Group domains; determined the quality of the evidence using GRADE; evaluated the risk of small‐study effects in regression analyses; and conducted trial sequential, subgroup, and sensitivity analyses. 

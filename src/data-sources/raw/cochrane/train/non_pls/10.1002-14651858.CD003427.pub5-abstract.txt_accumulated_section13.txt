@@ -1,0 +1,13 @@
+Background
+Sickle cell disease (SCD) is a group of inherited disorders that result in haemoglobin abnormalities and other complications. Injury to the spleen, among other factors, contribute to persons with SCD being particularly susceptible to infection. Infants and very young children are especially vulnerable. The 'Co‐operative Study of Sickle Cell Disease' observed an incidence rate for pneumococcal septicaemia of 10 per 100 person‐years in children under the age of three years. Vaccines, including customary pneumococcal vaccines, may be of limited use in this age group. Therefore, prophylactic penicillin regimens may be advisable for this population. This is an update of a Cochrane Review which was first published in 2002, and previously updated, most recently in 2017.  
+Objectives
+To compare the effects of antibiotic prophylaxis against pneumococcus in children with SCD receiving antibiotic prophylaxis compared to those without in relation to: 
+1. incidence of Streptococcus pneumoniae infection; 
+2. mortality (as reported in the included studies);
+3. drug‐related adverse events (as reported in the included studies) to the individual and the community; 
+4. the impact of discontinuing at various ages on incidence of infection and mortality.
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Haemoglobinopathies Trials Register, which is comprised of references identified from comprehensive electronic database searches and also two clinical trials registries: ClinicalTrials.gov and the WHO International Registry Platform (not in 2020 given access issues relating to Covid‐19 pandemic). Additionally, we carried out hand searching of relevant journals and abstract books of conference proceedings. 
+Date of the most recent search: 25 January 2021.
+Selection criteria
+All randomised or quasi‐randomised controlled trials comparing prophylactic antibiotics to prevent pneumococcal infection in children with SCD with placebo, no treatment or a comparator drug. 

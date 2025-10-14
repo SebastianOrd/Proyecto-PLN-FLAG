@@ -1,0 +1,13 @@
+Background
+Haemoglobinopathies, inherited disorders of haemoglobin synthesis (thalassaemia) or structure (sickle cell disease), are responsible for significant morbidity and mortality throughout the world. The WHO estimates that, globally, 5% of adults are carriers of a haemoglobin condition, 2.9% are carriers of thalassaemia and 2.3% are carriers of sickle cell disease. Carriers are found worldwide as a result of migration of various ethnic groups to different regions of the world. Zinc is an easily available supplement and intervention programs have been carried out to prevent deficiency in people with thalassaemia or sickle cell anaemia. It is important to evaluate the role of zinc supplementation in the treatment of thalassaemia and sickle cell anaemia to reduce deaths due to complications. 
+Objectives
+To assess the effect of zinc supplementation in the treatment of thalassaemia and sickle cell disease. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group's Haemoglobinopathies Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. 
+Date of most recent search: 01 February 2013.
+Selection criteria
+Randomised, placebo‐controlled trials of zinc supplements for treating thalassaemia or sickle cell disease administered at least once a week for at least a month. 
+Data collection and analysis
+Two review authors assessed the eligibility and risk of bias of the included trials, extracted and analysed data and wrote the review. We summarised results using risk ratios or rate ratios for dichotomous data and mean differences for continuous data. We combined trial results where appropriate. 
+Main results
+We identified nine trials for inclusion with all nine contributing outcome data. Two trials reported on people with thalassaemia (n = 152) and seven on sickle cell anaemia (n = 307). 

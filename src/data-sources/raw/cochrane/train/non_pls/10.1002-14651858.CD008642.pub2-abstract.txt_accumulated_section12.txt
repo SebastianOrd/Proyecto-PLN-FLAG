@@ -1,0 +1,12 @@
+Background
+Chinese herbal medicine (CHM) has been increasingly used for atopic eczema. A previous version of this Cochrane review published in 2004 found some evidence of a possible benefit for oral ingestion of CHM for eczema, but the results were inconclusive and the evidence needs to be updated. We have expanded the scope of this review to include an assessment of the topical and oral effects of CHM for eczema. 
+Objectives
+To assess the effects of oral ingestion and topical applications of CHM for the management of eczema in children and adults. 
+Search methods
+We searched the following databases up to September 2012: the Cochrane Skin Group Specialised Register, CENTRAL in The Cochrane Library (2012, Issue 8), MEDLINE (from 1946), EMBASE (from 1974), AMED (from 1985), LILACS (from 1982), and CINAHL (from 1981). We searched the following from inception: SCOPUS, HERBMED, ProQuest, CQVIP, CNKI, and Wanfang Data. We also searched trials registers, handsearched conference proceedings, checked the reference lists of all included and excluded studies and review articles for further references to relevant trials, and contacted experts in Chinese medicine for unpublished studies. 
+Selection criteria
+All randomised controlled trials (RCTs) in children and adults with eczema comparing CHM to placebo; no intervention; active controls, including acupuncture; or conventional medicines. 
+Data collection and analysis
+Two authors selected the RCTs, extracted data, and assessed quality independently. We contacted study authors for missing data. We collected adverse events from the included studies. 
+Main results
+We included 28 studies, with a total of 2306 participants. We assessed most of the studies at high 'risk of bias', particularly in blinding of participants and personnel, and there was substantial inconsistency between studies, so any positive effect of CHM must be treated with caution. We did not include the four studies from the previous version in this review, because they investigated a CHM product that has been withdrawn from the market since 2004. 

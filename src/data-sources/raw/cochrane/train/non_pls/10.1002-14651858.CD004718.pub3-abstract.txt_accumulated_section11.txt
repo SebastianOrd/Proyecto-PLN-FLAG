@@ -1,0 +1,11 @@
+Background
+Proponents of early intervention have argued that outcomes might be improved if more therapeutic efforts were focused on the early stages of schizophrenia or on people with prodromal symptoms. Early intervention in schizophrenia has two elements that are distinct from standard care: early detection, and phase‐specific treatment (phase‐specific treatment is a psychological, social or physical treatment developed, or modified, specifically for use with people at an early stage of the illness). 
+Early detection and phase‐specific treatment may both be offered as supplements to standard care, or may be provided through a specialised early intervention team. Early intervention is now well established as a therapeutic approach in America, Europe and Australasia. 
+Objectives
+To evaluate the effects of: (a) early detection; (b) phase‐specific treatments; and (c) specialised early intervention teams in the treatment of people with prodromal symptoms or first‐episode psychosis. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (March 2009), inspected reference lists of all identified trials and reviews and contacted experts in the field. 
+Selection criteria
+We included all randomised controlled trials (RCTs) designed to prevent progression to psychosis in people showing prodromal symptoms, or to improve outcome for people with first‐episode psychosis. Eligible interventions, alone and in combination, included: early detection, phase‐specific treatments, and care from specialised early intervention teams. We accepted cluster‐randomised trials but excluded non‐randomised trials. 
+Data collection and analysis
+We reliably selected studies, quality rated them and extracted data. For dichotomous data, we estimated relative risks (RR), with the 95% confidence intervals (CI). Where possible, we calculated the number needed to treat/harm statistic (NNT/H) and used intention‐to‐treat analysis (ITT). 

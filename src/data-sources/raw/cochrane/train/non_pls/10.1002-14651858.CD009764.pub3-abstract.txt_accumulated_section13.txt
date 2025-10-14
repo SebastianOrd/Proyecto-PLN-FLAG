@@ -1,0 +1,13 @@
+Background
+There has been renewal of interest in the use of prophylactic antibiotics to reduce the frequency of exacerbations and improve quality of life in chronic obstructive pulmonary disease (COPD). 
+Objectives
+To determine whether or not regular (continuous, intermittent or pulsed) treatment of COPD patients with prophylactic antibiotics reduces exacerbations or affects quality of life. 
+Search methods
+We searched the Cochrane Airways Group Trials Register and bibliographies of relevant studies. The latest literature search was performed on 27 July 2018. 
+Selection criteria
+Randomised controlled trials (RCTs) that compared prophylactic antibiotics with placebo in patients with COPD. 
+Data collection and analysis
+We used the standard Cochrane methods. Two independent review authors selected studies for inclusion, extracted data, and assessed risk of bias. We resolved discrepancies by involving a third review author. 
+Main results
+We included 14 studies involving 3932 participants in this review. We identified two further studies meeting inclusion criteria but both were terminated early without providing results. All studies were published between 2001 and 2015. Nine studies were of continuous macrolide antibiotics, two studies were of intermittent antibiotic prophylaxis (three times per week) and two were of pulsed antibiotic regimens (e.g. five days every eight weeks). The final study included one continuous, one intermittent and one pulsed arm. The antibiotics investigated were azithromycin, erythromycin, clarithromycin, doxycyline, roxithromycin and moxifloxacin. The study duration varied from three months to 36 months and all used intention‐to‐treat analysis. Most of the pooled results were of moderate quality. The risk of bias of the included studies was generally low. 
+The studies recruited participants with a mean age between 65 and 72 years and mostly at least moderate‐severity COPD. Five studies only included participants with frequent exacerbations and two studies recruited participants requiring systemic steroids or antibiotics or both, or who were at the end stage of their disease and required oxygen. One study recruited participants with pulmonary hypertension secondary to COPD and a further study was specifically designed to asses whether eradication of Chlamydia pneumoniae reduced exacerbation rates. 

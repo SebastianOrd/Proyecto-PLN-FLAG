@@ -1,0 +1,10 @@
+Background
+Benign paroxsymal positional vertigo (BPPV) is a syndrome characterised by short‐lived episodes of vertigo associated with rapid changes in head position. It is a common cause of vertigo presenting to primary care and specialist otolaryngology (ENT) clinics. BPPV of the posterior canal is a specific type of BPPV for which the Epley (canalith repositioning) manoeuvre is a verified treatment. A range of modifications of the Epley manoeuvre are used in clinical practice, including post‐Epley vestibular exercises and post‐Epley postural restrictions. 
+Objectives
+To assess whether the various modifications of the Epley manoeuvre for posterior canal BPPV enhance its efficacy in clinical practice. 
+Search methods
+We searched the Cochrane ENT Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; ICTRP and additional sources for published and unpublished trials. The date of the search was 15 December 2011. 
+Selection criteria
+Randomised controlled trials of modifications of the Epley manoeuvre versus a standard Epley manoeuvre as a control in adults with posterior canal BPPV diagnosed with a positive Dix‐Hallpike test. Specific modifications sought were: application of vibration/oscillation to the mastoid region, vestibular rehabilitation exercises, additional steps in the Epley manoeuvre and post‐treatment instructions relating to movement restriction. 
+Data collection and analysis
+Two authors independently selected studies from the search results and the third author reviewed and resolved any disagreement. Two authors independently extracted data from the studies using standardised data forms. All authors independently assessed the trials for risk of bias. 

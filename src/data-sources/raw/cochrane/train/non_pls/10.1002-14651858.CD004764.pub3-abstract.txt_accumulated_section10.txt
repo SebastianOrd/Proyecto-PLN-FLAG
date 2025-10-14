@@ -1,0 +1,10 @@
+Background
+Published audits have demonstrated that corneal abrasions are a common presenting eye complaint. Eye patches are often recommended for treating corneal abrasions despite the lack of evidence for their use. This systematic review was conducted to determine the effects of the eye patch when used to treat corneal abrasions. 
+Objectives
+The objective of this review was to assess the effects of patching for corneal abrasion on healing and pain relief. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Trials Register) (2016, Issue 4), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to May 2016), EMBASE (January 1980 to May 2016), Latin American and Caribbean Health Sciences Literature Database (LILACS) (January 1982 to May 2016), System for Information on Grey Literature in Europe (OpenGrey) (January 1995 to May 2016), the ISRCTN registry (www.isrctn.com/editAdvancedSearch), ClinicalTrials.gov (www.clinicaltrials.gov) and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 9 May 2016. We also searched the reference lists of included studies, unpublished 'grey' literature and conference proceedings and contacted pharmaceutical companies for details of unpublished trials. 
+Selection criteria
+We included randomised and quasi‐randomised controlled trials that compared patching the eye with no patching to treat simple corneal abrasions. 
+Data collection and analysis
+Two authors independently assessed the risk of bias and extracted data. Investigators were contacted for further information regarding the quality of trials. The primary outcome was healing at 24, 48 and 72 hours while secondary outcomes included measures of pain, quality of life and adverse effects. We graded the certainty of the evidence using GRADE. 

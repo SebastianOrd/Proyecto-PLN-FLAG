@@ -1,0 +1,10 @@
+Background
+Locally advanced and metastatic breast cancer remains a challenge to treat. With emerging study results, it is important to interpret the available clinical data and apply the evidence offering the most effective treatment to the right patient. Poly(ADP Ribose) Polymerase (PARP) inhibitors are a new class of drug and their role in the treatment of locally advanced and metastatic breast cancer is being established. 
+Objectives
+To determine the efficacy, safety profile, and potential harms of Poly(ADP‐Ribose) Polymerase (PARP) inhibitors in the treatment of patients with locally advanced or metastatic breast cancer. The primary outcome of interest was overall survival; secondary outcomes included progression‐free survival, tumour response rate, quality of life, and adverse events. 
+Search methods
+On 8 June 2020, we searched the Cochrane Breast Cancer Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE via OvidSP, Embase via OvidSP, World Health Organization International Clinical Trials Registry Platform (WHO ICTRP) search portal and ClinicalTrials.gov. We also searched proceedings from the major oncology conferences as well as scanned reference lists from eligible publications and contacted corresponding authors of trials for further information, where needed. 
+Selection criteria
+We included randomised controlled trials on participants with locally advanced or metastatic breast cancer comparing 1) chemotherapy in combination with PARP inhibitors, compared to the same chemotherapy without PARP inhibitors or 2) treatment with PARP inhibitors, compared to treatment with other chemotherapy. We included studies that reported on our primary outcome of overall survival and secondary outcomes including progression‐free survival, tumour response rate, quality of life, and adverse events. 
+Data collection and analysis
+We used standard methodological procedures defined by Cochrane. Summary statistics for the endpoints used hazard ratios (HR) with 95% confidence intervals (CI) for overall survival and progression‐free survival, and odds ratios (OR) for response rate (RR) and toxicity. 

@@ -1,0 +1,12 @@
+Background
+Few studies examined treatments for amphetamine withdrawal, although it is a common problem among amphetamine users. Its symptoms, in particular intense craving, may be a critical factor leading to relapse to amphetamine use. In clinical practice, medications for cocaine withdrawal are commonly used to manage amphetamine withdrawal although the pharmacodynamic and pharmacokinetic properties of these two illicit substances are different. 
+Objectives
+To assess the effectiveness of pharmacological alone or in combination with psychosocial treatment for amphetamine withdrawals on discontinuation rates, global state, withdrawal symptoms, craving, and other outcomes. 
+Search methods
+MEDLINE (1966 ‐ 2008), CINAHL (1982 ‐ 2008), PsycINFO (1806 ‐ 2008), CENTRAL (Cochrane Library 2008 issue 2), references of obtained articles. 
+Selection criteria
+All randomised controlled and clinical trials evaluating pharmacological and or psychosocial treatments (alone or combined) for people with amphetamine withdrawal symptoms. 
+Data collection and analysis
+Two authors evaluated and extracted data independently. The data were extracted from intention‐to‐treat analyses. The Relative Risk (RR) with the 95% confidence interval (95% CI) was used to assess dichotomous outcomes. The Weighted Mean Difference (WMD) with 95% CI was used to assess continuous outcomes. 
+Main results
+Four randomised controlled trials (involving 125 participants) met the inclusion criteria for the review. Two studies found that amineptine significantly reduced discontinuation rates and improved overall clinical presentation, but did not reduce withdrawal symptoms or craving compared to placebo. The benefits of mirtazapine over placebo for reducing amphetamine withdrawal symptoms were not as clear.  One study suggested that mirtazapine may reduce hyperarousal and anxiety symptoms associated with amphetamine withdrawal. A more recent study failed to find any benefit of mirtazapine over placebo on retention or on amphetamine withdrawal symptoms.   

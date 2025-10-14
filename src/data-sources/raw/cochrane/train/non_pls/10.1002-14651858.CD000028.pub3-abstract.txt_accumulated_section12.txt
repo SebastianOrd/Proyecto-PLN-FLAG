@@ -1,0 +1,12 @@
+Background
+This is the second substantive update of this review. It was originally published in 1998 and was previously updated in 2009. Elevated blood pressure (known as 'hypertension') increases with age ‐ most rapidly over age 60. Systolic hypertension is more strongly associated with cardiovascular disease than is diastolic hypertension, and it occurs more commonly in older people. It is important to know the benefits and harms of antihypertensive treatment for hypertension in this age group, as well as separately for people 60 to 79 years old and people 80 years or older. 
+Objectives
+Primary objective 
+• To quantify the effects of antihypertensive drug treatment as compared with placebo or no treatment on all‐cause mortality in people 60 years and older with mild to moderate systolic or diastolic hypertension 
+Secondary objectives 
+• To quantify the effects of antihypertensive drug treatment as compared with placebo or no treatment on cardiovascular‐specific morbidity and mortality in people 60 years and older with mild to moderate systolic or diastolic hypertension 
+• To quantify the rate of withdrawal due to adverse effects of antihypertensive drug treatment as compared with placebo or no treatment in people 60 years and older with mild to moderate systolic or diastolic hypertension 
+Search methods
+The Cochrane Hypertension Information Specialist searched the following databases for randomised controlled trials up to 24 November 2017: the Cochrane Hypertension Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE Ovid (from 1946), Embase (from 1974), the World Health Organization International Clinical Trials Registry Platform, and ClinicalTrials.gov. We contacted authors of relevant papers regarding further published and unpublished work. 
+Selection criteria
+Randomised controlled trials of at least one year's duration comparing antihypertensive drug therapy versus placebo or no treatment and providing morbidity and mortality data for adult patients (≥ 60 years old) with hypertension defined as blood pressure greater than 140/90 mmHg. 

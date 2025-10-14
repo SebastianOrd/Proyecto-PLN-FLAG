@@ -1,0 +1,10 @@
+Background
+Glucocorticoids play a major role in the treatment of acute lymphoblastic leukaemia (ALL). However, supraphysiological doses can suppress the hypothalamic‐pituitary‐adrenal (HPA) axis. HPA axis suppression resulting in reduced cortisol response may cause an impaired stress response and an inadequate host defence against infection, which remain a cause of morbidity and death. Suppression commonly occurs in the first days after cessation of glucocorticoid therapy, but the exact duration is unclear. This review is the second update of a previously published Cochrane review. 
+Objectives
+To examine the occurrence and duration of HPA axis suppression after (each cycle of) glucocorticoid therapy for childhood ALL. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 11), MEDLINE/PubMed (from 1945 to December 2016), and Embase/Ovid (from 1980 to December 2016). In addition, we searched reference lists of relevant articles, conference proceedings (the International Society for Paediatric Oncology and the American Society of Clinical Oncology from 2005 up to and including 2016, and the American Society of Pediatric Hematology/Oncology from 2014 up to and including 2016), and ongoing trial databases (the International Standard Registered Clinical/Social Study Number (ISRCTN) register via http://www.controlled‐trials.com, the National Institutes of Health (NIH) register via www.clinicaltrials.gov, and the International Clinical Trials Registry Platform (ICTRP) of the World Health Organization (WHO) via apps.who.int/trialsearch) on 27 December 2016. 
+Selection criteria
+All study designs, except case reports and patient series with fewer than 10 children, examining effects of glucocorticoid therapy for childhood ALL on HPA axis function. 
+Data collection and analysis
+Two review authors independently performed study selection. One review author extracted data and assessed 'Risk of bias'; another review author checked this information. 

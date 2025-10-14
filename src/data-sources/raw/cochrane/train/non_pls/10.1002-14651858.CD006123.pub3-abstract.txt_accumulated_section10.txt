@@ -1,0 +1,10 @@
+Background
+Reduced cardiorespiratory fitness (cardiorespiratory deconditioning) is a common consequence of traumatic brain injury (TBI). Fitness training may be implemented to address this impairment. 
+Objectives
+The primary objective of this updated review was to evaluate whether fitness training improves cardiorespiratory fitness in people who have sustained a TBI. The secondary objectives were to evaluate whether fitness training improves body function and structure (physical and cognitive impairments, psychological responses resulting from the injury), activity limitations and participation restrictions in people who have sustained a TBI as well as to evaluate its safety, acceptance, feasibility and suitability. 
+Search methods
+We searched 10 electronic databases (the Cochrane Injuries Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); Embase; PubMed (MEDLINE); CINAHL; AMED; SPORTDiscus; PsycINFO; PEDro and PsycBITE) and the International Clinical Trials Registry Platform for relevant trials. In addition we screened reference lists from systematic reviews related to the topic that we identified from our search, and from the included studies, and contacted trialists to identify further studies. The search was run in August 2017. 
+Selection criteria
+Randomised controlled studies with TBI participants were eligible if they compared an exercise programme incorporating cardiorespiratory fitness training to usual care, a non‐exercise intervention, or no intervention. 
+Data collection and analysis
+Two authors independently screened the search results, extracted data and assessed bias. We contacted all trialists for additional information. We calculated mean difference (MD) or standardised mean difference (SMD) and 95% confidence intervals (CI) for continuous data, and odds ratio with 95% CI for dichotomous data. We pooled data when there were sufficient studies with homogeneity. 

@@ -1,0 +1,12 @@
+Background
+Good neurological outcome after cardiac arrest is difficult to achieve. Interventions during the resuscitation phase and treatment within the first hours after the event are critical. Experimental evidence suggests that therapeutic hypothermia is beneficial, and several clinical studies on this topic have been published. This review was originally published in 2009; updated versions were published in 2012 and 2016. 
+Objectives
+We aimed to perform a systematic review and meta‐analysis to assess the influence of therapeutic hypothermia after cardiac arrest on neurological outcome, survival and adverse events. 
+Search methods
+We searched the following databases: the Cochrane Central Register of Controlled Trials (CENTRAL; 2014, Issue 10); MEDLINE (1971 to May 2015); EMBASE (1987 to May 2015); the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (1988 to May 2015); and BIOSIS (1989 to May 2015). We contacted experts in the field to ask for information on ongoing, unpublished or published trials on this topic.The original search was performed in January 2007. 
+Selection criteria
+We included all randomized controlled trials (RCTs) conducted to assess the effectiveness of therapeutic hypothermia in participants after cardiac arrest, without language restrictions. We restricted studies to adult populations cooled by any cooling method, applied within six hours of cardiac arrest. 
+Data collection and analysis
+We entered validity measures, interventions, outcomes and additional baseline variables into a database. Meta‐analysis was performed only for a subset of comparable studies with negligible heterogeneity. We assessed the quality of the evidence by using standard methodological procedures as expected by Cochrane and incorporated the GRADE (Grades of Recommendation, Assessment, Development and Evaluation) approach. 
+Main results
+We found six RCTs (1412 participants overall) conducted to evaluate the effects of therapeutic hypothermia ‐ five on neurological outcome and survival, one on only neurological outcome. The quality of the included studies was generally moderate, and risk of bias was low in three out of six studies. When we compared conventional cooling methods versus no cooling (four trials; 437 participants), we found that participants in the conventional cooling group were more likely to reach a favourable neurological outcome (risk ratio (RR) 1.94, 95% confidence interval (CI) 1.18 to 3.21). The quality of the evidence was moderate. 

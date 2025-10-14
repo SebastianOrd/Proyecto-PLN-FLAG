@@ -1,0 +1,16 @@
+Background
+Infants born preterm are at increased risk of developing cognitive and motor impairment compared with infants born at term. Early developmental interventions have been provided in the clinical setting with the aim of improving overall functional outcomes for these infants. Long‐term benefits of these programmes remain unclear. 
+Objectives
+Primary objective   To compare the effectiveness of early developmental intervention programmes provided post hospital discharge to prevent motor or cognitive impairment in preterm (< 37 weeks) infants versus standard medical follow‐up of preterm infants at infancy (zero to < three years), preschool age (three to < five years), school age (five to < 18 years) and adulthood (≥ 18 years). 
+Secondary objectives  
+To perform subgroup analyses to determine the following.
+• Effects of gestational age, birth weight and brain injury (periventricular leukomalacia (PVL)/intraventricular haemorrhage (IVH)) on cognitive and motor outcomes when early intervention is compared with standard follow‐up. 
+ ∘ Gestational age: < 28 weeks, 28 to < 32 weeks, 32 to < 37 weeks.
+ ∘ Birth weight: < 1000 grams, 1000 to < 1500 grams, 1500 to < 2500 grams.
+ ∘ Brain injury: absence or presence of grade III or grade IV IVH or cystic PVL (or both) or an abnormal ultrasound/magnetic resonance image (MRI) before initiation of the intervention. 
+• Effects of interventions started during inpatient stay with a post‐discharge component versus standard follow‐up care. 
+• Effects of interventions focused on the parent‐infant relationship, infant development or both compared with standard follow‐up care. 
+To perform sensitivity analysis to identify the following.
+• Effects on motor and cognitive impairment when early developmental interventions are provided within high‐quality randomised trials with low risk of bias for sequence generation, allocation concealment, blinding of outcome measures and selective reporting bias. 
+Search methods
+The search strategy of the Cochrane Neonatal Review Group was used to identify randomised and quasi‐randomised controlled trials of early developmental interventions provided post hospital discharge. Two review authors independently searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE Advanced, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), PsycINFO and EMBASE (1966 to August 2015). 

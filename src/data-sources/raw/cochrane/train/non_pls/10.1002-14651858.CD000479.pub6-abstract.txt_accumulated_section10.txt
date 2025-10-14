@@ -1,0 +1,10 @@
+Background
+Varicoceles are associated with male subfertility; however, the mechanisms by which varicoceles affect fertility have yet to be satisfactorily explained. Several treatment options exist, including surgical or radiological treatment, however the safest and most efficient treatment remains unclear.  
+Objectives
+To evaluate the effectiveness and safety of surgical and radiological treatment of varicoceles on live birth rate, adverse events, pregnancy rate, varicocele recurrence, and quality of life amongst couples where the adult male has a varicocele, and the female partner of childbearing age has no fertility problems. 
+Search methods
+We searched the following databases on 4 April 2020: the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO, and CINAHL. We also searched the trial registries and reference lists of articles. 
+Selection criteria
+We included randomised controlled trials (RCTs) if they were relevant to the clinical question posed and compared different forms of surgical ligation, different forms of radiological treatments, surgical treatment compared to radiological treatment, or one of these aforementioned treatment forms compared to non‐surgical methods, delayed treatment, or no treatment. We extracted data if the studies reported on live birth, adverse events, pregnancy, varicocele recurrence, and quality of life. 
+Data collection and analysis
+Screening of abstracts and full‐text publications, alongside data extraction and 'Risk of bias' assessment, were done dually using the Covidence software. When we had sufficient data, we calculated random‐effects (Mantel‐Haenszel) meta‐analyses; otherwise, we reported results narratively. We used the I2 statistic to analyse statistical heterogeneity. We planned to use funnel plots to assess publication bias in meta‐analyses with at least 10 included studies. We dually rated the risk of bias of studies using the Cochrane 'Risk of bias' tool, and the certainty of evidence for each outcome using the GRADE approach. 

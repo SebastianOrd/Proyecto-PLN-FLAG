@@ -1,0 +1,10 @@
+Background
+Chronic non‐invasive ventilation (NIV) is increasingly being used to treat people with COPD who have respiratory failure, but the evidence supporting this treatment has been conflicting. 
+Objectives
+To assess the effects of chronic non‐invasive ventilation at home via a facial mask in people with COPD, using a pooled analysis of IPD and meta‐analysis. 
+Search methods
+We searched the Cochrane Airways Register of Trials, MEDLINE, Embase, PsycINFO, CINAHL, AMED, proceedings of respiratory conferences, clinical trial registries and bibliographies of relevant studies. We conducted the latest search on 21 December 2020. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing chronic NIV for at least five hours per night for three consecutive weeks or more (in addition to standard care) versus standard care alone, in people with COPD. Studies investigating people initiated on NIV in a stable phase and studies investigating NIV commenced after a severe COPD exacerbation were eligible, but we reported and analysed them separately. The primary outcomes were arterial blood gases, health‐related quality of life (HRQL), exercise capacity (stable COPD) and admission‐free survival (post‐exacerbation COPD). Secondary outcomes for both populations were: lung function, COPD exacerbations and admissions, and all‐cause mortality. For stable COPD, we also reported respiratory muscle strength, dyspnoea and sleep efficiency. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. After inclusion of a study, we requested the IPD. We analysed continuous and time‐to‐event data using linear‐ and cox‐regression mixed‐effect models with a random effect on study level. We analysed dichotomous IPD using generalised estimating equations. We adjusted all models for age and sex. We assessed changes in outcomes after three and 12 months.  We also conducted a meta‐analysis on aggregated trial data. 

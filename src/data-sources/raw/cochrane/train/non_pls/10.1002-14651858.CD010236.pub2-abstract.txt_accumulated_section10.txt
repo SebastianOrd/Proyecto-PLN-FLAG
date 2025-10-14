@@ -1,0 +1,10 @@
+Background
+Accumulating evidence suggests an association between prenatal exposure to antiepileptic drugs (AEDs) and increased risk of both physical anomalies and neurodevelopmental impairment. Neurodevelopmental impairment is characterised by either a specific deficit or a constellation of deficits across cognitive, motor and social skills and can be transient or continuous into adulthood. It is of paramount importance that these potential risks are identified, minimised and communicated clearly to women with epilepsy. 
+Objectives
+To assess the effects of prenatal exposure to commonly prescribed AEDs on neurodevelopmental outcomes in the child and to assess the methodological quality of the evidence. 
+Search methods
+We searched the Cochrane Epilepsy Group Specialized Register (May 2014), Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (2014, Issue 4), MEDLINE (via Ovid) (1946 to May 2014), EMBASE (May 2014), Pharmline (May 2014) and Reprotox (May 2014). No language restrictions were imposed. Conference abstracts from the last five years were reviewed along with reference lists from the included studies. 
+Selection criteria
+Prospective cohort controlled studies, cohort studies set within pregnancy registers and randomised controlled trials were selected for inclusion. Participants were women with epilepsy taking AED treatment; the two control groups were women without epilepsy and women with epilepsy who were not taking AEDs during pregnancy. 
+Data collection and analysis
+Three authors (RB, JW and JG) independently selected studies for inclusion. Data extraction and risk of bias assessments were completed by five authors (RB, JW, AS, NA, AJM). The primary outcome was global cognitive functioning. Secondary outcomes included deficits in specific cognitive domains or prevalence of neurodevelopmental disorders. Due to substantial variation in study design and outcome reporting only limited data synthesis was possible. 

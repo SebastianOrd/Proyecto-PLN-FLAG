@@ -1,0 +1,13 @@
+Background
+Early referral of patients with chronic kidney disease (CKD) is believed to help with interventions to address risk factors to slow down the rate of progression of kidney failure to end‐stage kidney disease (ESKD) and the need for dialysis, hospitalisation and mortality. 
+Objectives
+We sought to evaluate the benefits (reduced hospitalisation and mortality; increased quality of life) and harms (increased hospitalisations and mortality, decreased quality of life) of early versus late referral to specialist nephrology services in CKD patients who are progressing to ESKD and RRT. In this review, referral is defined as the time period between first nephrology evaluation and initiation of dialysis; early referral is more than one to six months, whereas late referral is less than one to six months prior to starting dialysis. All‐cause mortality and hospitalisation and quality of life were measured by the visual analogue scale and SF‐36. SF‐36 and KDQoL are validated measurement instruments for kidney diseases. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, 2012; Issue 1) which contains the Cochrane Renal Group's Specialised Register; MEDLINE (1966 to February 2012), EMBASE (1980 to February 2012). Search terms were approved by the Trial Search Co‐ordinator. 
+Selection criteria
+Randomised controlled trials (RCTs), quasi‐RCTs, prospective and retrospective longitudinal cohort studies were eligible for inclusion. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. Events relating to adverse effects were collected from the studies. 
+Main results
+No RCTs or quasi‐RCTs were identified. There were 40 longitudinal cohort studies providing data on 63,887 participants; 43,209 (68%) who were referred early and 20,678 (32%) referred late. 
+Comparative mortality was higher in patients referred to specialist services late versus those referred early. Risk ratios (RR) for mortality reductions in patients referred early were evident at three months (RR 0.61, 95% CI 0.55 to 0.67; I² = 84%) and remained at five years (RR 0.66, 95% CI 0.60 to 0.71; I² = 87%). Initial hospitalisation was 9.12 days shorter with early referral (95% CI ‐10.92 to ‐7.32 days; I² = 82%) compared to late referral. Pooled analysis showed patients referred early were more likely than late referrals to initiate RRT with peritoneal dialysis (RR 1.74, 95% CI 1.64 to 1.84; I² = 92%). 

@@ -1,0 +1,10 @@
+Background
+This review is an update of a previously published review, "Vitamin D for the management of multiple sclerosis" (published in the Cochrane Library; 2010, Issue 12). Multiple sclerosis (MS) is characterised by inflammation, demyelination, axonal or neuronal loss, and astrocytic gliosis in the central nervous system (CNS), which can result in varying levels of disability. Some studies have provided evidence showing an association of MS with low levels of vitamin D and benefit derived from its supplementation. 
+Objectives
+To evaluate the benefit and safety of vitamin D supplementation for reducing disease activity in people with MS. 
+Search methods
+We searched the Cochrane Multiple Sclerosis and Rare Diseases of the CNS Specialized Register up to 2 October 2017 through contact with the Information Specialist with search terms relevant to this review. We included references identified from comprehensive electronic database searches and from handsearches of relevant journals and abstract books from conferences. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs that compared vitamin D versus placebo, routine care, or low doses of vitamin D in patients with MS. Vitamin D was administered as monotherapy or in combination with calcium. Concomitant interventions were allowed if they were used equally in all trial intervention groups. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the methodological quality of studies, while another review author sorted any disagreements. We expressed treatment effects as mean differences (MDs) for continuous outcomes (Expanded Disability Status Scale and number of magnetic resonance imaging (MRI) gadolinium‐enhancing T1 lesions), as standardised MDs for health‐related quality of life, as rate differences for annualised relapse rates, and as risk differences (RDs) for serious adverse events and minor adverse events, together with 95% confidence intervals (CIs). 

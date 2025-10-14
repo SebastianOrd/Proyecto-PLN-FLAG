@@ -1,0 +1,10 @@
+Background
+Nonsteroidal anti‐inflammatory drugs (NSAIDs) are one of the most frequently prescribed drugs for the treatment of sciatica. A previous Cochrane review on the efficacy of NSAIDs summarised findings for acute and chronic low back pain (LBP) and sciatica. This is an update of the original review (2008) focusing on people suffering from sciatica. 
+Objectives
+To determine the efficacy of NSAIDs in pain reduction, overall improvement, and reported side effects in people with sciatica. 
+Search methods
+We performed electronic searches up to 24 June 2015 in the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, PubMed, and two trials registers. We searched reference lists of included studies and relevant reviews on the topics for additional trials. 
+Selection criteria
+We included randomised controlled trials (double‐blind, single‐blind, and open‐label) that assessed the efficacy of NSAIDs in sciatica. We included all trials that compared NSAIDs to placebo, to other NSAIDs, or to other medication. Additional interventions were allowed if there was a clear contrast for the treatment with NSAIDs in the trial. 
+Data collection and analysis
+Three review authors independently assessed the risk of bias and extracted the data. Where feasible we calculated pooled results using Review Manager 5.3. We reported pain relief outcomes using mean difference (MD) with 95% confidence intervals (95% CI). We used risk ratios (RR) with 95% CI to report global improvement of treatment, adverse effects, and additional medication. We performed a meta‐analysis if possible. We assessed level of evidence using the GRADE approach. We used standard methodological procedures recommended by The Cochrane Collaboration. 

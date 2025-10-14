@@ -1,0 +1,10 @@
+Background
+Benign prostatic hyperplasia (BPH) refers to non‐malignant enlargement of the prostate gland that may cause bothersome lower urinary tract symptoms (LUTS). Alpha‐blockers (ABs) and 5‐alpha reductase inhibitors (5‐ARIs) are the mainstay of medical treatment. Recently, phosphodiesterase inhibitors (PDEIs) that so far have been used mainly to treat erectile dysfunction were introduced to treat male LUTS. 
+Objectives
+To assess the effects of PDEIs compared to placebo and other standard of care drugs (ABs and 5‐ARIs) in men with LUTS consistent with BPH. 
+Search methods
+We conducted a systematic search of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, Web of Science, and clinical trials registries of the World Health Organization (WHO) and the National Institutes of Health (NIH) (updated 2 August 2018). We performed citation tracking and handsearching of abstracts and conference proceedings. We also contacted study authors to ask for additional information. 
+Selection criteria
+We considered for inclusion in this systematic review randomised controlled trials (RCTs) comparing PDEIs versus placebo, ABs, or 5‐ARIs for at least four weeks in men with BPH‐LUTS. 
+Data collection and analysis
+Three review authors independently screened the literature and extracted data. Primary outcomes were effects on urinary symptoms as assessed by the International Prostate Symptom Score (IPSS‐total; score ranging from 0 to 35, with higher values reflecting more symptoms), urinary bother as assessed by the Benign Prostatic Hyperplasia Impact Index (BPHII; score ranging from 0 to 13, with higher values reflecting more bother), and adverse events (AEs). We used GRADE to rate the quality of evidence. We considered short‐term (up to 12 weeks) and long‐term (12 weeks or longer) results separately. 

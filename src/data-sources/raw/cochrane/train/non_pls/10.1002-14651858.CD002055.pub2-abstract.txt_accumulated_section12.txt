@@ -1,0 +1,12 @@
+Background
+Reduced perfusion of organs such as the brain, heart, kidneys and the gastrointestinal tract may lead to acute dysfunction and be associated with permanent injury. Various strategies have been used to provide cardiovascular support to preterm infants including inotropes, corticosteroids and volume expansion. 
+Objectives
+To determine the effect of early volume expansion on morbidity and mortality in very preterm infants. If volume expansion is effective, to determine the type of volume expansion that is most effective. 
+Search methods
+The standard search strategy of the Neonatal Review Group was used. Updated searches were performed of the Cochrane Central Register of Controlled Trials (Issue 3, 2008), MEDLINE (1996 ‐ July 2008), EMBASE (1980 ‐ July 2008), previous reviews including cross references, abstracts and conferences. 
+Selection criteria
+Randomised trials of early volume expansion with normal saline, fresh frozen plasma, albumin, plasma substitutes or blood compared to no treatment or another form of volume expansion in preterm infants ≦ 32 weeks gestation or ≦ 1500 g were included. Volume expansion was defined as at least 10 ml/kg given in the first 72 hours after birth. 
+Data collection and analysis
+Standard methods of the Neonatal Review Group with use of relative risk (RR), risk difference (RD) and weighted mean difference (WMD). The fixed effects model was used for meta‐analysis. Data from individual studies were only eligible for inclusion if a least 80% of infants were reported for that outcome. 
+Main results
+Eight studies were included. Five studies compared volume to no treatment. Most studies enrolled very preterm infants on the basis of gestation or birthweight. Two studies comparing different types of volume expansion enrolled very preterm infants with hypotension. No study enrolled infants on the basis of low blood flow. One study examined the effect of volume expansion on blood flow, but evaluated normotensive very preterm infants. 

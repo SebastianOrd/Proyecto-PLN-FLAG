@@ -1,0 +1,13 @@
+Background
+This review supersedes the original Cochrane review first published in 2008 (Huertas‐Ceballos 2008). 
+Between 4% and 25% of school‐aged children complain of recurrent abdominal pain (RAP) severe enough to interfere with their daily activities. No organic cause for this pain can be found on physical examination or investigation for the majority of such children. Although many children are managed by reassurance and simple measures, a large range of psychosocial interventions involving cognitive and behavioural components have been recommended. 
+Objectives
+To determine the effectiveness of psychosocial interventions for reducing pain in school‐aged children with RAP. 
+Search methods
+In June 2016 we searched CENTRAL, MEDLINE, Embase, eight other databases, and two trials registers. We also searched the references of identified studies and relevant reviews. 
+Selection criteria
+Randomised controlled trials comparing psychosocial therapies with usual care, active control, or wait‐list control for children and adolescents (aged 5 to 18 years) with RAP or an abdominal pain‐related functional gastrointestinal disorder defined by the Rome III criteria were eligible for inclusion. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Five review authors independently selected studies, assessed them for risk of bias, and extracted relevant data. We also assessed the quality of the evidence using the GRADE approach. 
+Main results
+This review includes 18 randomised controlled trials (14 new to this version), reported in 26 papers, involving 928 children and adolescents with RAP between the ages of 6 and 18 years. The interventions were classified into four types of psychosocial therapy: cognitive behavioural therapy (CBT), hypnotherapy (including guided imagery), yoga, and written self‐disclosure. The studies were carried out in the USA, Australia, Canada, the Netherlands, Germany, and Brazil. The majority of the studies were small and short term; only two studies included more than 100 participants, and only five studies had follow‐up assessments beyond six months. Small sample sizes and the degree of assessed risk of performance and detection bias in many studies led to the overall quality of the evidence being rated as low to very low for all outcomes. 

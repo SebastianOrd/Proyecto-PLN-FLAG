@@ -1,0 +1,11 @@
+Background
+Both behavioural support (including brief advice and counselling) and pharmacotherapies (including nicotine replacement therapy (NRT), varenicline and bupropion) are effective in helping people to stop smoking. Combining both treatment approaches is recommended where possible, but the size of the treatment effect with different combinations and in different settings and populations is unclear. 
+Objectives
+To assess the effect of combining behavioural support and medication to aid smoking cessation, compared to a minimal intervention or usual care, and to identify whether there are different effects depending on characteristics of the treatment setting, intervention, population treated, or take‐up of treatment. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group Specialised Register in July 2015 for records with any mention of pharmacotherapy, including any type of NRT, bupropion, nortriptyline or varenicline. 
+Selection criteria
+Randomized or quasi‐randomized controlled trials evaluating combinations of pharmacotherapy and behavioural support for smoking cessation, compared to a control receiving usual care or brief advice or less intensive behavioural support. We excluded trials recruiting only pregnant women, trials recruiting only adolescents, and trials with less than six months follow‐up. 
+Data collection and analysis
+Search results were prescreened by one author and inclusion or exclusion of potentially relevant trials was agreed by two authors. Data was extracted by one author and checked by another. 
+The main outcome measure was abstinence from smoking after at least six months of follow‐up. We used the most rigorous definition of abstinence for each trial, and biochemically validated rates if available. We calculated the risk ratio (RR) and 95% confidence interval (CI) for each study. Where appropriate, we performed meta‐analysis using a Mantel‐Haenszel fixed‐effect model. 

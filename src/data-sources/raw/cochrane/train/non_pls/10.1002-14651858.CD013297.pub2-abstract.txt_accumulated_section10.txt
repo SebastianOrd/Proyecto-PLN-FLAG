@@ -1,0 +1,10 @@
+Background
+Epiretinal membrane is an abnormal sheet of avascular fibrocellular tissue that develops on the inner surface of the retina. Epiretinal membrane can cause impairment of sight as a consequence of progressive distortion of retinal architecture. 
+Objectives
+To determine the effects of surgery compared to no intervention for epiretinal membrane.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE Ovid, Embase Ovid, ISRCTN registry, US National Institutes of Health Ongoing Trials Register ClinicalTrials.gov, and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). There were no restrictions to language or year of publication. The databases were last searched on 20 May 2020. 
+Selection criteria
+We included randomised controlled trials (RCTs) assessing surgical removal of idiopathic epiretinal membrane compared to placebo, no treatment or sham treatment. Paired or within‐person studies were included, as well as those where both eyes of a single participant were treated. 
+Data collection and analysis
+We used standard methods expected by Cochrane, and assessed certainty using the GRADE system. We considered the following five outcome measures: mean change in best corrected visual acuity (BCVA) in the study eye between baseline (before randomisation), 6 months and 12 months later; proportion of people with a gain of 0.3 logMAR or more of visual acuity in the study eye as measured by a logMAR chart at a starting distance of 4 m at 6 months and 12 months after randomisation; proportion of people with a loss of 0.3 logMAR or more of visual acuity in the study eye as measured by a logMAR chart at a starting distance of 4 m at 6 months and 12 months after randomisation; mean quality of life score at 6 months and 12 months following surgery, measured using a validated questionnaire; and any harm identified during follow‐up. 

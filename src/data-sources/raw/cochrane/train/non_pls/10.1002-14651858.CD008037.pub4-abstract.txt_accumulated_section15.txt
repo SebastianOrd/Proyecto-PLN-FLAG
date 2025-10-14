@@ -1,0 +1,15 @@
+Background
+Cystic fibrosis is a multi‐system disease characterised by the production of thick secretions causing recurrent pulmonary infection, often with unusual bacteria. This leads to lung destruction and eventually death through respiratory failure. There are no antibiotics in development that exert a new mode of action and many of the current antibiotics are ineffective in eradicating the bacteria once chronic infection is established. Antibiotic adjuvants ‐ therapies that act by rendering the organism more susceptible to attack by antibiotics or the host immune system, by rendering it less virulent or killing it by other means, would be a significant therapeutic advance. This is an update of a previously published review. 
+Objectives
+To determine if antibiotic adjuvants improve clinical and microbiological outcome of pulmonary infection in people with cystic fibrosis. 
+Search methods
+We searched the Cystic Fibrosis Trials Register which is compiled from database searches, hand searches of appropriate journals and conference proceedings. 
+Date of most recent search: 16 January 2020.
+We also searched MEDLINE (all years) on 14 February 2019 and ongoing trials registers on 06 April 2020. 
+Selection criteria
+Randomised controlled trials and quasi‐randomised controlled trials of a therapy exerting an antibiotic adjuvant mechanism of action compared to placebo or no therapy for people with cystic fibrosis. 
+Data collection and analysis
+Two of the authors independently assessed and extracted data from identified trials.
+Main results
+We identified 42 trials of which eight (350 participants) that examined antibiotic adjuvant therapies are included. Two further trials are ongoing and five are awaiting classification. The included trials assessed β‐carotene (one trial, 24 participants), garlic (one trial, 34 participants), KB001‐A (a monoclonal antibody) (two trials, 196 participants), nitric oxide (two trials, 30 participants) and zinc supplementation (two trials, 66 participants). The zinc trials recruited children only, whereas the remaining trials recruited both adults and children. Three trials were located in Europe, one in Asia and four in the USA. 
+Three of the interventions measured our primary outcome of pulmonary exacerbations (β‐carotene, mean difference (MD) ‐8.00 (95% confidence interval (CI) ‐18.78 to 2.78); KB001‐A, risk ratio (RR) 0.25 (95% CI 0.03 to 2.40); zinc supplementation, RR 1.85 (95% CI 0.65 to 5.26). β‐carotene and KB001‐A may make little or no difference to the number of exacerbations experienced (low‐quality evidence); whereas, given the moderate‐quality evidence we found that zinc probably makes no difference to this outcome. 

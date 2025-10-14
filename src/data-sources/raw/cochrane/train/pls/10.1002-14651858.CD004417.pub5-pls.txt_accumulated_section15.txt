@@ -1,0 +1,15 @@
+Delayed antibiotic prescriptions for respiratory tract infections
+Review question 
+Does delaying antibiotic prescription compared to immediate prescription or no antibiotics decrease the number of antibiotics taken for people with respiratory tract infections (RTIs) including sore throat, middle ear infection, cough (bronchitis), and the common cold? 
+Background 
+Prescribing too many antibiotics increases the risk of adverse reactions and results in higher healthcare costs and increased antibacterial resistance. One strategy to reduce unnecessary antibiotic prescribing is to provide an antibiotic prescription, but with advice to delay filling the prescription. The prescriber assesses that immediate antibiotics are not immediately required, expecting that symptoms will resolve without antibiotics. 
+We included all RTIs regardless of whether antibiotics were indicated or not. We also evaluated antibiotic use, patient satisfaction, antibiotic resistance, reconsultation rates, and use of supplemental therapies. This is an update of a review first published in 2007 and updated in 2010, 2013, and 2017. 
+Search date 
+Evidence is current to 25th May 2017. 
+Study characteristics 
+We included 12 trials with a total of 3555 participants evaluating prescribing strategies for people with respiratory tract infections. Ten of these studies compared strategies of delaying antibiotics with immediate antibiotics. Four studies compared delayed antibiotics with no antibiotics. Of the 11 studies, five included only children (1173 participants), two included only adults (594 participants), and four included children and adults (1761 participants). The studies investigated a variety of respiratory tract infections. One study involving 405 participants was new for this update. 
+Study funding sources 
+Two studies were funded by pharmaceutical companies, two studies did not describe the funding sources, and the remaining seven studies were funded by state institutions or specialist college. 
+Key results 
+There were no differences between immediate, delayed, and no antibiotics for many symptoms including fever, pain, feeling unwell, cough, and runny nose. The only differences were small and favoured immediate antibiotics for relieving pain, fever, and runny nose for sore throat; and pain and feeling unwell for middle ear infections. Compared to no antibiotics, delayed antibiotics led to a small reduction in how long pain, fever, and cough persisted in people with colds. There was little difference in antibiotic adverse effects, and no significant difference in complications. 
+Patient satisfaction was similar for people who trialled delayed antibiotics (86% satisfied) compared to immediate antibiotics (91% satisfied), but was greater than no antibiotics (87% versus 82% satisfied). Antibiotic use was greatest in the immediate antibiotic group (93%), followed by delayed antibiotics (31%), and no antibiotics (14%). 

@@ -1,0 +1,10 @@
+Background
+Stroke is a leading cause of death and disability world wide. Thrombolysis with recombinant tissue plasminogen activator (rt‐PA) is licensed for treatment of acute ischaemic stroke in the early hours after symptom onset. It has been shown in randomised controlled trials (RCTs) and the 2009 Cochrane review of thrombolysis for acute ischaemic stroke to reduce dependency but at the increased risk of intracranial haemorrhage. Methods to reduce the risk of haemorrhage while retaining or enhancing the benefit could increase the use of thrombolytic treatment. While most available information comes from RCTs of intravenous rt‐PA at 0.9 mg/kg, it is possible that other doses, drugs and other routes of administration might increase benefit and reduce the hazard. 
+Objectives
+To assess the risks and benefits of different thrombolytic agents, doses and routes of administration for the treatment of acute ischaemic stroke. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (May 2012), MEDLINE (1966 to May 2012) and EMBASE (1980 to May 2012). We handsearched journals and conference proceedings, searched ongoing trials registers and contacted pharmaceutical companies and researchers. 
+Selection criteria
+Unconfounded randomised and quasi‐randomised trials of different doses of a thrombolytic agent, or different agents, or the same agent given by different routes, in people with confirmed acute ischaemic stroke. 
+Data collection and analysis
+Two review authors independently assessed trial eligibility and quality, and extracted the data using a structured proforma. We cross‐checked and resolved discrepancies by discussion to reach consensus. We obtained translations and additional information from study authors where required. 

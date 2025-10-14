@@ -1,0 +1,12 @@
+Background
+Women with a diagnosis of breast cancer may experience short‐ and long‐term disease and treatment‐related adverse physiological and psychosocial outcomes. These outcomes can negatively impact prognosis, health‐related quality of life (HRQoL), and psychosocial and physical function. Physical activity may help to improve prognosis and may alleviate the adverse effects of adjuvant therapy. 
+Objectives
+To assess effects of physical activity interventions after adjuvant therapy for women with breast cancer. 
+Search methods
+We searched the Cochrane Breast Cancer Group (CBCG) Specialised Registry, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), the Physiotherapy Evidence Database (PEDro), SPORTDiscus, PsycINFO, ClinicalTrials.gov, and the World Health Organization (WHO) International Clinical Trials Registry Platform, on 18 September 2015. We also searched OpenGrey and Healthcare Management Information Consortium databases. 
+Selection criteria
+We searched for randomised and quasi‐randomised trials comparing physical activity interventions versus control (e.g. usual or standard care, no physical activity, no exercise, attention control, placebo) after adjuvant therapy (i.e. after completion of chemotherapy and/or radiation therapy, but not hormone therapy) in women with breast cancer. 
+Data collection and analysis
+Two review authors independently selected studies, assessed risk of bias, and extracted data. We contacted trial authors to ask for additional information when needed. We calculated an overall effect size with 95% confidence intervals (CIs) for each outcome and used GRADE to assess the quality of evidence for the most important outcomes. 
+Main results
+We included 63 trials that randomised 5761 women to a physical activity intervention (n = 3239) or to a control (n = 2524). The duration of interventions ranged from 4 to 24 months, with most lasting 8 or 12 weeks (37 studies). Twenty‐eight studies included aerobic exercise only, 21 involved aerobic exercise and resistance training, and seven used resistance training only. Thirty studies described the comparison group as usual or standard care, no intervention, or control. One‐fifth of studies reported at least 20% intervention attrition and the average physical activity adherence was approximately 77%. 

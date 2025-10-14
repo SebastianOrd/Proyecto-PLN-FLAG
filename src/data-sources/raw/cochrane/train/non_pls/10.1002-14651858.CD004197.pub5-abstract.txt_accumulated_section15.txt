@@ -1,0 +1,15 @@
+Background
+Respiratory tract infection with Pseudomonas aeruginosa occurs in most people with cystic fibrosis. Once chronic infection is established, Pseudomonas aeruginosa is virtually impossible to eradicate and is associated with increased mortality and morbidity. Early infection may be easier to eradicate. 
+This is an update of a Cochrane review first published in 2003, and previously updated in 2006, 2009 and 2014. 
+Objectives
+To determine whether antibiotic treatment of early Pseudomonas aeruginosa infection in children and adults with cystic fibrosis eradicates the organism, delays the onset of chronic infection, and results in clinical improvement. To evaluate whether there is evidence that a particular antibiotic strategy is superior to or more cost‐effective than other strategies and to compare the adverse effects of different antibiotic strategies (including respiratory infection with other micro‐organisms). 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. 
+Most recent search: 10 October 2016.
+Selection criteria
+We included randomised controlled trials of people with cystic fibrosis, in whom Pseudomonas aeruginosa had recently been isolated from respiratory secretions. We compared combinations of inhaled, oral or intravenous antibiotics with placebo, usual treatment or other combinations of inhaled, oral or intravenous antibiotics. We excluded non‐randomised trials, cross‐over trials, and those utilising historical controls. 
+Data collection and analysis
+Both authors independently selected trials, assessed risk of bias and extracted data.
+Main results
+The search identified 60 trials; seven trials (744 participants) with a duration between 28 days and 27 months were eligible for inclusion. Three of the trials are over 10 years old and their results may be less applicable today given the changes in standard treatment. Some of the trials had low numbers of participants and most had relatively short follow‐up periods; however, there was generally a low risk of bias from missing data. In most trials it was difficult to blind participants and clinicians to treatment given the interventions and comparators used. Two trials were supported by the manufacturers of the antibiotic used. 
+Evidence from two trials (38 participants) at the two‐month time‐point showed treatment of early Pseudomonas aeruginosa infection with inhaled tobramycin results in microbiological eradication of the organism from respiratory secretions more often than placebo, odds ratio 0.15 (95% confidence interval (CI) 0.03 to 0.65) and data from one of these trials, with longer follow up, suggested that this effect may persist for up to 12 months. 

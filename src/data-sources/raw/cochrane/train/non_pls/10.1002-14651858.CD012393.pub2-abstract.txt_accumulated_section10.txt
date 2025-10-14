@@ -1,0 +1,10 @@
+Background
+Asthma exacerbations in school‐aged children peak in autumn, shortly after children return to school following the summer holiday. This might reflect a combination of risk factors, including poor treatment adherence, increased allergen and viral exposure, and altered immune tolerance. Since this peak is predictable, interventions targeting modifiable risk factors might reduce exacerbation‐associated morbidity and strain upon health resources. The peak occurs in September in the Northern Hemisphere and in February in the Southern Hemisphere. 
+Objectives
+To assess the effects of pharmacotherapy and behavioural interventions enacted in anticipation of school return during autumn that are designed to reduce asthma exacerbations in children during this period. 
+Search methods
+We searched the Cochrane Airways Group Trials Register, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform, reference lists of primary studies and existing reviews, and manufacturers’ trial registries (Merck, Novartis and Ono Parmaceuticals). We searched databases from their inception to 1 December 2017, and imposed no restriction on language of publication. 
+Selection criteria
+We included all randomised controlled trials comparing interventions aimed specifically at reducing autumn exacerbations with usual care, (no systematic change in management in preparation for school return). We included studies providing data on children aged 18 years or younger. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Two review authors independently screened records identified by the search and then extracted data and assessed bias for trials meeting the inclusion criteria. A third review author checked for accuracy and mediated consensus on disagreements. The primary outcome was proportion of children experiencing one or more asthma exacerbations requiring hospitalisation or oral corticosteroids during the autumn period. 

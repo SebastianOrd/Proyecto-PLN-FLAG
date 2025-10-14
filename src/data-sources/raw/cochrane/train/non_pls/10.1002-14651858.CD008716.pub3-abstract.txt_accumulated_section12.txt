@@ -1,0 +1,12 @@
+Background
+Hepatic encephalopathy is a disorder of brain function as a result of liver failure or portosystemic shunt or both. Both hepatic encephalopathy (clinically overt) and minimal hepatic encephalopathy (not clinically overt) significantly impair patient’s quality of life and daily functioning, and represent a significant burden on healthcare resources. Probiotics are live micro‐organisms, which when administered in adequate amounts, may confer a health benefit on the host. 
+Objectives
+To determine the beneficial and harmful effects of probiotics in any dosage, compared with placebo or no intervention, or with any other treatment for people with any grade of acute or chronic hepatic encephalopathy. This review did not consider the primary prophylaxis of hepatic encephalopathy. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, CENTRAL, MEDLINE, Embase, Science Citation Index Expanded, conference proceedings, reference lists of included trials, and the World Health Organization International Clinical Trials Registry Platform until June 2016. 
+Selection criteria
+We included randomised clinical trials that compared probiotics in any dosage with placebo or no intervention, or with any other treatment in people with hepatic encephalopathy. 
+Data collection and analysis
+We used standard methodological procedures expected by The Cochrane Collaboration. We conducted random‐effects model meta‐analysis due to obvious heterogeneity of participants and interventions. We defined a P value of 0.05 or less as significant. We expressed dichotomous outcomes as risk ratio (RR) and continuous outcomes as mean difference (MD) with 95% confidence intervals (CI). 
+Main results
+We included 21 trials with 1420 participants, of these, 14 were new trials. Fourteen trials compared a probiotic with placebo or no treatment, and seven trials compared a probiotic with lactulose. The trials used a variety of probiotics; the most commonly used group of probiotic was VSL#3, a proprietary name for a group of eight probiotics. Duration of administration ranged from 10 days to 180 days. Eight trials declared their funding source, of which six were independently funded and two were industry funded. The remaining 13 trials did not disclose their funding source. We classified 19 of the 21 trials at high risk of bias. 

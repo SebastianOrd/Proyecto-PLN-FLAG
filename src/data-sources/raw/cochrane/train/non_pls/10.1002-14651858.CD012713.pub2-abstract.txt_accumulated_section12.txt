@@ -1,0 +1,12 @@
+Background
+Crimean Congo haemorrhagic fever (CCHF) is a tick‐borne disease that occurs in parts of Asia, Europe and Africa. Since 2000 the infection has caused epidemics in Turkey, Iran, Russia, Uganda and Pakistan. Good‐quality general supportive medical care helps reduce mortality. There is uncertainty and controversy about treating CCHF with the antiviral drug ribavirin. 
+Objectives
+To assess the effects of ribavirin for treating people with Crimean Congo haemorrhagic fever. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; the Central Register of Controlled Trials (CENTRAL); MEDLINE (PubMed); Embase (OVID); Science Citation Index‐Expanded, Social Sciences Citation index, conference proceedings (Web of Science); and CINAHL (EBSCOHost). We also searched the WHO International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov for trials in progress. We conducted all searches up to 16 October 2017. We also contacted experts in the field and obtained further studies from these sources. 
+Selection criteria
+We evaluated studies assessing the use of ribavirin in people with suspected or confirmed Crimean Congo haemorrhagic fever. We included randomised control trials (RCTs); non‐randomised studies (NRSs) that included more than 10 participants designed as cohort studies with comparators; and case‐control studies. 
+Data collection and analysis
+Two review authors assessed eligibility, risk of bias, and extracted data. For non‐randomized studies we used the ROBINS‐I tool to assess risk of bias. The main effects analysis included all studies where we judged the risk of bias to be low, moderate or high. We summarized dichotomous outcomes using risk ratios (RRs) and continuous outcomes using mean differences (MDs), and used meta‐analyses where appropriate. We carried out a subsidiary appraisal and analysis of studies with critical risk of bias for the primary outcome, as these are often cited to support using ribavirin. 
+Main results
+For the main effects analysis, five studies met our inclusion criteria: one RCT with 136 participants and four non‐randomized studies with 612 participants. We excluded 18 non‐randomized studies with critical risk of bias, where none had attempted to control for confounding. 

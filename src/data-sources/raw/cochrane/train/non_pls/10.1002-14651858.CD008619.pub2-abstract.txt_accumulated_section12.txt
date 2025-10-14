@@ -1,0 +1,12 @@
+Background
+Morita therapy, first proposed in 1919, is a systematic psychological therapy for anxiety disorders that is based on eastern philosophy. It is mainly used as an alternative therapy for anxiety disorders in Asian countries such as Japan and China. Varying foci of treatment outcomes have been reported. To date, there has been no systematic review to investigate the strength of evidence for Morita therapy in anxiety disorders. 
+Objectives
+To assess the effects of Morita therapy compared with pharmacological therapy, other psychological therapy, no intervention or wait list for anxiety disorders in adults. 
+Search methods
+We searched The Cochrane Collaboration Depression, Anxiety and Neurosis Group's Specialised Register (CCDANCTR, which includes relevant randomised controlled trials from MEDLINE (1950 to date), EMBASE (1974 to date) and PsycINFO (1967 to date)), Dissertation Abstracts International (DAI) and four main Chinese medical databases (Chongqing VIP Database, Wanfang Database, China Hospital Knowledge Database, China Biology Medicine disc) as described in the protocol of this review to December 2014. Furthermore, we extended our search in the Cochrane Central Register of Controlled Trials (CENTRAL) and the World Health Organization International Clinical Trials Registry Platform (ICTRP) and the Sagace, a web‐based search engine for biomedical databases in Japan. We applied no date or language restrictions. We contacted experts in the field for supplemental data. 
+Selection criteria
+We included all relevant randomised controlled trials comparing Morita therapy with any other treatment in the treatment of anxiety disorders. 
+Data collection and analysis
+Two authors independently selected studies and extracted data. For homogenous dichotomous data, we calculated fixed‐effect risk ratios (RR), 95% confidence intervals (CI) and, where appropriate, numbers needed to treat for an additional beneficial outcome (NNTB) on an intention‐to‐treat basis. For continuous data, we calculated fixed‐effect standardised mean differences (SMD) and 95% CI. 
+Main results
+We found seven small Chinese studies (449 participants), six of which provided useable data for meta‐analysis. No study compared Morita therapy with an inactive control. Unclear randomisation methods, lack of blinding and low quality reporting of outcomes were common in the included studies. We graded the overall risk of bias as high and the quality of the evidence as very low. 

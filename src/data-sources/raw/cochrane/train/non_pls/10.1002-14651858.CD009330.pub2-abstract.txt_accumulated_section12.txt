@@ -1,0 +1,12 @@
+Background
+A blood transfusion is an acute intervention, used to address life‐ and health‐threatening conditions on a short‐term basis. Packed red blood cells are most often used for blood transfusion. Sometimes blood is transfused after prolonged storage but there is continuing debate as to whether transfusion of 'older' blood is as beneficial as transfusion of 'fresher' blood. 
+Objectives
+To assess the clinical benefits and harms of prolonged storage of packed red blood cells, in comparison with fresh, on recipients of blood transfusion. 
+Search methods
+We ran the search on 1st May 2014. We searched the Cochrane Injuries Group Specialized Register, Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), MEDLINE (OvidSP), Embase (OvidSP), CINAHL (EBSCO Host) and two other databases. We also searched clinical trials registers and screened reference lists of the retrieved publications and reviews. We updated this search in June 2015 but these results have not yet been incorporated. 
+Selection criteria
+Randomised clinical trials including participants assessed as requiring red blood cell transfusion were eligible for inclusion. Prolonged storage was defined as red blood cells stored for ≥ 21 days in a blood bank. We did not apply limits regarding the duration of follow‐up, or country where the study took place. We excluded trials where patients received a combination of short‐ and long‐stored blood products, and also trials without a clear definition of prolonged storage. 
+Data collection and analysis
+We independently performed study selection, risk of bias assessment and data extraction by at least two review authors. The major outcomes were death from any cause, transfusion‐related acute lung injury, and adverse events. We estimated relative risk for dichotomous outcomes. We measured statistical heterogeneity using I2. We used a random‐effects model to synthesise the findings. 
+Main results
+We identified three randomised clinical trials, involving a total of 120 participants, comparing packed red blood cells with ≥ 21 days storage ('prolonged' or 'older') versus packed red blood cells with < 21 days storage ('fresh'). We pooled data to assess the effect of prolonged storage on death from any cause. The confidence in the results from these trials was very low, due to the bias in their design and their limited sample sizes. 

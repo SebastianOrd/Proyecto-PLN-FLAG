@@ -1,0 +1,13 @@
+Background
+Obstructive sleep apnoea (OSA) is a syndrome characterised by episodes of apnoea (complete cessation of breathing) or hypopnoea (insufficient breathing) during sleep. Classical symptoms of the disease — such as snoring, unsatisfactory rest and daytime sleepiness — are experienced mainly by men; women report more unspecific symptoms such as low energy or fatigue, tiredness, initial insomnia and morning headaches. OSA is associated with an increased risk of occupational injuries, metabolic diseases, cardiovascular diseases, mortality, and being involved in traffic accidents. 
+Continuous positive airway pressure (CPAP) ‐ delivered by a machine which uses a hose and mask or nosepiece to deliver constant and steady air pressure‐ is considered the first treatment option for most people with OSA. However, adherence to treatment is often suboptimal. Myofunctional therapy could be an alternative for many patients. Myofunctional therapy consists of combinations of oropharyngeal exercises ‐ i.e. mouth and throat exercises. These combinations typically include both isotonic and isometric exercises involving several muscles and areas of the mouth, pharynx and upper respiratory tract, to work on functions such as speaking, breathing, blowing, sucking, chewing and swallowing. 
+Objectives
+To evaluate the benefits and harms of myofunctional therapy (oropharyngeal exercises) for the treatment of obstructive sleep apnoea. 
+Search methods
+We identified randomised controlled trials (RCTs) from the Cochrane Airways Trials Register (date of last search 1 May 2020). We found other trials at web‐based clinical trials registers. 
+Selection criteria
+We included RCTs that recruited adults and children with a diagnosis of OSA.
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We assessed our confidence in the evidence by using GRADE recommendations. Primary outcomes were daytime sleepiness, morbidity and mortality. 
+Main results
+We found nine studies eligible for inclusion in this review and nine ongoing studies. The nine included RCTs analysed a total of 347 participants, 69 of them women and 13 children. The adults' mean ages ranged from 46 to 51, daytime sleepiness scores from eight to 14, and severity of the condition from mild to severe OSA. The studies' duration ranged from two to four months. 

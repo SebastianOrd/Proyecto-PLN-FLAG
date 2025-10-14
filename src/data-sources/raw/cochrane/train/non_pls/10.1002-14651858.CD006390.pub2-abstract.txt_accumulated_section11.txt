@@ -1,0 +1,11 @@
+Background
+Cholelithiasis refers to the presence of gallstones, which are concretions that form in the biliary tract, usually in the gallbladder. Cholelithiasis is one of the most common surgical problems worldwide and is particularly prevalent in most Western countries. 
+Biliary colic is the term used for gallbladder pain experienced by a person with gallstones and without overt infection around the gallbladder. It is the most common manifestation of cholelithiasis, observed in over one‐third of people with gallstones over the course of 10 or more years. Non‐steroid anti‐inflammatory drugs (NSAIDs) have been widely used to relieve biliary colic pain, but their role needs further elucidation. They may decrease the frequency of short‐term complications, such as mild form of acute cholecystitis, jaundice, cholangitis, and acute pancreatitis, but they may also increase the occurrence of more severe and possibly life‐threatening adverse events such as gastrointestinal bleeding, renal function impairment, cardiovascular events, or milder events such as abdominal pain, drowsiness, headache, dizziness, or cutaneous manifestations. 
+Objectives
+To assess the benefits and harms of NSAIDs in people with biliary colic.
+Search methods
+We searched the Cochrane Hepato‐Biliary Controlled Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library, MEDLINE (Ovid SP), Embase (Ovid SP), Science Citation Index Expanded (Web of Science), and ClinicalTrials.gov until July 2016. We applied no language limitation. 
+Selection criteria
+Randomised clinical trials recruiting participants presenting with biliary colic and comparing NSAIDs versus no intervention, placebo, or other drugs. 
+Data collection and analysis
+Two review authors (MF and AC) independently identified trials for inclusion. We used risk ratios (RR) to express intervention effect estimates, and we analysed the data with both fixed‐effect and random‐effects model meta‐analyses, depending on the amount of heterogeneity. We controlled random errors with Trial Sequential Analysis. We assessed the methodological quality of the evidence using GRADE criteria. 

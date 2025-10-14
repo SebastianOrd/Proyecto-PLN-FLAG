@@ -1,0 +1,14 @@
+Background
+Vulvovaginal candidiasis (VVC) is one of the most common fungal infections that recur frequently in HIV infected women. Symptoms of VVC are pruritis, discomfort, dyspareunia, and dysuria. Vulval infection presents as a morbiliform rash that may extend to the thighs. Vaginal infection is associated with white discharge, and plaques are seen on erythematous vaginal walls. 
+Even though rarely or never resulting in systemic fungal infection or mortality, left untreated these lesions contribute considerably to the morbidity associated with HIV infection. Prevention and treatment of this condition is an essential part of maintaining the quality of life for these individuals. 
+Objectives
+‐To compare the efficacy of various antifungals given vaginally or orally for the treatment and prophylaxis of VVC in HIV‐infected women and to evaluate the risks of the same. 
+Search methods
+The search strategy was comprehensive, iterative and based on that of the HIV/AIDS Cochrane Review Group. The aim was to locate all relevant trials, irrespective of publication status or language. Electronic databases :CENTRAL, Medline, EMBASE, LILACS and CINAHL were searched for randomised controlled trials for the years 1980 to 1st October 2010. WHO ICTRP site and other relevant web sites were also searched for conference abstracts. 
+Selection criteria
+Randomised controlled trials (RCTs) of palliative, preventative or curative therapy were considered. Participants were HIV positive women receiving one or more of the following:treatment / prophylaxis for VVC or HAART(Highly Active Antiretroviral Therapy). 
+Data collection and analysis
+Three authors independently assessed the methodological quality of the trials and extracted data. The quality of the evidence generated was graded using the GRADE approach. 
+Main results
+Our search did not yield any trial investigating treatment of VVC in HIV positive women. 
+Two trials dealing with prophylaxis were eligible for inclusion.One trial (n= 323) favoured the use of weekly Fluconazole as compared to placebo (RR 0.68; 95% CI 0.47 to 0.97). 

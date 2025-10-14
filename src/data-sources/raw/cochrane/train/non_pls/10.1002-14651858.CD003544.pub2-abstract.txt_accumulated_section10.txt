@@ -1,0 +1,10 @@
+Background
+Polydipsia is the intake of more than three litres of fluids per day. Primary polydipsia occurs when excessive drinking cannot be explained by an identified medical condition, and is not secondary to polyuria. The prevalence of this problem in psychiatric inpatients has been estimated at between 6 and 17%. It can hinder standard care and be a highly disabling, even life‐threatening condition. 
+Objectives
+To review the effect of pharmacological interventions for the treatment of psychosis‐related polydipsia. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Register (January 2002 and February 2005) which is compiled by up‐to‐date methodical searches of BIOSIS, The Cochrane Library, CINAHL, Dissertation abstracts, EMBASE, LILACS, MEDLINE, PSYNDEX, PsycINFO, RUSSMED and Sociofile and is supplemented with hand searching of relevant journals and numerous conference proceedings. References of all identified studies were also searched for further trials. 
+Selection criteria
+We included all randomised controlled trials involving people with a psychotic illness and secondary polydipsia, which evaluated drug treatments, and measured clinically meaningful outcomes. 
+Data collection and analysis
+Working independently, we inspected citations, ordered papers, and then re‐inspected and quality assessed the studies and extracted data. For homogeneous dichotomous data, we calculated the relative risk (RR), 95% confidence interval (CI), and, where appropriate, the number needed to treat (NNT) and the number needed to harm (NNH), on an intention‐to‐treat basis. We assumed that people who left the study early or who were lost to follow‐up had no improvement. We calculated weighted mean differences (WMD) for continuous data. We excluded data if loss to follow‐up was greater than 50%. 

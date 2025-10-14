@@ -1,0 +1,12 @@
+Background
+Higher intakes of foods containing omega‐3 long‐chain polyunsaturated fatty acids (LCPUFA), such as fish, during pregnancy have been associated with longer gestations and improved perinatal outcomes. This is an update of a review that was first published in 2006. 
+Objectives
+To assess the effects of omega‐3 LCPUFA, as supplements or as dietary additions, during pregnancy on maternal, perinatal, and neonatal outcomes and longer‐term outcomes for mother and child. 
+Search methods
+For this update, we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (16 August 2018), and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing omega‐3 fatty acids (as supplements or as foods, stand‐alone interventions, or with a co‐intervention) during pregnancy with placebo or no omega‐3, and studies or study arms directly comparing omega‐3 LCPUFA doses or types. Trials published in abstract form were eligible for inclusion. 
+Data collection and analysis
+Two review authors independently assessed study eligibility, extracted data, assessed risk of bias in trials and assessed quality of evidence for prespecified birth/infant, maternal, child/adult and health service outcomes using the GRADE approach. 
+Main results
+In this update, we included 70 RCTs (involving 19,927 women at low, mixed or high risk of poor pregnancy outcomes) which compared omega‐3 LCPUFA interventions (supplements and food) compared with placebo or no omega‐3. Overall study‐level risk of bias was mixed, with selection and performance bias mostly at low risk, but there was high risk of attrition bias in some trials. Most trials were conducted in upper‐middle or high‐income countries; and nearly half the trials included women at increased/high risk for factors which might increase the risk of adverse maternal and birth outcomes. 

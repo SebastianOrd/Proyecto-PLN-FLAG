@@ -1,0 +1,12 @@
+Background
+There are several treatment options for managing acute asthma exacerbations (sustained worsening of symptoms that do not subside with regular treatment and require a change in management). Guidelines advocate the use of inhaled short acting beta2‐agonists (SABAs) in children experiencing an asthma exacerbation. Anticholinergic agents, such as ipratropium bromide and atropine sulfate, have a slower onset of action and weaker bronchodilating effect, but may specifically relieve cholinergic bronchomotor tone and decrease mucosal edema and secretions. Therefore, the combination of inhaled anticholinergics with SABAs may yield enhanced and prolonged bronchodilation. 
+Objectives
+To determine whether the addition of inhaled anticholinergics to SABAs provides clinical improvement and affects the incidence of adverse effects in children with acute asthma exacerbations. 
+Search methods
+We searched MEDLINE (1966 to April 2000), EMBASE (1980 to April 2000), CINAHL (1982 to April 2000) and reference lists of studies of previous versions of this review. We also contacted drug manufacturers and trialists. For the 2012 review update, we undertook an 'all years' search of the Cochrane Airways Group's register on the 18 April 2012. 
+Selection criteria
+Randomized parallel trials comparing the combination of inhaled anticholinergics and SABAs with SABAs alone in children (aged 18 months to 18 years) with an acute asthma exacerbation. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. We used the GRADE rating system to assess the quality of evidence for our primary outcome (hospital admission). 
+Main results
+Twenty trials met the review eligibility criteria, generated 24 study comparisons and comprised 2697 randomised children aged one to 18 years, presenting predominantly with moderate or severe exacerbations. Most studies involved both preschool‐aged children and school‐aged children; three studies also included a small proportion of infants less than 18 months of age. Nine trials (45%) were at a low risk of bias. Most trials used a fixed‐dose protocol of three doses of 250 mcg or two doses of 500 mcg of nebulized ipratropium bromide in combination with a SABA over 30 to 90 minutes while three trials used a single dose and two used a flexible‐dose protocol according to the need for SABA. 

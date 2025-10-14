@@ -1,0 +1,12 @@
+Background
+Bypass surgery is one of the mainstay treatments for patients with critical lower limb ischaemia (CLI). This is the second update of the review first published in 2000. 
+Objectives
+To assess the effects of bypass surgery in patients with chronic lower limb ischaemia.
+Search methods
+For this update, the Cochrane Vascular Group searched its trials register (last searched October 2016) and the Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library (last searched Issue 9, 2016). 
+Selection criteria
+We selected randomised controlled trials of bypass surgery versus control or any other treatment. The primary outcome parameters were defined as early postoperative non‐thrombotic complications, procedural mortality, clinical improvement, amputation, primary patency, and mortality within follow‐up. 
+Data collection and analysis
+For the update, two review authors extracted data and assessed trial quality. We analysed data using odds ratio (OR) and 95% confidence intervals (CIs). We applied fixed‐effect or random‐effects models. 
+Main results
+We selected 11 trials reporting a total of 1486 participants. Six trials compared bypass surgery with percutaneous transluminal angioplasty (PTA), and one each with remote endarterectomy, thromboendarterectomy, thrombolysis, exercise, and spinal cord stimulation. The quality of the evidence for the most important outcomes of bypass surgery versus PTA was high except for clinical improvement and primary patency. We judged the quality of evidence for clinical improvement to be low, due to heterogeneity between the studies and the fact that this was a subjective outcome assessment and, therefore, at risk of detection bias. We judged the quality of evidence for primary patency to be moderate due heterogeneity between the studies. For the remaining comparisons, the evidence was limited. For several outcomes, the CIs were wide. 

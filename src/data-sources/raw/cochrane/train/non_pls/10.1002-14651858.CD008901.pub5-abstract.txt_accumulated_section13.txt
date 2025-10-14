@@ -1,0 +1,13 @@
+Background
+Cystic fibrosis (CF) is an inherited condition causing disease most noticeably in the lungs, digestive tract and pancreas. People with CF often have malnutrition and growth delay. Adequate nutritional supplementation does not improve growth optimally and hence an anabolic agent, recombinant human growth hormone (rhGH), has been proposed as a potential intervention. This is an update of a previously published review. 
+Objectives
+To evaluate the effectiveness and safety of rhGH therapy in improving lung function, quality of life and clinical status of children and young adults with CF. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group's Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. Date of latest search: 12 January 2021. 
+We also searched ongoing trials registers:
+clinicaltrials.gov from the United States ‐ date of latest search 19 Jun 2021;WHO International Clinical Trials Registry Platform (ICTRP) ‐ date of latest search 05 March 2018 (not available in 2021).  
+We conducted a search of relevant endocrine journals and proceedings of the Endocrinology Society meetings using Web of Science, Scopus and Proceedings First. Date of latest search: 21 Jun 2021.  
+Selection criteria
+Randomised and quasi‐randomised controlled trials of all preparations of rhGH compared to either no treatment, or placebo, or each other at any dose (high‐dose and low‐dose) or route and for any duration, in children or young adults (aged up to 25 years) diagnosed with CF (by sweat test or genetic testing). 
+Data collection and analysis
+Two authors independently screened papers, extracted trial details and assessed their risk of bias. We assessed the quality of the evidence using the GRADE system. 

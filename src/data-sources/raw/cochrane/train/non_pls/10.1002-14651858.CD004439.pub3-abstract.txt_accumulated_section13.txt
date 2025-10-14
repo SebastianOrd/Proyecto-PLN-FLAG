@@ -1,0 +1,13 @@
+Background
+Chronic osteomyelitis is generally treated with antibiotics and surgical debridement but can persist intermittently for years with frequent therapeutic failure or relapse. Despite advances in both antibiotic and surgical treatment, the long‐term recurrence rate remains around 20%. This is an update of a Cochrane review first published in 2009. 
+Objectives
+To determine the effects of different systemic antibiotic treatment regimens for treating chronic osteomyelitis in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (October 2012), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2012, Issue 9), MEDLINE (January 1948 to September Week 4 2012), EMBASE (January 1980 to 2012 Week 40), LILACS (October 2012), the WHO International Clinical Trials Registry Platform (June 2012) and reference lists of relevant articles. 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs addressing the effects of different antibiotic treatments given after surgical debridement for chronic osteomyelitis in adults. 
+Data collection and analysis
+Two review authors independently screened papers for inclusion, extracted data and appraised risk of bias in the included trials. Where appropriate, we pooled data using the fixed‐effect model. 
+Main results
+We included eight small trials involving a total of 282 participants with chronic osteomyelitis. Data were available from 248 participants. Most participants were male with post‐traumatic osteomyelitis, usually affecting the tibia and femur, where recorded. The antibiotic regimens, duration of treatment and follow‐up varied between trials. All trials mentioned surgical debridement before starting on antibiotic therapy as part of treatment, but it was unclear in four trials whether all participants underwent surgical debridement. 
+We found that study quality and reporting were often inadequate. In particular, we judged almost all trials to be at moderate to high risk of bias due to failure to conceal allocation and inadequate follow‐up. 

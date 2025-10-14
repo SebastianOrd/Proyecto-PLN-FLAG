@@ -1,0 +1,10 @@
+Background
+Inhaled anticholinergics given in addition to β2‐agonists are effective in reducing hospital admissions in children presenting to the emergency department with a moderate to severe asthma exacerbation. It seems logical to assume a similar beneficial effect in children hospitalised for an acute asthma exacerbation. 
+Objectives
+To assess the efficacy and safety of anticholinergics added to β2‐agonists as inhaled or nebulised therapy in children hospitalised for an acute asthma exacerbation. To investigate the characteristics of patients or therapy, if any, that would influence the magnitude of response attributable to the addition of anticholinergics. 
+Search methods
+We identified trials from the Cochrane Airways Group Specialised Register of trials (CAGR), which is derived through systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED and PsycINFO and through handsearching of respiratory journals and meeting abstracts. The search is current to November 2013. 
+Selection criteria
+Randomised trials comparing the combination of inhaled or nebulised anticholinergics and short‐acting β2‐agonists versus short‐acting β2‐agonists alone in children one to 18 years of age hospitalised for an acute asthma exacerbation were eligible. 
+Data collection and analysis
+Two review authors independently assessed the methodological quality of trials and extracted data; disagreement was resolved by consensus or with the input of a third review author, when needed. Primary outcomes were duration of hospital stay and serious adverse events. Secondary outcomes included admission and duration of stay in the intensive care unit (ICU), ventilation assistance, time to short‐acting β2‐agonists spaced at four hours or longer, supplemental asthma therapy, duration of supplemental oxygen, change from baseline in asthma severity, relapse after discharge, adverse health effects and withdrawals. 

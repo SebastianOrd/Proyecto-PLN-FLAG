@@ -1,0 +1,11 @@
+Background
+Post‐surgical radiotherapy (RT) in combination with chemotherapy is considered as standard of care for medulloblastoma in children. Chemotherapy has been introduced to improve survival and to reduce RT‐induced adverse effects. Reduction of RT‐induced adverse effects was achieved by deleting (craniospinal) RT in very young children and by diminishing the dose and field to the craniospinal axis and reducing the boost volume to the tumour bed in older children. 
+Objectives
+Primary objectives: 1. to determine the event‐free survival/disease‐free survival (EFS/DFS) and overall survival (OS) in children with medulloblastoma receiving chemotherapy as a part of their primary treatment, as compared with children not receiving chemotherapy as part of their primary treatment; 2. to determine EFS/DFS and OS in children with medulloblastoma receiving standard‐dose RT without chemotherapy, as compared with children receiving reduced‐dose RT with chemotherapy as their primary treatment. 
+Secondary objectives: to determine possible adverse effects of chemotherapy and RT, including long‐term adverse effects and effects on quality of life. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2013, Issue 7), MEDLINE/PubMed (1966 to August 2013) and EMBASE/Ovid (1980 to August 2013). In addition, we searched reference lists of relevant articles, conference proceedings and ongoing trial databases (August 2013). 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating the above treatments in children (aged 0 to 21 years) with medulloblastoma. 
+Data collection and analysis
+Two review authors independently performed study selection, data extraction and risk of bias assessment. We performed analyses according to the guidelines of the Cochrane Handbook for Systematic Reviews of Interventions. Where possible, we pooled results. 

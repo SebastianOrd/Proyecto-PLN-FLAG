@@ -1,0 +1,11 @@
+Background
+This is an updated version of the Cochrane Review previously published in 2018.
+The incidence of seizures following supratentorial craniotomy for non‐traumatic pathology has been estimated to be between 15% to 20%; however, the risk of experiencing a seizure appears to vary from 3% to 92% over a five‐year period. Postoperative seizures can precipitate the development of epilepsy; seizures are most likely to occur within the first month of cranial surgery. The use of antiepileptic drugs (AEDs) administered pre‐ or postoperatively to prevent seizures following cranial surgery has been investigated in a number of randomised controlled trials (RCTs). 
+Objectives
+To determine the efficacy and safety of AEDs when used prophylactically in people undergoing craniotomy and to examine which AEDs are most effective. 
+Search methods
+For the latest update we searched the following databases on 29 September 2019: Cochrane Epilepsy Group Specialized Register, CENTRAL, MEDLINE, ClinicalTrials.gov, and the WHO International Clinical Trials Registry Platform (ICTRP). We did not apply any language restrictions. 
+Selection criteria
+We included RCTs of people with no history of epilepsy who were undergoing craniotomy for either therapeutic or diagnostic reasons. We included trials with adequate randomisation methods and concealment; these could either be blinded or unblinded parallel trials. We did not stipulate a minimum treatment period, and we included trials using active drugs or placebo as a control group. 
+Data collection and analysis
+Three review authors (JW, JG, YD) independently selected trials for inclusion, extracted data and assessed risk of bias. We resolved any disagreements through discussion. Outcomes investigated included the number of participants experiencing seizures (early (occurring within first week following craniotomy), and late (occurring after first week following craniotomy)), the number of deaths and the number of people experiencing disability and adverse effects. Due to the heterogeneous nature of the trials, we did not combine data from the included trials in a meta‐analysis; we presented the findings of the review in narrative format. Visual comparisons of outcomes are presented in forest plots. 

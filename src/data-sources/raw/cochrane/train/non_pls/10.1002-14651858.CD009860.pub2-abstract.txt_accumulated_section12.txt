@@ -1,0 +1,12 @@
+Background
+Trigger finger is a common clinical disorder, characterised by pain and catching as the patient flexes and extends digits because of disproportion between the diameter of flexor tendons and the A1 pulley. The treatment approach may include non‐surgical or surgical treatments. Currently there is no consensus about the best surgical treatment approach (open, percutaneous or endoscopic approaches). 
+Objectives
+To evaluate the effectiveness and safety of different methods of surgical treatment for trigger finger (open, percutaneous or endoscopic approaches) in adults at any stage of the disease. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and LILACS up to August 2017.
+Selection criteria
+We included randomised or quasi‐randomised controlled trials that assessed adults with trigger finger and compared any type of surgical treatment with each other or with any other non‐surgical intervention. The major outcomes were the resolution of trigger finger, pain, hand function, participant‐reported treatment success or satisfaction, recurrence of triggering, adverse events and neurovascular injury. 
+Data collection and analysis
+Two review authors independently selected the trial reports, extracted the data and assessed the risk of bias. Measures of treatment effect for dichotomous outcomes calculated risk ratios (RRs), and mean differences (MDs) or standardised mean differences (SMD) for continuous outcomes, with 95% confidence intervals (CIs). When possible, the data were pooled into meta‐analysis using the random‐effects model. GRADE was used to assess the quality of evidence for each outcome. 
+Main results
+Fourteen trials were included, totalling 1260 participants, with 1361 trigger fingers. The age of participants included in the studies ranged from 16 to 88 years; and the majority of participants were women (approximately 70%). The average duration of symptoms ranged from three to 15 months, and the follow‐up after the procedure ranged from eight weeks to 23 months. 

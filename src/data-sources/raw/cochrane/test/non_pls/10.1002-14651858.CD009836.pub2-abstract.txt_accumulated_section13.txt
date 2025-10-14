@@ -1,0 +1,13 @@
+Background
+A significant number of women are diagnosed with minor cytological abnormalities on cervical screening. Many authorities recommend surveillance as spontaneous regression might occur. However, attendance for cytological follow‐up decreases with time and might put some women at risk of developing invasive disease. 
+Objectives
+To assess the optimum management strategy for women with minor cervical cytological abnormalities (atypical squamous cells of undetermined significance ‐ ASCUS or low‐grade squamous intra‐epithelial lesions ‐ LSIL) at primary screening in the absence of HPV (human papillomavirus) DNA test. 
+Search methods
+We searched the following electronic databases: Cochrane Central Register of Controlled Trials (CENTRAL Issue 4, 2016), MEDLINE (1946 to April week 2 2016) and Embase (1980 to 2016 week 16). 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing immediate colposcopy to cytological surveillance in women with atypical squamous cells of undetermined significance (ASCUS/borderline) or low‐grade squamous intra‐epithelial lesions (LSIL/mild dyskaryosis). 
+Data collection and analysis
+The primary outcome measure studied was the occurrence of cervical intra‐epithelial neoplasia (CIN). The secondary outcome measures studied included default rate, clinically significant anxiety and depression, and other self‐reported adverse effects. 
+We classified studies according to period of surveillance, at 6, 12, 24 or 36 months, as well as at 18 months, excluding a possible exit‐examination. We calculated pooled risk ratios (RR) and 95% confidence intervals (CI) using a random‐effects model with inverse variance weighting. Inter‐study heterogeneity was assessed with I2 statistics. 
+Main results
+We identified five RCTs with 11,466 participants that fulfilled the inclusion criteria. There were 18 cases of invasive cervical cancer, seven in the immediate colposcopy and 11 in the cytological surveillance groups, respectively. Although immediate colposcopy detects CIN2+ and CIN3+ earlier than cytology, the differences were no longer observed at 24 months (CIN2+: 3 studies, 4331 women; 17.9% versus 18.3%, RR 1.14, CI 0.66 to 1.97; CIN3+: 3 studies, 4331 women; 10.3% versus 11.9%, RR 1.02, CI 0.53 to 1.97). The inter‐study heterogeneity was considerable (I2 greater than 90%). Furthermore, the inclusion of the results of the exit examinations at 24 months, which could inflate the CIN detection rate of cytological surveillance, may have led to study design‐derived bias; we therefore considered the evidence to be of low quality. 

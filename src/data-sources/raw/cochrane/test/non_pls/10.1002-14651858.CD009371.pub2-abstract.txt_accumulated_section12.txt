@@ -1,0 +1,12 @@
+Background
+Fingolimod was approved in 2010 for the treatment of patients with the relapsing‐remitting (RR) form of multiple sclerosis (MS). It was designed to reduce the frequency of exacerbations and to delay disability worsening. Issues on its safety and efficacy, mainly as compared to other disease modifying drugs (DMDs), have been raised. 
+Objectives
+To assess the safety and benefit of fingolimod versus placebo, or other disease‐modifying drugs (DMDs), in reducing disease activity in people with relapsing‐remitting multiple sclerosis (RRMS). 
+Search methods
+We searched the Cochrane Multiple Sclerosis and Rare Diseases of the Central Nervous System (CNS) Group's Specialised Trials Register and US Food and Drug Administration reports (15 February 2016). 
+Selection criteria
+Randomised controlled trials (RCTs) assessing the beneficial and harmful effects of fingolimod versus placebo or other approved DMDs in people with RRMS. 
+Data collection and analysis
+We used standard methodological procedures as expected by Cochrane.
+Main results
+Six RCTs met our selection criteria. The overall population included 5152 participants; 1621 controls and 3531 treated with fingolimod at different doses; 2061 with 0.5 mg, 1376 with 1.25 mg, and 94 with 5.0 mg daily. Among the controls, 923 participants were treated with placebo and 698 with others DMDs. The treatment duration was six months in three, 12 months in one, and 24 months in two trials. One study was at high risk of bias for blinding, three studies were at high risk of bias for incomplete outcome reporting, and four studies were at high risk of bias for other reasons (co‐authors were affiliated with the pharmaceutical company). We retrieved 10 ongoing trials; four of them have been completed. 

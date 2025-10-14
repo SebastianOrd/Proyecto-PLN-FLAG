@@ -1,0 +1,12 @@
+Background
+Observational studies have shown an association between transiently low thyroid hormone levels in preterm infants in the first weeks of life (transient hypothyroxinemia) and abnormal neurodevelopmental outcome. Thyroid hormone therapy might prevent this morbidity. 
+Objectives
+To assess whether thyroid hormone therapy in preterm infants without congenital hypothyroidism results in clinically important changes in neonatal and long term outcomes in terms of benefits and harms. 
+Search methods
+The standard search strategy of the Neonatal Review Group was used. This included searches of the Oxford Database of Perinatal Trials, Cochrane Controlled Trials Register, MEDLINE, previous reviews including cross references, abstracts, conferences, symposia proceedings, expert informants and journal handsearching in the English language. 
+Selection criteria
+All trials using random or quasi‐random patient allocation, in which thyroid hormone therapy (either treatment or prophylaxis) was compared to control in premature infants. 
+Data collection and analysis
+Primary clinical outcomes included measures of neurodevelopmental outcome and mortality. Assessment of trial quality, data extraction and synthesis of data, using relative risk (RR) and weighted mean difference (WMD), were performed using standard methods of the Cochrane Collaboration and its Neonatal Review Group. 
+Main results
+Nine studies were identified that compared thyroid hormone treatment to control. Four randomized (Chowdhry 1984, van Wassenaer 1997; Vanhole 1997; Smith 2000) and one quasi‐randomized study (Amato 1989) met inclusion criteria. All studies enrolled preterm infants < 32 weeks gestation, but used different timing, dose and duration of treatment with thyroid hormones. Four studies used thyroxine, whereas Amato 1989 used triiodothyronine. Only two studies with neurodevelopmental follow‐up were of good methodology (van Wassenaer 1997, Vanhole 1997). All studies were of small size with the largest, van Wassenaer 1997, enrolling 200 infants. 

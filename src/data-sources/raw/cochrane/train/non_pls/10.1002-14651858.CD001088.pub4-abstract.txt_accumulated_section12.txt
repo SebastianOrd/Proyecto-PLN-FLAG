@@ -1,0 +1,12 @@
+Background
+Even low levels of substance misuse by people with a severe mental illness can have detrimental effects. 
+Objectives
+To assess the effects of psychosocial interventions for reduction in substance use in people with a serious mental illness compared with standard care. 
+Search methods
+The Information Specialist of the Cochrane Schizophrenia Group (CSG) searched the CSG Trials Register (2 May 2018), which is based on regular searches of major medical and scientific databases. 
+Selection criteria
+We included all randomised controlled trials (RCTs) comparing psychosocial interventions for substance misuse with standard care in people with serious mental illness. 
+Data collection and analysis
+Review authors independently selected studies, extracted data and appraised study quality. For binary outcomes, we calculated standard estimates of risk ratio (RR) and their 95% confidence intervals (CIs) on an intention‐to‐treat basis. For continuous outcomes, we calculated the mean difference (MD) between groups. Where meta‐analyses were possible, we pooled data using a random‐effects model. Using the GRADE approach, we identified seven patient‐centred outcomes and assessed the quality of evidence for these within each comparison. 
+Main results
+Our review now includes 41 trials with a total of 4024 participants. We have identified nine comparisons within the included trials and present a summary of our main findings for seven of these below. We were unable to summarise many findings due to skewed data or because trials did not measure the outcome of interest. In general, evidence was rated as low‐ or very‐low quality due to high or unclear risks of bias because of poor trial methods, or inadequately reported methods, and imprecision due to small sample sizes, low event rates and wide confidence intervals. 

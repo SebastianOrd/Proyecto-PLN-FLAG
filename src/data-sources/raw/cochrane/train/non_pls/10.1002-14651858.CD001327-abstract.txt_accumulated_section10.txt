@@ -1,0 +1,10 @@
+Background
+Concern about the risk of upper genital tract infection (pelvic inflammatory disease (PID)) often limits use of the intrauterine device (IUD), a highly effective contraceptive. Prophylactic antibiotic administration around the time of induced abortion significantly reduces the risk of postoperative endometritis. Since the risk of IUD‐related infection is limited to the first few weeks to months after insertion, contamination of the endometrial cavity at the time of insertion appears to be the mechanism, rather than the IUD or string itself. Thus, antibiotic administration before IUD insertion might reduce the risk of upper genital tract infection from passive introduction of bacteria at insertion. 
+Objectives
+To assess the effectiveness of prophylactic antibiotic administration before IUD insertion in reducing IUD‐related complications (pelvic inflammatory disease; complaints leading to an unscheduled visit) and discontinuations within three months of insertion. 
+Search methods
+In February 2012, we searched MEDLINE, POPLINE, and CENTRAL. We also searched for current trials via ClinicalTrials.gov and ICTRP. Previous searches also included EMBASE. For the initial review, we examined reference lists and wrote to experts on several continents to identify unpublished trials. 
+Selection criteria
+We included randomized controlled trials using any antibiotic compared with a placebo.
+Data collection and analysis
+Two independent reviewers abstracted data. We made telephone calls to investigators to obtain additional information. We assessed the validity of each study using methods suggested in the Cochrane Handbook. We generated 2x2 tables for the principal outcome measures. The Peto modified Mantel‐Haenszel technique was used to calculate odds ratios. We assessed statistical heterogeneity between studies. 

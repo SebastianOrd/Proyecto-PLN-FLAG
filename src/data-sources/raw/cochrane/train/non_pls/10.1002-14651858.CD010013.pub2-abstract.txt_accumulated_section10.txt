@@ -1,0 +1,10 @@
+Background
+Asthma is one of the most common long‐term conditions worldwide, which places considerable pressure on patients, communities and health systems. The major international clinical guidelines now recommend the inclusion of self management programmes in the routine management of patients with asthma. These programmes have been associated with improved outcomes in patients with asthma. However, the implementation of self management programmes in clinical practice, and their uptake by patients, is still poor. Recent developments in mobile technology, such as smartphone and tablet computer apps, could help develop a platform for the delivery of self management interventions that are highly customisable, low‐cost and easily accessible. 
+Objectives
+To assess the effectiveness, cost‐effectiveness and feasibility of using smartphone and tablet apps to facilitate the self management of individuals with asthma. 
+Search methods
+We searched the Cochrane Airways Group Register (CAGR), the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, PsycINFO, CINAHL, Global Health Library, Compendex/Inspec/Referex, IEEEXplore, ACM Digital Library, CiteSeerx and CAB abstracts via Web of Knowledge. We also searched registers of current and ongoing trials and the grey literature. We checked the reference lists of all primary studies and review articles for additional references. We searched for studies published from 2000 onwards. The latest search was run in June 2013. 
+Selection criteria
+We included parallel randomised controlled trials (RCTs) that compared self management interventions for patients with clinician‐diagnosed asthma delivered via smartphone apps to self management interventions delivered via traditional methods (e.g. paper‐based asthma diaries). 
+Data collection and analysis
+We used standard methods expected by the Cochrane Collaboration. Our primary outcomes were symptom scores; frequency of healthcare visits due to asthma exacerbations or complications and health‐related quality of life. 

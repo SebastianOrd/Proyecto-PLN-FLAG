@@ -1,0 +1,16 @@
+Background
+The main complications of elevated systemic blood pressure (BP), coronary heart disease, ischaemic stroke, and peripheral vascular disease, are related to thrombosis rather than haemorrhage. Therefore, it is important to investigate if antithrombotic therapy may be useful in preventing thrombosis‐related complications in patients with elevated BP. 
+Objectives
+To conduct a systematic review of the role of antiplatelet therapy and anticoagulation in patients with elevated BP, including elevations in systolic or diastolic BP alone or together. 
+To assess the effects of antiplatelet agents on total deaths or major thrombotic events or both in these patients versus placebo or other active treatment. 
+To assess the effects of oral anticoagulants on total deaths or major thromboembolic events or both in these patients versus placebo or other active treatment. 
+Search methods
+The Cochrane Hypertension Information Specialist searched the following databases for randomised controlled trials (RCTs) up to January 2021: the Cochrane Hypertension Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL; 2020, Issue 12), Ovid MEDLINE (from 1946), and Ovid Embase (from 1974). The World Health Organization International Clinical Trials Registry Platform and the US National Institutes of Health Ongoing Trials Register (ClinicalTrials.gov) were searched for ongoing trials.  
+Selection criteria
+RCTs in patients with elevated BP were included if they were ≥ 3 months in duration and compared antithrombotic therapy with control or other active treatment. 
+Data collection and analysis
+Two review authors independently extracted data for inclusion criteria, our prespecified outcomes, and sources of bias. They assessed the risks and benefits of antiplatelet agents and anticoagulants by calculating odds ratios (OR), accompanied by the 95% confidence intervals (CI). They assessed risks of bias and applied GRADE criteria.  
+Main results
+Six trials (61,015 patients) met the inclusion criteria and were included in this review. 
+Four trials were primary prevention (41,695 patients; HOT, JPAD, JPPP, and TPT), and two secondary prevention (19,320 patients, CAPRIE and Huynh). Four trials (HOT, JPAD, JPPP, and TPT) were placebo‐controlled and two studies (CAPRIE and Huynh) included active comparators. 
+Four studies compared acetylsalicylic acid (ASA) versus placebo and found no evidence of a difference for all‐cause mortality (OR 0.97, 95% CI 0.87 to 1.08; 3 studies, 35,794 participants; low‐certainty evidence). We found no evidence of a difference for cardiovascular mortality (OR 0.98, 95% CI 0.82 to 1.17; 3 studies, 35,794 participants; low‐certainty evidence). ASA reduced the risk of all non‐fatal cardiovascular events (OR 0.63, 95% CI 0.45 to 0.87; 1 study (missing data in 3 studies), 2540 participants; low‐certainty evidence) and the risk of all cardiovascular events (OR 0.86, 95% CI 0.77 to 0.96; 3 studies, 35,794 participants; low‐certainty evidence). ASA increased the risk of major bleeding events (OR 1.77, 95% CI 1.34 to 2.32; 2 studies, 21,330 participants; high‐certainty evidence). 

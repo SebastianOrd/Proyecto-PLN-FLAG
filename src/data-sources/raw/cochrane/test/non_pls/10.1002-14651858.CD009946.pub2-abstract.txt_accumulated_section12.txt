@@ -1,0 +1,12 @@
+Background
+Ventilator‐associated pneumonia (VAP) is associated with increased mortality, prolonged length of hospital stay and increased healthcare costs in critically ill patients. Guidelines recommend a semi‐recumbent position (30º to 45º) for preventing VAP among patients requiring mechanical ventilation. However, due to methodological limitations in existing systematic reviews, uncertainty remains regarding the benefits and harms of the semi‐recumbent position for preventing VAP. 
+Objectives
+To assess the effectiveness and safety of semi‐recumbent positioning versus supine positioning to prevent ventilator‐associated pneumonia (VAP) in adults requiring mechanical ventilation. 
+Search methods
+We searched CENTRAL (2015, Issue 10), which includes the Cochrane Acute Respiratory Infections Group's Specialised Register, MEDLINE (1946 to October 2015), EMBASE (2010 to October 2015), CINAHL (1981 to October 2015) and the Chinese Biomedical Literature Database (CBM) (1978 to October 2015). 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing semi‐recumbent versus supine positioning (0º to 10º), or RCTs comparing alternative degrees of positioning in mechanically ventilated patients. Our outcomes included clinically suspected VAP, microbiologically confirmed VAP, intensive care unit (ICU) mortality, hospital mortality, length of ICU stay, length of hospital stay, duration of ventilation, antibiotic use and any adverse events. 
+Data collection and analysis
+Two review authors independently and in duplicate screened titles, abstracts and full texts, assessed risk of bias and extracted data using standardised forms. We calculated the mean difference (MD) and 95% confidence interval (95% CI) for continuous data and the risk ratio (RR) and 95% CI for binary data. We performed meta‐analysis using the random‐effects model. We used the grading of recommendations, assessment, development and evaluation (GRADE) approach to grade the quality of evidence. 
+Main results
+We included 10 trials involving 878 participants, among which 28 participants in two trials did not provide complete data due to loss to follow‐up. We judged all trials to be at high risk of bias. 

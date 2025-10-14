@@ -1,0 +1,10 @@
+Background
+Bronchiolitis is an acute inflammatory illness of the bronchioles common among infants and young children. It is often caused by the respiratory syncytial virus (RSV). Management of bronchiolitis varies between clinicians, reflecting the lack of evidence for a specific treatment approach. The leukotriene pathway has been reported to be involved in the pathogenesis of bronchiolitis. Leukotriene inhibitors such as montelukast have been used in infants and young children with bronchiolitis. However, the results from limited randomised controlled trials (RCTs) are controversial and necessitate a thorough evaluation of their efficacy for bronchiolitis in infants and young children. 
+Objectives
+To assess the efficacy and safety of leukotriene inhibitors for bronchiolitis in infants and young children. 
+Search methods
+We searched CENTRAL (2014, Issue 5), MEDLINE (1946 to April week 4, 2014), EMBASE (1974 to May 2014), CINAHL (1981 to May 2014), LILACS (1982 to May 2014), Web of Science (1985 to May 2014), WHO ICTRP and ClinicalTrials.gov (6 May 2014). 
+Selection criteria
+RCTs comparing leukotriene inhibitors versus placebo or another intervention in infants and young children under two years of age diagnosed with bronchiolitis. Our primary outcomes were length of hospital stay and all‐cause mortality. Secondary outcomes included clinical severity score, percentage of symptom‐free days, percentage of children requiring ventilation, oxygen saturation, recurrent wheezing, respiratory rate and clinical adverse effects. 
+Data collection and analysis
+We used standard Cochrane Collaboration methodological practices. Two authors independently assessed trial eligibility and extracted data, such as general information, participant characteristics, interventions and outcomes. We assessed risk of bias and graded the quality of the evidence. We used Review Manager software to pool results and chose random‐effects models for meta‐analysis. 

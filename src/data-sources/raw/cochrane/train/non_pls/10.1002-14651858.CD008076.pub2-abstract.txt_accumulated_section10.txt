@@ -1,0 +1,10 @@
+Background
+Aspirin is widely used for secondary prevention after stroke. Cilostazol has shown promise as an alternative to aspirin in Asian people with stroke. 
+Objectives
+To determine the relative effectiveness and safety of cilostazol compared directly with aspirin in the prevention of stroke and other serious vascular events in patients at high vascular risk for subsequent stroke, those with previous transient ischaemic attack (TIA) or ischaemic stroke of arterial origin. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched September 2010), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2009, Issue 4), MEDLINE (1950 to May 2010) and EMBASE (1980 to May 2010). In an effort to identify further published, ongoing and unpublished studies we searched journals, conference proceedings and ongoing trial registers, scanned reference lists from relevant studies and contacted trialists and Otsuka Pharmaceutical Co Ltd. 
+Selection criteria
+We selected all randomised controlled trials (RCTs) comparing cilostazol with aspirin where participants were treated for at least one month and followed systematically for development of vascular events. 
+Data collection and analysis
+Data extracted from eligible studies included: (1) a composite outcome of vascular events (stroke, myocardial infarction or vascular death) during follow up (primary outcome); (2) separate outcomes of stroke (ischaemic or haemorrhagic, fatal or non‐fatal), myocardial infarction (MI) (fatal or non‐fatal), vascular death and death from all causes; and (3) main outcomes of safety including any intracranial, extracranial or gastrointestinal (GI) haemorrhage and other outcomes during treatment follow up (secondary outcomes). We computed an estimate of treatment effect and performed a test for heterogeneity between trials. We analysed data on an intention‐to‐treat basis and assessed bias for all included studies. 

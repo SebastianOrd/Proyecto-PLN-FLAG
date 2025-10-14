@@ -1,0 +1,12 @@
+Background
+Psoriasis is an inflammatory skin disease that presents with itching, red, scaling plaques; its worsening has been associated with obesity, drinking, smoking, lack of sleep, and a sedentary lifestyle. Lifestyle changes may improve psoriasis. 
+Objectives
+To assess the effects of lifestyle changes for psoriasis, including weight reduction, alcohol abstinence, smoking cessation, dietary modification, exercise, and other lifestyle change interventions. 
+Search methods
+We searched the following databases up to July 2018: the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, Embase, and LILACS. We also searched the China National Knowledge Infrastructure, the Airiti Library, and five trials registers up to July 2018. We checked the references of included trials for further relevant trials, and we asked the authors of the included trials if they were aware of any relevant unpublished data. 
+Selection criteria
+We included randomised controlled trials (RCTs) of lifestyle changes (either alone or in combination) for treating psoriasis in people diagnosed by a healthcare professional. Treatment had to be given for at least 12 weeks. Eligible comparisons were no lifestyle changes or another active intervention. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. The primary outcome measures were 'Severity of psoriasis' and 'Adherence to the intervention'. Secondary outcomes were 'Quality of life', 'Time to relapse', and 'Reduction in comorbidities'. We used GRADE to assess the quality of the evidence for each outcome. 
+Main results
+We included 10 RCTs with 1163 participants (mean age: 43 to 61 years; 656 men and 478 women were reported). Six trials examined the effects of dietary intervention (low‐calorie diet) in 499 obese participants (mean age: 44.3 to 61 years; where reported, 395 had moderate‐to‐severe psoriasis). One trial assessed a combined dietary intervention and exercise programme in 303 obese participants with moderate‐to‐severe psoriasis who had started a systemic therapy for psoriasis and had not achieved clearance after four weeks of continuous treatment (median age: 53 years). Another trial assessed a walking exercise and continuous health education in 200 participants (mean age: 43.1 years, severity not reported). Finally, two trials included education programmes promoting a healthy lifestyle in 161 participants (aged 18 to 78 years), with one trial on mild psoriasis and the other trial not reporting severity. 

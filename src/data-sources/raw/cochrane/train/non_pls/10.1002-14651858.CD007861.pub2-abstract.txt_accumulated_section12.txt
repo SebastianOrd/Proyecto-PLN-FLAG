@@ -1,0 +1,12 @@
+Background
+Chronic kidney disease (CKD) is a worldwide public health problem which is at high increased risk of cardiovascular disease (CVD) and renal failure. Deterioration of kidney function causes an increase in circulating toxins, which, in turn promotes the progression of CKD. Oral adsorbents with capacity to adsorb and remove substances including uraemic toxins from the intestine could be effective in minimising kidney injury. 
+Objectives
+To investigate the benefits and harms of oral adsorbents for preventing or delaying the progression of CKD. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register (to 22 September 2014) through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. The following four Chinese medical databases were also searched: China Biological Medicine Database (1979 to May 2012); Chinese Science and Technique Journals Database (to May 2012); China National Infrastructure (to May 2012); Wan Fang database (to May 2012). 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs comparing any oral adsorbents for preventing or delaying the progression of CKD. 
+Data collection and analysis
+Two authors independently assessed and extracted information. Information was collected on methods, participants, interventions and outcomes (incidence of end‐stage kidney disease (ESKD), mortality, quality of life and adverse events). Results were expressed as risk ratios (RR) for dichotomous outcomes or as mean differences (MD) for continuous data with 95% confidence intervals (CI). Adverse events were expressed as risk differences (RD). 
+Main results
+Fifteen studies (1590 patients) conducted in Japan, China, and the USA were identified. The risk of bias of the included studies was moderate or high and the sample sizes were small. 

@@ -1,0 +1,12 @@
+Background
+Urinary tract infection (UTI) is one of the most common bacterial infections in infants. The most severe form of UTI is acute pyelonephritis, which results in significant acute morbidity and may cause permanent kidney damage. There remains uncertainty regarding the optimum antibiotic regimen, route of administration and duration of treatment. This is an update of a review that was first published in 2003 and updated in 2005 and 2007. 
+Objectives
+To evaluate the benefits and harms of antibiotics used to treat children with acute pyelonephritis. The aspects of therapy considered were 1) different antibiotics, 2) different dosing regimens of the same antibiotic, 3) different duration of treatment, and 4) different routes of administration. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register, CENTRAL, MEDLINE, EMBASE, reference lists of articles and conference proceedings without language restriction to 10 April 2014. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials comparing different antibiotic agents, routes, frequencies or durations of therapy in children aged 0 to 18 years with proven UTI and acute pyelonephritis were selected. 
+Data collection and analysis
+Four authors independently assessed study quality and extracted data. Statistical analyses were performed using the random‐effects model and the results expressed as risk ratio (RR) for dichotomous outcomes or mean difference (MD) for continuous data with 95% confidence intervals (CI). 
+Main results
+This updated review included 27 studies (4452 children). This update included evidence from three new studies, and following re‐evaluation, a previously excluded study was included because it now met our inclusion criteria. 

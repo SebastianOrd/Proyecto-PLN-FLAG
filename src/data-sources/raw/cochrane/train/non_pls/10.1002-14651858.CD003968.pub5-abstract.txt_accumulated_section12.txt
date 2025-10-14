@@ -1,0 +1,12 @@
+Background
+This is an update of the original Cochrane review first published in Issue 1, 2003, and previously updated in 2009, 2012 and 2014. Chronic pain, defined as pain that recurs or persists for more than three months, is common in childhood. Chronic pain can affect nearly every aspect of daily life and is associated with disability, anxiety, and depressive symptoms. 
+Objectives
+The aim of this review was to update the published evidence on the efficacy of psychological treatments for chronic and recurrent pain in children and adolescents. 
+The primary objective of this updated review was to determine any effect of psychological therapy on the clinical outcomes of pain intensity and disability for chronic and recurrent pain in children and adolescents compared with active treatment, waiting‐list, or treatment‐as‐usual care. 
+The secondary objective was to examine the impact of psychological therapies on children's depressive symptoms and anxiety symptoms, and determine adverse events. 
+Search methods
+Searches were undertaken of CENTRAL, MEDLINE, MEDLINE in Process, Embase, and PsycINFO databases. We searched for further RCTs in the references of all identified studies, meta‐analyses, and reviews, and trial registry databases. The most recent search was conducted in May 2018. 
+Selection criteria
+RCTs with at least 10 participants in each arm post‐treatment comparing psychological therapies with active treatment, treatment‐as‐usual, or waiting‐list control for children or adolescents with recurrent or chronic pain were eligible for inclusion. We excluded trials conducted remotely via the Internet. 
+Data collection and analysis
+We analysed included studies and we assessed quality of outcomes. We combined all treatments into one class named 'psychological treatments'. We separated the trials by the number of participants that were included in each arm; trials with > 20 participants per arm versus trials with < 20 participants per arm. We split pain conditions into headache and mixed chronic pain conditions. We assessed the impact of both conditions on four outcomes: pain, disability, depression, and anxiety. We extracted data at two time points; post‐treatment (immediately or the earliest data available following end of treatment) and at follow‐up (between three and 12 months post‐treatment). 

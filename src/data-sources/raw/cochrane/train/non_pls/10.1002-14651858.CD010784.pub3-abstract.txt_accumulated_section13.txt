@@ -1,0 +1,13 @@
+Background
+Urolithiasis is a condition where crystalline mineral deposits (stones) form within the urinary tract. Urinary stones can be located in any part of the urinary tract. Affected children may present with abdominal pain, blood in the urine or signs of infection. Radiological evaluation is used to confirm the diagnosis, to assess the size of the stone, its location, and the degree of possible urinary obstruction. 
+Objectives
+To assess the effects of different medical and surgical interventions in the treatment of urinary tract stones of the kidney or ureter in children. 
+Search methods
+We searched the Cochrane Register of Controlled Trials (CENTRAL), MEDLINE (Ovid), Embase (Ovid) as well as the World Health Organization International Clinical Trials Registry Platform Search Portal and ClinicalTrials.gov. We searched reference lists of retrieved articles and conducted an electronic search for conference abstracts for the years 2012 to 2017. The date of the last search of all electronic databases was 31 December 2017 and we applied no language restrictions. 
+Selection criteria
+We included all randomised controlled trials (RCTs) and quasi‐RCTs looking at interventions for upper urinary tract stones in children. These included shock wave lithotripsy, percutaneous nephrolithotripsy, ureterorenoscopy, open surgery and medical expulsion therapy for upper urinary tract stones in children aged 0 to 18 years. 
+Data collection and analysis
+We used standard methodological procedures according to Cochrane guidance. Two review authors independently searched and assessed studies for eligibility and conducted data extraction. 'Risk of bias' assessments were completed by three review authors independently. We used Review Manager 5 for data synthesis and analysis. We used the GRADE approach to assess the quality of evidence. 
+Main results
+We included 14 studies with a total of 978 randomised participants in our review, informing eight comparisons. The studies contributing to most comparisons were at high or unclear risk of bias for most domains. 
+Shock wave lithotripsy versus dissolution therapy for intrarenal stones: based on one study (87 participants) and consistently very low quality evidence, we are uncertain about the effects of SWL on stone‐free rate (SFR), serious adverse events or complications of treatment and secondary procedures for residual fragments. 

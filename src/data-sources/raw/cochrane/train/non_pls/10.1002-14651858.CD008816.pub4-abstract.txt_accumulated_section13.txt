@@ -1,0 +1,13 @@
+Background
+Inhalation of hypertonic saline improves sputum rheology, accelerates mucociliary clearance and improves clinical outcomes of people with cystic fibrosis. This is an update of a previously published Cochrane Review. 
+Objectives
+To determine whether the timing of hypertonic saline inhalation (in relation to airway clearance techniques or in relation to time of day) has an impact on its clinical efficacy in people with cystic fibrosis. 
+Search methods
+We identified relevant randomised and quasi‐randomised controlled trials from the Cochrane Cystic Fibrosis Trials Register, the Physiotherapy Evidence Database (PEDro), and international cystic fibrosis conference proceedings. 
+Date of the last search of the Cochrane Cystic Fibrosis and Genetic Disorders Group's Cystic Fibrosis Trials Register: 28 February 2019. 
+Selection criteria
+Any trial of hypertonic saline in people with cystic fibrosis where timing of inhalation was the randomised element in the study protocol with either: inhalation up to six hours before airway clearance techniques compared to inhalation during airway clearance techniques compared to inhalation up to six hours after airway clearance techniques; or morning compared to evening inhalation with any definition provided by the author. 
+Data collection and analysis
+Both authors independently assessed the trials identified by the search for potential inclusion in the review. The certainty of the evidence was assessed using GRADE. 
+Main results
+The searches identified 104 trial reports which represented 51 trials, of which three cross‐over trials (providing data on 77 participants) met our inclusion criteria. We present three comparisons: inhalation before versus during airway clearance techniques; inhalation before versus after airway clearance techniques; and inhalation during versus after airway clearance techniques. One trial (50 participants), given its three‐arm design, was eligible for all three comparisons. No trials compared morning versus evening inhalation of hypertonic saline. 

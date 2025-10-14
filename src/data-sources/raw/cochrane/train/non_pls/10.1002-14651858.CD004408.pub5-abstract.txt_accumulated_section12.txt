@@ -1,0 +1,12 @@
+Background
+It is controversial whether compulsory community treatment (CCT) for people with severe mental illness (SMI) reduces health service use, or improves clinical outcome and social functioning. 
+Objectives
+To examine the effectiveness of compulsory community treatment (CCT) for people with severe mental illness (SMI). 
+Search methods
+We searched the Cochrane Schizophrenia Group's Study‐Based Register of Trials (2003, 2008, 2012, 8 November 2013, 3 June 2016). We obtained all references of identified studies and contacted authors where necessary. 
+Selection criteria
+All relevant randomised controlled clinical trials (RCTs) of CCT compared with standard care for people with SMI (mainly schizophrenia and schizophrenia‐like disorders, bipolar disorder, or depression with psychotic features). Standard care could be voluntary treatment in the community or another pre‐existing form of CCT such as supervised discharge. 
+Data collection and analysis
+Authors independently selected studies, assessed their quality and extracted data. We used Cochrane's tool for assessing risk of bias. For binary outcomes, we calculated a fixed‐effect risk ratio (RR), its 95% confidence interval (95% CI) and, where possible, the number needed to treat for an additional beneficial outcome (NNTB). For continuous outcomes, we calculated a fixed‐effect mean difference (MD) and its 95% CI. We used the GRADE approach to create 'Summary of findings' tables for key outcomes and assessed the risk of bias of these findings. 
+Main results
+The review included three studies (n = 749). Two were based in the USA and one in England. The English study had the least bias, meeting three out of the seven criteria of Cochrane's tool for assessing risk of bias. The two other studies met only one criterion, the majority being rated unclear. 

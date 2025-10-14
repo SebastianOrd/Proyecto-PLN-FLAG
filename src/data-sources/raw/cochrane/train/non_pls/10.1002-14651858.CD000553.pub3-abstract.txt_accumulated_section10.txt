@@ -1,0 +1,10 @@
+Background
+People with liver cirrhosis who have had one episode of variceal bleeding are at risk for repeated episodes of bleeding. Endoscopic intervention and portosystemic shunts are used to prevent further bleeding, but there is no consensus as to which approach is preferable. 
+Objectives
+To compare the benefits and harms of shunts (surgical shunts (total shunt (TS), distal splenorenal shunt (DSRS), or transjugular intrahepatic portosystemic shunt (TIPS)) versus endoscopic intervention (endoscopic sclerotherapy or banding, or both) with or without medical treatment (non‐selective beta blockers or nitrates, or both) for prevention of variceal rebleeding in people with liver cirrhosis. 
+Search methods
+We searched the CHBG Controlled Trials Register; CENTRAL, in the Cochrane Library; MEDLINE Ovid; Embase Ovid; LILACS (Bireme); Science Citation Index ‐ Expanded (Web of Science); and Conference Proceedings Citation Index ‐ Science (Web of Science); as well as conference proceedings and the references of trials identified until 22 June 2020. We contacted study investigators and industry researchers. 
+Selection criteria
+Randomised clinical trials comparing shunts versus endoscopic interventions with or without medical treatment in people with cirrhosis who had recovered from a variceal haemorrhage. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. When possible, we collected data to allow intention‐to‐treat analysis. For each outcome, we estimated a meta‐analysed estimate of treatment effect across trials (risk ratio for binary outcomes). We used random‐effects model meta‐analysis as our main analysis and as a means of presenting results. We reported differences in means for continuous outcomes without a meta‐analytic estimate due to high variability in their assessment among all trials. We assessed the certainty of evidence using GRADE. 

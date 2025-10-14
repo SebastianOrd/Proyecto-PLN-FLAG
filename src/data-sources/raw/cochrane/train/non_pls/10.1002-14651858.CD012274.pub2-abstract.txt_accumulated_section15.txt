@@ -1,0 +1,15 @@
+Background
+In most Western countries, obstetricians and midwives induce labour in about 25% of pregnant women. Oxytocin is an effective drug for this purpose, but associated with serious adverse effects of which uterine tachysystole, fetal distress and the need for immediate delivery are the most common. Various administration regimens such as reduced or pulsatile dosing have been suggested to minimise these. Discontinuation in the active phase of labour, i.e. when contractions are well‐established and the cervix is dilated at least 5 cm is another method which may reduce adverse effects. 
+Objectives
+To assess whether birth outcomes can be improved by discontinuation of intravenous (IV) oxytocin, initiated in the latent phase of induced labour, once active phase of labour is established. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth's Trials Register (31 January 2018), Scopus, ClinicalTrials.gov, and the WHO International Clinical Trials Registry Platform (ICTRP) (23 January 2018) together with reference checking, citation searching, and contact with study authors to identify additional studies. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing discontinued IV with continuous IV oxytocin in the active phase of induced labour. 
+No exclusion criteria were applied in terms of parity, maternal age, ethnicity, co‐morbidity status, labour setting, gestational age, and prior caesarean delivery. 
+Studies comparing different dosage regimens are outside the scope of this review.
+Data collection and analysis
+We used standard Cochrane methods.
+Main results
+We found 10 completed RCTs involving 1888 women. One additional trial is ongoing. The included trials were conducted in hospital settings between February 1998 and January 2016, two in Europe (Denmark, and Greece), two in Turkey, and one each in Israel, Iran, USA, Bangladesh, India, and Thailand. Most trials included full‐term singleton pregnancies with a fetus in vertex presentation. Some excluded women with cervical priming prior to induction and some excluded women with a history of prior caesarean delivery. When reported, the average age of the women ranged from 22 to 31 years, nulliparity from 45% to 68%, and pre‐pregnancy body mass index from 22 to 32. 
+Many of the included trials had design limitations and were judged to be at either high or unclear risk of bias across a number of 'Risk of bias' domains. 

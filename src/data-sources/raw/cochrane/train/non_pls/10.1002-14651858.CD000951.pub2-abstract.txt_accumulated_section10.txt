@@ -1,0 +1,10 @@
+Background
+Methotrexate (MTX) is a disease modifying antirheumatic drug (DMARD) used as a first line agent for treating rheumatoid arthritis (RA). Pharmacologically, it is classified as an antimetabolite due to its antagonistic effect on folic acid metabolism. Many patients treated with MTX experience mucosal, gastrointestinal, hepatic or haematologic side effects. Supplementation with folic or folinic acid during treatment with MTX may ameliorate these side effects. 
+Objectives
+To identify trials of supplementation with folic acid or folinic acid during MTX therapy for rheumatoid arthritis and to assess the benefits and harms of folic acid and folinic acid (a) in reducing the mucosal, gastrointestinal (GI), hepatic and haematologic side effects of MTX, and (b) whether or not folic or folinic acid supplementation has any effect on MTX benefit. 
+Search methods
+We originally performed MEDLINE searches, from January 1966 to June 1999. During the update of this review, we searched additional databases and used a sensitive search strategy designed to retrieve all trials on folic acid or folinic acid for rheumatoid arthritis from 1999 up to 2 March 2012. 
+Selection criteria
+We selected all double‐blind, randomised, placebo‐controlled clinical trials (RCTs) in which adult patients with rheumatoid arthritis were treated with MTX (at a dose equal to or less than 25 mg/week) concurrently with folate supplementation. In this update of the review we only included trials using 'low dose' folic or folinic acid (a starting dose of ≤ 7 mg weekly). 
+Data collection and analysis
+Data were extracted from the trials, and the trials were independently assessed for risk of bias using a predetermined set of criteria. 

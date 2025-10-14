@@ -1,0 +1,14 @@
+Background
+Patient adherence to medications, particularly for conditions requiring prolonged treatment such as tuberculosis (TB), is frequently less than ideal and can result in poor treatment outcomes. Material incentives to reward good behaviour and enablers to remove economic barriers to accessing care are sometimes given in the form of cash, vouchers, or food to improve adherence. 
+Objectives
+To evaluate the effects of material incentives and enablers in patients undergoing diagnostic testing, or receiving prophylactic or curative therapy, for TB. 
+Search methods
+We undertook a comprehensive search of the Cochrane Infectious Diseases Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; LILACS; Science Citation Index; and reference lists of relevant publications up to 5 June 2015. 
+Selection criteria
+Randomized controlled trials of material incentives in patients being investigated for TB, or on treatment for latent or active TB. 
+Data collection and analysis
+At least two review authors independently screened and selected studies, extracted data, and assessed the risk of bias in the included trials. We compared the effects of interventions using risk ratios (RR), and presented RRs with 95% confidence intervals (CI). The quality of the evidence was assessed using GRADE. 
+Main results
+We identified 12 eligible trials. Ten were conducted in the USA: in adolescents (one trial), in injection drug or cocaine users (four trials), in homeless adults (three trials), and in prisoners (two trials). The remaining two trials, in general adult populations, were conducted in Timor‐Leste and South Africa. 
+Sustained incentive programmes 
+Only two trials have assessed whether material incentives and enablers can improve long‐term adherence and completion of treatment for active TB, and neither demonstrated a clear benefit (RR 1.04, 95% CI 0.97 to 1.14; two trials, 4356 participants; low quality evidence). In one trial, the incentive, given as a daily hot meal, was not well received by the population due to the inconvenience of attending the clinic at midday, whilst in the other trial, nurses distributing the vouchers chose to "ration" their distribution among eligible patients, giving only to those whom they felt were most deprived. 

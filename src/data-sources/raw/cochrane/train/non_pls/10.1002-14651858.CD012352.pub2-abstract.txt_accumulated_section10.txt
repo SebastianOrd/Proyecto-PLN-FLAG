@@ -1,0 +1,10 @@
+Background
+Screening for malignant melanoma has the potential to reduce morbidity and mortality from the disease through earlier detection, as prognosis is closely associated with the thickness of the lesion at the time of diagnosis. However, there are also potential harms from screening people without skin lesion concerns, such as overdiagnosis of lesions that would never have caused symptoms if they had remained undetected. Overdiagnosis results in harm through unnecessary treatment and the psychosocial consequences of being labelled with a cancer diagnosis. For any type of screening, the benefits must outweigh the harms. Screening for malignant melanoma is currently practised in many countries, and the incidence of the disease is rising sharply, while mortality remains largely unchanged. 
+Objectives
+To assess the effects on morbidity and mortality of screening for malignant melanoma in the general population. 
+Search methods
+We searched the following databases up to May 2018: the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, Embase, and LILACS. We also searched five trials registries, checked the reference lists of included and other relevant studies for further references to randomised controlled trials (RCTs), used citation tracking (Web of Science) for key articles, and asked trialists about additional studies and study reports. 
+Selection criteria
+RCTs, including cluster‐randomised trials, of screening for malignant melanoma compared with no screening, regardless of screening modality or setting, in any type of population and in any age group where people were not suspected of having malignant melanoma. We excluded studies in people with a genetic disposition for malignant melanoma (e.g. familial atypical mole and melanoma syndrome) and studies performed exclusively in people with previous melanomas. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. The primary outcomes of this review were total mortality, overdiagnosis of malignant melanoma, and quality of life/psychosocial consequences. 

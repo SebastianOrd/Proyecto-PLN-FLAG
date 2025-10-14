@@ -1,0 +1,10 @@
+Background
+The sense of taste is very much essential to the overall health of an individual. It is a necessary component to enjoy one's food, which in turn provides nutrition to an individual. Any disturbance in taste perception can hamper quality of life in such patients by influencing their appetite, body weight and psychological well‐being. Taste disorders have been treated using different modalities of treatment and there is no consensus for the best intervention. Hence this Cochrane Review was undertaken. This is an update of the Cochrane Review first published in November 2014. 
+Objectives
+To assess the effects of interventions for the management of patients with taste disturbances.
+Search methods
+Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 4 July 2017); the Cochrane Central Register of Controlled Trials (CENTRAL; 2017 Issue 6) in the Cochrane Library (searched 4 July 2017); MEDLINE Ovid (1946 to 4 July 2017); Embase Ovid (1980 to 4 July 2017); CINAHL EBSCO (1937 to 4 July 2017); and AMED Ovid (1985 to 4 July 2017). The US National Institutes of Health Ongoing Trials Register ClinicalTrials.gov (www.clinicaltrials.gov) and the World Health Organization International Clinical Trials Registry Platform were searched for trials. Abstracts from scientific meetings and conferences were searched on 25 September 2017. No restrictions were placed on the language or date of publication when searching the electronic databases. 
+Selection criteria
+We included all randomised controlled trials (RCTs) comparing any pharmacological agent with a control intervention or any non‐pharmacological agent with a control intervention. We also included cross‐over trials in the review. 
+Data collection and analysis
+Two pairs of review authors independently, and in duplicate, assessed the quality of trials and extracted data. Wherever possible, we contacted trial authors for additional information. We collected adverse events information from the trials. 

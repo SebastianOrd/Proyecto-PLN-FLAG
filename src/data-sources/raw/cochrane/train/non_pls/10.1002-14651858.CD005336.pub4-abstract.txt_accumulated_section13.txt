@@ -1,0 +1,13 @@
+Background
+Cannabis use disorder is the most commonly reported illegal substance use disorder in the general population; although demand for assistance from health services is increasing internationally, only a minority of those with the disorder seek professional assistance. Treatment studies have been published, but pressure to establish public policy requires an updated systematic review of cannabis‐specific treatments for adults. 
+Objectives
+To evaluate the efficacy of psychosocial interventions for cannabis use disorder (compared with inactive control and/or alternative treatment) delivered to adults in an out‐patient or community setting. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2015, Issue 6), MEDLINE, EMBASE, PsycINFO, the Cumulaive Index to Nursing and Allied Health Literature (CINAHL) and reference lists of articles. Searched literature included all articles published before July 2015. 
+Selection criteria
+All randomised controlled studies examining a psychosocial intervention for cannabis use disorder (without pharmacological intervention) in comparison with a minimal or inactive treatment control or alternative combinations of psychosocial interventions. 
+Data collection and analysis
+We used standard methodological procedures as expected by The Cochrane Collaboration.
+Main results
+We included 23 randomised controlled trials involving 4045 participants. A total of 15 studies took place in the United States, two in Australia, two in Germany and one each in Switzerland, Canada, Brazil and Ireland. Investigators delivered treatments over approximately seven sessions (range, one to 14) for approximately 12 weeks (range, one to 56). 
+Overall, risk of bias across studies was moderate, that is, no trial was at high risk of selection bias, attrition bias or reporting bias. Further, trials included a large total number of participants, and each trial ensured the fidelity of treatments provided. In contrast, because of the nature of the interventions provided, participant blinding was not possible, and reports of researcher blinding often were unclear or were not provided. Half of the reviewed studies included collateral verification or urinalysis to confirm self report data, leading to concern about performance and detection bias. Finally, concerns of other bias were based on relatively consistent lack of assessment of non‐cannabis substance use or use of additional treatments before or during the trial period. 

@@ -1,0 +1,13 @@
+Background
+Overconsumption of food, alcohol, and tobacco products increases the risk of non‐communicable diseases. Interventions to change characteristics of physical micro‐environments where people may select or consume these products ‐ including shops, restaurants, workplaces, and schools – are of considerable public health policy and research interest. This review addresses two types of intervention within such environments: altering the availability (the range and/or amount of options) of these products, or their proximity (the distance at which they are positioned) to potential consumers. 
+Objectives
+1. To assess the impact on selection and consumption of altering the availability or proximity of (a) food (including non‐alcoholic beverages), (b) alcohol, and (c) tobacco products. 
+2. To assess the extent to which the impact of these interventions is modified by characteristics of: i. studies, ii. interventions, and iii. participants. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, PsycINFO, and seven other published or grey literature databases, as well as trial registries and key websites, up to 23 July 2018, followed by citation searches. 
+Selection criteria
+We included randomised controlled trials with between‐participants (parallel group) or within‐participants (cross‐over) designs. Eligible studies compared effects of exposure to at least two different levels of availability of a product or its proximity, and included a measure of selection or consumption of the manipulated product. 
+Data collection and analysis
+We used a novel semi‐automated screening workflow and applied standard Cochrane methods to select eligible studies, collect data, and assess risk of bias. In separate analyses for availability interventions and proximity interventions, we combined results using random‐effects meta‐analysis and meta‐regression models to estimate summary effect sizes (as standardised mean differences (SMDs)) and to investigate associations between summary effect sizes and selected study, intervention, or participant characteristics. We rated the certainty of evidence for each outcome using GRADE. 
+Main results
+We included 24 studies, with the majority (20/24) giving concerns about risk of bias. All of the included studies investigated food products; none investigated alcohol or tobacco. The majority were conducted in laboratory settings (14/24), with adult participants (17/24), and used between‐participants designs (19/24). All studies were conducted in high‐income countries, predominantly in the USA (14/24). 

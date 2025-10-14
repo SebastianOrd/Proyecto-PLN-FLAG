@@ -1,0 +1,12 @@
+Background
+Sepsis occurs when an infection is complicated by organ failure. Sepsis may be complicated by impaired corticosteroid metabolism. Thus, providing corticosteroids may benefit patients. The original review was published in 2004 and was updated in 2010 and 2015 prior to this update. 
+Objectives
+To examine the effects of corticosteroids on death in children and adults with sepsis.
+Search methods
+We searched CENTRAL, MEDLINE, Embase, LILACS, ClinicalTrials.gov, ISRCTN, and the WHO Clinical Trials Search Portal, on 25 July 2019. In addition, we conducted reference checking and citation searching, and contacted study authors, to identify additional studies as needed. 
+Selection criteria
+We included randomized controlled trials (RCTs) of corticosteroids versus placebo or usual care (antimicrobials, fluid replacement, and vasopressor therapy as needed) in children and adults with sepsis. We also included RCTs of continuous infusion versus intermittent bolus of corticosteroids. 
+Data collection and analysis
+All review authors screened and selected studies for inclusion. One review author extracted data, which was checked by the others, and by the lead author of the primary study when possible. We obtained unpublished data from the authors of some trials. We assessed the methodological quality of trials and applied GRADE to assess the certainty of evidence. Review authors did not contribute to assessment of eligibility and risk of bias, nor to data extraction, for trials they had participated in. 
+Main results
+We included 61 trials (12,192 participants), of which six included only children, two included children and adults, and the remaining trials included only adults. Nine studies are ongoing and will be considered in future versions of this review. We judged 19 trials as being at low risk of bias. 

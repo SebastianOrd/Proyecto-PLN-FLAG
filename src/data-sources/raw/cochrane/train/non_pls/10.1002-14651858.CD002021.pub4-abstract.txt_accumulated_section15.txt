@@ -1,0 +1,15 @@
+Background
+Managed withdrawal is a necessary step prior to drug‐free treatment or as the endpoint of long‐term substitution treatment. 
+Objectives
+To assess the effects of opioid antagonists plus minimal sedation for opioid withdrawal. Comparators were placebo as well as more established approaches to detoxification, such as tapered doses of methadone, adrenergic agonists, buprenorphine and symptomatic medications. 
+Search methods
+We updated our searches of the following databases to December 2016: CENTRAL, MEDLINE, Embase, PsycINFO and Web of Science. We also searched two trials registers and checked the reference lists of included studies for further references to relevant studies. 
+Selection criteria
+We included randomised and quasi‐randomised controlled clinical trials along with prospective controlled cohort studies comparing opioid antagonists plus minimal sedation versus other approaches or different opioid antagonist regimens for withdrawal in opioid‐dependent participants. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+Ten studies (6 randomised controlled trials and 4 prospective cohort studies, involving 955 participants) met the inclusion criteria for the review. We considered 7 of the 10 studies to be at high risk of bias in at least one of the domains we assessed. 
+Nine studies compared an opioid antagonist‐adrenergic agonist combination versus a treatment regimen based primarily on an alpha2‐adrenergic agonist (clonidine or lofexidine). Other comparisons (placebo, tapered doses of methadone, buprenorphine) made by included studies were too diverse for any meaningful analysis. This review therefore focuses on the nine studies comparing an opioid antagonist (naltrexone or naloxone) plus clonidine or lofexidine versus treatment primarily based on clonidine or lofexidine. 
+Five studies took place in an inpatient setting, two studies were in outpatients with day care, two used day care only for the first day of opioid antagonist administration, and one study described the setting as outpatient without indicating the level of care provided. 
+The included studies were heterogeneous in terms of the type of opioid antagonist treatment regimen, the comparator, the outcome measures assessed, and the means of assessing outcomes. As a result, the validity of any estimates of overall effect is doubtful, therefore we did not calculate pooled results for any of the analyses. 

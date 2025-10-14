@@ -1,0 +1,13 @@
+Background
+The World Health Organization (WHO) Model Lists of Essential Medicines lists chlorpromazine as one of its five medicines used in psychotic disorders. 
+Objectives
+To determine chlorpromazine dose response and dose side‐effect relationships for schizophrenia and schizophrenia‐like psychoses. 
+Search methods
+We searched the Cochrane Schizophrenia Group’s Study‐Based Register of Trials (December 2008; 2 October 2014; 19 December 2016). 
+Selection criteria
+All relevant randomised controlled trials (RCTs) comparing low doses of chlorpromazine (≤ 400 mg/day), medium dose (401 mg/day to 800 mg/day) or higher doses (> 800 mg/day) for people with schizophrenia, and which reported clinical outcomes. 
+Data collection and analysis
+We included studies meeting review criteria and providing useable data. Review authors extracted data independently. For dichotomous data, we calculated fixed‐effect risk ratios (RR) and their 95% confidence intervals (CIs). For continuous data, we calculated mean differences (MD) and their 95% CIs based on a fixed‐effect model. We assessed risk of bias for included studies and graded trial quality using GRADE (Grading of Recommendations Assessment, Development and Evaluation). 
+Main results
+As a result of searches undertaken in 2014, we found one new study and in 2016 more data for already included studies. Five relevant studies with 1132 participants (585 are relevant to this review) are now included. All are hospital‐based trials and, despite over 60 years of chlorpromazine use, have durations of less than six months and all are at least at moderate risk of bias. We found only data on low‐dose (≤ 400 mg/day) versus medium‐dose chlorpromazine (401 mg/day to 800 mg/day) and low‐dose versus high‐dose chlorpromazine (> 800 mg/day). 
+When low‐dose chlorpromazine (≤ 400 mg/day) was compared to medium‐dose chlorpromazine (401 mg/day to 800 mg/day), there was no clear benefit of one dose over the other for both global and mental state outcomes (low‐quality and very low‐quality evidence). There was also no clear evidence for people in one dosage group being more likely to leave the study early, over the other dosage group (moderate‐quality evidence). Similar numbers of participants from each group experienced agitation and restlessness (very low‐quality evidence). However, significantly more people in the medium‐dose group (401 mg/day to 800 mg/day) experienced extrapyramidal symptoms in the short term (2 RCTS, n = 108, RR 0.47, 95% CI 0.30 to 0.74, moderate‐quality evidence). No data for death were available. 

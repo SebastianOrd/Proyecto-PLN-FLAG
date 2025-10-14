@@ -1,0 +1,10 @@
+Background
+At birth, infants' lungs are fluid‐filled. For newborns to have a successful transition, this fluid must be replaced by air to enable gas exchange. Some infants are judged to have inadequate breathing at birth and are resuscitated with positive pressure ventilation (PPV). Giving prolonged (sustained) inflations at the start of PPV may help clear lung fluid and establish gas volume within the lungs. 
+Objectives
+To assess the benefits and harms of an initial sustained lung inflation (SLI) (> 1 second duration) versus standard inflations (≤ 1 second) in newborn infants receiving resuscitation with intermittent PPV. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 3), MEDLINE via PubMed (1966 to 1 April 2019), Embase (1980 to 1 April 2019), and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (1982 to 1 April 2019). We also searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles to identify randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs comparing initial sustained lung inflation (SLI) versus standard inflations given to infants receiving resuscitation with PPV at birth. 
+Data collection and analysis
+We assessed the methodological quality of included trials using Cochrane Effective Practice and Organisation of Care Group (EPOC) criteria (assessing randomisation, blinding, loss to follow‐up, and handling of outcome data). We evaluated treatment effects using a fixed‐effect model with risk ratio (RR) for categorical data; and mean standard deviation (SD), and weighted mean difference (WMD) for continuous data. We used the GRADE approach to assess the quality of evidence. 

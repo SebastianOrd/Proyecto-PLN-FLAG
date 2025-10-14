@@ -1,0 +1,9 @@
+Background
+The main pharmacological approach for the treatment of Alzheimer's disease (AD) has been based on the use of agents potentiating cholinergic transmission, particularly by inhibiting acetylcholinesterase (AChE), the enzyme that destroys acetylcholine after it has been secreted into the synaptic clefts. Physostigmine is an AChE inhibitor originally extracted from calabar beans. It is licensed in many countries as an agent for reversing the effect of drugs and poisons causing the anticholinergic syndrome. Studies conducted more than 20 years ago suggested that physostigmine could improve memory in people with or without dementia. Investigation of this property has been limited by the very short half‐life of physostigmine. Various forms of administering the drug have been tried to overcome this problem, most recently a controlled‐release (CR) oral formulation, and a skin patch. 
+Objectives
+To determine the clinical efficacy and safety of physostigmine in Alzheimer's disease.
+Search methods
+The Specialized Register of the Cochrane Dementia and Cognitive Improvement Group (CDCIG), The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL and LILACS were searched on 10 January 2008 using the terms: physostigmine OR syrapton OR antilirium. The CDCIG Specialized Register contains records from all major health care databases (CENTRAL, MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS) as well as from many trials databases and grey literature sources. 
+We asked Forest Laboratories and Pharmax, owners of the rights to market physostigmine for Alzheimer's disease, for additional data and reports of clinical trials but we did not receive any information. 
+Selection criteria
+All relevant unconfounded, double‐blind, randomized, placebo‐controlled trials in which physostigmine was administered for more than one day to patients with dementia of Alzheimer type. 

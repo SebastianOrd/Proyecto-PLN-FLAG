@@ -1,0 +1,10 @@
+Background
+Combined modality treatment consisting of chemotherapy followed by localised radiotherapy is the standard treatment for patients with early stage Hodgkin lymphoma (HL). However, due to long‐ term adverse effects such as secondary malignancies the role of radiotherapy has been questioned recently and some clinical study groups advocate chemotherapy only for this indication. 
+Objectives
+To assess the effects of chemotherapy alone compared to chemotherapy plus radiotherapy in adults with early stage HL . 
+Search methods
+For the or i ginal version of this review, we searched MEDLINE, Embase and CENTRAL as well as conference proceedings (American Society of Hematology, American Society of Clinical Oncology and International Symposium of Hodgkin Lymphoma) from January 1980 to November 2010 for randomised controlled trials (RCTs) comparing chemotherapy alone versus chemotherapy regimens plus radiotherapy. For the updated review we searched MEDLINE, CENTRAL and conference proceedings to December 2016. 
+Selection criteria
+We included RCTs comparing chemotherapy alone with chemotherapy plus radiotherapy in patients with early stage HL. We excluded trials with more than 20% of patients in advanced stage. As the value of radiotherapy in addition to chemotherapy is still not clear, we also compared to more cycles of chemotherapy in the control arm. In this updated review, we also included a second comparison evaluating trials with varying numbers of cycles of chemotherapy between intervention and control arms, same chemotherapy regimen in both arms assumed. We excluded trials evaluating children only, therefore only trials involving adults are included in this updated review. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the quality of trials. We contacted study authors to obtain missing information. As effect measures we used hazard ratios (HR) for overall survival (OS) and progression‐free survival (PFS) and risk ratios (RR) for response rates. Since not all trials reported PFS according to our definitions, we evaluated all similar outcomes (e.g. event‐free survival) as PFS/tumour control. 

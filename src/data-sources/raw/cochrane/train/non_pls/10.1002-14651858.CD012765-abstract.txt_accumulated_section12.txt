@@ -1,0 +1,12 @@
+Background
+The role of low‐level laser therapy (LLLT) in the management of carpal tunnel syndrome (CTS) is controversial. While some trials have shown distinct advantages of LLLT over placebo and some other non‐surgical treatments, other trials have not. 
+Objectives
+To assess the benefits and harms of LLLT versus placebo and versus other non‐surgical interventions in the management of CTS. 
+Search methods
+On 9 December 2016 we searched CENTRAL, MEDLINE, Embase, and Science Citation Index Expanded for randomised controlled trials (RCTs). We also searched clinical trial registries for ongoing studies. We checked the references of primary studies and review articles, and contacted trial authors for additional studies. 
+Selection criteria
+We considered for inclusion RCTs (irrespective of blinding, publication status or language) comparing LLLT versus placebo or non‐surgical treatment for the management of CTS. 
+Data collection and analysis
+Two review authors independently identified trials for inclusion and extracted the data. For continuous outcomes, we calculated the mean difference (MD) or standardised mean difference (SMD) with a 95% confidence interval (CI) using the random‐effects model, calculated using Review Manager. For dichotomous data, we reported risk ratio (RR) and 95% CI. 
+Main results
+We identified 22 trials randomising 1153 participants that were eligible for inclusion; nine trials (525 participants, 256 randomised to LLLT) compared LLLT with placebo, two (150 participants, 75 randomised to LLLT) compared LLLT with ultrasound, one compared LLLT with placebo and LLLT with ultrasound, two compared LLLT with steroid injection, and one trial each compared LLLT with other non‐surgical interventions: fascial manipulation, application of a pulsed magnetic field, transcutaneous electrical nerve stimulation (TENS), steroid injection, tendon gliding exercises, and applying a wrist splint combined with non‐steroidal anti‐inflammatory drugs. Three studies compared LLLT as part of multiple interventions. Risk of bias varied across the studies, but was high or unclear in most assessed domains in most studies. Most studies were small, with few events, and effect estimates were generally imprecise and inconsistent; the combination of these factors led us to categorise the quality of evidence for most outcomes as very low or, for a small number, low. 

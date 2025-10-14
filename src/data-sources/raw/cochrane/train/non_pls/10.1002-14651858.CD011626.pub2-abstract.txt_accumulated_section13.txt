@@ -1,0 +1,13 @@
+Background
+Beta thalassaemia is a common inherited blood disorder. The need for frequent blood transfusions in this condition poses a difficult problem to healthcare systems. The most common cause of morbidity and mortality is cardiac dysfunction from iron overload. The use of iron chelation therapy has reduced the severity of systemic iron overload but specific, non‐toxic treatment is required for removal of iron from the myocardium. 
+Objectives
+To assess the effects of calcium channel blockers combined with standard iron chelation therapy in people with transfusion‐dependent beta thalassaemia on the amount of iron deposited in the myocardium, on parameters of heart function, and on the incidence of severe heart failure or arrhythmias and related morbidity and mortality. 
+Search methods
+We searched the Cochrane Haemoglobinopathies Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. We also searched ongoing trials databases, and the reference lists of relevant articles and reviews. 
+Date of last search: 24 February 2018.
+Selection criteria
+We included randomised controlled trials of calcium channel blockers combined with standard chelation therapy compared with standard chelation therapy alone or combined with placebo in people with transfusion‐dependent beta thalassaemia. 
+Data collection and analysis
+Two authors independently applied the inclusion criteria for the selection of trials. Two authors assessed the risk of bias of trials and extracted data and a third author verified these assessments. The authors used the GRADE system to assess the quality of the evidence. 
+Main results
+Two randomised controlled trials (n = 74) were included in the review; there were 35 participants in the amlodipine arms and 39 in the control arms. The mean age of participants was 24.4 years with a standard deviation of 8.5 years. There was comparable participation from both genders. Overall, the risk of bias in included trials was low. The quality of the evidence ranged across outcomes from low to high, but the evidence for most outcomes was judged to be low quality. 

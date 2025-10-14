@@ -1,0 +1,11 @@
+Background
+One nutritional intervention advocated to prevent malnutrition among children is lipid‐based nutrient supplements (LNS). LNS provide a range of vitamins and minerals, but unlike most other micronutrient supplements, LNS also provide energy, protein and essential fatty acids. Alternative recipes and formulations to LNS include fortified blended foods (FBF), which are foods fortified with vitamins and minerals, and micronutrient powders (MNP), which are a combination of vitamins and minerals, 
+Objectives
+To assess the effects and safety of preventive LNS given with complementary foods on health, nutrition and developmental outcomes of non‐hospitalised infants and children six to 23 months of age, and whether or not they are more effective than other foods (including FBF or MNP). 
+This review did not assess the effects of LNS as supplementary foods or therapeutic foods in the management of moderate and severe acute malnutrition. 
+Search methods
+In October 2018, we searched CENTRAL, MEDLINE, Embase, 21 other databases and two trials registers for relevant studies. We also checked the reference lists of included studies and relevant reviews and contacted the authors of studies and other experts in the area for any ongoing and unpublished studies. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs that evaluated the impact of LNS plus complementary foods given at point‐of‐use (for any dose, frequency, duration) to non‐hospitalised infants and young children aged six to 23 months in stable or emergency settings and compared to no intervention, other supplementary foods (i.e. FBF), nutrition counselling or multiple micronutrient supplements or powders for point‐of‐use fortification of complementary foods. 
+Data collection and analysis
+Two review authors independently screened studies for relevance and, for those studies included in the review, extracted data, assessed risk of bias and rated the quality of the evidence using the GRADE approach. We carried out statistical analysis using Review Manager software. We used a random‐effects meta‐analysis for combining data as the interventions differed significantly. We set out the main findings of the review in 'Summary of findings' tables,. 

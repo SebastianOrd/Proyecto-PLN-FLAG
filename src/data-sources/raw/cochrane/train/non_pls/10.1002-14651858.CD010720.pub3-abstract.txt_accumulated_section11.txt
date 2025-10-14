@@ -1,0 +1,11 @@
+Background
+This is an update of a Cochrane Review first published in 2015. The conclusions have not changed. 
+Hypodermic needles of different sizes (gauges and lengths) can be used for vaccination procedures. The gauge (G) refers to the outside diameter of the needle tubing. The higher the gauge number, the smaller the diameter of the needle (e.g. a 23 G needle is 0.6 mm in diameter, whereas a 25 G needle is 0.5 mm in diameter). Many vaccines are recommended for injection into muscle (intramuscularly), although some are delivered subcutaneously (under the skin) and intradermally (into skin). Choosing an appropriate length and gauge of a needle may be important to ensure that a vaccine is delivered to the appropriate site and produces the maximum immune response while causing the least possible harm. Guidelines conflict regarding the sizes of needles that should be used for vaccinating children and adolescents. 
+Objectives
+To assess the effects of using needles of different sizes for administering vaccines to children and adolescents on vaccine immunogenicity (the ability of the vaccine to elicit an immune response), procedural pain, and other reactogenicity events (adverse events following vaccine administration). 
+Search methods
+We updated our searches of CENTRAL, MEDLINE, Embase, and CINAHL to October 2017. We also searched proceedings of vaccine conferences and two trials registers. 
+Selection criteria
+Randomised controlled trials evaluating the effects of using hypodermic needles of any gauge or length to administer any type of vaccine to people aged from birth to 24 years. 
+Data collection and analysis
+Three review authors independently extracted trial data and assessed the risk of bias. We contacted trial authors for additional information. We rated the quality of evidence using the GRADE system. 

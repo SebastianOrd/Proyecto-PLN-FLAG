@@ -1,0 +1,13 @@
+Background
+This review is one of six looking at the primary medical management options for patients with chronic rhinosinusitis. 
+Chronic rhinosinusitis is common and is characterised by inflammation of the lining of the nose and paranasal sinuses leading to nasal blockage, rhinorrhoea, facial pressure/pain and loss of sense of smell. The condition can occur with or without nasal polyps. The use of topical (intranasal) corticosteroids has been widely advocated for the treatment of chronic rhinosinusitis given the belief that inflammation is a major component of this condition. 
+Objectives
+To assess the effects of intranasal corticosteroids in people with chronic rhinosinusitis.
+Search methods
+The Cochrane ENT Information Specialist searched the Cochrane ENT Trials Register; Central Register of Controlled Trials (CENTRAL 2015, Issue 8); MEDLINE; EMBASE; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 11 August 2015. 
+Selection criteria
+Randomised controlled trials (RCTs) with a follow‐up period of at least three months comparing intranasal corticosteroids (e.g. beclomethasone dipropionate, triamcinolone acetonide, flunisolide, budesonide) against placebo or no treatment in patients with chronic rhinosinusitis. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. Our primary outcomes were disease‐specific health‐related quality of life (HRQL), patient‐reported disease severity and the commonest adverse event ‐ epistaxis. Secondary outcomes included general HRQL, endoscopic nasal polyp score, computerised tomography (CT) scan score and the adverse events of local irritation or other systemic adverse events. We used GRADE to assess the quality of the evidence for each outcome; this is indicated in italics. 
+Main results
+We included 18 RCTs with a total of 2738 participants. Fourteen studies had participants with nasal polyps and four studies had participants without nasal polyps. Only one study was conducted in children. 

@@ -1,0 +1,12 @@
+Background
+Spinal anaesthesia has been implicated as one of the possible causes of neurological complications following surgical procedures. This painful condition, occurring during the immediate postoperative period, is termed transient neurological symptoms (TNS) and is typically observed after the use of spinal lidocaine. Alternatives to lidocaine that can provide high‐quality anaesthesia without TNS development are needed. This review was originally published in 2005, and last updated in 2009. 
+Objectives
+To determine the frequency of TNS after spinal anaesthesia with lidocaine and compare it with other types of local anaesthetics by performing a meta‐analysis for all pair‐wise comparisons, and conducting network meta‐analysis (NMA) to rank interventions. 
+Search methods
+We searched CENTRAL, MEDLINE, Elsevier Embase, and LILACS on 25 November 2018. We searched clinical trial registries and handsearched the reference lists of trials and review articles. 
+Selection criteria
+We included randomized and quasi‐randomized controlled trials comparing the frequency of TNS after spinal anaesthesia with lidocaine to other local anaesthetics. Studies had to have two or more arms that used distinct local anaesthetics (irrespective of the concentration and baricity of the solution) for spinal anaesthesia in preparation for surgery. 
+We included adults who received spinal anaesthesia and considered all pregnant participants as a subgroup. The follow‐up period for TNS was at least 24 hours. 
+Data collection and analysis
+Four review authors independently assessed studies for inclusion. Three review authors independently evaluated the quality of the relevant studies and extracted the data from the included studies. We performed meta‐analysis for all pair‐wise comparisons of local anaesthetics, as well as NMA. 
+We used an inverse variance weighting for summary statistics and a random‐effects model as we expected methodological and clinical heterogeneity across the included studies resulting in varying effect sizes between studies of pair‐wise comparisons. The NMA used all included studies based on a graph theoretical approach within a frequentist framework. Finally, we ranked the competing treatments by P scores. 

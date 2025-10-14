@@ -1,0 +1,11 @@
+Background
+The explicit use of theory in research helps expand the knowledge base. Theories and models have been used extensively in HIV‐prevention research and in interventions for preventing sexually transmitted infections (STIs). The health behavior field uses many theories or models of change. However, many educational interventions addressing contraception have no explicit theoretical base. 
+Objectives
+To review randomized controlled trials (RCTs) that tested a theoretical approach to inform contraceptive choice and encourage or improve contraceptive use. 
+Search methods
+To 1 November 2016, we searched for trials that tested a theory‐based intervention for improving contraceptive use in PubMed, CENTRAL, POPLINE, Web of Science, ClinicalTrials.gov, and ICTRP. For the initial review, we wrote to investigators to find other trials. 
+Selection criteria
+Included trials tested a theory‐based intervention for improving contraceptive use. Interventions addressed the use of one or more methods for contraception. The reports provided evidence that the intervention was based on a specific theory or model. The primary outcomes were pregnancy and contraceptive choice or use. 
+Data collection and analysis
+We assessed titles and abstracts identified during the searches. One author extracted and entered the data into Review Manager; a second author verified accuracy. We examined studies for methodological quality. 
+For unadjusted dichotomous outcomes, we calculated the Mantel‐Haenszel odds ratio (OR) with 95% confidence interval (CI). Cluster randomized trials used various methods of accounting for the clustering, such as multilevel modeling. Most reports did not provide information to calculate the effective sample size. Therefore, we presented the results as reported by the investigators. We did not conduct meta‐analysis due to varied interventions and outcome measures. 

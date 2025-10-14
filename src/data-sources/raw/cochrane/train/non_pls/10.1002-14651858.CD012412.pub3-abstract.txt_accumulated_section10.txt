@@ -1,0 +1,10 @@
+Background
+When human milk is not available for feeding preterm infants, protein hydrolysate, rather than standard cow's milk formulas (with intact proteins), is often used because it is perceived as being tolerated better and less likely to lead to complications. However, protein hydrolysate formulas are more expensive than standard formulas, and concern exists that their use in practice is not supported by high‐quality evidence. 
+Objectives
+To assess the effects of feeding preterm infants hydrolysed formula (vs standard cow's milk formula) on risk of feed intolerance, necrotising enterocolitis, and other morbidity and mortality. 
+Search methods
+We used the standard Cochrane Neonatal search strategy including electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 1), in the Cochrane Library; Ovid MEDLINE (1966 to 28 January 2019); Ovid Embase (1980 to 28 January 2019); and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (28 January 2019), as well as conference proceedings and previous reviews. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials that compared feeding preterm infants protein hydrolysate versus standard (non‐hydrolysed) cow's milk formula. 
+Data collection and analysis
+Two review authors assessed trial eligibility and risk of bias and extracted data independently. We analysed treatment effects as described in the individual trials and reported risk ratios and risk differences for dichotomous data, and mean differences for continuous data, with respective 95% confidence intervals (CIs). We used a fixed‐effect model in meta‐analyses and explored potential causes of heterogeneity in sensitivity analyses. We assessed quality of evidence at the outcome level using the GRADE approach. 

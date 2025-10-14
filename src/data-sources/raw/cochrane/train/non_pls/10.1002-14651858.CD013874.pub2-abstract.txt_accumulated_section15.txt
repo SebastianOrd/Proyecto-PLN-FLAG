@@ -1,0 +1,15 @@
+Background
+Multiple sclerosis (MS) is the most common neurological cause of disability in young adults. Off‐label rituximab for MS is used in most countries surveyed by the International Federation of MS, including high‐income countries where on‐label disease‐modifying treatments (DMTs) are available.  
+Objectives
+To assess beneficial and adverse effects of rituximab as 'first choice' and as 'switching' for adults with MS. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL, and trial registers for completed and ongoing studies on 31 January 2021. 
+Selection criteria
+We included randomised controlled trials (RCTs) and controlled non‐randomised studies of interventions (NRSIs) comparing rituximab with placebo or another DMT for adults with MS. 
+Data collection and analysis
+We followed standard Cochrane methodology. We used the Cochrane Collaboration’s tool for assessing risk of bias. We rated the certainty of evidence using GRADE for: disability worsening, relapse, serious adverse events (SAEs), health‐related quality of life (HRQoL), common infections, cancer, and mortality. We conducted separate analyses for rituximab as 'first choice' or as 'switching', relapsing or progressive MS, comparison versus placebo or another DMT, and RCTs or NRSIs. 
+Main results
+We included 15 studies (5 RCTs, 10 NRSIs) with 16,429 participants of whom 13,143 were relapsing MS and 3286 progressive MS. The studies were one to two years long and compared rituximab as 'first choice' with placebo (1 RCT) or other DMTs (1 NRSI), rituximab as 'switching' against placebo (2 RCTs) or other DMTs (2 RCTs, 9 NRSIs). The studies were conducted worldwide; most originated from high‐income countries, six from the Swedish MS register. Pharmaceutical companies funded two studies. We identified 14 ongoing studies. 
+Rituximab as 'first choice' for relapsing MS 
+Rituximab versus placebo: no studies met eligibility criteria for this comparison.
+Rituximab versus other DMTs: one NRSI compared rituximab with interferon beta or glatiramer acetate, dimethyl fumarate, natalizumab, or fingolimod in active relapsing MS at 24 months' follow‐up. Rituximab likely results in a large reduction in relapses compared with interferon beta or glatiramer acetate (hazard ratio (HR) 0.14, 95% confidence interval (CI) 0.05 to 0.39; 335 participants; moderate‐certainty evidence). Rituximab may reduce relapses compared with dimethyl fumarate (HR 0.29, 95% CI 0.08 to 1.00; 206 participants; low‐certainty evidence) and natalizumab (HR 0.24, 95% CI 0.06 to 1.00; 170 participants; low‐certainty evidence). It may make little or no difference on relapse compared with fingolimod (HR 0.26, 95% CI 0.04 to 1.69; 137 participants; very low‐certainty evidence). The study reported no deaths over 24 months. The study did not measure disability worsening, SAEs, HRQoL, and common infections. 

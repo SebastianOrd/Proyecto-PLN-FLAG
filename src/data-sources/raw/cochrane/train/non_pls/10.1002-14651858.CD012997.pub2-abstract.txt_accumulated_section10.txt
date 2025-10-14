@@ -1,0 +1,10 @@
+Background
+Haemolytic uraemic syndrome (HUS) is a common cause of acquired kidney failure in children and rarely in adults. The most important risk factor for development of HUS is a gastrointestinal infection by Shiga toxin‐producing Escherichia coli (STEC). This review addressed the interventions aimed at secondary prevention of HUS in patients with diarrhoea who were infected with a bacteria that increase the risk of HUS. 
+Objectives
+Our objective was to evaluate evidence regarding secondary preventative strategies for HUS associated with STEC infections. In doing so, we sought to assess the effectiveness and safety of interventions as well as their potential to impact the morbidity and death associated with this condition. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 12 November 2020 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+Studies were considered based on the methods, participants, and research goals. Only randomised controlled trials were considered eligible for inclusion. The participants of the studies were paediatric and adult patients with diarrhoeal illnesses due to STEC. The primary outcome of interest was incidence of HUS. 
+Data collection and analysis
+We used standard methodological procedures as recommended by Cochrane. Summary estimates of effect were obtained using a random‐effects model, and results were expressed as risk ratios (RR) and their 95% confidence intervals (CI) for dichotomous outcomes. Confidence in the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. 

@@ -1,0 +1,10 @@
+Background
+Nicotine replacement therapy (NRT) aims to replace nicotine from cigarettes to ease the transition from cigarette smoking to abstinence. It works by reducing the intensity of craving and withdrawal symptoms. Although there is clear evidence that NRT used after smoking cessation is effective, it is unclear whether higher doses, longer durations of treatment, or using NRT before cessation add to its effectiveness. 
+Objectives
+To determine the effectiveness and safety of different forms, deliveries, doses, durations and schedules of NRT, for achieving long‐term smoking cessation, compared to one another. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group trials register, and trial registries for papers mentioning NRT in the title, abstract or keywords. Date of most recent search: April 2018. 
+Selection criteria
+Randomized trials in people motivated to quit, comparing one type of NRT use with another. We excluded trials that did not assess cessation as an outcome, with follow‐up less than six months, and with additional intervention components not matched between arms. Trials comparing NRT to control, and trials comparing NRT to other pharmacotherapies, are covered elsewhere. 
+Data collection and analysis
+We followed standard Cochrane methods. Smoking abstinence was measured after at least six months, using the most rigorous definition available. We extracted data on cardiac adverse events (AEs), serious adverse events (SAEs), and study withdrawals due to treatment. We calculated the risk ratio (RR) and the 95% confidence interval (CI) for each outcome for each study, where possible. We grouped eligible studies according to the type of comparison. We carried out meta‐analyses where appropriate, using a Mantel‐Haenszel fixed‐effect model. 

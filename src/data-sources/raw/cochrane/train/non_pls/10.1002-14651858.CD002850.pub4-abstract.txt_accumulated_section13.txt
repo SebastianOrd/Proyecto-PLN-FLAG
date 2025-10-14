@@ -1,0 +1,13 @@
+Background
+Telephone services can provide information and support for smokers. Counselling may be provided proactively or offered reactively to callers to smoking cessation helplines. 
+Objectives
+To evaluate the effect of telephone support to help smokers quit, including proactive or reactive counselling, or the provision of other information to smokers calling a helpline. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group Specialised Register, clinicaltrials.gov, and the ICTRP for studies of telephone counselling, using search terms including 'hotlines' or 'quitline' or 'helpline'. Date of the most recent search: May 2018. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials which offered proactive or reactive telephone counselling to smokers to assist smoking cessation. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We pooled studies using a random‐effects model and assessed statistical heterogeneity amongst subgroups of clinically comparable studies using the I2 statistic. In trials including smokers who did not call a quitline, we used meta‐regression to investigate moderation of the effect of telephone counselling by the planned number of calls in the intervention, trial selection of participants that were motivated to quit, and the baseline support provided together with telephone counselling (either self‐help only, brief face‐to‐face intervention, pharmacotherapy, or financial incentives). 
+Main results
+We identified 104 trials including 111,653 participants that met the inclusion criteria. Participants were mostly adult smokers from the general population, but some studies included teenagers, pregnant women, and people with long‐term or mental health conditions. Most trials (58.7%) were at high risk of bias, while 30.8% were at unclear risk, and only 11.5% were at low risk of bias for all domains assessed. Most studies (100/104) assessed proactive telephone counselling, as opposed to reactive forms. 
+Among trials including smokers who contacted helplines (32,484 participants), quit rates were higher for smokers receiving multiple sessions of proactive counselling (risk ratio (RR) 1.38, 95% confidence interval (CI) 1.19 to 1.61; 14 trials, 32,484 participants; I2 = 72%) compared with a control condition providing self‐help materials or brief counselling in a single call. Due to the substantial unexplained heterogeneity between studies, we downgraded the certainty of the evidence to moderate. 

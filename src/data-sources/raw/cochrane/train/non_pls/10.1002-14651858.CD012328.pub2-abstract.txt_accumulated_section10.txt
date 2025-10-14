@@ -1,0 +1,10 @@
+Background
+About half of patients with Crohn's disease (CD) require surgery within 10 years of diagnosis. Resection of the affected segment is highly effective, however the majority of patients experience clinical recurrence after surgery. Most of these patients have asymptomatic endoscopic recurrence weeks or months before starting with symptoms. This inflammation can be detected by colonoscopy and is a good predictor of poor prognosis.Therapy guided by colonoscopy could tailor the management and improve the prognosis of postoperative CD. 
+Objectives
+To assess the effects of prophylactic therapy guided by colonoscopy in reducing the postoperative recurrence of CD in adults. 
+Search methods
+The following electronic databases were searched up to 17 December 2019: MEDLINE, Embase, CENTRAL, Clinical Trials.gov, WHO Trial Registry and Cochrane IBD specialized register. Reference lists of included articles, as well as conference proceedings were handsearched. 
+Selection criteria
+Randomised controlled trials (RCTs), quasi‐RCTs and cohort studies comparing colonoscopy‐guided management versus management non‐guided by colonoscopy. 
+Data collection and analysis
+Two review authors independently considered studies for eligibility, extracted the data and assessed study quality. Methodological quality was assessed using both the Cochrane 'Risk of bias' tool for RCTs and Newcastle‐Ottawa scale (NOS) for cohort studies. The primary outcome was clinical recurrence. Secondary outcomes included: endoscopic, surgical recurrence and adverse events. We calculated the risk ratio (RR) for each dichotomous outcome and extracted the hazard ratio (HR) for time‐to‐event outcomes. All estimates were reported with their corresponding 95% confidence interval (CI). Data were analysed on an intention‐to‐treat (ITT) basis. The overall quality of the evidence was evaluated using GRADE criteria. 

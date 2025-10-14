@@ -1,0 +1,10 @@
+Background
+Current drug therapy for acute heart failure syndromes (AHFS) consists mainly of diuretics supplemented by vasodilators or inotropes. Nitrates have been used as vasodilators in AHFS for many years and have been shown to improve some aspects of AHFS in some small studies. The aim of this review was to determine the clinical efficacy and safety of nitrate vasodilators in AHFS. 
+Objectives
+To quantify the effect of different nitrate preparations (isosorbide dinitrate and nitroglycerin) and the effect of route of administration of nitrates on clinical outcome, and to evaluate the safety and tolerability of nitrates in the management of AHFS. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 3), MEDLINE (1950 to July week 2 2011) and EMBASE (1980 to week 28 2011). We searched the Current Controlled Trials MetaRegister of Clinical Trials (compiled by Current Science) (July 2011). We checked the reference lists of trials and contacted trial authors. We imposed no language restriction. 
+Selection criteria
+Randomised controlled trials comparing nitrates (isosorbide dinitrate and nitroglycerin) with alternative interventions (frusemide and morphine, frusemide alone, hydralazine, prenalterol, intravenous nesiritide and placebo) in the management of AHFS in adults aged 18 and over. 
+Data collection and analysis
+Two authors independently performed data extraction. Two authors performed trial quality assessment. We used mean difference (MD), odds ratio (OR) and 95% confidence intervals (CI) to measure effect sizes. Two authors independently assessed and rated the methodological quality of each trial using the Cochrane Collaboration tool for assessing risk of bias. 

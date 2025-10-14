@@ -1,0 +1,14 @@
+Vaccines for preventing shingles in older adults
+Review question 
+We evaluated the effectiveness and safety of vaccines to prevent shingles in healthy older people. 
+Background 
+Varicella zoster virus causes chickenpox and can remain inactive in nerve cells for many years. The virus can reactivate, travel through the nerve to the skin, and produce blisters along the nerve path. This condition is called shingles (herpes zoster), and mostly affects people with low immunity, such as older people. Before blisters appear, symptoms may include itching, numbness, tingling, or local pain. Shingles causes nerve inflammation and severe pain that can affect quality of life. The incidence rate of herpes zoster ranges from 2.08 cases to 6.20 cases per 1000 person‐years (i.e. the number of new cases per population at risk, in a given time period). This number is increasing, due in part to people living longer. 
+This is an update of a Cochrane Review last updated in 2016.
+Search date 
+31 January 2019.
+Study characteristics 
+We included 11 new studies involving 18,615 participants in this update; the review now includes evidence from 24 studies involving 88,531 participants. Most studies were conducted in high‐income countries in Europe and North America, whilst two studies were conducted in Japan. Study participants were healthy adults aged 60 years or over with no difficulty fighting infection, most of whom were Caucasian (understood to be white) women. Follow‐up ranged from 28 days to 7 years. All primary study reports were published in English. 
+Study funding sources 
+Most studies were funded by pharmaceutical companies; one study received funding from a university research foundation. 
+Key results 
+One large, high‐quality study including 38,546 participants aged 60 years or over compared LZV versus fake (placebo) vaccines (one dose administered as a subcutaneous (given under the skin) injection) and found that the active vaccine can prevent shingles for up to three years. The adverse effects of the vaccine were mostly mild to moderate, for systemic symptoms as well as for injection site reactions. 

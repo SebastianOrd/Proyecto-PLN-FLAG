@@ -1,0 +1,18 @@
+Background
+Thalassaemia major is a genetic disease characterised by a reduced ability to produce haemoglobin. Management of the resulting anaemia is through red blood cell transfusions. 
+Repeated transfusions result in an excessive accumulation of iron in the body (iron overload), removal of which is achieved through iron chelation therapy. A commonly used iron chelator, deferiprone, has been found to be pharmacologically efficacious. However, important questions exist about the efficacy and safety of deferiprone compared to another iron chelator, desferrioxamine. 
+Objectives
+To summarise data from trials on the clinical efficacy and safety of deferiprone and to compare the clinical efficacy and safety of deferiprone with desferrioxamine for thalassaemia. 
+Search methods
+We searched the Cochrane Cystic fibrosis and Genetic Disorders Group's Haemoglobinopathies trials Register and MEDLINE, EMBASE, CENTRAL (The Cochrane Library), LILACS and other international medical databases, plus registers of ongoing trials and the Transfusion Evidence Library (www.transfusionevidencelibrary.com). We also contacted the manufacturers of deferiprone and desferrioxamine. 
+All searches were updated to 05 March 2013.
+Selection criteria
+Randomised controlled trials comparing deferiprone with another iron chelator; or comparing two schedules or doses of deferiprone, in people with transfusion‐dependent thalassaemia. 
+Data collection and analysis
+Two authors independently assessed trials for risk of bias and extracted data. Missing data were requested from the original investigators. 
+Main results
+A total of 17 trials involving 1061 participants (range 13 to 213 participants per trial) were included. Of these, 16 trials compared either deferiprone alone with desferrioxamine alone, or a combined therapy of deferiprone and desferrioxamine with either deferiprone alone or desferrioxamine alone; one compared different schedules of deferiprone. There was little consistency between outcomes and limited information to fully assess the risk of bias of most of the included trials. 
+Four trials reported mortality; each reported the death of one individual receiving deferiprone with or without desferrioxamine. One trial reported five further deaths in patients who withdrew from randomised treatment (deferiprone with or without desferrioxamine) and switched to desferrioxamine alone. Seven trials reported cardiac function or liver fibrosis as measures of end organ damage. 
+Earlier trials measuring the cardiac iron load indirectly by magnetic resonance imaging (MRI) T2* signal had suggested deferiprone may reduce cardiac iron more quickly than desferrioxamine. However, a meta‐analysis of two trials suggested that left ventricular ejection fraction was significantly reduced in patients who received desferrioxamine alone compared with combination therapy.   
+One trial, which planned five years of follow up, was stopped early due to the beneficial effects of combined treatment compared with deferiprone alone in terms of serum ferritin levels reduction. 
+The results of this and three other trials suggest an advantage of combined therapy over monotherapy to reduce iron stores as measured by serum ferritin. There is, however, no conclusive or consistent evidence for the improved efficacy of combined deferiprone and desferrioxamine therapy over monotherapy from direct or indirect measures of liver iron. Both deferiprone and desferrioxamine produce a significant reduction in iron stores in transfusion‐dependent, iron‐overloaded people. There is no evidence from randomised controlled trials to suggest that either has a greater reduction of clinically significant end organ damage. 

@@ -1,0 +1,23 @@
+Are corticosteroids (anti‐inflammatory medicines) given orally or by injection an effective treatment for people with COVID‐19? 
+Key messages 
+• Corticosteroids (anti‐inflammatory medicines) given orally or by injection (systemic) are probably effective treatments for people hospitalised with COVID‐19. We don’t know whether they cause unwanted effects.  
+• We don’t know which systemic corticosteroid is the most effective. We found no evidence about people without symptoms or with mild COVID‐19 who were not hospitalised.  
+• We found 42 ongoing studies and 16 completed studies that have not published their results. We will update this review when we find new evidence.     
+What are corticosteroids? 
+Corticosteroids are anti‐inflammatory medicines that reduce redness and swelling. They also reduce the activity of the immune system, which defends the body against disease and infection. Corticosteroids are used to treat a variety of conditions, such as asthma, eczema, joint strains and rheumatoid arthritis.  
+Systemic corticosteroids can be swallowed or given by injection to treat the whole body. High doses of corticosteroids taken over a long time may cause unwanted effects, such as increased appetite, difficulty sleeping and mood changes.  
+Why are corticosteroids possible treatments for COVID‐19?  
+COVID‐19 affects the lungs and airways. As the immune system fights the virus, the lungs and airways become inflamed, causing breathing difficulties. Corticosteroids reduce inflammation, so may reduce the need for breathing support with a ventilator (a machine that breathes for a patient). Some patients’ immune systems overreact to the virus causing further inflammation and tissue damage; corticosteroids may help to control this response. 
+What did we want to find out? 
+We wanted to know whether systemic corticosteroids are an effective treatment for people with COVID‐19 and whether they cause unwanted effects. 
+We were interested in:
+• deaths from any cause up to 14 days after treatment, or longer if reported;• whether people got better or worse after treatment, based on their need for breathing support;• quality of life;• unwanted effects and infections caught in hospital. 
+What did we do? We searched for studies that investigated systemic corticosteroids for people with mild, moderate or severe COVID‐19. People could be any age, sex or ethnicity. 
+Studies could compare:
+• corticosteroids plus usual care versus usual care with or without placebo (sham medicine);• one corticosteroid versus another;• corticosteroids versus a different medicine;• different doses of a corticosteroid; or• early versus late treatment. 
+We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes. 
+What did we find?  
+We found 11 studies with 8075 people. About 3000 people received corticosteroids, mostly dexamethasone (2322 people). Most studies took place in high‐income countries.  
+We also found 42 ongoing studies, and 16 completed studies that have not yet published their results.  
+Main results 
+Ten studies compared corticosteroids plus usual care versus usual care with or without placebo. Only one study compared two corticosteroids. The studies included only hospitalised people with confirmed or suspected COVID‐19. No studies looked at non‐hospitalised people, different doses or timing, or provided information about quality of life. 

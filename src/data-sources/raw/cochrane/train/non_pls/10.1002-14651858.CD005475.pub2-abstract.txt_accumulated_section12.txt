@@ -1,0 +1,12 @@
+Background
+Acupuncture, with many categories such as traditional acupuncture, electroacupuncture, laser acupuncture, and acupoint injection, has been shown to be relatively safe with few adverse effects. It is accessible and inexpensive, at least in China, and is likely to be widely used there for psychotic symptoms. 
+Objectives
+To review the effects of acupuncture, alone or in combination treatments compared with placebo (or no treatment) or any other treatments for people with schizophrenia or related psychoses. 
+Search methods
+We searched Cochrane Schizophrenia Group’s Trials Register (February 2012), which is based on regular searches of CINAHL, BIOSIS, AMED, EMBASE, PubMed, MEDLINE, PsycINFO and clinical trials registries. We also inspected references of identified studies and contacted relevant authors for additional information. 
+Selection criteria
+We included all relevant randomised controlled trials involving people with schizophrenia‐like illnesses, comparing acupuncture added to standard dose antipsychotics with standard dose antipsychotics alone, acupuncture added to low dose antipsychotics with standard dose antipsychotics, acupuncture with antipsychotics, acupuncture added to Traditional Chinese Medicine (TCM) drug with TCM drug, acupuncture with TCM drug, electric acupuncture convulsive therapy with electroconvulsive therapy. 
+Data collection and analysis
+We reliably extracted data from all included studies, discussed any disagreement, documented decisions and contacted authors of studies when necessary. We analysed binary outcomes using a standard estimation of risk ratio (RR) and its 95% confidence interval (CI). For continuous data, we calculated mean differences with 95% CI. For homogeneous data we used fixed‐effect model. We assessed risk of bias for included studies and created 'Summary of findings' tables using GRADE. 
+Main results
+After an update search in 2012 the review now includes 30 studies testing different forms of acupuncture across six different comparisons. All studies were at moderate risk of bias. 

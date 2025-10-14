@@ -1,0 +1,11 @@
+Background
+This is an update of a Cochrane Review first published in the Cochrane Library (2010, Issue 7). 
+To increase the success rate of assisted reproductive technologies (ARTs), adherence compounds such as hyaluronic acid (HA) have been introduced into subfertility management. Adherence compounds are added to the embryo transfer medium to increase the likelihood of embryo implantation, with the potential for higher clinical pregnancy and live birth rates. 
+Objectives
+To determine whether adding adherence compounds to embryo transfer media could improve pregnancy outcomes, including improving live birth and decreasing miscarriage, in women undergoing assisted reproduction. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group Trials Register, CENTRAL, MEDLINE, Embase, and PsycINFO electronic databases on 7 January 2020 for randomised controlled trials that examined the effects of adherence compounds in embryo transfer media on pregnancy outcomes. Furthermore, we communicated with experts in the field, searched trials registries, checked reference lists of relevant studies, and conference abstracts were handsearched. 
+Selection criteria
+Only truly randomised controlled trials comparing embryo transfer media containing functional concentrations of adherence compounds to media with no or low adherence compound concentrations were included. 
+Data collection and analysis
+Two review authors selected trials for inclusion according to the above criteria, after which the same two review authors independently extracted data for subsequent analysis. Statistical analysis was performed according to the guidelines developed by Cochrane. We combined data to calculate pooled risk ratios (RRs) and 95% confidence intervals (CIs). We assessed statistical heterogeneity using the I² statistic. We used GRADE methods to assess the overall quality of evidence for the main comparisons. 

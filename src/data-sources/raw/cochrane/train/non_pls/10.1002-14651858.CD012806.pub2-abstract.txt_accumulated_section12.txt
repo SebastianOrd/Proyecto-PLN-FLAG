@@ -1,0 +1,12 @@
+Background
+Melanoma is one of the most aggressive forms of skin cancer, with the potential to metastasise to other parts of the body via the lymphatic system and the bloodstream. Melanoma accounts for a small percentage of skin cancer cases but is responsible for the majority of skin cancer deaths. Various imaging tests can be used with the aim of detecting metastatic spread of disease following a primary diagnosis of melanoma (primary staging) or on clinical suspicion of disease recurrence (re‐staging). Accurate staging is crucial to ensuring that patients are directed to the most appropriate and effective treatment at different points on the clinical pathway. Establishing the comparative accuracy of ultrasound, computed tomography (CT), magnetic resonance imaging (MRI), and positron emission tomography (PET)‐CT imaging for detection of nodal or distant metastases, or both, is critical to understanding if, how, and where on the pathway these tests might be used. 
+Objectives
+Primary objectives  
+We estimated accuracy separately according to the point in the clinical pathway at which imaging tests were used. Our objectives were: 
+• to determine the diagnostic accuracy of ultrasound or PET‐CT for detection of nodal metastases before sentinel lymph node biopsy in adults with confirmed cutaneous invasive melanoma; and 
+• to determine the diagnostic accuracy of ultrasound, CT, MRI, or PET‐CT for whole body imaging in adults with cutaneous invasive melanoma: 
+○ for detection of any metastasis in adults with a primary diagnosis of melanoma (i.e. primary staging at presentation); and 
+○ for detection of any metastasis in adults undergoing staging of recurrence of melanoma (i.e. re‐staging prompted by findings on routine follow‐up). 
+We undertook separate analyses according to whether accuracy data were reported per patient or per lesion. 
+Secondary objectives  
+We sought to determine the diagnostic accuracy of ultrasound, CT, MRI, or PET‐CT for whole body imaging (detection of any metastasis) in mixed or not clearly described populations of adults with cutaneous invasive melanoma. 

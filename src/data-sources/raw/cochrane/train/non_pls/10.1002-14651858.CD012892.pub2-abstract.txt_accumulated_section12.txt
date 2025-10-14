@@ -1,0 +1,12 @@
+Background
+The demand for residential aged care is increasing due to the ageing population. Optimising the design or adapting the physical environment of residential aged care facilities has the potential to influence quality of life, mood and function. 
+Objectives
+To assess the effects of changes to the physical environment, which include alternative models of residential aged care such as a 'home‐like' model of care (where residents live in small living units) on quality of life, behaviour, mood and depression and function in older people living in residential aged care. 
+Search methods
+CENTRAL, MEDLINE, Embase, six other databases and two trial registries were searched on 11 February 2021. Reference lists and grey literature sources were also searched. 
+Selection criteria
+Non‐randomised trials, repeated measures or interrupted time series studies and controlled before‐after studies with a comparison group were included. Interventions which had modified the physical design of a care home or built a care home with an alternative model of residential aged care (including design alterations) in order to enhance the environment to promote independence and well‐being were included. Studies which examined quality of life or outcomes related to quality of life were included. Two reviewers independently assessed the abstracts identified in the search and the full texts of all retrieved studies. 
+Data collection and analysis
+Two reviewers independently extracted data, assessed the risk of bias in each included study and evaluated the certainty of evidence according to GRADE criteria. Where possible, data were represented in forest plots and pooled. 
+Main results
+Twenty studies were included with 77,265 participants, although one large study included the majority of participants (n = 74,449). The main comparison was home‐like models of care incorporating changes to the scale of the building which limit the capacity of the living units to smaller numbers of residents and encourage the participation of residents with domestic activities and a person‐centred care approach, compared to traditional designs which may include larger‐scale buildings with a larger number of residents, hospital‐like features such as nurses' stations, traditional hierarchical organisational structures and design which prioritises safety. 

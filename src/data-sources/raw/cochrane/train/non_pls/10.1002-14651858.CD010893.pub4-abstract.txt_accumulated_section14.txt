@@ -1,0 +1,14 @@
+Background
+Familial Mediterranean fever (FMF), a hereditary auto‐inflammatory disease, mainly affects ethnic groups living in the Mediterranean region. Early studies reported colchicine may potentially prevent FMF attacks. For people who are colchicine‐resistant or intolerant, drugs such as anakinra, rilonacept, canakinumab, etanercept, infliximab or adalimumab might be beneficial. This is an update of the review last published in 2018. 
+Objectives
+To evaluate the efficacy and safety of interventions for reducing inflammation in people with FMF. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and four Chinese databases on in August 2021. We searched clinical trials registries and references listed in relevant reports. 
+The last search was 17 August 2021.
+Selection criteria
+We included randomized controlled trials (RCTs) of people with FMF, comparing active interventions (including colchicine, anakinra, rilonacept, canakinumab, etanercept, infliximab, adalimumab, thalidomide, tocilizumab, interferon‐α and ImmunoGuard (herbal dietary supplement)) with placebo or no treatment, or comparing active drugs to each other. 
+Data collection and analysis
+We used standard Cochrane methodology. We assessed certainty of the evidence using GRADE. 
+Main results
+We included 10 RCTs with 312 participants (aged three to 53 years), including five parallel and five cross‐over designed studies. Six studies used oral colchicine, one used oral ImmunoGuard, and the remaining three used rilonacept, anakinra or canakinumab as a subcutaneous injection. The duration of each study arm ranged from one to eight months. 
+There were inadequacies in the design of the four older colchicine studies and the two studies comparing a single to a divided dose of colchicine. However, the four studies of ImmunoGuard, rilonacept, anakinra and canakinumab were generally well‐designed.  

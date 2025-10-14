@@ -1,0 +1,14 @@
+Background
+This is an updated version of the original Cochrane review published in Issue 12, 2012. That review considered both fibromyalgia and neuropathic pain, but the effects of amitriptyline for fibromyalgia are now dealt with in a separate review. 
+Amitriptyline is a tricyclic antidepressant that is widely used to treat chronic neuropathic pain (pain due to nerve damage). It is recommended as a first line treatment in many guidelines. Neuropathic pain can be treated with antidepressant drugs in doses below those at which the drugs act as antidepressants. 
+Objectives
+To assess the analgesic efficacy of amitriptyline for relief of chronic neuropathic pain, and the adverse events associated with its use in clinical trials. 
+Search methods
+We searched CENTRAL, MEDLINE, and EMBASE to March 2015, together with two clinical trial registries, and the reference lists of retrieved papers, previous systematic reviews, and other reviews; we also used our own hand searched database for older studies. 
+Selection criteria
+We included randomised, double‐blind studies of at least four weeks' duration comparing amitriptyline with placebo or another active treatment in chronic neuropathic pain conditions. 
+Data collection and analysis
+We performed analysis using three tiers of evidence. First tier evidence derived from data meeting current best standards and subject to minimal risk of bias (outcome equivalent to substantial pain intensity reduction, intention‐to‐treat analysis without imputation for dropouts; at least 200 participants in the comparison, 8 to 12 weeks' duration, parallel design), second tier from data that failed to meet one or more of these criteria and were considered at some risk of bias but with adequate numbers in the comparison, and third tier from data involving small numbers of participants that were considered very likely to be biased or used outcomes of limited clinical utility, or both. 
+Main results
+We included 15 studies from the earlier review and two new studies (17 studies, 1342 participants) in seven neuropathic pain conditions. Eight cross‐over studies with 302 participants had a median of 36 participants, and nine parallel group studies with 1040 participants had a median of 84 participants. Study quality was modest, though most studies were at high risk of bias due to small size. 
+There was no first‐tier or second‐tier evidence for amitriptyline in treating any neuropathic pain condition. Only third‐tier evidence was available. For only two of seven studies reporting useful efficacy data was amitriptyline significantly better than placebo (very low quality evidence). 

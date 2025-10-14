@@ -1,0 +1,11 @@
+Background
+Depressive disorders are the most common psychiatric comorbidity in people with epilepsy, affecting around one‐third, with a significant negative impact on quality of life. There is concern that people may not be receiving appropriate treatment for their depression because of uncertainty regarding which antidepressant or class works best, and the perceived risk of exacerbating seizures. This review aimed to address these issues, and inform clinical practice and future research. 
+This is an updated version of the original Cochrane Review published in Issue 12, 2014. 
+Objectives
+To evaluate the efficacy and safety of antidepressants in treating depressive symptoms and the effect on seizure recurrence, in people with epilepsy and depression. 
+Search methods
+For this update, we searched CRS Web, MEDLINE, SCOPUS, PsycINFO, and ClinicalTrials.gov (February 2021). We searched the World Health Organization Clinical Trials Registry in October 2019, but were unable to update it because it was inaccessible. There were no language restrictions. 
+Selection criteria
+We included randomised controlled trials (RCTs) and prospective non‐randomised studies of interventions (NRSIs), investigating children or adults with epilepsy, who were treated with an antidepressant and compared to placebo, comparative antidepressant, psychotherapy, or no treatment for depressive symptoms.  
+Data collection and analysis
+The primary outcomes were changes in depression scores (proportion with a greater than 50% improvement, mean difference, and proportion who achieved complete remission) and change in seizure frequency (mean difference, proportion with a seizure recurrence, or episode of status epilepticus). Secondary outcomes included the number of participants who withdrew from the study and reasons for withdrawal, quality of life, cognitive functioning, and adverse events. 

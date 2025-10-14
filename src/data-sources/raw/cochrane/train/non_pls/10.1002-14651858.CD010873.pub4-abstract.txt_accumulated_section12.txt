@@ -1,0 +1,12 @@
+Background
+Childhood constipation is a common problem with substantial health, economic and emotional burdens. Existing therapeutic options, mainly pharmacological, are not consistently effective, and some are associated with adverse effects after prolonged use. Transcutaneous electrical stimulation (TES), a non‐pharmacological approach, is postulated to facilitate bowel movement by modulating the nerves of the large bowel via the application of electrical current transmitted through the abdominal wall. 
+Objectives
+Our main objective was to evaluate the effectiveness and safety of TES when employed to improve bowel function and constipation‐related symptoms in children with constipation. 
+Search methods
+We searched MEDLINE (PubMed) (1950 to July 2015), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, Issue 7, 2015), EMBASE (1980 to July 2015), the Cochrane IBD Group Specialized Register, trial registries and conference proceedings to identify applicable studies . 
+Selection criteria
+Randomized controlled trials that assessed any type of TES, administered at home or in a clinical setting, compared to no treatment, a sham TES, other forms of nerve stimulation or any other pharmaceutical or non‐pharmaceutical measures used to treat constipation in children were considered for inclusion. 
+Data collection and analysis
+Two authors independently assessed studies for inclusion, extracted data and assessed risk of bias of the included studies. We calculated the risk ratio (RR) and corresponding 95% confidence interval (CI) for categorical outcomes data and the mean difference (MD) and corresponding 95% CI for continuous outcomes. We evaluated the overall quality of the evidence supporting the outcomes assessed in this review using the GRADE criteria. 
+Main results
+One study from Australia including 46 children aged 8 to 18 years was eligible for inclusion. There were multiple reports identified, including one unpublished report, that focused on different outcomes of the same study. The study had unclear risk of selection bias, high risks of performance, detection and attrition biases, and low risks of reporting biases. 

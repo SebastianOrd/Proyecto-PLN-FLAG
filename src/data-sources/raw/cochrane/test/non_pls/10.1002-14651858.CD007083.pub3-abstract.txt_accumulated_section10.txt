@@ -1,0 +1,10 @@
+Background
+Lower‐limb revascularization is a surgical procedure that is performed to restore an adequate blood supply to the limbs. Lower‐limb revascularization surgery is used to reduce pain and sometimes to improve lower‐limb function. Neuraxial anaesthesia is an anaesthetic technique that uses local anaesthetics next to the spinal cord to block nerve function. Neuraxial anaesthesia may lead to improved survival. This systematic review was originally published in 2010 and was first updated in 2011 and again in 2013. 
+Objectives
+To determine the rates of death and major complications associated with spinal and epidural anaesthesia as compared with other types of anaesthesia for lower‐limb revascularization in patients aged 18 years or older who are affected by obstruction of lower‐limb vessels. 
+Search methods
+The original review was published in 2010 and was based on a search until June 2008. In 2011 we reran the search until February 2011 and updated the review. For this second updated version of the review, we searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, LILACS, CINAHL and Web of Science from 2011 to April 2013. 
+Selection criteria
+We included randomized controlled trials comparing neuraxial anaesthesia (spinal or epidural anaesthesia) versus other types of anaesthesia in adults (18 years or older) with arterial vascular obstruction undergoing lower‐limb revascularization surgery. 
+Data collection and analysis
+Two review authors independently performed data extraction and assessed trial quality. We pooled the data on mortality, myocardial infarction, lower‐limb amputation and pneumonia. We summarized dichotomous data as odds ratio (OR) with 95% confidence interval (CI) using a random‐effects model. 

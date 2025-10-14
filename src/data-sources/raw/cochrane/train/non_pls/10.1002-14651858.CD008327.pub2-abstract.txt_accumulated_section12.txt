@@ -1,0 +1,12 @@
+Background
+Bone disease is common in children with chronic kidney disease (CKD) and when untreated may result in bone deformities, bone pain, fractures and reduced growth rates. This is an update of a review first published in 2010. 
+Objectives
+This review aimed to examine the benefits (improved growth rates, reduced risk of bone fractures and deformities, reduction in PTH levels) and harms (hypercalcaemia, blood vessel calcification, deterioration in kidney function) of interventions (including vitamin D preparations and phosphate binders) for the prevention and treatment of metabolic bone disease in children with CKD. 
+Search methods
+We searched the Cochrane Kidney and Transplant Specialised Register to 8 September 2015 through contact with the Trial's Search Co‐ordinator using search terms relevant for this review. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing different interventions used to prevent or treat bone disease in children with CKD stages 2 to 5D. 
+Data collection and analysis
+Data were assessed for study eligibility, risk of bias and extracted independently by two authors. Results were reported as risk ratios (RR) or risk differences (RD) with 95% confidence intervals (CI) for dichotomous outcomes. For continuous outcomes the mean difference (MD) or standardised mean difference (SMD) with 95% confidence intervals (CI) was used. Statistical analyses were performed using the random‐effects model. 
+Main results
+This review included 18 studies (576 children); three new studies were added for this update. Adequate sequence generation and allocation concealment were reported in 12 and 11 studies respectively. Only four studies reported blinding of children, investigators or outcome assessors. Nine studies were at low risk of attrition bias and 12 studies were at low risk of selective reporting bias. 

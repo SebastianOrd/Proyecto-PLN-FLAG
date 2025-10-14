@@ -1,0 +1,12 @@
+Background
+Uterine tachysystole (more than 5 contractions per 10 minutes in 2 consecutive intervals) is common during labour, particularly with use of labour‐stimulating agents. Tachysystole may reduce fetal oxygenation by interrupting maternal blood flow to the placenta during contractions. Reducing uterine contractions may improve placental blood flow, improving fetal oxygenation. This review aimed to evaluate the use of tocolytics to reduce or stop uterine contractions for improvement of the condition of the fetus in utero. This new review supersedes an earlier Cochrane Review on the same topic. 
+Objectives
+To assess the effects of the use of acute tocolysis during labour for uterine tachysystole or suspected fetal distress, or both, on fetal, maternal and neonatal outcomes. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth's Trials Register, ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) (2 February 2018), and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating acute tocolysis for uterine tachysystole, intrapartum fetal distress, or both. 
+Data collection and analysis
+We used standard methods expected by Cochrane.
+Main results
+We included eight studies (734 women), conducted in hospital settings, predominantly in high‐income countries (USA, Austria, Uruguay). Two trials were conducted in upper and lower middle‐income countries (South Africa, Sri Lanka). The hospital facilities all had the capacity to perform caesarean section. Overall, the studies had a low risk of bias, except for methods to maintain blinding. All of the trials used a selective beta2 (ß2)‐adrenergic agonist in one arm, however the drug used varied, as did the comparator. Limited information was available on maternal outcomes. 

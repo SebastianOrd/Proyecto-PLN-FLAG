@@ -1,0 +1,14 @@
+Background
+Alcohol abuse and dependence represents a serious health problem worldwide with social, interpersonal and legal interpolations. Benzodiazepines have been widely used for the treatment of alcohol withdrawal symptoms. Moreover it is unknown whether different benzodiazepines and different regimens of administration may have the same merits. 
+Objectives
+To evaluate the effectiveness and safety of benzodiazepines in the treatment of alcohol withdrawal. 
+Search methods
+Cochrane Drugs and Alcohol Group' Register of Trials (December 2009), PubMed,  EMBASE,  CINAHL (January 1966 to December 2009), EconLIT (1969 to December 2009). Parallel searches on web sites of health technology assessment and related agencies, and their databases. 
+Selection criteria
+Randomized controlled trials examining effectiveness, safety and risk‐benefit of benzodiazepines in comparison with placebo or other pharmacological treatment and between themselves. All patients were included regardless of age, gender, nationality, and outpatient or inpatient therapy. 
+Data collection and analysis
+Two authors independently screened and extracted data from studies.
+Main results
+Sixty four studies, 4309 participants, met the inclusion criteria.
+‐ Comparing benzodiazepines versus placebo, benzodiazepines performed better for seizures, 3 studies, 324 participants, RR 0.16 (0.04 to 0.69), no statistically significant difference for the other outcomes considered. 
+‐ Comparing benzodiazepines versus other drugs, there is a trend in favour of benzodiazepines for seizure and delirium control, severe life threatening side effect, dropouts, dropouts due to side effects and patient's global assessment score.  A trend in favour of control group was observed for CIWA‐Ar scores at 48 hours and at the end of treatment. The results reach statistical significance only in one study, with 61 participants, results on Hamilton anxiety rating scale favour control MD ‐1.60 (‐2.59 to ‐0.61) 

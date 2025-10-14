@@ -1,0 +1,11 @@
+Background
+Anorexia nervosa (AN) is characterised by a failure to maintain a normal body weight due to a paucity of nutrition, an intense fear of gaining weight or behaviour that prevents the individual from gaining weight, or both. The long‐term prognosis is often poor, with severe developmental, medical and psychosocial complications, high rates of relapse and mortality. 'Family therapy approaches' indicate a range of approaches, derived from different theories, that involve the family in treatment. We have included therapies developed on the basis of dominant family systems theories, approaches that are based on or broadly similar to the family‐based therapy derived from the Maudsley model, approaches that incorporate a focus on cognitive restructuring, as well as approaches that involve the family without articulation of a theoretical approach.This is an update of a Cochrane Review first published in 2010. 
+Objectives
+To evaluate the efficacy of family therapy approaches compared with standard treatment and other treatments for AN. 
+Search methods
+We searched the Cochrane Common Mental Disorders Controlled Trials Register (CCMDCTR) and PsycINFO (OVID) (all years to April 2016). We ran additional searches directly on Cochrane Central Register for Controlled Trials (CENTRAL), MEDLINE, Ovid Embase, and PsycINFO (to 2008 and 2016 to 2018). We searched the World Health Organization (WHO) trials portal (ICTRP) and ClinicalTrials.gov, together with four theses databases (all years to 2018). We checked the reference lists of all included studies and relevant systematic reviews. We have included in the analyses only studies from searches conducted to April 2016. 
+Selection criteria
+Randomised controlled trials (RCTs) of family therapy approaches compared to any other intervention or other types of family therapy approaches were eligible for inclusion.  
+We included participants of any age or gender with a primary clinical diagnosis of anorexia nervosa. 
+Data collection and analysis
+Four review authors selected the studies, assessed quality and extracted data. We used a random‐effects meta‐analysis. We used the risk ratio (with a 95% confidence interval) to summarise dichotomous outcomes and both the standardised mean difference and the mean difference to summarise continuous measures. 

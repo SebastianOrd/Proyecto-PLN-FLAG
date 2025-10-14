@@ -1,0 +1,12 @@
+Background
+Assisted vaginal births are carried out to expedite birth for the benefit of mothers and babies but are sometimes associated with significant morbidity for both. Various instruments are available, broadly divided into forceps and vacuum cups, and choice may be influenced by clinical circumstances, operator preference, experience and availability.  
+Objectives
+To evaluate the different instruments in terms of success in achieving a vaginal birth, and the risk of morbidity for mother and baby. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (14 May 2021), and reference lists of retrieved studies. 
+Selection criteria
+We selected randomised controlled trials of assisted vaginal birth using different instruments. The review did not include quasi‐randomised trials, cluster‐randomised trials or cross‐over designs. The review included trials for which abstracts alone were available as long as there was sufficient information to assess eligibility.  
+Data collection and analysis
+We used standard Cochrane methods. We used the GRADE approach to assess the certainty of evidence.  The main outcomes assessed included failed delivery with allocated instrument, any maternal trauma, third‐ and fourth‐degree tears, postpartum haemorrhage, any neonatal trauma, low Apgar and low umbilical artery pH.  
+Main results
+We included 31 studies involving a total of 5754 women.  Risk of bias criteria were largely assessed as 'unclear', due to a lack of detail in trial reports. Blinding would have been challenging for all trials due to their inability to conceal the type of instrument used from either the woman or the operator, which is reflected in the risk of bias assessment. 

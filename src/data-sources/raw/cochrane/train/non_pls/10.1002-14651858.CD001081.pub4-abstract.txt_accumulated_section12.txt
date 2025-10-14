@@ -1,0 +1,12 @@
+Background
+Stroke is the third leading cause of death and the most common cause of long‐term disability. Severe narrowing (stenosis) of the carotid artery is an important cause of stroke. Surgical treatment (carotid endarterectomy) may reduce the risk of stroke, but carries a risk of operative complications. This is an update of a Cochrane Review, originally published in 1999, and most recently updated in 2017. 
+Objectives
+To determine the balance of benefit versus risk of endarterectomy plus best medical management compared with best medical management alone, in people with a recent symptomatic carotid stenosis (i.e. transient ischaemic attack (TIA) or non‐disabling stroke). 
+Search methods
+We searched the Cochrane Stroke Group Trials Register, CENTRAL, MEDLINE Ovid, Embase Ovid, Web of Science Core Collection, ClinicalTrials.gov, and the WHO International Clinical Trials Registry Platform (ICTRP) portal to October 2019. We also reviewed the reference lists of all relevant studies and abstract books from research proceedings. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing carotid artery surgery plus best medical treatment with best medical treatment alone.  
+Data collection and analysis
+Two review authors independently selected studies, assessed risk of bias, and extracted the data. We assessed the results and the quality of the evidence of the primary and secondary outcomes by the GRADE method, which classifies the quality of evidence as high, moderate, low, or very low. 
+Main results
+We included three trials involving 6343 participants. The trials differed in the methods of measuring carotid stenosis and in the definition of stroke. Using the primary electronic data files, we pooled and analysed individual patient data on 6092 participants (35,000 patient‐years of follow‐up), after reassessing the carotid angiograms and outcomes from all three trials, and redefining outcome events where necessary, to achieve comparability. 

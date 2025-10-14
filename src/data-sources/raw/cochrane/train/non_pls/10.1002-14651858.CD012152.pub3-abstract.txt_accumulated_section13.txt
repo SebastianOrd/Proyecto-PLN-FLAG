@@ -1,0 +1,13 @@
+Background
+Neonatal hypoglycaemia is a common condition that can be associated with brain injury. Current practice usually includes early identification of at‐risk infants (e.g. infants of diabetic mothers; preterm, small‐ or large‐for‐gestational‐age infants), and prophylactic measures are advised. However, these measures usually involve use of formula milk or admission to the neonatal unit. Dextrose gel is non‐invasive, inexpensive and effective for treatment of neonatal hypoglycaemia. Prophylactic dextrose gel can reduce the incidence of neonatal hypoglycaemia, thus potentially reducing separation of mother and baby and supporting breastfeeding, as well as preventing brain injury.  
+This is an update of a previous Cochrane Review published in 2017. 
+Objectives
+To assess the effectiveness and safety of oral dextrose gel given to newborn infants at risk of hypoglycaemia in preventing hypoglycaemia and reducing long‐term neurodevelopmental impairment. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2020, Issue 10) in the Cochrane Library; and Ovid MEDLINE(R) and Epub Ahead of Print, In‐Process & Other Non‐Indexed Citations, Daily and Versions(R) on 19 October 2020. We also searched clinical trials databases and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs comparing oral dextrose gel versus placebo, no intervention, or other therapies for the prevention of neonatal hypoglycaemia. 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias. We contacted investigators to obtain additional information. We used fixed‐effect meta‐analyses. We used the GRADE approach to assess the certainty of evidence. 
+Main results
+We included two studies conducted in high‐income countries comparing oral dextrose gel versus placebo in 2548 infants at risk of neonatal hypoglycaemia. Of these, one study was included in the previous version of this review. We judged these two studies to be at low risk of bias, and that the evidence for most outcomes was of moderate certainty. 

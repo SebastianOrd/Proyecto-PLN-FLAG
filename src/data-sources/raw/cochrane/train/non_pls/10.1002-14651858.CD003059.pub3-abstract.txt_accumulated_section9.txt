@@ -1,0 +1,9 @@
+Background
+This is an update of a review last published by Cochrane in June 2012 entitled "Cromolyn sodium for the prevention of chronic lung disease in preterm infants", which included two studies. This 2016 update identified no further studies. 
+Chronic lung disease (CLD) frequently occurs in preterm infants and has a multifactorial aetiology including inflammation. Cromolyn sodium is a mast cell stabiliser that inhibits neutrophil activation and neutrophil chemotaxis and therefore may have a role in the prevention of CLD. 
+Objectives
+To determine the effect of prophylactic administration of cromolyn sodium on the incidence of CLD at 28 days or 36 weeks' postmenstrual age (PMA), mortality, or the combined outcome of mortality and CLD at 28 days or 36 weeks' PMA in preterm infants. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 4), MEDLINE via PubMed (1966 to 12 May 2016), Embase (1980 to 12 May 2016), and CINAHL (1982 to 12 May 2016). We searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+We included randomised or quasi‐randomised controlled clinical trials involving preterm infants. Initiation of cromolyn sodium administration was during the first two weeks of life. The intervention had to include administration of cromolyn sodium by nebuliser or metered dose inhaler with or without spacer device versus placebo or no intervention. Eligible studies had to include at least one of the following outcomes: overall mortality, CLD at 28 days, CLD at 36 weeks' PMA, or the combined outcome mortality and CLD at 28 days.  

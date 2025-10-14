@@ -1,0 +1,12 @@
+Background
+Laparoscopy is a common procedure in many surgical specialties. Complications arising from laparoscopy are often related to initial entry into the abdomen. Life‐threatening complications include injury to viscera (e.g. bowel, bladder) or to vasculature (e.g. major abdominal and anterior abdominal wall vessels). No clear consensus has been reached as to the optimal method of laparoscopic entry into the peritoneal cavity. 
+Objectives
+To evaluate the benefits and risks of different laparoscopic entry techniques in gynaecological and non‐gynaecological surgery. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility (CGF) Group trials register, CENTRAL, MEDLINE, Embase, PsycINFO, and trials registers in January 2018. We also checked the references of articles retrieved. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared one laparoscopic entry technique versus another. Primary outcomes were major complications including mortality, vascular injury of major vessels and abdominal wall vessels, visceral injury of bladder or bowel, gas embolism, solid organ injury, and failed entry (inability to access the peritoneal cavity). Secondary outcomes were extraperitoneal insufflation, trocar site bleeding, trocar site infection, incisional hernia, omentum injury, and uterine bleeding. 
+Data collection and analysis
+Two review authors independently selected studies, assessed risk of bias, and extracted data. We expressed findings as Peto odds ratios (Peto ORs) with 95% confidence intervals (CIs). We assessed statistical heterogeneity using the I² statistic. We assessed the overall quality of evidence for the main comparisons using GRADE methods. 
+Main results
+The review included 57 RCTs including four multi‐arm trials, with a total of 9865 participants, and evaluated 25 different laparoscopic entry techniques. Most studies selected low‐risk patients, and many studies excluded patients with high body mass index (BMI) and previous abdominal surgery. Researchers did not find evidence of differences in major vascular or visceral complications, as would be anticipated given that event rates were very low and sample sizes were far too small to identify plausible differences in rare but serious adverse events. 

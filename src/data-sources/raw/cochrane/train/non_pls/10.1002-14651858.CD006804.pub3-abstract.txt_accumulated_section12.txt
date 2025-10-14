@@ -1,0 +1,12 @@
+Background
+In conventional (standard) port laparoscopic cholecystectomy, four abdominal ports (two of 10 mm diameter and two of 5 mm diameter) are used. Recently, use of smaller ports, miniports, have been reported. 
+Objectives
+To assess the benefits and harms of miniport (defined as ports smaller than the standard ports) laparoscopic cholecystectomy versus standard port laparoscopic cholecystectomy. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until February 2013 to identify randomised clinical trials of relevance to this review. 
+Selection criteria
+Only randomised clinical trials (irrespective of language, blinding, or publication status) comparing miniport versus standard port laparoscopic cholecystectomy were considered for the review. 
+Data collection and analysis
+Two review authors collected the data independently. We analysed the data with both fixed‐effect and random‐effects models using RevMan analysis. For each outcome we calculated the risk ratio (RR), mean difference (MD), or standardised mean difference (SMD) with 95% confidence intervals (CI). 
+Main results
+We included 12 trials with 734 patients randomised to miniport laparoscopic cholecystectomy (380 patients) versus standard laparoscopic cholecystectomy (351 patients). Only one trial which included 70 patients was of low risk of bias. Miniport laparoscopic cholecystectomy could be completed successfully in more than 80% of patients in most trials. The remaining patients were mostly converted to standard port laparoscopic cholecystectomy but some were also converted to open cholecystectomy. These patients were included for the outcome conversion to open cholecystectomy but excluded from other outcomes. Accordingly, the results of the other outcomes are on 343 patients in the miniport laparoscopic cholecystectomy group and 351 patients in the standard port laparoscopic cholecystectomy group, and therefore the results have to be interpreted with extreme caution. 

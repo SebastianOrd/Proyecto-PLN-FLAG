@@ -1,0 +1,10 @@
+Background
+The risk of cytomegalovirus (CMV) infection in solid organ transplant recipients has resulted in the frequent use of prophylaxis with the aim of preventing the clinical syndrome associated with CMV infection. This is an update of a review first published in 2005 and updated in 2008. 
+Objectives
+To determine the benefits and harms of antiviral medications to prevent CMV disease and all‐cause mortality in solid organ transplant recipients. 
+Search methods
+We searched MEDLINE, EMBASE and the Cochrane Central Registry of Controlled Trials (CENTRAL) in The Cochrane Library to February 2004 for the first version of this review. The Cochrane Renal Group's specialised register was searched to February 2007 and to July 2011 for the first and current updates of the review without language restriction. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs comparing antiviral medications with placebo or no treatment, comparing different antiviral medications and comparing different regimens of the same antiviral medications in recipients of any solid organ transplant. Studies examining pre‐emptive therapy were excluded. 
+Data collection and analysis
+Two authors independently assessed study eligibility, risk of bias and extracted data. Results were reported as risk ratios (RR) or risk differences (RD) with 95% confidence intervals (CI) for dichotomous outcomes and by mean difference (MD) with 95% CI for continuous outcomes. Statistical analyses were performed using the random‐effects model. Subgroup analysis and univariate meta‐regression were performed using restricted maximum‐likelihood to estimate the between study variance. Multivariate meta‐regression was performed to investigate whether the results were altered after allowing for differences in drugs used, organ transplanted, and recipient CMV serostatus at the time of transplantation. 

@@ -1,0 +1,15 @@
+Background
+Chronic obstructive pulmonary disease (COPD) is a chronic obstructive lung condition, diagnosed in patients with dyspnoea, chronic cough or sputum production and/or a history of risk factor exposure, if their postbronchodilator forced expiratory lung volume in 1 second (FEV1)/forced vital lung capacity (FVC) ratio is less than 0.70, according to the international GOLD (Global Initiative for Obstructive Lung Disease) criteria. 
+Inhaled corticosteroid (ICS) medications are now recommended for COPD only in combination treatment with long‐acting beta2‐agonists (LABAs), and only for patients of GOLD stage 3 and stage 4 severity, for both GOLD groups C and D. 
+ICS are expensive and how effective they are is a topic of controversy, particularly in relation to their adverse effects (pneumonia), which may be linked to more potent ICS. It is unclear whether beclometasone dipropionate (BDP), an unlicensed but widely used inhaled steroid, is a safe and effective alternative to other ICS. 
+Objectives
+To determine the effectiveness and safety in COPD of inhaled beclometasone alone compared with placebo, and of inhaled beclometasone in combination with LABAs compared with LABAs alone. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register of trials (CAGR) (includes Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED and PsycINFO, and handsearching of respiratory journals and meeting abstracts) (February 2013), conference abstracts, ongoing studies and reference lists of articles. We contacted pharmaceutical companies and drug marketing authorisation bodies/ethics committees in 49 countries and obtained licensing information. 
+Selection criteria
+Randomised controlled trials of BDP compared with placebo, or BDP/LABA compared with LABA, in stable COPD. Minimum trial duration is 12 weeks. 
+Data collection and analysis
+Inclusion, bias assessment and data extraction were conducted by two review authors independently. The analysis was performed by one review author. Study authors were contacted to obtain missing information. 
+Main results
+For BDP versus placebo, two studies were included, of which one trial (participants n = 194) was included in the quantitative analysis. This study was a very high‐dose trial with stable stage 2 and 3 COPD participants. No statistically significant results in change in lung function, mortality, exacerbations, dyspnoea scores or withdrawal were obtained. The quality of the evidence of all these outcomes was graded low to very low. Data on risk of pneumonia were lacking. 
+The main focus of the review was the more clinically relevant BDP/LABA versus LABA arm. Therefore the findings are reported more fully. 

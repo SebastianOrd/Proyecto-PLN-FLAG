@@ -1,0 +1,11 @@
+Background
+Drug‐induced skin reactions present with a range of clinical symptoms, from mild maculopapular skin rashes to potentially fatal blistering skin rashes — such as Stevens‐Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) — which may result in death. Milder reactions may be troublesome and lead to low drug compliance. The pathogenesis of these drug reactions is not yet fully understood; however, there is evidence that pretreatment genetic testing may help to predict and prevent these reactions in some cases. 
+Objectives
+To assess the effects of prospective pharmacogenetic screening to reduce drug‐associated skin reactions in a patient population. 
+Search methods
+We searched the following databases up to July 2018: the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, Embase and LILACS. We also searched five trials registers, and checked the reference lists of included studies and relevant reviews for further references to relevant randomised controlled trials (RCTs). 
+Selection criteria
+We included RCTs of participants who had prospective pharmacogenetic screening to determine genetic variants associated with hypersensitivity reactions, compared with those who did not have prospective pharmacogenetic screening. We included participants in any setting, who were of any age, gender, and ethnicity, who had been prescribed drugs known to cause delayed type hypersensitivity reactions. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. To assess studies for inclusion, two review authors independently screened all of the titles and abstracts of publications identified by the searches. Because there was only one included study, many of the planned data analyses were not applicable to the review. We used GRADE to assess the quality of the included study. 
+The review's primary outcomes were the incidence of severe skin rashes with systemic symptoms (such as fever and multiple organ involvement), and long‐term effects (such as scarring of eyelids or lung tissue). Secondary outcomes were hospitalisation for drug‐induced skin reactions, blistering skin reactions (such as SJS, hypersensitivity (HSS) syndrome), and death. 

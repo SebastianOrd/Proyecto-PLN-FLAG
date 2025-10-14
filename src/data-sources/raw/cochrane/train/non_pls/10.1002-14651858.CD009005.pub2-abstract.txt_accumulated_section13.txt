@@ -1,0 +1,13 @@
+Background
+Many people with schizophrenia do not achieve a satisfactory treatment response with their initial antipsychotic drug treatment. Sometimes a second antipsychotic, in combination with the first, is used in these situations. 
+Objectives
+To examine whether:
+1. treatment with antipsychotic combinations is effective for schizophrenia; and 2. treatment with antipsychotic combinations is safe for the same illness. 
+Search methods
+We searched the Cochrane Schizophrenia Group's register which is based on regular searches of CINAHL, BIOSIS, AMED, Embase, PubMed, MEDLINE, PsycINFO, and registries of clinical trials. There are no language, time, document type, or publication status limitations for inclusion of records in the register. We ran searches in September 2010, August 2012 and January 2016. We checked for additional trials in the reference lists of included trials. 
+Selection criteria
+We included all randomised and quasi‐randomised controlled trials comparing antipsychotic combinations with antipsychotic monotherapy for the treatment of schizophrenia and/or schizophrenia‐like psychoses. 
+Data collection and analysis
+We independently extracted data from the included studies. We analysed dichotomous data using risk ratios (RR) and the 95% confidence intervals (CI). We analysed continuous data using mean difference (MD) with a 95% CIs. For the meta‐analysis we used a random‐effects model. We used GRADE to complete a 'Summary of findings' table and assessed risk of bias for included studies. 
+Main results
+Sixty‐two studies are included in the review, 31 of these compared clozapine monotherapy with clozapine combination. We considered the risk of bias in the included studies to be moderate to high. The majority of trials had unclear allocation concealment, method of randomisation and blinding, and were not free of selective reporting. 

@@ -1,0 +1,12 @@
+Background
+'Fast‐track surgery' or 'enhanced recovery protocol' or 'fast‐track rehabilitation', incorporating one or more elements of preoperative education, pain relief, early mobilisation, enteral nutrition and growth factors, may improve health‐related quality of life and reduce length of hospital stay and costs. The role of enhanced recovery protocols in major upper gastrointestinal, liver and pancreatic surgery is unclear. 
+Objectives
+To assess the benefits and harms of enhanced recovery protocols compared with standard care (or usual practice) in major upper gastrointestinal, liver and pancreatic surgery. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; Cochrane Library; 2015, Issue 3), MEDLINE, EMBASE and Science Citation Index Expanded until March 2015 to identify randomised trials. We also searched the references of included trials to identify further trials. 
+Selection criteria
+We considered only randomised controlled trials (RCTs) performed in people undergoing major upper gastrointestinal, liver and pancreatic surgery, irrespective of language, blinding or publication status for inclusion in the review. 
+Data collection and analysis
+Two review authors independently identified trials and independently extracted data. We calculated the risk ratio (RR), mean difference (MD), or standardised mean difference (SMD) with 95% confidence intervals (CIs) using both fixed‐effect and random‐effects models using Review Manager 5, based on available case analysis. 
+Main results
+Ten studies met the inclusion criteria for the review, and nine studies provided information on one or more outcomes for the review. A total of 1014 participants were randomly assigned to the enhanced recovery protocol (499 participants) or standard care (515 participants) in the nine RCTs. Most of the trials included low anaesthetic risk participants with high performance status undergoing different upper gastrointestinal, liver and pancreatic surgeries. Eight trials incorporated more than one element of the enhanced recovery protocol. All of the trials were at high risk of bias. The overall quality of evidence was low or very low. 

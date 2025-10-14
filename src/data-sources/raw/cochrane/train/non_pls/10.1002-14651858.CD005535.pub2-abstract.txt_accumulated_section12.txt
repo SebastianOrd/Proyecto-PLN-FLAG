@@ -1,0 +1,12 @@
+Background
+Long‐acting inhaled ß2‐adrenergic agonists (LABAs) are recommended as 'add‐on' medication to inhaled corticosteroids (ICS) in the maintenance therapy of asthmatic adults and children aged two years and above. 
+Objectives
+To quantify in asthmatic patients the safety and efficacy of the addition of LABAs to ICS in patients insufficiently controlled on ICS alone. 
+Search methods
+We identified randomised controlled trials (RCTs) through electronic database searches (the Cochrane Airways Group Specialised Register, MEDLINE, EMBASE and CINAHL), bibliographies of RCTs and correspondence with manufacturers until May 2008. 
+Selection criteria
+We included RCTs if they compared the addition of inhaled LABAs versus placebo to the same dose of ICS in children aged two years and above and in adults. 
+Data collection and analysis
+Two review authors independently assessed studies for methodological quality and extracted data. We obtained confirmation from the trialists when possible. The primary endpoint was the relative risk (RR) of asthma exacerbations requiring rescue oral corticosteroids. Secondary endpoints included pulmonary function tests (PFTs), rescue beta2‐agonist use, symptoms, withdrawals and adverse events. 
+Main results
+Seventy‐seven studies met the entry criteria and randomised 21,248 participants (4625 children and 16,623 adults). Participants were generally symptomatic at baseline with moderate airway obstruction despite their current ICS regimen. Formoterol or salmeterol were most frequently added to low‐dose ICS (200 to 400 µg/day of beclomethasone (BDP) or equivalent) in 49% of the studies. The addition of a daily LABA to ICS reduced the risk of exacerbations requiring oral steroids by 23% from 15% to 11% (RR 0.77, 95% CI 0.68 to 0.87, 28 studies, 6808 participants). The number needed to treat with the addition of LABA to prevent one use of rescue oral corticosteroids is 41 (29, 72), although the event rates in the ICS groups varied between 0% and 38%. Studies recruiting adults dominated the analysis (6203 adult participants versus 605 children). The subgroup estimate for paediatric studies was not statistically significant (RR 0.89, 95% CI 0.58 to 1.39) and includes the possibility of the superiority of ICS alone in children. 

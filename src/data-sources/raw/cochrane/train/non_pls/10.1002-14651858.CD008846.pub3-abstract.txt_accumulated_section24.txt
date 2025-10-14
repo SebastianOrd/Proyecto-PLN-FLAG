@@ -1,0 +1,24 @@
+Background
+Studies evaluating mass drug administration (MDA) in malarious areas have shown reductions in malaria immediately following the intervention. However, these effects vary by endemicity and are not sustained. Since the 2013 version of this Cochrane Review on this topic, additional studies have been published. 
+Objectives
+Primary objectives 
+To assess the sustained effect of MDA with antimalarial drugs on:
+‐ the reduction in malaria transmission in moderate‐ to high‐transmission settings;
+‐ the interruption of transmission in very low‐ to low‐transmission settings.
+Secondary objective 
+To summarize the risk of drug‐associated adverse effects following MDA.
+Search methods
+We searched several trial registries, citation databases, conference proceedings, and reference lists for relevant articles up to 11 February 2021. We also communicated with researchers to identify additional published and unpublished studies. 
+Selection criteria
+Randomized controlled trials (RCTs) and non‐randomized studies comparing MDA to no MDA with balanced co‐interventions across study arms and at least two geographically distinct sites per study arm. 
+Data collection and analysis
+Two review authors independently assessed trials for eligibility and extracted data. We calculated relative risk (RR) and rate ratios with corresponding 95% confidence intervals (CIs) to compare prevalence and incidence, respectively, in MDA compared to no‐MDA groups. We stratified analyses by malaria transmission and by malaria species. For cluster‐randomized controlled trials (cRCTs), we adjusted standard errors using the intracluster correlation coefficient. We assessed the certainty of the evidence using the GRADE approach. For non‐randomized controlled before‐and‐after (CBA) studies, we summarized the data using difference‐in‐differences (DiD) analyses. 
+Main results
+Thirteen studies met our criteria for inclusion. Ten were cRCTs and three were CBAs.
+Cluster‐randomized controlled trials 
+Moderate‐ to high‐endemicity areas (prevalence ≥ 10%) 
+We included data from two studies conducted in The Gambia and Zambia. 
+At one to three months after MDA, the Plasmodium falciparum (hereafter, P falciparum) parasitaemia prevalence estimates may be higher compared to control but the CIs included no effect (RR 1.76, 95% CI 0.58 to 5.36; Zambia study; low‐certainty evidence); parasitaemia incidence was probably lower (RR 0.61, 95% CI 0.40 to 0.92; The Gambia study; moderate‐certainty evidence); and confirmed malaria illness incidence may be substantially lower,  but the CIs included no effect (rate ratio 0.41, 95% CI 0.04 to 4.42; Zambia study; low‐certainty evidence).  
+At four to six months after MDA, MDA showed little or no effect on P falciparum parasitaemia prevalence (RR 1.18, 95% CI 0.89 to 1.56; The Gambia study; moderate‐certainty evidence) and, no persisting effect was demonstrated with parasitaemia incidence (rate ratio 0.91, 95% CI 0.55 to 1.50; The Gambia study). 
+Very low‐ to low‐endemicityareas (prevalence < 10%) 
+Seven studies from Cambodia, Laos, Myanmar (two studies), Vietnam, Zambia, and Zanzibar evaluated the effects of multiple rounds of MDA on P falciparum. Immediately following MDA (less than one month after MDA), parasitaemia prevalence was reduced (RR 0.12, 95% CI 0.03 to 0.52; one study; low‐certainty evidence). At one to three months after MDA, there was a reduction in both parasitaemia incidence (rate ratio 0.37, 95% CI 0.21 to 0.55; 1 study; moderate‐certainty evidence) and prevalence (RR 0.25, 95% CI 0.15 to 0.41; 7 studies; low‐certainty evidence). For confirmed malaria incidence, absolute rates were low, and it is uncertain whether MDA had an effect on this outcome (rate ratio 0.58, 95% CI 0.12 to 2.73; 2 studies; very low‐certainty evidence).  

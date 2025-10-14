@@ -1,0 +1,12 @@
+Background
+Progestin‐only contraceptives (POCs) are appropriate for many women who cannot or should not take estrogen. POCs include injectables, intrauterine contraception, implants, and oral contraceptives. Many POCs are long‐acting, cost‐effective methods of preventing pregnancy. However, concern about weight gain can deter the initiation of contraceptives and cause early discontinuation among users. 
+Objectives
+The primary objective was to evaluate the association between progestin‐only contraceptive use and changes in body weight. 
+Search methods
+Until 4 August 2016, we searched MEDLINE, CENTRAL, POPLINE, LILACS, ClinicalTrials.gov, and ICTRP. For the initial review, we contacted investigators to identify other trials. 
+Selection criteria
+We considered comparative studies that examined a POC versus another contraceptive method or no contraceptive. The primary outcome was mean change in body weight or mean change in body composition. We also considered the dichotomous outcome of loss or gain of a specified amount of weight. 
+Data collection and analysis
+Two authors extracted the data. Non‐randomized studies (NRS) need to control for confounding factors. We used adjusted measures for the primary effects in NRS or the results of matched analysis from paired samples. If the report did not provide adjusted measures for the primary analysis, we used unadjusted outcomes. For RCTs and NRS without adjusted measures, we computed the mean difference (MD) with 95% confidence interval (CI) for continuous variables. For dichotomous outcomes, we calculated the Mantel‐Haenszel odds ratio (OR) with 95% CI. 
+Main results
+We found 22 eligible studies that included a total of 11,450 women. With 6 NRS added to this update, the review includes 17 NRS and 5 RCTs. By contraceptive method, the review has 16 studies of depot medroxyprogesterone acetate (DMPA), 4 of levonorgestrel‐releasing intrauterine contraception (LNG‐IUC), 5 for implants, and 2 for progestin‐only pills. 

@@ -1,0 +1,12 @@
+Background
+Chronic nonspecific low back pain (LBP) is very common; it is defined as pain without a recognizable etiology that lasts for more than three months. Some clinical practice guidelines suggest that acupuncture can offer an effective alternative therapy. This review is a split from an earlier Cochrane review and it focuses on chronic LBP. 
+Objectives
+To assess the effects of acupuncture compared to sham intervention, no treatment, or usual care for chronic nonspecific LBP. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL, two Chinese databases, and two trial registers to 29 August 2019 without restrictions on language or publication status. We also screened reference lists and LBP guidelines to identify potentially relevant studies. 
+Selection criteria
+We included only randomized controlled trials (RCTs) of acupuncture for chronic nonspecific LBP in adults. We excluded RCTs that investigated LBP with a specific etiology. We included trials comparing acupuncture with sham intervention, no treatment, and usual care. The primary outcomes were pain, back‐specific functional status, and quality of life; the secondary outcomes were pain‐related disability, global assessment, or adverse events. 
+Data collection and analysis
+Two review authors independently screened the studies, assessed the risk of bias and extracted the data. We meta‐analyzed data that were clinically homogeneous using a random‐effects model in Review Manager 5.3. Otherwise, we reported the data qualitatively. We used the GRADE approach to assess the certainty of the evidence. 
+Main results
+We included 33 studies (37 articles) with 8270 participants. The majority of studies were carried out in Europe, Asia, North and South America. Seven studies (5572 participants) conducted in Germany accounted for 67% of the participants. Sixteen trials compared acupuncture with sham intervention, usual care, or no treatment. Most studies had high risk of performance bias due to lack of blinding of the acupuncturist. A few studies were found to have high risk of detection, attrition, reporting or selection bias. 

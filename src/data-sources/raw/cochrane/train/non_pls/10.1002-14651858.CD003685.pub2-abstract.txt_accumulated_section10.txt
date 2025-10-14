@@ -1,0 +1,10 @@
+Background
+Editor's note: The anti‐inflammatory drug rofecoxib (Vioxx) was withdrawn from the market at the end of September 2004 after it was shown that long‐term use (greater than 18 months) could increase the risk of heart attack and stroke. Further information is available at www.vioxx.com.   Rheumatoid arthritis (RA) is a systemic auto‐immune disorder, in which the synovial lining of many joints and tendon sheaths are persistently inflamed. 
+Objectives
+To assess the efficacy and toxicity of rofecoxib for treating RA.
+Search methods
+We searched the following electronic databases up to December 2000: MEDLINE, EMBASE, Cochrane Database of Systematic Reviews, Cochrane Controlled Trials Register, National Research Register, NHS Economic Evaluation Database, Health Technology Assessment database. The bibliographies of retrieved papers were scanned for additional references. The manufacturers of rofecoxib, MSD, were also approached by the UK National Institute for Clinical Excellence to submit additional evidence to inform it's appraisal on the use of cyclo‐oxygenase inhibitors for arthritis. 
+Selection criteria
+We included randomised controlled trials of parallel group design evaluating the efficacy and/or toxicity of rofecoxib in RA, both placebo based and comparative trials were eligible. Relevant outcome criteria had to be available to evaluate efficacy and/or toxicity, such as the OMERACT outcomes. 
+Data collection and analysis
+Data were abstracted independently by two reviewers and the results were compared for the degree of agreement. A validated tool (Jadad 1996) was used to score the quality of the randomised controlled trials. The planned analysis was to pool, where appropriate, continuous outcome measures using mean or standardized mean differences, and dichotomous outcome measures using relative risk ratios. 

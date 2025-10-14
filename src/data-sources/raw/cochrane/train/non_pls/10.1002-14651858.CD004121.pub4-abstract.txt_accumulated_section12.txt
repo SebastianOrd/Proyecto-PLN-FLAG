@@ -1,0 +1,12 @@
+Background
+This is an updated version of the original Cochrane review published in 2014, Issue 4. Cervical intraepithelial neoplasia (CIN) precedes the development of invasive carcinoma of the cervix. Current treatment of CIN is quite effective, but there is morbidity for the patient related to pain, bleeding, infection, cervical stenosis and premature birth in a subsequent pregnancy. Effective treatment with medications, rather than surgery, would be beneficial. 
+Objectives
+To evaluate the effectiveness and safety of non‐steroidal anti‐inflammatory agents (NSAIDs), including cyclooxygenase‐2 (COX‐2) inhibitors, to induce regression and prevent the progression of CIN. 
+Search methods
+Previously, we searched the Cochrane Gynaecological Cancer Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) (2013, Issue 11), MEDLINE (November, 2013) and Embase (November week 48, 2013). An updated search was performed in August 2017 for CENTRAL (2017, Issue 8), MEDLINE (July, week 3, 2017) and Embase (July week 31, 2017). Trial registries and journals were also searched as part of the update. 
+Selection criteria
+Randomised controlled trials (RCTs) or controlled trials of NSAIDs in the treatment of CIN. 
+Data collection and analysis
+Three review authors independently abstracted data and assessed risks of bias in accordance with Cochrane methodology. Outcome data were pooled using fixed‐effect meta‐analyses. 
+Main results
+In three RCTs, 171 women over the age of 18 years were randomised to receive celecoxib 400 mg daily for 14 to 18 weeks versus placebo (one study, 130 participants), celecoxib 200 mg twice daily by mouth for six months versus placebo (one study, 25 participants), or rofecoxib 25 mg once daily by mouth for three months versus placebo (one study, 16 participants). The study with rofecoxib was discontinued when the medicine was withdrawn from the market in 2004. The trials ran from June 2005 to April 2012, June 2002 to October 2003, and May to October 2004, respectively. We have chosen to include the data from the rofecoxib study as outcomes may be similar when other such NSAIDs are utilised. 

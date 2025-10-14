@@ -1,0 +1,12 @@
+Background
+Surgery is the preferred treatment for resectable oesophageal cancers, and can be performed in different ways. Transhiatal oesophagectomy (oesophagectomy without thoracotomy, with a cervical anastomosis) is one way to resect oesophageal cancers. It can be performed laparoscopically or by open method. With other organs, laparoscopic surgery has been shown to reduce complications and length of hospital stay compared to open surgery. However, concerns remain about the safety of laparoscopic transhiatal oesophagectomy in terms of post‐operative complications and oncological clearance compared with open transhiatal oesophagectomy. 
+Objectives
+To assess the benefits and harms of laparoscopic versus open oesophagectomy for people with oesophageal cancer undergoing transhiatal oesophagectomy. 
+Search methods
+We electronically searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, Science Citation Index Expanded, and trials registers until August 2015. We also searched the references of included trials to identify further trials. 
+Selection criteria
+We considered randomised controlled trials and non‐randomised studies comparing laparoscopic with open transhiatal oesophagectomy in patients with resectable oesophageal cancer, regardless of language, blinding, or publication status for the review. 
+Data collection and analysis
+Three review authors independently identified trials, assessed risk of bias and extracted data. We calculated the risk ratio (RR) or hazard ratio (HR) with 95% confidence intervals (CI), using both fixed‐effect and random‐effects models, with RevMan 5, based on intention‐to‐treat analyses. 
+Main results
+We found no randomised controlled trials on this topic. We included six non‐randomised studies (five retrospective) that compared laparoscopic versus open transhiatal oesophagectomy (334 patients: laparoscopic = 154 patients; open = 180 patients); five studies (326 patients: laparoscopic = 151 patients; open = 175 patients) provided information for one or more outcomes. Most studies included a mixture of adenocarcinoma and squamous cell carcinoma and different stages of oesophageal cancer, without metastases. All the studies were at unclear or high risk of bias; the overall quality of evidence was very low for all the outcomes. 

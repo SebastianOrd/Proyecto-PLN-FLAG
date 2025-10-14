@@ -1,0 +1,10 @@
+Background
+Singing is a complex physical activity dependent on the use of the lungs for air supply to regulate airflow and create large lung volumes. In singing, exhalation is active and requires active diaphragm contraction and good posture. Chronic obstructive pulmonary disease (COPD) is a progressive, chronic lung disease characterised by airflow obstruction. Singing is an activity with potential to improve health outcomes in people with COPD. 
+Objectives
+To determine the effect of singing on health‐related quality of life and dyspnoea in people with COPD. 
+Search methods
+We identified trials from the Cochrane Airways Specialised Register, ClinicalTrials.gov, the World Health Organization trials portal and PEDro, from their inception to August 2017. We also reviewed reference lists of all primary studies and review articles for additional references. 
+Selection criteria
+We included randomised controlled trials in people with stable COPD, in which structured supervised singing training of at least four sessions over four weeks' total duration was performed. The singing could be performed individually or as part of a group (choir) facilitated by a singing leader. Studies were included if they compared: 1) singing versus no intervention (usual care) or another control intervention; or 2) singing plus pulmonary rehabilitation versus pulmonary rehabilitation alone. 
+Data collection and analysis
+Two review authors independently screened and selected trials for inclusion, extracted outcome data and assessed risk of bias. We contacted authors of trials for missing data. We calculated mean differences (MDs) using a random‐effects model. We were only able to analyse data for the comparison of singing versus no intervention or a control group. 

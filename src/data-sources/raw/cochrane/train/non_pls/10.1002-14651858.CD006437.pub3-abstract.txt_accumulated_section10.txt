@@ -1,0 +1,10 @@
+Background
+Laparoscopic appendectomy is amongst the most common general surgical procedures performed in the developed world. Arguably, the most critical part of this procedure is effective closure of the appendix stump to prevent catastrophic intra‐abdominal complications from a faecal leak into the abdominal cavity.  A variety of methods to close the appendix stump are used worldwide; these can be broadly divided into traditional ligatures (such as intracorporeal or extracorporeal ligatures or Roeder loops) and mechanical devices (such as stapling devices, clips, or electrothermal devices). However, the optimal method remains unclear. 
+Objectives
+To compare all surgical techniques now used for appendix stump closure during laparoscopic appendectomy. 
+Search methods
+In June 2017, we searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 6) in the Cochrane Library, MEDLINE Ovid (1946 to 14 June 2017), Embase Ovid (1974 to 14 June 2017), Science Citation Index ‐ Expanded (14 June 2017), China Biological Medicine Database (CBM), the World Health Organization International Trials Registry Platform search portal, ClinicalTrials.gov, Current Controlled Trials, the Chinese Clinical Trials Register, and the EU Clinical Trials Register (all in June 2017). We searched the reference lists of relevant publications as well as meeting abstracts and Conference Proceedings Citation Index to look for additional relevant clinical trials. 
+Selection criteria
+We included all randomised controlled trials (RCTs) that compared mechanical appendix stump closure (stapler, clips, or electrothermal devices) versus ligation (Endoloop, Roeder loop, or intracorporeal knot techniques) for uncomplicated appendicitis. 
+Data collection and analysis
+Two review authors identified trials for inclusion, collected data, and assessed risk of bias independently. We performed the meta‐analysis using Review Manager 5. We calculated the odds ratio (OR) for dichotomous outcomes and the mean difference (MD) for continuous outcomes, with 95% confidence intervals (CIs). 

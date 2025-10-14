@@ -1,0 +1,10 @@
+Background
+This is an update of the review on 'Percutaneous transluminal rotational atherectomy for coronary artery disease' first published in The Cochrane Library Issue 4, 2003. Percutaneous transluminal coronary rotational atherectomy (PTCRA) debulks atherosclerotic plaque from coronary arteries using an abrasive burr. On rotation, the burr selectively removes hard tissue. PTCRA has been used both as an alternative to and in conjunction with balloon angioplasty to open up blocked coronary arteries. Its ongoing effectiveness and safety compared with other modes of removing atherosclerotic plaques is reviewed.  
+Objectives
+To assess the effects of PTCRA for coronary artery disease in patients with non‐complex and complex lesions (e.g. ostial, long or diffuse lesions or those arising from in‐stent re‐stenosis) of the coronary arteries. 
+Search methods
+For the original review, we searched the Heart Group Specialised Register; The Cochrane Library to Issue 2, 2001; and MEDLINE, CINAHL, EMBASE and Current Contents to December 2002 and reviewed reference lists for relevant articles. For the current review, we searched the same registries from 2002 to 2012 and reviewed reference lists for relevant articles.  
+Selection criteria
+We included randomised and quasi‐randomised controlled trials of PTCRA compared with placebo, no treatment or another intervention and excluded cross‐over trials. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the risk of bias of the studies identified. Data were extracted independently by two review authors. We asked authors of trials to provide information when missing data were encountered. Statistical summaries used risk ratios (RR) and weighted mean differences. 

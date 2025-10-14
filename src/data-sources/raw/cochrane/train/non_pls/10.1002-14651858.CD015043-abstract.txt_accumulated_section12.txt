@@ -1,0 +1,12 @@
+Background
+The role of vitamin D supplementation as a treatment for COVID‐19 has been a subject of considerable discussion. A thorough understanding of the current evidence regarding the effectiveness and safety of vitamin D supplementation for COVID‐19 based on randomised controlled trials is required. 
+Objectives
+To assess whether vitamin D supplementation is effective and safe for the treatment of COVID‐19 in comparison to an active comparator, placebo, or standard of care alone, and to maintain the currency of the evidence, using a living systematic review approach. 
+Search methods
+We searched the Cochrane COVID‐19 Study Register, Web of Science and the WHO COVID‐19 Global literature on coronavirus disease to identify completed and ongoing studies without language restrictions to 11 March 2021. 
+Selection criteria
+We followed standard Cochrane methodology. We included randomised controlled trials (RCTs) evaluating vitamin D supplementation for people with COVID‐19, irrespective of disease severity, age, gender or ethnicity. 
+We excluded studies investigating preventive effects, or studies including populations with other coronavirus diseases (severe acute respiratory syndrome (SARS) or Middle East respiratory syndrome (MERS)). 
+Data collection and analysis
+We followed standard Cochrane methodology.
+To assess bias in included studies, we used the Cochrane risk of bias tool (ROB 2) for RCTs. We rated the certainty of evidence using the GRADE approach for the following prioritised outcome categories: individuals with moderate or severe COVID‐19: all‐cause mortality, clinical status, quality of life, adverse events, serious adverse events, and for individuals with asymptomatic or mild disease: all‐cause mortality, development of severe clinical COVID‐19 symptoms, quality of life, adverse events, serious adverse events. 

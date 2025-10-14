@@ -1,0 +1,17 @@
+Background
+Pine bark (Pinus spp.) extract is rich in bioflavonoids, predominantly proanthocyanidins, which are antioxidants. Commercially‐available extract supplements are marketed for preventing or treating various chronic conditions associated with oxidative stress. This is an update of a previously published review. 
+Objectives
+To assess the efficacy and safety of pine bark extract supplements for treating chronic disorders. 
+Search methods
+We searched three databases and three trial registries; latest search: 30 September 2019. 
+We contacted the manufacturers of pine bark extracts to identify additional studies and hand‐searched bibliographies of included studies. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating pine bark extract supplements in adults or children with any chronic disorder. 
+Data collection and analysis
+Two authors independently assessed trial eligibility, extracted data and assessed risk of bias. Where possible, we pooled data in meta‐analyses. We used GRADE to evaluate the certainty of evidence. 
+Primary outcomes were participant‐ and investigator‐reported clinical outcomes directly related to each disorder and all‐cause mortality. We also assessed adverse events and biomarkers of oxidative stress. 
+Main results
+This review included 27 RCTs (22 parallel and five cross‐over designs; 1641 participants) evaluating pine bark extract supplements across 10 chronic disorders: asthma (two studies; 86 participants); attention deficit hyperactivity disorder (ADHD) (one study; 61 participants), cardiovascular disease (CVD) and risk factors (seven studies; 338 participants), chronic venous insufficiency (CVI) (two studies; 60 participants), diabetes mellitus (DM) (six studies; 339 participants), erectile dysfunction (three studies; 277 participants), female sexual dysfunction (one study; 83 participants), osteoarthritis (three studies; 293 participants), osteopenia (one study; 44 participants) and traumatic brain injury (one study; 60 participants). 
+Two studies exclusively recruited children; the remainder recruited adults. Trials lasted between four weeks and six months. Placebo was the control in 24 studies. Overall risk of bias was low for four, high for one and unclear for 22 studies. 
+In adults with asthma, we do not know whether pine bark extract increases change in forced expiratory volume in one second (FEV1) % predicted/forced vital capacity (FVC) (mean difference (MD) 7.70, 95% confidence interval (CI) 3.19 to 12.21; one study; 44 participants; very low‐certainty evidence), increases change in FEV1 % predicted (MD 7.00, 95% CI 0.10 to 13.90; one study; 44 participants; very low‐certainty evidence), improves asthma symptoms (risk ratio (RR) 1.85, 95% CI 1.32 to 2.58; one study; 60 participants; very low‐certainty evidence) or increases the number of people able to stop using albuterol inhalers (RR 6.00, 95% CI 1.97 to 18.25; one study; 60 participants; very low‐certainty evidence). 
+In children with ADHD, we do not know whether pine bark extract decreases inattention and hyperactivity assessed by parent‐ and teacher‐rating scales (narrative synthesis; one study; 57 participants; very low‐certainty evidence) or increases the change in visual‐motoric coordination and concentration (MD 3.37, 95% CI 2.41 to 4.33; one study; 57 participants; very low‐certainty evidence). 

@@ -1,0 +1,12 @@
+Background
+Rheumatoid arthritis (RA) is a chronic and systemic inflammatory disorder that mainly affects the small joints of the hands and feet. Erythropoiesis‐stimulating agents have been used to treat anemia, one of the extra‐articular manifestations of RA. Although anemia is less of a problem now because of the reduction in inflammation due to disease‐modifying antirheumatic drugs (DMARDs), it could still be an issue in countries where DMARDs are not yet accessible. 
+Objectives
+We assessed the clinical benefits and harms of erythropoiesis‐stimulating agents for anemia in rheumatoid arthritis. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (issue 7 2012), Ovid MEDLINE and Ovid MEDLINE(R) In‐Process & Other Non‐Indexed Citations (1948 to 7 August 2012), OVID EMBASE (1980 to 7 August 2012), LILACS (1982 to 7 August 2012), the Clinical Trials Search Portal of the World Health Organization, reference lists of the retrieved publications and review articles. We did not apply any language restrictions. 
+Selection criteria
+We included randomized controlled trials (RCTs) in patients aged 16 years or over, with a diagnosis of rheumatoid arthritis affected by anemia. We considered health‐related quality of life, fatigue and safety as the primary outcomes. 
+Data collection and analysis
+Two authors independently performed trial selection, risk of bias assessment, and data extraction. We estimated difference in means with 95% confidence intervals (CIs) for continuous outcomes. We estimated risk ratios with 95% CIs for binary outcomes. 
+Main results
+We included three RCTs with a total of 133 participants. All trials compared human recombinant erythropoietin (EPO), for different durations (8, 12 and 52 weeks), versus placebo. All RCTs assessed health‐related quality of life. All trials had high or unclear risk of bias for most domains, and were sponsored by the pharmaceutical industry. Two trials administered EPO by a subcutaneous route while the other used an intravenous route. 

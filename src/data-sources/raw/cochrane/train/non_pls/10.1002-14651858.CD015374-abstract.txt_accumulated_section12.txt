@@ -1,0 +1,12 @@
+Background
+Human African trypanosomiasis, or sleeping sickness, is a severe disease affecting people in the poorest parts of Africa. It is usually fatal without treatment. Conventional treatments require days of intravenous infusion, but a recently developed drug, fexinidazole, can be given orally. Another oral drug candidate, acoziborole, is undergoing clinical development and will be considered in subsequent editions.   
+Objectives
+To evaluate the effectiveness and safety of currently used drugs for treating second‐stage Trypanosoma brucei gambiense trypanosomiasis (gambiense human African trypanosomiasis, g‐HAT). 
+Search methods
+On 14 May 2021, we searched the Cochrane Infectious Diseases Group Specialized Register, the Cochrane Central Register of Controlled Trials, MEDLINE, Embase, Latin American and Caribbean Health Science Information database, BIOSIS, ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform. We also searched reference lists of included studies, contacted researchers working in the field, and contacted relevant organizations. 
+Selection criteria
+Eligible studies were randomized controlled trials that included adults and children with second‐stage g‐HAT, treated with anti‐trypanosomal drugs currently in use. 
+Data collection and analysis
+Two review authors extracted data and assessed risk of bias; a third review author acted as an arbitrator if needed. The included trial only reported dichotomous outcomes, which we presented as risk ratio (RR) or risk difference (RD) with 95% confidence intervals (CI).   
+Main results
+We included one trial comparing fexinidazole to nifurtimox combined with eflornithine (NECT). This trial was conducted between October 2012 and November 2016 in the Democratic Republic of the Congo and the Central African Republic, and included 394 participants. The study reported on efficacy and safety, with up to 24 months' follow‐up.  We judged the study to be at low risk of bias in all domains except blinding;  as the route of administration and dosing regimens differed between treatment groups,  participants and personnel were not blinded, resulting in a high risk of performance bias.   

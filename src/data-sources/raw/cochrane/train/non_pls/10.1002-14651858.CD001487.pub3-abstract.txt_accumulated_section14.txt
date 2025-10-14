@@ -1,0 +1,14 @@
+Background
+Femoro‐popliteal bypass is implemented to save limbs that might otherwise require amputation, in patients with ischaemic rest pain or tissue loss; and to improve walking distance in patients with severe life‐limiting claudication. Contemporary practice involves grafts using autologous vein, polytetrafluoroethylene (PTFE) or Dacron as a bypass conduit. This is the second update of a Cochrane review first published in 1999 and last updated in 2010. 
+Objectives
+To assess the effects of bypass graft type in the treatment of stenosis or occlusion of the femoro‐popliteal arterial segment, for above‐ and below‐knee femoro‐popliteal bypass grafts. 
+Search methods
+For this update, the Cochrane Vascular Information Specialist searched the Vascular Specialised Register (13 March 2017) and CENTRAL (2017, Issue 2). Trial registries were also searched. 
+Selection criteria
+We included randomised trials comparing at least two different types of femoro‐popliteal grafts for arterial reconstruction in patients with femoro‐popliteal ischaemia. Randomised controlled trials comparing bypass grafting to angioplasty or to other interventions were not included. 
+Data collection and analysis
+Both review authors (GKA and CPT) independently screened studies, extracted data, assessed trials for risk of bias and graded the quality of the evidence using GRADE criteria. 
+Main results
+We included nineteen randomised controlled trials, with a total of 3123 patients (2547 above‐knee, 576 below‐knee bypass surgery). In total, nine graft types were compared (autologous vein, polytetrafluoroethylene (PTFE) with and without vein cuff, human umbilical vein (HUV), polyurethane (PUR), Dacron and heparin bonded Dacron (HBD); FUSION BIOLINE and Dacron with external support). Studies differed in which graft types they compared and follow‐up ranged from six months to 10 years. 
+Above‐knee bypass 
+For above‐knee bypass, there was moderate‐quality evidence that autologous vein grafts improve primary patency compared to prosthetic grafts by 60 months (Peto odds ratio (OR) 0.47, 95% confidence interval (CI) 0.28 to 0.80; 3 studies, 269 limbs; P = 0.005). We found low‐quality evidence to suggest that this benefit translated to improved secondary patency by 60 months (Peto OR 0.41, 95% CI 0.22 to 0.74; 2 studies, 176 limbs; P = 0.003). 

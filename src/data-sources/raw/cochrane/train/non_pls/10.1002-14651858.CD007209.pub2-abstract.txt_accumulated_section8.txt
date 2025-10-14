@@ -1,0 +1,8 @@
+Background
+The use of enteral tube feeding for patients with advanced dementia who have poor nutritional intake is common. In one US survey 34% of 186,835 nursing home residents with advanced cognitive impairment were tube fed. Potential benefits or harms of this practice are unclear. 
+Objectives
+To evaluate the outcome of enteral tube nutrition for older people with advanced dementia who develop problems with eating and swallowing and/or have poor nutritional intake. 
+Search methods
+The Specialized Register of the Cochrane Dementia and Cognitive Improvement Group (CDCIG), The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL and LILACS were searched in April 2008. Citation checking was undertaken. Where it was not possible to accept or reject, the full text of the citation was obtained for further evaluation. 
+Selection criteria
+Randomized controlled trials (RCTs), controlled clinical trials, controlled before and after studies and interrupted time series studies that evaluated the effectiveness of enteral feeding via a nasogastric tube or via a tube passed by percutaneous endoscopic gastrostomy (PEG) were planned to be included. In addition, controlled observational studies were included. The study population comprised adults aged 50 and over (either sex), with a diagnosis of primary degenerative dementia made according to validated diagnostic criteria such as DSM‐IV or ICD‐10 (APA 1994; WHO 1993) and with advanced cognitive impairment defined by a recognised and validated tool or by clinical assessment and had poor nutrition intake and/or develop problems with eating and swallowing. Where data were limited we also considered studies in which the majority of participants had dementia. 

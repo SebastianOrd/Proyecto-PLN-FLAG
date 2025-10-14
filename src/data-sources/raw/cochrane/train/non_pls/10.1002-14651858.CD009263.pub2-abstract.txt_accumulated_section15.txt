@@ -1,0 +1,15 @@
+Background
+Neuroblastoma is an embryonic tumour of childhood that originates in the neural crest. It is the second most common extracranial malignant solid tumour of childhood. 
+Neuroblastoma cells have the unique capacity to accumulate Iodine‐123‐metaiodobenzylguanidine (¹²³I‐MIBG), which can be used for imaging the tumour. Moreover, ¹²³I‐MIBG scintigraphy is not only important for the diagnosis of neuroblastoma, but also for staging and localization of skeletal lesions. If these are present, MIBG follow‐up scans are used to assess the patient's response to therapy. However, the sensitivity and specificity of ¹²³I‐MIBG scintigraphy to detect neuroblastoma varies according to the literature. 
+Prognosis, treatment and response to therapy of patients with neuroblastoma are currently based on extension scoring of ¹²³I‐MIBG scans. Due to its clinical use and importance, it is necessary to determine the exact diagnostic accuracy of ¹²³I‐MIBG scintigraphy. In case the tumour is not MIBG avid, fluorine‐18‐fluorodeoxy‐glucose (18F‐FDG) positron emission tomography (PET) is often used and the diagnostic accuracy of this test should also be assessed. 
+Objectives
+Primary objectives:
+1.1 To determine the diagnostic accuracy of ¹²³I‐MIBG (single photon emission computed tomography (SPECT), with or without computed tomography (CT)) scintigraphy for detecting a neuroblastoma and its metastases at first diagnosis or at recurrence in children from 0 to 18 years old. 
+1.2 To determine the diagnostic accuracy of negative ¹²³I‐MIBG scintigraphy in combination with 18F‐FDG‐PET(‐CT) imaging for detecting a neuroblastoma and its metastases at first diagnosis or at recurrence in children from 0 to 18 years old, i.e. an add‐on test. 
+Secondary objectives:
+2.1 To determine the diagnostic accuracy of 18F‐FDG‐PET(‐CT) imaging for detecting a neuroblastoma and its metastases at first diagnosis or at recurrence in children from 0 to 18 years old. 
+2.2 To compare the diagnostic accuracy of ¹²³I‐MIBG (SPECT‐CT) and 18F‐FDG‐PET(‐CT) imaging for detecting a neuroblastoma and its metastases at first diagnosis or at recurrence in children from 0 to 18 years old. This was performed within and between included studies. ¹²³I‐MIBG (SPECT‐CT) scintigraphy was the comparator test in this case. 
+Search methods
+We searched the databases of MEDLINE/PubMed (1945 to 11 September 2012) and EMBASE/Ovid (1980 to 11 September 2012) for potentially relevant articles. Also we checked the reference lists of relevant articles and review articles, scanned conference proceedings and searched for unpublished studies by contacting researchers involved in this area. 
+Selection criteria
+We included studies of a cross‐sectional design or cases series of proven neuroblastoma, either retrospective or prospective, if they compared the results of ¹²³I‐MIBG (SPECT‐CT) scintigraphy or 18F‐FDG‐PET(‐CT) imaging, or both, with the reference standards or with each other. Studies had to be primary diagnostic and report on children aged between 0 to 18 years old with a neuroblastoma of any stage at first diagnosis or at recurrence. 

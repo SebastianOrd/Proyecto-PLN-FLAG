@@ -1,0 +1,10 @@
+Background
+An association has been hypothesized between periodontitis and hypertension. Periodontal therapy is believed to reduce systemic inflammatory mediators and increase endothelial function, thus having the potential to prevent and treat hypertension. 
+Objectives
+To assess the effect and safety of different periodontal treatment modalities on blood pressure (BP) in people with chronic periodontitis. 
+Search methods
+The Cochrane Hypertension Information Specialist searched for randomized controlled trials (RCTs) up to November 2020 in the Cochrane Hypertension Specialised Register, CENTRAL, MEDLINE, Embase, seven other databases, and two clinical trials registries. We contacted the authors of relevant papers regarding further published and unpublished work. 
+Selection criteria
+RCTs and quasi‐RCTs aiming to detect the effect of periodontal treatment on BP were eligible. Participants should have been diagnosed with chronic periodontitis and hypertension (or no hypertension if the study explored the preventive effect of periodontal treatment). Participants in the intervention group should have undergone subgingival scaling and root planing (SRP) and any other type of periodontal treatments, compared with either no periodontal treatment or alternative periodontal treatment in the control group. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane for study identification, data extraction, and risk of bias assessment. We used a formal pilot‐tested data extraction form for data extraction, and the Cochrane risk of bias tool for risk of bias assessment. We planned the meta‐analysis, test for heterogeneity, sensitivity analysis, and subgroup analysis. We assessed the certainty of evidence using GRADE. The primary outcome was change in systolic BP (SBP) and diastolic BP (DBP). 

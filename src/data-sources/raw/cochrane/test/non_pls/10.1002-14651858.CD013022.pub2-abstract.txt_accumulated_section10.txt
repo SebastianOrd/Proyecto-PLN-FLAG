@@ -1,0 +1,10 @@
+Background
+People with heart failure report various symptoms and show a trajectory of periodic exacerbations and recoveries, where each exacerbation event may lead to death. Current clinical practice guidelines indicate the importance of discussing future care strategies with people with heart failure. Advance care planning (ACP) is the process of discussing an individual's future care plan according to their values and preferences, and involves the person with heart failure, their family members or surrogate decision‐makers, and healthcare providers. Although it is shown that ACP may improve discussion about end‐of‐life care and documentation of an individual's preferences, the effects of ACP for people with heart failure are uncertain. 
+Objectives
+To assess the effects of advance care planning (ACP) in people with heart failure compared to usual care strategies that do not have any components promoting ACP. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL, Social Work Abstracts, and two clinical trials registers in October 2019. We checked the reference lists of included studies. There were no restrictions on language or publication status. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared ACP with usual care in people with heart failure. Trials could have parallel group, cluster‐randomised, or cross‐over designs. We included interventions that implemented ACP, such as discussing and considering values, wishes, life goals, and preferences for future medical care. The study participants comprised adults (18 years of age or older) with heart failure. 
+Data collection and analysis
+Two review authors independently extracted outcome data from the included studies, and assessed their risk of bias. We contacted trial authors when we needed to obtain missing information. 

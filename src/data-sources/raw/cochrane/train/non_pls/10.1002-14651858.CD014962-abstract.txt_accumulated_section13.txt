@@ -1,0 +1,13 @@
+Background
+Remdesivir is an antiviral medicine with properties to inhibit viral replication of SARS‐CoV‐2. Positive results from early studies attracted media attention and led to emergency use authorisation of remdesivir in COVID‐19.  A thorough understanding of the current evidence regarding the effects of remdesivir as a treatment for SARS‐CoV‐2 infection based on randomised controlled trials (RCTs) is required. 
+Objectives
+To assess the effects of remdesivir compared to placebo or standard care alone on clinical outcomes in hospitalised patients with SARS‐CoV‐2 infection, and to maintain the currency of the evidence using a living systematic review approach. 
+Search methods
+We searched the Cochrane COVID‐19 Study Register (which comprises the Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, Embase, ClinicalTrials.gov, WHO International Clinical Trials Registry Platform, and medRxiv) as well as Web of Science (Science Citation Index Expanded and Emerging Sources Citation Index) and WHO COVID‐19 Global literature on coronavirus disease to identify completed and ongoing studies without language restrictions. We conducted the searches on 16 April 2021. 
+Selection criteria
+We followed standard Cochrane methodology.
+We included RCTs evaluating remdesivir for the treatment of SARS‐CoV‐2 infection in hospitalised adults compared to placebo or standard care alone irrespective of disease severity, gender, ethnicity, or setting.  
+We excluded studies that evaluated remdesivir for the treatment of other coronavirus diseases. 
+Data collection and analysis
+We followed standard Cochrane methodology.
+To assess risk of bias in included studies, we used the Cochrane RoB 2 tool for RCTs. We rated the certainty of evidence using the GRADE approach for outcomes that were reported according to our prioritised categories: all‐cause mortality at up to day 28, duration to liberation from invasive mechanical ventilation, duration to liberation from supplemental oxygen, new need for mechanical ventilation (high‐flow oxygen, non‐invasive, or invasive mechanical ventilation), new need for invasive mechanical ventilation, new need for non‐invasive mechanical ventilation or high‐flow oxygen, new need for oxygen by mask or nasal prongs, quality of life, serious adverse events, and adverse events (any grade). 

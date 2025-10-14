@@ -1,0 +1,12 @@
+Background
+Ocrelizumab is a humanised anti‐CD20 monoclonal antibody developed for the treatment of multiple sclerosis (MS). It was approved by the Food and Drug Administration (FDA) in March 2017 for using in adults with relapsing‐remitting multiple sclerosis (RRMS) and primary progressive multiple sclerosis (PPMS). Ocrelizumab is the only disease‐modifying therapy (DMT) approved for PPMS. In November 2017, the European Medicines Agency (EMA) also approved ocrelizumab as the first drug for people with early PPMS. Therefore, it is important to evaluate the benefits, harms, and tolerability of ocrelizumab in people with MS. 
+Objectives
+To assess the benefits, harms, and tolerability of ocrelizumab in people with RRMS and PPMS. 
+Search methods
+We searched MEDLINE, Embase, CENTRAL, and two trials registers on 8 October 2021. We screened reference lists, contacted experts, and contacted the main authors of studies. 
+Selection criteria
+All randomised controlled trials (RCTs) involving adults diagnosed with RRMS or PPMS according to the McDonald criteria, comparing ocrelizumab alone or associated with other medications, at the approved dose of 600 mg every 24 weeks for any duration, versus placebo or any other active drug therapy. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+Four RCTs met our selection criteria. The overall population included 2551 participants; 1370 treated with ocrelizumab 600 mg and 1181 controls. Among the controls, 298 participants received placebo and 883 received interferon beta‐1a. The treatment duration was 24 weeks in one study, 96 weeks in two studies, and at least 120 weeks in one study. One study was at high risk of allocation concealment and blinding of participants and personnel; all four studies were at high risk of bias for incomplete outcome data. 

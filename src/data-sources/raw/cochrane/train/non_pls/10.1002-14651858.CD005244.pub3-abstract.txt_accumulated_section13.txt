@@ -1,0 +1,13 @@
+Background
+Injuries are a significant public health burden and alcohol intoxication is recognised as a risk factor for injuries. Increasing attention is being paid to supply‐side interventions that aim to modify the environment and context within which alcohol is supplied and consumed. 
+Objectives
+To quantify the effectiveness of interventions implemented in the server setting for reducing injuries. 
+Search methods
+We searched the following electronic databases to November 2008; Cochrane Injuries Group's Specialised Register, CENTRAL, MEDLINE, EMBASE, PsycINFO, PsycEXTRA, ISI Web of Science, Conference Proceedings Citation Index ‐ Science, TRANSPORT and ETOH. We also searched reference lists of articles and contacted experts in the field. 
+Selection criteria
+Randomised controlled trials (RCTs), non‐randomised controlled trials (NRTs) and controlled before and after studies (CBAs) of the effects of interventions administered in the server setting that attempted to modify the conditions under which alcohol is served and consumed, to facilitate sensible alcohol consumption and reduce the occurrence of alcohol‐related harm. 
+Data collection and analysis
+Two authors independently screened search results and assessed the full texts of potentially relevant studies for inclusion. Data were extracted and methodological quality was examined. Due to variability in the types of interventions investigated, a pooled analysis was not appropriate. 
+Main results
+Twenty‐three studies met the inclusion criteria. Overall methodological quality was poor. Five studies used an injury outcome measure; one of these studies was randomised, the remaining four where CBA studies. 
+The RCT targeting the alcohol server setting environment with an injury outcome compared the introduction of toughened glassware (experimental) to annealed glassware (control) on the number of bar staff injuries; a greater number of injuries were detected in the experimental group (relative risk 1.72, 95% CI 1.15 to 2.59). 

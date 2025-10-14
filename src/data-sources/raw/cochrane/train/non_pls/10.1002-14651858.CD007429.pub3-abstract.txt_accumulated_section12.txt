@@ -1,0 +1,12 @@
+Background
+Dislocation of the acromioclavicular joint is one of the most common shoulder injuries in a sport‐active population. The question of whether surgery should be used remains controversial. This is an update of a Cochrane Review first published in 2010. 
+Objectives
+To assess the effects (benefits and harms) of surgical versus conservative (non‐surgical) interventions for treating acromioclavicular dislocations in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (to June 2019), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library 2019, Issue 6), MEDLINE (1946 to June 2019), Embase (1980 to June 2019), and LILACS (1982 to June 2019), trial registries, and reference lists of articles. There were no restrictions based on language or publication status. 
+Selection criteria
+We included all randomised and quasi‐randomised trials that compared surgical with conservative treatment of acromioclavicular dislocation in adults. 
+Data collection and analysis
+At least two review authors independently performed study screening and selection, 'Risk of bias' assessment, and data extraction. We pooled data where appropriate and used GRADE to assess the quality of evidence for each outcome. 
+Main results
+We included five randomised trials and one quasi‐randomised trial. The included trials involved 357 mainly young adults, the majority of whom were male, with acute acromioclavicular dislocation. The strength of the findings in all studies was limited due to design features, invariably lack of blinding, that carry a high risk of bias. Fixation of the acromioclavicular joint using hook plates, tunnelled suspension devices, coracoclavicular screws, acromioclavicular pins, or (usually threaded) wires was compared with supporting the arm in a sling or similar device. After surgery, the arm was also supported in a sling or similar device in all trials. Where described in the trials, both groups had exercise‐based rehabilitation. We downgraded the evidence for all outcomes at least two levels, invariably for serious risk of bias and serious imprecision. 

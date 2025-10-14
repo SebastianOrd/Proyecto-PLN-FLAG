@@ -1,0 +1,9 @@
+Background
+Reducing the transmission of severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) is a global priority. Contact tracing identifies people who were recently in contact with an infected individual, in order to isolate them and reduce further transmission. Digital technology could be implemented to augment and accelerate manual contact tracing. Digital tools for contact tracing may be grouped into three areas: 1) outbreak response; 2) proximity tracing; and 3) symptom tracking. We conducted a rapid review on the effectiveness of digital solutions to contact tracing during infectious disease outbreaks. 
+Objectives
+To assess the benefits, harms, and acceptability of personal digital contact tracing solutions for identifying contacts of an identified positive case of an infectious disease. 
+Search methods
+An information specialist searched the literature from 1 January 2000 to 5 May 2020 in CENTRAL, MEDLINE, and Embase. Additionally, we screened the Cochrane COVID‐19 Study Register. 
+Selection criteria
+We included randomised controlled trials (RCTs), cluster‐RCTs, quasi‐RCTs, cohort studies, cross‐sectional studies and modelling studies, in general populations. We preferentially included studies of contact tracing during infectious disease outbreaks (including COVID‐19, Ebola, tuberculosis, severe acute respiratory syndrome virus, and Middle East respiratory syndrome) as direct evidence, but considered comparative studies of contact tracing outside an outbreak as indirect evidence. 
+The digital solutions varied but typically included software (or firmware) for users to install on their devices or to be uploaded to devices provided by governments or third parties. Control measures included traditional or manual contact tracing, self‐reported diaries and surveys, interviews, other standard methods for determining close contacts, and other technologies compared to digital solutions (e.g. electronic medical records). 

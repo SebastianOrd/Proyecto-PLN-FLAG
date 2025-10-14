@@ -1,0 +1,11 @@
+Background
+Urinary tract infections (UTIs) are very common, affecting more than 7 million people worldwide. Whilst many people may only experience a single episode in their lifetime and are generally responsive to standard antibiotics, a significant proportion of adults and children (approximately 15% to 25%) are chronic symptomatic UTI sufferers. Certain population groups are at greater risk than others, such as immunosuppressed and people with chronic kidney disease. 
+D‐mannose is a sugar part of normal human metabolism found within most diets. The mechanism of action is to prevent bacterial adherence to the uroepithelial cells. The D‐mannose‐based inhibitors can block uropathogenic Escherichia coli adhesion and invasion of the uroepithelial cells. The bacteria are then understood to essentially be eliminated by urination. 
+Early pilot studies on animals and humans have trialled concentrated forms of D‐mannose (tablets or sachets) in doses ranging from 200 mg up to 2 to 3 g and found possible efficacy in reducing UTI symptoms or recurrence. 
+Although the anti‐adhesive effects of D‐mannose have been well‐established, only recently have we seen a small number of pilot studies and small clinical trials conducted. 
+Objectives
+To assess the benefits and harms of D‐mannose for preventing and treating UTIs in adults and children. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 22 February 2022 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+We included RCTs measuring and reporting the effect of D‐mannose, in any combination and any formulation, to prevent or treat UTIs in adults and children, females and males, in any setting (including perioperative). 

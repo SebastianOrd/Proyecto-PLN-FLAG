@@ -1,0 +1,11 @@
+Background
+Current and expected problems such as ageing, increased prevalence of chronic conditions and multi‐morbidity, increased emphasis on healthy lifestyle and prevention, and substitution for care from hospitals by care provided in the community encourage countries worldwide to develop new models of primary care delivery. Owing to the fact that many tasks do not necessarily require the knowledge and skills of a doctor, interest in using nurses to expand the capacity of the primary care workforce is increasing. Substitution of nurses for doctors is one strategy used to improve access, efficiency, and quality of care. This is the first update of the Cochrane review published in 2005. 
+Objectives
+Our aim was to investigate the impact of nurses working as substitutes for primary care doctors on: 
+• patient outcomes;
+• processes of care; and
+• utilisation, including volume and cost.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), part of the Cochrane Library (www.cochranelibrary.com), as well as MEDLINE, Ovid, and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) and EbscoHost (searched 20.01.2015). We searched for grey literature in the Grey Literature Report and OpenGrey (21.02.2017), and we searched the International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov trial registries (21.02.2017). We did a cited reference search for relevant studies (searched 27.01 2015) and checked reference lists of all included studies. We reran slightly revised strategies, limited to publication years between 2015 and 2017, for CENTRAL, MEDLINE, and CINAHL, in March 2017, and we have added one trial to ‘Studies awaiting classification’. 
+Selection criteria
+Randomised trials evaluating the outcomes of nurses working as substitutes for doctors. The review is limited to primary healthcare services that provide first contact and ongoing care for patients with all types of health problems, excluding mental health problems. Studies which evaluated nurses supplementing the work of primary care doctors were excluded. 

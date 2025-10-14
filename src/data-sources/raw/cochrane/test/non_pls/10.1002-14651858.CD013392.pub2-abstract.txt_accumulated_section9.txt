@@ -1,0 +1,9 @@
+Background
+Uncertainty exists about the optimal point at which multi‐component fortifier should be added to human milk for promoting growth in preterm infants. The most common practice is to start fortification when the infant’s daily enteral feed volume reaches 100 mL/kg body weight. Another approach is to commence fortification earlier, in some cases as early as the first enteral feed. Early fortification of human milk could increase nutrient intake and growth rates but may increase the risk of feed intolerance and necrotising enterocolitis (NEC). 
+Objectives
+To assess effects on growth and safety of early fortification of human milk versus late fortification in preterm infants 
+To assess whether effects vary based upon gestational age (≤ 27 weeks; 28 to 31 weeks; ≥ 32 weeks), birth weight (< 1000 g; 1000 to 1499 g; ≥ 1500 g), small or appropriate for gestational age, or type of fortifier (bovine milk‐based human milk fortifier (HMF); human milk‐based HMF; formula powder) 
+Search methods
+We used the standard strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 8); OVID MEDLINE (R) and Epub Ahead of Print, In‐Process & Other Non‐Indexed Citations, Daily and Versions (R) (1946 to 15 August 2019); MEDLINE via PubMed (1 August 2018 to 15 August 2019) for the previous year; and the Cumulative Index to Nursing and Allied Health Literatue (CINAHL) (1981 to 15 August 2019). We searched clinical trials databases and reference lists of included studies. 
+Selection criteria
+We included randomised controlled trials that compared early versus late fortification of human milk in preterm infants. We defined early fortification as fortification started at < 100 mL/kg/d enteral feed volume or < 7 days postnatal age, and late fortification as fortification started at ≥ 100 mL/kg/d feeds or ≥ 7 days postnatal age. 

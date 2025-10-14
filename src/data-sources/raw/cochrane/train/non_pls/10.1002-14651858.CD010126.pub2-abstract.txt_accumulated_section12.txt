@@ -1,0 +1,12 @@
+Background
+Inhaled corticosteroids (ICS) are the most effective treatment for children with persistent asthma. Although treatment with ICS is generally considered to be safe in children, the potential adverse effects of these drugs on growth remains a matter of concern for parents and physicians. 
+Objectives
+To assess the impact of different inhaled corticosteroid drugs and delivery devices on the linear growth of children with persistent asthma. 
+Search methods
+We searched the Cochrane Airways Trials Register, which is derived from systematic searches of bibliographic databases including CENTRAL, MEDLINE, Embase, CINAHL, AMED and PsycINFO. We handsearched respiratory journals and meeting abstracts. We also conducted a search of ClinicalTrials.gov and manufacturers' clinical trial databases, or contacted the manufacturer, to search for potential relevant unpublished studies. The literature search was initially conducted in September 2014, and updated in November 2015, September 2018, and April 2019. 
+Selection criteria
+We selected parallel‐group randomized controlled trials of at least three months' duration. To be included, trials had to compare linear growth between different inhaled corticosteroid molecules at equivalent doses, delivered by the same type of device, or between different devices used to deliver the same inhaled corticosteroid molecule at the same dose, in children up to 18 years of age with persistent asthma. 
+Data collection and analysis
+At least two review authors independently selected studies and assessed risk of bias in included studies. The data were extracted by one author and checked by another. The primary outcome was linear growth velocity. We conducted meta‐analyses using Review Manager 5.3 software. We used mean differences (MDs) and 95% confidence intervals (CIs ) as the metrics for treatment effects, and the random‐effects model for meta‐analyses. We did not perform planned subgroup analyses due to there being too few included trials. 
+Main results
+We included six randomized trials involving 1199 children aged from 4 to 12 years (per‐protocol population: 1008), with mild‐to‐moderate persistent asthma. Two trials were from single hospitals, and the remaining four trials were multicentre studies. The duration of trials varied from six to 20 months. 

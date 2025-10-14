@@ -1,0 +1,12 @@
+Background
+Liver transplantation is an established treatment option for end‐stage liver failure. To date, no consensus has been reached on the use of immunosuppressive T‐cell specific antibody induction compared with corticosteroid induction of immunosuppression after liver transplantation. 
+Objectives
+To assess the benefits and harms of T‐cell specific antibody induction versus corticosteroid induction for prevention of acute rejection in liver transplant recipients. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, Science Citation Index Expanded, and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) on 30 September 2013 together with reference checking, citation searching, contact with trial authors and pharmaceutical companies to identify additional trials. 
+Selection criteria
+We included all randomised clinical trials assessing immunosuppression with T‐cell specific antibody induction versus corticosteroid induction in liver transplant recipients. Our inclusion criteria stated that participants within each included trial should have received the same maintenance immunosuppressive therapy. 
+Data collection and analysis
+We used RevMan for statistical analysis of dichotomous data with risk ratio (RR) and of continuous data with mean difference (MD), both with 95% confidence intervals (CIs). We assessed risk of systematic errors (bias) using bias risk domains with definitions. We used trial sequential analysis to control for random errors (play of chance). 
+Main results
+We included 10 randomised trials with a total of 1589 liver transplant recipients, which studied the use of T‐cell specific antibody induction versus corticosteroid induction. All trials were with high risk of bias. We compared any kind of T‐cell specific antibody induction versus corticosteroid induction in 10 trials with 1589 participants, including interleukin‐2 receptor antagonist induction versus corticosteroid induction in nine trials with 1470 participants, and polyclonal T‐cell specific antibody induction versus corticosteroid induction in one trial with 119 participants. 

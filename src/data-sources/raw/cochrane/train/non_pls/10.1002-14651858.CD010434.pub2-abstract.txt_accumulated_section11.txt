@@ -1,0 +1,11 @@
+Background
+Intravenous patient‐controlled analgesia (IVPCA) with opioids and epidural analgesia (EA) using either continuous epidural administration (CEA) or patient‐controlled (PCEA) techniques are popular approaches for analgesia following intra‐abdominal surgery. Despite several attempts to compare the risks and benefits, the optimal form of analgesia for these procedures remains the subject of debate. 
+Objectives
+The objective of this review was to update and expand a previously published Cochrane Review on IVPCA versus CEA for pain after intra‐abdominal surgery with the addition of the comparator PCEA. We have compared both forms of EA to IVPCA. Where appropriate we have performed subgroup analysis for CEA versus PCEA. 
+Search methods
+We searched the following electronic databases for relevant studies: Cochrane Central Register of Controlled Trials (CENTRAL) (2017; Issue 8), MEDLINE (OvidSP) (1966 to September 2017), and Embase (OvidSP) (1988 to September 2017) using a combination of MeSH and text words. We searched the following trial registries: Australian New Zealand Clinical Trials Registry, ClinicalTrials.gov, and the EU Clinical Trials Register in September 2017, together with reference checking and citation searching to identify additional studies. 
+We included only randomized controlled trials and used no language restrictions.
+Selection criteria
+We included all parallel and cross‐over randomized controlled trials (RCTs) comparing CEA or PCEA (or both) with IVPCA for postoperative pain relief in adults following intra‐abdominal surgery. 
+Data collection and analysis
+Two review authors (JS and EY) independently identified studies for eligibility and performed data extraction using a data extraction form. In cases of disagreement (three occasions) a third review author (MB) was consulted. We appraised each included study to assess the risk of bias as outlined in Section 8.5 of the Cochrane Handbook for Systematic Reviews of Interventions. We used GRADE to assess the quality of the evidence. 

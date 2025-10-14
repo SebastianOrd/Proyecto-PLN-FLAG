@@ -1,0 +1,14 @@
+Background
+Intramedullary nails may be used for the surgical fixation of extracapsular hip fractures in adults. This is an update of a Cochrane review first published in 2005 and last updated in 2008. 
+Objectives
+To assess the effects (benefits and harms) of different designs of intramedullary nails for treating extracapsular hip fractures in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (6 January 2014), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 12, 2013), MEDLINE (1966 to November Week 3, 2013), MEDLINE In‐Process & Other Non‐Indexed Citations (3 January 2014), EMBASE (1988 to 2014, Week 1) and the World Health Organization (WHO) International Clinical Trials Registry Platform (accessed January 2014). 
+Selection criteria
+All randomised or quasi‐randomised trials comparing different types, or design modifications, of intramedullary nails in the treatment of extracapsular hip fractures in adults. 
+Data collection and analysis
+At least two review authors independently selected studies, assessed risk of bias and extracted data. We performed limited meta‐analysis using the fixed‐effect model. 
+Main results
+We included eight new trials, testing seven new comparisons in this update. Overall, we included 17 trials, testing 12 comparisons of different cephalocondylic nail designs. The trials involved a total of 2130 adults (predominantly female and older people) with mainly unstable trochanteric fractures. 
+All trials were at unclear risk of bias for most domains, with the majority at high risk of detection bias for subjective outcomes. The three quasi‐randomised trials were at high risk for selection bias. 
+Four trials (910 participants) compared the proximal femoral nail (PFN) with the Gamma nail. There was no significant difference between the two implants in functional outcome (the very low quality evidence being limited to results from single trials), mortality (low quality evidence: 86/415 versus 80/415; risk ratio (RR) 1.08, 95% confidence interval (CI) 0.82 to 1.41), serious fixation complications (operative fracture of the femur, cut‐out, non‐union and later fracture of the femur) nor re‐operations (low quality evidence: 45/455 versus 36/455; RR 1.25, 95% CI 0.83 to 1.90). 

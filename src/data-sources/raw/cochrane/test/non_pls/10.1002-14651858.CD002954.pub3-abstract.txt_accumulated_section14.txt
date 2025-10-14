@@ -1,0 +1,14 @@
+Background
+Discoid lupus erythematosus (DLE) is a chronic form of cutaneous lupus, which can cause scarring. Many drugs have been used to treat this disease and some (such as thalidomide, cyclophosphamide and azathioprine) are potentially toxic. This is an update of a Cochrane Review first published in 2000, and previously updated in 2009. We wanted to update the review to assess whether any new information was available to treat DLE, as we were still unsure of the effectiveness of available drugs and how to select the most appropriate treatment for an individual with DLE. 
+Objectives
+To assess the effects of drugs for discoid lupus erythematosus.
+Search methods
+We updated our searches of the following databases to 22 September 2016: the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, Embase and LILACS. We also searched five trials databases, and checked the reference lists of included studies for further references to relevant trials. Index Medicus (1956 to 1966) was handsearched and we approached authors for information about unpublished trials. 
+Selection criteria
+We included all randomised controlled trials (RCTs) of drugs to treat people with DLE in any population group and of either gender. Comparisons included any drug used for DLE against either another drug or against placebo cream. We excluded laser treatment, surgery, phototherapy, other forms of physical therapy, and photoprotection as we did not consider them drug treatments. 
+Data collection and analysis
+At least two reviewers independently extracted data onto a data extraction sheet, resolving disagreements by discussion. We used standard methods to assess risk of bias, as expected by Cochrane. 
+Main results
+Five trials involving 197 participants were included. Three new trials were included in this update. None of the five trials were of high quality. 
+'Risk of bias' assessments identified potential sources of bias in each study. One study used an inappropriate randomisation method, and incomplete outcome data were a concern in another as 15 people did not complete the trial. We found most of the trials to be at low risk in terms of blinding, but three of the five did not describe allocation concealment. 
+The included trials inadequately addressed the primary outcome measures of this review (percentage with complete resolution of skin lesions, percentage with clearing of erythema in at least 50% of lesions, and improvement in patient satisfaction/quality of life measures). 

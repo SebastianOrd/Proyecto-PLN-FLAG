@@ -1,0 +1,12 @@
+Background
+Grommets are frequently inserted in children's ears for acute otitis media and otitis media with effusion. A common complication is postoperative ear discharge (otorrhoea). A wide range of treatments are used to prevent the discharge, but there is no consensus on whether or not intervention is necessary nor which is the most effective intervention. 
+Objectives
+To assess the effectiveness of prophylactic interventions, both topical and systemic, in reducing the incidence of otorrhoea following the surgical insertion of grommets in children. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; ICTRP and additional sources for published and unpublished trials. The date of the search was 3 July 2012. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared the efficacy of prophylactic interventions against placebo/control and/or with other prophylactic interventions for postoperative otorrhoea in children. 
+Data collection and analysis
+Two review authors independently assessed study eligibility and risk of bias, and extracted data. The outcome data were dichotomous for all the included trials. We calculated individual and pooled risk ratios (RR) using the Mantel‐Haenszel fixed‐effect method. We also calculated the numbers needed to treat to benefit (NNTB). 
+Main results
+We found 15 eligible RCTs (2476 children, aged from four months to 17 years). We graded seven RCTs as being at a low risk of bias (n = 926 children) and for an eighth RCT we also graded two of the arms as being at a low risk of bias. We graded the other seven trials as being at a high risk of bias. 

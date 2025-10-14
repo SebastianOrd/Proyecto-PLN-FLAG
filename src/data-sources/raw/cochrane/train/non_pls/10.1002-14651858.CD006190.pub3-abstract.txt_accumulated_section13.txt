@@ -1,0 +1,13 @@
+Background
+This is an updated Cochrane Review, first published in 2006 and updated in 2014. Gout is one of the most common rheumatic diseases worldwide. Despite the use of colchicine as one of the first‐line therapies for the treatment of acute gout, evidence for its benefits and harms is relatively limited. 
+Objectives
+To update the available evidence of the benefits and harms of colchicine for the treatment of acute gout. 
+Search methods
+We updated the search of CENTRAL, MEDLINE, Embase, Clinicaltrials.gov and WHO ICTRP registries to 28 August 2020. We did not impose any date or language restrictions in the search. 
+Selection criteria
+We considered published randomised controlled trials (RCTs) and quasi‐randomised controlled trials (quasi‐RCTs) evaluating colchicine therapy compared with another therapy (placebo or active) in acute gout; low‐dose colchicine at clinically relevant doses compared with placebo was the primary comparison. The major outcomes were pain, participant global assessment of treatment success (proportion with 50% or greater decrease in pain from baseline up to 32 to 36 hours), reduction of inflammation, function of target joint, serious adverse events, total adverse events and withdrawals due to adverse events. 
+Data collection and analysis
+We used standard methodological procedures as expected by Cochrane in this review update. 
+Main results
+We included four trials (803 randomised participants), including two new trials, in this updated review. One three‐arm trial compared high‐dose colchicine (52 participants), low‐dose colchicine (74 participants) and placebo (59 participants); one trial compared high‐dose colchicine with placebo (43 participants); one trial compared low‐dose colchicine with non‐steroidal anti‐inflammatory drugs (NSAIDs) (399 participants); and one trial compared low‐dose colchicine with Chuanhu anti‐gout mixture (traditional Chinese Medicine compound) (176 participants). We did not identify any trials comparing colchicine to glucocorticoids (by any route). 
+The mean age of participants ranged from 51.2 to 70 years, and trial duration from 48 hours to 12 weeks. Two trials were at low risk of bias, one was possibly susceptible to selection bias (random sequence generation), reporting bias and other bias, and one open‐label trial was at high risk of performance and detection bias. 

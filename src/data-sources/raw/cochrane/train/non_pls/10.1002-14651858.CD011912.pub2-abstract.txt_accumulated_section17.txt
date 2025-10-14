@@ -1,0 +1,17 @@
+Background
+Health outcomes are improved when newborn babies with critical congenital heart defects (CCHDs) are detected before acute cardiovascular collapse. The main screening tests used to identify these babies include prenatal ultrasonography and postnatal clinical examination; however, even though both of these methods are available, a significant proportion of babies are still missed. Routine pulse oximetry has been reported as an additional screening test that can potentially improve detection of CCHD. 
+Objectives
+• To determine the diagnostic accuracy of pulse oximetry as a screening method for detection of CCHD in asymptomatic newborn infants 
+• To assess potential sources of heterogeneity, including:
+○ characteristics of the population: inclusion or exclusion of antenatally detected congenital heart defects; 
+○ timing of testing: < 24 hours versus ≥ 24 hours after birth;
+○ site of testing: right hand and foot (pre‐ductal and post‐ductal) versus foot only (post‐ductal); 
+○ oxygen saturation: functional versus fractional;
+○ study design: retrospective versus prospective design, consecutive versus non‐consecutive series; and 
+○ risk of bias for the "flow and timing" domain of QUADAS‐2.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 2) in the Cochrane Library and the following databases: MEDLINE, Embase, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), and Health Services Research Projects in Progress (HSRProj), up to March 2017. We searched the reference lists of all included articles and relevant systematic reviews to identify additional studies not found through the electronic search. We applied no language restrictions. 
+Selection criteria
+We selected studies that met predefined criteria for design, population, tests, and outcomes. We included cross‐sectional and cohort studies assessing the diagnostic accuracy of pulse oximetry screening for diagnosis of CCHD in term and late preterm asymptomatic newborn infants. We considered all protocols of pulse oximetry screening (eg, different saturation thresholds to define abnormality, post‐ductal only or pre‐ductal and post‐ductal measurements, test timing less than or greater than 24 hours). Reference standards were diagnostic echocardiography (echocardiogram) and clinical follow‐up, including postmortem findings, mortality, and congenital anomaly databases. 
+Data collection and analysis
+We extracted accuracy data for the threshold used in primary studies. We explored between‐study variability and correlation between indices visually through use of forest and receiver operating characteristic (ROC) plots. We assessed risk of bias in included studies using the QUADAS‐2 tool. We used the bivariate model to calculate random‐effects pooled sensitivity and specificity values. We investigated sources of heterogeneity using subgroup analyses and meta‐regression. 

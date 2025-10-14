@@ -1,0 +1,10 @@
+Background
+Anticoagulation may improve survival in patients with cancer through a speculated anti‐tumour effect, in addition to the antithrombotic effect, although may increase the risk of bleeding. 
+Objectives
+To evaluate the efficacy and safety of parenteral anticoagulants in ambulatory patients with cancer who, typically, are undergoing chemotherapy, hormonal therapy, immunotherapy or radiotherapy, but otherwise have no standard therapeutic or prophylactic indication for anticoagulation. 
+Search methods
+A comprehensive search included (1) a major electronic search (February 2016) of the following databases: Cochrane Central Register of Controlled Trials (CENTRAL) (2016, Issue 1), MEDLINE (1946 to February 2016; accessed via OVID) and Embase (1980 to February 2016; accessed via OVID); (2) handsearching of conference proceedings; (3) checking of references of included studies; (4) use of the 'related citation' feature in PubMed and (5) a search for ongoing studies in trial registries. As part of the living systematic review approach, we are running searches continually and we will incorporate new evidence rapidly after it is identified. This update of the systematic review is based on the findings of a literature search conducted on 14 August 2017. 
+Selection criteria
+Randomized controlled trials (RCTs) assessing the benefits and harms of parenteral anticoagulation in ambulatory patients with cancer. Typically, these patients are undergoing chemotherapy, hormonal therapy, immunotherapy or radiotherapy, but otherwise have no standard therapeutic or prophylactic indication for anticoagulation. 
+Data collection and analysis
+Using a standardized form we extracted data in duplicate on study design, participants, interventions outcomes of interest, and risk of bias. Outcomes of interested included all‐cause mortality, symptomatic venous thromboembolism (VTE), symptomatic deep vein thrombosis (DVT), pulmonary embolism (PE), major bleeding, minor bleeding, and quality of life. We assessed the certainty of evidence for each outcome using the GRADE approach (GRADE handbook). 

@@ -1,0 +1,12 @@
+Background
+Newborn admission temperature is a strong predictor of outcomes across all gestations. Hypothermia immediately after birth remains a worldwide issue and, if prolonged, is associated with harm. Keeping preterm infants warm is difficult even when recommended routine thermal care guidelines are followed in the delivery room. 
+Objectives
+To assess the efficacy and safety of interventions designed for prevention of hypothermia in preterm and/or low birth weight infants applied within 10 minutes after birth in the delivery room, compared with routine thermal care or any other single/combination of intervention(s) also designed for prevention of hypothermia in preterm and/or low birth weight infants applied within 10 minutes after birth in the delivery room. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 5), MEDLINE via PubMed (1966 to 30 June 2016), Embase (1980 to 30 June 2016), and CINAHL (1982 to 30 June 2016). We also searched clinical trials databases, conference proceedings, and reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+Trials using randomised or quasi‐randomised allocations to test interventions designed to prevent hypothermia (apart from 'routine' thermal care) applied within 10 minutes after birth in the delivery room for infants at < 37 weeks' gestation and/or birth weight ≤ 2500 grams. 
+Data collection and analysis
+We used Cochrane Neonatal methods when performing data collection and analysis.
+Main results
+Twenty‐five studies across 15 comparison groups met the inclusion criteria, categorised as: barriers to heat loss (18 studies); external heat sources (three studies); and combinations of interventions (four studies). 

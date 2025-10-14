@@ -1,0 +1,12 @@
+Background
+Calcineurin inhibitors (CNI) can reduce acute transplant rejection and immediate graft loss but are associated with significant adverse effects such as hypertension and nephrotoxicity which may contribute to chronic rejection. CNI toxicity has led to numerous studies investigating CNI withdrawal and tapering strategies. Despite this, uncertainty remains about minimisation or withdrawal of CNI. 
+Objectives
+This review aimed to look at the benefits and harms of CNI tapering or withdrawal in terms of graft function and loss, incidence of acute rejection episodes, treatment‐related side effects (hypertension, hyperlipidaemia) and death. 
+Search methods
+We searched the Cochrane Kidney and Transplant Specialised Register to 11 October 2016 through contact with the Information Specialist using search terms relevant to this review. Studies contained in the Specialised Register are identified through search strategies specifically designed for CENTRAL, MEDLINE, and EMBASE; handsearching conference proceedings; and searching the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+All randomised controlled trials (RCTs) where drug regimens containing CNI were compared to alternative drug regimens (CNI withdrawal, tapering or low dose) in the post‐transplant period were included, without age or dosage restriction. 
+Data collection and analysis
+Two authors independently assessed studies for eligibility, risk of bias, and extracted data. Results were expressed as risk ratio (RR) or mean difference (MD) with 95% confidence intervals (CI). 
+Main results
+We included 83 studies that involved 16,156 participants. Most were open‐label studies; less than 30% of studies reported randomisation method and allocation concealment. Studies were analysed as intent‐to‐treat in 60% and all pre‐specified outcomes were reported in 54 studies. The attrition and reporting bias were unclear in the remainder of the studies as factors used to judge bias were reported inconsistently. We also noted that 50% (47 studies) of studies were funded by the pharmaceutical industry. 

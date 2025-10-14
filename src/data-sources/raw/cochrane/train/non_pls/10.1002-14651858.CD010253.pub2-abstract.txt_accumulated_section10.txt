@@ -1,0 +1,10 @@
+Background
+Liver transplantation is an established treatment option for end‐stage liver failure. To date, no consensus has been reached on the use of immunosuppressive T‐cell antibody induction for preventing rejection after liver transplantation. 
+Objectives
+To assess the benefits and harms of immunosuppressive T‐cell specific antibody induction compared with placebo, no induction, or another type of T‐cell specific antibody induction for prevention of acute rejection in liver transplant recipients. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, Science Citation Index Expanded, and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) until September 2013. 
+Selection criteria
+Randomised clinical trials assessing immunosuppression with T‐cell specific antibody induction compared with placebo, no induction, or another type of antibody induction in liver transplant recipients. Our inclusion criteria stated that participants within each included trial should have received the same maintenance immunosuppressive therapy. We planned to include trials with all of the different types of T‐cell specific antibodies that are or have been used for induction (ie., polyclonal antibodies (rabbit of horse antithymocyte globulin (ATG), or antilymphocyte globulin (ALG)), monoclonal antibodies (muromonab‐CD3, anti‐CD2, or alemtuzumab), and interleukin‐2 receptor antagonists (daclizumab, basiliximab, BT563, or Lo‐Tact‐1)). 
+Data collection and analysis
+We used RevMan analysis for statistical analysis of dichotomous data with risk ratio (RR) and of continuous data with mean difference (MD), both with 95% confidence intervals (CIs). We assessed the risk of systematic errors (bias) using bias risk domains with definitions. We used trial sequential analysis to control for random errors (play of chance). We presented outcome results in a summary of findings table. 

@@ -1,0 +1,12 @@
+Background
+Acne is a common, economically burdensome condition that can cause psychological harm and, potentially, scarring. Topical benzoyl peroxide (BPO) is a widely used acne treatment; however, its efficacy and safety have not been clearly evaluated. 
+Objectives
+To assess the effects of BPO for acne.
+Search methods
+We searched the following databases up to February 2019: the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, Embase, and LILACS. We also searched five trials registers and checked the reference lists of relevant randomised controlled trials (RCTs) and systematic reviews. 
+Selection criteria
+We included RCTs that compared topical BPO used alone (including different formulations and concentrations of BPO) or as part of combination treatment against placebo, no treatment, or other active topical medications for clinically diagnosed acne (used alone or in combination with other topical drugs not containing BPO) on the face or trunk. 
+Data collection and analysis
+We used standard methodological procedures as expected by Cochrane. Primary outcome measures were 'participant global self‐assessment of acne improvement' and 'withdrawal due to adverse events in the whole course of a trial'. 'Percentage of participants experiencing any adverse event in the whole course of a trial' was a key secondary outcome. 
+Main results
+We included 120 trials (29,592 participants randomised in 116 trials; in four trials the number of randomised participants was unclear). Ninety‐one studies included males and females. When reported, 72 trials included participants with mild to moderate acne, 26 included participants with severe acne, and the mean age of participants ranged from 18 to 30 years. 

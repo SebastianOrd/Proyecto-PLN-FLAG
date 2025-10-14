@@ -1,0 +1,17 @@
+Background
+Every year, at least one million children become ill with tuberculosis and around 200,000 children die. Xpert MTB/RIF and Xpert Ultra are World Health Organization (WHO)‐recommended rapid molecular tests that simultaneously detect tuberculosis and rifampicin resistance in adults and children with signs and symptoms of tuberculosis, at lower health system levels. To inform updated WHO guidelines on molecular assays, we performed a systematic review on the diagnostic accuracy of these tests in children presumed to have active tuberculosis. 
+Objectives
+Primary objectives 
+• To determine the diagnostic accuracy of Xpert MTB/RIF and Xpert Ultra for (a) pulmonary tuberculosis in children presumed to have tuberculosis; (b) tuberculous meningitis in children presumed to have tuberculosis; (c) lymph node tuberculosis in children presumed to have tuberculosis; and (d) rifampicin resistance in children presumed to have tuberculosis 
+‐ For tuberculosis detection, index tests were used as the initial test, replacing standard practice (i.e. smear microscopy or culture) 
+‐ For detection of rifampicin resistance, index tests replaced culture‐based drug susceptibility testing as the initial test 
+Secondary objectives 
+• To compare the accuracy of Xpert MTB/RIF and Xpert Ultra for each of the four target conditions 
+• To investigate potential sources of heterogeneity in accuracy estimates
+‐ For tuberculosis detection, we considered age, disease severity, smear‐test status, HIV status, clinical setting, specimen type, high tuberculosis burden, and high tuberculosis/HIV burden 
+‐ For detection of rifampicin resistance, we considered multi‐drug‐resistant tuberculosis burden 
+• To compare multiple Xpert MTB/RIF or Xpert Ultra results (repeated testing) with the initial Xpert MTB/RIF or Xpert Ultra result 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register, MEDLINE, Embase, Science Citation Index, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), Scopus, the WHO International Clinical Trials Registry Platform, ClinicalTrials.gov, and the International Standard Randomized Controlled Trials Number (ISRCTN) Registry up to 29 April 2019, without language restrictions. 
+Selection criteria
+Randomized trials, cross‐sectional trials, and cohort studies evaluating Xpert MTB/RIF or Xpert Ultra in HIV‐positive and HIV‐negative children younger than 15 years. Reference standards comprised culture or a composite reference standard for tuberculosis and drug susceptibility testing or MTBDRplus (molecular assay for detection of Mycobacterium tuberculosis and drug resistance) for rifampicin resistance. We included studies evaluating sputum, gastric aspirate, stool, nasopharyngeal or bronchial lavage specimens (pulmonary tuberculosis), cerebrospinal fluid (tuberculous meningitis), fine needle aspirates, or surgical biopsy tissue (lymph node tuberculosis). 

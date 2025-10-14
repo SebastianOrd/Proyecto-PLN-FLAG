@@ -1,0 +1,12 @@
+Background
+It is becoming commonplace for patients to be discharged earlier from acute hospital settings to their own homes and be required to manage various aspects of their own care. This has increased the need for detailed information to be given to patients and/or significant others to enable them to effectively manage care at home. It has been suggested that providing written health information can assist in this self management. 
+Objectives
+To determine the effectiveness of providing written health information in addition to verbal information for patients and/or significant others being discharged from acute hospital settings to home. 
+Search methods
+Computerised searches from 1990 to September 2005 in the Cochrane Consumers and Communication Review Group Specialised Register and Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid), EMBASE, CINAHL, PsycINFO, ERIC, OVID (including Ageline, EBM Reviews, DARE, Best Evidence, Pre‐MEDLINE and PsycARTICLES), Sociological abstracts, Austhealth and bibliographies in articles that met inclusion criteria. 
+Selection criteria
+Articles were selected if they were randomised control trials or controlled clinical trials; included patients discharged from acute hospital settings to home; the patient and/or significant others received written health information and verbal information in the intervention group, and verbal information only in the control group; and the intervention (written health information and verbal information) was provided at discharge. 
+Data collection and analysis
+Two review authors independently screened abstracts to determine relevance. Relevant full paper copies were then reviewed against the inclusion criteria. The findings were extracted by one author and confirmed by the other author. The two trials that met the inclusion criteria were too disparate to warrant meta‐analysis. 
+Main results
+The participants in the two trials were parents of children who were discharged from children's hospitals, one in the United States (n = 197) the other in Canada (n = 123). Provision of verbal and written health information significantly increased knowledge and satisfaction scores. 

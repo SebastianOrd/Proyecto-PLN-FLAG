@@ -1,0 +1,12 @@
+Background
+Corneal abrasion is a common disorder frequently faced by ophthalmologists, emergency physicians, and primary care physicians. Ocular antibiotics are one of the management options for corneal abrasion. A comprehensive summary and synthesis of the evidence on antibiotic prophylaxis in traumatic corneal abrasion is thus far unavailable, therefore we conducted this review to evaluate the current evidence regarding this important issue. 
+Objectives
+To assess the safety and efficacy of topical antibiotic prophylaxis following corneal abrasion. Our objectives were 1) to investigate the incidence of infection with antibiotics versus placebo or alternative antibiotics in people with corneal abrasion; and 2) to investigate time to clinical cure, defined as complete healing (re‐epithelialization) of the epithelium, with antibiotics versus placebo or alternative antibiotics in people with corneal abrasion. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register; 2021, Issue 4), Ovid MEDLINE, Embase.com, PubMed, the Latin American and Caribbean Health Sciences Literature database (LILACS), ClinicalTrials.gov, and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We did not use any date or language restrictions in the electronic search for trials. We last searched the electronic databases on 25 April 2021. 
+Selection criteria
+We included randomized controlled trials (RCTs) comparing antibiotic with another antibiotic or placebo in children and adults with corneal abrasion due to any cause. 
+Data collection and analysis
+We used standard Cochrane methodology and assessed the certainty of the body of evidence for the prespecified outcomes using the GRADE classification. 
+Main results
+Our search of the electronic databases yielded 8661 records. We screened 7690 titles and abstracts after removal of duplicates. We retrieved 32 full‐text reports for further review. We included two studies that randomized a total of 527 eyes of 527 participants in the review. One study was conducted in Denmark, and one was conducted in India. 

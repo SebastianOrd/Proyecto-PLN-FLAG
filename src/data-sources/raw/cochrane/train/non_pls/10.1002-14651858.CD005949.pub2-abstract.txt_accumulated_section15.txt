@@ -1,0 +1,15 @@
+Background
+Sick newborn and preterm infants frequently are not able to be fed enterally, necessitating parenteral fluid and nutrition. Potential benefits of higher parenteral amino acid (AA) intake for improved nitrogen balance, growth, and infant health may be outweighed by the infant's ability to utilise high intake of parenteral AA, especially in the days after birth. 
+Objectives
+The primary objective is to determine whether higher versus lower intake of parenteral AA is associated with improved growth and disability‐free survival in newborn infants receiving parenteral nutrition. 
+Secondary objectives include determining whether:
+• higher versus lower starting or initial intake of amino acids is associated with improved growth and disability‐free survival without side effects; • higher versus lower intake of amino acids at maximal intake is associated with improved growth and disability‐free survival without side effects; and • increased amino acid intake should replace non‐protein energy intake (glucose and lipid), should be added to non‐protein energy intake, or should be provided simultaneously with non‐protein energy intake. 
+We conducted subgroup analyses to look for any differences in the effects of higher versus lower intake of amino acids according to gestational age, birth weight, age at commencement, and condition of the infant, or concomitant increases in fluid intake. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (2 June 2017), MEDLINE (1966 to 2 June 2017), Embase (1980 to 2 June 2017), and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (1982 to 2 June 2017). We also searched clinical trials databases, conference proceedings, and citations of articles. 
+Selection criteria
+Randomised controlled trials of higher versus lower intake of AAs as parenteral nutrition in newborn infants. Comparisons of higher intake at commencement, at maximal intake, and at both commencement and maximal intake were performed. 
+Data collection and analysis
+Two review authors independently selected trials, assessed trial quality, and extracted data from included studies. We performed fixed‐effect analyses and expressed treatment effects as mean difference (MD), risk ratio (RR), and risk difference (RD) with 95% confidence intervals (CIs) and assessed the quality of evidence using the GRADE approach. 
+Main results
+Thirty‐two studies were eligible for inclusion. Six were short‐term biochemical tolerance studies, one was in infants at > 35 weeks' gestation, one in term surgical newborns, and three yielding no usable data. The 21 remaining studies reported clinical outcomes in very preterm or low birth weight infants for inclusion in meta‐analysis for this review. 

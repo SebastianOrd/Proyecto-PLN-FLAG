@@ -1,0 +1,12 @@
+Background
+It is well known that physical exercise can trigger asthma symptoms and can induce bronchial obstruction in people without clinical asthma. International guidelines on asthma management recommend the use of beta2‐agonists at any stage of the disease. At present, however, no consensus has been reached about the efficacy and safety of beta2‐agonists in the pretreatment of exercise‐induced asthma and exercise‐induced bronchoconstriction. For the purpose of the present review, both of these conditions are referred to by the acronymous EIA, independently from the presence of an underlying chronic clinical disease. 
+Objectives
+To assess the effects of inhaled short‐ and long‐acting beta2‐agonists, compared with placebo, in the pretreatment of children and adults with exercise‐induced asthma (or exercise‐induced bronchoconstriction). 
+Search methods
+Trials were identified by electronic searching of the Cochrane Airways Group Specialised Register of Trials and by handsearching of respiratory journals and meetings. Searches are current as of August 2013. 
+Selection criteria
+We included randomised, double‐blind, placebo‐controlled trials of any study design, published in full text, that assessed the effects of inhaled beta2‐agonists on EIA in adults and children. We excluded studies that did not clearly state diagnostic criteria for EIA. 
+Data collection and analysis
+We used standard methodological procedures as expected by The Cochrane Collaboration.
+Main results
+We included 53 trials consisting of 1139 participants. Forty‐eight studies used a cross‐over design, and five were performed in accordance with a parallel‐group design. Forty‐five studies addressed the effect of a single beta2‐agonist administration, and eight focused on long‐term treatment. We addressed these two different intervention regimens as different comparisons. 

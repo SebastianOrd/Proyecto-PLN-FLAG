@@ -1,0 +1,11 @@
+Background
+Scleroderma is a connective tissue disease causing fibrosis and commonly affects the skin and internal organs such as the GI tract, lungs, kidney and heart. Most people with scleroderma also have Raynaud's phenomenon (RP). One of the possible treatment options for RP in scleroderma is ketanserin. 
+Objectives
+To assess the effects and toxicity of ketanserin versus placebo for the treatment of Raynaud's phenomenon (RP) in scleroderma. 
+Search methods
+We searched the Cochrane Controlled Trials Register, and Medline up to August 1, 2007 using the Cochrane Collaboration search strategy developed by Dickersin et al.(1994). Key words included: Raynaud's or vasospasm, scleroderma or progressive systemic sclerosis or connective tissue disease or autoimmune disease. Current Contents were searched up to and including August 1, 2007. All bibliographies of articles retrieved were searched and key experts in the area were contacted for additional and unpublished data. The initial search strategy included all languages. 
+Selection criteria
+All randomized controlled trials comparing ketanserin versus placebo were eligible if they reported clinical outcomes of interest. Trials with dropout rates greater than 30% were excluded. 
+Data collection and analysis
+All data were abstracted by two independent and trained reviewers (SH, PT), and verified by a third reviewer (JP). Each trial was assessed independently by the same two reviewers for its quality using a validated quality assessment tool (Altman 2001). 
+Peto's odds ratios were calculated for all dichotomous outcomes and a weighted mean difference was carried out on all continuous outcomes. Fixed effects and random effects model were used if the data was homogeneous or heterogeneous, respectively. 

@@ -1,0 +1,13 @@
+Background
+Nausea and vomiting are distressing symptoms which are experienced commonly during caesarean section under regional anaesthesia and in the postoperative period.  
+Objectives
+To assess the efficacy of pharmacological and non‐pharmacological interventions versus placebo or no intervention given prophylactically to prevent nausea and vomiting in women undergoing regional anaesthesia for caesarean section. 
+Search methods
+For this update, we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) (16 April 2020), and reference lists of retrieved studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) of studies and conference abstracts, and excluded quasi‐RCTs and cross‐over studies. 
+Data collection and analysis
+Review authors independently assessed the studies for inclusion, assessed risk of bias and carried out data extraction. Our primary outcomes are intraoperative and postoperative nausea and vomiting. Data entry was checked. Two review authors independently assessed the certainty of the evidence using the GRADE approach. 
+Main results
+Eighty‐four studies (involving 10,990 women) met our inclusion criteria. Sixty‐nine studies, involving 8928 women, contributed data. Most studies involved women undergoing elective caesarean section. Many studies were small with unclear risk of bias and sometimes few events. The overall certainty of the evidence assessed using GRADE was moderate to very low. 
+5‐HT3 antagonists: We found intraoperative nausea may be reduced by 5‐HT3 antagonists (average risk ratio (aRR) 0.55, 95% confidence interval (CI) 0.42 to 0.71, 12 studies, 1419 women, low‐certainty evidence). There may be a reduction in intraoperative vomiting but the evidence is very uncertain (aRR 0.46, 95% CI 0.29 to 0.73, 11 studies, 1414 women, very low‐certainty evidence). There is probably a reduction in postoperative nausea (aRR 0.40, 95% CI 0.30 to 0.54, 10 studies, 1340 women, moderate‐certainty evidence), and these drugs may show a reduction in postoperative vomiting (aRR 0.47, 95% CI 0.31 to 0.69, 10 studies, 1450 women, low‐certainty evidence). 

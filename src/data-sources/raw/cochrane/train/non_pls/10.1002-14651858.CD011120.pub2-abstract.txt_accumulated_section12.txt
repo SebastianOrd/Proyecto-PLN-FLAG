@@ -1,0 +1,12 @@
+Background
+Tobacco use is highly prevalent amongst people living with HIV/AIDS (PLWHA) and has a substantial impact on morbidity and mortality. 
+Objectives
+To assess the effectiveness of interventions to motivate and assist tobacco use cessation for people living with HIV/AIDS (PLWHA), and to evaluate the risks of any harms associated with those interventions. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group's Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, and PsycINFO in June 2015. We also searched EThOS, ProQuest, four clinical trial registries, reference lists of articles, and searched for conference abstracts using Web of Science and handsearched speciality conference databases. 
+Selection criteria
+Controlled trials of behavioural or pharmacological interventions for tobacco cessation for PLWHA. 
+Data collection and analysis
+Two review authors independently extracted all data using a standardised electronic data collection form. They extracted data on the nature of the intervention, participants, and proportion achieving abstinence and they contacted study authors to obtain missing information. We collected data on long‐term (greater than or equal to six months) and short‐term (less than six months) outcomes. Where appropriate, we performed meta‐analysis and estimated the pooled effects using the Mantel‐Haenszel fixed‐effect method. Two authors independently assessed and reported the risk of bias according to prespecified criteria. 
+Main results
+We identified 14 studies relevant to this review, of which we included 12 in a meta‐analysis (n = 2087). All studies provided an intervention combining behavioural support and pharmacotherapy, and in most studies this was compared to a less intensive control, typically comprising a brief behavioural intervention plus pharmacotherapy. 

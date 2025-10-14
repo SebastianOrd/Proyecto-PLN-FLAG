@@ -1,0 +1,10 @@
+Background
+There is great global variation in the sleeping arrangements for healthy newborn infants. Bed sharing is a type of sleeping practice in which the sleeping surface (e.g. bed, couch or armchair, or some other sleeping surface) is shared between the infant and another person. The possible physiological benefits include better oxygen and cardiopulmonary stability, fewer crying episodes, less risk of hypothermia, and a longer duration of breastfeeding. On the other hand, the most important harmful effect of bed sharing is that it may increase the risk of sudden infant death syndrome (SIDS). Studies have found conflicting evidence regarding the safety and efficacy of bed sharing during infancy. 
+Objectives
+To evaluate the efficacy and safety of bed sharing, started during the neonatal period, on breastfeeding status (exclusive and total duration of breastfeeding), incidence of SIDS, rates of hypothermia, neonatal and infant mortality, and long‐term neurodevelopmental outcomes. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2020, Issue 7) in the Cochrane Library; MEDLINE via PubMed (1966 to 23 July 2020), CINAHL (1982 to 23 July 2020), and LILACS (1980 to 23 July 2020). We also searched clinical trials databases, and the reference lists of retrieved articles, for randomised controlled trials (RCTs) and quasi‐RCTS. 
+Selection criteria
+We planned to include RCTs or quasi‐RCTs (including cluster‐randomised trials) that included term neonates initiated on bed sharing within 24 hours of birth (and continuing to bed share with the mother in the first four weeks of life, followed by a variable time period thereafter), and compared them to a 'no bed sharing' group. 
+Data collection and analysis
+We used standard methodological procedures as recommended by Cochrane. We planned to use the GRADE approach to assess the certainty of evidence. 

@@ -1,0 +1,10 @@
+Background
+Diabetic ketoacidosis (DKA) is an acute, life‐threatening complication of uncontrolled diabetes that mainly occurs in individuals with autoimmune type 1 diabetes, but it is not uncommon in some people with type 2 diabetes. The treatment of DKA is traditionally accomplished by the administration of intravenous infusion of regular insulin that is initiated in the emergency department and continued in an intensive care unit or a high‐dependency unit environment. It is unclear whether people with DKA should be treated with other treatment modalities such as subcutaneous rapid‐acting insulin analogues. 
+Objectives
+To assess the effects of subcutaneous rapid‐acting insulin analogues for the treatment of diabetic ketoacidosis. 
+Search methods
+We identified eligible trials by searching MEDLINE, PubMed, EMBASE, LILACS, CINAHL, and the Cochrane Library. We searched the trials registers WHO ICTRP Search Portal and ClinicalTrials.gov. The date of last search for all databases was 27 October 2015. We also examined reference lists of included randomised controlled trials (RCTs) and systematic reviews, and contacted trial authors. 
+Selection criteria
+We included trials if they were RCTs comparing subcutaneous rapid‐acting insulin analogues versus standard intravenous infusion in participants with DKA of any age or sex with type 1 or type 2 diabetes, and in pregnant women. 
+Data collection and analysis
+Two review authors independently extracted data, assessed studies for risk of bias, and evaluated overall study quality utilising the GRADE instrument. We assessed the statistical heterogeneity of included studies by visually inspecting forest plots and quantifying the diversity using the I² statistic. We synthesised data using random‐effects model meta‐analysis or descriptive analysis, as appropriate. 

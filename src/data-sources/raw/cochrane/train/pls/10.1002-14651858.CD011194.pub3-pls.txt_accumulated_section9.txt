@@ -1,0 +1,9 @@
+Proton pump inhibitors for functional dyspepsia
+Review question 
+How effective are medicines that suppress stomach acid for the treatment of indigestion in adults with no other major disease? 
+Background 
+Acid suppression is a possible treatment for functional dyspepsia (indigestion), which is recurring pain over the stomach, bloating, burping or the feeling of being full. Several medicines are used to treat functional dyspepsia; proton pump inhibitors (PPIs) and H2 receptor antagonists (H2RAs) reduce stomach acid, and prokinetics accelerate stomach emptying. There is no clear evidence that one medicine is more effective than another. Although these are considered safe, a few people have side effects. The most common side effects are headache, tummy (abdominal) pain, bloating, diarrhoea and feeling sick (nausea). Long‐term use of PPIs has been associated with infectious diarrhoea (inflammation of the stomach and small intestine), bone fracture and bacterial overgrowth. Therefore, we need to know whether these medications are effective and safe for people with indigestion. 
+Search date 
+We searched medical databases for clinical trials in which treatment was allocated by chance (called randomized controlled trials) in adults with functional dyspepsia up to May 2017. We included results from 25 studies from 27 publications. We found two studies awaiting further details and no other ongoing studies. 
+Study characteristics 
+We included 25 studies (with 8453 participants). There were six studies (2304 participants) comparing low‐dose PPIs versus standard‐dose PPIs (the dose used in clinical practice); 18 studies (6172 participants) comparing PPIs with placebo (pretend treatment); two studies (740 participants) comparing PPIs with H2RAs; five studies (1033 participants) comparing PPIs with prokinetics and two studies (407 participants) comparing PPIs plus prokinetics versus prokinetics alone. 

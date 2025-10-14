@@ -1,0 +1,12 @@
+Background
+Chronic lymphocytic leukaemia (CLL) accounts for 25% of all leukaemias and is the most common lymphoid malignancy in western countries. Standard treatments include mono‐ or polychemotherapies, usually combined with monoclonal antibodies such as rituximab or alemtuzumab. However, the impact of these agents remains unclear, as there are hints for increased risk of severe infections. 
+Objectives
+The objectives of this review are to provide an evidence‐based answer regarding the clinical benefits and harms of monoclonal anti‐CD20 antibodies (such as rituximab, ofatumumab, GA101) compared to no further therapy or to other anti‐leukaemic therapies in patients with CLL, irrespective of disease status. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 12, 2011), MEDLINE (from January 1990 to 4 January 2012), and EMBASE (from 1990 to 20 March 2009) as well as conference proceedings (American Society of Hematology, American Society of Clinical Oncology, European Hematology Association and European Society of Medical Oncology) for randomised controlled trials (RCTs). 
+Selection criteria
+We included RCTs examining monoclonal anti‐CD20 antibodies compared to no further therapy or to anti‐leukaemic therapy such as chemotherapy or monoclonal antibodies in patients with newly diagnosed or relapsed CLL. 
+Data collection and analysis
+We used hazard ratios (HR) as effect measures for overall survival (OS), progression‐free survival (PFS) and time to next treatment, and risk ratios (RR) for response rates, treatment‐related mortality (TRM) and adverse events (AEs). Two review authors independently extracted data and assessed quality of trials. 
+Main results
+We screened a total of 1150 records. Seven RCTs involving 1763 patients were identified, but only five could be included in the two separate meta‐analyses we performed. We judged the overall the quality of these trials as moderate to high. All trials were randomised and open‐label studies. However, two trials were published as abstracts only, therefore we were unable to assess the potential risk of bias for these trials in detail. 

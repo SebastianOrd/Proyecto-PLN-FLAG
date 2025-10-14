@@ -1,0 +1,11 @@
+Background
+Airway infection leads to progressive damage of the lungs in cystic fibrosis (CF) and oxidative stress has been implicated in the etiology. Supplementation of antioxidant micronutrients (vitamin E, vitamin C, beta‐carotene and selenium) or N‐acetylcysteine (NAC) as a source of glutathione, may therefore potentially help maintain an oxidant‐antioxidant balance. Glutathione or NAC can also be inhaled and if administered in this way can also have a mucolytic effect besides the antioxidant effect. Current literature suggests a relationship between oxidative status and lung function. This is an update of a previously published review. 
+Objectives
+To synthesise existing knowledge on the effect of antioxidants such as vitamin C, vitamin E, beta‐carotene, selenium and glutathione (or NAC as precursor of glutathione) on lung function through inflammatory and oxidative stress markers in people with CF. 
+Search methods
+The Cochrane Cystic Fibrosis and Genetic Disorders Group's Cystic Fibrosis Trials Register and PubMed were searched using detailed search strategies. We contacted authors of included studies and checked reference lists of these studies for additional, potentially relevant studies. We also searched online trials registries. 
+Last search of Cystic Fibrosis Trials Register: 08 January 2019.
+Selection criteria
+Randomised and quasi‐randomised controlled studies comparing antioxidants as listed above (individually or in combination) in more than a single administration to placebo or standard care in people with CF. 
+Data collection and analysis
+Two authors independently selected studies, extracted data and assessed the risk of bias in the included studies. We contacted study investigators to obtain missing information. If meta‐analysed, studies were subgrouped according to supplement, method of administration and the duration of supplementation. We assessed the quality of the evidence using GRADE. 

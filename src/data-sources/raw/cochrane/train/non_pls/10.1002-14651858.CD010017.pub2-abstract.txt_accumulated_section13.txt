@@ -1,0 +1,13 @@
+Background
+Psoriasis is a chronic skin disease that may develop at any age. Estimates for the United States and Europe suggest that psoriasis accounts for 4% of skin diseases in children. In most cases, the condition is mild and can be treated with creams. However, a small percentage of children have moderate to severe disease that requires drugs, such as ciclosporin or methotrexate, and some will require injections with newer biological agents, such as anti‐TNF (tumour necrosis factor) drugs. Anti‐TNF drugs (among them etanercept, infliximab, and adalimumab) are designed to reduce inflammation in the body caused by tumour necrosis factor. Evidence for the safety and efficacy of these biological agents in paediatric psoriasis is lacking. 
+Objectives
+To assess the efficacy and safety of anti‐TNF agents for the treatment of paediatric psoriasis. 
+Search methods
+We searched the following databases up to July 2015: the Cochrane Skin Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL; 2015, Issue 6), MEDLINE (from 1946), Embase (from 1974), and LILACS (from 1982). We also searched 13 trials registers and checked the reference lists of included studies and key review articles for further references to relevant randomised controlled trials (RCTs). We handsearched conference proceedings and attempted to contact trial authors and relevant pharmaceutical manufacturers. We searched the US Food and Drug Administration's and European Medicines Agency's adverse effects databases. 
+Selection criteria
+All relevant RCTs that evaluated the efficacy and safety of anti‐TNF agents for the treatment of chronic plaque psoriasis in individuals less than 18 years of age. 
+Data collection and analysis
+Two review authors independently checked titles and abstracts and performed data extraction and 'Risk of bias' assessment of the included studies. One review author entered data into Review Manager (RevMan), and a second review author checked the data. We also attempted to obtain unclear data from the trial authors where possible. 
+Our primary outcomes were investigator‐assessed number of participants achieving a 75% improvement in Psoriasis Area and Severity Index‐75 (PASI 75) compared to baseline, improvement in quality of life using an instrument such as Children's Dermatology Life Quality Index (CDLQI), and adverse effects. Our secondary outcomes included the proportion of participants achieving PASI 50 and the Physician's Global Assessment (PGA). 
+Main results
+We included one study with 211 participants (median age 13 years), in which etanercept (dosage ranged from 0.8 to 50 mg per kilogram of body weight) was compared to placebo. Follow‐up was over a 48‐week period. 

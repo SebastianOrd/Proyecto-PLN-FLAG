@@ -1,0 +1,12 @@
+Background
+Nicotinic acid (niacin) is known to decrease LDL‐cholesterol, and triglycerides, and increase HDL‐cholesterol levels. The evidence of benefits with niacin monotherapy or add‐on to statin‐based therapy is controversial. 
+Objectives
+To assess the effectiveness of niacin therapy versus placebo, administered as monotherapy or add‐on to statin‐based therapy in people with or at risk of cardiovascular disease (CVD) in terms of mortality, CVD events, and side effects. 
+Search methods
+Two reviewers independently and in duplicate screened records and potentially eligible full texts identified through electronic searches of CENTRAL, MEDLINE, Embase, Web of Science, two trial registries, and reference lists of relevant articles (latest search in August 2016). 
+Selection criteria
+We included all randomised controlled trials (RCTs) that either compared niacin monotherapy to placebo/usual care or niacin in combination with other component versus other component alone. We considered RCTs that administered niacin for at least six months, reported a clinical outcome, and included adults with or without established CVD. 
+Data collection and analysis
+Two reviewers used pre‐piloted forms to independently and in duplicate extract trials characteristics, risk of bias items, and outcomes data. Disagreements were resolved by consensus or third party arbitration. We conducted random‐effects meta‐analyses, sensitivity analyses based on risk of bias and different assumptions for missing data, and used meta‐regression analyses to investigate potential relationships between treatment effects and duration of treatment, proportion of participants with established coronary heart disease and proportion of participants receiving background statin therapy. We used GRADE to assess the quality of evidence. 
+Main results
+We included 23 RCTs that were published between 1968 and 2015 and included 39,195 participants in total. The mean age ranged from 33 to 71 years. The median duration of treatment was 11.5 months, and the median dose of niacin was 2 g/day. The proportion of participants with prior myocardial infarction ranged from 0% (4 trials) to 100% (2 trials, median proportion 48%); the proportion of participants taking statin ranged from 0% (4 trials) to 100% (12 trials, median proportion 100%). 

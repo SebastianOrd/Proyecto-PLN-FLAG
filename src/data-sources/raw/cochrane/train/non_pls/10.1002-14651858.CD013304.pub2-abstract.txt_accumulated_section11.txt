@@ -1,0 +1,11 @@
+Background
+Typical and atypical antipsychotics are widely used to treat agitation and psychosis in dementia. However, whether or not they are beneficial is uncertain. Some trials have yielded negative results and effectiveness may be outweighed by harms. 
+Objectives
+To assess the efficacy and safety of antipsychotics for the treatment of agitation and psychosis in people with Alzheimer's disease and vascular dementia. 
+Search methods
+We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group's register, MEDLINE (Ovid Sp), Embase (Ovid SP), PsycINFO (Ovid SP), CINAHL (EBSCOhost), Web of Science Core Collection (ISI Web of Science), LILACS (BIREME), ClinicalTrials.gov and the World Health Organization's meta‐register, and the International Clinical Trials Registry Portal on 7 January 2021. Two review authors independently screened the title and abstract of the hits, and two review authors assessed the full text of studies that got through this screening. 
+Selection criteria
+We included randomised, placebo‐controlled, parallel‐arm trials comparing the effects of antipsychotics and placebo for the treatment of agitation or psychosis in people with dementia due to Alzheimer's disease or vascular dementia, or both, irrespective of age, severity of cognitive impairment, and setting. (The majority of) participants had to have clinically significant agitation (including aggression) or psychosis or both at baseline. We excluded studies about antipsychotics that are no longer available in the USA or EU, or that are used for emergency short‐term sedation. We also excluded head‐to‐head trials and antipsychotic withdrawal trials. 
+Data collection and analysis
+The primary outcomes were (1) reduction in agitation or psychosis in participants with agitation or psychosis, respectively at baseline, and (2) the number of participants with adverse events: somnolence, extrapyramidal symptoms, any adverse event, any serious adverse event (SAE), and death. 
+Two review authors independently extracted the necessary data and assessed risk of bias with the Cochrane risk of bias tool. We calculated the pooled effect on agitation and psychosis for typical and atypical antipsychotics separately, and the pooled risk of adverse effects independent of the target symptom (agitation or psychosis). We used RevMan Web for the analyses. 

@@ -1,0 +1,10 @@
+Background
+Hyperkalaemia is a common electrolyte abnormality caused by reduced renal potassium excretion in patients with chronic kidney diseases (CKD). Potassium binders, such as sodium polystyrene sulfonate and calcium polystyrene sulfonate, are widely used but may lead to constipation and other adverse gastrointestinal (GI) symptoms, reducing their tolerability. Patiromer and sodium zirconium cyclosilicate are newer ion exchange resins for treatment of hyperkalaemia which may cause fewer GI side‐effects. Although more recent studies are focusing on clinically‐relevant endpoints such as cardiac complications or death, the evidence on safety is still limited. Given the recent expansion in the available treatment options, it is appropriate to review the evidence of effectiveness and tolerability of all potassium exchange resins among people with CKD, with the aim to provide guidance to consumers, practitioners, and policy‐makers. 
+Objectives
+To assess the benefits and harms of potassium binders for treating chronic hyperkalaemia among adults and children with CKD. 
+Search methods
+We searched the Cochrane Kidney and Transplant Register of Studies up to 10 March 2020 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐randomised controlled studies (quasi‐RCTs) evaluating potassium binders for chronic hyperkalaemia administered in adults and children with CKD. 
+Data collection and analysis
+Two authors independently assessed risks of bias and extracted data. Treatment estimates were summarised by random effects meta‐analysis and expressed as relative risk (RR) or mean difference (MD), with 95% confidence interval (CI). Evidence certainty was assessed using GRADE processes. 

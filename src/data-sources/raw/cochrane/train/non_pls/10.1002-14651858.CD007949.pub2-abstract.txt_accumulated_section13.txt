@@ -1,0 +1,13 @@
+Background
+Long‐acting beta2‐agonists (LABA) in combination with inhaled corticosteroids (ICS) are increasingly prescribed for children with asthma. 
+Objectives
+To assess the safety and efficacy of adding a LABA to an ICS in children and adolescents with asthma. To determine whether the benefit of LABA was influenced by baseline severity of airway obstruction, the dose of ICS to which it was added or with which it was compared, the type of LABA used, the number of devices used to deliver combination therapy and trial duration. 
+Search methods
+We searched the Cochrane Airways Group Asthma Trials Register until January 2015.
+Selection criteria
+We included randomised controlled trials testing the combination of LABA and ICS versus the same, or an increased, dose of ICS for at least four weeks in children and adolescents with asthma. The main outcome was the rate of exacerbations requiring rescue oral steroids. Secondary outcomes included markers of exacerbation, pulmonary function, symptoms, quality of life, adverse events and withdrawals. 
+Data collection and analysis
+Two review authors assessed studies independently for methodological quality and extracted data. We obtained confirmation from trialists when possible. 
+Main results
+We included in this review a total of 33 trials representing 39 control‐intervention comparisons and randomly assigning 6381 children. Most participants were inadequately controlled on their current ICS dose. We assessed the addition of LABA to ICS (1) versus the same dose of ICS, and (2) versus an increased dose of ICS. 
+LABA added to ICS was compared with the same dose of ICS in 28 studies. Mean age of participants was 11 years, and males accounted for 59% of the study population. Mean forced expiratory volume in one second (FEV1) at baseline was ≥ 80% of predicted in 18 studies, 61% to 79% of predicted in six studies and unreported in the remaining studies. Participants were inadequately controlled before randomisation in all but four studies. 
