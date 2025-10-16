@@ -1,0 +1,15 @@
+ipykernel
+datasets
+pandas
+pathlib
+numpy
+seaborn
+matplotlib
+ipywidgets
+accelerate
+sentence-transformers 
+transformers
+tqdm 
+torch
+bitsandbytes 
+peft
