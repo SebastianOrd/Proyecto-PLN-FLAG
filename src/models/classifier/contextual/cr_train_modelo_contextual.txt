@@ -1,0 +1,9 @@
+Modelo: Contextual
+              precision    recall  f1-score   support
+
+           0     0.9998    0.9979    0.9989      5817
+           1     0.9961    0.9997    0.9979      3027
+
+    accuracy                         0.9985      8844
+   macro avg     0.9979    0.9988    0.9984      8844
+weighted avg     0.9985    0.9985    0.9985      8844

@@ -1,0 +1,9 @@
+Modelo: RidgeClassifier
+              precision    recall  f1-score   support
+
+           0     0.9997    0.9991    0.9994      5817
+           1     0.9983    0.9993    0.9988      3027
+
+    accuracy                         0.9992      8844
+   macro avg     0.9990    0.9992    0.9991      8844
+weighted avg     0.9992    0.9992    0.9992      8844
