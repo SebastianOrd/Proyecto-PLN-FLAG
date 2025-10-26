@@ -1,2 +1,4 @@
 src/models/alignscore/*.ckpt
 .DS_Store
+.DS_Store
+.env
