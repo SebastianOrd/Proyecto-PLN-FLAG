@@ -11,3 +11,4 @@ torch
 accelerate
 evaluate
 tqdm
+dotenv
