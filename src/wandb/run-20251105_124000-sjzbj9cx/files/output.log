@@ -1,0 +1,5 @@
+'(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 7859f29a-c613-4a71-97b8-1c123bfe3f14)')' thrown while requesting HEAD https://huggingface.co/Qwen/Qwen3-1.7B/resolve/main/config.json
+Retrying in 1s [Retry 1/5].
+'(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: fce17a17-ca9f-48c7-9dcc-de2ef5a0955e)')' thrown while requesting HEAD https://huggingface.co/Qwen/Qwen3-1.7B/resolve/main/config.json
+Retrying in 1s [Retry 1/5].
+[9] fin de trainer.train()
