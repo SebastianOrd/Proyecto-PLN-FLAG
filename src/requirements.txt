@@ -12,3 +12,4 @@ accelerate
 evaluate
 tqdm
 dotenv
+textstat
