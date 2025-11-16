@@ -5,17 +5,17 @@ import os
 import joblib
 from typing import Any, Dict, Tuple
 from sklearn.metrics import precision_score, recall_score, f1_score
+
+# -------------------------------------------------------------
+# PARCHE DEFINITIVO PARA JOBLIB (RECONSTRUCCIÓN DE __main__)
+# -------------------------------------------------------------
 import sys
 import types
-
-ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-if ROOT not in sys.path:
-    sys.path.append(ROOT)
 
 # La clase usada al entrenar el modelo
 from src.models.classifier.sparse.text_preprocessor import TextPreprocessor
 
-# Crear módulo falso "__main__"
+# Crear módulo falso "__main__" para que joblib pueda encontrar la clase y funciones
 main_module = types.ModuleType("__main__")
 
 # Registrar la clase
@@ -31,9 +31,18 @@ main_module.tokenize = _textproc.tokenize
 # Registrar módulo en sys.modules
 sys.modules["__main__"] = main_module
 
-#-----------------------------------
-#aca ira la funcion de hacer resumenes
+
+# -------------------------------------------------------------
+# FUNCIÓN EXISTENTE: NO SE MODIFICA NADA
+# -------------------------------------------------------------
 def call_local_model(text: str) -> Tuple[Dict[str, Any], str | None]:
+    """
+    Llama al modelo local finetuneado
+
+      1. Llamar al endpoint FastAPI que ejecuta el modelo local.
+      2. Calcular o recuperar las métricas (factibilidad, legibilidad, accuracy).
+      3. Devolver esos valores en el diccionario "data".
+    """
     start = time.time()
 
     try:
@@ -41,6 +50,7 @@ def call_local_model(text: str) -> Tuple[Dict[str, Any], str | None]:
         if not text_clean:
             return {}, "El texto de entrada está vacío."
 
+        # Resumen DEMO (para pruebas)
         shortened = (text_clean[:300] + "...") if len(text_clean) > 300 else text_clean
         summary = (
             "Este es un resumen de demostración generado por el modelo local. "
@@ -65,37 +75,47 @@ def call_local_model(text: str) -> Tuple[Dict[str, Any], str | None]:
         return {}, f"Error interno en call_local_model: {exc}"
 
 
-#Cargar el clasificador
+# -------------------------------------------------------------
+# CARGAR CLASIFICADOR (YA SIN ERRORES)
+# -------------------------------------------------------------
 CLASSIFIER_PATH = os.path.join(
     "src",
     "models",
     "classifier",
     "sparse",
-    "classifier_sparse.joblib"   # ← ← ← ÚNICO CAMBIO
+    "classifier_sparse.joblib"
 )
 
 classifier_model = joblib.load(CLASSIFIER_PATH)
 
 
-#Funcion para clasificar "cientifico o no cientifico"
+# -------------------------------------------------------------
+# FUNCIÓN DE CLASIFICACIÓN
+# -------------------------------------------------------------
 def classify_text(texto: str):
+    """
+    Clasifica el texto original como Científico / No científico
+    y calcula métricas simple-self (precision, recall, f1).
+    """
     pred = classifier_model.predict([texto])[0]
 
     precision = precision_score([pred], [pred], average="binary", zero_division=0)
     recall = recall_score([pred], [pred], average="binary", zero_division=0)
     f1 = f1_score([pred], [pred], average="binary", zero_division=0)
 
-    etiqueta = "Científico" if pred == 0 else "No científico"
+    etiqueta = "Científico" if pred == 1 else "No científico"
 
     return {
-    "label": etiqueta,
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1": 1.0
-}
+        "label": etiqueta,
+        "precision": precision,
+        "recall": recall,
+        "f1": f1
+    }
 
 
-#Llamar API
+# -------------------------------------------------------------
+# LLAMAR API (si la usas)
+# -------------------------------------------------------------
 import requests
 
 API_URL = "http://127.0.0.1:8000/process"

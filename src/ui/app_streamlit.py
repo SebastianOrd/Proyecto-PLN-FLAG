@@ -1,9 +1,9 @@
 import streamlit as st
 
-from views import resumen_individual, explorar_resultados
+from src.ui.views import resumen_individual, explorar_resultados
 
 
-#Config de la pagina
+# Configuración general de la página
 st.set_page_config(
     page_title="BioLaySumm",
     page_icon="🩺",
@@ -17,7 +17,7 @@ def render_header(section_title: str) -> None:
     Ahora se muestra de forma similar al texto de st.set_page_config().
     """
 
-    #Ttulo
+    #ttulo
     st.markdown(
         """
         <h1 style="margin-bottom:0.1rem; margin-top:0.2rem; display:flex; align-items:center; gap:0.5rem;">
@@ -27,7 +27,7 @@ def render_header(section_title: str) -> None:
         unsafe_allow_html=True,
     )
 
-    #subtitulo descriptivo
+    #subtutulo descriptivo
     st.markdown(
         """
         <p style="margin-top:0rem; margin-bottom:0.6rem; color:#d0d0d0;">
@@ -47,8 +47,8 @@ def render_header(section_title: str) -> None:
         """,
         unsafe_allow_html=True,
     )
-    
 #sidebar
+
 st.sidebar.markdown(
     """
     <h3 style="margin-top:0.5rem; margin-bottom:0.2rem;">BioLaySumm</h3>
