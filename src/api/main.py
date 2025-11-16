@@ -14,10 +14,10 @@ def process_text(payload: InputText):
 
     texto = payload.text.strip()
 
-    # --- 1. Clasificación ---
+    #Clasificación
     clasificacion = classify_text(texto)
 
-    # --- 2. Resumen y métricas ---
+    #Resumen y métricas
     data, error = call_local_model(texto)
 
     if error:
