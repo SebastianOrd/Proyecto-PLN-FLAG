@@ -1,9 +1,9 @@
 import streamlit as st
 
-from src.ui.views import resumen_individual, explorar_resultados
+from views import resumen_individual, explorar_resultados
 
 
-# Configuración general de la página
+#Configuración general de la página
 st.set_page_config(
     page_title="BioLaySumm",
     page_icon="🩺",
