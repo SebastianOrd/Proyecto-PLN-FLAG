@@ -1,8 +1,7 @@
 import streamlit as st
-from services import call_local_model, classify_text
+from services import call_local_model, call_api
 
 
-#Funcion de limpieza
 def limpiar_estado():
     st.session_state["input_text"] = ""
     st.session_state["texto_resumen"] = ""
@@ -12,7 +11,6 @@ def limpiar_estado():
 
 def render():
 
-    #Inicialización
     if "input_text" not in st.session_state:
         st.session_state["input_text"] = ""
 
@@ -25,8 +23,6 @@ def render():
     if "metricas_clasificacion" not in st.session_state:
         st.session_state["metricas_clasificacion"] = None
 
-
-    #Titulos
     left_col, right_col = st.columns([1, 1])
 
     with left_col:
@@ -57,15 +53,10 @@ def render():
             unsafe_allow_html=True
         )
 
-
-    #Columnas
     col1, col2 = st.columns([1, 1])
 
-
-    #Izquierda -input y botones
     with col1:
 
-        # TEXT AREA (usa session_state)
         input_text = st.text_area(
             "",
             height=240,
@@ -74,10 +65,8 @@ def render():
             key="input_text"
         )
 
-
         col_btn1, col_btn2 = st.columns([1, 1])
 
-        #Generar
         with col_btn1:
             generate_btn = st.button(
                 "Generar Resumen Sencillo",
@@ -87,17 +76,15 @@ def render():
                 key="btn_generar"
             )
 
-        #Limpiar
         with col_btn2:
             limpiar_btn = st.button(
                 "Limpiar",
                 use_container_width=True,
                 help="Limpiar texto y resultado",
                 key="btn_limpiar",
-                on_click=limpiar_estado   
+                on_click=limpiar_estado
             )
 
-        #Estilos
         st.markdown(
             """
             <style>
@@ -125,8 +112,6 @@ def render():
             unsafe_allow_html=True,
         )
 
-
-    #Derecha resumen
     with col2:
         resumen_box = st.empty()
 
@@ -146,17 +131,15 @@ def render():
                 unsafe_allow_html=True,
             )
 
-
-    #Resumen y clasificacion
     if generate_btn and input_text.strip():
 
         with st.spinner("Generando resumen..."):
 
-            clasificacion = classify_text(input_text)
+            clasificacion, error_clf = call_api(input_text)
             data, error = call_local_model(input_text)
 
-        if error:
-            st.error(error)
+        if error or error_clf:
+            st.error(error or error_clf)
         else:
             st.session_state["texto_resumen"] = data["summary"]
 
@@ -166,15 +149,14 @@ def render():
                 "accuracy": f"{data['accuracy']*100:.1f}",
             }
 
+            # ← ← ← CORREGIDO: ahora usa la salida REAL de la API
             st.session_state["metricas_clasificacion"] = {
-                "label": clasificacion["label"],
-                "precision": f"{clasificacion['precision']*100:.1f}%",
-                "recall": f"{clasificacion['recall']*100:.1f}%",
-                "f1": f"{clasificacion['f1']*100:.1f}%"
+                "label": clasificacion["classification"]["label"],
+                "precision": f"{clasificacion['classification']['precision']*100:.1f}%",
+                "recall": f"{clasificacion['classification']['recall']*100:.1f}%",
+                "f1": f"{clasificacion['classification']['f1']*100:.1f}%"
             }
 
-
-    #Mostrar resumen
     if st.session_state["texto_resumen"]:
         resumen_box.markdown(
             f"""
@@ -190,8 +172,6 @@ def render():
             unsafe_allow_html=True
         )
 
-
-    #Metricas de clasificacion
     metricas_clf = st.session_state["metricas_clasificacion"]
 
     if metricas_clf:
@@ -210,8 +190,6 @@ def render():
         c3.metric("Recall", metricas_clf["recall"])
         c4.metric("F1-score", metricas_clf["f1"])
 
-
-    #Metricas de generacion
     metricas = st.session_state["metricas"]
 
     if metricas:

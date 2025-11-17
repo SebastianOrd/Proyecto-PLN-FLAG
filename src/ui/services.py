@@ -111,7 +111,8 @@ def call_api(texto: str):
         data = r.json()
         if "error" in data:
             return None, data["error"]
-
+        print("API respuesta:", r.json())
+        
         return data, None
 
     except Exception as e:
