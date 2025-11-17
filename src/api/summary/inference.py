@@ -1,5 +1,3 @@
-# src/api/summary/inference.py
-
 import torch
 from .model_loader import model, tokenizer
 
@@ -36,7 +34,7 @@ def generate_summary(text: str):
         return_tensors="pt",
         truncation=True,
         padding=True,
-        max_length=4096 - 300,  # deja espacio para generar
+        max_length=4096 - 300,  #deja espacio para generar
     )
 
     input_ids = encoded["input_ids"].to(model.device)
@@ -55,7 +53,7 @@ def generate_summary(text: str):
         pad_token_id=tokenizer.pad_token_id or tokenizer.eos_token_id,
     )
 
-    # Cortar lo generado
+    #Cortar lo generado
     input_len = attention_mask.sum(dim=1)[0]
     gen_only = gen_ids[0, input_len:]
 

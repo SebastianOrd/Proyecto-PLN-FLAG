@@ -1,5 +1,3 @@
-# src/api/summary/router.py
-
 from fastapi import APIRouter
 from pydantic import BaseModel
 from .inference import generate_summary
