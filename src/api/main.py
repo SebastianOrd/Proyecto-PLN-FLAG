@@ -6,9 +6,9 @@ import uvicorn
 import joblib
 import os
 
-# ------------------------------
-# 🔧 FIX para cargar classifier_sparse.joblib
-# ------------------------------
+
+#FIX para cargar classifier_sparse.joblib
+
 import sys
 import types
 from src.models.classifier.sparse.text_preprocessor import TextPreprocessor
@@ -21,19 +21,17 @@ main_module.clean_light_text = _textproc.clean_light_text
 main_module.tokenize = _textproc.tokenize
 
 sys.modules["__main__"] = main_module
-# ------------------------------
 
-
-# Importar router del resumen
+#Importar router del resumen
 from src.api.summary.router import router as summary_router
 
 app = FastAPI(title="BioLaySumm API")
 
-# Registrar router /summary
+#Registrar router /summary
 app.include_router(summary_router)
 
 
-# Cargar clasificador real
+#Cargar clasificador
 CLASSIFIER_PATH = os.path.join(
     "src",
     "models",
@@ -55,7 +53,7 @@ def process_text(payload: InputText):
     if not texto:
         return {"error": "Texto vacío"}
 
-    # --- Clasificación ---
+    #Clasificacion
     pred = classifier_model.predict([texto])[0]
     etiqueta = "Científico" if pred == 0 else "No científico"
 
