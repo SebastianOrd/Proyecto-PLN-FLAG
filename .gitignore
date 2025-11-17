@@ -1,4 +1,5 @@
 src/models/alignscore/*.ckpt
+*.joblib
 .DS_Store
 .DS_Store
 .env
