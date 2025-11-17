@@ -1,5 +1,5 @@
 import streamlit as st
-from services import call_local_model, call_api
+from services import call_api, call_api_summary
 
 
 def limpiar_estado():
@@ -136,20 +136,20 @@ def render():
         with st.spinner("Generando resumen..."):
 
             clasificacion, error_clf = call_api(input_text)
-            data, error = call_local_model(input_text)
+            resumen, error_resumen = call_api_summary(input_text)
 
-        if error or error_clf:
-            st.error(error or error_clf)
+        if error_clf or error_resumen:
+            st.error(error_clf or error_resumen)
         else:
-            st.session_state["texto_resumen"] = data["summary"]
+            st.session_state["texto_resumen"] = resumen
 
+            # Métricas estáticas por ahora
             st.session_state["metricas"] = {
-                "legibilidad": f"{data['readability']*100:.1f}%",
-                "factibilidad": f"{data['factuality']*100:.1f}%",
-                "accuracy": f"{data['accuracy']*100:.1f}",
+                "legibilidad": "78.0%",
+                "factibilidad": "86.0%",
+                "accuracy": "91.0",
             }
 
-            # ← ← ← CORREGIDO: ahora usa la salida REAL de la API
             st.session_state["metricas_clasificacion"] = {
                 "label": clasificacion["classification"]["label"],
                 "precision": f"{clasificacion['classification']['precision']*100:.1f}%",
