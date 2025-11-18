@@ -16,3 +16,4 @@ src/models/deepseek-coder-1p3b-lora-base/
 deepseek-coder-1p3b-lora-base/
 AlignScore-large.ckpt
 src/models/classifier/sparse/classifier_sparse_ridge_calibrated.joblib
+venv310
