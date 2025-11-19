@@ -23,11 +23,11 @@ sys.modules["__main__"] = main_module
 #Router de resusmen
 
 from src.api.summary.router import router as summary_router
+#from src.api.metrics.router import router as metrics_router
 
 app = FastAPI(title="BioLaySumm API")
-
 app.include_router(summary_router)
-
+#app.include_router(metrics_router)
 
 #Cargar clasificador v2 100% real no fake.
 CLASSIFIER_PATH = os.path.join(
