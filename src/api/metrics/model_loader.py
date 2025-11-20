@@ -6,9 +6,7 @@ from bert_score import score as bert_score
 import textstat
 import os
 
-# ==========================
-# CONFIGURACIÓN
-# ==========================
+#Config
 
 ALIGN_CKPT_PATH = os.path.join(
     "src", "models", "alignscore", "AlignScore-large.ckpt"
@@ -16,11 +14,9 @@ ALIGN_CKPT_PATH = os.path.join(
 
 device = torch.device("cpu")
 
-# ==========================
-# CARGA DE MODELOS
-# ==========================
+#Carga de modelos
 
-# --- AlignScore NLI ---
+#AlignScore NLI
 scorer_nli = AlignScore(
     model="roberta-large",
     batch_size=1,
@@ -29,7 +25,7 @@ scorer_nli = AlignScore(
     evaluation_mode="nli_sp"
 )
 
-# --- AlignScore BINARIO ---
+#AlignScore BINARIO
 scorer_bin = AlignScore(
     model="roberta-large",
     batch_size=1,
@@ -38,8 +34,8 @@ scorer_bin = AlignScore(
     evaluation_mode="bin_sp"
 )
 
-# --- BERTScore scorer ---
-bert_scorer = bert_score  # wrapper simple
+#BERTScore scorer
+bert_scorer = bert_score  #wrapper simple
 
-# --- textstat (legibilidad) ---
+#textstat (legibilidad)
 textstat.set_lang("en")

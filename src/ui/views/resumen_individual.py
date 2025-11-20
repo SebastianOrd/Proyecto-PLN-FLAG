@@ -1,5 +1,5 @@
 import streamlit as st
-from services import call_api, call_api_summary
+from services import call_api, call_api_summary, call_api_metrics
 
 
 def limpiar_estado():
@@ -11,7 +11,7 @@ def limpiar_estado():
 
 def render():
 
-        # Inicializar estado
+        #Inicializar estado
         if "input_text" not in st.session_state:
             st.session_state["input_text"] = ""
 
@@ -24,9 +24,7 @@ def render():
         if "metricas_clasificacion" not in st.session_state:
             st.session_state["metricas_clasificacion"] = None
 
-        # ============================================
-        # ENCABEZADOS IZQUIERDA Y DERECHA
-        # ============================================
+        #Encabezados izquierda y derecha
 
         left_col, right_col = st.columns([1, 1])
 
@@ -58,9 +56,7 @@ def render():
                 unsafe_allow_html=True
             )
 
-        # ============================================
-        # ÁREA DE TEXTO + BOTONES
-        # ============================================
+        #Area de texto + botones
 
         col1, col2 = st.columns([1, 1])
 
@@ -94,7 +90,7 @@ def render():
                     on_click=limpiar_estado
                 )
 
-            # Estilos de botones
+            #Estilos de botones
             st.markdown(
                 """
                 <style>
@@ -122,9 +118,7 @@ def render():
                 unsafe_allow_html=True,
             )
 
-        # ============================================
-        # CUADRO DE RESULTADO (PARTE DERECHA)
-        # ============================================
+        #Cuadro de resultado (lado derecho)
 
         with col2:
             resumen_box = st.empty()
@@ -145,7 +139,7 @@ def render():
                     unsafe_allow_html=True,
                 )
 
-        #Procesamiento
+        #Procesamiento principal
 
         if generate_btn and input_text.strip():
 
@@ -159,7 +153,7 @@ def render():
 
                 label = clasificacion["classification"]["label"]
 
-                #Caso no cientifico
+                #Caso NO científico
                 if label == "No científico":
 
                     mensaje_no_cient = (
@@ -167,7 +161,6 @@ def render():
                         "Por favor ingresa un abstract o texto técnico válido."
                     )
 
-                    #Mostrar recuadro rojo
                     st.session_state["texto_resumen"] = mensaje_no_cient
 
                     resumen_box.markdown(
@@ -184,14 +177,13 @@ def render():
                         unsafe_allow_html=True
                     )
 
-                    #Métricas caso no cientifico
                     st.session_state["metricas"] = None
                     st.session_state["metricas_clasificacion"] = {
                         "label": "No científico",
                         "confidence": f"{clasificacion['classification']['confidence']*100:.1f}%"
                     }
 
-                #Caso cientifico
+                #Casi cientifico:
                 else:
 
                     resumen, error_res = call_api_summary(input_text)
@@ -202,14 +194,15 @@ def render():
 
                     st.session_state["texto_resumen"] = resumen
 
-                    #Metricas
-                    st.session_state["metricas"] = {
-                        "legibilidad": "78.0%",
-                        "factibilidad": "86.0%",
-                        "accuracy": "91.0",
-                    }
+                    #Llamar API Metrics
+                    metricas_real, error_m = call_api_metrics(input_text, resumen)
 
-                    #Metricas del clasificador incluyendo confidence
+                    if error_m:
+                        st.error("Error al calcular métricas: " + error_m)
+                        st.session_state["metricas"] = None
+                    else:
+                        st.session_state["metricas"] = metricas_real
+
                     st.session_state["metricas_clasificacion"] = {
                         "label": label,
                         "confidence": f"{clasificacion['classification']['confidence']*100:.1f}%"
@@ -231,7 +224,8 @@ def render():
                 unsafe_allow_html=True
             )
 
-        #Mostrar metricas de clasificacion
+        #Metricas de clasificacion
+
         metricas_clf = st.session_state["metricas_clasificacion"]
 
         if metricas_clf:
@@ -248,19 +242,56 @@ def render():
             c1.metric("Tipo de texto", metricas_clf["label"])
             c2.metric("Confiabilidad", metricas_clf["confidence"])
 
-        #Mostrar metricas de resumen
+        #Metricas del resumen
+
         metricas = st.session_state["metricas"]
 
         if metricas:
-            st.markdown("<div style='margin-top:0.8rem; margin-bottom:0.2rem;'></div>", unsafe_allow_html=True)
 
+            st.markdown(
+                """
+                <h3 style='margin-top:2rem; margin-bottom:1rem; text-align:center;'>
+                    📊 Métricas del Resumen
+                </h3>
+                """,
+                unsafe_allow_html=True,
+            )
+
+            #KPIs principales
             mcol1, mcol2, mcol3 = st.columns([1, 1, 1], gap="small")
 
+            leg = metricas["legibilidad"].get("mean_flesch_reading_ease", 0)
+            fac = metricas["factualidad"].get("mean_alignscore_bin", 0)
+            acc = metricas["relevancia"].get("mean_f1", 0) * 100
+
             with mcol1:
-                st.metric("📘 Legibilidad", metricas["legibilidad"])
+                st.metric("📘 Legibilidad (Flesch)", f"{leg:.2f}")
 
             with mcol2:
-                st.metric("🔍 Factibilidad", metricas["factibilidad"])
+                st.metric("🔍 Factualidad (AlignScore BIN)", f"{fac:.2f}")
 
             with mcol3:
-                st.metric("🎯 Accuracy", metricas["accuracy"] + "%")
+                st.metric("🎯 Relevancia (F1)", f"{acc:.1f}%")
+
+            st.markdown("<br>", unsafe_allow_html=True)
+
+            #Relevancia
+            with st.expander("🔵 Relevancia (BERTScore) – ver detalles"):
+                relev = metricas["relevancia"]
+                for k, v in relev.items():
+                    st.write(f"**{k}**: {v:.4f}")
+
+            #Legibilidad
+            with st.expander("🟢 Legibilidad (TextStat) – ver detalles"):
+                legib = metricas["legibilidad"]
+                for k, v in legib.items():
+                    if isinstance(v, float):
+                        st.write(f"**{k}**: {v:.4f}")
+                    else:
+                        st.write(f"**{k}**: {v}")
+
+            #Factualidad
+            with st.expander("🟣 Factualidad (AlignScore) – ver detalles"):
+                fact = metricas["factualidad"]
+                for k, v in fact.items():
+                    st.write(f"**{k}**: {v:.4f}")

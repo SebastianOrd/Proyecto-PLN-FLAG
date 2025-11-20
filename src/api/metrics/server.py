@@ -15,8 +15,8 @@ def metrics_endpoint(payload: MetricsInput):
         summary=payload.summary_text
     )
 
-# App principal
+#App principal
 app = FastAPI(title="Metrics API")
 
-# Incluir router
+#Incluir router
 app.include_router(router)

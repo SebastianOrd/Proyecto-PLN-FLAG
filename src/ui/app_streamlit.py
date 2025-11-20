@@ -47,8 +47,8 @@ def render_header(section_title: str) -> None:
         """,
         unsafe_allow_html=True,
     )
+    
 #sidebar
-
 st.sidebar.markdown(
     """
     <h3 style="margin-top:0.5rem; margin-bottom:0.2rem;">BioLaySumm</h3>
