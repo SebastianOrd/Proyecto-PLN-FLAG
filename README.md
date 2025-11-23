@@ -58,7 +58,7 @@ Proyecto probado con Python 3.12 y GPU NVIDIA.
 
 Bash
 #### 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/PROYECTO-PLN-FLAG.git
+git clone 
 cd PROYECTO-PLN-FLAG
 
 #### 2. Crear y activar entorno virtual (Recomendamos Mamba/Conda o venv)
