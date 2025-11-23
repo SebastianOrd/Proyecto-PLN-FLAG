@@ -1,9 +1,0 @@
-{"time":"2025-11-05T12:40:03.6139159-05:00","level":"INFO","msg":"stream: starting","core version":"0.22.3"}
-{"time":"2025-11-05T12:40:04.5624922-05:00","level":"INFO","msg":"stream: created new stream","id":"sjzbj9cx"}
-{"time":"2025-11-05T12:40:04.5624922-05:00","level":"INFO","msg":"handler: started","stream_id":"sjzbj9cx"}
-{"time":"2025-11-05T12:40:04.5821394-05:00","level":"INFO","msg":"stream: started","id":"sjzbj9cx"}
-{"time":"2025-11-05T12:40:04.5821394-05:00","level":"INFO","msg":"writer: started","stream_id":"sjzbj9cx"}
-{"time":"2025-11-05T12:40:04.5821394-05:00","level":"INFO","msg":"sender: started","stream_id":"sjzbj9cx"}
-{"time":"2025-11-05T14:29:57.460505-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.120:53696->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
-{"time":"2025-11-05T16:04:39.4184996-05:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/jsoa9012-universidad-de-los-andes/huggingface/sjzbj9cx/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
-{"time":"2025-11-05T17:03:10.7506636-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
