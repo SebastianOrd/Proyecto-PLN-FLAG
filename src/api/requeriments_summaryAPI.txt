@@ -1,0 +1,29 @@
+#Python3.11.X
+
+fastapi==0.110.0
+uvicorn==0.29.0
+
+#Modelo base
+transformers==4.44.2
+accelerate==0.34.2
+sentencepiece==0.1.99
+
+#PEFT para LoRA
+peft==0.11.1
+
+#bitsandbytes (aunque en CPU usa fallback)
+bitsandbytes==0.43.1
+
+#Utilidades
+numpy==1.26.4
+pandas==2.2.2
+
+#Tokenizers HF
+tokenizers==0.19.1
+
+#Evitar upgrades automáticos
+protobuf==3.20.3
+
+#Para joblib (clasificador lo necesita)
+joblib==1.3.2
+scikit-learn==1.4.2
