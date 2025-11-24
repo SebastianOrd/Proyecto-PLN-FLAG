@@ -1,0 +1,40 @@
+# Dockerfile.summary.cloudrun - Optimizado para Google Cloud Run
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Variables de entorno para Cloud Run
+ENV PORT=8080
+ENV PYTHONUNBUFFERED=1
+
+# Instalar dependencias del sistema
+RUN apt-get update && apt-get install -y \
+    curl \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copiar requirements
+COPY src/api/requeriments_summaryAPI.txt /app/requirements.txt
+
+# Actualizar requirements para Cloud Run (sin bitsandbytes)
+RUN sed -i '/bitsandbytes/d' /app/requirements.txt
+
+# Instalar dependencias Python
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt && \
+    pip install --upgrade transformers peft scikit-learn && \
+    pip uninstall -y bitsandbytes && \
+    pip install google-cloud-storage
+
+# Copiar código fuente
+COPY src /app/src
+
+# Cloud Run espera que la app escuche en el puerto definido por $PORT
+EXPOSE 8080
+
+# Health check (opcional en Cloud Run)
+HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
+    CMD curl -f http://localhost:8080/docs || exit 1
+
+# Comando para Cloud Run - escucha en $PORT
+CMD exec uvicorn src.api.main:app --host 0.0.0.0 --port ${PORT} --workers 1

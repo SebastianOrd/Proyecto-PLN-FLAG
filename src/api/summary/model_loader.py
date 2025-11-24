@@ -1,30 +1,62 @@
+# src/api/summary/model_loader.py
 import torch
+import os
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel
-import os
+from google.cloud import storage
 
-#Rutas base
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+# Descargar modelos desde GCS si no existen
+def download_from_gcs_if_needed():
+    bucket_name = "proyecto-pln-flag-models"
+    local_base_dir = "/tmp/models"
+    
+    # Crear directorios
+    os.makedirs(f"{local_base_dir}/deepseek-coder-1p3b-lora-base", exist_ok=True)
+    os.makedirs(f"{local_base_dir}/checkpoint-191", exist_ok=True)
+    
+    # Si ya existen, skip
+    if os.path.exists(f"{local_base_dir}/deepseek-coder-1p3b-lora-base/config.json"):
+        print("✅ Modelos ya descargados")
+        return local_base_dir
+    
+    print("📥 Descargando modelos desde GCS...")
+    client = storage.Client()
+    bucket = client.bucket(bucket_name)
+    
+    # Descargar modelo base
+    blobs = bucket.list_blobs(prefix="deepseek-coder-1p3b-lora-base/")
+    for blob in blobs:
+        if not blob.name.endswith("/"):
+            local_path = f"{local_base_dir}/{blob.name}"
+            os.makedirs(os.path.dirname(local_path), exist_ok=True)
+            blob.download_to_filename(local_path)
+            print(f"  ✓ {blob.name}")
+    
+    # Descargar checkpoint LoRA
+    blobs = bucket.list_blobs(prefix="checkpoint-191/")
+    for blob in blobs:
+        if not blob.name.endswith("/"):
+            local_path = f"{local_base_dir}/{blob.name}"
+            os.makedirs(os.path.dirname(local_path), exist_ok=True)
+            blob.download_to_filename(local_path)
+            print(f"  ✓ {blob.name}")
+    
+    print("✅ Modelos descargados")
+    return local_base_dir
 
-MODEL_DIR = os.path.join(
-    BASE_DIR,
-    "models",
-    "deepseek-coder-1p3b-lora-base"   #modelo base descargado (no se sube al repo por el peso)
-)
+# Descargar modelos
+BASE_DIR = download_from_gcs_if_needed()
 
-CKPT_DIR = os.path.join(
-    BASE_DIR,
-    "outputs",
-    "deepseek-coder-1p3b-qlora",
-    "checkpoint-191"                 #adaptador LoRa entrenado
-)
+MODEL_DIR = f"{BASE_DIR}/deepseek-coder-1p3b-lora-base"
+CKPT_DIR = f"{BASE_DIR}/checkpoint-191"
 
-print("🔍 Cargando tokenizer desde:", MODEL_DIR)
+print(f"🔍 Cargando tokenizer desde: {MODEL_DIR}")
 
 tokenizer = AutoTokenizer.from_pretrained(
     MODEL_DIR,
-    use_fast=True,
-    trust_remote_code=True
+    use_fast=False,
+    trust_remote_code=True,
+    local_files_only=True
 )
 
 if tokenizer.pad_token is None:
@@ -32,19 +64,19 @@ if tokenizer.pad_token is None:
 
 tokenizer.padding_side = "left"
 
-print("🔍 Cargando modelo base (CPU, sin bitsandbytes)...")
+print(f"🔍 Cargando modelo base...")
 
-#IMPORTANTE → sin 4-bit, sin bitsandbytes por mi GPU AMD (Brayan Gómez)
 base_model = AutoModelForCausalLM.from_pretrained(
     MODEL_DIR,
-    device_map="cpu",           #obligatorio para AMD
-    torch_dtype=torch.float32,  #float16 en CPU puede romper
-    trust_remote_code=True
+    device_map="cpu",
+    torch_dtype=torch.float32,
+    trust_remote_code=True,
+    local_files_only=True
 )
 
-print("🔍 Montando adaptador LoRA desde:", CKPT_DIR)
+print(f"🔍 Montando adaptador LoRA desde: {CKPT_DIR}")
 
 model = PeftModel.from_pretrained(base_model, CKPT_DIR)
 model.eval()
 
-print("✅ Modelo de resumen cargado correctamente en CPU (AMD compatible)")
+print("✅ Modelo cargado")

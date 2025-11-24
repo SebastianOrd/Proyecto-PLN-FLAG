@@ -12,7 +12,7 @@ sentencepiece==0.1.99
 peft==0.11.1
 
 #bitsandbytes (aunque en CPU usa fallback)
-bitsandbytes==0.43.1
+#bitsandbytes==0.43.1
 
 #Utilidades
 numpy==1.26.4
