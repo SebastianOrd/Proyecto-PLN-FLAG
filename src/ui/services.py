@@ -20,7 +20,7 @@ if ROOT not in sys.path:
 # Los contenedores se comunican por nombres, no por localhost
 API_CLASSIFY_URL = os.getenv("API_CLASSIFY_URL", "http://api-summary:8000/process")
 API_SUMMARY_URL  = os.getenv("API_SUMMARY_URL", "http://api-summary:8000/summary/")
-API_METRICS_URL = os.getenv("API_METRICS_URL", "http://api-metrics:8001/metrics/")
+API_METRICS_URL = os.getenv("API_METRICS_URL", "http://api-metrics:8001/metrics")
 
 # Para desarrollo local (sin Docker), configura estas variables de entorno:
 # export API_CLASSIFY_URL=http://127.0.0.1:8000/process
@@ -34,7 +34,7 @@ def call_api(texto: str) -> Tuple[Dict[str, Any] | None, str | None]:
     Llama a la API que realiza la clasificación.
     """
     try:
-        r = requests.post(API_CLASSIFY_URL, json={"text": texto}, timeout=120)  # 2 minutos
+        r = requests.post(API_CLASSIFY_URL, json={"text": texto}, timeout=300)  # 2 minutos
 
         if r.status_code != 200:
             return None, f"Error al comunicarse con la API: {r.status_code}"
@@ -64,7 +64,7 @@ def call_api_summary(texto: str) -> Tuple[str | None, str | None]:
       - error (si aplica)
     """
     try:
-        r = requests.post(API_SUMMARY_URL, json={"text": texto}, timeout=300)  # 5 minutos
+        r = requests.post(API_SUMMARY_URL, json={"text": texto}, timeout=600)  # 10 minutos (aumentado)
 
         if r.status_code != 200:
             return None, f"Error al comunicarse con la API de resumen: {r.status_code}"
@@ -79,7 +79,7 @@ def call_api_summary(texto: str) -> Tuple[str | None, str | None]:
     except requests.exceptions.ConnectionError as e:
         return None, f"Error de conexión con la API de resumen: {e}"
     except requests.exceptions.Timeout:
-        return None, "Timeout: La API de resumen tardó demasiado (>5 min)"
+        return None, "Timeout: La API de resumen tardó demasiado (>10 min)"
     except Exception as e:
         return None, f"Error de conexión con la API de resumen: {e}"
     
@@ -94,7 +94,7 @@ def call_api_metrics(original: str, summary: str):
         r = requests.post(API_METRICS_URL, json={
             "original_text": original,
             "summary_text": summary
-        }, timeout=300)  # 5 minutos
+        }, timeout=600)  # 10 minutos (aumentado)
 
         if r.status_code != 200:
             return None, f"Error en API de métricas: {r.status_code}"
@@ -105,6 +105,6 @@ def call_api_metrics(original: str, summary: str):
     except requests.exceptions.ConnectionError as e:
         return None, f"Error de conexión con API de métricas: {e}"
     except requests.exceptions.Timeout:
-        return None, "Timeout: La API de métricas tardó demasiado (>5 min)"
+        return None, "Timeout: La API de métricas tardó demasiado (>10 min)"
     except Exception as e:
         return None, f"Error de conexión con API de métricas: {e}"
