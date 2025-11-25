@@ -58,20 +58,21 @@ Proyecto probado con Python 3.12 y GPU NVIDIA.
 
 Bash
 #### 1. Clonar el repositorio
+```
 git clone https://[repositorio]
-
 cd PROYECTO-PLN-FLAG
-
+```
 #### 2. Crear y activar entorno virtual (Recomendamos Mamba/Conda o venv)
+```
 python3 -m venv venv
 source venv/bin/activate
-
+```
 #### 3. Instalar dependencias
 
 es necesario recalcar que hay varios requirements.txt debido a que se necesitaron entornos diferentes, por ejemplo alignscore exige que sea un entorno python 3.10, y el entrenamiento de los modelos se realizo en python 3.12
-
+```
 pip install -r requirements.txt
-
+```
 ### 2. Uso y Reproducción
 
 Para ejecutar el pipeline y reproducir los resultados:

@@ -1,0 +1,3 @@
+factualidad,factualidad,factualidad,factualidad,factualidad,factualidad,factualidad,factualidad,factualidad,factualidad,factualidad,factualidad,factualidad,factualidad
+mean_alignscore_nli,std_alignscore_nli,min_alignscore_nli,max_alignscore_nli,mean_alignscore_bin,std_alignscore_bin,min_alignscore_bin,max_alignscore_bin,n_examples,backbone,batch_size_model,chunk_size,device,ckpt_path
+0.506958501276217,0.07732001775310278,0.18027424812316895,0.7258513569831848,0.6743677155751931,0.11657668335914227,0.32916340231895447,0.9565992951393129,380,roberta-large,8,8,cuda,models/alignscore/AlignScore-large.ckpt
