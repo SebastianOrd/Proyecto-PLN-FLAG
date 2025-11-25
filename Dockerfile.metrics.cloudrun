@@ -1,0 +1,98 @@
+FROM python:3.10-slim
+
+# Build argument para el token de Hugging Face (opcional)
+ARG HF_TOKEN
+
+WORKDIR /app
+
+# Variables de entorno para Cloud Run
+ENV PORT=8080
+ENV PYTHONUNBUFFERED=1
+
+# Instalar dependencias del sistema
+RUN apt-get update && apt-get install -y \
+    curl \
+    git \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+# Actualizar pip
+RUN pip install --upgrade pip
+
+# Copiar requirements
+COPY src/api/metrics/requeriments_apiMetrics.txt ./requirements.txt
+
+# Instalar PyTorch CPU primero
+RUN pip install --no-cache-dir torch==1.13.1+cpu torchvision==0.14.1+cpu \
+    --index-url https://download.pytorch.org/whl/cpu
+
+# Instalar dependencias base (sin alignscore ni torch)
+RUN grep -v "^alignscore==" requirements.txt | \
+    grep -v "^torch==" | \
+    grep -v "^torchvision==" | \
+    grep -v "^--index-url" | \
+    grep -v "^#" | \
+    grep -v "^$" | \
+    pip install --no-cache-dir -r /dev/stdin
+
+# Instalar AlignScore desde GitHub
+RUN git clone https://github.com/yuh-zha/AlignScore.git /tmp/AlignScore && \
+    cd /tmp/AlignScore && \
+    pip install --no-cache-dir . && \
+    cd / && \
+    rm -rf /tmp/AlignScore
+
+# Instalar modelo de spaCy
+RUN pip install --no-cache-dir \
+    https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
+
+# Descargar recursos de NLTK
+RUN python -c "import nltk; nltk.download('punkt_tab'); nltk.download('punkt')"
+
+# Pre-descargar modelos de Hugging Face
+RUN if [ -n "$HF_TOKEN" ]; then \
+        echo "🔐 Usando token de Hugging Face..."; \
+        python -c "from transformers import RobertaModel, RobertaTokenizer; \
+        from huggingface_hub import login; \
+        login(token=${HF_TOKEN}); \
+        print('📦 Descargando roberta-large...'); \
+        RobertaModel.from_pretrained('roberta-large'); \
+        RobertaTokenizer.from_pretrained('roberta-large'); \
+        print('📦 Descargando roberta-base...'); \
+        RobertaModel.from_pretrained('roberta-base'); \
+        RobertaTokenizer.from_pretrained('roberta-base'); \
+        print('✅ Modelos descargados')"; \
+    else \
+        echo "⚠️ HF_TOKEN no proporcionado..."; \
+        python -c "from transformers import RobertaModel, RobertaTokenizer; \
+        print('📦 Descargando roberta-large...'); \
+        RobertaModel.from_pretrained('roberta-large'); \
+        RobertaTokenizer.from_pretrained('roberta-large'); \
+        print('📦 Descargando roberta-base...'); \
+        RobertaModel.from_pretrained('roberta-base'); \
+        RobertaTokenizer.from_pretrained('roberta-base'); \
+        print('✅ Modelos descargados')"; \
+    fi
+
+# Crear directorio para modelos
+RUN mkdir -p /app/src/models/alignscore
+
+# Copiar código fuente
+COPY src /app/src
+
+# Descargar checkpoint de AlignScore DESPUÉS de copiar src
+RUN echo "📥 Descargando AlignScore-large.ckpt..." && \
+    curl -L -o /app/src/models/alignscore/AlignScore-large.ckpt \
+    https://huggingface.co/yzha/AlignScore/resolve/main/AlignScore-large.ckpt && \
+    echo "✅ AlignScore-large.ckpt descargado" && \
+    ls -lh /app/src/models/alignscore/AlignScore-large.ckpt
+
+# Exponer puerto
+EXPOSE 8080
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
+    CMD curl -f http://localhost:8080/docs || exit 1
+
+# Comando para Cloud Run
+CMD exec uvicorn src.api.metrics.server:app --host 0.0.0.0 --port ${PORT} --workers 1

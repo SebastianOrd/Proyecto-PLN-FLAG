@@ -1,0 +1,69 @@
+version: '3.8'
+
+services:
+  # API principal: Clasificación + Resumen (Python 3.11)
+  api-summary:
+    build:
+      context: .
+      dockerfile: Dockerfile.summary
+    container_name: biolaysum-api-summary
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./src:/app/src
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: uvicorn src.api.main:app --host 0.0.0.0 --port 8000 --reload
+    networks:
+      - biolaysum-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/docs"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # API de métricas (Python 3.10)
+  api-metrics:
+    build:
+      context: .
+      dockerfile: Dockerfile.metrics
+      args:
+        HF_TOKEN: ${HF_TOKEN}  # Lee desde .env o usa vacío
+    container_name: biolaysum-api-metrics
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./src:/app/src
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: uvicorn src.api.metrics.server:app --host 0.0.0.0 --port 8001 --reload
+    networks:
+      - biolaysum-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/docs"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Frontend Streamlit
+  streamlit:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    container_name: biolaysum-streamlit
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./src:/app/src
+    environment:
+      - PYTHONUNBUFFERED=1
+    depends_on:
+      - api-summary
+      - api-metrics
+    networks:
+      - biolaysum-network
+    command: streamlit run src/ui/app_streamlit.py --server.port=8501 --server.address=0.0.0.0
+
+networks:
+  biolaysum-network:
+    driver: bridge
