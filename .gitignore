@@ -19,3 +19,5 @@ AlignScore-large.ckpt
 src/models/classifier/sparse/classifier_sparse_ridge_calibrated.joblib
 venv310
 AlignScore
+*.safetensors
+*.joblib

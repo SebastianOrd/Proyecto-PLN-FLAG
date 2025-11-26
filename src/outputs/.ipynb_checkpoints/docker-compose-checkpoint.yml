@@ -9,10 +9,11 @@ services:
     container_name: biolaysum-api-summary
     ports:
       - "8000:8000"
+    volumes:
+      - ./src:/app/src
     environment:
       - PYTHONUNBUFFERED=1
-      - HF_HUB_OFFLINE=1
-    command: uvicorn src.api.main:app --host 0.0.0.0 --port 8000
+    command: uvicorn src.api.main:app --host 0.0.0.0 --port 8000 --reload
     networks:
       - biolaysum-network
     healthcheck:
@@ -20,28 +21,22 @@ services:
       interval: 30s
       timeout: 10s
       retries: 3
-    deploy:
-      resources:
-        limits:
-          cpus: "3.0"
-          memory: 12g
-    logging:              # ← ← ← AQUÍ
-      driver: json-file
-      options:
-        max-size: "50m"
-        max-file: "3"
+
   # API de métricas (Python 3.10)
   api-metrics:
     build:
       context: .
       dockerfile: Dockerfile.metrics
+      args:
+        HF_TOKEN: ${HF_TOKEN}  # Lee desde .env o usa vacío
     container_name: biolaysum-api-metrics
     ports:
       - "8001:8001"
+    volumes:
+      - ./src:/app/src
     environment:
       - PYTHONUNBUFFERED=1
-      - HF_HUB_OFFLINE=1
-    command: uvicorn src.api.metrics.server:app --host 0.0.0.0 --port 8001
+    command: uvicorn src.api.metrics.server:app --host 0.0.0.0 --port 8001 --reload
     networks:
       - biolaysum-network
     healthcheck:
@@ -49,16 +44,7 @@ services:
       interval: 30s
       timeout: 10s
       retries: 3
-    deploy:
-      resources:
-        limits:
-          cpus: "6.0"
-          memory: 12g
-    logging:
-      driver: json-file
-      options:
-        max-size: "50m"
-        max-file: "3"
+
   # Frontend Streamlit
   streamlit:
     build:
@@ -67,27 +53,17 @@ services:
     container_name: biolaysum-streamlit
     ports:
       - "8501:8501"
+    volumes:
+      - ./src:/app/src
     environment:
       - PYTHONUNBUFFERED=1
-      - HF_HUB_OFFLINE=1
     depends_on:
       - api-summary
       - api-metrics
     networks:
       - biolaysum-network
     command: streamlit run src/ui/app_streamlit.py --server.port=8501 --server.address=0.0.0.0
-    deploy:
-      resources:
-        limits:
-          cpus: "1.0"
-          memory: 2g
-    logging:
-      driver: json-file
-      options:
-        max-size: "50m"
-        max-file: "3"
+
 networks:
   biolaysum-network:
     driver: bridge
-volumes:
-  hf-cache:

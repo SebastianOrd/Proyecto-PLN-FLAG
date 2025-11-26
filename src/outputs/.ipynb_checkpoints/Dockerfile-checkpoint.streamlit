@@ -18,7 +18,6 @@ RUN pip install --no-cache-dir --upgrade pip && \
 
 # Copiar código fuente
 COPY src /app/src
-COPY modelos/clasificador/contextual /tmp
 
 # Exponer puerto de Streamlit
 EXPOSE 8501

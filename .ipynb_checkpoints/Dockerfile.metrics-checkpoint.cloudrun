@@ -1,10 +1,13 @@
-# Dockerfile.metrics - API de métricas (requiere Python 3.10)
 FROM python:3.10-slim
 
 # Build argument para el token de Hugging Face (opcional)
 ARG HF_TOKEN
 
 WORKDIR /app
+
+# Variables de entorno para Cloud Run
+ENV PORT=8080
+ENV PYTHONUNBUFFERED=1
 
 # Instalar dependencias del sistema
 RUN apt-get update && apt-get install -y \
@@ -19,7 +22,7 @@ RUN pip install --upgrade pip
 # Copiar requirements
 COPY src/api/metrics/requeriments_apiMetrics.txt ./requirements.txt
 
-# Instalar PyTorch CPU primero (antes de las otras deps)
+# Instalar PyTorch CPU primero
 RUN pip install --no-cache-dir torch==1.13.1+cpu torchvision==0.14.1+cpu \
     --index-url https://download.pytorch.org/whl/cpu
 
@@ -39,28 +42,28 @@ RUN git clone https://github.com/yuh-zha/AlignScore.git /tmp/AlignScore && \
     cd / && \
     rm -rf /tmp/AlignScore
 
-# Instalar modelo de spaCy (requerido por AlignScore)
+# Instalar modelo de spaCy
 RUN pip install --no-cache-dir \
     https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
 
-# Descargar recursos de NLTK necesarios para AlignScore
+# Descargar recursos de NLTK
 RUN python -c "import nltk; nltk.download('punkt_tab'); nltk.download('punkt')"
 
 # Pre-descargar modelos de Hugging Face
 RUN if [ -n "$HF_TOKEN" ]; then \
-        echo "🔐 Usando token de Hugging Face para descargar modelos..."; \
+        echo "🔐 Usando token de Hugging Face..."; \
         python -c "from transformers import RobertaModel, RobertaTokenizer; \
         from huggingface_hub import login; \
-        login(token='${HF_TOKEN}'); \
+        login(token=${HF_TOKEN}); \
         print('📦 Descargando roberta-large...'); \
         RobertaModel.from_pretrained('roberta-large'); \
         RobertaTokenizer.from_pretrained('roberta-large'); \
         print('📦 Descargando roberta-base...'); \
         RobertaModel.from_pretrained('roberta-base'); \
         RobertaTokenizer.from_pretrained('roberta-base'); \
-        print('✅ Modelos descargados exitosamente')"; \
+        print('✅ Modelos descargados')"; \
     else \
-        echo "⚠️ HF_TOKEN no proporcionado, descargando sin autenticación..."; \
+        echo "⚠️ HF_TOKEN no proporcionado..."; \
         python -c "from transformers import RobertaModel, RobertaTokenizer; \
         print('📦 Descargando roberta-large...'); \
         RobertaModel.from_pretrained('roberta-large'); \
@@ -71,25 +74,25 @@ RUN if [ -n "$HF_TOKEN" ]; then \
         print('✅ Modelos descargados')"; \
     fi
 
-# Copiar código fuente PRIMERO
+# Crear directorio para modelos
+RUN mkdir -p /app/src/models/alignscore
+
+# Copiar código fuente
 COPY src /app/src
 
-# Crear estructura de directorios para los modelos (por si no existe)
-#RUN mkdir -p /app/modelos/alignscore
-
-# Descargar checkpoint de AlignScore-large DESPUÉS de copiar src
-#RUN echo "📥 Descargando AlignScore-large.ckpt..." && \
-#    curl -L -o /app/modelos/alignscore/AlignScore-large.ckpt \
-#    https://huggingface.co/yzha/AlignScore/resolve/main/AlignScore-large.ckpt && \
-#    echo "✅ AlignScore-large.ckpt descargado" && \
-#    ls -lh /app/modelos/alignscore/AlignScore-large.ckpt
+# Descargar checkpoint de AlignScore DESPUÉS de copiar src
+RUN echo "📥 Descargando AlignScore-large.ckpt..." && \
+    curl -L -o /app/src/models/alignscore/AlignScore-large.ckpt \
+    https://huggingface.co/yzha/AlignScore/resolve/main/AlignScore-large.ckpt && \
+    echo "✅ AlignScore-large.ckpt descargado" && \
+    ls -lh /app/src/models/alignscore/AlignScore-large.ckpt
 
 # Exponer puerto
-EXPOSE 8001
+EXPOSE 8080
 
 # Health check
-HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
-    CMD curl -f http://localhost:8001/docs || exit 1
+HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
+    CMD curl -f http://localhost:8080/docs || exit 1
 
-# Comando por defecto
-CMD ["uvicorn", "src.api.metrics.server:app", "--host", "0.0.0.0", "--port", "8001"]
+# Comando para Cloud Run
+CMD exec uvicorn src.api.metrics.server:app --host 0.0.0.0 --port ${PORT} --workers 1
