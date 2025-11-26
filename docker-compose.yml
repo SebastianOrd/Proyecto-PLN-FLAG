@@ -72,6 +72,7 @@ services:
     environment:
       - PYTHONUNBUFFERED=1
       - HF_HUB_OFFLINE=1
+      - NGROK_AUTHTOKEN=tu_token_aquí
     depends_on:
       - api-summary
       - api-metrics
