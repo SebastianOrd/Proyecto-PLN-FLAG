@@ -5,7 +5,7 @@ import pandas as pd
 import textstat
 import time
 from .model_loader import bert_scorer, device
-
+import torch
 # -----------------------------------------------------------
 # UTILIDAD GENERAL
 # -----------------------------------------------------------
@@ -18,7 +18,19 @@ def safe_float(x):
         return 0.0
     return x
 
-
+def _to_list(x):
+    """
+    Normaliza preds/refs para aceptar:
+    - string suelto
+    - lista de strings
+    - pd.Series
+    """
+    if isinstance(x, pd.Series):
+        return x.fillna("").astype(str).tolist()
+    if isinstance(x, (list, tuple)):
+        return ["" if v is None else str(v) for v in x]
+    # caso escalar
+    return ["" if x is None else str(x)]
 # -----------------------------------------------------------
 # 1) LEGIBILIDAD (muy rápido)
 # -----------------------------------------------------------
@@ -84,20 +96,31 @@ def calcular_relevancia_simple(preds, refs):
 # -----------------------------------------------------------
 # Dejamos AlignScore aquí, comentado y listo para usar cuando tengas GPU o tiempo.
 #
-# from .model_loader import scorer_nli
-#
-# def calcular_factualidad_alignscore(preds, refs):
-#     if isinstance(preds, pd.Series):
-#         preds = preds.tolist()
-#     if isinstance(refs, pd.Series):
-#         refs = refs.tolist()
-#
-#     scores_nli = scorer_nli.score(contexts=refs, claims=preds)
-#     scores_nli = [safe_float(s) for s in scores_nli]
-#
-#     return {
-#         "mean_alignscore_nli": safe_float(np.mean(scores_nli)),
-#     }
+from .model_loader import scorer_nli
+
+def calcular_factualidad_alignscore(preds, refs):
+    preds_list = _to_list(preds)
+    refs_list = _to_list(refs)
+    # Seguridad: tamaños iguales
+    if len(preds_list) != len(refs_list):
+        n = min(len(preds_list), len(refs_list))
+        preds_list = preds_list[:n]
+        refs_list = refs_list[:n]
+
+    if not preds_list:
+        return {
+            "mean_alignscore_nli": 0.0,
+            "mean_alignscore_bin": 0.0,
+        }
+
+    with torch.no_grad():
+        scores_nli = scorer_nli.score(contexts=refs_list, claims=preds_list)
+        
+    scores_nli = [safe_float(s) for s in scores_nli]
+
+    return {
+        "mean_alignscore_nli": safe_float(np.mean(scores_nli)),
+    }
 
 
 # -----------------------------------------------------------
@@ -121,14 +144,14 @@ def calcular_metricas(article: str, summary: str):
     print(f"[METRICS] Relevancia (BERTScore) tardó {time.perf_counter() - t_rel0:.2f} s")
 
     # factualidad (desactivada a propósito)
-    # t_fact0 = time.perf_counter()
-    # factualidad = calcular_factualidad_alignscore(preds, refs)
-    # print(f"[METRICS] Factualidad tardó {time.perf_counter() - t_fact0:.2f} s")
+    t_fact0 = time.perf_counter()
+    factualidad = calcular_factualidad_alignscore(preds, refs)
+    print(f"[METRICS] Factualidad tardó {time.perf_counter() - t_fact0:.2f} s")
 
     print(f"[METRICS] TOTAL compute_metrics tardó {time.perf_counter() - t0:.2f} s")
 
     return {
         "legibilidad": legibilidad,
         "relevancia": relevancia,
-        # "factualidad": factualidad,   # ← listo para activar cuando quieras
+        "factualidad": factualidad,   # ← listo para activar cuando quieras
     }

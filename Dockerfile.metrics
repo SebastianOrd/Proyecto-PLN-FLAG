@@ -75,14 +75,14 @@ RUN if [ -n "$HF_TOKEN" ]; then \
 COPY src /app/src
 
 # Crear estructura de directorios para los modelos (por si no existe)
-#RUN mkdir -p /app/modelos/alignscore
+RUN mkdir -p /app/modelos/alignscore
 
 # Descargar checkpoint de AlignScore-large DESPUÉS de copiar src
-#RUN echo "📥 Descargando AlignScore-large.ckpt..." && \
-#    curl -L -o /app/modelos/alignscore/AlignScore-large.ckpt \
-#    https://huggingface.co/yzha/AlignScore/resolve/main/AlignScore-large.ckpt && \
-#    echo "✅ AlignScore-large.ckpt descargado" && \
-#    ls -lh /app/modelos/alignscore/AlignScore-large.ckpt
+RUN echo "📥 Descargando AlignScore-large.ckpt..." && \
+    curl -L -o /app/modelos/alignscore/AlignScore-large.ckpt \
+    https://huggingface.co/yzha/AlignScore/resolve/main/AlignScore-large.ckpt && \
+    echo "✅ AlignScore-large.ckpt descargado" && \
+    ls -lh /app/modelos/alignscore/AlignScore-large.ckpt
 
 # Exponer puerto
 EXPOSE 8001

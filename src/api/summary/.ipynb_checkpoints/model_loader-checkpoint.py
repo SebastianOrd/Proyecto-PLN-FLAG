@@ -53,7 +53,8 @@ print(f"🔍 Cargando modelo base...")
 
 model = AutoModelForCausalLM.from_pretrained(
     MODEL_DIR,
-    device_map="cpu",
+    torch_dtype=torch.float16,   # ← mitad de VRAM vs float32
+    device_map="cuda",
     trust_remote_code=True,
     local_files_only=True
 )

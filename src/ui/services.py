@@ -30,7 +30,6 @@ def call_api(texto: str) -> Tuple[Dict[str, Any] | None, str | None]:
 
         if r.status_code != 200:
             return None, f"Error al comunicarse con la API: {r.status_code}"
-
         data = r.json()
         if "error" in data:
             return None, data["error"]
@@ -56,7 +55,6 @@ def call_api_summary(texto: str) -> Tuple[str | None, str | None]:
 
         if r.status_code != 200:
             return None, f"Error al comunicarse con la API de resumen: {r.status_code}"
-
         data = r.json()
         if "error" in data:
             return None, data["error"]
@@ -85,7 +83,6 @@ def call_api_metrics(original: str, summary: str):
 
         if r.status_code != 200:
             return None, f"Error en API de métricas: {r.status_code}"
-
         data = r.json()
         return data, None
 
@@ -107,30 +104,43 @@ def call_api_summary_stream(text: str):
         json={"text": text},
         stream=True,
     ) as r:
+        if r.status_code == 429:
+            msg = r.text or "Servidor ocupado. Intenta nuevamente."
+            raise RuntimeError(msg)
         r.raise_for_status()
         for chunk in r.iter_content(chunk_size=None, decode_unicode=True):
             if chunk:
                 yield chunk
+                
 def call_api_metrics_stream(original: str, summary: str):
-
+    """
+    Consume el endpoint de streaming de métricas y va devolviendo
+    eventos JSON uno a uno.
+    """
     with requests.post(
         API_METRICS_STREAM_URL,
         json={"original_text": original, "summary_text": summary},
         stream=True,
     ) as r:
+        if r.status_code == 429:
+            msg = r.text or "Servidor ocupado. Intenta nuevamente."
+            raise RuntimeError(msg)
+            
         r.raise_for_status()
-
+        
         for raw in r.iter_lines(decode_unicode=True):
-
             if not raw:
-                continue  # ← IGNORAR líneas vacías
+                continue  # líneas vacías
 
             line = raw.strip()
             if not line:
-                continue  # ← IGNORAR whitespace
+                continue
 
-            if not line.startswith("{"):
-                print(f"[UI] Chunk ignorado (no JSON): {line}")
+            # <- AQUÍ: quitar el prefijo 'data:' si viene en formato SSE
+            if line.startswith("data:"):
+                line = line[len("data:"):].strip()
+
+            if not line:
                 continue
 
             try:

@@ -1,7 +1,7 @@
 from fastapi import APIRouter, HTTPException
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
-
+import threading  
 import json
 import time
 import pandas as pd
@@ -10,10 +10,12 @@ from .inference import (
     calcular_metricas,
     calcular_legibilidad_textstat,
     calcular_relevancia_simple,
+    calcular_factualidad_alignscore
 )
 
 router = APIRouter(prefix="/metrics", tags=["Metrics"])
 
+metrics_lock = threading.Lock()
 
 class MetricsInput(BaseModel):
     article: str
@@ -44,37 +46,51 @@ def metrics_stream(payload: MetricsInput):
     summary = payload.summary or ""
 
     def gen():
-
-        # 1) Legibilidad
-        t0 = time.perf_counter()
-        leg_data = calcular_legibilidad_textstat(pd.Series([summary]))
-        dt = time.perf_counter() - t0
-        print(f"[METRICS-STREAM] Legibilidad tardó {dt:.2f} s")
-
-        yield (
-            "data: " + json.dumps({
-                "type": "legibilidad",
-                "data": leg_data
-            }) + "\n\n"
-        )
-
-        # 2) Relevancia
-        t1 = time.perf_counter()
-        rel_data = calcular_relevancia_simple(
-            pd.Series([summary]),
-            pd.Series([original])
-        )
-        dt = time.perf_counter() - t1
-        print(f"[METRICS-STREAM] Relevancia tardó {dt:.2f} s")
-
-        yield (
-            "data: " + json.dumps({
-                "type": "relevancia",
-                "data": rel_data
-            }) + "\n\n"
-        )
-
-        # 3) Señal de finalización
-        yield "data: " + json.dumps({"type": "done"}) + "\n\n"
-
+        try:
+            # 1) Legibilidad
+            t0 = time.perf_counter()
+            leg_data = calcular_legibilidad_textstat(pd.Series([summary]))
+            dt = time.perf_counter() - t0
+            print(f"[METRICS-STREAM] Legibilidad tardó {dt:.2f} s")
+    
+            yield (
+                "data: " + json.dumps({
+                    "type": "legibilidad",
+                    "data": leg_data
+                }) + "\n\n"
+            )
+    
+            # 2) Relevancia
+            t1 = time.perf_counter()
+            rel_data = calcular_relevancia_simple(
+                pd.Series([summary]),
+                pd.Series([original])
+            )
+            dt = time.perf_counter() - t1
+            print(f"[METRICS-STREAM] Relevancia tardó {dt:.2f} s")
+    
+            yield (
+                "data: " + json.dumps({
+                    "type": "relevancia",
+                    "data": rel_data
+                }) + "\n\n"
+            )
+    
+            # 3) Factualidad
+            dt = time.perf_counter() - t2
+            print(f"[METRICS-STREAM] AlignScore tardó {dt:.2f} s")
+    
+            yield (
+                "data: " + json.dumps({
+                    "type": "factualidad",
+                    "data": fact_data
+                }) + "\n\n"
+            )
+    
+            # 4) Señal de finalización
+            yield "data: " + json.dumps({"type": "done"}) + "\n\n"
+        finally:
+            # Muy importante liberar el lock aunque haya error
+            metrics_lock.release()
+        
     return StreamingResponse(gen(), media_type="text/event-stream")
