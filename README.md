@@ -1,8 +1,8 @@
-# Generación automática de resúmenes en lenguaje sencillo en salud
+# BioLaySumm
 
 Este repositorio contiene el código, datos y documentación del artículo de tesis de maestría "Generación automática de resúmenes en lenguaje sencillo en salud".
 
-El objetivo central es cerrar la brecha de comprensión en salud mediante la automatización eficiente de la generación de textos accesibles, validando la viabilidad de modelos de bajo costo computacional.
+El objetivo central es cerrar la brecha de comprensión en salud mediante la automatización eficiente de la generación de textos accesibles, validando la viabilidad de modelos de bajo costo computacional. El sistema incluye un pipeline de clasificación, generación y evaluación automática de calidad (Factualidad, Relevancia y Legibilidad), expuesto a través de APIs REST y una interfaz gráfica interactiva.
 
 Resumen del Proyecto
 La alfabetización en salud (\textit{Health Literacy}) es un desafío global, impactando negativamente la comprensión de tratamientos y la toma de decisiones informadas. La producción manual de Resúmenes en Lenguaje Sencillo (PLS) es costosa e inescalable.
@@ -29,65 +29,274 @@ Cuantificar el impacto de estrategias de \textit{prompting} y razonamiento (CoT)
 
 Definir y aplicar un Criterio de Puntuación Compuesta (CPSC) que priorice la utilidad clínica (factualidad y legibilidad) para la evaluacion todos los modelos.
 
-## Estructura del Repositorio
-La estructura del repositorio se diseñó para la trazabilidad y reproducibilidad del pipeline de PNL.
+---
 
+## Tabla de Contenidos
+
+1. [Características Principales](#-características-principales)
+2. [Arquitectura del Sistema](#-arquitectura-del-sistema)
+3. [Estructura del Proyecto](#-estructura-del-proyecto)
+4. [Requisitos](#-requisitos)
+5. [Instalación y Despliegue](#-instalación-y-despliegue)
+    - [Opción 1: Docker (Recomendado)](#opción-1-docker-recomendado)
+    - [Opción 2: Instalación Local](#opción-2-instalación-local)
+    - [Despliegue en Cloud Run](#despliegue-en-google-cloud-run)
+6. [Uso](#-uso)
+7. [Modelos y Resultados](#-modelos-y-resultados)
+8. [Equipo](#-equipo)
+
+---
+
+## Características Principales
+
+* **Pipeline de 2 Etapas:**
+    * **Clasificación:** Distingue entre textos técnicos y resúmenes simples (Precisión >99.9% con ELECTRA/Ridge).
+    * **Generación:** Produce resúmenes estructurados (*Plain Title, Rationale, Trial Design, Results*) usando LLMs adaptados.
+* **Modelos Eficientes:** Fine-tuning con QLoRA sobre DeepSeek-Coder 1.3B, Llama 3.2, Gemma 3 y Qwen 3.
+* **Evaluación Integral:**
+    * *Factualidad:* AlignScore (NLI-based).
+    * *Relevancia:* BERTScore.
+    * *Legibilidad:* Flesch-Kincaid, Gunning Fog, SMOG.
+* **Interfaz Interactiva:** UI en Streamlit con generación en streaming (token a token).
+* **Arquitectura de Microservicios:** APIs separadas para inferencia (PyTorch/CUDA) y métricas pesadas.
+
+---
+
+## Arquitectura del Sistema
+
+El sistema se compone de tres servicios contenerizados:
+
+```mermaid
+graph TD
+    User((Usuario)) --> UI[Streamlit UI :8501]
+    UI --> API_Sum[API Summary :8000]
+    UI --> API_Met[API Metrics :8001]
+    
+    subgraph "API Summary (Python 3.11)"
+    API_Sum --> Class[Clasificador]
+    API_Sum --> Gen[LLM Generador]
+    end
+    
+    subgraph "API Metrics (Python 3.10)"
+    API_Met --> Eval[AlignScore / BERTScore / Readability]
+    end
 ```
+
+
+## Arquitectura del Sistema
+
+El repositorio sigue una estructura modular estricta para garantizar la reproducibilidad:
+```text
 PROYECTO-PLN-FLAG/
-├── datos/
-│   ├── raw/                     # Corpus original (e.g., Cochrane, BioLaySumm)
-│   └── pre-processed/           # Conjuntos limpios, tokenizados o particionados
-├── docs/                        # Documentación y artículo final de tesis
-├── modelos/                     # Checkpoints de LLMs ajustados (QLoRA) y clasificadores
-├── notebooks/                   # Entorno de experimentación y desarrollo (Jupyter)
-│   ├── clasificacion/           # Notebooks para el clasificador TF-IDF y ELECTRA
-│   ├── finetuning/              # Notebooks para el ajuste QLoRA de cada modelo (Gemma, Llama, Qwen)
-│   └── evaluacion/              # Notebooks para cálculo de métricas (BERTScore, AlignScore, CPSC)
-├── resultados/                  # Resultados tabulares y cualitativos finales
-│   ├── metricas/                # Tablas finales para el artículo (Tablas 5 y 6)
-│   ├── resumenes/               # Resúmenes generados por los modelos (análisis cualitativo)
-│   └── logs/                    # Logs de pérdida (loss logs) del entrenamiento
-├── src/                         # Código modular y scripts de despliegue
-└── requirements.txt             # Dependencias del proyecto
+├── datos/                      # Datos del proyecto
+│   ├── raw/                    # Corpus original (Cochrane, BioLaySumm)
+│   └── pre-processed/          # Datos limpios y particionados (ej. data_finetuning_test.csv)
+├── modelos/                    # Artefactos de modelos (descargados/entrenados)
+│   ├── deepseek-coder-merged/  # LLM Fine-tuned final
+│   ├── clasificador/           # Modelos Ridge/ELECTRA (.joblib)
+│   └── alignscore/             # Checkpoints de evaluación
+├── notebooks/                  # Experimentación y desarrollo
+│   ├── data_prep/              # Limpieza y análisis exploratorio
+│   ├── finetuning/             # Entrenamiento QLoRA (ej. entrenamiento_DeepSeek13.ipynb)
+│   ├── inferencia/             # Scripts de generación y Merge de adaptadores
+│   ├── evaluacion/             # Cálculo de métricas (AlignScore, BERTScore)
+│   └── clasificacion/          # Entrenamiento de clasificadores
+├── src/                        # Código fuente de producción
+│   ├── api/                    # APIs con FastAPI
+│   │   ├── summary/            # Lógica de inferencia y streaming
+│   │   └── metrics/            # Lógica de evaluación (microservicio separado)
+│   └── ui/                     # Interfaz de usuario (Streamlit)
+├── resultados/                 # Logs de entrenamiento y CSVs de métricas
+├── docker-compose.yml          # Orquestación de servicios
+├── Dockerfile.* # Definiciones de contenedores
+├── start.sh / start.bat        # Scripts de inicio rápido
+└── README.md                   # Documentación
 ```
 
-## Requisitos e Instalación
-Proyecto probado con Python 3.12 y GPU NVIDIA.
+## Requisitos
 
-### 1. Clonar e Instalar
+* **Docker:** Docker Desktop 4.0+ y Docker Compose V2.
+* **Hardware (Recomendado):**
+    * **RAM:** 16GB mínimo.
+    * **GPU:** NVIDIA con soporte CUDA (opcional, acelera inferencia).
+    * **Espacio en disco:** ~20GB (para modelos).
 
-Bash
-#### 1. Clonar el repositorio
+---
+
+## Instalación y Despliegue
+
+### Opción 1: Docker (Recomendado)
+Esta opción maneja automáticamente las diferentes versiones de Python requeridas entre servicios.
+
+1.  **Clonar el repositorio:**
+    ```bash
+    git clone https://github.com/SebastianOrd/Proyecto-PLN-FLAG.git
+    cd PROYECTO-PLN-FLAG
+    ```
+
+2.  **Iniciar servicios:**
+    * **Windows:** Ejecutar `start.bat`
+    * **Linux/Mac:**
+        ```bash
+        chmod +x start.sh
+        ./start.sh
+        ```
+
+3.  **Acceder:**
+    * **Frontend:** [http://localhost:8501](http://localhost:8501)
+    * **Docs API Summary:** [http://localhost:8000/docs](http://localhost:8000/docs)
+    * **Docs API Metrics:** [http://localhost:8001/docs](http://localhost:8001/docs)
+
+### Opción 2: Instalación Local
+> ⚠️ **Nota:** Requiere gestionar dos entornos virtuales distintos (Python 3.11 para Summary/UI y Python 3.10 para Metrics).
+
+**1. Instalar dependencias:**
+
+```bash
+# Entorno 1: Summary & UI (Python 3.11)
+python3.11 -m venv venv-main
+source venv-main/bin/activate
+pip install -r src/api/requeriments_summaryAPI.txt
+
+# Entorno 2: Metrics (Python 3.10)
+python3.10 -m venv venv-metrics
+source venv-metrics/bin/activate
+pip install -r src/api/metrics/requeriments_apiMetrics.txt
 ```
-git clone https://[repositorio]
-cd PROYECTO-PLN-FLAG
+
+**2. Ejecutar Componentes**
+
+Lanzar cada servicio en una **terminal separada**:
+
+```bash
+# Terminal 1: API Principal (Summary)
+uvicorn src.api.main:app --port 8000
+
+# Terminal 2: API de Métricas
+uvicorn src.api.metrics.server:app --port 8001
+
+# Terminal 3: Interfaz de Usuario (Streamlit)
+streamlit run src/ui/app_streamlit.py
 ```
-#### 2. Crear y activar entorno virtual (Recomendamos Mamba/Conda o venv)
+
+### Opción 3: Cloud
+
+Lanzar cada servicio en una **terminal separada**:
+
+```bash
+# Configurar proyecto y desplegar
+./deploy-cloudrun.sh  # (o .ps1 en Windows)
 ```
-python3 -m venv venv
-source venv/bin/activate
+
+## Uso
+
+### Interfaz web
+1.  Ingresa a [http://localhost:8501](http://localhost:8501).
+2. En la seccion Resumen individual
+    2.  Pega un **Abstract biomédico** en el área de texto.
+    3.  Haz clic en **"Generar resumen"**.
+    4.  El sistema clasificará el texto y empieza generar el resumen.
+    5.  Cuando el resumen se genere, se habilita **Calcular métricas del resumen**
+    6.  Se generan las métricas de legibilidad, relevancia y factuabilidad
+3. en la seccion explorar resultados
+Puedes ver todos los resuemens generados, seleccionar laguno ver el  ttexto inciial, el reusmen y sus metricas
+
+
+
+### API REST
+
+#### Clasificación de texto (Científico vs. PLS)
+Ejemplo mediante `cURL`:
+
+```bash
+curl -X POST "http://localhost:8000/process" \
+     -H "Content-Type: application/json" \
+     -d '{
+           "text": "Background: Acute myocardial infarction (AMI) is a major cause of morbidity and mortality worldwide. Objective: To evaluate the efficacy of..."
+         }'
 ```
-#### 3. Instalar dependencias
 
-es necesario recalcar que hay varios requirements.txt debido a que se necesitaron entornos diferentes, por ejemplo alignscore exige que sea un entorno python 3.10, y el entrenamiento de los modelos se realizo en python 3.12
+Respuesta esperada:
+
+```json
+{
+  "label": "Scientific",
+  "score": 0.9998,
+  "processing_time": 0.045
+}
 ```
-pip install -r requirements.txt
+
+#### Generación de resumen en streaming
+Ejemplo mediante `cURL`:
+
+```bash
+curl -X POST "http://localhost:8000/summary/stream/" \
+     -H "Content-Type: application/json" \
+     -d '{
+           "text": "Methods: We conducted a randomized controlled trial with 500 patients...",
+           "model_config": {
+             "temperature": 0.2,
+             "max_tokens": 512
+           }
+         }'
 ```
-### 2. Uso y Reproducción
+Respuesta esperada:
 
-Para ejecutar el pipeline y reproducir los resultados:
+```plaintext
+data: {"token": " **Plain"}
+data: {"token": " Title**"}
+data: {"token": ":"}
+data: {"token": " New"}
+...
+```
 
-Exploración y Preprocesamiento: Ejecutar los notebooks en notebooks/data_prep/.
+#### Cálculo de Métricas de Calidad
+Ejemplo para generar un resumen mediante `cURL`:
 
-Clasificación: Entrenar los clasificadores dispersos y contextuales usando notebooks/clasificacion/.
+```bash
+curl -X POST "http://localhost:8001/metrics" \
+     -H "Content-Type: application/json" \
+     -d '{
+           "original_text": "The randomized control trial demonstrated a significant reduction in...",
+           "summary_text": "This study showed that the new medicine helps reduce symptoms..."
+         }'
+```
 
-Generación de PLS (QLoRA): Ejecutar los notebooks en notebooks/finetuning/ para entrenar los LLMs y luego los de notebooks/inferencia/ para generar los resúmenes con diferentes estrategias de prompting (CoT/OPT).
+Respuesta esperada:
+```json
+{
+  "factual_consistency": {
+    "alignscore": 0.645
+  },
+  "relevance": {
+    "bertscore_f1": 0.848
+  },
+  "readability": {
+    "flesch_reading_ease": 65.4,
+    "flesch_kincaid_grade": 8.2
+  }
+}
+```
 
-Evaluación: Ejecutar notebooks/evaluacion/ para calcular todas las métricas y el CPSC.
 
-## Equipo de Trabajo
+## Modelos y Resultados
 
-- Brayan Sthefen Gomez Salamanca
-- Juan Sebastian Ordoñez Acuña 
-- Maria Alejandra Rojas Garzon  
-- Hainer Jair Torrenegra Jimenez
+El sistema fue evaluado comparando múltiples LLMs ligeros. El mejor desempeño se obtuvo con **DeepSeek-Coder 1.3B** usando Optimized Prompting.
+
+| Modelo | Estrategia | BERTScore (F1) | AlignScore (Factualidad) | Legibilidad (FRE) |
+| :--- | :---: | :---: | :---: | :---: |
+| **DeepSeek-Coder 1.3B** | **OPT** | **0.848** | **0.646** | **56.9** |
+| Llama 3.2 1B | OPT | 0.858 | 0.468 | 51.7 |
+| Gemma 3 1B | OPT | 0.856 | 0.474 | 51.0 |
+| GPT-4o (Referencia) | - | - | 0.820 | 81.9 |
+
+
+## Equipo
+
+Proyecto desarrollado como parte de la **Maestría en Inteligencia Artificial**, Universidad de los Andes.
+
+* Brayan Sthefen Gomez Salamanca
+* Juan Sebastian Ordoñez Acuña
+* Maria Alejandra Rojas Garzon
+* Hainer Jair Torrenegra Jimenez
+
