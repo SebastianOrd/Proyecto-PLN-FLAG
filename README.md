@@ -4,14 +4,14 @@ Este repositorio contiene el código, datos y documentación del artículo de te
 
 El objetivo central es cerrar la brecha de comprensión en salud mediante la automatización eficiente de la generación de textos accesibles, validando la viabilidad de modelos de bajo costo computacional. El sistema incluye un pipeline de clasificación, generación y evaluación automática de calidad (Factualidad, Relevancia y Legibilidad), expuesto a través de APIs REST y una interfaz gráfica interactiva.
 
-Resumen del Proyecto
+### Resumen del Proyecto
 La alfabetización en salud (\textit{Health Literacy}) es un desafío global, impactando negativamente la comprensión de tratamientos y la toma de decisiones informadas. La producción manual de Resúmenes en Lenguaje Sencillo (PLS) es costosa e inescalable.
 
 Este proyecto aborda el problema mediante un pipeline integral de dos etapas:
 
-Clasificación: Discriminación automática entre textos científicos y PLS.
+- Clasificación: Discriminación automática entre textos científicos y PLS.
 
-Generación de PLS: Ajuste fino (\textit{fine-tuning}) de Modelos de Lenguaje Grandes (LLMs) de código abierto y tamaño reducido (<3B) utilizando QLoRA y estrategias de razonamiento (\textit{Chain-of-Thought}), enfocándose en la eficiencia y la portabilidad en entornos de hardware limitado.
+- Generación de PLS: Ajuste fino (\textit{fine-tuning}) de Modelos de Lenguaje Grandes (LLMs) de código abierto y tamaño reducido (<3B) utilizando QLoRA y estrategias de razonamiento (\textit{Chain-of-Thought}), enfocándose en la eficiencia y la portabilidad en entornos de hardware limitado.
 
 La evaluación se realiza mediante un Criterio de Puntuación Compuesta (CPSC) que combina Factualidad (AlignScore), Legibilidad (Flesch y afines) y Relevancia (BERTScore). Los resultados demuestran que los modelos pequeños son competitivos en factualidad, pero la legibilidad sigue siendo el principal desafío.
 
