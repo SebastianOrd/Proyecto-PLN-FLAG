@@ -193,11 +193,11 @@ Lanzar cada servicio en una **terminal separada**:
 ### Interfaz web
 1.  Ingresa a [http://localhost:8501](http://localhost:8501).
 2. En la seccion Resumen individual
-    2.  Pega un **Abstract biomédico** en el área de texto.
-    3.  Haz clic en **"Generar resumen"**.
-    4.  El sistema clasificará el texto y empieza generar el resumen.
-    5.  Cuando el resumen se genere, se habilita **Calcular métricas del resumen**
-    6.  Se generan las métricas de legibilidad, relevancia y factuabilidad
+    - Pega un **Abstract biomédico** en el área de texto.
+    - Haz clic en **"Generar resumen"**.
+    - El sistema clasificará el texto y empieza generar el resumen.
+    - Cuando el resumen se genere, se habilita **Calcular métricas del resumen**
+    - Se generan las métricas de legibilidad, relevancia y factuabilidad
 3. en la seccion explorar resultados
 Puedes ver todos los resuemens generados, seleccionar laguno ver el  ttexto inciial, el reusmen y sus metricas
 
