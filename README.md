@@ -198,8 +198,8 @@ Lanzar cada servicio en una **terminal separada**:
     - El sistema clasificará el texto y empieza generar el resumen.
     - Cuando el resumen se genere, se habilita **Calcular métricas del resumen**
     - Se generan las métricas de legibilidad, relevancia y factuabilidad
-3. en la seccion explorar resultados
-Puedes ver todos los resuemens generados, seleccionar laguno ver el  ttexto inciial, el reusmen y sus metricas
+3. En la seccion explorar resultados
+    - Puedes ver todos los resuemens generados, seleccionar laguno ver el  ttexto inciial, el reusmen y sus metricas
 
 
 
